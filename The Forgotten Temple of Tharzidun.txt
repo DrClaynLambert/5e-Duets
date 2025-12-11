@@ -1,0 +1,4607 @@
+CAMPAIGN MODULE WG 4 
+
+THE FORGOTTEN TEMPLE 
+
+OF THARIZDUN 
+
+by Gary Gygax 
+
+
+
+AN ADVENTURE SET ON GREYHAWK'S 
+WORLD FOR CHARACTER LEVELS 5-10 
+
+
+This special module is a combined wilderness and dungeon adventure scenario. It contains background 
+information, referees 
+notes.encounter keys.outdoor and dungeon level maps, and new monsters and treasures. While it is 
+designed fo/nfer/'ace w/fAi THE 
+LOST CAVERNS OF TSOJCANTH. this module is capable of standing alone. L//rewjse, while it is placed 
+within^^rwhawk 
+Campaign, it can easily be adapted to play in any individual campaign which employs the ADVANCED 
+DUNGEONS & DRAGONS 
+game system. 
+
+
+(c)1982 TSR Hobbies, Inc. All rights reserved. 
+
+
+PRINTED IN U.S.A. 
+ISBN 0-88038-002-0 
+
+
+
+
+
+£HTSR! 
+
+TSR Hobbw*. Inc. 
+
+POB 756 
+
+Lake Geneva. 
+
+WIS3I47 
+
+TSR Hobbies (UK) Lid 
+
+The Mill. Raihmore Rood 
+Cambridge CBI4AD 
+
+United Kingdom 
+
+
+
+
+(c) I9M tSI Mkn K " U Il>" tfj M 
+
+
+9065 
+
+
+
+
+
+
+
+
+
+
+
+CAMPAIGN MODULE WG 4 
+
+THE FORGOTTEN TEMPLE 
+OF THARIZDUN 
+
+by Gary Gygax 
+
+
+
+AN ADVENTURE SET ON GREYHAWK'S 
+WORLD FOR CHARACTER LEVELS 5-10 
+
+This special module is a combined wilderness and dungeon adventure scenario. It contains background 
+information, referee's 
+notes, encounter keys, outdoor and dungeon level maps, and new monsters and treasures. While it is 
+designed to interface with 
+THE LOST CAVERNS OF TSOJCANTH, this module is capable of standing alone.Likewise,while it is placed 
+withinthe Greyhawk 
+Campaign, it can easily be adapted to play in any individual campaign which employs the ADVANCED 
+DUNGEONS & DRAGONS '* 
+game system. 
+
+(r)1982 TSR Hobbles, Inc. All rights reserved. 
+
+
+(c) ISM TSR Routes. tac Ml Rtflrts Resented 
+
+
+
+TSR Hobbies, Inc 
+
+TSR Hobbies (UK) Lid 
+
+POB 756 
+
+Thp Mill. Rathmore Road 
+
+Lake Geneva, 
+
+Cambridge CB14AD 
+
+W153147 
+
+United Kingdom 
+
+
+PRINTED IN U.S.A. 
+ISBN 0-86038-002-0 
+
+
+9065 
+
+
+
+
+Distributed to the book trade In the United States by Random House, Inc. and In Canada by Random 
+House of Canada, Ltd. 
+
+Distributed to the toy and hobby trade by regional distributors. 
+
+ADVANCED DUNGEONS & DRAGONS and ADVANCED D&D are trademarks owned by TSR Hobbies, Inc. 
+
+
+This module Is protected under the copyright laws of the United States of America. Any reproduction or 
+other unauthorized use of the material or artwork 
+contained herein is prohibited without the express written permission of TSR Hobbles, Inc. 
+
+
+
+THE FORGOTTEN TEMPLE OF THARIZDUN 
+INTRODUCTION 
+
+
+The Temple was built in a previous age. a secret place of 
+worship to Tharizdun, He of Eternal Darkness. It drew the most 
+wicked persons to it. and the cult flourished for generations, 
+sending out its minions from time to time to enact some horri 
+ble deed upon the lands around. However, a great battle even 
+tually took place between Tharizdun and those opposed to his 
+evil. Unable to destroy him, they were strong enough to over 
+come his power and imprison him somewhere, by means none 
+have ever been able to discover. Thus Tharizdun disappeared 
+from the face of the earth, and from all of the other known 
+planes, and has not been seen again since. 
+
+After a time his servants returned again to the Temple, desert 
+ed as it was of any manifestation of their deity. Amongst these 
+wicked folk were many powerful magic-users and clerics. All 
+sought with utmost endeavor to discern what had happened to 
+Tharizdun, so that he could be freed and returned to rule over 
+them once again. All attempts were in vain, although the div 
+inations and seekings did reveal to these servants of Eternal 
+Darkness that a "Black Cyst" existed below the Temple. By 
+physical work and magical means they delved downward to 
+reach the Black Cyst. What they discovered there dismayed 
+and disheartened them. In the hemisphere of black needlerock 
+(floating as if by levitation) a huge form could be seen. Was this 
+the physical manifestation of Tharizdun? None could tell. The 
+misty form was black and indistinct and enclosed in vaporous 
+purple energy as well. No ritual, no spell, no magic could 
+pierce the enigma. As time passed, the seekers ritualized their 
+attempts to determine if this was their imprisoned deity. An 
+altar of black needlerock was constructed directly under the 
+12' long form so that it seemed to rest upon the stone. As 
+
+
+generations passed, various other things necessary to survival 
+in the Black Cysl were formalized into a paeon of lament and 
+worship for Tharizdun, and endless services to awaken the 
+being were conducted by route. Then, as time continued to 
+pass, even this ritual grew stale and meaningless. The clerics 
+of Tharizdun began to pilfer the hoard of beautiful gems sacri 
+ficed to him by earlier servants - 333 gems of utmost value, 
+ranging in worth from 5,000 to 50,000 gold pieces each. Re 
+placing these jewels with stones of much less value, the former 
+servants of this deity slipped away with their great wealth to 
+serve other gods and wreak evil elsewhere. 
+
+In the end only a handful of faithful clerics remained to repeat 
+the daily ritual of attempted awakening. Some of this handful 
+were slain by monsters, others eventually grew old and died. 
+The last High Priest, alone, wandered off into the place re 
+served for his remains in the dungeon, for alone he was unable 
+to take his proper place in the Undertemple. Thus, a century 
+ago, the last servant of Tharizdun died, and the Temple was 
+without inhabitant of human sort. 
+
+Various wandering monsters eventually used the Temple as a 
+lair for a time. Some moved on, some descended into the 
+depths of the place, some were slain as is the wont of such 
+creatures. Already dim in the recollection of humankind for 
+decades, the Temple was forgotten by all but a few sages and 
+savants generations before the last of its clerics was dead. 
+Those creatures which dwelt in it from time to time knew not its 
+name or purpose. The place was truly The Forgotten Temple of 
+Tharizdun, and until exploring adventurers deem it otherwise, 
+it will remain so. 
+
+
+BACKGROUND FOR THE DUNGEON MASTER 
+
+
+While seeking the LOST CAVERNS OF TSOJCANTH, your 
+party discovered a sheltered valley amidst the rugged peaks to 
+the east. This peaceful, wooded depression proved to be home 
+to numerous gnomes. Taking advantage of the respite such a 
+haven offered, all of you elected to establish friendly relations 
+with these doughty demi-humans, accept their hospitality, and 
+enjoy the comforts of Gnome Vale. In addition to their 
+hospitality, cautious though it may have been at times, the 
+gnomes have provided aid of various sorts and have proved 
+skillful in trade as well. Both sides have benefited by the 
+relationship, although all of you concur that your group owes 
+these good folk much for their friendliness in this harsh and 
+hostile mountain range. 
+
+Because of the special relationship which has developed 
+between your group and these demi-humans, their scarred old 
+lord, Gwaylar, has invited you to a feast in his Granite Hall. 
+There, after much eating and quaffing of gnomish ale. Laird 
+Gwaylar pounds his flagon on the trestle and the hall becomes 
+silent. 
+
+"This feast is in your honor. Humans, because such friends as 
+you are rare hereabouts. Just as you have welcomed our fair 
+valley as a haven, so too have you been greeted by the 
+Uvalnoniz, our Gnomish clan as you would call it, for our own 
+reasons. It is not meet to speak it, but as the Laird, I must so 
+
+
+say. Despite our warlike clansgnomes, our valley is often 
+troubled by attacks. While you have not experienced such a 
+raid, we feel that one is imminent. We wish to forestall such an 
+incursion, for each time the noblink horde strikes, we suffer 
+many losses, though each time we slay these creatures by the 
+score and they run howling back west..." Here Laird Gwaylar 
+trails off. While you have never seen an embarrassed gnome, 
+the look upon the face of the clan leader seems to convey a 
+great deal of discomfort at having to admit that he and his folk 
+need human assistance. 
+
+"Noblink are norkers in human speech, aren't they?," one of 
+you asks. Before any answer can be made, all of you seem to 
+speak at once, virtually shouting assurances that nothing 
+would please you more than seeking out and slaying a tribe of 
+such vile humanoids as norkers. 
+
+"Lest you think us nigglings," interjects Laird Gwaylar in a 
+commanding basso voice quite unusual in a gnome," be 
+warned that while the noblink form the bulk of the scum, they 
+are always accompanied by fiercer things - now trolls, again 
+ogres, last time a pair of hill giants! Our heroes must fight these 
+monsters, and so the losses occur. Your quest will not be for a 
+raiding band of mere norkers as you call them, but for these 
+creatures and the thing which commands them forth." 
+
+
+3 
+
+
+
+
+
+About two years prior to the coming of the adventurers about 
+to descend upon the place, a great mountain giant discovered 
+the Temple. Residing in it was a band of puny norkers. Being of 
+unusual mental ability, the giant chose to enlist these huma 
+noids as servants rather than slay and eat a dozen or so and 
+chase off the rest. The norkers were surprised and delighted at 
+their good fortune. Expedient servitude soon became willing 
+service as these humanoids learned how beneficial it was to 
+have a master as powerful as the mountain giant. The giant 
+used his ability to summon and control other monsters to build 
+a secure lair for himself and his servants. The norkers likewise 
+sent out word that here was a place where their fellows could 
+dwell safely, with plenty of opportunity for fighting and killing, 
+and looting too. The Temple now houses a community of 
+monsters based around this same mountain giant, the lord and 
+master of the upper and lower levels of the place. By raiding 
+and by parting with some coins in payment for supplies 
+brought to the Temple by humanoid bands and other giants, 
+he has established what he believes is as secure a lair, as 
+comfortable a stronghold, as any giant could ever hope for. 
+
+The norkers occasionally raid Gnome Vale for food: game, 
+sheep, gnomes, fruit and produce, whatever. The larger mons 
+ters accompany them to see that they go and return properly 
+and to help carry the loot as well. The mountain giant, Groorg, 
+seldom ventures forth anymore, as he has many minions to do 
+
+
+his bidding. It is not exactly that he has become lazy orfearful, 
+it is that he has turned his attention towards the dungeon 
+beneath the temple. Treasure has been found there, and every 
+so often Groorg and some of his powerful companions will 
+venture into its depths to seek out more wealth for the moun 
+tain giant's cache of loot. Meanwhile, he enjoys his leisure, 
+with many at his beck and call to serve his needs. The weakest 
+of his forces, norkers and gnolls, serve as sentries and front 
+line troops. Ogres and trolls are at hand to assist with more 
+difficult opponents. Groorg himself will usually not go into 
+battle above, but he is ready and willing to defend his lower 
+domain, for to lose it means the loss of an easy existance, if not 
+death. 
+
+Each of you looks at the other. Smiles spread and heads nod in 
+silent assent. Your party is, in reality, far too strong for a mere 
+band of petty humanoids, but such creatures and a powerful 
+leader - that indeed is worthy of you! This offers promise of a 
+rich treasure in addition to assisting friends. What more could 
+be asked of adventurers such as yourselves? What more 
+indeed! 
+
+"TO YOUR HEALTH!", you shout in unison, as your tankards 
+are raised. "TO YOUR LONG AND PROSPEROUS RULE! WE 
+SET OFF AT DAWN!" 
+
+
+NOTES FOR THE DUNGEON MASTER 
+
+
+Beginning: The party will be briefed and then set off along a 
+faint trail leading southwest. Even the best of players will have 
+to spend about a week searching to find the object of their 
+quest, the lair of their foe, THE FORGOTTEN TEMPLE OF 
+THARIZDUN. Random and specific encounters in the wilder 
+ness are detailed so as to allow fast and easy handling of this 
+portion of the adventure. Once the initial goal has been at 
+tained, the party will have to force entry into the TEMPLE and 
+then penetrate its depths. This portion of the adventure has 
+two levels of play. Players lacking sufficient experience might 
+well discover only the obvious portions of the place, cleanse it 
+of evil, and return to Gnome Vale thinking that they have done 
+well. Truly skilled players will, sooner or later, discover the 
+secret rooms where the remainder of paraphernalia of the 
+priests of Tharizdun lies waiting, enter the shaft, and go on to 
+discover the precincts beyond. 
+
+Tracking: If there is a ranger amongst the party, he or she will 
+have normal chances of discovering the trail left by retreating 
+norkers over the past months, assuming that there is only a 
+05% chance of noting tracks on the eastern half of the map, 
+15% chance on the western half. (Use areas 6. and 19. to 
+demark this.) Gnomish guides will have the same chance for 
+tracking as do rangers. 
+
+Gnome Assistance: Normally, only a gnome scout will accom 
+pany the party to assist them in finding the enemy. If the party 
+seems particularly weak, the gnomes will furnish them with 
+what help they can. Magically this will be one or more of the 
+following: +1 shield, +1 suit of chainmail, potion of diminu 
+tion, scroll of 6 clerical spells (RAISE DEAD (*3), HEAL, RES 
+TORATION, RESURRECTION). The gnomes also have a 
+stone controlling earth elementals, but this will not be given. 
+Physically, the gnomes will send up to 13 of their number with 
+the party - but the party must be WEAK for them to so do. This 
+body of troops will be divided into four units of 3 gnomes each: 
+3 scout/runners (AC 7, MV 9", 4 h.p. each) with slings (20 
+
+
+bullets each) and clubs; 3 archers (AC 6, MV 6", h.p. 3 each) 
+with bows (short, 20 arrows each) and short swords; 3 spear 
+men (AC 5, MV 6", h.p. 4 each) with spears and short swords; 
+and 3 pole-armed (AC 5, MV 6", h.p. 5 each) with glaive and 
+dagger. They will be commanded by a lieutenant (AC 4, MV 6", 
+L 4, h.p. 1B) with spear, short sword, and sling. The gnomes will 
+not foolishly throw their lives away. They will remain under 
+command of their leader at all times. If the lieutenant is slain, 
+the gnomes will return home at the first reasonable opportunity. 
+
+Food and Water Water will be of no particular problem along 
+the way, because this portion of the Yatils is well-watered. 
+Between pools of water remaining from previous (and recur 
+rent) rains and natural springs and freshets, there will be water 
+for all. Food is another matter. Game will only be encountered 
+in designated encounter areas of the map, whether a rocky area 
+or a grassy one. Some browse for horses exists along the 
+narrow pathways through the mountains, but after three days, 
+horses will have to have a day of normal grazing if feed is limited 
+to such browse. Otherwise, horses will not be strong enough to 
+ride until one or more days of grazing and recuperation. 
+Gnomes will be able to exist on the small game and roots which 
+they can find along the way, but the party members, even 
+gnomish party members, will not be able to do so. If rations for 
+mount and adventurer are not available, then they must be 
+found. 
+
+Starvation: Use the following to show the effects of starvation 
+on the party: 
+
+Each 8 hours without food -1 hit point 
+
+Each day without food -1 point of strength 
+
+and dexterity 
+
+A normal meal and 8 hours of rest will restore the effects of one 
+day of starvation, so a day of normal meals and rest will allow 
+full recovery from three days of starvation. 
+
+
+4 
+
+
+
+
+The Safe Valley Area 13. on the wilderness map is the single 
+place in the area where the party is safe from incursions by 
+monsters. This will remain so as long as they are careful in their 
+coming and going from the place. If they leave an obvious trail, 
+or are actually observed going there, their foes will certainly 
+follow and attack as opportunity presents. 
+
+Player Characters: As with THE LOST CAVERNS OF TSOJ- 
+CANTH, this module is designed for adventuring by up to 12 
+player characters. However, it assumes that there will actually 
+have been some losses and weakening of power due to adven 
+turing. The scenario is ideal for four to eight characters with an 
+average of 10th, 9th, or 8th level - less if well-equipped with 
+spells and magic items. Party balance requires a cleric and a 
+magic-user. If you are actually utilizing this module as an 
+adjunct to THE LOST CAVERNS OF TSOJCANTH, you might 
+consider what was done in the actual campaign from which 
+both were written. The adventurers discovered Gnome Vale in 
+the course of seeking the 'CAVERNS. Later, they returned for 
+restand recuperation after suffering severe damage exploring 
+the latter place. Only three or four of the original party actually 
+journeyed to the 'TEMPLE, because, as is usual with any 
+group, some of its number were not on hand when it was time 
+to adventure. Because only a portion of the group went, the 
+gnomes went along. After initial contact and a couple of 
+pitched battles, several of the other party members joined the 
+three, and the 'TEMPLE was sacked. Losses were minimal, 
+because the players were reasonably adept, and hit-and-run 
+tactics were used. 
+
+Map Movement: Movement afoot is all that is possible if 
+gnomes accompany the party. Although these small demi- 
+humans are slow compared to most creatures, they know 
+these mountains and are at home in such terrain. Therefore, 
+they are able to keep up with humans and travel a full day as 
+easily as the stoutest man. 
+
+
+Movement Rates: 
+
+
+On a track, afoot 30 hexes 
+
+On a track, horsed 40 hexes 
+
+On a track, mule-back 50 hexes 
+
+Off a track, afoot 1-6 hexes 
+
+
+Movement in any valley area (numbered on map) is treated the 
+same as if the party were on a track. Movement off a track when 
+mounted on horse or mule is not possible. When moving afoot in 
+the mountains, roll a d6 to determine how far the party will be 
+able to move that day. If moving into the mountains near a 
+track and then back, allow a minimum of 2 hexes of movement, 
+for the party will have some point of reference. 
+
+Movement over known tracks can be increased by 20%. 
+Movement over explored mountain terrain is at maximum (6 
+hexes) daily rate. 
+
+START (Read to Players): Your party is now proceeding along 
+a narrow trail through the mountains. It is actually scarcely 
+more than an animal track. This path leads from the far south 
+end of Gnome Vale in a southwesterly direction. The gnomes 
+have told you that it is from this track that the humanoids and 
+monsters have always come. Although the spot is guarded, the 
+gnomes are too few to properly defend both entrances to their 
+homeland, and have been forced to merely screen this place. 
+You all have plenty of fresh water, good ale, and each has a full 
+three days of food carefully packed and presented to you by 
+the grateful gnomish community. Now it is up to you to trek 
+through this wilderness of mountains and hunt down the 
+norkers and their master or masters, whomever or whatever 
+they may be. 
+
+
+THE WILDERNESS 
+
+
+RANDOM ENCOUNTERS 
+
+Because this is a relatively small area, already populated with 
+its share of monstrous inhabitants, there will be few random 
+encounters. Using the table below, check once each day, once 
+again at night. Encounter occurs on a 1 in 20 chance, a result of 
+1 on the d20 indicating that an encounter has occurred. In the 
+case of an encounter, roll a dIO and find the type by use of the 
+table: 
+
+
+RANDOM ENCOUNTERS TABLE 
+
+
+1. AVALANCHE: The party will hear a faint splintering 
+sound followed by a rocky clattering and rumbling. They 
+must immediately (count to 10) move or else be subject 
+ed to the effects of the avalanche. As this will be a rela 
+tively small fall of rock, each party member who fails his 
+or her saving throw versus poison will be assumed to 
+have been crushed by falling rocks and killed. Each other 
+character in the area of the fall will take from 2-20 points 
+of damage. Mounts, if any, are assumed to survive or not 
+as their riders do. They will likewise suffer 2-20 points of 
+damage. No avalanche will block a trail. 
+
+2. 2 BEARS: AC 6; MV 12";HD 6 +6; h.p. 40, 37; #AT 3; D 
+1-6/1-6/1-8; SA hug for 2-12; bears are very hungry but 
+can be deterred by fire or stopped from attack by giving 
+them a mount or three man-days of rations each. 
+
+
+Die Roll 
+
+
+Result 
+
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+9 
+0 
+
+
+avalanche 
+bears, cave 
+boars, wild 
+giants, hill 
+giants, stone 
+norkers 
+ogres 
+trolls 
+wolves 
+
+false alarm - no encounter 
+
+
+3. 5 "BOARS": AC 7; MV 15";HD 1 x 3+3,4 x 3; h.p. 21,18. 
+
+16, 15,13; #AT1; D (boar) 3-12, (sows) 2-8; SA boar will 
+fight for 4 melee rounds after reaching 0 to -6 hit points 
+before dying, sows will fight for 1 round in such condi 
+tion, but all are slain instantly at -7 or greater hit points. 
+
+
+4. 2 GIANTS: AC4; MV 12";HD 8+1-2; h.p. 44,40; #AT1; 
+
+D 2-16; SA hurl rocks to 20" range for 2-16 points of dam 
+age; these giants are fairly young and are looking for fun 
+and loot, as they have nothing of value themselves, are 
+bloodthirsty, and mean. 
+
+
+5 
+
+
+
+
+5. 2 GIANTS: AC; MV 12" HD 9 =1-3; h.p. 51, 33; #AT 1; 
+D3-18 (female), 2-12 (young giant); SA hurl rocks for3-30 
+points of damage (female), 2-20 points (young giant). 
+This pair is a giantess and her "small" son. They are not 
+looking for trouble, being on the course of a journey to 
+visit relatives far to the north and west. If offered any 
+compensation by the party, the giantess will point out the 
+general direction of the Temple, but she will know only 
+that bad things dwell there. If these giants are attacked or 
+abused, they will defend themselves and never give any 
+information. Neither has any treasure. 
+
+6. 30 NORKERS:AC3; MV 9"; HD 1 +2; h.p. 10,2*9.3 X 8,8*7, 
+8"6,8><5; #AT 2; D1 -3/1 -€. These humanoids are search 
+ing for the temple in order to join the band of their fellows 
+already there, but they do not know the location of the 
+place. They have no treasure other than 1-6 c.p. each. 
+They will eventually find the temple if left alive. 
+
+
+GRASSY VALLEYS: Unless otherwise noted, each such place 
+is of no particular note, although there is game in each, and 
+monsters are possible on a random encounter basis. Grass will 
+quickly restore vitality to mounts, and there are wild fruits and 
+vegetables to round out a diet of game. Game typically en 
+countered will be: of the herd animal type,small game such as 
+rabbit and grouse, and fish found in pools and streams. 
+
+ROCKY VALLEYS: These areas, unless otherwise noted, are 
+relatively level, rather barren places. There is game in each 
+such place, but there is only a 25% chance that any will be 
+encountered on any given day - unless one of the party 
+members has a secondary skill of hunting and/or fishing, in 
+which case liklihood increases to 50%. Game here will be. 
+mountain goats or sheep, small animals, and (rarely) fish. 
+There is sufficient grazing in a rocky valley for many horses, 
+but it requires continual movement as the vegetation is 
+scattered. 
+
+
+7. 4 OGRES: AC 5; MV 9"; HD 4 +1 ;HP 25.23.22,20; #AT 1; 
+D 4-10 (spiked clubs for 2d8 +2); SA each ogre has a 
+spear which will be hurled at close range, if possible, for 
+3-8 points damage prior to melee. These wandering 
+monsters have no treasure and are short of food - none 
+of which is fit for human consumption. 
+
+8. 2 TROLLS: AC 4; MV 12" HD 6 =6; h.p. 45, 41; #AT 3; 
+D 5-8/5-8/2-12; SA fight up to three different opponents in 
+any round; SD regenerate 3 points/round three rounds 
+after taking damage; these creatures are stalking the 
+party and are attacking from ambush, so do not roll for 
+surprise for them, only for the party. They have a lair 
+nearby, but there is nothing of value therein save a few 
+scattered coins (2-20 of each type) and an uncut ame 
+thyst worth 400 g.p. 
+
+9. 11 WOLVES:AC 7; MV 18"; HD 2 +2; h.p. 17. 15. 3x14. 
+2 x 13 , 2*12,11.10; #AT 1; D2-5. The pack will not attack 
+unless they find the party unprepared, or they can get at 
+horses or mules unseen. If they are frightened by fire, or 
+if one or more of their number are slain, the remainder 
+will shadow the party. Their howling will be 50% likely to 
+panic mounts not firmly held by rope or rein. Wolves will 
+continue to shadow and seek to sneak-attack until over 
+half of their number are slain. 
+
+10. FALSE ALARM:The false alarm can be a few rocks fal 
+ling, the wind moaning through the rocks, distant bellow 
+ing or roaring, or the calls of wolves far away. 
+
+
+NUMBERED ENCOUNTER AREAS 
+
+All of the various areas do not have specific encounters, al 
+though you may elect to devise your own if so desired. General 
+and specific explanations follow the encounter area listing. 
+
+
+1. Grassy valley 
+
+2. Grassy valley 
+
+3. Rocky valley 
+
+4. Wooded valley 
+
+5. Rocky valley 
+
+6. Wooded valley 
+
+7. Rocky valley 
+
+8. Track continues 
+
+9. Rocky valley* 
+
+10. Wooded valley* 
+
+11. Rocky valley 
+
+* See special section for 
+
+
+12. Track continues 
+
+13. Grassy valley and cave* 
+
+14. Rocky valley 
+
+15. THE TEMPLE'* 
+
+16. Track continues 
+
+17. Grassy valley 
+
+18. Wooded valley* 
+
+19. Wooded valley* 
+
+20. Rocky valley* 
+
+21 Grassy valley 
+22. Grassy valley 
+
+numbered areas. 
+
+
+WOODED VALLEYS: These places are quite inviting and well 
+stocked with game of all sorts, as the trees are scattered and 
+much grass and like vegetation grows in them. In addition to 
+herd animals, the following creatures can be encountered 
+randomly: 
+
+
+boar, wild lynx, giant 
+
+lion, mountain stag, giant 
+
+Any such encounter is at the option of the DM. 
+
+
+TRACK CONTINUES: When the party moves off the map 
+along such a track, simply reverse the map directions and have 
+them move on. (Turning the map so that south becomes north 
+and vice versa prevents miscalling direction.) After one day off 
+map, tell the party that the trail is even narrower than before 
+and obviously less used. This should encourage them to turn 
+back. Naturally there are no specified encounters in areas off 
+the map. so ignore that. After several days of such off map 
+movement, revert to normal procedures for wilderness travel in 
+mountains, and use the tables for random encounters given in 
+the DUNGEON MASTERS GUIDE. Given this case, it is likely 
+that your adventurers are bound and determined to explore 
+westwards into the Yatils, or move south into the marches of 
+Ket or north into Perrenland, forgetting the 'FORGOTTEN 
+TEMPLE' for a bit longer, at best. If such will absolutely spoil 
+your enjoyment and theirs, have them encounter some friendly 
+dwarves or a lammasu or similar creature who will return them 
+to the map area once again. 
+
+9. PLATEAU OF THE AARAKOCRA: 
+
+12 AARAKOCRA: AC 7; MV 6"/36"; HD 1 +2; h.p 10. 9, 
+2x8, 4x7, 2x6, 2*5; #AT 2; D 1-3/1-3; SA 4 javelins each 
+(males only) for 2-8 points damage, dive attack at +4 "to 
+hit" and double damage, five conjure 8 HD air elemental 
+in 3 melee rounds of flying. 
+
+This small tribe of bird people has just recently made its 
+home in the area. Half are males, the others female. They 
+would not normally allow themselves to be discovered by 
+the party, simply taking off and flying so high and far as 
+to be unseen by them. However, because of the griffons 
+inhabiting area 10., they will send one of their number to 
+speak with the party to see if the adventurers are of 
+friendly sort. If a friendly exchange takes place, the aara- 
+kocra will then descend and ask the party to slay or drive 
+off the griffons. In return, the bird folk will gladly guide 
+the party to the Temple, although they will not otherwise 
+aid them. If hard pressed, the aarakocra will also promise 
+
+
+6 
+
+
+
+the party a dozen gems (base value 100 g.p. each) for 
+their slaying of the bird people's hated foes, the griffons 
+-the gems payable only upon completion of the task, of 
+course. Because it is a new, young tribe, the shaman is a 
+female of only first level with a cure light wounds spell 
+which works only on aarakocra. Too. although able to 
+severally summon an air elemental, they are loath to do 
+so because the creature must be brought to the valley 
+where the griffons dwell, and each time this has been 
+done, the griffons have easily driven off the elemental 
+and nearly killed several bird folk. In fact, the tribe initial 
+ly numbered 16. 
+
+10. GREAT VALLEY OF THE GRIFFONS: 
+
+
+These fierce creatures are not afraid of humans, al 
+though they have had some experiences with them and 
+will exercise considerable caution in attacking unless 
+there are horses or mules with the party. The griffons lair 
+is a large cave hidden by boulders and brush. It is at the 
+western end of the valley. Amidst the litter of their nest 
+are the skeletons of a pair of Kettites who fell prey to 
+these creatures. One has a jeweled belt of gold (4,500 
+g.p. value) still wrapped around its waist. The other 
+clutches a +1 scimitar in its boney fingers. There is no 
+other treasure. 
+
+
+13. THE SAFE VALLEY: 
+
+
+4 GRIFFONS: AC 3; MV 12"/30"; HD 7; h.p 55,51.33,30; 
+#AT 3; D1 -4/1 -4/2-16; SA +2 for both "to hit" and damage 
+inflicted dice rolls, two largest only, due to great size and 
+experience. 
+
+
+These creatures are a mated pair of very large griffons 
+and their nearly-grown offspring. Driven from their nest 
+ing place many miles to the north by a brass dragon, the 
+pair settled into the valley only a year or so ago and 
+immediately had young, for the place teemed with game. 
+Having stripped their valley of the larger animals, 
+these creatures are now flying further afield in search of 
+prey. While they usually hunt to the south and west, an 
+occasional aarakocra is considered a tasty side dish, so 
+the griffons will try their luck there. After the last expe 
+rience, when they had to fight an air elemental, the grif 
+fons are not eager to seek out the bird folk, but hunger 
+will eventually drive them to it. 
+
+
+
+This place is about two-thirds of a mile long, one-third of 
+a mile wide, and filled with flowers, shrubs, and a few 
+small trees. It is reached only by following the stream 
+which flows from it. The way is narrow and rocky, and 
+often one must wade into the water to get further up 
+stream. Examination of the place will reveal several small 
+pools, filled with fish, which give rise to the stream. A 
+small, dry cave will also be noted on the southern face of 
+the cliffs which surround the valley. This cave allows safe 
+lodging, and nearby boulders can be rolled so as to block 
+its entrance from marauders of most sorts. While there is 
+little in the way of large game here, the fish, small game, 
+and various fruits make up for it. There is sufficient food 
+here for a party of 12 persons for as many days, and 
+horses could graze here twice as long before grass be 
+gan to be depleted. 
+
+If the northeastern cliff is explored, the party has a 05% 
+chance per member of spotting a goat track which leads 
+up the cliff face. The trail leads upwards about 300', 
+crosses a narrow saddle, and then proceeds down to a 
+point some 20' or so above the track which leads to and 
+from the Temple. Once known, this route can be used by 
+the party in their excursions against the Temple, thus 
+saving them considerable travel and foiling pursuit un 
+less seen to be thus escaping. 
+
+
+15. THE TEMPLE: 
+
+See special section on page 10. 
+
+
+18. VALLEY OF LEUCROTTA: 
+
+1 LAMIA: AC 3; MV 24"; HD 9; h.p. 53; #AT 1; D 3-6 (+2 
+dagger); SA touch drains wisdom at 1 point per, spells: 
+CHARM PERSON, MIRROR IMAGE, SUGGESTION, IL 
+LUSION (as a wand) one per round, once each per day. 
+
+4 LEUCROTTA: AC 4; MV 18"; HD 6 +1; h.p. 37,34,32,30; 
+#AT 1; D3-18; SA imitate human cries for help speeding 
+to attack when victim approaches hiding place (thus 
+surprise on 4 in 6); SD 2 attacks for 1 -6 h.p. damage each 
+in retreat. 
+
+A particularly clever lamia has convinced the four leu- 
+crotta to follow and serve her. The alliance is a very 
+successful one, and it now controls the valley in which 
+the leucrotta originally dwelled, as well as that which the 
+lamia had. (See 19.) When the party enters this area, 
+there is a 60% chance that they will encounter this 
+strange combination. If that is the case, it is 90% likely 
+that the lamia and her leucrotta allies will discover the 
+party without themselves being seen. The allies will de 
+velop a clever attack based on an illusion created by the 
+
+
+7 
+
+
+
+lamia and voice cries of the leucrotta, the illusion actual 
+ly masking the advance of the four latter creatures. Once 
+they are in melee with the party, the lamia will move 
+rapidly into position to use her charm person, sugges 
+tion, and wisdom-draining touch in order to gain a victim 
+for her dining pleasure. 
+
+The lamia has a bower near the pond, and a search of the 
+valley is 50% likely to discover this place. In it is a suit of 
+elfin chainmail. a small pouch containing 50 gold pieces, 
+a 500 g.p. gem, and a jeweled bracelet worth 1,800 g.p. 
+All of her other treasure rests with the inhabitants of area 
+20 . 
+
+19. VALLEY OF THE LAMIA: 
+
+There is a 40% probability that the lamia and her leucrot 
+ta minions will be encountered here unless they have 
+already been met and destroyed elsewhere. There is a 
+20% chance that group 1. of the ores at area 20. will be 
+here if the lamia is not, (See 20., below.) The five crea 
+tures come here to hunt and to raid the ores now dwelling 
+in area 20. The latter came to the valley some time back, 
+surprised and attacked the lamia, and forced her to flee 
+for her life. The ores then looted her treasure and settled 
+down to what they thought would be an enjoyable period 
+of despoiling the valley to make it more "homey". They 
+were rudely awakened when counter-attacked by the 
+lamia and her new leucrotta allies. The ores fled to caves 
+in the gorge at area 20. The allies now contest with the 
+ores for domination of the valley, and ore is often on the 
+menu for the lamia and her faithful leucrotta servants. 
+
+20. GORGE OF THE ORCS: 
+
+131 ORCS: The males of the tribe are divided as follows: 
+
+
+GROUP 1 - Encountered in Area 19. or Patrolling 20J 
+
+1 Leader: AC 5; MV 9"; HD 1 (+1); h.p. 9; #AT 1, D 3-8 
+(footman's flail +1 due to strength) 
+
+3 Sergeants: AC 6; MV 9"; HD 1 (+1); h.p. 3x8; #AT 1; D 
+3-9 (bardiche +1 due to strength) 
+
+30 Soldiers: AC 6; MV 9"; HD 1; h.p. 3*7, 6x6, 12x5; 
+9*4; #AT 1 (bowmen 2); D see below 
+10 ores 1-6 (spears) 
+
+6 ores 2-8 (guisarme-voulge) 
+
+6 ores 2-8 (morning stars) 
+
+4 ores 1-4 (It. crossbow) or 2-8 (battle axe) 
+
+4 ores 1 -6 (short bow, 20 arrows) or 1 -6 
+(short sword) 
+
+1 Ogre: AC 5; MV 9"; HD 4 +1; h.p. 23; #AT 1; D 1-10; 
+this monster is the guard and "heavy artillery" for the 
+tribe. 
+
+Group 1 is that body of ores serving as guards and hun 
+ters for the day. It will always be up to strength, because 
+losses will be replaced from the other groups. 
+
+
+GROUP 2 - Appearing in Area 20. Only: 
+
+1 Sub-chief: AC 4; MV 9"; HD 2; h.p. 12; #AT 1; D 3-10 
+(long sword +2 due to strength) 
+
+10 Guards: AC 4; MV 9"; HD 2; h.p. 10x10; #AT 1 
+(bowmen 2) D see next column 
+
+
+5 ores at 3-8 (glaive +2 due to strength) 
+
+5 ores at 3-8 (short blow +2 due to strength) or 
+3-8 (hand axe +2 due to strength) 
+
+1 Lieutenant (leader): As per Group 1 
+3 Sergeants: As per Group 1 
+30 Soldiers: As per Group 1 
+
+This body of ores will come to the aid of group 1 one turn 
+(10 rounds) after it is alerted due to the sound of battle or 
+a call for help. It is standing to in the tribe's cave complex, 
+and if that place is entered, the numbers encountered 
+will read from the bottom up, each section appearing one 
+round after the other, i.e. immediate encounter with 30 
+soldiers, 3 sergeants come on round 2, 1 lieutenant on 
+round 3, 10 guards on round 4, and the sub-chief on 
+round 5. 
+
+GROUP 3 - Appearing in Area 20. Only: 
+
+1 Chief: AC 3; MV 9" HD 3; h.p. 18; #AT 1; D 5-11 
+(bastard sword +3 due to strength) 
+
+10 Guards: AC 4; MV 9"; HD 3; h.p. 14: #AT 1; D 4-11 
+(long sword +3 due to strength); SA tribal standard (+1 
+for all within sight of it) 
+
+1 Shaman (half-orc/hobgoblin): AC 4; MV 9"; HD 3; 
+h.p. 16; #AT 1; D 3-8 (footman's mace +1 due to 
+strength); SA 6th level shaman spells: cure light 
+wounds (x2), blindness, dispell magic 
+
+6 Guards: AC 4; MV 9"; HD 3; h.p. 12; #AT 1; D 4-9 
+(glaive +3 due to strength) 
+
+This group will take two turns to prepare and come into 
+battle unless advanced warning is given or an attack is 
+expected. In the latter case, they will be ready and appear 
+in but 5 rounds, actually prior to the second body of 
+troops lead by the sub-chief. In situations where strong 
+opponents are recognized, the shaman will cast his resist 
+fire spells, first on himself, then on the chief. The shaman 
+will stay sheltered behind his guards whenever possible, 
+especially until he has had to apply a cure light wounds 
+spell to the chief. Thereafter, he is likely to venture forth 
+to use darkness, blindness, and dispel magic as needed. 
+The chant spell will usually be employed after the open 
+ing of battle, prior to his engaging in melee. 
+
+These are Ores of the Rotting Eye tribe, belonging to the 
+clan of the Jagged Knife. The standard is a huge, glaive 
+like knife blade with a serrated edge. This blade is col 
+ored a rust red and atop a long shaft, beneath it being the 
+circular targe depicting a rotting eye colored yellow- 
+green and red. This symbol is repeated on the shields of 
+the soldiers, with the jagged-bladed knife seeming to 
+grow out of the rotting eye device. Guards and ranking 
+figures wear dull red clothing. The sub-chief, shaman, 
+and chief also have cloaks of yellowish green, the chief's 
+being striped with red. the shaman's merely bordered 
+with that color. 
+
+Within the cave complex which houses the ores are 
+about 60 females and some 120 young. 
+
+The map of the complex shows the location of the tribal 
+treasure, in the small area behind the chief's cave. This 
+treasure consists of: 
+
+In a rough chest - 4,000 c.p., 600 s.p., 200 e.p.. 90 g.p., 
+
+7 p.p. 
+
+
+8 
+
+
+
+In a silver coffer (value 650 g.p.) - 1 piece of wrought 
+silver jewelry, 2 pieces of wrought silver and gold 
+jewelry, 1 piece of wrought gold jewelry, and 1 amber 
+flask of perfume (value 1,300 g.p.) 
+
+In a leather pouch - 23 base 50 g.p. gems. 
+
+
+C. Cliff-like stone face to the east of the track. This wall is at 
+least a score of feet straight up, and in some places even 
+higher. It is as if the pathway to the Temple was hewn 
+from a ledge so as to purposely leave this wall on one 
+side and a precipice on the other. It also is climbable by a 
+thief or one with similar skills. 
+
+
+In three sealed pottery bottles - potion of polymorph 
+(self), philtre of love, poison. 
+
+
+
+THE FORGOTTEN TEMPLE OF THARIZDUN 
+
+As you proceed north up the track it becomes apparent that 
+there is more traffic on this part, for it becomes progressively 
+broader and well-traveled. Peering ahead, what you first take 
+for a flat-topped mountain is something else. Atop a low peak is 
+a two-stepped construction of basalt, a sort of pyramid from 
+the way its sides slope. This place was hidden from view until 
+you rounded the side of the mountain you are now on. You 
+note that the trail leads directly to the strange, black building; 
+and, as you come within 100 yards of the place, you begin to 
+get some idea of its size. The construction's upper story ap 
+pears to be about 80' square and 40' high. The lower floor, 
+seeming to grow directly out of the mountain rock, is some 
+160' square and likewise 40' high. The track leads across a 
+bridge and up a steep ramp to the upper story of the place. 
+
+DM Notes: The two overviews of the Temple show the general 
+physical contours of the mountains (map 1.) and the approach 
+to the Temple and the Temple proper (map 3.). These are 
+provided in order to make it relatively easy for you to handle 
+action which occurs somewhere outside the Temple. 
+
+Map 3: The explanation keys are: 
+
+A. Narrow track about 4' wide. It has a natural rock wall to 
+the west, as if to prevent those using the path from 
+plummeting into area B. 
+
+B. Deep ravine which separates the southern peak from the 
+one upon which the Temple is built. There is a precipice 
+to the west of the track (A.) which falls about 100" to the 
+bottom of this ravine. The rock walls are climbable by a 
+thief, of course, for they are rough and easily surmoun 
+table to an experienced climber. 
+
+
+D. Natural and worked stone piers rising from the ravine to 
+the track above. Here the pathway widens to about 6' and 
+is of great stone slabs. A 2' thick wall on either side rises 
+to about waist height. The whole forms a bridge from the 
+southern mountain, over the ravine, to a spur of the 
+northern formation. (A distance of about 50' from natural 
+stone to natural stone). The northern portion has been 
+worked so that the track feeds to a steeply rising 
+rampway. 
+
+
+E. Walled ramp widening from 6' width at bridge mouth to 
+about 16'width as it climbs to above the mid-point of the 
+lower block of the Temple. 
+
+
+F. Similar ramp climbing to roof level of the lower block to 
+
+permit entry through the great portal of the upper block 
+of the Temple. 
+
+
+G. Rampway leading to flights of steep, narrow steps which 
+allow entry to the roof of the upper block of the Temple. 
+
+H. Upper roof of black stone slabs. Here, careful examina 
+tion will reveal worn glyphs in a strange language. If a 
+read magic spell is used, the reader will discover that 
+these glyphs send curses to the bringers of light, the 
+blinders, and all responsible for wrapping blackness in 
+everlasting chains. 
+
+
+Map #2 
+
+
+
+
+XI 
+
+PATH 
+
+
+9 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+General Notes: There are absolutely no windows in the 
+Temple. Other than through the open doorway on the first 
+(upper) level, no light penetrates the place. Ceiling height is 
+about 30'. The pillars shown on the maps indicate where thick 
+columns rise to the roof. From them spring stone arches and 
+buttresses. Walls are about 2' thick on the interior. The outer 
+walls are, of course, of varying thickness, as the exterior 
+portions slope sharply out. All stone is dull black, including the 
+dungeon level beneath the temple. 
+
+The dungeon level has a vaulted corridor some 30' high 
+running from the northern cavern area to the south terminus. 
+The main east-west corridor is also 30' high. The lesser 
+complexes are just under 20' in height, except where noted to 
+the contrary. 
+
+Sentries: There are always sentries watching the approach to 
+the Temple. If the original guards are slain by the party, more 
+will be posted. Of course, once the entire force of monsters is 
+wiped out, this rule will no longer apply. 
+
+Random Encounters: There are no wandering monsters in the 
+Temple. All encounters are shown on the various keys. If an 
+encounter area is cleared of monsters, nothing further will be 
+encountered there, except as noted below. 
+
+Reinforcements: Every week some type of potentially useful 
+monsters come into the Temple area. If the force there is in 
+need of strengthening, then these creatures will be recruited. If 
+the party manages to clear the Temple inside one week, or if 
+they are assaulting it on the eighth day, fifteenth day, etc., 
+reinforcement will not come. Otherwise use the following 
+table: 
+
+Dice Roll Reinforcement 
+
+
+01 - 50 21 - 30 norkers 
+
+51 - 75 3 - 6 ogres 
+
+76 - 90 2 - 4 trolls 
+
+91-00 1-2 hill giants 
+
+
+The other inhabitants of the place are special cases and will 
+not be replaced. 
+
+Defense of the Upper Level: Initially, the upper level of the 
+Temple should be relatively easy for the party to capture, as 
+the guards will be nothing more than a group of norker guards 
+with some miscellaneous assistants. However, help will be 
+sent upwards quickly, and when the''big guns" begin appearing 
+from below, it is probable that the party will retire to regroup 
+and plan an assault which will allow them to penetrate to the 
+lower level with great speed. This is where you may have some 
+real fun using your DMing ingenuity. 
+
+Once alerted to the threat of a second attack, the Temple 
+inhabitants will organize to beat the attackers before they 
+enter the upper level, let alone go below. To this end the giants 
+will gather up a goodly supply of boulders - say 11 - 20 of 
+about 2V6' - 3' diameter. A supply of smaller rocks for hurling 
+will also be laid by. Oil and acid will be readied. 
+
+The stone slabs of the ramp floor of area 1. on the upper level 
+map can be lifted up and placed upon the wall of rocks across 
+the way. This will add 3 feet of height to the wall and provide a 
+trench which can be deepened to at least 2 feet in depth. Giants 
+can easily crouch behind this barricade, boulders and rocks 
+handy. At a signal, the boulders will be tossed so as to roll 
+down the rampway and funnel across the bridge and along the 
+path. Suggested determination for damage is as follows: 
+
+
+STRUCK BY ROLLING BOULDER: 100% - 1% per 
+dexterity point, -2% per foot of pathway over 3' wide, 
+-10% if boulder must travel over 100' to hit target, 
+DAMAGE WHEN STRIKING, 5-30 points. 
+
+FALLING IN FRONT OF ROLLING BOULDER: Slipping 
+from climbing wall (thief etal.), slipping from guard wall 
+(any character failing to roll dexterity or less on 2d20). 
+DAMAGE EQUALS FALL DAMAGE (if any) +5-30 points. 
+
+STRUCK BY HURLED ROCK: As usual for monster 
+hurling it. 
+
+Once the party overcomes this "crust" defense, however, 
+the upper level will have to be yielded to them, and the 
+defenders will attempt to hold whatever lower portions of 
+the place as their strength allows. 
+
+Slipping and Falling: Obviously, those with thief ability to 
+climb can easily be handled regarding a slip. If they do not 
+make their climbing score, they slip and fall. If any other party 
+member attempts to climb the wall, allow a 50% chance of 
+slipping and falling per 5' of upwards movement. Even a 
+successful climb once by such a character does not mean that 
+the next attempt will have any better odds. 
+
+Anyone, thief or not, opting to hop up on the guard wall which 
+borders the track on the west and both sides of the bridge in 
+order to avoid an onrushing boulder, is in for possible disaster, 
+as these missiles tend to bounce from side to side on their 
+downward roll. The wall struck will, of course, jump and flex 
+upon being struck. Although there is only a 20% chance that 
+the boulder will strike a wall section which a character is 
+seeking refuge upon (and in no event will it ever strike two 
+contiguous or opposite sections), if it does so strike, the 
+character or characters atop it are in trouble. There is a base 
+chance of 100% that they will fall. Reduce this chance by 
+dexterity if standing on the wall, strength if clinging to it. 75% 
+of falls will be away from the track - into the ravine below. 25% 
+will be onto the track, but in the latter event, 75% of the time the 
+character will fall behind the course of the boulder and take no 
+damage. 
+
+Defense in General: Although the organized defenders are of 
+chaotic nature, they can present a reasonably well-co- 
+ordinated, intelligent plan of defense of their stronghold. They 
+are fighting for their lives, and they are all too aware of this fact. 
+They will fight cleverly and to the death - but only if absolutely 
+necessary. In general, they will hold an area as long as 
+possible, then they will beat a fighting retreat to another area of 
+defense. Once cornered,they will tend to fight to the last, 
+unless the party has shown some indication that they will grant 
+quarter (a real show of weakness in the eyes of norkers and the 
+rest!). 
+
+Superior Dungeon Mastering: It is absolutely necessary that 
+you be completely familiar with the levels and the inhabitants 
+of them in order to properly DM this scenario. 
+It is far easier to "wing" an outdoor adventure than a dungeon 
+one, and this is no exception. Once you are familiar with the 
+entire place, make the whole your own by adding whatever 
+touches you believe will be likely to create more challenge for 
+your players and bring the whole module to "life" as an epic 
+heroic fantasy adventure. 
+
+
+UPPER LEVEL 
+
+1. LOW STONE WALL BLOCKING RAMPWAY: As you 
+approach the entry to this strange place, you see that 
+there is a low wall of rough stones blocking the way. It 
+appears to be about 3' high and almost as wide. Some 20' 
+
+
+10 
+
+
+beyond this obstruction is the gaping portal of the upper 
+block (apparently the only entrance to the place). 
+
+There is nothing behind this barrier (at least initially). It is 
+used as a line of defense against brute creatures, as a line 
+of demarcation otherwise. As soon as the party begins to 
+cross the wall, the defenders will loose their missiles and 
+send for assistance from their masters below. 
+
+2. ENTRANCEWAY: The looming wall of black stone is 
+pierced by a flat-topped portal. The entry is nearly 20' 
+wide and also 20' high. A great stone lintel over 30' 
+wide and 6' high supports the roof. There are places in 
+the stone posts on either side which indicate that at one 
+time some sort of doors closed off this entrance, but all 
+traces of these valves have disappeared. (The gates were 
+of wood, studded and bound with iron. Age rotted them, 
+and the wood was used for fires, the iron for weapons 
+and the like, by the creatures who now inhabit the place.) 
+
+In the deep shadows of this gateway, two sentries with 
+sharp eyesight watch the path to the Temple. At the first 
+sign of approach, one will step back to alert the remainder 
+of the force while the other maintains watch. 
+
+Secured to the lintel of the entrance, 10' inside the place, 
+and out of sight of approaching foes, is a large net of 
+thick ropes. It is about 20' square and positioned so that 
+when it drops, it will fall upon the area just beyond the 
+entrance. Of course, this effectively traps any creatures 
+unwary enough to venture in. It is triggered by lines to 
+east and west. Upon a word from the other norkers or 
+gnolls (areas 3-5.), the defenders in areas 6. and 7. will 
+tug these lines and free the net to drop. 
+
+Party members 10' to 30' inside the upper level, and not 
+east or west of the center 20' entrance line, might be 
+caught in the net trap. Those characters positioned near 
+the edge of the area where the net falls must roll a score 
+of their dexterity or less on 4d6. Those in the center area 
+are trapped, no saves. 
+
+Netted characters are unable to use weapons or cast 
+spells. They have no dexterity bonus with respect to 
+armor class and they can not effectively move. The 
+weight of the net and its tarry, clinging ropes is such that 
+all under it are most effectively trapped for that round 
+and the following one. Those near the edge can slip out 
+in two rounds and be ready to fight again on the third, 
+providing that they are not overwhelmed meanwhile. 
+Those in the center area are trapped for from three to six 
+rounds, depending on the roll of a d4. 
+
+If all of the party members are trapped under the net, all 
+of the nearby norkers and gnolls will attack. The norkers 
+will leap upon the netted characters to bite and club 
+them, while the gnolls will stab at those attempting to slip 
+out from under the edges of the trap. The remainder of 
+the force will arrive on the second round, and unless a 
+miracle occurs, the adventure is over. 
+
+However, if any character remains untrapped, the hidden 
+forces of norkers (areas 6. and 7.) will remain in waiting 
+to take the foe by surprise; but, those to either hand 
+(areas 4. and 5.) will rush to attack those in the net. while 
+the gnoll archers (area 3.) fire at the members of the party 
+not enmeshed in the net. In this case, the norkers will 
+attempt to hold the edges of the net down, attacking 
+those near the edge, and making it take from five to eight 
+
+
+rounds to escape in this manner. Meanwhile, however, 
+characters with daggers or short swords can cut the net, 
+freeing themselves in five to eight rounds, less one round 
+for every +1 of the weapon used to cut the strands 
+
+(If the party is particularly powerful, the net trap is to be 
+reinforced with chains, weighted edges, and at least 20 
+large hooks. These devices will make escape nearly 
+impossible for those caught under the net, and the hooks 
+will both hold them and inflict 1 -4 points of damage per 
+round. Use your DM creativity here!) 
+
+Positioning of Guards: The norkers and gnolls guarding the 
+
+upper level of the Temple are stationed in the numbered areas. 
+
+As these positions will not be the same when the party enters 
+
+the area, initial positioning is given here first: 
+
+3. 6 Gnolls: AC 5; MV 9"; HD 2;h.p.12,11,2*10,2x8; #AT 2 
+or 1; D 2-8 (great bow, 20 arrows each, or battle axe) 
+These archers will advance to the fore of the pillar so as 
+to fire at enemies coming over the wall. When necessary, 
+they will move left and right to take positions in areas 4. 
+and 5., three going to each position. 
+
+4. 6 Norkers: AC 3; MV 9"; HD 1 +2; h.p. 9, 8, 4*7; #AT 2; 
+D 1-3/1-6. These guards are stationed so as to be 
+protected by the boxes, bales, barrels and stones and 
+rocks piled from the number (4.) to the pillar to the north. 
+They will hold this position as long as possible. 
+
+5. 6 Norkers: As above.These guards are likewise behind a 
+line of cover and will behave as those at 4. 
+
+6. 4 Norkers: AC 3;MV 9" HD 1 +2;h.p.2*8,7,6;#AT1 then 
+2; D 1-6 (hurled axes) then 1-3/1-6. These guards are 
+stationed so as to surprise the enemy flank or rear, hurl 
+missiles upon it, and then rush into melee. Their position 
+is screened by a wall so that enemies entering will not 
+notice them (theirattention being attracted by the gnolls 
+and norkers on either hand ahead of them). 
+
+7. 4 Norkers: As above. 
+
+8. 1 Norker AC 3; MV 9" HD 1 +2; h.p. 6; #AT 2; D 1-3/1-6. 
+This guard is stationed so as to be able to observe the 
+action. As soon as the gnolls advance to fire on an 
+approaching enemy, the guard will move down the flight 
+of stairs to the north so that only his eyes and the top of 
+his head are exposed. If any enemy is seen to enter the 
+place, the guard will immediately slip on down the 
+remainder of the stairway and alert the next level as to 
+what is going on. This will take 2 rounds. On the third 
+round, the guard will return to his position to guard the 
+stairs until reinforcements arrive from below. 
+
+9. 1 Norker Subchief: AC 2; MV 9"; HD 3; h.p. 17: #AT 2; 
+
+D1-3/4-10 (morning star +2 due to strength) 
+
+3 Norker Sergeants: AC 3; MV 9"; HD 2; h.p. 16, 15.14; 
+
+#AT 2; D 1-3/2-7 (+1 due to strength) 
+
+4 Norkers: AC 3; MV 9"; HD 1 +2; h.p. 8, 3*7; #AT 1; 
+
+D 1-3/1-6 
+
+This group will position itself so as to fill the space 
+between the north end of the defense line of the group at 
+area 5. and block the stairs down in theirarea (east half of 
+the level). Of course, if they can flank attackers as they so 
+move, they will do so. 
+
+
+11 
+
+
+
+10. 1 Gnoll Leader AC 4; MV 9"; HD 3; h.p. 18;#AT 1 ;D 3-10 
+
+(battle axe +2 due to strength) 
+
+5 Gnolls: AC 5; MV 9"; HD 2; h.p. 12.11.10.9.8, #AT 1; 
+D 2-8 
+
+This group will perform much as the norkers at area 9. 
+They co-operate fully with their norker allies. 
+
+3. INTERIOR OF THE LEVEL: As you examine the area it 
+becomes apparent that the whole place is a virtually 
+open room of huge size. Thick stone pillars support the 
+stone ceiling about 30' above. Protruding columns along 
+the walls also indicate that the tremendous weight of the 
+great stone roof is supported by these buttresses. All of 
+the stone is well-shaped but dull. It bears no sculpture, 
+no ornamentation, not even any form of paint to brighten 
+and enliven the vista. The floors are of like material, 
+lusterless, and well-worn. 
+
+ORDER OF APPEARANCE (and Roster): In an assault where 
+the party is attempting to force entry by brute strength, or in 
+the case of protracted raids, the following "troops" will be 
+available to the defenders. The presentation is for a single 
+frontal assault situation. In an attrition situation (where raids 
+have caused losses) move forces so as to provide a continuing 
+permanent guard on the upper level, and adjust reinforcements 
+accordingly. It is logical to place the really tough monsters on 
+the front line after an assault which seriously reduces the 
+numbers of "lights" - norkers, gnolls, and ogres. (Remember 
+also that some replacements will probably be available each 
+week.) 
+
+Initial Defenders: 
+
+
+Gnolls 
+
+
+6 Archers 
+
+(AC 5) 
+
+- 12, 11, 10. 10, 8, 8 
+
+5 Others 
+
+(AC 5) 
+
+- 12, 11, 10. 9. 8 
+
+1 Subchief 
+
+(AC 4) 
+
+- 18 
+
+Norkers 
+
+
+
+6 Guards 
+
+(AC 3) 
+
+-9, 8, 7. 7. 7, 7 
+
+6 Guards 
+
+(AC 3) 
+
+- 9, 8. 7, 7, 7, 7 
+
+4 "Axers" 
+
+(AC 3) 
+
+- 8, 8, 7, 6 
+
+4 "Axers" 
+
+(AC 3) 
+
+- 8, 8, 7, 6 
+
+4 Guards 
+
+(AC 3) 
+
+-8. 7. 7. 7. 
+
+3 Sgts. 
+
+(AC 3) 
+
+- 16, 15, 14 
+
+1 Subchief 
+
+(AC 3) 
+
+- 17 
+
+Arriving at the End of 3 Melee Rounds 
+
+2 Norkers 
+
+(AC 3) 
+
+- 6. 6 
+
+Arriving at the End of 4, 5, or 6 Melee Rounds (1/2-5/6) 
+
+(#3) 3 Trolls 
+
+(AC 4) 
+
+- 38,36,33 EAST STAIRS 
+
+(#24) 2 Trolls 
+
+(AC 4) 
+
+- 39,31 WEST STAIRS 
+
+(#23) 1 Giant Troll 
+
+(AC 2) 
+
+- 54 WEST STAIRS 
+
+Arriving at the End of 8, 9, or 10 Melee Rounds (1/2-4/5-6) 
+
+(#9) 2 Ogres 
+
+(AC 4) 
+
+- 25,22 EAST STAIRS 
+
+(#25 8 Norkers 
+
+(AC 3) 
+
+- 9. 8, 7. 6, 
+
+& 26) 
+
+
+9, 8. 7, 6 WEST STAIRS 
+
+
+Arriving at the End of 11,12, or 13 Melee Rounds (1/2-5/6 
+
+
+(B-D) 9 Norkers 
+
+(AC 3)* 
+
+- 7, 6, 5, 7. 
+6, 5,7, 6,5 
+
+WEST STAIRS 
+
+1 Round Later 
+
+(E-G) 9 Norkers 
+
+2 Rounds Later 
+
+(AC 3)* 
+
+-7,6,5,7, 
+
+6,5,7,6.5 
+
+WEST STAIRS 
+
+(H) 3 Norkers 
+
+(AC 3)' 
+
+- 7,6,5 
+
+WEST STAIRS 
+
+3 Rounds Later 
+
+
+
+
+(#31) 4 Ogres 
+
+(AC 3)" 
+
+- 29, 27. 
+25,24 
+
+WEST STAIRS 
+
+Arriving at the End of 13,14, or 15 Melee Rounds (1/2/4-6) 
+
+(#30) 2 Norkers 
+
+(AC 3) 
+
+- 14,13 
+
+EAST STAIRS 
+
+1 Round Later 
+
+
+
+
+(#30) Witchdoctor 
+
+(AC 2) 
+
+- 21 
+
+EAST STAIRS 
+
+
+Arriving at the End of 16,17, or 18 Melee Rounds (1/2/ 3-6) 
+
+
+(#29) 4 Ogres (AC 5) -23,21, 
+
+18, 17 WEST STAIRS 
+
+Arriving at the End of 19,20, or 21 Melee Rounds (1/2-4/5-6) 
+
+
+(#1, 6. 6 Norkers (AC 3) -8,6,7, 
+
+& 14) 5, 6,6 EAST STAIRS 
+
+(#1, 6. 6 Norkers (AC 3) - 8, 6. 7, 
+
+& 14) 5, 6. 6 WEST STAIRS 
+
+Arriving at the End of 23,24, or 25 Melee Rounds (1/2-3/4-6) 
+
+
+(#15,32) 6 Gnolls (AC 4) -15. 15. 12, 
+
+11,11,11 EAST STAIRS 
+(#15,32)6 Gnolls (AC 4) -15,12,12, 
+
+11,11,11 WEST STAIRS 
+
+
+AVAILABLE AS SITUATION DICTATES FROM 6th MELEE 
+ROUND ON 
+
+(#2) 2 Hill Giants (AC 4) -42,39 
+(#8) 1 Mountain (AC 2) -78 
+
+Giant 
+
+'These are bearers of 10-flask capacity oil kegs; their 
+burdens will be set aside immediately, and the bearers be 
+in melee on the next round. 
+
+"Trained to hurl missiles up to 9", these ogres will 
+immediately begin hurling these kegs on the round after 
+they arrive, aiming at figures with or near torches. 
+
+Note: Gnolls with pole arms will be in the rear with arms 
+lowered to protect front rank of archers: thus attacker 
+must take 2 bow shots and pole arm attack to fight gnoll 
+archer. 
+
+
+12 
+
+
+
+Last Ditch: If after a protracted struggle involving the majority 
+of the "troops" detailed above the forces of the mountain giant, 
+Groorg, are defeated, the survivors will flee to the lower level. 
+There, most will go to theirown areas, seeking refuge. Note the 
+level key to show which are alive and with how many hit points. 
+There defenders will NOT be susceptible to surprise for 
+several days, and they will attempt to set up whatever ambushes 
+and protective barriers they can devise within their lairs. Be 
+creative! Survivors are trapped and will tend to fight to the 
+death. 
+
+The surviving gnolls and norkers will beat a fighting retreat 
+down the east or west stairs, depending on which is easier. 
+They will then use corridor 1. -6.. east or west, as a cleared lane 
+to detect the enemy, while the mass of them shelters in area 14. 
+As pursuit comes south, they will harass the enemy with 
+missiles, if possible; otherwise with suicide groups, while the 
+rest slip through area 14. and go north up the corridor to which 
+the enemy is opposite. All these humanoids will then return 
+up the stairs to the upper level. If their number is greater than 
+20 total, they will set up an ambush for returning foes provided 
+that they have a leader with them - witchdoctor, subchief, or 
+sergeant. If 20 or fewer survive, or if they are leaderless, they 
+will flee the Temple. If an ambush is devised, rocks and the like 
+will be dropped on persons if possible, and missile troops will 
+shelter themselves. Again, be creative! 
+
+General cooperation will absolutely deteriorate when a defeat 
+occurs, so do not band all of the fleeing survivors together. 
+Outside of the humanoids, who are used to fighting in loosely 
+organized bands anyway, the surviviors are now on a "save 
+yourself" basis, although trolls might group with trolls, ogres 
+with ogres. If the monsters were of lawful alignment, 
+organization, plans, and timing would be well determined in 
+advance, and a defense would be better overall. However, 
+these fellows are chaotic. 
+
+4. BOXES. CRATES. BARRELS, AND BALES: The heap of 
+such materials as are typically found in a warehouse is 
+confusing because of its condition - disarrayed to say 
+the least. Examination reveals that the contents of these 
+containers are mainly foodstuffs of dubious quality for 
+human consumption, cheap and shoddy cloth, water, 
+and not much else. 
+
+If a careful inspection is made, one box with enough 
+dried meat to feed about 100 persons will be found; and 
+this meat is quite acceptable to human palates. One 
+barrel is filled with wine of reasonable quality (40 gallons 
+volume), but nothing else of any real worth is amongst 
+the stuff. 
+
+5. MORE BARRELS, BOXES,SACKS.CRATES, ANDSTUFF: 
+Another jumbled heap of materials is lined up to the east. 
+When you look it over, you realize that there is nothing of 
+much value here, although one of the sacks contains 
+dried galda (both fruit and seed-nut) enough for 100 
+persons. The other foodstuffs and cloth are so poor as to 
+be unsuitable for you. 
+
+Close examination of one smallish crate will uncover a 
+stick of 10 score of arrows suitable for use in a longbow. 
+
+6. SCREENED AREA: The wall running from the entry 10' 
+into the room effectively screens off this area from 
+immediate view. Piles of old clothing, cloth, rags, and 
+leaves show that about a dozen norkers bedded down 
+here regularly. You kick through the stuff, but there is 
+nothing worth taking. 
+
+
+7. SCREENED AREA: This area is a repeat of the one to the 
+east. Rooting around in the bedding reveals a small bag 
+with 30 silver pieces in it, but nothing else. 
+
+Again, nothing else of any value is in the area. 
+
+8. STAIRS DOWN TO THE LOWER LEVEL: A heavy stone 
+wall divides two flights of steps, both evidently going 
+down to the area below. By peering down you can see 
+that they run north for 20', have a 10' landing, and then 
+turn east and west respectively. 
+
+9. LITTERED QUARTER: The floor here shows signs of 
+small fires, and there are many heaps of stuff - more 
+beds evidently. From the look of it, some dozen or so 
+norkers slept here. Although you search more thoroughly 
+here, none of these filthy sleeping places reveals any 
+treasure. 
+
+The burned sticks and ashes of one fire hide the treasure 
+of the subchief, a large piece of jade worth 1,000 g.p. 
+There is no other treasure. 
+
+10. LITTERED QUARTER: Just as the section of the level to 
+the northeast, so too is this one covered with heaps of old 
+cloth and leaves and grass. Only, from the size of these 
+heaps, it is evident that some dozen gnolls bedded down 
+here. A search of the largest heap reveals a rather nice 
+feather pillow with a somewhat soiled silk covering, a 
+large sack containing 247 gold pieces, and a small 
+dagger with a silver handle and a topaz set in the pommel 
+(value 350 g.p.). All the rest is mere junk. 
+
+
+
+Feeling the pillow will easily reveal that it holds nothing 
+save feathers, rather lumpy, but perhaps worth keeping. 
+Hidden within the stuffing of down is a Quaal's Feather 
+Token, a strange arrow-like feather with four shafts. 
+When placed against a bowstring, this Token becomes a 
++4 magic arrow cluster - obviously more than one 
+arrow, yet but a single shaft as far as aiming and firing are 
+concerned. Once fired, the missile divides instantly into 
+four arrows. If more than one opponent is before the 
+archer, each arrow will seek out a separate target, so that 
+up to four will be struck potentially. The target originally 
+aimed at will always get one arrow, plus any odd ones. 
+
+There is nothing else of value in the area. 
+
+LOWER LEVEL 
+
+1. LANDING: As one comes down the stairs, the floor of this 
+area is immediately noticeable. Instead of the dull black 
+
+
+13 
+
+
+I 
+
+
+of the level above, it is of polished obsidian. So too the 
+wall to the north, but this has something else. If gazed at 
+intently, it seems as if a faint pattern of figures outlined in 
+deep purple can be discerned, but to look so causes the 
+eyes to ache. A mere glance reveals no such tracery, and 
+no amount of staring can last long enough to actually 
+discover what, if anything, is weirdly limned on the wall. 
+(A gem of seeing or a like spell will reveal that there are 
+moving figures on the wall, but they can only be vaguely 
+discerned with normal sight. These robed mannequins 
+march in an unending stream, seeming to come from 
+behind a hill and go into oblivion through a spinning 
+vortex of mauve.) 
+
+2 Workers: AC 3; MV 9"; HD 1 +2; h.p. 8. 6; #AT 1; 
+D1-3/1-6. These two guards stand so that one watches 
+the steps while the other looks south down the corridor. 
+If there is trouble above, the sentry from there will 
+carefully relate what is occuring to these two guards, and 
+then he will return to his post at the head of the steps. The 
+two guards will immediately split up, one moving down 
+the corridor to the south to alert the sentries at area 14., 
+the other to warn the inhabitants of areas 2. and 3. or 23, 
+and 24. as applicable. 
+
+2. LARGE ANTECHAMBER:This square room has strange 
+striations of color on its walls. These lines of plum-color, 
+mauve veins, and lilac worms, make the beholder some 
+what nauseous if he stares at them for more than a few 
+seconds. These colors are faint, but they seem to writhe 
+and twist when not looked at, as if as soon as the viewer 
+looked away they took up some secretive and obscene 
+motion observable only from the corner of the eye. There 
+is a single door in the place, a slab of ancient bronzewood 
+on the west wall. 
+
+2 Hill Giants: AC4; MV 12"; HD8 +1 -2; h.p. 42,39; #AT 1; 
+
+D 2-16; SA hurl rocks for 2-16 points of damage; each 
+
+has both a club and 3 rocks in a huge sack. 
+
+When the alarm is raised, these two giants will rouse the 
+inhabitants of area 3. and then proceed to area 8. where 
+the leader will give them instructions. 
+
+Furnishings: Whatever furniture was originally in the 
+place, no one knows, for all that now occupies the 
+chamber are two huge mounds of bedding - ogre or 
+giant sleeping places. There are two small casks of 
+water, one by each "bed". A large sack also rests by each 
+bed, but each seems to be virtually empty (and, in fact, 
+holds only a couple of stones). 
+
+Treasure: Each giant has a stash of gold coins in his bed. 
+One totals 1,203 g.p., the other adds up to 1,722. They 
+have nothing else of value. 
+
+3. MAUVE CHAMBER: This 40' long, 20' wide room has 
+walls of mauve-colored material. While they could be of 
+highly polished stone, none of you have ever seen 
+anything like it before, so you are uncertain as to what it 
+is. A quick test reveals that the substance seems of 
+mineral nature and is as hard as granite. The floor and 
+ceiling are of the polished obsidian seen elsewhere, but 
+the floor has pyramids incised on it, one every few feet, 
+all with bases to the north, points to the south. The 
+ceiling also seems to have carving, this in bas relief. 
+Peering upwards, you think that it shows patterns of 
+tentacles and human figures, interlocked, but the work is 
+so intricate as to make a certain identification impossible. 
+
+3 Trolls: AC 4; MV 12"; HD 6 +6; h.p. 38, 36, 33; #AT 3; 
+
+D 5-8/2-12; SA fight up to three different opponents in 
+
+any round; SD regenerate 3 points/round three rounds 
+
+after taking damage. 
+
+
+When alerted by the giants, or any other inhabitant of the 
+place, these monsters will move immediately through 
+areas 2. and 1go up the stairs, and attack any enemy 
+they discover in the upper area. 
+
+Furnishings: The rotten remains of a bed, couch, table, 
+and chairs indicate that this was once the bed chamber 
+of some important figure. The bed and the couch have 
+been converted into troll nests. The reek of those 
+stinking monsters, and the remains of their feeding, 
+make it doubly disgusting. There is a battered armoire 
+against the north wall with one door missing, but its 
+drawers still intact. A moldering pile of cloth in the 
+bottom of the cabinet shows where some article of 
+apparel ends its days. The drawers, opened, reveal the 
+same. 
+
+Treasure: The trolls each wear their treasure, one a 
+golden ring with a diamond (value 3,000 g.p.) on its 
+finger, the other a jade bracelet on a thong around its 
+neck. (The bracelet is fragile, and a fall will destroy it. but 
+intact it is worth 5,000 g.p.) Behind the bottom drawer is a 
+small copper box. green with verdigris. Inside it are 7 
+pieces of Incense of meditation, but due to its age, there 
+is a 50% probability that its dweomer's efficacy will have 
+failed and the block produce nothing other than a 
+grayish smoke (which does nothing special). 
+
+4. SECRET DOOR:This rotating wall section is so cleverly 
+made so as to defy detection by visual inspection. A 
+tapping of the exact spot of the secret door will sound 
+slightly different than the rest of the wall (1 in 4 chance of 
+noting this slight difference). The door operates by 
+pressing inwards and downwards with the palms held at 
+shoulder height. A 2Vi' wide section of the wall will then 
+turn clockwise forcing the individual into the secret room 
+(5.). See also the special paragraph pertaining to the 
+INSET AREA designated by color on the level map. 
+
+5. SECRET ROOM;The only methodof entry into this area 
+is through the secret door (4.) in area 3. Once inside the 
+room there is no egress save by repeating the process of 
+secret door activation, except this time to the south, 
+where the revolving wall section will allow entry into the 
+INSET AREA only (see below). 
+
+Furniture: The room once held treasures of paintings, 
+tapestries, and exquisite furniture. Dampness and the 
+decay of time has brought all to ruin including one small 
+table inlaid with semi-precious gemstones. However, if a 
+careful search of the mound of decaying wood is made, 
+from 21-40 gems of base 10 g.p. value will be found. 
+(Other items of small size or precious metal were long 
+ago removed from this place.) 
+
+Inset Area: This secret area is a low-ceilinged room partially 
+under the flight of stairs from the upper level. It can be reached 
+from room 5. or from the secret closets off of areas 21. and 22. It 
+can be exited by the latter means as well, or through use of the 
+pivoting wall section, with entry to area 3. The features of note 
+in this area are: 
+
+1) Spy hole to corridor and beyond. 
+
+2) Secret closet containing: 3 strange, hooded robes of 
+deep purple, 2 iron thuribles with iron chains, and an iron 
+box, all iron unrusted. Detect magic will reveal dweomer 
+on all items, an abjuration on the robes, an abjuration on 
+the iron items, and a faint aiteration/invocation also 
+coming from the box. The robes are very long, fully 7' but 
+by use of the black cord belt each has, the hem can be 
+adjusted so as to just sweep the ground. The sleeves are 
+
+
+14 
+
+
+so long as to reach at least V below the hands of even a 
+long-armed man. With each robe is a long, pointed hood 
+whose front and back points reach well down on the 
+wearer's torso, and whose sides cover the shoulders. The 
+pointed front and back pieces are decorated with inverted, 
+two-tiered black pyramids. Each hood has narrow, 
+slanting eye holes. The pointed top extends a foot or 
+more above the crown of the wearer's head. The thu ribles 
+open by pressing a catch at their equator. The bottom 
+hemisphere has a cup-shaped depression, as if to 
+receive something rounded. The box of iron opens only 
+by touching its lid and speaking the name "Tharizdun", a 
+knock spell, or a chime of opening. Inside are 18 small 
+black globes - incense to fit inside the thuribles. Each 
+ball burns for 3 turns without any noticeable smoke, 
+heat, or light, as long as the thurible is kept in motion. 
+
+The effects of this incense are evident only in the 
+Undertemple and the Black Cyst (qq v). 
+
+3 ) Secret door to Inset Area which cannot be noticed by 
+casual inspection, even that of an elf. 
+
+4) Spy holes as 1) above. 
+
+5) Secretcloset containing 4 robes as in 2)above. Also here 
+is a strange iron horn with a handle set on either side of 
+its tube, 4 iron holders (torches when properly used), 
+and an iron box. The horn is "Wailer for Tharizdun". Its 
+horrible, deep tone seems to make the very walls of the 
+place shake, but it actually activates magic which is seen 
+in the Undertemple and the Black Cyst. It has no other 
+use discernible to the party. The iron holders have cone- 
+shaped depressions in their fluted upper ends. The box. 7. 
+just as the one in closet 2) above, can only be opened by 
+special means. It is larger than its fellow, and in it are 24 
+cones of dull black material, whose rounded upper ends 
+remind one of ice cream cones more than anything else. 
+
+Each cone, set into a holder and set afire, will give off a 
+pale, seemingly heatless radiance which sheds but faint 
+light. This will change in the Undertemple and Black 
+Cyst areas. The burning cone will stay alight for 1 hour. 
+
+6) Secret door detectable only as noted for 3) above. 
+
+7) Rotating secret door of mauve-colored stone. Here, the 
+sections of the revolving wall secret door are obvious, 
+but nonetheless, it will operate only when the individual 
+stands on the west face of the section, facing east, 
+pressing in and down with hand at shoulder height. It 
+gives clockwise to area 3. 
+
+
+8) Secret room approximately 20'. The place is quite bare 
+and covered with a fine layer of dust. 
+
+9) Shaft leading down approximately 5' square. There are 
+heavy bronze rungs on the south wall of the room and on 
+down the shaft. There are 333 of these rungs, leading 
+down to a depth of 333' beneath the surface. This is the 
+only entrance to the Undertemple. If care is not exercised 
+in climbing up or down these rungs, there is a 10% 
+chance per person so doing that one of these ancient 
+bronze bars will snap or pull free. Such an occurence will 
+plunge the character down from the spot of the breakage. 
+Roll d6 to see if it occurs in the upper, middle, or lower 
+third of the shaft, then roll percentile dice to determine 
+distance in feet, adding 100 or 200 if appropriate. 
+
+6. BROAD HALLWAY: This passage is 20' wide and nearly 
+30' high. Its vaulted roof is polished so as to send back 
+glints of light from below. Clearly discernible paintings 
+of something unintelligible to the human eye and brain 
+decorate the entire length of the hallway, from the first 
+great column near the stairs to where it turns 80' further 
+on. 
+
+2 Norkers: AC 3; MV 9"; HD 1+2; h.p. 7, 5; #AT 2; 
+
+D 1-3/1-6. 
+
+When alerted by the guards at 1., or by any other leader 
+type, these guards will move to the north and take station 
+out of sight in the side passageway, ready to alert others 
+or attack, as needed or directed. 
+
+2 Annis: AC 0; MV 15" HD 7 +7; h.p. 46, 41; #AT 3; 
+D 2-9/2-0/3-9; SA grapples if all attacks hit, attacks 
+thereafter are automatic hits; SD skin like plate mail 
+and edged weapons at -1 damage (blunt ones at +1). 
+
+These two ghastly monsters serve the master of the 
+place as cooks and maids. Unlike most of the other 
+minions, however, they will not venture forth to attack, as 
+they have no overwhelming desire to serve. Upon 
+entering this area, the party will see them in a changed 
+form, unless they surprise the annis. The two will take 
+forms of human women of the dumpy sort, appearing 
+large, strong, fat, and clad in apparel typical of kitchen 
+slaves. Each will curtsey, smile, and ask if the party has 
+come to rescue them from bondage in this kitchen 
+prison, where they feared momentarily that they would 
+be served as dinner rather than serving the giant dinner 
+anyway. When they are within melee range (10' or so) 
+
+
+
+15 
+
+
+each will attack, choosing the most powerful-looking 
+opponent as victim. (For details of this monster, see the 
+section dealing with new monsters and treasures at the 
+end of the module.) 
+
+Furniture: A great trestle table stands in the center of the 
+main part of the room. On it are various pots, bags of 
+stuff, a basket of dried peas, and slabs of meat. A side 
+board along the north wall holds similar stuff. While a 
+quick search reveals nothing in the way of treasure, there 
+is sufficient food here to feed a dozen hungry men for a 
+fortnight. (There is actually more food than that, but 
+much isn't such that a human would care to eat.) Crude 
+shelves along the walls hold various large crocks, jars, 
+etc. - obviously more kitchen gear. The furniture is 
+crude and relatively new, so it was probably made 
+recently for the new master of the place. 
+
+Treasure: There is a large sugar bowl filled with 29 g.p. 
+and 47 p.p. on one of the shelves, and this will be found if 
+a careful search is made. A crock of cooking oil actually 
+contains a potion of oil of slipperiness, but the latter has 
+settled to the bottom of the crock. If the oil is poured out 
+into a container where it can be seen, the fact that two 
+sorts of oil are in the jug will be noted, but otherwise the 
+magical stuff can only be detected by some special 
+means. Neither annis has any other treasure. 
+
+8. REFECTORY: This 50' by 20' hall was probably used for 
+meals when the whole place was used as the house of 
+worship of whatever deity it was built for. Although no 
+tables remain, the kitchen to the north proves this was a 
+dining hall. It has the polished black stone walls, floor, 
+and ceiling typical of the whole lower level, although 
+these walls have no strange coloration or decoration. 
+
+1 Mountain Giant: AC 2 (cave-bearskin jack with iron 
+plates attached, cave-bearskin leggings); MV 12"; HD 
+12; h.p. 78; #AT 1; D 4-40; SA hurl rocks up to 20" for 
+2-16 points of damage. 
+
+This fellow is master of the upper and lower levels of the 
+Temple, he is so tough that he will occasionally venture 
+to the dungeons beneath! His name is Groorg the 
+Cunning, and both his intelligence and wisdom are 
+exceptional. Thus, he has organized and maintained a 
+cohesive and powerful defense of his lair. In time of great 
+trouble, he will send his strongest servants to attack 
+invaders, retaining only his hill giant bodyguards on the 
+lower level in case the foes should somehow manage to 
+penetrate his defenses. 
+
+If defeat should occur, Groorg and his bodyguards will 
+retreat to the dungeons. The best of the treasure will go 
+with them, of course. They will make a stand in the great 
+cavern (area 24. of the Dungeon). If that appears hopeless, 
+the plan is to fall back into area 26., run down the passage 
+there, and escape into the wilderness of rocky ravines. 
+As the passage is narrow and low for even a hill giant, one 
+such creature can easily block it while the others 
+escape.... 
+
+Groorg knows nothing of the history of the Temple. He is 
+totally unaware of its name. He is interested in food, fun, 
+and treasure. All else is of small importance to a 
+mountain giant, even one of exceptional mental ability. 
+
+When a report of defeat reaches him, Groorg will 
+abandon his quarters, stopping first to gather up three 
+chests of treasure (area 11., chest #1, #2, and #3). He and 
+the pair of hill giants will proceed to the dungeon, leaving 
+
+
+instructions to the guards in area 14. to come below and 
+warn him if any enemies are seen on the lower level. Until 
+such foes are seen, the giants will remain in the relatively 
+safe area at the base of the stairway to the dungeon (1. 
+-4 ). Survivors of a defeat have been told that they too 
+should seek refuge in the dungeon area, but they have 
+been instructed to lurk just off the passages east and 
+west at the entrance ... In extremity, Groorg and his 
+bodyguards will then go to the cavern, ready their rock 
+missiles, and wait. 
+
+Furniture: A crude table and chairs of huge proportions 
+indicate that giants of some sort use this place for a 
+dining hall of their own. There is also a large-sized, 
+crudely made bench. There are a number of boxes, 
+crates, and barrels lining the north wall of the chamber. 
+The several small fireplaces along the east wall show 
+signs of having been used recently. There are many 
+torch brackets along the walls, and all partially burned 
+torches or stubs of them within. 
+
+
+Treasure: There is no treasure here. The containers all 
+hold various types of foodstuffs. The barrels have beer, 
+wine, ale, mead - none of any real value, but more than 
+sufficient to get the party drunk if they sample each 
+barrel to determine the quality of contents. 
+
+9. LIBRARY: although little remains to prove it, you suspect 
+that the few broken shelves and moldering bits of leather 
+and vellum indicate that this once was a small library. 
+The sconces and torch brackets remaining on the walls 
+indicate that books didn't occupy more than a fraction of 
+the wall space. At most a thousand or so volumes could 
+have been here. No one can guess what became of those 
+works - even the torches have not been used in years, 
+for cobwebs hang from them. 
+
+2 Ogres: AC4 (leathercoats); MV9" HD4+1; h.p. 25,22; 
+#AT 1; D 1-10; SA each carries a spear to hurl before 
+closing to melee-D 3-8 (+2 strength bonus included). 
+
+It is unlikely that these two creatures will be in their 
+quarters, as during time of trouble, they will be alerted by 
+the noise and venture forth to join the forces fighting 
+above or in the hallway areas 1.-6. 
+
+Furniture: There are two heaps of old cushions and cloth 
+in the north end of the room. Two boxes with a plank 
+form a table, with two nearby casks obviously serving as 
+stools. There appears to be nothing of value in this room. 
+
+Treasure: As usual, the boxes hold (bad) foodstuffs, one 
+cask water, the other some sour beer. There is nothing of 
+value here. 
+
+10. SCRIPTORIUM: There is no doubt that this 10' by 30' 
+room of polished black stone was at one time a 
+scriptorium. There are an unusual number of sconces 
+and torch brackets here, and there are even the remains 
+of copying desks piled up in the southern portion of the 
+place. 
+
+Furniture: There are numerous boxes, sacks, barrels, 
+crates, and bags all stuffed in here in a considerable state 
+of disarray. From the look of them it appears as if they are 
+supplies of food and drink. 
+
+Treasure: None, as this place is simply a store room for 
+the giant's personal table. There are 3 barrels of oil here 
+and a jug of strong acid (40 ozs.). 
+
+
+16 
+
+
+
+11. GREATROOM: Thischamberisaslargeastherefectory 
+- 50' long and 20' wide. It also has numerous small 
+fireplaces along its east wall. While it is only possible to 
+speculate, this hall might have been used for fetes or as a 
+common room for a large number of persons. 
+
+2 Dire Wolves: AC 6; MV 18"; HD 3 +3; h.p. 27.24. #AT 1; 
+D2-8 - +2 for male, +1 for female, due to unusual size; 
+SA double damage on any hit scored on a 20 due to 
+jaw strength. 
+
+These huge wolves stand nearly 4' tall at the shoulder, 
+and are kept by Groorg as pets and guardians of his 
+personal bedchamber. If anyone other than their master 
+dares to enter, each will spring to attack. Because of their 
+positioning, they will always surprise any opponent not 
+aware that they are lurking within. Roll a d4 to find how 
+many unanswered attacks each character receives due 
+to this unexpected attack. (See also 12., below for 
+monster information.) 
+
+Furniture: There is a strange bed of enormous size. This 
+odd construction of logs and planks occupies 20' of the 
+west wall. Sconces are used as wall pegs and hold 
+various giant-sized garments. Near the entrance is a 
+crude table and a chair. Next is a large barrel, a small 
+cask, and a crate. Against the far wall are (five or TWO) 
+chests. Near them are a great club, several giant-sized 
+spears, and a notched bastard sword which seems to 
+have seen service as a dagger. 
+
+Treasure: There is nothing of value in the bed. The 
+garments are all normal sort. The table and chair hide 
+nothing. The barrel holds mead, Groorg's favorite drink. 
+The small cask holds plain water. The crate has various 
+dried fruit and some sausages - bedtime snacks. The 
+weapons are nothing special, save the bastard sword. It 
+is a -2 cursed sword, thus discarded as a dagger by the 
+wily giant. If it is tested, it will seem to be an excellent 
+glowing magic blade. (Note that this weapon can be 
+discarded if the wielder notices that it is a cursed 
+weapon; but the sword exudes a confidence in battle 
+which will make the holder unlikely to notice any unusual 
+misses or light damage.) The chests contain: 
+
+Chest #1: Carved amethyst chalice worth 5,000 g.p., 
+gold flagon with gems worth 3,500 g.p., 3 pieces of 
+miscellaneous jewelry, an ivory box with jeweled 
+cover worth 2,000 g.p., a leather pouch with 21 base 10 
+g.p. gems, and a crystal ball (worth 500 g.p.) wrapped 
+in a bolt of silk. 
+
+Chest #2: An ordinary statue of an onyx gargoyle 
+(upon which some wag placed a Nystul s Magic Aura) 
+worth 100 g.p., 2 giant weasel pelts worth 250 g.p. 
+each, a small leather sack with 148 p.p., a tapestry 
+valued at 275 g.p., and a carved pair of ivory tusks of 
+small size (but fine work) worth 1,000 each. 
+
+Chest #3: 4,300 g.p. 
+
+Chest #4: 1,874 e.p. intermixed with 2,308 silver coins. 
+There are also 3 10 pound bars of silver. 
+
+Chest #5: 4,094 c.p., 17 1 pound copper bars, and 9 
+small leather bags containing 50 bronze pieces each. 
+
+
+12. SQUAREROOM: Whatthis place wasoriginally used for 
+is beyond determination. The room is most unusual, 
+
+
+having a floor of deep plum color, walls of violet-purple, 
+and a mauve ceiling. Instead of sconces or torch brackets, 
+there are candleholders of black metal. The small fire 
+place on the south wall is of obsidian. 
+
+2 Ogres: AC 3 (hide armor and shields); MV 9"; HD4 +1; 
+h.p. 26, 23; #AT 1; D 1-10; SA each carries a spear to 
+hurl before closing to melee - D 3-8 (+2 strength 
+bonus included). 
+
+These two monsters guard the passageway to the master's 
+private area whenever he is in the Temple-always these 
+days. They remain on station in times of trouble, awaiting 
+the command of Groorg. He is likely to instruct them to 
+lurk in their guardroom and not to leave that post until 
+they are attacked themselves or hear fighting up the 
+corridor. If the party enters area 11. the noise of the 
+combat with the dire wolves will certainly bring both 
+ogres to the attack. They will charge out of their lair, hurl 
+their spears, and close to attack on the second round of 
+combat with the wolves. That is, by the time the wolves 
+are attacking for the second time, these two will be 
+hurling their spears. When second round combat is 
+finished, they will be in melee range. If they attack by 
+surprise, they can then strike unanswered blows. 
+
+Furniture: A large table of rude construction and a pair of 
+barrels are the only furnishings in the place. A heap of 
+torn clothing and old cloth appears to form a rude bed. 
+
+Treasure: The ogres have nothing of value. The barrels 
+hold food and water respectively. If a careful appraisal of 
+the candleholders is made, it will be seen that they are 
+made of solid silver, beautifully worked, and are worth no 
+less than 100 g.p. each. Up to four will fit in a large sack. 
+
+13. VIOLET ROOM: This 20'by 30'chamber is all of stone of 
+a dull violet color. Its walls have no decoration, but its 
+ceiling is domed. The floor has a hollow place, a regular 
+oval some 10' long and about half as broad. This 
+depression runs the length of the room, being in the 
+center, directly under the arch of the dome above. The 
+basin thus formed is sheer-sided for about 2', then 
+curves smoothly to a depth of about 3' total. 
+
+(This place was once the bathing chamber for the High 
+Priest. Hidden beneath a stone floor slab are corroded 
+valves which allow water to flow into the pool. One of the 
+stones in the bottom of the depression is removable, and 
+beneath it is a stoppered drain.) 
+
+Furniture: There are a pair of corroded bronze braziers in 
+the far corners of the room. The remains of some sort of 
+high bench and two chairs are likewise there. All of 
+these furnishings are rotted and broken. 
+
+Treasure: This place has no treasure. The current inhab 
+itants of the Temple dislike the room, feeling uneasy in it, 
+so the place is shunned. 
+
+14. COLUMNED HALLWAY: The 20' wide passage is 
+screened by several thick pillars of shining black stone 
+worked with figures of writhing forms-snakes, tentacles, 
+people, worms? Who can say? It is certain that looking at 
+them makes even the strongest man feel slightly weak 
+and sick. These columns divide a north-south passage 
+into two corridors of 10' width. They lead north to a broad 
+opening into some unknown area and south into a 
+passageway whose roof slopes slightly downward, as 
+does its floor. In this latter place, there is some form of 
+stone railing, with small pillars set floorto roof around it. 
+
+
+17 
+
+
+
+
+2 Norkers: AC3; MV 9"; HD 1 +2; h.p. 2x6; #AT 2; D1-3/1 -6 
+
+These guards are stationed to relay information anywhere 
+needed, and also to see that something nasty has not 
+come up the stairs from the dungeon, overwhelmed the 
+guards there, and become free to cause havoc amongst 
+the servants of Groorg. In time of great need, these 
+guards (along with all of the rest of the norkers and 
+gnolls) will be sent above to fight off attackers. 
+
+15. STAIRCASE DOWN: This stairway is of deep gray rock, 
+as is the rest of this passage. Even the small pillars rising 
+to the ceiling and the rail and posts of stone around the 
+flight of steps are of the same material. A slight breeze 
+wafts upwards from the place beneath. 
+
+4 Gnolls: AC 4 (iron plates on coats); MV 9"; HD 2;h.p. 15, 
+12,2*11; #AT 2 or 1; D 2 with great bows for 2-8,2 with 
+glaive-guisarmes for 2-8. 
+
+These are stair guards, continually watching for monsters 
+to attempt to come up from below. Because of the nature 
+of their duty, the archers have silver-headed and iron- 
+tipped shafts in equal proportion (10 each). The iron 
+headed pole arms of their companions are likewise 
+chased with silver. I n time of extreme trouble, even these 
+guards will be sent up to battle with invaders, Groorg 
+himself moving down into the depths below. 
+
+
+16. GREAT CHAPEL: This area appears to be a long- 
+abandoned chapel or small temple, but in whose honor it 
+is impossible to state. The whole is 40' wide and about 60' 
+long, with the far (north) wall concave, the curve being 
+smooth and shallow. Small, fluted columns of deep black 
+stone line a 20' aisle, leaving a 10' wide space beyond on 
+both east and west walls. Within the front 40' of the place, 
+all stone is black. Beyond, where a stone rail rises 3' from 
+the floor, and a curving step or dais rises 1 1 and meets the 
+back wall, floors and walls are of deepest purple, al 
+though the ceiling remains black. 
+
+17. AISLE: The 10'wide area seems to have been well-used, 
+for the floor is worn down, and the walls are likewise 
+slightly dished by the touch of many bodies. If the walls 
+are actually touched, the character will feel a tingling and 
+his or her vision will go black for a fleeting moment, then 
+sight will be restored. Tactile sense will discover that 
+there are strange, indiscernable convolutions here which 
+form mind pictures when touched. These impressions 
+are pleasurable and unsettling at the same time. Any 
+person failing to save versus magic after experiencing 
+this sensation will attempt to return and feel the sensation 
+once again. If this happens, that individual will auto 
+matically experience the following things: 
+
+1) (On a roll of a 1 or a 2 on d6) his or her vision in total 
+darkness will seem normal, but, any light brighter than a 
+hooded lantern will be disgusting to him or her, and he or 
+she will immediately ask that it be extinguished or else he 
+or she will go elsewhere. 
+
+2) Strange desires will begin to flood the individual's 
+mind during times of quiet. These desires will be 
+unwholesome at first, then absolutely strange ... 
+
+3) The name of Tharizdun will rise unbidden to the 
+individual's lips whenever he or she is under stress 
+and needs aid. 
+
+All of these effects can be removed with a simple bless 
+spell if accomplished within 3 days. Thereafter it will 
+require combined prayer and remove curse to cleanse 
+the effects of the dweomer. 
+
+18. ALTAR RAIL: The square fore portion of the chapel is 
+divided from the sacred portion by a railing of puce-hued 
+stone. This railing is 3' high and intricately carved and 
+pierced. This work is disgusting and disturbing in nature, 
+being of vines and tendrils, tentacles and serpentine 
+bodies intertwined with human forms and skeletons and 
+other things unknowable. There is a 3' wide gateway in 
+the exact center of the rail. (If any non-cleric touches the 
+rail, they will feel ill and lose from 1-4 points of both 
+strength and dexterity for 3 hours. A cleric doing the 
+same must save versus death magic, a save indicating 
+that he or she is affected only in the same manner as a 
+non-cleric.) 
+
+20. RAISED SECTION: This step or dais appears to be the 
+place where an altar service might have been conducted. 
+There is a low table of black mineral which has bits of 
+shiny purple within its polished surface. (If this is 
+touched by non-clerics, they will take from 1 -10 points of 
+cold damage and otherwise be affected as if they 
+touched the railing. Clerics must save versus magic to 
+avoid death and suffer only the same effects as non 
+clerics.) To either side are rotted and crumbling chairs of 
+some sort. There are piles of rusted metal near the doors 
+on the north wall. What devices or purposes these items 
+
+
+18 
+
+
+once served is impossible to tell. On the wall behind the 
+altar stone there is an anomoly. The violet color of the 
+stone seems to bear the indistinct shadow of a large, 
+vaguely-human shape. But it is so obscure, and so 
+uncertain in form, that it may be a trick of light playing 
+upon the curving surface of stone. (Touching this area 
+will be the same as touching the walls of the chapel twice. 
+If the wall here is touched a second time, the individual 
+so doing must save versus paralysis or fall into a morose 
+dejection, refusing to fight or move. This will end in 
+approximately 1 hour, and thereafter the individual will 
+have an overwhelming desire to remain in the Temple and 
+get to know its every aspect, certain that something is 
+there which must be discovered. Bless, prayer, and 
+remove curse are needed to rid the victim of this desire.) 
+
+21. VESTRY: Although it is not certain, this place was 
+probably the robing room for the clerics who once dwelt 
+here and served their unknown deity. The rotted remains 
+of several closets line the east wall, and there appear to 
+be vestments of indeterminate stuff moldering away 
+there also. There is but one door other than the one by 
+which you entered, a heavy bronzewood door to the 
+west. It, like the door into this chamber, has a corroded 
+bronze bar to secure it from inside. (This place, like the 
+whole of this small temple chapel, is shunned by the 
+current inhabitants of the place.) 
+
+Furniture: Other than the dilapidated closets, there are 
+only two rotted chairs and a fallen table, one leg turned to 
+powder. There are the usual wall sconces, but they have 
+been unused for decades from the look of them. 
+
+Treasure: Nothing of value was left behind here. (Seethe 
+previous section, INSET AREA, for details of the secret 
+door in the north wall.) 
+
+22. SANCTUM: This room is similar to the others you have 
+seen here, for it is all of black stone. However, there 
+remain bits of rotten carpeting on the floor, and it 
+appears that an arras or tapestry must have rotted and 
+fallen from the west wall, for there is a moldy heap of 
+something there. There is a door to the east and a door to 
+the north in the curving wall. Both can be barred from 
+inside, although the bronze bar is corroded and does not 
+look very strong. 
+
+Brown Mold: AC 9; MV 0", HD special: h.p. special: #AT 
+0; D 0; SA drains 1 -8 points heat (equals frost damage 
+to victim) for every 10° of body heat over 55° F. (4-32 
+for characters) if within 5', growth of 5' occuring with 
+such draining: SD killed only by magical cold. 
+
+This small patch of brown mold makes the temperature 
+in the sanctum slightly lower than elsewhere, but unless 
+someone asks about the atmosphere or temperature in 
+the chamber, the lower temperature will not be noticed. 
+The mold is growing on the tapestry which has fallen 
+from the west wall. 
+
+Furniture: There are several decayed chairs scattered 
+here and there. A rotting divan lies in a heap next to the 
+east door. Several low stools surround a place on the 
+floor where lilac-colored stones have been inset to form 
+a two-tiered pyramid. Near these stools is a low wooden 
+table with a great mound of dust on it. 
+
+Treasure: The only treasure in the room is resting on the 
+table near the stools. This, in turn, is within 5' of the 
+brown mold. The dust covers a small box of jet. In this 
+
+
+box remain several (2-5) small black beads, each about 
+three-quarters of an inch in diameter. Examination will 
+reveal that these are neither stone nor pearl. They radiate 
+a faint dweomer. evocation magic for certain. These are 
+beads of force which can be hurled up to 3" by the 
+possessor. (For details of their effects, see the section at 
+the end of the module which deals with new magic 
+items.) 
+
+23. LARGE ANTECHAMBER: This chamber is approximately 
+40' square, with walls, ceiling, and floor of polished 
+obsidian - or obsidian-like stone, for the material is not 
+normal. The stone contains thin lines of purple - plum, 
+lilac, violet - every imaginable shade of that color. 
+These veins resemble worms or tendrils, and when seen 
+out of the corner of the eye there seems to be a writhing 
+movement going on. When the eye is directed squarely at 
+the surface, it appears quite normal, if a bit disturbing. 
+There is a lone door to the east in the northernmost 
+portion of the wall. 
+
+1 Giant Troll: AC 2 (leather and iron skirted jack); MV 1 2"; 
+HD 8; h.p. 54; #AT 1 (or 2); D 2-16 (or 2-7/2-7J all +2 
+due to size and strength (4-18 or4-9/4-9); SA may opt 
+to hurl club: SD regenerate 2 points per melee round 3 
+turns after being damaged. 
+
+This huge specimen will rouse the inhabitants of area 24. 
+when the alarm is raised, herding them up into the fray. If 
+he believes the situation is not serious, he will hurl his 
+huge club at an opponent (4-18 points damage) and then 
+rush into hand-to-hand combat, taking on one or two 
+opponents at once as opportunity presents. If he thinks a 
+major attack is taking place, he will bring a barrel of oil to 
+hurl first, followed by a torch. The barrel holds 100 flasks 
+of oil. Under his armor this giant troll, Umbog by name, 
+wears his treasure - a belt (worn as a necklace) set with 
+gold and gems worth 6,000 g.p. (10 base 50 g.p. gems, 10 
+base 100 g.p. gems. 2 base 500 g.p. gems, and 1 base 
+1,000 g.p. gem - no increase in value possible if belt 
+damaged.) 
+
+Furniture: Who knows what splendor once reposed in 
+this chamber. It now reeks of troll-strench, and the 
+furnishings indicate that whatever made a lair here was 
+far from delicate. There is a vast heap of sticks, leaves, 
+rags, clothing, pillows, and so forth in the southwest 
+corner of the room. Stacked crates and planks on the 
+west wall form some sort of table. There is a heap of 
+wood - old furniture, broken boxes, tree limbs, and the 
+like - piled against the north wall beside the fireplace. 
+Near the door are several thick spears of about 8' length, 
+crude weapons fit for use by a hill giant or ogre. It 
+appears that the torch brackets and wall sconces have 
+been torn from the walls. There are piled torches near the 
+entrance. 
+
+Treasure: The major treasure of the giant troll is worn by 
+him; but, under the firewood is another bit of loot, a large 
+sack containing 14 p.p., 297 g.p., 76 e.p., and 190 s.p. 
+There is nothing else of value. 
+
+24. AMETHYST CHAMBER: The floor and ceiling of this 20' 
+by 30' room are of translucent stone the color of 
+amethyst. It is certainly not that mineral, but the effect is 
+striking nonetheless. The polished black walls repeat the 
+lilac gleams of light reflected off the floor and arched 
+ceiling. Even though the room is striking, there is a 
+feeling of unease here, as if you are intruding in a place 
+not yours. 
+
+
+19 
+
+
+
+2 Trolls: AC 4; MV12"; HD 6+6; h.p. 39, 31; #AT 3; 
+D 5-8/5-8/2-12; SA fight up to 3 different opponents 
+in any round; SD regenerate 3 points/round three 
+rounds after taking damage. 
+
+When alerted by the giant troll, this pair will immediately 
+rush to the defense of the Temple's upper level. 
+
+
+Furniture: The smell of troll is strong, and the furnishings 
+in the room indicate it is now a trolls' lair. Two noisome 
+heaps of material on the east wall evidently form nests for 
+a pair of these monsters. There are a couple of barrels 
+and three boxes scattered in the center of the place. 
+There are cressets set in the walls, but they have not been 
+used for many years. 
+
+Treasure: The troll nests are just heaps of smelly rags 
+and such. The barrels hold water and vinegary wine 
+respectively; (but there are 3 potion bottles in the water 
+barrel, detectable only if the water is poured out and if 
+the barrel is tipped over, there is a 5 in 6 chance these 
+potions will be broken in the process. The potions are: 
+Extra-Healing, Healing, and Superheroism.) The crates 
+hold food of unwholesome sort, but there is also a bag of 
+500 g.p. in the third box. 
+
+
+25. PRIEST'S CHAMBER: This 20'by 10" room was probably 
+the bedchamber of a lesser priest, for its black walls are 
+decorated with the mauve reversed pyramid. A raised 
+block of stone, some 2' high, 5' wide, and 10' long spans 
+the room's east wall from north to south - evidently a 
+base for the inhabitant's bed. There are sconces on the 
+wall except where this block rises. 
+
+4 Norkers: AC 3; MV 9"; HD 1+2; h.p. 9. 8. 7, 6; ffAT 2; 
+D1-3/1-6. 
+
+Treasure: One of the stones under a box is loose, and the 
+norkers have used it to hide their loot: 16 g.p., 11 e.p., and 
+49 s.p. If anyone looks at this section of floor they will 
+certainly see it has been pried up. 
+
+26. PRIEST'S CHAMBER: (Same as 25., above, only raised 
+portion is along the west wall.) 
+
+4 Norkers: (As 25., above.) 
+
+Furniture: (As 25., above, only several small sacks tied 
+shut as well.) 
+
+Treasure: This group of norkers has 8 p.p., 4 g.p., 11 e.p., 
+17 s.p., and 62 e.p. hidden in various portions of their 
+sleeping place. The kegs and boxes contain food and 
+odds and ends of junk. One sack holds goblin and gnome 
+skulls. The other is stuffed with dried grass and an asp: 
+AC6; MV 15"; HD 1 -2; h.p. 3; #AT 1; D 0; SA poison (save 
+at -2), very fast and strikes rapidly so surprises on 1 -4 and 
+gets +2 on initiative die. The snake was to be used for a 
+"joke" on the giant troll when opportunity presented ... 
+
+
+27. LONG PASSAGEWAY: This passageway of black stone 
+is lined with doors, 9 of them in fact. From the look of 
+them they are probably the entrances to the cells in 
+which the lesser clerics of this place lived. 
+
+1 Ogre: AC 4 (leather coat); MV 9"; HD 4 +1; h.p. 24; #AT1; 
+D 1-10. 
+
+
+This creature serves as a guard, for there are prisoners in 
+the cells along the west wall. His fellow guard (also 27.) 
+faces him. These fellows do not leave their posts in time 
+of trouble; but they remain to defend the area, lurking out 
+of sight around the nearby corner so as to surprise any 
+intruder venturing west from hall 6. Neither is very 
+bright. 
+
+CELLS A. -1.: Each of these cells, save the first and the 
+last, is exactly the same. Each room is about 9' square 
+and has a raised stone block along the west wall - a sort 
+of combination bed and sitting ledge for the long- 
+vanished clerics of Tharizdun. Each now contains a mess 
+of old rags and leaves and the like to make the ledge 
+more comfortable for sleeping. There are various small 
+boxes, kegs, and sacks in each room, for each houses 
+several norkers - all on duty now - unless the worst has 
+happened. There will be 2-12 each of the following coins 
+hidden somewhere in each cell: electrum pieces, silver 
+pieces, copper pieces, bronze pieces. 
+
+3 Norkers: AC 3; MV 9"; HD 1 +2; h.p. 7, 6, 5; #AT 2; 
+D1-3/1-6; SA oil kegs (see below). 
+
+These special guards will be alerted if the Temple's 
+upper level is under heavy attack. Each of the 7 sets of 3 
+has a keg of oil equal in volume to 10 flasks. A pair carries 
+the oil in a sling to the upper level. The third has a 
+smoldering torch ready to fan into flame. At the point of 
+attack, these barrels will either be hurled upon the 
+attackers, rolled at them, or whatever, with the torch 
+pitched on to ignite the oil. The norkers then join in the 
+melee. (For overall details of battle plans, see "ORDER 
+OF APPEARANCE" under THE FORGOTTEN TEMPLE 
+OF THARIZDUN, DM Notes, preceeding this section.) 
+
+CELL A.: This room contains a pair of trussed up hu 
+mans, Kettites from a patrol ambushed some few days 
+ago and brought here. Both are normal men-at-arms, 
+but one is of a noble family who will give rescuers a 
+note stating that they have safe conduct through all 
+Ket due to favors rendered to the Family Aldeen, if he 
+is freed and given pen and parchment. Both are weak 
+and beaten, so they will need several days of rest and 
+care before they can journey back to their homeland. 
+
+CELL I.: This cell holds a chained mountain dwarf (fighter 
+thief; L 9/10; h.p. 58 (now 22); SA and SD as for race and 
+classes) captured attempting to sneak into the Temple. 
+This fellow is Lawful Neutral, and he is quite anxious to 
+gain a bit of treasure for his trouble - here and during 
+the course of his adventuring to get to the area. Naturally, 
+he has no armor or weapons, so he will attempt to beg off 
+actual fighting, stating a desire to come along as an 
+observer only to learn how real heroes operate. He is also 
+obviously somewhat damaged, all the more reason to 
+hang back and watch. If pressed, he will admit to being a 
+fighter of some skill, a champion amongst his kind. He 
+will give his name as "Teldroll Storis". He will NOT make 
+any covenant with the party which will prevent him from 
+stealing a choice bit of loot and then heading for high 
+ground. His armor and weapons are in room 30., but he 
+will not admit to the leather armor being his when he sees 
+there is dwarven chain there also. 
+
+
+28. SMALLROOM: The black walls, ceiling, and floor of this 
+20' square room make it seem smaller than it is. It may 
+have served as anything, for nothing about it is notable 
+enough to provide a clue. 
+
+
+20 
+
+
+
+(This is the barracks room for the various norkers on 
+guard duty at this time.) 
+
+Furniture: There are piles of cloth and like stuff scattered 
+all over the room. There are about a dozen small boxes 
+and barrels likewise broadcast throughout the place. 
+The four cressets on the walls seem to have been used 
+recently. 
+
+Treasure: There will be a scattering of coins hidden here 
+and there thoughout the room, 3-18 of each, gold to 
+bronze. Each turn of searching will discover 1-6 of each 
+sort until three turns are thus expended. There is nothing 
+else of value in the place. 
+
+
+29. PURPLE-DOMED CHAMBER: This 20' by 30' room has 
+a vaulted ceiling of dark purple. It is otherwise unremark 
+able in appearance, and its original purpose can only be 
+guessed at - perhaps the domicile or study of some 
+greater cleric. 
+
+4 Ogres: AC 5; MV 9"; HD 4 +1; h.p. 23,21,18,17;#AT 1; 
+
+D 1-10. 
+
+These fellows are recent recruits, but they are stupid and 
+quite willing to fight in any sort of battle. Thus, when they 
+are called to fight, they will gladly rush to the floor above 
+to have at it. Each has from 20-80 gold pieces stored with 
+their gear, and they will leave this behind in heat of 
+anticipated battle. 
+
+Furniture: Again, the heaps of stuff here seem to form 
+nests or bedding - six such places in all. A large bonfire 
+was recently built in the center of the floor and boxes 
+remain around it. Near each nest is a large sack. 
+
+Treasure: Four of the six sacks hold 20-80 g.p. each. The 
+other two have nothing worthwhile. The boxes hold 
+food stuffs. Under some old clothing in the corner is a 
+small keg of brandy worth 200 g.p.; the other two ogres 
+who sleep here brought this with their coins. (The brandy 
+will burn as hot as any oil if it is set aflame, although it will 
+last only half as long in burning.) 
+
+
+30. CLOTH-DRAPED ROOM: This 20'square room of black 
+stone is strange indeed! Its walls and floor are covered 
+with yards of cheap, red cloth. As the wall sconces and 
+torch brackets were used to hold the cloth along the 
+walls, its badly-hung folds reach only about 7' up the 
+walls. It looks as if someone went mad and tossed several 
+rolls of scarlet and crimson material round the room, 
+then having a change of heart, dicided to straighten out 
+the mess rather than do away with it. 
+
+1 Norker Witchdoctor AC 2 (+1 ring of protection): MV12" 
+(dexterity and size): HD 3+2; h.p. 21; cleric level 5, 
+magic-user level 2; #AT 2; D 3-5/3-10 (+2 strength and 
+size, weapon is scimitar); SA spells; SD ring of 
+protection. 
+
+SPELLS 
+
+1st Level 2nd Level 3rd Level 
+
+
+Cure Lt. Wounds Resist Fire Dispel Magic 
+
+Darkness Resist Fire (Gust Of Wind - 
+
+Prot. From Good Resist Fire On Scroll) 
+
+Affect Normal 
+Fires 
+Push 
+
+
+2 Norker Guards: AC 3; MV 9"; HD 2; h.p. 14.13; #AT 2; 
+
+D 2-4/3-9 (+1 strength, weapon is morning star). 
+
+The witchdoctor is commander of the norkers and the 
+gnolls, placed in charge by Groorg himself so as to 
+assure maximum co-operation from these humanoids. 
+Although the gnolls aren't happy with the situation, they 
+fear the power of this norker spell caster sufficiently to 
+obey fairly readily. It is he who had decorated his den in 
+his favorite color. When the norkers in the cells go into 
+battle, the witchdoctor will follow to see that all goes 
+well. His two guards will shield him for as long as they 
+live, keeping him free to cast spells. 
+
+
+
+First spells cast will often be resist fire, on himself and 
+either his guards or a powerful figure key to success. The 
+cure will always be kept for himself, as will the protection. 
+Other spells are cast as the situation dictates. 
+
+Furniture: There is an old couch in the room. It too is 
+covered with swatches of red cloth. Two heaps of brown 
+cloth appear to be less "august" beds. A crudely-made 
+table, bench, and a rickety chair occupy the south wall. 
+There are 4 kegs, 3 boxes, and a bag in the northeast 
+corner of the room. A small brazier stands in the middle 
+of the place, a large chest nearby. 
+
+Treasure: There is nothing in or under the couch. The 
+two heaps of bedding contain 3-30 each, platinum and 
+gold pieces. The table has a hollowed out leg in which 
+the witchdoctor has hidden 19 base 10 g.p. gems. The 
+kegs, etal, contain various sorts of food and drink, and a 
+supply of odds and ends of "witchdoctor" material: a 
+human-looking mask, a rattle, and colored powders, 11 
+types in all, one being dust of appearance. 
+
+The witchdoctor has a particular hatred of mountain 
+dwarves, coming from a tribe where continual warfare 
+between norkers and these demi-humans wiped out all 
+but a few of his folk. In the chest are: a dwarven-skull 
+drinking cup decorated with gold, a string of dwarven 
+ears, cloth woven from the fine beards of female dwarves, 
+a +2 dagger of like sort, a +1 suit of dwarven leather 
+armor, a suit of dwarf-sized elfin chainmail, and various 
+odds and ends of apparel and accouterments (some 
+taken from the prisoner in cell I. of course). The lid of the 
+chest has a large drawer. In it are various helmets and 
+mail coifs taken from slain mountain dwarf enemies. 
+There are 11 in all. 
+
+
+21 
+
+
+
+31. CHECKERED HALL: This 40' by 20' hall has a floor of 
+alternating purple and black stone, each block being 
+some 2V4' square. There are many sconces and torch 
+brackets along the purple stone walls, evidencing that 
+the place was once well-lighted by flambeaux and 
+candles. The ceiling is of dull black rock. 
+
+4 Ogres: AC 3 (Studded coats) MV 9"; HD 4 +1; h.p. 29,27, 
+25, 24; #AT 1; D 1-10; SA missile hurling, 6" range. 
+
+This quartet of brutes have a special berth because of the 
+skill which has been taught to them by the hill giant 
+body guards of Groorg. Having come about a year ago 
+to the summons of the mountain giant, they were so large 
+and strong that their master decided that they could 
+serve special duty. In a few months they had learned how 
+to grasp a missile, and then it was only a matter of weeks 
+before they could actually throw it! Now they can toss 
+smaller rocks (for 1-10 points of damage) or kegs full of 
+oil with considerable skill. In time of trouble, these four 
+will be called forth by the nearby ogre guard; and they 
+will hurry to join the fight above, following on the heels of 
+the norkers carrying the kegs of oil they are to toss at 
+enemies. Each has a firepot to hurl to ignite oil. 
+
+Furniture: It is surprising to note that the usual piles of 
+bedding material are thicker here than most of the other 
+places you have viewed. Although the place is large, only 
+four such heaps are here, all along the south wall. There 
+are four upended tuns here and a huge table, a real table 
+made taller by setting it on boxes. There is also an iron 
+chest against the west wall, which has a huge padlock 
+securing it. The fireplace on the south wall has been used 
+often - and never cleaned. A few sticks and logs are 
+tossed near it. Several bags and boxes rest near the table. 
+
+Treasure: There is nothing in the bedding heaps. The 
+tuns hold beer, beer, water, ale. The four boxes supporting 
+the table hold 500 g.p., 25 p.p. and 7 base 50 g.p. gems, a 
++1 dagger wrapped in +1 elf-sized cloak of protection, a 
+suit of elf-sized elfin chainmail, and a large pouch (with a 
+silver tube containing a scroll of protection from magic in 
+it. The locked iron chest has a sack of 200 s.p. and 3,622 
+c.p. in it, while a hidden compartment in its top holds a ring 
+of invisibility and weakness (as soon as one uses the 
+magic of the ring, its dweomer causes weakness which 
+lasts for 2-8 segments after becoming visible). The ashes 
+of the fireplace hide nothing, nor does the chimney, but a 
+pot nearby does hold some excellent broth. There is a 
+"critter" living under the heap of firewood: 
+
+1 Huge Spider AC 5 (speed); MV 18"; HD 2+2; h.p. 6 
+(small for its kind); #AT 1; D 1-3 (small jaws); SA 
+poison (but save at +2); surprises on 1-5 in 6, leaps 20' 
+to attack. 
+
+If the pile is moved or disturbed in any way, this creature 
+will feel threatened and jump upon the nearest handy 
+victim, sinking in his fangs whenever possible. 
+
+32: LILAC AND BLACK ROOM: The walls of this room are 
+clad in alternating stone blocks so as to stripe the walls at 
+2' widths, pale violet and jet. This 20' square chamber has 
+a door on the west and north as well, and from its position 
+on the level it was possibly part of a suite of rooms for a 
+high cleric or for use by guests - who knows? 
+
+8 Gnolls: AC 4 (iron plates on coats); MV 9" HD 2; h.p. 
+2*15, 2*12, 4*11; #AT 2 or 1; D 4 with great bows for 
+2-8; 4 with glaive-guisarmes for 2-8. 
+
+Off-duty stair guards, these gnolls are armed exactly as 
+those on duty (at 15.). When an alert is sounded, these 
+eight humanoids will join their four companions so as to 
+form a unit of six archers protected by as many pole 
+arms. 
+
+
+DUNGEON LEVEL 
+
+
+Notes for the Dungeon Master The dungeon is all of black 
+stone, basalt. The 20' wide passages and attendant chambers 
+are well-done, with the surfaces polished and the floor smooth. 
+The columns and supports are fluted and worked in bas relief. 
+The ceiling is arched to about 30'. The side passages and 
+chambers are only about 15' and 20' high respectively, unless 
+noted otherwise. The walls are roughly hewn, and the floors 
+smoothed only by the passage of many feet. The cavern at the 
+far end is natural, and bats using it have tended to move south 
+into the worked area as well. The party will note bat droppings 
+and hear their fluttering and squeaking whenever they listen, 
+but these bats will not be a problem to them. 
+
+Descending the Stairs (READ TO PLAYERS): You move 
+cautiously down the worn steps of dark gray stone. The flight 
+continues straight for some distance. You count over 100 steps 
+before you notice that the walls are again of black rock, 
+polished basalt. Another 20' or so and you are standing in a 
+large chamber, all of ebon-hued rock, save a great square 
+column of darkest purple in the center of the area. 
+
+This appears to be some sort of formal processional way. 
+There are 20' wide passages leading east and west, another 
+north, the latter having several pillars down the center. This 40' 
+square chamber is high-vaulted, for the central column mass 
+rises about 40' to meet the ceiling above in arches of stone. 
+There are two doors giving onto this place, one on either side 
+of the north passageway leading from the chamber. What 
+catches your attention, however, is the purple column. It bears 
+some sort of statue, in a niche, as it is of deepest black. 
+
+1. BLACK IDOL:This stone figure is about 10' tall. It is 
+man-shaped and depicted wearing armor of strange 
+design. The plates are fluted, runneled, and winged. The 
+mail showing beneath is triangular. Some form of cape 
+drapes the shoulders, scalloped edges hanging to the 
+figure's knees. The hands clasp a huge, wavy-edged 
+sword. The helm, like the armor, bears many strange 
+projections and spiky ridges. Oddest of all, its helmet 
+face shows no openings. 
+
+(This figure is adamantine-hard and radiates a strong 
+dweomer. It seems protected by a field of force; blows, 
+fire, magic of any sort seem to leave it. and the column it 
+is a virtual part of, undisturbed, unharmed. It can not be 
+moved or pried from its niche, or otherwise affected. All 
+this holds true for the other three statues as well.) 
+
+2. GREEN IDOL: On the east face of the square column is 
+another 10" tall figure; but instead of black stone, this idol 
+is of deep, dark green. The form appears swathed in a 
+flowing gown from feet to neck, but it is obviously male 
+(if human at all) because of its broad chest and shoulders. 
+The long sleeves of the garment cover the hands. A high 
+collar stands from cheek to cheek, and a tight cap covers 
+the head. What is obviously a mask covers the face, for 
+what reason is unknown. The mask, however, is craggy 
+and seamed, imitating an old man perhaps. A staff leans 
+against the right shoulder. 
+
+3. RED IDOL:This statue on the north face of the column is 
+of intense carmine shade, dark but somehow intensely 
+red nonetheless. The apparel depicted is: high boots and 
+hose, doublet-like garment, and gauntlets. All of these 
+items seem foreign in make, familiar but strange. The 
+head is covered by a long hood, drawn tight round the 
+
+
+22 
+
+
+
+face so as to show only an indefinable oval. An axe-like 
+weapon with shortish handle, long blade with many 
+angles, and top spike is set butt upwards before the idol, 
+the gauntleted hands of the 10' high figure resting easily 
+atop the haft. 
+
+4. BLUE IDOL: On the west face of the pillar is yet another 
+huge statue, 10' tall, all of deep indigo hue. The form is 
+robed in a many-pleated garment. The girdle depicted is 
+ornately carved with signs and sigils which are unknown 
+to any of you (and even a read magic will not reveal their 
+exact meaning, although the gist is that the deepest 
+secrets of all are known to this one). A broad cowl covers 
+the head and projects well beyond the face, so that it is 
+hidden in shadow. Illumination reveals only blank, blue 
+stone. The arms of the idol are held across the body to 
+meet just below the chest, the folds of robe hiding all, 
+even the hands; but where they must meet projects a 
+strange device, possibly a sceptre with a convoluted end 
+and many filigreed sections. 
+
+5. Only if the great iron horn(Lower Level,INSET AREA) is 
+in the possession of the party will they reveal the 
+"wonders" of this four-part idol. One blast of the horn will 
+cause all four figures (and the entire pillar) to shimmer, 
+turn first translucent, then transparent, then seemingly 
+disappear altogether to reveal a vaguely human-shaped 
+figure about 12' tall draped in purple, standing where the 
+column and idols were. This form will do nothing for a 
+segment, then a hollow, sepulchral voice will boom out, 
+"What aspect of Eternal THARIZDUN would you see?!" 
+
+If no answer is forthcoming from the party in a segment 
+or so, the voice will speak again: "Trouble not the Mighty 
+again until your mind is fit to comprehend Greatness! 
+GO BACK! Meditate and follow what instructions are 
+given to you by those wiser than you." With that, the 
+figure will seem to be enveloped in black smoke; and, 
+an instant later, the column and idols will reappear. 
+
+If an answer resembling any of the following is given, a 
+more positive scene will occur. Key answer words are: 
+
+STRENGTH, PROWESS, MIGHT, INVINCIBLE-black 
+aspect 
+
+WISDOM. SKILL, CRAFT, GLORY, LEADERSHIP 
+- green aspect 
+
+DEATH, ANGER. REVENGE, HATRED, SLAYING 
+
+- red aspect 
+
+KNOWLEDGE, SECRET, HIDDEN, MAGIC 
+
+- blue aspect 
+
+When such a word occurs in the answer, the first so 
+spoken will trigger the scene above, wherein the purple- 
+swathed figure appears and speaks thus: "NOW BEHOLD 
+
+THE-(fill in the correct color) FACE OF ETERNAL 
+
+THARIZDUN!"VJ\tb that, the figure vanishes in a flash of 
+mauve fire, purple smoke shoots upwards, disappears, 
+and before the viewers there stands the 10' tall figure of 
+appropriate color. It grows before the eyes from a mere 
+10' giant to a 20' colossus. Then it speaks: 
+
+"MY COUNTENANCE IS TURNED UPON THOU, MOR 
+TAL. BE GLAD I KNOW THOU ART TOO PUNY TO 
+BEHOLD IT. TO OBTAIN THE (STRENGTH/WISDOM/ 
+DEATH/KNOWLEDGE - fill in the correct one) THOU 
+SEEKEST, YOU MUST FIRST DO THAT WHICH IS BID. 
+LET IT BE KNOWN TO YOU, THEN SHALL THOU BE 
+FAVORED!" 
+
+With that, the sequence returning the column to its 
+original form commences. 
+
+
+If the answer does not fit either case, then the pillar will 
+go through its transformation, but a four-part form will 
+eventually be revealed, a form with four bodies, four 
+heads, four colors. A four-toned voice will boom out: 
+
+''THARIZDUN IS NOT TO BE MOCKED! THARIZDUN 
+BROOKS NO DISHONOR! FOOLISH UNBELIEVERS, 
+BEAR NOW THE CURSE OF IMPENDING DOOM!" 
+
+Tentacles of colored light spring forth from the quadrate 
+figure as it rotates to present first one aspect, then 
+another to the viewers. One tendril of each color touches 
+each individual, and as each lashing beam undulates and 
+strikes, each feels a tiny tingling of weakness (black), 
+confusion (green), fear (red), and feeblemindedness 
+(blue). Then, the four-toned voice speaks again, the 
+pillar now returning to its former state: "SEEK FORGIVE 
+NESS BY FAITHFUL SERVICE, OR THE DOOM WHICH 
+BRUSHED YOU WILL RETURN TENFOLD!" 
+
+The whole thing is nothing more than a complex Per 
+manent Programmed Illusion of unusually powerful 
+nature and clever work. Any player character not voicing 
+strong disbelief will feel all four effects of the "Doom" 
+anytime he participates in or witnesses any act which 
+denegrates Tharizdun, his "property", or those who 
+serve him. Only vocal disbelief and a successful saving 
+throw versus magic will enable players to dispel the 
+effects which will grow progressively until the individual 
+is actually driven insane by the combination of the four 
+sensations. 
+
+6. STOREROOM:The door hinges are greased, and the bar 
+on the outside indicates that the area beyond is used 
+-for what you are about to find out. Inside, it is obvious 
+that the area is, in fact, nothing but a storage chamber. 
+There are large barrels of salted meat, wine, and beer. 
+There are also numbers of sacks and a few large boxes 
+piled near the door. 
+
+Treasure: Everything here is either unfit for human 
+consumption or merely bad-tasting. The boxes and 
+sacks have nuts, meal, and like stuff all showing evidence 
+of molestation - rats at least. Examination of the walls 
+will show evidence of tunnels of large and small rats. 
+
+7. JUMBLED ROOM: Like the others hereabouts.the hinges 
+and metal of the door show signs of care. Inside is a 
+jumbled mess of kegs, bags, boxes, and so on. All show 
+signs of gnawing, spillage, and general despoiling - rats 
+and who knows what else. It is obvious that there is 
+nothing of value here, but there is a door in the eastern 
+most portion of the south wall. The mess on the floor 
+near there shows small, human-like footprints. 
+
+Treasure: There is absolutely nothing of value in the 
+room. 
+
+8. SQUARE ROOM: Like the other rooms you have seen 
+thus far. this chamber is of basalt, well-worked and 
+polished. It, as the others, probably served some other 
+purpose than a storeroom for humanoid supplies at one 
+time. This place is also a mess, the contents of its barrels, 
+sacks, and crates spilled, scattered, and fouled. Atop one 
+crate sit 2 small humanoids - possibly goblin imps, for 
+they are too small to be mature goblins, and they are 
+totally unarmed. Each has a small snare, one with a 
+still-kicking rat in it. 
+
+2 Boggarts: AC -6; MV 18"; HD 6; h.p. 31. 28, 27; #AT 1; 
+
+D 2-12; SA10' energy bolt every other round; confusion 
+
+
+23 
+
+
+
+spell by noise; SD invisibility, spell immunity, 
+movement through solid objects. (See end of module 
+form more information on this monster.) 
+
+Upon entry of the party, these boggarts will feign fear and 
+surprise. They will clutch each other, whine, and one will speak 
+in the common tongue stating that if the party will spare them 
+they will give the humans their delicious rat! This should 
+suffice to get a conversation going, where the party is seeking 
+information as to who these goblins are, where they come 
+from, and what else is to be found on the level. As soon as the 
+party is well inside the room, the "goblins" backing into the far 
+corner in "fear", these monsters will begin their attack. The 
+three of them will begin to shout, bang on boxes and barrels, 
+pound metal on the walls, etc. If they can keep this up for 2 
+rounds, then the party must save versus magic or be confused. 
+As there are three boggarts, each character must save at -2 on 
+the die. 
+
+Regardless of the outcome of the confusion spell, these 
+monsters will attack by casting electrical bolts on the third 
+round. Each will pick the character closest to him. Next round 
+they will change to halfling form, cry out to be saved, and leap 
+as if to hug the characters in joy, fear, or whatever. Of course, 
+this is an attack by a monster of 6 hit dice, and success 
+indicates 2-12 points of damage on the victim. On the next 
+round the boggarts will again cast bolts, or touch, depending 
+on the circumstances. They will take will-o-wisp form only to 
+escape by passing through the south wall. They will become 
+invisible only to complete their escape west, then north up the 
+wide corridor. 
+
+Treasure: These monsters have only recently entered the 
+dungeon from outside, working their way here because 
+of the easy prey of rats to catch and devour. However, 
+they have recently slain an ogre, and his bones are under 
+the litter in the northwest corner of the room. With them 
+is a +2 battle axe this creature thought guaranteed his 
+safety. 
+
+9. STOREROOM:This place is filled with broken furniture 
+and pieces of wood - limbs, logs, branches, sticks-all 
+in a heap. The whole room is filled with this mess. It 
+seems likely that the place is used to store firewood for 
+the inhabitants above. 
+
+Treasure: There is nothing in the room, but if 6 turns are 
+spent moving wood out of the place, the party will be able 
+to see the door to the south and enter the room beyond. 
+
+10. EMPTY ROOM: This 20'square chamber has evidently 
+not been used for years. There is dust covering its floor 
+-but wait! A set of footprints runs from the southeast 
+corner to the west wall. The tracks are small, broad, 
+human-like. They start about V from the wall and end 
+against the west surface. 
+
+Treasure: The room is empty. A boggart passed through 
+the wall, took halfling-like form and walked to the 
+opposite wall to see what was there. Again taking will-o- 
+wisp form the creature found it was unable to go through 
+the west surface and so floated south and out. 
+
+11. STOREROOM: The greased hinges of the great door 
+and the heavy bar indicated that there was recent usage 
+of this portal. Upon opening it, you have discovered a 
+largish storage chamber filled with many barrels, crates, 
+boxes, bales, and quite a number of crude weapons as 
+well as some well-made ones. There is evidence of 
+vermin here - gnawing, spillage, droppings-certainly 
+rats. 
+
+
+Treasure: The food and drink stored here is not fit for 
+human comsumption, although quite palatable for hu 
+manoids such as norkers, gnolls and the like. The crude 
+weapons are clubs, morning stars, spears, and the like 
+favored by norkers and ogres. The materials are from 
+raids upon various settlements and caravans. The wea 
+pons are those taken from patrols. There are only normal 
+items here, although the party may find some of use. 
+There will be several composite short bows, several 
+score arows, several light crossbows, about 100 bolts for 
+them, a dozen spears, a few scimitars, and 1 -4 other hand 
+weapons typical of the area. 
+
+12. ROUGH-HEWN CHAMBER: This place appears to be 
+about 30' wide and 50' long. There are heaps of rubbish 
+and bones thrown into it. The place is evidently used as a 
+garbage room by the inhabitants above. You see a few 
+giant rats scuttle away into tunnels in the wall as your 
+light shines over the nasty-smelling mess. 
+
+2 Otyugh: AC 3; MV 6"; HD 8. 6; h.p. 42. 34; #AT 3; 
+
+D 1-8/1-8/2-5; SA disease; SD never surprised. 
+
+This is a mated pair, growing fat and ready to spawn on 
+the magnificent fare delivered to them from above on a 
+weekly basis by a strong "garbage and refuse detail" 
+from above. They will not attack unless a creature comes 
+near, for they are well-fed and content with things. 
+
+Treasure: To search this mess will take hours, be 
+exhausting, and the filth is prone to cause disease. There 
+is absolutely no treasure here. 
+
+13. EMPTY CHAMBER: This 30' square chamber was hewn 
+from living rock many ages ago, and it has not seen use 
+for decades from the look of it. There is evidence of fairly 
+recent examination of the place, tracks in the dust and 
+dirt from ogres and larger creatures, possibly giants. 
+
+Treasure: There is nothing in this place, as the mountain 
+giant and his henchmen discovered some months ago. 
+
+READ BEFORE PARTY ENTERS AREA - ENTRANCE IS 
+
+DISGUISED BY MONSTER! 
+
+14. EMPTY CHAMBER: This place contains nothing save a 
+few bones - norker from the look of them. It has not 
+been used for generations, and other than a 10' wide 
+clear spot leading to the bones, there is thick dust 
+everywhere. 
+
+1 Stunjelly: AC 8; MV 3": HD 4; h.p. 23; #AT1; D2-8; 
+
+SA paralyzation. 
+
+This monster lurks in the passageway making it appear 
+that there is no corridor north. It will NOT attack unless a 
+lone individual brings up the rear of the party, or a single 
+individual passes. It will then strike without hesitation. If 
+paralysis succeeds, the victim will make no sound at all, 
+the 'jelly will drag the body into itself, and there will be no 
+trace of what occurred except a vague, character-like 
+shadow "on" the wall. The victim will automatically take 8 
+points damage per round inside the 'jelly, and when -1 or 
+lower is reached, digestion has begun. As norkers have 
+been the regular fare of this monster, it has no treasure. 
+
+Treasure: The chamber is bare and dirty. It holds nothing 
+of value. 
+
+15. OVAL POOL: The oddly-shaped chamber you see has 
+an oval pool some 30' across and about 20' broad. The 
+
+
+24 
+
+
+
+light glints on its surface; no telling how deep it is or what 
+might lurk within. The floor is about 2' above the surface 
+of the water, and there is a walkway around it some 12' or 
+more wide near the entrance, narrowing to but 4' or so 
+along the back side of the pool. There appears to be no 
+egress from this chamber save the passage you stand in. 
+
+1 Grell: AC 4; MV 12"; HD5; h.p. 34; #AT 11; D 10*1 -4/1 -6; 
+SA tentacle hit causes paralyzation; SD immune to 
+electrical attack, paralysis. 
+
+This clever monster is lurking Just above the arched 
+entrance to the pool chamber. The ceiling in the room is 
+fully 25', and the Roman arch of the entrance is but 15' 
+high. Unless the first person entering looks up, the grell 
+will always attack by surprise. If possible, it will wait until 
+
+3 victims are inside the room, then drop. The trio will 
+each be lashed at by 3 tentacles, with a backwards lash 
+with the 1 remaining "just in case". The beaked bite will 
+be at any person nearest the creature. 
+
+Paralyzed characters struck while their back is to the 
+grell have a 90% chance of pitching headlong into the 
+pool. 
+
+Those struck while facing other than the water have only 
+a 20% chance of falling in if paralysis takes them. Having 
+lived on slim pickings of humanoids having to come to 
+the pool to draw water for the forces above, this monster 
+has become very hungry and will attack most viciously. 
+
+The Pool: Close inspection of the water shows it to be 
+quite clear. The water is deep. (If measurement is 
+possible, the party will find it is 40' to the bottom - silted 
+and murkey there, of course.) Vision of any sort is but 3' 
+when below 30' of depth, and a body can be found only 
+on a 1 in 6 chance per round of searching. This appears 
+to be a cistern or well of some sort. 
+
+Treasure: There are humanoid bones in the layer of silt at 
+the bottom of the pool. There is also a decanter of 
+endless water there, seeping out about a pint of water per 
+round through its partially opened stopper. (This was 
+purposely commanded and placed where it is by a 
+former servant of the Temple.) 
+
+16. TORTURE CHAMBER: This area was obviously once 
+used to fell ends, for rusted and rotting instruments of 
+torture litter the floor and stand in crumbling heaps 
+along the walls. The iron maiden is red with oxide and 
+eaten through, the rack a mere pile of rotted wood and 
+metal rust. The place has not been used for many, many 
+years. 
+
+Treasure: No treasure, or anything of any value, is here. 
+
+There is a west passage off the torture room, and you 
+note that there are four doors along its 30' length - two 
+on the south wall, one at the end, and one on the north 
+wall. 
+
+4 Ear Seekers (per door!): AC9; MV 1"; HD-;h.p. 1 each; 
+
+#AT 1; D special; SA lay eggs which burrow inwards 
+and kill host 90% of the time (4-24 hour hatching 
+period). 
+
+Each door is infested with these insectoids, and any 
+character attempting to listen at their rotted surface will 
+be attacked by one ear seeker. They will feel it rush in, 
+then later they will feel it crawl out (yechl). Unless a cure 
+disease spell saves them, 9 in 10 are dead. 
+
+
+Door A: This opens to a cell about 8' square, with rusted 
+chains on the wall. There appears to be nothing of value 
+here. 
+
+Door B: As cell A., above, except that there are some 
+bones beneath the chains. 
+
+Door C: As door to cell A., with a couple of normal rats 
+seen scurrying to their holes. 
+
+Door D: This opens into a largish cell some 10' deep and 
+10' long, a sort of common pen. There are quite a few 
+bones scattered around on the dirty floor. 
+
+Treasure: None of these rooms holds any treasure. The 
+prisoners placed here were stripped of everything which 
+was worth taking before being locked up. 
+
+17. CRYPT: The faint charnel reek which still lingers here 
+proves that the place was used to bury the remains of 
+people - probably servants of the Temple. Sealed 
+niches along the four walls of this parallelogram show 
+where the interments were made. No space is devoid of 
+a sealing wall of black bricks. Six great sarcophagi are 
+lined up in the center of the chamber, three per row. They 
+are all of black stone. Some glitter with gold, others 
+platinum. Jewels wink and glisten from sculpted visages 
+atop each, gem "eyes" of red. orange, yellow, green, 
+blue, violet. You can also see at least a dozen rather 
+shapeless statues lining the walls of the place - human 
+sized, man-like forms of black stone, but without clearly 
+defined limbs and with featureless heads. A statue twice 
+as large stands at the head of each of the great burial 
+vaults. 
+
+1 Guardian Daemon: AC 1; MV 9" HD 8; h.p. 64; # AT 3; 
+
+D 1-12/1-12/1-6; SA breathe fire cone from 10' to 30', 
+
+10' wide at base, for 5-30 points of damage; SD +2 
+
+or better magic weapon to hit, immune to all fire and 
+
+charm, fear, hold, and sleep magic. 
+
+This monstrous guardian has been commanded to remain 
+here to protect the crypt from all intruders. It will be free 
+of this command only when all the statues in the place 
+are broken, or when its material form is slain. When any 
+character sets foot in the crypt proper, a small face 
+resembling a bulldog will seem to float out from the 
+nearest statue. The eyes of this "dog" will peer sadly (but 
+gleaming red) into those of the intruder. If one more 
+person enters, or if another step is taken beyond the first, 
+the floating bulldog-like face will suddenly swell into a 4' 
+tall, broad-bodied creature with pointed ears, spiked 
+ruff, huge fangs, and gorilla-like arms tipped by claws 
+nearly six inches long. The suddenness of the transforma 
+tion is such that the daemon is always given initiative on 
+the first round of atack. It will fight the intruders until 
+they, or it, are dead. If the party flees, the daemon will 
+pursue for up to 108'. It will then return to its appointed 
+place. It will not necessarily take station in the same 
+statue. If the same intruders return to its chamber, the 
+monster will attack them without warning, popping out 
+of its statue and breathing fire. 
+
+Treasure: The gems set in these vaults are worth 5,000 
+g.p. each, except for the orange ones which are 10,000, 
+i.e. 10 5,000 g.p. gems and 2 worth 10,000 each. The gold 
+and platinum decorations and masks equal 12,000 g.p. 
+weight and 3,000 g.p. weight respectively. Inside each 
+sarcophagus are remains and a black flask. Each flask 
+contains a potion of longevity, but the ages are 75% 
+likely to have made the magic of the elixir work in reverse 
+
+
+25 
+
+
+
+to age the person quaffing it instead. These are the 
+former high priests of the Temple, the only ones buried 
+with wealth, and that is the entire wealth of the place. The 
+other crypts contain nothing but dust and bones. 
+
+18. CRYPT: This long, rather narrow room shows walls with 
+black-bricked niches where burials have taken place. 
+There are no empty places. Although the floor is relative 
+ly clear of dust and dirt, it is unlikely that anyone has 
+been here in many decades. 
+
+Treasure: These crypts contain no treasure whatsoever. 
+Each niche has a few bone shards and dust in it, nothing 
+more. 
+
+19. CRYPT: The north, east and south walls of this chamber 
+show that square openings were carved into the rock and 
+then closed fast with black bricks and mortar. It is 
+obviously a burial chamber. The west wall has a faded 
+painting of an inverted, two-stepped pyramid of purple 
+hue. On one side of it is a shrouded black figure, on the 
+other a black, many-rayed sun. Both of the black figures 
+are merely outlined with silvery paint, now gray and 
+lusterless with age. A lone bier stands in the center of the 
+chamber. It is of black stone, and its lid is askew - 
+something has disturbed it, recently from the tracks 
+around it. 
+
+1 Coffer Corpse: AC 4 (wears tattered chainmail); MV 6"; 
+HD 8; h.p.33;#AT2; D1-6/1-6; SA double hit indicates 
+a choke and victim will strangle in 3 more rounds; SD 
++1 or better weapon to hit; mind-affecting/influencing 
+spells do not affect it; turned as Special by clerics (vs. 
+Undead). 
+
+This unusually powerful coffer corpse is the remains of 
+the last High Priest of the Temple. Wongas by name. 
+Unable to place himself in the chief crypt, not being able 
+to get past the guardian there, he had his vault placed in 
+this chamber. Before he could begin proper decoration 
+of the sarcophugus, however, the last of the lesser 
+priests and servants deserted the Temple. Eventually, 
+Wongas stalked to his tomb alone, full of rage and hate 
+and shame. The High Priest made his own corpse into a 
+monster by force of hate and displeasure.The resulting 
+coffer corpse is thus far stronger than that normally 
+encountered. It will instantly attack anyone foolish 
+enough to come within 3' of the bier. If struck by normal 
+weapons, the thing will seem to be affected (keep a side 
+record of such hits). When total damage, real and 
+imagined by the party reaches 33, the monster will fall. 
+As soon as another creature comes within 3', or the party 
+fails to watch it, the thing will rise and attack again. 
+
+Treasure: Inside the casket is a footman's mace. The 
+weapon is +2. It is the only possession Wongas took with 
+him in the end. 
+
+20. CRYPT: This chamber appears to be a burial place. 
+There are many square openings in the walls. Each such 
+niche is some 2Vfe* square. They honeycomb the surfaces 
+from floor level to the ceiling of the place nearly 20' 
+above. Most are sealed with ebon-hued bricks, but a few 
+are torn open with bricks, some splintered bones, and bits 
+of wrapping cloth scattered and strewn about. Whether 
+this was the work of grave robbers or ghouls can't be told 
+from the evidence. There seems to be nothing else in the 
+chamber. 
+
+Treasure: There is nothing of worth in the chamber or in 
+any of the many niches. 
+
+
+21. SHRINE: The passageway divides to pass east and west 
+of a huge ovoid pillar spanning from floor to ceiling. This 
+column is more than 10' thick and slightly longer than 
+20'. In the exact center of its (east/west) face is a recess. 
+In this alcove is a black statue of a shrouded, man-like 
+figure. Water seeps down the face of the figure, running 
+drop by drop as if they were tears, coursing along the 
+chest to a trough made by the arms, and then into a bowl. 
+The water has left a slight deposit of reddish mineral over 
+the years. The basin is filled, and a steady drip from it 
+falls on the statue's feet, seeping away to who knows 
+where. At the feet of the figure is another small statue, a 
+spherical shape with many ray-like projections from it. 
+This statue has a hollow place atop it which resembles a 
+small bowl or dish. There are green and black objects in 
+the dish. 
+
+This shrine radiates a faint aura of evil and magic 
+intermixed. The objects in the dish are tarnished silver 
+pieces and corroded bronze and copper coins. The water 
+in the bowl is at least semi-sacred to Tharizdun - or his 
+memory. Any person touching it will feel a tingling. If that 
+person does not devote himself or herself to Tharizdun 
+then and there (or has done so already possibly) then 
+the effects of the fluid will be baneful. All "to hit" and 
+saving throws will be at -1, as will damage inflicted by the 
+character, and all attacks and damage upon the character 
+will be at +1 for that number of turns thereafter as the 
+individual spent in rounds touching the Black Water of 
+Tharizdun without wiping it off - tasting counting as 
+three turns of touching. If some of the water is actually 
+collected and kept, the individual so doing will feel the 
+baneful effects until it is disposed of. (Note that if a 
+person attuned to Tharizdun through touching of the 
+chapel wall or railing touches or tastes this fluid, he or 
+she will feel refreshed and reassured. The name 'Thariz 
+dun" will float in the subconscious mind more firmly. Up 
+to 3 hit points of damage will be restored by touching the 
+water, twice that by tasting it, but no more than 6 can be 
+restored in one day by this means. Tossing coins into the 
+offery also mitigates the baneful effect. One round of ill 
+effect is removed for every gold piece offered. 
+
+(Note that the magic of the column extends beyond the 
+two shrines. The pillar can not be affected by weapons or 
+magic. No power can see through it, short of that by or 
+actually of a deity. Thus, the fact that a shaft runs from far 
+above to a place far below will not be known to the 
+adventurers unless they have discovered the secret for 
+themselves above and explored the place.) 
+
+22. DIAMONDCOLUMN: Thisgreatpillarofebonystoneis 
+in diamond or lozenge shape. Its four faces are carved in 
+bold relief, each depicting a male figure of some sort. 
+Those facing southwards are shown robed and cowled. 
+Those to the north in plate mail, with strange helm and 
+great halberd. The wall of the passage on either side of 
+this column is hewn into a "V" shape - as if to allow easy 
+passage past the pillar, or perhaps to accent one edge of 
+it? 
+
+2 Caryatid Columns: AC -2 (armor worn); MV 6"; HD 5; 
+h.p. 2 x 25; #AT 1; D 1-10 (halberd); SA darkness cast 
+in 5' radius of each as soon as they activate (does not 
+affect their ''sight''); SD normal weapons cause one- 
+half damage, magic weaponsgain no magical plusses. 
+
+These golem-like things guard against entry from the 
+north by any human. They are inactive unless they note a 
+human or similar (ogres, for instance, are too dissimilar 
+
+
+26 
+
+
+
+to activate) creature passing southwards towards them. 
+10' before the column, each caryatid will step out and 
+attack. Also unlike other caryatids, these will break 
+weapons on a base of 35%, thus a +1 breaks 30% of the 
+time, +2 25%, etc. 
+
+Treasure: These constructs have no treasure nor do they 
+guard anything save the entry to the dungeons. 
+
+23. VAST CAVERN: You are on the verge of a large, natural 
+cavern .From the echoes you hear, it seems I ikely that it is 
+a place of over 5,000 square feet and at least 40 high . The 
+walls to east and west fade out of sight, but seem to slope 
+gently northwards. The floor where you stand is quite 
+smooth, and it is easy to see that some work was done 
+here to make it level. There are a couple of broken stones 
+just a few feet from where you stand. 
+
+Note: If the mountain giant and his bodyguards have 
+retreated to this area, the party will receive three 
+boulders - one from due north (about 24.), one from 
+northwest, and one from west northwest (Groorg, 
+being nearest the escape passage). Each rock will be 
+at +4 hit probability, but once the party moves around, 
+they will confuse the giants and probability will return 
+to normal. See LOWER LEVEL. 8 ., for details of 
+actions by Groorg in this case. 
+
+
+24. CENTER: Proceeding to the middle of the cavern, you 
+are able to determine that it is about 180' long and almost 
+half as wide. The floor has been worked to make it more 
+level - as if traffic through this area was once common. 
+What you took to be a large stalagmite here is actually 
+another of the familiar figures of black stone, this one 
+glazed with mineral deposits from the dripping ceiling of 
+the cavern. 
+
+(If any of the party members touches the figure, the 
+whole place will grow instantly dark - completely black. 
+Even magic swords will not shed illumination. After one 
+segment of this, each character will begin to be able to 
+"see'' in the total blackness. There will be shades of 
+black! Lustrous black, dull black, deep ebony and pale 
+jet. Rays of black radiance will illuminate the whole 
+cavern, seeming to wash outwards from the statue in 
+waves of rolling black light. The person unused to such a 
+phenomenon (all of the characters in all probability) will 
+be too stunned to act quickly, but they will be able to 
+"see" any opponents - such as giants, for instance - 
+lurking in the western end of the place. In any event, the 
+effect will last only a segment, then blackness will return 
+normally for yet a segment. Then light sources will again 
+work. The statue will not function again in such manner 
+for 3 days. It radiates an uncertain but powerful form of 
+magic.) 
+
+Treasure: There is no treasure here or elsewhere in the 
+general section of the cavern. 
+
+25. BONE PILES: Stacks of bones lie here. Skulls are piled 
+against the east and west walls, other bones are criss 
+crossed and interwoven in large heaps. There are human, 
+humanoid, demi-humans bones, as well as bones of 
+many sorts of animals and monsters stacked rather 
+neatly in piles. There are so many bones here that they 
+actually take up almost half of the space in this small 
+portion of the cavern. All of the calcareous white pieces 
+are clean and well-gnawed. 
+
+
+2 Meazels: AC 3 (chainmail clad); MV 12"; HD 4; h.p. 32; 
+28; #AT 2; D 3-8/3-8 (short swords +2 due to strength) 
+and 2-5/2-5 (daggers+1 due to strength); SA 4th level 
+thief abilities), attack from behind with garrote (killing 
+in 2 rounds thereafter). 
+
+As most creatures must, meazels occasionally mate in 
+order to propagate their dreadful kind. This pair is very 
+old, clever, large, tough, and successful. They lair in a 
+low-roofed fissure in the southwestern portion of the 
+area. The 3' high entrance to this place is masked by a 
+boulder. Whenever they hear anything approaching, or if 
+light is detected, both creep silently out of their den and 
+climb to a ledge some 15' above. This ledge runs from the 
+spot above their lair eastwards for 20' or more, then 
+northeast along the cavern wall for another 20'. It is 
+about 4' wide, so they can easily move along it or crouch 
+down so as to avoid being seen. Whenever opportunity 
+presents, they will creep down from the ledge behind the 
+party and attack silently from behind. Each has padded 
+and greased their mail so as to avoid noise. Each carries 
+weapons too, just as their prey and foes typically do. 
+While they prefer to strangle their food, these monsters 
+will hack it to pieces if necessary. 
+
+Treasure: A search amongst the bones will reveal 1-4 
+base 10 g.p. gems per turn of searching per person. No 
+more than 40 such gems can be so discovered. In the 
+small fissure lair they have secreted many bags of coins, 
+201 - 300 in a large sack. 51 -100 in a small one: 3 large 
+sacks b.p.,* 2 large sack c.p., 1 large sack s.p., 1 large 
+sack g.p., 1 small sack b.p, 5 small sacks c.p., 3 small 
+sacks s.p., 2 small sacks e.p., 1 small sack g.p., 1 small 
+sack p.p. 
+
+* bronze pieces are accepted at rate of 4 b.p. to 1 c.p. 
+
+26. SMALL CAVE. This adjunct to the larger cavern to the 
+east is unremarkable, save for the fact that it has a 5' wide 
+passage leading roughly westwards from it. A faint 
+breeze blows out from this passage. 
+
+(In the event that Groorg makes a stand here, there will 
+be a few boulders piled just outside the area. If he does 
+not make it here, there will be over a dozen of these rocks 
+visable to the party.) 
+
+
+27. The passage begins to widen a bit and slants slightly 
+downwards. After several hundred feet of travel you note 
+that the air smells fresh, and has an odor of growing 
+things. A few steps more you round a bend in the 
+passage and step out onto a mountain meadow, a cup 
+like place a hundred yards wide and twice as long. An 
+animal track leads southwards, and before long you are 
+certain that you can be back atop the Temple mountain 
+or on your way to Gnome Vale or elsewhere. 
+
+THE UNDERTEMPLE 
+
+You dare all and begin to clamber down the shaft you have 
+discovered in the secret room. (Check for weak rungs! See 
+INSET AREA, LOWER LEVEL for details.) After what seems an 
+endless climb you notice the air growing colder and your light 
+sources dimmer... 
+
+1. SHAFT TERMINUS: At last you are at the bottomof the 
+shaft. There is a low passage leading south, so there isn't 
+much trouble deciding where to go. You are disturbed to 
+
+
+27 
+
+
+
+note that your light sources seem very poor now, with 
+only about one-half the illumination that they shed 
+above. It isn't the air, for even magical daggers and 
+swords give off but dim light. 
+
+(There is no way to correct lighting, for even continual 
+light seems dim. If freshly cast, the spell will seem to be 
+normal, but after a segment or two the radiance begins to 
+grow brownish around the edges and the sphere seems 
+to contract to about half normal diameter. Vision is 
+uncertain, forms shadowy.If the iron torches and special 
+cones are used, they will provide good, bright light only 
+in area 4. In all other areas they will shed illumination in a 
+5' radius, nothing more.) 
+
+
+THE UNDERTEMPLE 
+
+
+
+2. SMALL CHAMBER.You have come but 40' south down 
+the passage. The 10' wide walls of rough, black volcanic 
+stone widen here where four passages meet. The ceiling, 
+only about 12' high in the passage, is domed here to a 
+height of about 20'. As you enter this area, there is a 
+strange iron gonging, and then all is silent again, but you 
+all feel something strange. Before you the walls seem to 
+waver and turn purple. A voice of incredible basso-sort 
+speaks out of nowhere: 
+
+"LOOK ABOVE YOU TO KNOW YOUR FATE." 
+
+You cannot resist an upward glance. The ceiling is of 
+transparent, seemingly infinite purple. Swimming through 
+this universe of violet hue are glowing black runes. In a 
+moment you can understand them: 
+
+"Those whom I find unfit I place on my left," say the first 
+set. 
+
+The next set states: "Those who succeed I place on my 
+right." 
+
+Lastly: "The chosen may come before ME!" 
+
+The ceiling quickly fades to black, and all is normal - if 
+there is such a thing in this place - once again. 
+
+3. TRAPEZOIDAL CHAMBER:The poor light allows you to 
+determine little of this place, but you can see gleaming 
+metal to the east. There appear to be suits of armor there, 
+some fallen, others still on their stands. Likewise there 
+are shields of archaic type hung on the walls. Perhaps 
+those are shelves too, with books and other items lined 
+up on them. The light is too poor to tell for sure at any 
+distance. 
+
+
+1 Shadow Demon: AC1 (poor light conditions): MV 12" 
+- leap 30', run 18' for 1 round; HD 7 +3; h.p. 53; #AT3; 
+D 1-6/1-6/1-8; SA 2 extra attacks for 1-6/1-6 when 
+leaping, surprises foe 90% of the time, spell casting 
+(Darkness, Fear 30' R., Magic Jar) once each; SD 'h 
+damage from all weapons (due to light, +1 or better 
+weapon to hit.immune to all spells and magic save 
+light, continual light, etc. 
+
+This monster has been here for generations, and it is 
+most disturbed about it. It can hardly wait to vent its fury 
+upon whatever creature is foolish enough to enter the 
+chamber in which it is imprisoned. Upon sight of the light 
+of the party, the shadow demon will skulk along the 
+walls, awaiting its chance to get between the adventurers 
+and the exit from the place. Once there, it will attack. 
+Whether from behind or before, the creature will leap 
+upon its chosen victim, raking with its talons and biting 
+fiercely. It will continue to so attack unless the opponents 
+are too strong. In the latter case, the shadow demon will 
+use darkness and fear (in that order) to protect itself and 
+then scatter the party. If a very powerful magic-user is 
+present, the monster will use a nearby brass amulet as its 
+"jar" and use magic jar to attempt to take over such an 
+opponent. The demon will certainly fight to the end, for it 
+has no desire to remain forever in this foresaken place. 
+
+Treasure: Despite the first appearance, and the fact that 
+there are many items of the sort which could be of value, 
+the chamber contains nothing of value, no treasure, no 
+magic, nothing worth taking. The books are crumbling 
+and of no interest, the boxes and jars and urns are of 
+cheap wood, brass, or pottery. The armor is of ancient 
+sort, and the metal is soft and easily pierced by hardened 
+steel. The shields are rotting and of no worth. There is 
+one item on the person of the shadow demon which it 
+could not destroy and so guarded. It is a wand of light 
+safe in a metal case. 
+
+4. OCTAGONAL CHAMBER:This place is over 40' across 
+and about as high. The rough igneous rock from which 
+the chamber was hewn is featureless except for inlaid 
+stone symbols on each wall surface save the north where 
+the passage enters. The symbols are the familiar two- 
+step pyramid, reversed. 
+
+(Touching one of these symbols will cause a 10' radius 
+circle in the exact center of the chamber floor to turn a 
+translucent, faintly glowing purple color. At this time the 
+iron horn must be sounded. Next round the floor returns 
+to its dead black condition, and sounding the horn will 
+only make noise.) 
+
+(If the party has the horn, and one blows it while the floor 
+glows, then read the following to them:) 
+
+Upon sounding the horn you see the glowing floor 
+brighten and begin to pulse. The dark, translucent purple 
+grows brighter, lighter, transparent. It seems to rise 
+slowly in a column, and around it is a curtain of gray 
+vapors, like-wise rising slowly towards the ceiling of the chamber. 
+The room is growing frigid! (If the characters have not 
+donned the black robes and hoods, or if they don't do so 
+now. they will begin taking cold damage at the rate of 1-4 
+points per round, rolling once for the entire party.) Now 
+you see a black pillar rising in the heart of the glowing, 
+20' diameter beam of purple. As this black shaft touches 
+the ceiling, the gray vapors thicken and make vision of 
+the whole obscure. 
+
+
+28 
+
+
+
+
+
+(The characters must now light the incense in the 
+thuribles and begin to swing them; they must also light 
+the torches' cones. The incense from the thuribles will 
+dissolve the gray vapors, much as a passwall spell allows 
+passage through stone. Then, by advancing and swinging 
+them so as to cause the smoke to stream outwards, the 
+purple light will seem to fade and an archway become 
+evident. The party must pass through this archway and 
+down the "steps" of deep lilac, which they can see, being 
+careful not to touch the core of black. Descent leads 
+them to The Black Cyst. The portal will last for 3 hours, 
+then it will disappear. It can NOT be invoked from within 
+the lowest area. Time is important, so keep track of it! 
+Damage accruing to characters, other than that from 
+cold, is; 
+
+Touching gray 
+vapors 
+
+Touching purple 
+shaft 
+
+Touching black 
+central core 
+
+
+covered by 
+black robe 
+not covered 
+covered by 
+black robe 
+not covered 
+
+
+1- 6 points 
+
+2- 12 points 
+
+3- 12 points 
+6-24 points 
+save vs. 
+magic or 
+disintegrated 
+
+
+5. HEXAGONAL CHAMBER: This place has five 
+strange formations in it. Each appears similar to a small 
+tree, its trunk of shiny black near the base but then 
+becoming a shade of color as it grows upwards, until 
+finally branches, twigs, and leaves are of brighter hue. 
+From left to right you see: 
+
+
+opalescent black tree 
+deep green tree 
+metallic crimson tree 
+indigo blue tree 
+smoky purple tree 
+
+
+(fighter class only) 
+
+(cleric class only) 
+
+(thief class only) 
+
+(magic-user class only) 
+
+(any other class, or any others) 
+
+
+Each tree has globular fruit-like growths hanging from its 
+branches. Although the trees themselves vary in color as 
+described, the fruit of each is the same lustrous black. 
+
+
+(If a character of the correct class goes to the tree of the 
+color appropriate to his or her profession and picks one 
+of the fruits from the tree, it will shatter in his or her hand. 
+The character must make a system shock saving throw. If 
+it fails, the character turns to black ash in a blaze of cold, 
+colorless fire-forever gone. If it succeeds, the character 
+gains 1 full point of strength (fighters), wisdom (clerics), 
+dexterity (thieves), or intelligence (magic-users). The 
+full point does not make an individual a 19/50 strength 
+rating, for example, just plain 19. If this is tried a second 
+time, the system shock roll must again be made, and if 
+successful the character loses 2 points. A third attempt 
+will reverse system shock probabilities and take away 4 
+points. A fourth will instantly slay the fool trying it. If a 
+character of the wrong class attempts to take a fruit from 
+a tree, he or she will take 3-30 points of damage and have 
+to make a system shock saving throw besides in order to 
+avoid death as described above. A second try with a 
+wrong color tree will certainly slay the character, 
+delivering another 3-30 hit points and reversing system 
+shock probabilities. If this is somehow survived, and a 
+third wrong fruit is picked, death is automatic. Only the 
+fruit of the purple tree can be picked by any character 
+class. Any character not already having picked a fruit 
+may pluck one from the purple tree. The character will 
+notice that some of the fruits appear large and robust, 
+
+
+others most lustrous and appealing. If the former is 
+picked, 1 full point of constitution is gained. If the latter is 
+taken, then 1 full point of charisma is gained, no system 
+shock saving throw necessary. However, if a second 
+attempt is made, or if a character who has already picked 
+a fruit from another tree tries to pick one from the purple 
+tree, a reverse system shock saving throw is necessary, 
+and 1 point is lost from each category of attribute. A third 
+try is always fatal.) 
+
+(It must be stressed that time will not alter the ill effects of 
+picking multiple or wrong fruits. An hour, a day, a decade 
+makes no difference. This is a once-in-a-lifetime 
+opportunity!) 
+
+THE BLACK CYST 
+
+You have dared all and descended the spiralling purple steps 
+formed by the strange column of gray smoke, lilac light, and jet 
+black. This swirling, pulsing column of radiation has opened a 
+means of entrance to somewhere far beneath the surface of the 
+earth - or perhaps to some place not of this earth. All of you 
+feel the press of time, a sense of urgency. How long will this 
+strange gate remain open? You all hope not to learn the hard 
+way as you hurry down a seemingly endless flight of "steps" 
+made of the purple radiance. Ten minutes seems more like ten 
+hours, but at last you have come to what must be your final 
+goal, for the stairs of light give way to more mundane ones of 
+black stone ... 
+
+
+THE BLACK CYST 
+
+
+
+1. You are now descending steps cut into the sides of a 
+circular chamber only 20' across - just the diameter of 
+the pillar of radiance you descended through. As you 
+look up. the pillar stretches far above you. So far you 
+have a way of return! You note that the walls, steps, and 
+the floor of this place are of needle-sharp mineral. To 
+touch it will be to inflict many wounds upon the member 
+so doing. To brush against it with your robes will be to 
+risk shredding these protective garments. You must be 
+careful! There is an opening about 12' wide in the south 
+wall. You see space beyond, and you head for it. 
+
+(This place is COLD. Exposed flesh immediately takes 
+2-12 poi nts of damage, 3-18 if it also touches metal (such 
+as a sword or the like) . Torches m ust likewise be clasped 
+
+
+29 
+
+
+
+by means of the robe sleeve covering the hand, although 
+the heat of their burning cones helps to keep the 
+adventurers from suffering more than chilblains. The 
+incense in the thuribles isn't needed now, but it will be to 
+get back up the purple column. Remember, incense 
+burns for 3 turns/ball and torch cones burn for 6 turns 
+each. In this place, only the torches give off any light. All 
+other sources of illumination and/or heat are barely 
+glowing! If the party stays in the area for more than 6 
+turns, they will begin to feel very cold and take 1 -4 points 
+of damage per turn from this cold - a gentle reminder to 
+get out. If without torches to warm the air around them, 
+damage will be 1-4 points per round, not turn.) 
+
+
+2. THE CYST: As you enter thishemisphericalchamber of 
+some 40' diameter, the name of the place comes unbidden 
+to your minds. It is called the cyst, The Black Cyst. From 
+where you stand near the entrance, your iron torches 
+cast only a faint light to where some form lies near the 
+center of the place. This shape is so black that it is 
+absolutely lightless, and it seems to absorb all the 
+radiance from your torches. As was true in the entry 
+chamber, so too here; all is needle-rock. 
+
+(If by some chance a player allows his or her character to 
+contact this stone subjecting his or her robe to its cutting 
+qualities, the robe will take from 1-6 points of damage. 
+The character wearing that robe will, in turn, take that 
+many points of cold damage per turn he is in the Cyst 
+area.) 
+
+3. THE FORM ON THE BLOCK: In the center of the room 
+there is a stone block. It is about 12' long, 4' high, and 6' 
+wide. On it rests a shape wrapped in black haze. Under 
+the haze is something so black that all light is lost to it. 
+The eyes hurt to look at it, and the gaze avoids doing so. 
+As you move around this block of needle-rock you notice 
+that an occasional ripple seems to pass through the 
+lightless, haze-swathed form. Is it stirring? You can't be 
+sure. On the other side of the block you note devices of 
+black metal. Two great metal cressets, each with three 
+arms, stand at the head and foot of the block. There is a 
+step-like block of the same jagged stone set against the 
+main part - perhaps the step is part of it, for you can 
+detect no seam. The smaller piece is 4' long. 3' wide, 2' 
+high. To either side of it are low stands with three cup 
+like extensions. Beyond this, the place is bare and empty. 
+
+(Close examination of the cressets will reveal that each is 
+meant to hold three of the torch cones. Likewise, if the 
+stands are examined closely, it will be seen that they will 
+hold three balls of incense each. Lastly, if the ends of the 
+step are examined, it will be seen that each has a 
+triangular opening, the point of the triangle pointing downwards.) 
+
+(The horn must again be sounded - but only after the 
+mouthpiece has been warmed in a torch cone for 1 
+round, otherwise cold/metal damage will be taken (3-18 
+points). When the blast sounds, the whole place will 
+tremble, and the secret door to the south which allows 
+entry to area 4. will sink downwards for 6 rounds. It will 
+rise automatically on the seventh round, and the horn 
+must again be sounded to reopen the portal. A second 
+horn sounding will make the cyst tremble violently, 
+throwing characters to the floor. Those not saving versus 
+magic will have torn their robes.) 
+
+You have looked at everything, considered everything, 
+and there is only one answer which seems plausible to 
+you. The time has come to use the strange Iron Horn of 
+Tharizdun once again! 
+
+
+4. SECRET ROOM: When the reverberations cease and the 
+trembling of the Cyst subsides, you are astonished to 
+note that there is now a broad doorway in the south wall 
+where before there was nothing but stone. You step near 
+and peer into the place beyond. There you see a small 
+chamber of about 10' diameter. There are two large 
+chests of the now-familiar black metal. The glyphs 
+stating Tharizdun's name are upon each, and they 
+appear seamless. Nothing else is in this circular space. 
+
+(Only by speaking the name "Tharizdun" will these 
+containers open to reveal their contents. In the one to the 
+left are 60 balls of incense and a piece of black metal, 3' 
+long, with a triangular end. The other holds 30 torch 
+cones and a like metal bar. Cones and incense must be 
+placed properly and set alight by the burning torch 
+cones of the party. Then the two keys may be used to fit 
+into the step. Only these two keys will trigger it to move. 
+They will do so only if the light is correct and the incense 
+burning.) 
+
+Treasure: By inserting and turning the key bars you have 
+found you have caused the smaller step to move into the 
+block. Beneath is an opening in which three things rest: 
+
+1. A long tube of black metal. 
+
+2. A small box of the same black metal. 
+
+3. A bag of metallic, black cloth. 
+
+(These items are freezing COLD. They can not be 
+touched except through the black cloth of the special 
+robes. It might be difficult to carry them along with the 
+rest of the paraphernalia needed to exist here - that is 
+the problem of the party and up to your ajudication. The 
+long tube of black metal contains a wand of force. (This 
+item is explained in the section at the end of the module.) 
+The small box is covered with three score needle traps 
+which are triggered by body heat - here in the cold they 
+do not function. Each needle is poisoned. Inside the box 
+are the legendary 333 Gems of Tharizdun.. .unfortunately 
+only2-8 of them will be 5,000 or BETTER (no devaluation 
+possible with these gems). The remainder will be nothing 
+more than largish gems of base 50 g.p. value. The box 
+has value, however. Describe it as a stone coffer with 
+small, square legs which hold it about one inch above the 
+surface upon which it rests. The left rear leg of the box is 
+a cube of force which can be detached by simply casting 
+a dispel magic on the box. The bag of metallic cloth is 
+tied fast with black metal wire. It can be opened with care 
+despite the cold, if the party desires to do so while in the 
+Cyst. Inside is a book bound in black, scaly hide. Its 
+pages are all of black, and the sigils and glyphs inside are 
+inscribed in silver. If anyone other than a cleric of 
+Tharizdun opens and attempts to decipher it, he or she 
+will, with the aid of a read magic spell, be able to 
+understand that it is titled LAMENT FOR LOST 
+THARIZDUN before their mind goes blank for 2-12 
+rounds and they take 3-30 points of damage. What this 
+tome is, says, and does is the subject of some later 
+revelation. If the party wishes to dispose of the work, 
+some sage or savant will gladly pay them 33,000 gold 
+pieces for it and its bag.) 
+
+THUS ENDS THE ADVENTURE IN THE FORGOTTEN TEMPLE 
+
+OF THARIZDUN 
+
+
+Special Note: I wish to thank Rob Kuntz for inspiration 
+regarding the subject material of this scenario. Thanks too to 
+the original group of players: Luke Gygax, Mike Olson, Sonny 
+Savage, Richard Kuntz, and (of course) Mitch Preston! 
+
+
+30 
+
+
+
+ANNIS 
+
+
+FREQUENCY: Very rare 
+NO. APPEARING: 1-3 
+ARMOR CLASS: 0 
+MOVE: 15" 
+
+HIT DICE: 7 +3-12 
+% IN LAIR: 20% 
+
+TREASURE TYPE: D 
+NO. OF ATTACKS: 3 
+DAMAGE/ATTACK: 2-9/2-9/3-9 
+SPECIAL ATTACKS: Grappling (see below) 
+
+SPECIAL DEFENSES: See below 
+
+MAGIC RESISTANCE: 100% vs. illusion/phantasm magic 
+only 
+
+INTELLIGENCE: Low-exceptional 
+ALIGNMENT: Chaotic Evil 
+SIZE: L (7%-8' tall) 
+
+PSIONIC ABILITY: Nil 
+Attack/Defense Modes: Nil/nil 
+LEVEL/X.P. VALUE: VII/1.300 +10/h.p. 
+
+
+The race of annis (singular and plural) are relatives of the night 
+hags of the Lower Planes. Their appearance is similar to night 
+hags, but annis are larger and more physically powerful. Annis 
+dwell naturally upon the Prime Material Plane. These giantesses 
+are particularly fond of tender flesh from young humans, 
+although they will devour even so rank a beast as a stench kow, 
+so voracious is their appetite. It is common for annis to dwell 
+singly or in a small group but these creatures have been known 
+to cooperate with such monsters as ogres, trolls, evil giants, 
+and the like for reasons of safety or better provisions: and, 
+occasional communities of this nature have been encountered. 
+
+
+
+Description: An annis is a deep blue color, quite similar in 
+complexion and visage to a night hag. Likewise, hair, teeth, 
+and nails are glossy black. The eye of an annis are usually dull, 
+however, being greenish or yellow instead of the red of their 
+night hag counsins. The tall body is thin, muscular, and wiry. 
+The arms and legs are long and quick. Their garb is not 
+dissimilar to that of a peasant woman, but it will usually be 
+more tattered, ragged, and filth covered. 
+
+
+An annis typically attacks with her iron-like talons and teeth, 
+inflicting horrible wounds in this manner. As the strength of an 
+annis is equal to a hill giant (19), they also tend to grapple with 
+an opponent. If one succeeds in hitting with all three of her 
+attacks during the same round, the annis has grappled her 
+opponent after inflicting damage, and the opponent is held 
+fast. Next round all attacks of the annis grappling its opponent 
+are automatic hits, unless the opponent is stronger, the annis 
+is slain, or the victim has some means of magical escape (such 
+as becoming ethereal, dimension dooring, etc.). Otherwise, 
+the annis will continue to hold her grip and deliver damage by 
+raking talons and gnawing fangs until the opponent is slain. 
+
+
+In addition to normal attacks, an annis has the spell-like ability 
+of casting a fog cloud at an opponent. This will be done to 
+confuse resistance or delay attack by a superior foe. 
+Defensively, an annis has the spell-like power of change self, 
+so one can appear as a large human, ogre, etc. Such powers 
+are usuable one at a time, one per round, twice per day. They 
+are cast at 8th level for purposes of determination of spell 
+range, duration, etc. 
+
+Due to the iron-hard skin of an annis, treat the monster as if she 
+were clad in plate mail for purpose of adjusting weapons 
+versus armor type for "to hit" rolls. In any event, edged 
+weapons will do -1 damage, blunt ones +1, when striking an 
+annis. (Consider flails and morning stars as blunt weapons.) 
+
+Annis have normal infravision but superior hearing and sense 
+of smell. They speak their own language, ogrish, common 
+giant, and a smattering of the common tongue. Some of the 
+most intelligent are able to speak various humanoid languages 
+in addition, and have a better fluency in common. 
+
+
+BOGGART 
+
+FREQUENCY: Rare 
+NO. APPEARING: 2-5 
+ARMOR CLASS: -6 
+MOVE: 18" 
+
+HIT DICE: 6 
+% IN LAIR: Nil 
+TREASURE TYPE: Nil 
+NO. OF ATTACKS: 1 
+DAMAGE/ATTACK: 2-12 
+SPECIAL ATTACKS: See below 
+SPECIAL DEFENSES: See below 
+MAGIC RESISTANCE: See below 
+INTELLIGENCE: Very-exceptional 
+ALIGNMENT: Chaotic Evil 
+SIZE: S(2'+ in human-like form) 
+
+PSIONIC AILITY: Nil 
+Attack/Defense: Nil/nil 
+LEVEL/X.P. VALUE: VI/625 +6/h.p. 
+
+A boggart is the immature form of a will-o-wisp. One appears 
+as a small demi-human. humanoid, or will-o-wisp as it desires. 
+However, while a boggart has more forms than its adult 
+counterpart, it can retain one of these forms for no more than 
+10 or 12 rounds before losing control and shifting to some 
+other form. Of course, a boggart can purposely change forms 
+anytime it wishes. These monsters need both flesh and life 
+force to grow to maturity. Boggarts tend to use human-like 
+forms to lure adults of that sort. They often use demi-human 
+form to attract larger creatures which would relish eating such 
+a small and tasty morsel. Once trapped or ambushed, the adult 
+or would-be predator becomes the prey of the boggart. The 
+monster devours the victim's life force as it dies as well as 
+victim's physical body. 
+
+
+31 
+
+
+The boggart attacks by touch, delivering 2-12 points of 
+damage from electrical energy. It can also discharge a bolt of 
+this energy every other round, sending the discharge up to 10'. 
+However, the opponent so attacked is entitled to a saving 
+throw versus magic, and if it succeeds, the victim suffers only 
+half normal damage (1-6 hit points). The most devious attack 
+of a boggart is by confusion. This a boggart can create (cast) 
+once per day by making noise - yelling, screaming, shouting, 
+whistling, banging, pounding, thumping - for two consecutive 
+rounds. All creatures within a 30' radius of this noise will be 
+affected if they can hear it clearly, and even covering the ears 
+will not help to be unaffected. Such creatures must save versus 
+magic or be confused for 7-12 melee rounds. Only a successful 
+attack on a boggart casting a confusion will cause it to stop its 
+noise prior to completion. If more than 1 boggart is making the 
+noise, then all must be stopped in order to foil the confusion. 
+Saves versus such a multiple casting are made at -1 for each 
+boggart completing 2 rounds of continuous noise. 
+
+A boggart can also become invisible for up to 12 rounds; and 
+this is possible in any form the creature is in at the time it 
+chooses to become invisible. Note that invisibility will not be 
+broken because of making noise, so an invisible boggart can 
+create a horrific racket. Just as with a will-o-wisp, any weapon 
+will damage the immature form. However, all spells save magic 
+missile, maze, and protection from evil are useless versus a 
+boggart. When reduced to 5 or fewer hit points, a boggart will 
+use all of its wit and devices to escape further combat. This 
+escape is usually accomplished by becoming invisible and 
+running away or floating in will-o-wisp form over some ground 
+impassable to the monster's enemies. 
+
+Boggarts have the ability to use a limited form of ESP to 
+understand and speak all languages, although such speech 
+will be very basic and limited. When in glowing will-o-wisp 
+form, they can pass through solid, non-living objects, even 
+stone walls, up to 2' thick. Metals are impassable to them, for 
+they ground out the electrical energy of the creatures. Boggarts 
+have normal infravision in man-like form. 
+
+
+
+Description: In demi-human guise, a boggart typically appears 
+as a small halfling or young gnome. In humanoid form, the 
+creature usually takes the shape of a goblin imp, young xvart, 
+or norker neut. As a will-o-wisp. a boggart is smaller and 
+brighter than it's mature form. 
+
+
+WAND OF FORCE: Although it is rumored that the concept of 
+such a wand has taken many forms, the one which has been 
+popularized, so to speak, is a tri-functional device. Only the 
+use of the third function requires considerable operator 
+knowledge. Primarily, a wand of force enables the wielder to 
+cause a shaft of nearly invisible, blue-white energy to spring 
+forth from its tip. This shaft extends 4' and is equal in effect to a 
++5 sword (bastard) with respect to both hit probability and 
+damage inflicted. It cuts stone at 5 inches per cut, metal at .05 
+inches per cut. This usage expends 1 charge per turn. 
+Secondly, a wand of force can be employed to create a wall of 
+force duplicating the fifth level magic-user spell of the same 
+name (q.v.) as if cast by a 10th level magic-user. This function 
+expends 1 charge per force wall created, and a single usage 
+per round is possible. Thirdly, a wand of force can be 
+employed to create a nearly invisible plane of energy which 
+performs exactly as if it had been created by casting of a 
+Bigby's Forceful Hand spell (q.v.). The wand user must 
+actually be a magic-user in order to activate this function and, 
+regardless of his or her level, one of the various Bigby's 
+Hand/Fist spells must be recorded for study (not necessarily 
+for casting) in the spell books of the wand wielder. Use of the 
+third function expends one-half of a charge every round. 
+Fighters of all types are able to utilize the primary and 
+secondary functions of the wand. In addition to its normal 
+means of being recharged by a magic-user, the device can also 
+draw sufficient energy to regain a single charge by being 
+touched to any of the following: 
+
+BIGBY'S HAND/FIST manifestations 
+
+MORDENKAINEN'S SWORD manifestation 
+
+WALL OF FORCE 
+
+Touching with the wand acts as if a disintegrate spell were 
+cast, destroying the spell/manifestation instantly and drawing 
+power equal to one charge into the wand. 
+
+X.P. VALUE: 3,000 G.P. SALE VALUE: 30,000 
+
+BEADS OF FORCE: These small black spheres might be 
+mistaken for some common bead, a marble, or perhaps an 
+unusually black but lusterless pearl. Each is about three- 
+quarters of an inch in diameter and quite heavy, weighing 
+almost an ounce. One can be hurled up to 3" distance. Upon 
+impact, the bead will send forth a burst of force which will 
+inflict 5-20 hit points of damage upon all creatures within a 10' 
+radius of its burst. Those saving will take full damage, but the 
+force will have thrown them back. Those failing to save versus 
+magic will immediately be encapsulated after taking damage. 
+The force will form a sphere around these victims (even those 
+of large size) and they will be unable to escape except by the 
+same means by which a wall of force is brought down. The 
+effect wears out in 3-12 rounds. From 5-8 of these beads are 
+usually found. 
+
+X.P. VALUE 200 each GP SALE VALUE: 1,000 each 
+
+
+CREDITS 
+
+MODULE DESIGN: E. Gary Gygax 
+EDITING: Andrea Otson-Bamas 
+ART: Karen Nelson 
+GRAPHICS: Eric Nelson Shook 
+LAYOUT: Ruth Hodges 
+KEYLINE: Linda Bakk 
+
+PLAYTESTERS: Luke Gygax, David Kuntz, Richard 
+
+Kuntz, Mike Olson, Sonny Savage 
+
+AND SPECIAL THANKS TO: Robert Kuntz

@@ -1,0 +1,1207 @@
+FRQ2
+ADVENTURE
+Arj  A(Vwrj(.fjMt-!  foe  OinRoctei?  Lfioals  10-12
+Advanced  Du
+•«
+SR  IS
+•PT:.*.1  *  -
+'  'j? -  =—  ,
+1®
+i-WJT.  /*  *v.  >  *  .
+,r  ‘‘  ***>
+'•  "  W  7h*
+.i-T .  1  1.4
+jg
+|  1  //
+m  .  j  _  i  fi
+$  \N
+1
+H1
+mlv^y^6  ■?
+y
+/
+jrizjj
+HORDES  OF  DRAGONSPEAR
+An  Adventure  for  Characters  of  Levels  10-12
+Table  of  Contents
+Introduction . 2
+Plot  Synopsis  . 2
+The  Hordes .  4
+BATTLESYSTEM™  Statistics  . 5
+The  Allies  . 6
+BATTLESYSTEM  Statistics  . 7
+The  Town  of  Daggerford  . 8
+Places  of  Interest . 8
+The  Druid's  Council .
+The  Roaring  Deep .
+Under  the  Castle .
+Labyrinth  Map .
+Return  to  the  Inn  .
+Against  the  Hordes .
+BATTLESYSTEM  game  map Aftermath  .
+The  Army  of  Daggerford  .
+. 10
+Appendix
+:  Monstrous  Cor
+Council  of  War  .
+.  12
+Baatezu,
+General  .
+Battle  at  the  Way  Inn  .
+.  14
+Baatezu,
+Greater  —  Cornugon
+BATTLESYSTEM  game  map  .
+. 15
+Baatezu,
+Greater  — Pit  Fiend
+Into  the  Misty  Forest  .
+. 16
+Baatezu,
+Lesser  —  Barbazu  .  .
+Credits
+Design:  William  W.  Connors Editing:  C.  Terry  Phillips Cover  Art:  Doug  Chaffee Interior  Art:  Arnie  Swekel
+Cartography:  Steve  Beck Typography:  Gaye  O'Keefe Production:  Paul  Hanchette
+TSR,  Inc.
+POB  756 Lake  Geneva WI  53147  U.S.A.
+TSR  Ltd.
+120  Church  End,  Cherry  Hinton Cambridge  CB1  3LB United  Kingdom
+18 2  0 2  2 ,  23 24 2  6 2  7 ,  2  8 .29 .  29 .  30 .  31 .  32
+ADVANCED  DUNGEONS  &  DRAGONS,  AD&D,  and  FORGOTTEN  REALMS  are  registered  trademarks  owned  by  TSR,  Inc.
+The  TSR  logo,  BATTLESYSTEM,  DUNGEON  MASTER,  and  DM  are  trademarks  owned  by  TSR,  Inc.
+All  TSR  characters,  character  names  and  the  distinctive  likenesses  thereof  are  trademarks  owned  by  TSR,  Inc.
+Random  House  and  its  affiliate  companies  have  worldwide  distribution  rights  in  the  book  trade  for  English  language  products  of  TSR,  Inc.  Distributed  to  the book  and  hobby  trade  in  the  United  Kingdom  by  TSR  Ltd.  Distributed  to  the  toy  and  hobby  trade  by  regional  distributors.
+This  material  is  protected  under  the  copyright  laws  of  the  United  States  of  America.  Any  reproduction  or  unauthorized  use  of  the  material  or  artwork contained  herein  is  prohibited  without  the  express  written  consent  of  TSR,  Inc.  Any  similarity  between  persons  living,  dead,  not  yet  born  or  in  cryogenic preservation  is  purely  coincidental.
+©1992  TSR,  Inc.  All  Rights  Reserved.  Printed  in  the  U.S.A.
+ISBN  1-56076-333-7 9369XXX1501
+IsiTrioducVobJ
+Mark  my  words,  there  is  something  dark there.  Some  evil  force  grows  at  the  heart of  that  ruin.  For  now,  it  is  content  to  dwell in  the  darkness  for  it  fears  the  light  of  day. Soon,  however,  it  will  grow  so  powerful that  not  even  the  shadows  can  contain  it.
+D auravyn  Redbeard Keeper  of  The  Way  Inn
+All  who  live  within  several  hundred miles  have  heard  the  name  of  Dragon- spear  Castle  and  know  its  import.  Once home  to  the  proud  and  brave,  the  castle  is now  a  ruin  cloaked  behind  a  history  of murder  and  diabolic  plots.  Few  go  there, for  the  only  reward  to  be  garnered  is death.
+Actually  the  problem  is  not  Dragon- spear  itself.  The  old  ruined  castle,  though rumored  to  have  a  portal  to  the  sinister planes,  is  only  a  symbol  for  the  evils  that surge  out  of  the  wastes  of  the  High  Moor. Once,  not  too  many  years  ago,  the  ores and  trolls  of  the  High  Moor  ruled  from that  broken  keep,  rampaging  throughout the  area,  cutting  the  Trade  Way,  and threatening  the  good  people  from  Dagger- ford  to  Boarskyr  Bridge.
+The  armies  of  Waterdeep  and  Baldur's Gate  ended  the  reign  of  terror  when  they laid  siege  to  the  moldering  fortress.  By  the time  Piergeiron  Paladinson's  soldiers  and Khelben  Blackstaff's  magic  had  shattered the  castle  gate  and  annihilated  the  occu¬ pants,  the  might  of  Dragonspear  was  bro¬ ken.  A  temple  was  established  to  ward against  further  evil  rising  from  the  castle's cellars,  where  the  gate  to  the  planes  was rumored  to  exist.
+So  things  went  for  many  years.  By  the Time  of  Troubles,  the  temple  and  its  cler¬ gy  had  long  since  disappeared.  Perhaps the  priests  had  grown  lax  in  their  task  or perhaps  something  darker  happened-it seems  of  no  consequence  to  this  day  for no  further  reports  of  evil  have  come  from Dragonspear.
+Still,  one  never  knows.
+Plot  Sywopste
+This  adventure  begins  with  the  heroes at  Daggerford  when  word  comes  of  a great  force  of  goblins  and  kobolds  moving out  of  the  Misty  Forest.  The  local  militia  is setting  out  at  once  to  counter  this  new threat  to  the  Trade  Way.  When  the  militia's leader  is  injured,  the  PCs  are  called  on  to take  charge  of  these  green  troops.
+With  the  heroes  in  charge,  the  Army  of Daggerford  heads  south.  They  come across  the  humanoids  at  the  Way  Inn. Here,  they  join  with  a  group  of  merce¬ naries,  battle  the  Marauders,  and,  with  a little  luck,  defeat  them.  Much  to  their  hor¬ ror,  they  discover  a  cornugon  (Vrag)  at  the head  of  the  horde.
+Leaving  the  massed  forces  behind  in  the care  of  their  new  leader,  the  PCs  enter  the Misty  Forest.  Here,  they  come  across  a wild  elf  living  like  a  beast  in  the  wilder¬ ness.  He  is  quite  insane.  The  heroes  cure him  and  learn  several  things.  First,  they learn  that  his  tribe  was  destroyed  by  an  ar¬ my  of  humanoids  that  came  down  from the  High  Moors.  (He  was  the  leader  of  his tribe  and  was  taken  prisoner.  In  chains,  he was  brought  to  Dragonspear  Castle.)  Sec¬ ond,  they  learn  that  the  leader  of  the  en¬ tire  horde  is  a  pit  fiend  who  has  based  his troops  in  that  same  castle.  Lastly,  they learn  that  the  dragon  who  serves  this fiend  is  doing  so  under  duress;  one  of  the cornugons  that  heads  the  enemy  has  a magical  hold  over  the  reptile.  If  that  hold were  broken,  the  dragon  would  certainly abandon  the  cause  that  he  currently  fights for  or  even  turn  upon  his  "master."
+With  the  aid  of  a  druid  who  lives  nearby, the  heroes  learn  that  the  dragon  must obey  the  cornugon  Vesarius  because  of the  enchanted  spear  that  the  latter  crafted from  the  former's  horn.  The  druid  in¬ forms  the  heroes  that  the  destruction  of the  spear  will  free  the  dragon  from  its mental  servitude.  The  spear  can  be  de¬ stroyed  only  by  the  acidic  spittle  of  the
+2
+dragon  itself.  The  spear  is  hidden  at  the heart  of  Dragonspear  Castle,  however,  so recovering  it  will  not  be  easy.
+The  elf  points  out  that  the  route  he  used to  escape  the  castle  might  allow  the  he¬ roes  access  to  it.  He  refuses  to  return  there himself,  but  offers  to  start  the  PCs  on  their way  and  then  go  and  spread  word  of  the menace  that  looms.  He  will  have  all  of  the allies  await  word  of  the  heroes'  fate  at  the Way  Inn.  He  warns  them  to  be  quick, though,  for  men  have  not  the  patience  of elves  and  will  long  to  move  quickly against  the  enemy.
+The  elf  leads  the  PCs  to  a  narrow  cavern that  goes  down  into  darkness.  The  PCs  en¬ ter  and  find  that  it  provides  access  to  an underground  river.  This  river  flows  south¬ ward  but  turns  east  briefly  and  passes  di¬ rectly  under  the  castle.  The  elf  is  certain that  the  hordes  don't  know  of  its  existence or  his  escape  would  not  have  been  possi¬ ble.
+The  PCs  head  down  the  river  and  soon reach  the  castle.  They  make  their  way  into the  catacombs  beneath  the  main  tower, fight  some  bad  guys,  and  recover  the spear.  They  escape  via  the  river  and  re¬ turn  to  the  Way  Inn.
+Here  they  find  that  the  dragon  has  at¬ tacked  and  destroyed  the  Inn.  The  army has  moved  south,  hoping  to  strike  a  fatal blow  to  the  enemy  before  the  dragon  re¬ turns  to  finish  them.  The  heroes  must hurry  if  they  are  to  rejoin  the  allied  army and  save  it  from  destruction  by  the Hordes  of  Dragonspear.
+The  heroes  arrive  as  the  big  battle  is  in progress.  The  dragon  is  clearly  a  foe  too powerful  to  be  countered  by  the  massed forces  opposing  the  hordes.  Things  look dark  indeed.  The  heroes  join  the  battle and  bring  the  spear  into  a  position  where the  dragon  can  see  it.  With  a  roar,  the beast  dives  at  the  weapon  and  lets  loose  a stream  of  acid  at  it.  The  spear  is  de¬ stroyed,  and  the  dragon  is  freed  of  its  in¬ fluence.
+The  dragon,  now  able  to  do  as  it  will, turns  on  its  former  master.  The  day  is  won and  the  heroes  are  .  .  .  well,  heroes.
+DuwgeoKJ  Masters  Notes
+Hordes  of  Dragonspear  is  a  high-level adventure.  It  assumes  that  the  heroes  are generally  of  10th-  to  12th-level  and  five  or six  in  number.  If  this  is  not  the  case,  the DM  will  want  to  alter  some  of  the  encount¬ ers  in  this  book  to  make  it  more  appropri¬ ate.
+At  several  points  in  this  adventure,  the stage  is  set  for  a  grand  battle.  For  readers who  play  the  BATTLESYSTEM™  minia¬ tures  rules,  complete  game  information  is provided  on  the  opposing  forces.  For those  without  the  time  or  interest  to  re¬ solve  the  battles  in  this  manner,  informa¬ tion  is  provided  that  allows  the  battles  to be  resolved  with  the  mass  combat  system presented  in  DMGR2:  The  Castle  Guide. Lastly,  for  people  who  don't  want  to  re¬ solve  the  battles  at  all,  a  brief  synopsis  of the  probable  outcome  of  the  battle  is  pro¬ vided.
+The  next  few  pages  of  this  text  detail  the armies  that  have  been  gathered  around Dragonspear  Castle.  First  the  hordes themselves  are  presented,  and  then  the various  forces  allied  against  them.
+3
+The  HOR&es
+Despite  their  chaotic  name,  the  Hordes of  Dragonspear  have  a  fairly  stable  mili¬ tary  structure.  This  is  the  direct  result  of the  pit  fiend  Baazka  who  commands them.  While  the  humanoids  that  he  has brought  together  would,  on  their  own, dissolve  into  a  quarreling,  bickering  mass, the  fear  that  they  have  of  Baazka  and  his three  cornugon  lieutenants  is  enough  to keep  the  Hordes  in  line.
+This  humanoid  horde  is  composed  of three  distinct  armies,  each  of  which  is commanded  by  a  cornugon.  Among  these lieutenants  there  is  a  great  deal  of  political rivalry  and  competition.  As  a  rule,  Baazka sends  each  of  the  units  out  on  its  own  to accomplish  a  specific  mission.  Thus,  the entire  horde  is  seldom  encountered  at once.
+The  MAizAudoizs
+Despite  their  ominous  sounding  name, the  Marauders  are  the  least  of  Baazka's units.  It  is  commanded  by  Vrag,  a  cornu¬ gon  who  is  far  from  happy  with  this  as¬ signment.  He  recognizes  that  his  force  is looked  down  upon  by  all  the  others.  In  an effort  to  prove  himself  to  Baazka,  Vrag  of¬ ten  commits  the  Marauders  to  dangerous and  glorious  assaults.  So  far,  he  has  been lucky.  The  Marauders  have  actually proven  themselves  to  be  a  competent  mili¬ tary  unit.  How  much  of  this  is  skill,  talent, or  savagery  and  how  much  is  fear  of  their leader  is  open  to  speculation.
+The  Marauders  are  composed  of  two forces.  The  first  is  an  assembly  of  some 500  kobolds.  Fighting  under  the  banner  of a  particularly  cruel  and  evil  chieftain named  Wolg,  these  troops  are  the  lowest in  the  horde's  hierarchy.  If  there  is  a  sui¬ cidal  or  distasteful  assignment  to  be  tak¬ en,  it's  almost  sure  to  fall  to  the  kobolds.
+The  other  element  of  the  Marauders  is  a band  of  500  goblins  under  the  command of  Pruj.  A  chieftain  of  great  renown among  the  goblin  folk,  Pruj  is  unusually
+brave  for  a  member  of  this  cowardly  race. It  is  quite  possible  that  he  is  mentally  un¬ stable  and  subject  to  delusions  of  gran¬ deur.
+The  Blood  Guarid
+The  next  unit  in  Baazka's  army  is  the dangerous  Blood  Guard.  This  force  is composed  of  300  ores  and  200  hobgob¬ lins.  Although  they  are  not  nearly  as  nu¬ merous  as  the  Marauders,  the  Blood Guard  is  the  main  force  of  the  horde. Whenever  there  is  an  assault  to  be  made or  a  village  to  be  raided,  it's  a  good  bet  that the  Blood  Guard  will  get  the  assignment. The  commander  of  this  force,  the  cornu¬ gon  Vooka,  is  perhaps  the  most  intelligent of  Baazka's  lieutenants.  While  he  desires to  impress  Baazka  as  much  as  either  of  the other  cornugons,  he  is  determined  to  do  it through  his  cunning  and  intelligence.  He is  a  master  of  military  strategy  and  has Baazka's  ear  on  all  matters  of  the  cam¬ paign.
+The  ores  are  under  the  command  of Dahrgash.  There  is  a  great  deal  of  infight¬ ing  and  bickering  among  the  ores,  more than  in  any  other  unit.  Still,  Dahrgash  is brutal  and  fierce  enough  to  keep  the  ores in  line.
+The  hobgoblins  have  taken  to  the  mili¬ tary  life  quite  quickly.  They  are  by  far  the most  professional  of  Baazka's  force.  There is  an  unusual  amount  of  cooperation within  the  hobgoblin  ranks,  due  primarily to  the  loyalty  which  Skarr,  their  chieftain, commands.
+The  STbfcm
+The  final  element  of  Baazka's  army  is the  most  dangerous.  Known  as  the  Storm, it  is  composed  of  100  ogres,  100  bugbears, and  the  dreaded  Maelestor  Rex-an  an¬ cient  black  dragon.  The  Storm's  com¬ mander,  Vesarius,  is  a  brutal,  militaristic beast.  He  demands  strict  obedience  from
+4
+those  in  his  command  and  is  a  harsh  task¬ master.  He  looks  upon  both  Vooka  and Vrag  as  worthless  inferiors.  His  contempt blinds  him  to  the  former's  keen  mind  and the  latter's  shrewd  courage.
+The  Storm's  ogres  are  commanded  by Oorok.  While  he  is  not  the  smartest  or bravest  of  the  ogres,  he  is  the  biggest  and the  meanest.  In  ogre  society,  that  makes him  the  boss.  He  is  brutal  and  cruel,  some¬ thing  Vesarius  finds  admirable.
+The  bugbears  are  under  the  hand  of  the particularly  cunning  and  evil  Ghorashk. He  attained  his  present  position  of  power by  the  assassination  of  the  two  bugbears above  him  when  the  army  was  formed. Ghorashk  makes  no  secret  of  the  fact  that he  is  more  than  willing  to  use  under¬ handed  tactics  in  both  mass  combat  and individual  melees.
+The  last  element  of  the  Storm  is  by  far the  most  terrible.  Maelestor  Rex,  a  1,250 year-old  black  dragon,  acts  under  the  di¬ rect  orders  of  Vesarius.  He  is  contemptu¬ ous  of  all  the  other  elements  of  the  horde and  serves  in  it  only  under  duress.
+Centuries  ago,  Maelestor  Rex  struck  a bargain  with  the  fiendish  Vesarius.  In  ex¬ change  for  one  of  his  horns,  Vesarius  gave the  dragon  knowledge  of  several  unique magical  spells.  Vesarius  took  the  horn  and fashioned  it  into  a  great,  barbed  spear.  By means  of  a  powerful  incantation  that  he wove  while  creating  the  weapon,  Vesarius has  forced  the  dragon  to  obey  him.  If  the spear  were  destroyed  or  lost,  it  is  certain that  Maelestor  Rex  would  turn  in  venge¬ ance  upon  the  Hordes  of  Dragonspear  and its  diabolical  commanders.
+Unit
+#
+AD
+AR
+Hits
+ML
+MV
+Range
+Remarks
+Wolg's  Kobolds
+500
+4
+8
+Vi
+9
+6
+na
+a  b
+Pruj's  Goblins
+500
+6
+8
+1
+11
+6
+na
+abed
+Dahrgash's  Ores
+300
+6
+8
+1
+11
+9
+na
+a  c  d  e
+Skarr's  Hobgoblins
+200
+8/6
+7
+1
+11
+9
+7/14/21
+e  f
+Ghorashk's  Bugbears
+100
+8
+7
+2
+12
+9
+na
+h  i
+Oorok's  Ogres
+100
+10
+7
+2
+12
+9
+na
+d  e  g  h
+a.  -1  bonus  to  enemy  AR  in  daylight
+f.  Equipped
+with
+bows
+b.  Hate  gnomes
+g.  Hate
+halflings
+c.  -1  penalty  to  Morale
+in  daylight
+h.  Irregular
+only
+d.  Hate  dwarves
+i.  Chaotic
+e.  Hate  elves
+Individuals
+AD
+AR
+Hits
+CD
+MV
+Range
+Remarks
+Wolg
+4
+8
+1
+9
+6
+na
+None
+Pruj
+6
+8
+1
+11
+6
+na
+None
+Dahrgash
+6
+8
+1
+11
+9
+na
+None
+Skarr
+8/6
+7
+1
+11
+9
+7/14/21
+None
+Ghorashk
+8
+7
+2
+12
+9
+na
+None
+Oorok
+10
+7
+2
+12
+9
+na
+None
+Vrag
+See  Inside
+Back
+Cover
+Vooka
+See  Inside
+Back
+Cover
+Vesarius
+See  Inside
+Back
+Cover
+Baazka
+See  Inside
+Back
+Cover
+Maelstor  Rex
+See  Inside
+Back
+Cover
+5
+The  Allies  of  D aggenfonb
+Allied  against  the  Hordes  of  Dragon- spear  is  a  rough  confederation  of  troops, some  of  them  more  capable  than  others.  It may  be  that  some  of  the  units  listed  below will  be  unavailable  to  the  player  charac¬ ters,  depending  upon  the  course  of  the role-playing  portions  of  this  adventure.
+The  Artdy  °f  Daggerzforzd
+While  the  dedication  and  devotion  of these  troops  are  not  to  be  doubted,  their value  as  anything  other  than  fodder  is subject  to  debate.  The  army  has  been formed  from  the  militia,  watch,  and farmers  of  Daggerford  and  its  environs. While  they  are  not  well-trained  or  well- equipped,  they  are  fighting  in  defense  of their  homes  and  are  highly  motivated.
+The  majority  of  this  force  is  a  unit  of  300 peasants.  For  the  most  part,  these  are  sim¬ ple  folk  who  have  banded  together  to fight  the  enemy  with  whatever  weapons they  might  have  at  hand.
+The  second  of  the  army's  three  elements is  composed  of  200  former  members  of various  armed  forces.  Because  the  people in  this  unit  have  all  had  some  actual  mili¬ tary  experience,  it  seems  probable  that they  will  fare  better  than  the  larger  force of  peasant  rabble.  Still,  few  of  these  indi¬ viduals  have  seen  actual  combat.
+The  final  element  of  the  army  is  a  group of  100  young  men  and  women  who  have not  only  received  military  training,  but  ac¬ tually  served  in  combat.  While  their  com¬ bined  experience  might  not  be  great,  it  is enough  to  qualify  them  as  light  infantry.
+Unless  the  player  characters  come  for¬ ward  to  command  the  Army  of  Dagger- ford,  they  will  be  led  by  the  capable,  but not  outstanding,  Dauravyn  Redbeard. This  former  adventurer  and  current  keep¬ er  of  the  Way  Inn  will  be  primarily  con¬ cerned  with  keeping  these  simple  folk from  being  slaughtered  in  battle.
+3izd  Comp awy*  High
+GuAizds  of  Wat oj£oeep
+This  is  a  unit  of  100  regular  military  men (medium  infantry)  who  happened  to  be patrolling  the  regions  south  of  Waterdeep when  the  call  for  aid  went  forth.  They  are a  solid  unit,  with  combat  experience  and decent  equipment.  The  3rd  Company ought  to  be  able  to  hold  its  own  in  any  bat¬ tle  with  the  Hordes  of  Dragonspear.
+The  commander  of  this  unit  is  Frey Silverblade.  While  she  is  a  clever  and  cun¬ ning  warrior,  she  will  follow  the  lead  of  a player  character  who  seems  more  experi¬ enced  in  the  art  of  war.
+Uhmbrzick’s  RAbjgeiz
+This  band  of  50  mounted  mercenaries  is swept  up  into  the  conflict  when  they  are attacked  at  the  Way  Inn.  Although  they will  attempt  to  find  someone  to  pay  them for  fighting  the  Hordes,  they're  deter¬ mined  to  have  revenge  for  the  men  they lost  at  the  Way  Inn  and  will  carry  on  with¬ out  pay.  The  rangers  are  classed  as  medi¬ um  cavalry.
+Uhmbrick's  troops  are  loyal  to  him,  but will  also  follow  another  with  his  blessing. If  a  suitable  player  character  is  in  the group  of  heroes,  Uhmbrick  can  be  killed or  wounded  and  the  PC  can  take  his  place.
+KtoighTs  of  ILmaTeR
+These  50  men  are  paladins  who  ride  to¬ gether  under  the  grey  and  red  banner  of the  god  Ilmater.  The  Knights  are  a  truly deadly  force,  being  classed  as  ultra-heavy cavalry.  The  Knights  believe  that  it  is  their place  to  travel  from  battle  to  battle,  surviv¬ ing  without  the  comforts  of  home  or  the security  of  a  steady  base  of  operations. They  are  always  on  the  watch  for  a  wor¬ thy  cause  to  adopt.
+The  leader  of  these  brave  warriors  is  al¬ most  maniacal -Korr  of  Ilmater.  He  is brave,  reckless,  and  (some  say)  suicidal.
+6
+M)sT\?  EoizesT  Elves
+When  word  of  the  peril  reached  the elves  of  the  Misty  Forest  and  Laughing Hollow,  they  decided  that  their  race  must play  some  part  in  the  coming  clash.  Thus, 100  of  their  number  have  left  their  seclud¬ ed  homelands  to  join  the  alliance  against Dragonspear.  This  force  is  grouped  into two  units,  each  made  up  of  50  elves.  The first  group  is  simply  elven  infantry,  very capable  but  not  greatly  noteworthy.  The second  element,  however,  is  a  team  of  50 elvish  longbowmen.
+The  leader  of  the  elves  is  Sylyndyrryl Moonspinner  a  lovely  young  woman  who is  so  slender  that  she  looks  almost  frail; she  is  far  from  it.  She  might  allow  a  PC command  of  one  element  of  her  troops, but  only  if  that  hero  were  an  elf.
+Duoanves  of  ILLefarzbJ
+When  the  race  of  dwarves  recently  began to  reclaim  the  ruins  of  Illefarn,  they  vowed never  to  be  driven  from  those  halls  again. Thus,  when  the  danger  of  Dragonspear  pre¬ sented  itself,  they  were  quick  to  take  up arms  and  join  the  allied  forces.  Like  the elves,  the  dwarvish  forces  are  composed  of two  units  of  50  troops  each.  One  group  is  a band  of  stern  dwarven  infantry,  a  force  not to  be  taken  lightly.  The  other  is  a  team  of  50 dwarven  crossbowmen,  a  valuable  addition to  the  allied  forces.
+The  dwarves  are  led  by  Cyrag  Hammer- bone,  a  tough  and  determined  veteran who  has  faced  the  beasts  of  the  High Moors  before  and  seems  more  than  will¬ ing  to  battle  them  again.  Like  Moonspin¬ ner,  he  might  trust  a  PC  with  the command  of  one  unit,  but  only  if  that  he¬ ro  were  a  dwarf.
+Unit
+#
+AD
+AR
+Hits
+ML
+MV
+Range
+Remarks
+Misty  Forest  Elves
+50
+8
+7
+1
+13
+12
+na
+f  g
+Elvish  Longbowmen
+50
+6/8
+7
+1
+13
+12
+7/14/21
+f  g
+Dwarves  of  Illefarn
+50
+6
+7
+1
+12
+6
+na
+a  b  c  d  e
+Dwarvish  Crossbowmen
+50
+6
+8
+1
+13
+6
+6/12/18
+a  b  c  d  e
+Daggerford  Peasants
+300
+4
+9
+1
+7
+12
+na
+h
+Daggerford  Militia
+200
+6
+9
+1
+10
+12
+na
+h
+Daggerford  Infantry
+100
+6
+8
+1
+11
+12
+na
+3rd  Company
+100
+6
+7
+1
+11
+12
+na
+Uhmbrick's  Rangers
+50
+8
+7
+2
+12
+18
+na
+Knights  of  Ilmater
+50
+12/8
+5
+4
+15
+12
+na
+a.  Favor  rough  or  rocky  ground
+e.  -2  AR
+vs.  giants.
+ogres.
+&  trolls
+b.  Hate  goblins
+f.  Favor
+woods
+c.  Hate  ores
+g.  Chaotic
+d.  Hate  hobgoblins
+h.  Irregular  only
+Individuals
+AD
+AR
+Hits
+CD
+MV  Remarks
+Dauravyn  Redbeard
+10
+4
+2
+8
+9
+Sylyndyrryl  Moonspinner
+8/8
+5
+2
+16
+12
+Cyrag  Hammerbone
+10/6
+5
+2
+12
+9
+Frey  Silverblade
+8
+6
+2
+8
+9
+Uhmbrick  of  Cormyr
+8/8
+5
+4
+16
+12
+Korr  of  Ilmater
+12
+3
+8
+16
+12
+7
+The  Toujk)  of  Daggenfonb
+The  town  of  Daggerford  is  located  on the  northern  banks  of  the  Delimbiyr  (or shining  river).  It  is  connected  with  Water- deep  some  80  miles  to  the  north  by  means of  the  High  Road.  South  of  the  village,  on the  opposite  bank  of  the  river,  the  Trade Way  runs  south  past  the  famous  Way  Inn and  the  dreaded  Dragonspear  Castle,  con¬ necting  at  last  with  the  cities  of  Baldur's Gate,  Elturel,  and  Scornubel  on  the  banks of  the  river  Chionthar.
+Daggerford  is  a  walled  city  with  three major  geographical  divisions.  The  first  ar¬ ea  is  the  town  itself,  which  fills  the  west¬ ern  half  of  the  walls.  The  second  region  is somewhat  higher  than  the  town  and  is known  as  The  Commons.  This  is  a  large pasture  intended  primarily  for  the  graz¬ ing  of  animals  during  times  of  trouble. The  third  area,  located  at  the  center  of The  Commons,  is  the  castle  of  the  Duke  of Daggerford.  Much  of  the  castle  has  been recently  rebuilt  by  a  family  of  dwarves, making  it  somewhat  more  majestic  and splendid  than  might  be  expected  of  a town  the  size  of  Daggerford.
+The  People  of Ddggerzfotzd>
+The  population  of  Daggerford  itself  is just  over  300  persons.  However,  a  number of  scattered  hamlets  in  the  surrounding countryside  fall  under  the  rule  of  Dagger- ford's  government.  The  true  population of  the  city  is  approximately  1,000  people, the  vast  majority  being  human;  a  small percentage  are  also  halfling.  Dwarves, elves,  and  other  demihuman  races  make up  only  a  minute  fraction  of  this  total.
+When  a  crisis  is  at  hand,  the  town  has two  elements  for  defending  itself.  The first  is  the  local  militia.  Because  of  the  oc¬ casional  menace  from  the  Lizard  Marshes to  the  west  and  the  High  Moors  to  the  east, this  militia  is  fairly  large  and  reasonably well-trained.  Still,  this  group  is  only  the second  line  of  defense.  The  main  force
+that  can  be  directed  at  an  enemy  is  the  3rd Company,  High  Guards  of  Water  deep. This  band  of  100  skilled  warriors  is  sta¬ tioned  in  Daggerford,  but  spends  most  of its  time  abroad,  patrolling  the  country¬ side.  The  3rd  Company  is  theoretically  un¬ der  the  command  of  the  Duke  of Daggerford,  but  owes  fealty  to  the  Lords of  Waterdeep  itself  (a  fact  known  by  all).
+The  town  of  Daggerford  is  ruled  by  a Council  of  Guilds,  much  as  the  City  of Waterdeep  is.  This  council  holds  a  charter from  the  Duke  of  Daggerford  (Pwyll Greatshout)  and  is  fairly  free  to  do  as  it pleases,  although  the  duke  has  a  fair  bit  of influence  over  their  actions  and  decisions.
+People  &  Places  of IwTeResT
+There  are  several  areas  that  might  be important  to  the  adventurers  during  their time  in  Daggerford.  This  listing  is  an  ab¬ breviated  version  of  the  one  presented  in adventure  N5:  Under  lllefarn.  The  com¬ panion  map  to  this  key  is  printed  on  the inside  of  the  front  cover.
+1.  Barracks:  This  large  structure  houses the  militia  (and  the  3rd  company  when they  are  in  town).  It  overlooks  a  large  drill field.
+2.  Caravan  Gate:  This  is  the  largest  of  the city's  three  gates.  It  is  normally  kept closed,  except  when  a  merchant  caravan or  company  of  entertainers  is  parked  out¬ side.
+3.  Caravan  Quarter:  This  place  serves  as  a station  for  travelling  merchants  and  trad¬ ers  who  want  to  set  up  shop  for  a  time  in Daggerford.
+4.  Temple  of  Chauntea:  This  shrine  to  the Great  Mother  is  of  great  importance  to  all the  farmers  and  ranchers  of  the  Dagger¬ ford  area.  The  keeper  of  the  temple  is
+8
+Maerovyna,  an  8th-level  priest  (also  a priest  in  BATTLESYSTEM™  game  terms).
+5.  Delfen's  Tower:  Delfen  is  a  wizard  who came  to  Daggerford  several  years  ago.  In exchange  for  a  promise  to  aid  the  city  in times  of  crisis  (and  a  large  "donation"  to the  treasury),  he  was  given  this  tower  as  a home.  Delfen  is  an  8th-level  wizard  (a  mi¬ nor  wizard  in  BATTLESYSTEM  game terms)  who  has  grown  to  love  his  adopted city  and  will  join  the  militia  in  its  defense.
+6.  The  Castle:  This  is  the  home  of  the Duke  of  Daggerford  and  his  family.  It  is  of fine  construction  and  quite  splendid  to look  upon.
+Duke  Greatshout,  a  5th-level  warrior,  is a  retired  adventurer,  as  is  his  sister Bronwyn,  a  5th -level  wizard.  The  duke qualifies  as  a  knight  hero  in BATTLESYSTEM  game  terms  and Bronwyn  is  a  minor  wizard.  Both  will  act to  defend  the  city  if  it  falls  under  attack, but  feel  compelled  to  remain  behind  and protect  it  when  the  militia  and  3rd  compa¬ ny  ride  forth.  Another  hero.  Lord  Llewel¬ lyn  Long-Hand,  serves  as  the  head  of  the military  and  will  march  with  it  when  it leaves  town.  Llewellyn  is  an  8th-level  war¬ rior  (knight  hero)  who  is  interested  in proving  himself  as  he  has  eyes  on  the Duke's  charter  himself.
+7.  Farmers'  Gate:  This  is  the  most  com¬ monly  used  of  the  city's  three  gates.  It  is left  open,  unless  there  is  some  menace about.
+8.  Farmers'  Quarter:  This  region  of  the city  is  inhabited  by  the  farmers  who  work the  fields  north  of  town.  It  is  a  crowded place,  full  of  people  and  animals.
+9.  Guildmasters'  Hall:  This  large  building is  the  center  of  the  town's  government and  houses  the  headquarters  of  each  of the  city's  numerous  guilds.
+10.  Temple  of  Lathlander:  This  is  the largest  religious  center  in  the  town  and  is directly  supported  by  the  Duke  and  his family.  The  head  of  the  temple  is  Liam Sunmist,  a  9th-level  priest  (a  priest  in BATTLESYSTEM  game  terms).
+11.  The  Marketplace:  This  is  an  open  air market  that  is  filled  with  small  shops  of  all kinds.
+12.  The  Money  Quarter:  This  is  the wealthy  part  of  Daggerford.  All  of  the homes  here  are  of  excellent  quality  and we  11 -maintained.
+13.  The  River  Gate:  This  is  the  3rd  of  the city's  three  gates  and  provides  access  to the  Delimbiyr  and  waterfront  district.  It  is normally  open  during  the  day  and  closed at  night.
+14.  Rivermen's  Quarter:  This  area  of town  is  dominated  by  those  people  who make  their  living  from  the  Delimbiyr- fisherman,  dock  workers,  rivermen,  and the  like.
+15.  Stables:  This  is  the  livery  area  for  the town.  The  civilian  populace,  militia,  and 3rd  Company  all  stable  their  horses  here.
+16.  Shrine  of  Tempus:  This  is  a  small  tem¬ ple  dedicated  to  the  worship  of  the  Lord of  Battles.  It  is  tended  to  by  Baergon Bluesword,  a  5th-level  fighter-priest.  In BATTLESYSTEM  game  terms,  he  is  a priest.
+17.  Shrine  of  Tymora:  Located  just  off  of the  drill  field,  this  is  a  minor  temple  dedi¬ cated  to  the  worship  of  Lady  Luck.  The keeper  of  the  shrine  is  a  6th-level  halfling priest  named  Bando  the  Lame.  Because  he depends  upon  a  crutch  to  get  along,  he has  no  place  in  a  the  battle  against  Dra- gonspear.
+9
+The  ARrr>Y  of  Dagg enfoizd
+This  adventure  begins  with  the  heroes arriving  in  Daggerford.  The  DM  will  need to  arrange  some  reason  for  the  party  to travel  near  this  town.  The  mission  must  be such  that  the  players  are  able  to  cast  it aside,  either  permanently  or  temporarily, to  come  to  the  aid  of  the  people  of  Dagger- ford.  Also,  because  this  adventure  revolves around  a  growing  menace  in  the  area around  Dragonspear  Castle,  the  PCs  route of  travel  should  not  be  such  that  it  brings them  through  these  contested  regions.
+No  Owe  Home
+As  the  player  characters  draw  close  to the  town  of  Daggerford,  they  will  begin  to pass  through  farm  country.  Here  and there,  they  will  come  across  small  farm homes  which  have  been  abandoned  and locked  up.  There  are  no  signs  of  violence and  no  evidence  as  to  why  the  farms  may have  been  deserted.
+In  truth,  these  are  the  homes  of  able- bodied  folk  who  have  answered  the  call  to arms  and  made  their  way  to  Daggerford. Fearing  that  there  may  be  dark  times ahead,  they  have  taken  their  families  with them  to  the  protection  of  the  walled  city. There  is  no  foul  play  afoot  here,  but  the DM  may  want  to  present  these  encounters with  an  air  of  mystery  to  them.
+Ne &jz)bjg  Daggerzforzd
+Things  become  more  hectic  as  the  party approaches  Daggerford.  They  will  meet more  refuges  trying  to  escape  from  the  re¬ gion  before  the  storm  of  war  erupts across  the  countryside.  The  folks  they pass  will  gladly  talk  to  heroes  who  claim to  be  headed  south  to  join  in  the  defense of  Daggerford  and  its  environs.  From these  travellers,  the  PCs  can  learn  some¬ thing  of  what  has  been  going  on.
+Recently,  they  will  discover,  goblins  and kobo  Ids  have  begun  to  mass  along  the Trade  Way  south  of  The  Way  Inn.  All  trade south  of  the  city  has  been  disrupted  and
+many  caravans  raided  and  destroyed.  In response,  Duke  Greatshout,  ruler  of  Dag¬ gerford,  has  issued  a  call  for  all  able- bodied  men  and  women  to  join  with  the militia  and  drive  off  these  foul  creatures before  they  pose  a  threat  to  Daggerford  it¬ self.  The  militia  of  Daggerford  has  already been  reinforced  by  a  company  of  infantry that  patrols  the  area  on  behalf  of  the Lords  of  Waterdeep,  but  anyone  who  can swing  a  sword  or  cast  a  spell  is  needed  in defense  of  the  region.
+EwTercjMg  Daggerzforzd
+When  the  heroes  arrive  at  Daggerford, they  will  find  that  the  only  way  in  is through  the  Farmers'  Gate.  A  short  line  of people  is  moving  slowly  through  the  gate, identifying  themselves  to  the  guards  as they  enter  the  town.  The  heroes  can  join the  line  and  make  their  way  into  the  city, but  they  are  asked  to  give  their  names  as they  pass  through  the  gate.  If  they  ask why,  they'll  be  told  that  the  village  is  offi¬ cially  under  a  state  of  siege  and  that  the Duke  and  Council  want  a  complete  roster of  everyone  in  town.
+Even  a  brief  conversation  with  the guards  will  reveal  to  the  PCs  that  their  aid is  needed  desperately.  The  Army  of  Dag¬ gerford  is  short  of  trained  troops,  and  he¬ roes  of  their  caliber  will  certainly  be  a great  boon  to  the  city.  While  the  guards are  not  in  a  position  to  offer  any  terms  to the  PCs,  they  can  refer  them  to  Lord  Lle¬ wellyn  Long-Hand,  the  head  of  the  Army of  Daggerford.
+If  the  PCs  are  not  interested  in  pursuing a  conversation,  the  guards  will  report their  entrance  into  the  city  and  Long-hand will  send  for  them.  In  any  event  the  PCs will  soon  find  themselves  meeting  with Llewellyn.
+Loizd  LiecueU-YN  Lowg-baw^
+The  PCs  will  meet  with  Long-hand  at  his office  in  the  Duke's  castle.  The  lord's
+10
+chambers  are  austere,  kept  very  tidy  and with  the  air  of  a  military  man.  Various  dec¬ orative  weapons  hang  on  the  walls,  along with  banners  and  heraldry  from  Llewel¬ lyn's  family.
+Their  host  begins  by  offering  refresh¬ ments.  As  these  are  provided  by  a  serving girl,  he  starts  his  recruitment  speech.  He begins  with  flowery  praise,  compliment¬ ing  the  heroes  on  their  obviously  great skills  in  combat,  magic,  and  so  forth.  After several  minutes  of  this  and  the  exchange of  great  stories,  he  gets  to  the  point.
+He  explains  that  the  Army  of  Dagger- ford  has  been  assembled  and  is  a  unit  to be  proud  of.  Although  the  troops  may  be of  inferior  quality,  their  morale  is  high and  their  loyalty  absolute.  Despite  this, the  enemy  is  likely  to  be  fierce.  It  could well  be  that  the  nerve  of  his  troops  will break  in  combat,  for  they  have  never faced  the  horrors  of  a  goblin  charge  be¬
+fore.  What  he  needs  are  heroes  to  lead  the militia  into  battle.  Men  and  women  who will  inspire  the  troops  to  greatness.
+In  exchange  for  their  help,  he  will  see  to it  that  each  of  them  is  given  a  share  in whatever  spoils  the  army  might  claim from  the  enemy.  As  he  obviously  has  no clear  idea  of  what  these  might  be,  he  will make  no  definite  promise  of  a  set  reward. Even  if  the  battle  goes  poorly,  the  heroes are  sure  to  be  remembered  and  rewarded by  the  Duke  of  Daggerford,  who  is  himself a  former  adventurer.
+The  DM  should  make  it  quite  clear  to  the players  that,  without  the  help  of  their characters,  the  army  has  a  good  chance  of being  routed  (at  best)  or  crushed.  If  this isn't  enough  to  persuade  them  to  help (and  it  ought  to  be,  they're  supposed  to  be heroes),  the  DM  is  free  to  resort  to  what¬ ever  means  he  must  in  order  to  recruit them  into  the  service  of  Daggerford.
+11
+Council  of  War
+When  the  heroes  have  accepted  the  of¬ fer  of  employment.  Lord  Long-hand  will review  the  troops  with  them.  He  will  intro¬ duce  them  to  each  of  the  important  NPCs mentioned  in  the  description  of  Dagger- ford  (pages  8  &  9).
+Ambush
+As  they  tour  the  town,  the  group  is  at¬ tacked.  Their  first  indication  that  some¬ thing  is  amiss  comes  when  Long-hand clutches  at  his  chest  and  topples  over dead.  When  he  hits  the  ground,  the  cause of  death  becomes  clear  — a  black-shafted spear  now  protrudes  from  his  back.
+Whirling,  the  heroes  will  catch  a glimpse  of  a  dark  figure  on  top  of  a  build¬ ing  they  have  just  passed.  Because  the  sun is  almost  directly  behind  the  assassin,  they will  see  only  the  silhouette  of  a  twisted and  horrible  humanoid.  With  a  blood- chilling  howl,  the  beast,  and  two  just  like it,  spring  down  from  the  building  and  at¬ tack  the  PCs  directly.
+As  soon  as  the  creatures  draw  near,  the PCs  may  recognize  them  as  barbazu  (one of  the  lesser  baatezu  that  serve  as  the  sol¬ diers  for  the  fiends  that  rule  the  Nine Hells).  These  barbazu  have  been  sent  to Daggerford  by  the  cornugon  Vrag  (leader of  the  Marauders)  to  scout  out  the  town and  assassinate  the  leader  of  its  military. The  sight  of  Long-hand's  blood,  however, has  driven  them  into  a  berserk  battle  fren¬ zy,  and  they  have  no  purpose  now  but  to kill.
+Barbazu  (3):  AC  3,  MV  15,  HD  6  +  6,  hp  40, 37,  32;  #  AT  3  or  1;  Dmg  1-2/1-2/1-8  or  2-12; SA  Glaive,  disease,  battle  frenzy,  spells;  SD +1  or  better  to  hit;  ML  12;  AL  LE;  THACO 15;  (refer  to  MC8).
+The  barbazu  will  fight  until  they  are slain.  They  will  show  no  mercy  and  never need  to  check  morale.  They  are  filled  with a  wild  bloodlust  that  nothing  can  break.
+The  Duke  Responds
+Once  the  battle  with  the  barbazu  is  done, the  heroes  will  have  time  to  turn  their  at¬ tentions  to  the  fallen  Long-hand.  Unfortu¬ nately,  there  is  little  that  can  be  done  for him.  The  weapon  that  struck  him  down was  a  specially  prepared  one.  Arcane  en¬ chantments  were  woven  upon  it  by  Vrag  to make  it  something  of  a  bane  weapon. When  it  struck  down  the  Lord,  it  did  great harm  to  his  life  force  as  well  as  his  body. While  Llewellyn  can  be  saved,  with prompt  clerical  attention,  he  will  be  coma¬ tose  for  some  time.  In  short,  he  is  out  of action  for  the  duration  of  this  adventure.
+Word  of  this  tragedy  will  quickly  reach the  Duke.  Recognizing  the  peril  of  this  sit¬ uation,  he  will  send  for  the  heroes.  They will  be  contacted  by  a  messenger  and asked  to  travel  to  the  Duke's  castle  at  once. One  assumes  that  they  will  not  turn  down this  invitation.  If  they  are  foolish  enough to  do  so,  a  more  forceful  method  will  be employed  to  bring  them  before  the  Duke.
+They  will  meet  with  Greatshout  in  the Duke's  private  chambers.  He  begins  by thanking  them  for  their  efforts  on  behalf of  the  town.  Although  he  regrets  that  they were  unable  to  prevent  the  attack  that  so grievously  injured  Llewellyn,  he  is pleased  that  they  dealt  with  the  fiends  be¬ fore  they  could  wreak  greater  havoc.
+Putting  aside  these  preliminary  matters, Greatshout  will  move  on  to  the  business  at hand.  His  army  is  now  leaderless.  His  du¬ ties  and  obligations  prevent  him  from leading  the  force  himself,  and  he  is  reluc¬ tant  to  send  his  sister  in  his  place.  He  of¬ fers  the  heroes  a  commission  and  a chance  to  command  the  Army  of  Dagger- ford.  He  will  offer  almost  anything  to  en¬ tice  the  heroes  to  aid  him,  for  he recognizes  the  danger  that  his  subjects now  face.  Still,  the  DM  should  keep  in mind  that  this  is  not  a  very  wealthy  town and  that  it  has  spent  a  good  deal  of  cash  in getting  ready  for  the  upcoming  battles.
+12
+Revietuiwg  the  T izoops
+Once  the  deal  is  done,  Greatshout  will turn  the  preparations  for  battle  over  to the  heroes.  At  this  point,  they  have  com¬ mand  of  the  300  Daggerford  peasants who  have  volunteered  for  service,  the  200 members  of  the  Daggerford  militia,  and the  100  citizens  with  past  military  experi¬ ence  who  make  up  the  Daggerford  infan¬ try.  In  addition,  the  100  members  of  the 3rd  Company  of  Guards  will  travel  with them  and  obey  their  orders.  (The  statistics for  all  these  units  can  be  found  on  page  7.)
+If  the  players  wish  to,  they  may  assign one  of  the  characters  to  act  as  the  leader for  each  unit.  A  new  commander  can  be assigned  to  the  3rd  Company,  although  its current  commander,  Frey  Silverblade, will  remain  as  an  assistant.
+Shortly  after  the  players  have  made these  decisions  and  become  familiar  with their  units,  the  Duke  calls  for  them  again.
+Call  To  Anms
+The  heroes  will  meet  with  the  Duke  in his  private  quarters.  A  winded  and  tat¬ tered  looking  messenger  stands  in  the Duke's  company.  He  is  introduced  as  Geof- fry,  an  apprentice  to  the  keeper  of  the  Way Inn  to  the  south.  The  Duke  bids  him  tell his  story  to  the  PCs.
+The  young  man's  story  is  short  and alarming.  Although  he  is  quite  shaken, having  ridden  at  his  fastest  pace  to  reach town,  he  speaks  fairly  calmly  and  without wandering  from  the  point.  Early  this morning,  word  came  to  his  master  that  an army  of  goblins  was  moving  north.  Within a  day,  they  would  reach  the  Way  Inn.  He was  dispatched  immediately  to  seek  help.
+As  soon  as  Geoffry  finishes  his  tale,  the Duke  turns  to  his  new  commanders. "There  is  nothing  else  to  say,''  he  says, "you'll  head  south  at  once.  Redbeard  is  a good  friend.  Don't  fail  him  or  this  war may  be  over  before  it  has  begun."
+13
+Battle  at  the  Way  In> to
+Travelling  to  the  Way  Inn  is  hard  work. Even  though  the  Trade  Way  is  a  well- maintained  road,  the  pace  that  the  heroes must  set  for  their  troops  is  very  demand¬ ing.  Shortly  before  sunrise,  they  reach their  destination.  There  is  barely  enough time  to  set  up  watches  and  give  the  troops a  break  before  the  alarm  is  sounded.  The enemy  has  been  sighted.
+InjTo  CombaT
+At  this  point  in  the  adventure,  those Dungeon  Masters  who  plan  to  use  the BATTLESYSTEM™  game  rules  to  resolve large  scale  combats  should  set  up  the units  for  this  fight.  On  the  next  page  there is  a  map  that  shows  the  deployment  areas for  the  troops  of  both  Daggerford  and Dragonspear.
+The  Anroy  of  DAggetif ond
+The  Army  of  Daggerford  sets  up  first. All  of  the  figures  representing  the  forces of  good  must  be  set  up  in  the  marked  area near  the  Way  Inn.  The  players  should have  a  little  while  to  discuss  defensive strategies  before  they  deploy  their  units.
+The  HoRdes  Of  DizAgotospeAK
+The  DM,  who  is  assumed  to  be  running the  Hordes  of  Dragonspear,  places  the  Ma¬ rauders  on  the  area  shown  in  the  diagram on  page  15.  The  Marauders  are  being  led by  Vrag,  who  makes  the  most  of  his  horri¬ ble  presence  to  instill  fear  and  terror  in the  hearts  of  the  Daggerford  troops  and heroes.
+The  Way
+The  Way  Inn  is  assumed  to  have  an  out¬ er  wall  composed  of  stone  that  is  5  feet high.  The  courtyard  measures  180  feet wide  and  120  feet  deep.  Within  that  region is  a  courtyard  and,  at  the  northern  most end,  the  inn  itself.  The  actual  building  is assumed  to  be  a  two-story  stone  structure that  is  some  30  feet  high.  The  gate  in  the
+outer  wall  is  heavy  and  can  take  20  points of  damage.  The  door  to  the  inn  itself  is  far less  stable;  it  will  take  only  10  points  of damage  before  collapsing.
+V)cTory
+For  the  Army  of  Daggerford,  this  is  an all  or  nothing  fight.  The  enemy  will  show no  quarter,  for  the  cruel  general  Vrag  will accept  no  surrender.  He  will  be  satisfied only  with  the  complete  and  absolute  de¬ struction  of  the  defenders.
+Of  course,  this  is  a  role-playing  adven¬ ture  and  not  a  simple  miniatures  game. The  heroes  are  meant  to  win  this  fight, perhaps  even  killing  Vrag  in  the  process. There  are  a  number  of  steps  that  can  be taken  by  the  DM  to  ensure  that  the  players emerge  triumphant  without  appearing  to throw  the  fight.
+First,  the  players  know  that  Redbeard has  sent  out  calls  for  help.  If  the  battle  is going  poorly,  they  can  be  informed  that they  hear  horns  sounding  in  the  distance, no  doubt  indicating  the  arrival  of  goblin and  kobold  reinforcements.  Imagine  their surprise  when,  after  a  round  or  two  to build  tension,  the  DM  places  a  unit  of  hu¬ man  infantry  (the  mercenaries)  on  the map.  These  mercenaries  have  benefited from  Redbeard's  advice  and  hospitality many  times  in  the  past,  making  them  only too  happy  to  come  to  his  aid  now.
+A  second  method  by  which  the  players can  win,  even  if  the  battle  is  going  against them,  is  by  slaying  Vrag.  If  the  fiend  is  de¬ stroyed,  the  DM  is  free  to  rule  that  all  mo¬ rale  breaks  in  the  goblin  and  kobold ranks,  causing  the  whole  of  The  Maraud¬ ers  to  scatter  in  panicked  retreat.
+AlTefcwaTe  ResoluDoNS
+If  the  DM  does  not  wish  to  use  the BATTLESYSTEM  game  rules  to  resolve  this battle,  the  quick  resolution  system  de¬ scribed  in  DMGR2:  The  Castle  Guide  can easily  take  its  place.
+When  this  system  is  used,  the  attacking
+14
+and  defending  sides  are  reduced  to  point pools.  The  value  of  the  Army  of  Dagger- ford  is  300  points  for  the  peasants,  600 points  for  the  militia,  and  400  points  for the  infantry.  The  3rd  Company  is  com¬ posed  of  medium  infantry  worth  500 points,  bringing  the  Army's  point  total  to 1,800.  If  they  are  reinforced  by  the  rang¬ ers  (50  medium  cavalry),  they  gain  an  ex¬ tra  2,000  points.  The  Marauders  are worth  1,000  points  for  the  kobolds  and 1,500  points  for  the  goblins,  making  them truly  dangerous  foes  with  a  total  strength of  2,500  points.
+This  battle  should  be  resolved  with  the siege  rules,  with  the  Army  of  Daggerford being  treated  as  the  defenders.  Thus, while  the  point  totals  for  the  defenders are  far  lower  than  the  point  totals  for  the attackers,  their  better  position  gives  them a  good  chance  of  coming  through  this  bat¬ tle  alive  and  triumphant.
+If  the  DM  and  players  do  not  wish  to  re¬ solve  the  battle  using  either  of  the  above methods,  they  should  feel  free  to  role-play
+the  crucial  elements  of  the  conflict.  In fact,  those  who  use  the  Castle  Guide  rules ought  to  consider  doing  this  as  well  be¬ cause  of  the  added  flavor  it  will  give  the battle.
+As  the  battle  rages  on  around  the  Way Inn,  Vrag  will  recognize  the  nature  of  his enemies.  He  sees  that  the  heroes  are  lead¬ ing  these  pathetic  villagers  to  a  victory that  they  should  not  achieve.  Thus,  he vows  to  destroy  them  personally.  By means  of  magic,  he  appears  before  one  or two  of  the  heroes  and,  after  an  appropri¬ ate  "I'm  so  evil  you  don't  have  a  chance" speech,  he  attacks.  The  resolution  of  this melee  will  set  the  mood  for  the  battle  in general.
+The  DM  should  feel  free  to  allow  Vrag  to gate  in  some  additional  forces  if  things seem  to  be  too  easy  for  the  heroes.  Re¬ member,  Vrag  is  supposed  to  lose,  but  it's not  supposed  to  be  an  easy  victory  for  the Army  of  Daggerford.  By  the  same  token,  if the  heroes  are  unusually  powerful  or lucky,  the  DM  may  want  to  reinforce  the Marauders.
+IkTTo  The  M)sTy  FotiesX
+Once  the  battle  has  been  fought,  the  he¬ roes  will  have  time  to  discuss  recent events  with  the  locals  in  and  around  the Way  Inn.  At  this  point,  they  will  have  a chance  to  meet  Redbeard  and  get  to  know him  better.  His  amiable  personality  and store  of  both  practical  and  entertaining knowledge  makes  him  a  fine  companion.
+At  this  time,  Uhmbrick's  Rangers  will  ar¬ rive,  if  they  have  not  done  so  already.  It will  be  clear  by  their  attitudes  that  they are  a  mercenary  unit,  but  that  they  are willing  to  join  this  battle  out  of  indebted¬ ness  to  their  old  friend  Redbeard. Uhmbrick  is  less  likable  than  the  keeper of  the  Way  Inn,  tending  to  be  silent  and withdrawn.  He  is,  however,  a  masterful strategist  and  will  offer  advice  when asked  for  it.
+Redbeard  will  be  quick  to  offer  his  own opinion  about  the  future.  He  feels  certain that  this  was  but  the  first  wave  of  evil  to come  from,  the  High  Moors.  It  won't  be long,  he  is  certain,  before  an  even  greater and  more  dangerous  army  pours  out  of that  vile  swamp.  Further,  Redbeard  will say  that  he  has  no  information  about  what is  going  on  in  the  High  Moors,  for  it  has been  months  since  anyone  that  he  knows of  has  gone  to  scout  the  area.  Clearly  he thinks  that  should  be  the  next  step.  "In  or¬ der  to  best  our  enemy,"  he  says,  "we'll  have to  know  who  that  enemy  is."  Uhmbrick agrees.
+The  ScouDwg  Parity
+Of  course,  the  PCs  are  the  heroes  of  this story  and  must,  therefore,  be  the  ones  to undertake  the  exploration  of  the  High Moors.  Since  Uhmbrick's  men  are  cavalry, and  not  trained  for  this  sort  of  thing,  he refuses  to  send  them.  The  3rd  Company has  people  who  might  be  able  to  scout, but  none  as  powerful  as  the  heroes.  In  the end,  the  only  logical  choice  is  to  send  the PCs  to  undertake  this  investigation.
+Redbeard  will  be  glad  to  help,  sketching out  a  rough  map  of  the  paths  through  the
+Misty  Forest  and  up  into  the  High  Moors beyond.  He  advises  the  heroes  to  be  cau¬ tious  in  the  woods,  for  there  are  many  sav¬ age  beasts  and  wild  elves  living  there.  The elves  should  prove  no  problem,  as  long  as their  forest  is  respected  and  their  people unmolested.  The  animals  and  monsters, on  the  other  hand,  may  be  another  matter altogether.
+The  TroIIs
+The  heroes  come  upon  the  edges  of  the Misty  Forest  fairly  quickly  after  leaving the  Way  Inn  behind.  At  first,  the  wood seems  friendly  enough,  but  it  quickly  be¬ gins  to  grow  thicker  and  more  wild.  If  the DM  wishes  to  introduce  a  wilderness  en¬ counter  with  some  wild  beast,  this  is  the time  to  do  it.
+The  path  which  the  PCs  are  taking  will lead  them  into  an  area  inhabited  by  Dorig, a  foul,  two-headed  troll.  Dorig  has  a  few common  trolls  who  follow  him  and  recog¬ nize  him  as  their  leader.  The  exact  num¬ ber  of  followers  is  up  to  the  DM,  being based  upon  the  relative  strength  of  the party.
+Dorig  (1):  AC  4;  MV  12;  HD  10;  hP  65;  #AT 4;  Dmg  ld4  +4/ld4  +4/ldl2/ldl2;  SA  Nil; SD  Regenerate;  ML  16;  AL  CE;  THACO  11.
+Trolls  (?):  AC  4;  MV  12;  HD  6  +  6;  hp  40  ea; #AT  3;  Dmg  ld4  +  4/ld6  +  6;  SA  Nil;  SD  Re¬ generate;  ML  14;  AL  CE;  THACO  13.
+SomeTh)wg  )nj  the  Mists
+After  the  trolls  have  been  dealt  with,  the heroes  can  continue  on  their  way.  Before long,  however,  they  will  come  to  the  dis¬ tinct  conclusion  that  something  is  track¬ ing  them.  Every  so  often,  they  catch  a glimpse  of  something  in  the  mists  of  the forest  around  them.  Here  and  there,  they will  hear  sounds  that  seem  just  a  bit  out  of place.
+When  the  PCs  have  been  alerted  to  the
+16
+presence  of  their  unexpected  companion, they  will  no  doubt  take  steps  to  discover the  nature  of  this  stranger  and  confront  it. That  shouldn't  be  too  difficult  to  do,  for they  are  being  tracked  by  a  wild  elf.  Ordi¬ narily,  it  would  be  almost  impossible  to detect  the  presence  of  such  a  creature  in the  woods  where  it  makes  its  home,  but this  one  is  sick,  hungry,  and  terrified. When  the  PCs  attempt  to  encounter  him, he  will  panic  and  howl  in  terror.  If  any sort  of  fight  breaks  out  or  he  is  forced  to flee,  his  weakened  condition  will  prove too  much  for  him  and  he  will  collapse.
+If  the  PCs  don't  attempt  to  capture  or confront  the  elf,  they  will  come  across him  by  accident.  The  poor  fellow,  almost lost  to  madness,  is  making  his  way through  the  treetops  above  the  party when  a  branch  beneath  him  gives  way.  He falls  heavily  before  them  and  then  lies still,  overcome  by  fatigue  and  the  impact.
+With  a  little  effort  (and  some  magic,  no doubt)  the  PCs  are  able  to  revive  the  elf. Once  he  is  fed,  rested,  and  his  wounds tended,  he  will  be  more  himself.  His  name is  Florfindyn  and  he  was  born  and  raised in  these  woods.  Indeed,  he'll  be  more  than willing  to  tell  the  heroes  his  story.
+FLoRf)N£>YN’s  Tale
+Several  months  ago,  a  horde  of  goblins and  kobolds  poured  down  into  the  forest from  the  High  Moors.  A  great  battle  erupt¬ ed,  but  the  elves  and  druids  of  the  woods drove  the  horrible  creatures  back.  This seemed  to  end  the  matter,  for  no  sign  of the  beasts  was  seen  for  many  weeks.  Then things  got  worse.
+This  time,  the  goblins  and  kobolds  re¬ turned  in  the  company  of  a  force  of  ogres and  bugbears.  Again,  the  elves  and  druids made  ready  to  combat  their  hated  foes. The  battle  was  joined,  and  it  seemed  as  if the  inhabitants  of  the  forest  would  win,  al¬ though  the  battle  might  indeed  be  a  long and  costly  one.  Then,  a  great  darkness  fell
+across  the  woods.  In  horror,  the  elves looked  up  and  saw  the  terrible  shape  of  a dragon  diving  out  of  the  sky  at  them.  In seconds,  their  ranks  were  broken.  The great  beast  spit  jets  of  acid  into  the  trees, annihilating  the  last  bastions  of  elven  re¬ sistance.  Almost  as  soon  as  it  had  come, the  dragon  left,  circling  and  heading  away to  the  south.  In  its  wake  it  left  a  victorious force  of  humanoids  to  hunt  down  and slaughter  the  survivors.
+Florfindyn  was  captured.  He  was  about to  be  killed  when  a  creature  more  foul than  any  he  had  ever  seen  before  stepped up.  Although  he  did  not  know  it  at  the time,  this  was  the  vile  Vesarius  himself. Recognizing  the  elf  as  a  prince  among  his
+people,  the  cornugon  ordered  him spared.  Beaten  and  wounded,  Florfindyn was  bound  and  carried  off  by  an  immense ogre.
+The  next  thing  that  he  knew,  Florfindyn was  in  the  dungeons  of  a  twisted  and  evil castle.  He  knows  now  that  this  was  Castle Dragonspear  to  the  south.  Here,  he  was brought  before  the  pit  fiend  Baazka  and questioned.  He  was  tortured  and  beaten, but  refused  to  betray  the  secrets  of  his  kin in  the  Laughing  Hollow,  the  dwarves  of  II- lefarn,  or  the  men  of  Daggerford.  At  last, the  fiend  ordered  him  destroyed.
+Thinking  him  broken,  the  executioner let  his  guard  down  for  a  moment.  Florfin¬ dyn  escaped,  fleeing  into  the  catacombs beneath  the  castle.  At  long  last,  he  came  to an  underground  river.  With  a  howling pack  of  horrible  creatures  behind  him,  he dove  into  the  water  and  swam.  Although his  first  instinct  was  to  drift  with  the  cur¬ rent,  he  knew  that  his  enemies  would  ex¬ pect  that.  Thus,  he  swam  against  the  flow of  the  river.  Before  long,  he  was  able  to leave  the  water  and  travel  along  its  banks.
+In  time,  he  found  his  way  back  to  the surface  and,  indeed,  at  the  edge  of  the Misty  Forest.  Since  then,  he  has  lived  like  a mindless  beast  in  the  wilds.
+17
+The  Drzuid’s  CouwciL
+When  Florfindyn  finishes  his  story,  he will  collapse  into  unconsciousness.  The ordeal  that  he  has  been  through  would have  killed  a  lesser  man,  and  the  fact  that he  still  draws  breath  is  a  tribute  to  his  will¬ power  and  determination.
+Just  as  this  happens,  when  all  attention is  focused  on  the  fallen  elf,  a  soft  female voice  speaks  from  behind  the  party.  "Per¬ haps  I  can  be  of  service."  Whirling  about, the  PCs  will  find  themselves  facing  a druid.  Like  Florfindyn,  she  makes  her home  in  these  woods  and  has  suffered greatly  from  the  wrath  of  the  dragon  and hordes  of  humanoids.  She  has  been watching  the  party,  but  has  not  known what  to  make  of  them  until  their  encount¬ er  with  the  elf  prince.  Now,  she  is  con¬ vinced  of  their  good  intentions.
+The  Drug’s  Account
+The  druid  introduces  herself  as  the "keeper  of  these  woods."  She  claims  no name  for  herself,  having  long  ago  given up  all  ties  to  the  artificial  things  of  man¬ kind  in  favor  of  being  one  with  the  wilder¬ ness.  All  in  all,  she  has  very  little  interest in  anything  that  has  to  do  with  the  outside world.  The  violence  of  this  attack  upon her  forest,  however,  has  left  her  no  choice but  to  aid  the  PCs.  As  it  stands  now,  her careful  nurturing  can  restore  the  poi¬ soned  and  burned  regions  where  the dragon  struck.  Another  such  attack,  how¬ ever,  and  she  fears  that  the  Misty  Forest will  become  a  ruined  waste  unfit  for  any living  creature.
+When  the  dragon  attacked,  she  attempt¬ ed  to  communicate  with  it.  She  recog¬ nized  the  beast  as  Maelestor  Rex,  a  great and  horrible  wyrm  that,  so  far  as  she knew,  never  travelled  away  from  its  lair  in the  center  of  the  high  moors.  The  keeper's magic  revealed  to  her  that  the  dragon  was not  attacking  out  of  spite,  greed,  or  any similar  motivation  (oddly  enough).  In¬ deed,  Maelestor  Rex  seemed  to  have  no  in¬ terest  in  the  battle  at  all  and  was  acting under  an  outside  influence.  In  fact,  the
+dragon  seemed  to  hold  a  great  animosity for  the  creatures  that  it  was  forced  to  aid.
+Since  the  attack,  she  has  devoted  her time  and  magic  to  healing  the  forest  and has  had  no  time  to  delve  further  into  the mystery.  Thus,  she  has  no  idea  as  to  the nature  of  the  controlling  spell  or  the  enti¬ ty  that  is  exercising  it.
+Re)g N5  of  DarI cnoss
+At  this  point,  most  players  will  want  to investigate  the  nature  of  this  control. There  are  two  means  of  doing  so:  travel¬ ling  to  the  lair  of  the  wyrm  at  the  heart  of the  High  Moors  or  using  magic.  Only  the latter  method  is  practical  at  this  time, however,  for  the  time  required  to  reach the  dragon's  lair  and  the  danger  involved in  the  journey  is  prohibitive.  Thus,  magic is  the  only  alternative.
+This  adventure  assumes  that  the  heroes will  have  access  to  spells  like  contact  other plane  and  divination.  Depending  upon  the way  in  which  these  spells  are  used,  the  ex¬ act  information  acquired  may  vary.  In  the end,  however,  they  will  be  able  to  learn quite  a  few  things.  The  Keeper  will  lend her  magical  talents  to  the  effort,  filling  in any  gaps  or  holes  that  the  PCs  might  leave unexplored.
+Maelestor  Rex  is  an  ancient  and  power¬ ful  black  dragon.  Indeed,  he  seems  far more  intelligent  than  most  of  his  breed and  has  a  great  interest  in  magical  spells and  devices.  Long  ago,  in  an  effort  to  learn more  powerful  wizardry,  he  sought  out  a means  to  contact  the  forces  of  the  outer planes.  He  did  manage  to  communicate with  the  cornugon  Vesarius,  who  was  im¬ pressed  by  the  intelligence  and  resource¬ fulness  of  the  dragon.
+In  exchange  for  the  spells  and  knowl¬ edge  that  the  dragon  wanted,  Vesarius  de¬ manded  one  of  the  dragon's  great  horns. The  beast  agreed  and  the  deal  was  done. As  the  years  rolled  by,  the  dragon  all  but forgot  his  encounter  with  the  fiend.
+Recently,  however,  Vesarius  reappeared to  the  dragon.  He  had  crafted  a  long  and
+18
+ZL
+deadly  magical  spear  from  the  horn  of  the black  dragon.  Into  this  object,  he  wove  nu¬ merous  spells  that  allowed  him  (and  him alone)  to  command  the  dragon.  Maelestor Rex  must  now  obey  Vesarius  in  every  mat¬ ter  and  cannot  turn  against  him.  The  drag¬ on  desires  nothing  so  much  as  to  be released  from  its  servitude  and  exact  re¬ venge  upon  the  cornugon.  Alas,  the  only way  in  which  he  can  escape  his  curse  is through  the  destruction  of  the  spear.
+Recognizing  the  fact  that  Maelestor  Rex is  crucial  to  the  success  of  his  armies  in the  Forgotten  Realms,  Baazka  has  ordered Vesarius  to  hide  the  weapon  away  in  the deepest  catacombs  beneath  Dragonspear Castle.  Only  by  recovering  the  spear  and seeing  it  destroyed  can  the  allies  hope  to defeat  the  hordes  of  Dragonspear.
+FloRf)w^vw’5  PLakj
+At  this  point,  the  players  have  been  pre¬ sented  with  enough  information  to  decide
+that  their  next  logical  course  of  action  is an  exploration  of  the  castle  itself.  By  all  ac¬ counts,  however,  a  direct  approach  to  the castle  is  certainly  suicidal.
+There  is,  however,  a  way  in.  If  the  play¬ er's  don't  think  of  this,  Florfindyn  will mention  it.  The  underground  river  which he  used  to  escape  could  also  provide  a means  of  entry  into  the  castle.  Although Florfindyn  will  not  willingly  travel  this way,  he  will  direct  the  heroes  to  the  river's entrance.  He  marked  the  point  at  which he  reached  the  river  with  a  rune  on  the wall,  so  the  heroes  will  be  able  to  find  it.
+Once  they  are  on  their  way,  he  will  trav¬ el  as  quickly  as  he  can  to  spread  word  of the  enemy  and  its  nature.  If  the  heroes make  it  back,  they  can  all  meet  at  the  Way Inn  and  make  plans  for  the  final  assault on  Castle  Dragonspear.
+19
+The  RoATiihjg  Deep
+After  the  PCs  have  made  whatever  prep¬ arations  they  like,  Florfindyn  will  lead them  to  a  narrow  cave  in  the  eastern reaches  of  the  Misty  Forest.  The  first  hun¬ dred  feet  or  so  of  the  passage  is  tight  and requires  some  effort  to  pass  through.  Be¬ yond  that  point,  however,  it  opens  up  into a  fairly  comfortable  cavern  that  snakes downward  until  it  opens  into  a  wide  grot¬ to.
+The  chamber  is  a  low,  conical  structure without  a  natural  source  of  illumination. The  lights  of  the  party  will  glimmer  and shine  on  the  smooth  rock  of  the  cave walls,  making  even  a  single  torch  more than  bright  enough  to  see  the  whole chamber.  Half  of  the  cavern  is  filled  by  a racing  torrent  of  clear,  but  bone-chilling water.  The  noise  of  this  underground  riv¬ er  sends  vibrations  through  the  walls  and floor  and  makes  conversation  difficult. The  water  pours  into  the  room  from  a narrow  fissure  to  the  north  and  exits  it  by a  somewhat  larger  opening  to  the  south.
+A  small  forest  of  giant  mushrooms  has taken  root  here,  growing  well  in  the  chilly, humid  chamber.  Their  caps  and  stems  are brilliantly  colored,  some  gleaming  as  if covered  in  a  thin  layer  of  liquid.  There  is no  sign  of  animal  life  in  the  cave.
+Thinking  Cdcps
+None  of  these  mushrooms  is  animate  or dangerous.  They  are  not  toxic  if  eaten,  but taste  like  chlorine  bleach.  It  would  be  al¬ most  impossible  for  an  adventurer  to  sus¬ tain  himself  by  eating  these  foul  things. They  do,  however,  serve  a  useful  role  in the  adventure.  If  removed  carefully,  the caps  of  these  mushrooms  can  be  used  as rafts  for  the  journey  down  the  river.  Cut¬ ting  down  a  mushroom  and  making  it ready  for  use  in  this  manner  takes  about two  hours.  During  this  time,  the  DM  may want  to  toss  in  an  encounter  with  some myconids  or  similar  fungus-like  crea¬ tures,  but  this  is  not  required.
+Down  Riven.
+If  the  heroes  make  use  of  the  mush¬ room  caps  or  some  other  form  of  boat,  the trip  down  river  will  not  be  hard.  If,  how¬ ever,  they  elect  to  try  swimming,  they  will be  in  deadly  peril.
+The  primary  danger  involved  in  travel¬ ling  the  underground  river  is  the  cold. The  water  temperature  is  just  above  freez¬ ing,  and  swimming  in  it  can  quickly  prove fatal.  Any  character  spending  time  in  the water  without  the  use  of  some  manner  of magical  protection  (a  resist  cold  spell  or the  like)  will  lose  ldlO  hit  points  per  turn. In  addition,  a  saving  throw  versus  paraly¬ sis  is  required  to  avoid  losing  conscious¬ ness.  Unconscious  characters  stand  an excellent  chance  of  drowning.
+If  boats  are  used  to  make  the  journey, the  cold  is  not  a  problem.  Similarly,  magi¬ cal  means  can  overcome  this  threat.
+The  Jounney
+As  the  characters  begin  to  move  down the  river,  they  pass  through  an  everchang- ing  series  of  vistas.  For  the  most  part,  the caves  around  them  are  narrow  and smooth,  carved  by  the  action  of  the  river over  the  course  of  several  centuries.  Eve¬ ry  so  often,  however,  the  spaces  around the  river  open  into  wide  chambers  and galleries.  Some  are  quite  spectacular  glit¬ tering  with  crystal  and  mineral  deposits, others  are  bland  regions  of  sand  stone. The  pace  of  the  river  changes  from  a rapid  torrent  to  a  sluggish  crawl.
+After  the  party  has  passed  through  sev¬ eral  such  areas,  they  will  find  themselves entering  a  darker  and  more  dangerous domain:  the  regions  around  Dragonspear Castle.  Here,  the  foul  influences  of  the gate  to  the  dreaded  outer  planes  have  re¬ leased  a  steady  taint  of  evil  magic.  Over the  centuries,  this  dark  contamination  has imbued  the  very  stones  with  its  sinister emanations.
+20
+The  HeRmfT
+At  one  point  in  the  underground  pas¬ sage,  the  river  takes  a  slow  turn  and  then begins  to  descend  at  a  slight  angle.  The  in¬ cline  is  just  sharp  enough  to  set  up  a  fair current,  causing  the  boats  of  the  PCs  to pick  up  a  good  deal  of  speed.  This  hap¬ pens  gradually  and  will  not  be  noticed  un¬ less  a  player  happens  to  be  keeping  an  eye on  such  things.
+Suddenly,  the  party's  boats  fetch  up against  a  line  that  runs  just  below  the  sur¬ face  of  the  water.  A  quick  examination  will show  that  this  line  is  the  top  part  of  a  fishing net  that  has  been  spread  across  the  river. The  speed  of  their  travel  makes  this  stop  a sudden  one,  so  that  all  aboard  the  boats must  make  a  Dexterity  check  or  be  stunned for  one  round.  Characters  who  were  stand¬ ing  or  were  in  some  otherwise  vulnerable position  will  find  themselves  pitched  into
+the  water  if  they  fail  their  rolls.
+As  suddenly  as  all  this  happens,  the  he¬ roes  will  be  attacked.  This  is  the  lair  of  Sal- lissi,  an  evil  and  very  hungry  morkoth.
+Morkoth  (1):  AC  3,  MV  Swl8,  HD  7,  hp  45; #  AT  1;  Dmg  1-10;  SA  hypnosis;  SD  spell  re¬ flection;  ML  14;  AL  CE;  THACO  13.
+If  Sallissi  is  defeated,  for  he  will  make  no peace  with  his  prey,  the  party  may  find some  treasure  by  searching  his  lair.  The treasure,  however,  is  found  scattered  on the  river  bed  and  will  require  diving  or similar  actions  to  recover  it.  Obviously, such  actions  are  difficult  because  of  the chilling  water  and  darkness  of  the  cavern. Each  successful  dive  will  recover  5%  of the  beast's  horde.  The  total  treasure  con¬ sists  of  14,000  gold  coins  and  2,000  plati¬ num  coins.  Thus,  each  dive  will  allow  a hero  to  recover  700  gp  and  100  pp.
+21
+Utodetz  the  Castle
+After  the  heroes  have  dealt  with  the morkoth,  they  can  complete  their  journey in  relative  peace.  Still,  the  looming  evil  of Dragonspear  Castle  hangs  heavy  in  the  air and  the  characters  will  find  it  harder  and harder  to  throw  off  feelings  of  despair and  lethargy.
+FLoRf)Kj£>YK)’s  MarIc
+Several  hours  after  the  PCs  leave  behind the  lair  of  the  morkoth,  they  will  come  in¬ to  a  wide  gallery  of  gleaming  stalactites and  arched  ceilings.  Dozens  of  holes  mark possible  exits  from  this  area,  one  of  which is  marked  with  the  glyph  that  Florfindyn left  behind  him  in  his  flight  from  Dragon¬ spear.
+If  the  PCs  attempt  to  explore  any  of  the other  tunnels,  they  will  wander  aimlessly, be  attacked  by  horrible  monsters  of  the DM's  choice,  and,  if  they  survive,  make their  way  back  to  this  same  chamber  after 2d6  hours  have  passed.
+The  LabYRiNth
+Florfindyn's  path  through  the  twisting tunnels  beneath  Dragonspear  was  a  fortu¬ nate  one.  Not  only  did  it  bring  him  safely out  of  the  evil  clutches  of  Baazka  and  his hordes,  but  it  also  revealed  to  him  the  hid¬ ing  place  of  the  Dragonspear  itself.  Unfor¬ tunately,  this  artifact  was  hidden  at  the center  of  a  great  twisting  maze,  designed by  Vesarius  to  keep  his  treasure  safe  from the  agents  of  Maelestor  Rex.
+The  map  on  the  facing  page  shows  the path  which  brought  Florfindyn  through this  subterranean  maze.  Because  he  was on  the  run  from  the  minions  of  Baazka, the  elf  had  no  time  to  mark  his  path.  The heroes  will  have  to  explore  the  place  on their  own,  facing  its  dangers  and  perils anew.
+As  the  heroes  move  through  the  maze, they  will  be  forced  to  confront  many  terri¬ ble  monsters.  These  creatures  are  all,  for one  reason  or  another,  in  the  service  of Baazka.  His  dark  power  is  such  that  they
+cannot  betray  him  and  will  fight  to  the death  in  service  of  their  master.  Ordinari¬ ly,  the  pit  fiend  would  be  instantly  aware of  the  heroes'  presence  in  the  labyrinth. However,  his  attention  is  now  focused  on his  armies  and  he  is  too  distracted  to  sense them.
+The  HeaRt  of  The  Mazo
+At  the  center  of  the  labyrinth  is  a  great cubical  chamber  some  75  feet  across.  This immense  room  has  been  cut  from  the rock  by  magical  forces  and  polished  until its  coal-black  walls  gleam  brightly  at  the touch  of  any  light  source.
+At  the  center  of  this  room,  floating  35 feet  above  the  floor,  is  a  sphere  of  abso¬ lute  blackness.  Within  this  magical  co¬ coon,  the  Dragonspear  floats  in  timeless suspension.  This  barrier  can  only  be punctured  by  powerful  magic  or  re¬ sourceful  thinking.
+The  area  of  darkness  is  a  minor  fold  in the  fabric  of  space.  Any  physical  object, living  or  inanimate,  that  strikes  the  black¬ ness  will  simply  appear  on  the  other  side of  it  without  passing  through  it.  In  es¬ sence,  the  universe  is  wrapped  around the  spear  and  it  cannot  be  affected  until the  barrier  is  broken.
+Dropping  the  shield  requires  some  man¬ ner  of  space-folding  spell  similar  to  the one  that  created  the  darkness.  Any  man¬ ner  of  spell  like  dimension  door  or  plane shift  that  causes  the  fabric  of  space  to  be altered  can  be  used.  The  chance  that  any given  spell  will  succeed  is  10%  per  spell level.  Thus,  a  4th-level  dimension  door used  to  disrupt  the  field  has  a  40%  chance of  working.  Numerous  spells  may  have  to be  used  before  the  barrier  falls.  In  addi¬ tion,  psionic  powers  might  prove  effective in  reaching  the  Dragonspear.  The  chance that  an  appropriate  psionic  power  will succeed  in  disrupting  the  spell  is  5%  per level  of  the  psionicist.
+22
+The  Guar^Ukj
+Because  he  expects  Maelestor  Rex  to send  agents  in  to  claim  the  spear,  Vesarius has  stationed  a  greater  guardian  daemon here  to  protect  his  treasure.  This  creature is  contained  within  the  sphere  of  black¬ ness  and  will  attack  the  heroes  as  soon  as that  spell  is  interrupted.
+Greater  Guardian  Daemon  (1):  AC  -1,
+MV  9,F1  9(D),  HD  10,  hp  70;  #  AT  3;  Dmg  1- 10/1-12/1-12;  SA  breath  fire,  suggestion; SD  +2  or  better  to  hit,  immune  to  charm, hold,  sleep,  polymorph,  and  fear  spells, cannot  be  harmed  by  acid  or  electricity; MI  18  AL  NE:  THACO  11
+Once  the  daemon  has  been  defeated, the  heroes  can  claim  the  Dragonspear.  Of course,  this  assumes  that  they  have  some means  of  reaching  it,  as  it  still  hovers some  35  feet  off  the  floor.
+With  the  weapon  in  hand,  the  heroes will  have  to  retrace  their  steps  through the  maze.  The  whole  while,  of  course, they  will  run  the  risk  of  fighting  wander¬ ing  monsters.  If  they  use  the  Dragonspear in  combat,  they  will  find  that  it  has  all  the powers  of  a  javelin  of  piercing,  scroll  of protection  from  acid,  and  sword  of wounding.
+Dragonspear  Labyrinth  Map 1  Square  =  25  feel
+To  [|>o  Underground  ftlyg-r
+Labyrimh  Encounters
+*  RtHHdS  every  lime  tho patty  roaches  an Intersection.  A  "6" indicates  an  encounter with  a  monster  from  1  he ofiarl  below:
+Roll
+Monsier
+No.
+2
+IdS
+3
+BSrtXtiu
+Ids
+A
+Sar&azu
+Id*
+$
+Sarbazu
+1d3
+6
+Xom
+1d4
+7
+Otyugh
+1d2
+B
+Hell  Hound
+IdB
+e
+Cave  Fisher
+2d4
+ID
+Carrion  Crawler
+td4
+11
+MegafctcefilipKSe
+1«
+12
+Fomorian
+ld2
+13
+M fid us a
+1d2
+14
+Roper
+1d3
+15
+fjmbor  HuN(
+ids
+>G
+Cloaker
+Id*
+1?
+iJa/hazu
+1d3
+T&
+fiarhizu
+Id*
+19
+Bafbft/g
+ldS
+30
+Bar&izu
+idS
+23
+RefmNJ  To  the  Injnj
+Once  the  heroes  return  to  the  river  and begin  to  make  their  way  upriver,  they  may or  may  not  be  pursued  by  the  minions  of Dragonspear.
+The  GcTaujay
+If  the  player  characters  have  been  badly hurt  by  their  battles  in  the  labyrinth  be¬ neath  the  castle,  then  the  DM  will  proba¬ bly  want  to  let  them  make  the  return  trip fairly  easily.  In  this  case,  it  is  a  time  for resting  and  recovery.  In  order  to  keep  the escape  from  being  too  easy,  however,  the DM  might  drop  in  a  minor  hazard  — something  like  a  big  cave-in  or  the  ram¬ paging  mate  of  the  morkoth  they  fought earlier.
+If  the  heroes  have  managed  to  reach  the river  in  good  shape  and  have  not  yet  faced a  truly  challenging  foe  in  the  labyrinth, then  they  ought  to  be  faced  with  a  party  of barbazu  who  have  been  sent  to  recover the  Dragonspear  and  prevent  their  es¬ cape.  The  DM  should  base  the  number  of these  fiends  on  the  strength  of  the  party.
+Barbazu  (?):  AC  3,  MV  15,  HD  6  +  6,  hp  30 ea.;  #  AT  3  or  1;  Dmg  1-2/1-2/1-8  or  2-12;  SA Glaive,  disease,  battle  frenzy,  spells;  SD  +1 or  better  to  hit;  ML  12;  AL  LE;  THACO  15.
+In  either  case,  the  current  of  the  river  is fast  enough  (or  the  walk  down  its  banks rough  enough)  to  make  it  an  extremely  tir¬ ing  journey.  When  the  heroes  have reached  the  fissure  that  opens  up  in  the Misty  Forest,  they  will  be  in  need  of  rest before  they  can  continue.
+The  M)sTy  FoResT
+When  the  heroes  have  recovered  their strength,  they'll  certainly  want  to  make haste.  As  they  move  through  the  Misty Forest,  it  will  become  clear  to  them  that something  is  amiss.  From  far  ahead, roughly  in  the  direction  of  the  Way  Inn,  is
+a  long  plume  of  black  smoke  curling  up into  the  sky.  They  can  find  no  trace  of  the druid  that  they  left  behind  in  these  woods and  no  sign  of  Florfindyn  (although  that  is certainly  to  be  expected).
+P)ck)bjg  up  The  Pieces
+When  the  characters  return  to  the  Way Inn,  they  will  find  that  their  army  is  gone. Indeed,  so  is  the  inn.  The  area  is  dotted with  pools  of  acid  and  the  bodies  of  sev¬ eral  dozen  soldiers.  Florfindyn  is  here, having  been  left  behind  to  tell  the  heroes what  happened.
+His  story  is  simple  enough.  He  carried their  message  to  the  armies  gathered  here and  saw  to  it  that  the  nature  of  the  threat was  fully  understood.  He'll  mention  that the  army  they  left  behind  has  been  rein¬ forced  by  several  other  groups,  including his  kin  from  the  Laughing  Hollow  and  the dwarves  of  Illefarn.
+When  the  commanders  of  the  army heard  his  news,  they  recognized  their  per¬ il  immediately.  They  headed  south  at once,  determined  to  attack  the  enemy  be¬ fore  it  could  be  further  reinforced  by creatures  drawn  from  the  Nine  Hells.  Flor¬ findyn  and  a  company  of  men  were  left behind  to  escort  the  heroes  to  the  front when  they  returned.
+Not  long  after  the  army  left,  the  dragon arrived.  He  swept  back  and  forth  above the  Inn,  spitting  acid  and  ripping  apart men  with  his  teeth  and  talons.  Florfindyn was  himself  injured  in  one  of  the  first passes  made  by  the  beast,  causing  him  to be  left  for  dead  when  the  dragon  returned to  its  evil  master  in  the  south.
+Of  course,  this  leaves  the  heroes  little choice  but  to  race  toward  Dragonspear  as fast  as  they  can  manage.  With  any  luck, they  won't  be  too  late  to  join  the  battle  and save  their  allies  from  death  and  destruc¬ tion  at  the  hands  of  Baazka  and  his  min¬ ions.
+24
+25
+AgaiwsT  the  H ok&&$
+The  heroes  reach  Dragonspear  Castle shortly  after  battle  has  been  joined.  Once again,  this  situation  is  an  opportunity  for the  players  to  take  charge  of  the  combat and  use  the  BATTLESYSTEM™  game  rules to  resolve  the  fight.
+The  Battle  at  DRagowspeaR
+On  the  next  page  is  a  map  that  shows  the battleground.  Dungeon  Masters  who  will be  using  the  BATTLESYSTEM  game  rules to  resolve  this  fight  should  set  up  an  area similar  to  that  shown  in  the  diagram.  The Dragonspear  figures  are  set  up  first,  then the  Allied  forces.
+The  Allies
+At  this  point,  the  Army  of  Daggerford has  been  reinforced  so  that  all  of  the  units listed  on  page  7  are  available.  The  player characters  are  not  present  at  the  start  of the  battle.
+The  Hordes  of  Dragonspear
+By  the  same  token,  the  entire  army  of Baazka  is  here.  All  of  the  units  described on  page  5  are  available.  Any  units  lost  in the  Battle  at  the  Way  Inn  have  been  re¬ placed.  Maelestor  Rex  begins  with  his master,  but  will  be  free  to  move  away from  him  as  soon  as  the  battle  begins.
+Victory
+This  is  a  battle  to  the  death.  Based  on  the strict  force  count,  the  good  guys  don't have  a  very  good  chance.
+TuRwiwg  The  T)de
+The  only  way  that  the  allies  will  win  the battle  is  to  turn  Maelestor  Rex  against  his companions.  Since  he  cannot  do  this  as long  as  the  Dragonspear  exists,  one  possi¬ ble  way  to  accomplish  this  feat  is  to  de¬ stroy  the  spear.  The  only  thing  that  can destroy  this  magical  artifact  is  Maelestor
+Rex's  own  acidic  spittle.  It  might  also  be possible  to  turn  the  tide  of  battle  by  killing Vesarius.  Without  his  influence,  Maelestor Rex  is  free  to  act  as  he  will.  In  either  case, he'll  instantly  turn  on  the  Hordes  of  Dra¬ gonspear.  With  the  addition  of  the  Dragon to  their  forces,  the  Allies  ought  to  be  able to  obliterate  their  enemies.
+As  with  the  first  battle,  the  DM  is  remind¬ ed  that  this  is  all  part  of  a  role-playing  ad¬ venture.  Victory  ought  to  be  attainable  for the  heroes,  but  not  easily  so.  The  DM  should hold  back  the  arrival  of  the  PCs  until  things look  hopeless.  The  longer  he  waits,  the more  dramatic  their  victory  will  be.  Pacing is  the  key  to  this  scene.
+AtTeRwaTe  ResoLuDows
+If  the  DM  doesn't  wish  to  use  the BATTLESYSTEM  game  rules,  the  short¬ hand  method  described  in  DMGR2:  The Castle  Guide  can  be  used.  The  armies  at the  battle  have  the  following  point  values when  this  system  is  used:
+The  Hordes  of  Dragonspear
+Wolg's  Kobolds  1,000
+Pruj's  Goblins  1,500
+Dahrgash's  Ores  1,500
+Skarr's  Hobgoblins  1,000
+Ghorashk's  Bugbears  1,300
+Oorok's  Ogres  1,300
+Total  7,600
+The  Allies  of  Daggerford
+Daggerford  Peasants  300
+Daggerford  Militia  600
+Daggerford  Infantry  400
+3rd  Company  500
+Uhmbrick's  Rangers  1,000
+Knights  of  Ilmater  2,000
+Misty  Forest  Elves  350
+Elvish  Longbowmen  650
+Dwarves  of  Illefarn  250
+Dwarvish  Crossbowmen  500
+Total  6,550
+26
+Ad<b)T)oNAl  UxiTCs
+The  point  values  above  reflect  only  the armies  themselves  and  not  their  leaders. For  the  purposes  of  simplicity,  it  is  as¬ sumed  that  the  leaders  of  the  Allies  and the  masters  of  the  Horde  roughly  balance out.  If  the  DM  wishes  to  add  the  Horde unit  commanders  to  the  scenario,  they can  be  considered  as  simply  another  fig¬ ure  of  the  same  type  as  the  unit.  Thus, Wolg  would  be  as  dangerous  as  10  of  his kobold  followers.
+The  exceptions  to  this  are  Maelestor  Rex and  the  fiends  from  the  Outer  Planes.  As an  ancient  dragon,  Maelestor  Rex  is roughly  the  equivalent  of  a  small  nuclear weapon  when  unleashed  on  the  battle¬ field.  The  fiends,  Baazka  and  his  lieuten¬ ants,  are  not  to  be  discounted  either.  The BATTLESYSTEM™  game  stats  of  these characters  are  printed  on  the  inside  of  the
+back  cover.  In  Castle  Guide  terms,  Maeles¬ tor  is  worth  600  points,  Baazka  is  worth 400,  and  each  of  the  cornugons  is  worth 200.  The  DM  will  have  to  determine  point values  for  the  player  characters  based upon  the  examples  presented  in  the BATTLESYSTEM  game  rules.
+Heroes  To  the  Rescue
+When  the  heroes  arrive  with  the  Dra- gonspear,  they  will  need  to  present  it  to Maelestor  Rex.  Actually,  this  isn't  too  hard as  they  need  only  get  it  within  150  yards (15  inches)  of  the  dragon.  As  soon  as  this  is done,  Maelestor  roars  with  delight  and dives  at  the  hero  holding  the  weapon.  On the  next  round  he  will  use  his  breath weapon  to  destroy  the  spear.  As  soon  as the  weapon  or  Vesarius  is  destroyed,  the dragon  will  turn  on  the  hordes  and,  quite probably,  lead  the  allies  on  to  victory.
+27
+AfTeRmaTh
+Of  course,  the  heroes  are  assumed  to emerge  triumphant  from  the  strife  of  the great  battle.  If  things  are  going  poorly  for them,  the  DM  can  introduce  any  number of  last  minute  rescues.  The  most  probable would  be  an  elite  group  of  cavalry  from Waterdeep  that  arrives  just  in  the  nick  of time.  Similarly,  the  DM  might  just  "fudge" a  few  morale  rolls  for  the  Hordes  or strengthen  the  attack  of  Maelestor  Rex when  he  changes  sides.  Whatever  the  me¬ chanical  fix  is,  the  players  ought  to  see their  heroes  taken  to  within  an  inch  of  ab¬ solute  defeat  and  destruction  before  the last-minute  rally  that  saves  the  day.
+WriAppihjg  tT  Up
+When  the  battle  is  over,  and  all  is  said and  done,  the  player  characters  will  cer¬ tainly  be  heroes.  They  will  be  able  to  re¬ quest  almost  anything  that  it  is  within  the power  of  Daggerford  and  its  allies  to grant.  They  will  also  have  earned  the  fa¬ vor  the  elves  who  live  in  Laughing  Hollow and  their  kin  who  will  be  returning  to  the Misty  Forest.  Likewise,  they  will  have proven  their  worth  to  the  dwarves  of  Ille- farn.  They  might  also  be  able  to  earn  the trust  and  respect  of  Uhmbrick's  Rangers and  the  Knights  of  Ilmater,  two  very  valu¬ able  potential  allies.
+Of  course,  they've  also  made  a  lot  of powerful  enemies.  The  fiends  that  they defeated,  or  perhaps  even  destroyed,  are sure  to  be  avenged  by  their  peers  in  the Nine  Hells.  After  all,  letting  mere  mortals show  up  these  powerful  creatures  is  bad for  business.
+For  his  part,  Maelestor  Rex  has  no  great animosity  for  nor  sense  of  indebtedness to  the  heroes.  As  far  as  he  is  concerned, the  fact  the  he  did  his  part  to  crush  the Hordes  of  Dragonspear  repays  his  debt  to humanity.  He  will  return  to  his  home  in the  heart  of  the  High  Moors  and,  perhaps, assemble  his  own  army  of  humanoids  to someday  challenge  the  men  of  Dagger-
+ford.  Whatever  the  case,  he  is  not  an  im¬ mediate  danger  and  cannot  be  counted  on as  an  ally.
+Sequel  Poss)b)i)T)es
+Once  the  last  battle  is  fought,  the  heroes may  want  to  push  on  into  Dragonspear Castle  and  close  the  gate  which  still  oper¬ ates  at  its  heart.  This  is  certainly  a  noble venture  and  one  that  will  have  the  sup¬ port  of  everyone  in  the  area.
+Such  a  quest  will  be  fraught  with  almost incomprehensible  dangers.  The  DM should  be  advised  that  the  dungeons  be¬ neath  Dragonspear  Castle  are  huge, sprawling  affairs.  The  labyrinth  present¬ ed  in  this  adventure  is  but  a  tiny  fragment of  the  whole  created  by  Vesarius  to  pro¬ tect  the  Dragonspear.
+Dungeon  Masters  who  wish  to  allow their  players  to  explore  these  horrible  re¬ cesses  might  consider  using  the  maps  in such  products  as  Ruins  of  Undermoun¬ tain  or  Castle  Greyhawk  as  the  basis  of  the complete  catacomb  structure.
+28
+BaaTezu,  GReaTeR-AmMteu
+FRQ2
+CLIMATE/TERRAIN:
+The  Nine  Hells
+FREQUENCY:
+Rare
+ORGANIZATION:
+Solitary
+ACTIVITY  CYCLE:
+Any
+DIET:
+Carnivore
+INTELLIGENCE:
+Exceptional  (15-16)
+TREASURE:
+V,  Y
+ALIGNMENT:
+Lawful  evil
+NO.  APPEARING:
+1-2
+ARMOR  CLASS:
+MOVEMENT:
+6,  FI  15  (C)
+HIT  DICE:
+9
+THAC0:
+11  (See  below)
+NO.  OF  ATTACKS:
+1
+DAMAGE/ATTACK:
+2-8
+SPECIAL  ATTACKS:
+Energy  channel,  forget
+SPECIAL  DEFENSES:
++2  or  better  weapons  to  hit
+MAGIC  RESISTANCE:
+50%
+SIZE:
+M  (4'  tall)
+MORALE:
+Elite  (13-14)
+XP  VALUE:
+32,500
+The  amnizu  dwell  primarily  on  Stygia,  the  fifth  plane  of  the  Nine Hells.  They  are  often  found  on  the  upper  layers  of  the  Nine  Hells, however,  there  to  accomplish  some  unearthly  mission.
+The  amnizu  are  rather  gruesome  and  unseemly.  They  are  short (about  4  feet  in  height)  with  elongated,  bald  heads.  They  have stubby  legs  and  arms  and  large,  leathery  wings  protruding  from their  backs.  Amnizu  have  pug  noses  and  large  eyes.  Their  snarl¬ ing  mouths  are  filled  with  jagged,  razor-sharp  teeth.
+Amnizu  use  telepathic  communication.
+Combat:  The  amnizu  are  greater  baatezu  and  as  such,  prefer  not to  enter  combat,  but  rather  to  leave  that  sort  of  thing  to  under¬ lings.  But  if  pressed  into  battle,  the  amnizu  will  prove  able  foes. Their  touch  alone  is  enough  to  cause  2-8  points  of  damage  to  any creature.  Because  this  channeling  of  harmful  energy  precludes  ar¬ mor,  the  amnizu  need  only  attack  versus  armor  class  10  to  cause damage.  Any  magical  pluses  of  armor,  shield,  or  protective  de¬ vice  such  as  a  ring  of  protection,  will  lower  the  "adjusted"  armor class  of  the  defender.  Other  magical  items  which  give  a  base  ar¬ mor  class  are  unaffected.  For  example,  if  an  amnizu  were  attack¬ ing  a  foe  wearing  plate  mail,  it  would  only  need  to  roll  versus armor  class  10  to  hit.  However,  if  the  amnizu  were  attacking someone  with  chain  mail  +1  and  bracers  of  defense,  AC  4,  it would  need  to  attack  versus  armor  class  3.
+Because  of  the  amnizu's  close  ties  to  the  river  Styx,  their  at¬ tacks  also  will  have  the  affect  of  an  extremely  powerful  forget spell,  causing  its  opponent  to  forget  one  whole  day's  memory  un¬ less  he  saves  vs.  spells.
+In  addition  to  those  available  to  all  baatezu,  an  amnizu  can  use the  following  spell-like  abilities,  one  per  round,  at  will:
+•  fireball,  3  times  per  day
+•  imprisonment,  1  time  per  day
+A  holy  word  is  required  to  drive  an  amnizu  back  to  its  own plane.
+Amnizu  can  attempt  to  gate  in  the  following:  2-20  abishai (50%  chance,  once  per  day)  or  1-8  erinyes  (30%  chance,  once  per day).
+™  &  ©1992  TSR,  Inc.  All  Rights  Reserved. Habita I/Society:  The  amnizu  are  greater  baatezu,  and  as  such  en¬ joy  a  nobility  of  sorts.  Although  not  of  the  same  station  as  the mighty  pit  fiends,  the  amnizu  are  part  of  the  ruling  class  of  the Nine  Hells.
+Amnizu  are  extremely  hateful  of  outsiders  to  the  Nine  Hells and  even  of  those  creatures  native  to  that  plane.  They  will  follow orders  not  so  much  because  of  their  nature,  but  because  of  their desire  to  advance  and  their  fear  of  the  pit  fiends.  It  is  a  commonly known  fact  that  the  higher  one  advances  in  the  Nine  Hells,  the more  closely  one  is  observed  by  the  Dark  Eight.  Given  the  oppor¬ tunity,  however,  amnizu  will  order  their  minions  to  attack  any¬ thing  that  enters  the  domain  that  is  under  the  control  of  the  Dark Eight.  It  is  possible  that  an  amnizu  would  even  attack  a  pit  fiend given  sufficient  reason  and  if  it  thought  it  could  do  so  without being  suspected.
+The  amnizu  serve  many  purposes.  First  and  foremost,  they  are the  guardians  of  the  river  Styx.  The  mighty  river  enters  the  Nine Hells  through  Stygia  as  well  as  Avernus.  This  is  rightly  seen  as  a weak  point  of  defense  for  the  Nine  Hells.  The  amnizu  are  entrust¬ ed  with  the  important  task  of  keeping  foolish  individuals  out  of the  Nine  Hells.  Second,  they  are  generals.  A  single  amnizu  will typically  command  a  great  army  of  thousands  of  abishai  and  eri¬ nyes.  To  their  own  perverse  ends  as  well  as  the  protection  of  Sty¬ gia,  the  amnizu  deploy  their  massive  armies.
+Ecology:  The  amnizu  are  given  the  important  task  of  bringing new  souls  to  the  Nine  Hells,  and  thus  they  are  given  their  power of  imprisonment.  Mortal  men  and  women  traveling  to  the  Nine Hells  from  the  Prime  Material  plane  for  the  purpose  of  combat¬ ing  evil  are  generally  fodder  for  the  amnizu.
+FRQ2
+BaaTezq  GReaTeR-CoR>ougo>o
+CLIMATE/TERRAIN:  The  Nine  Hells
+FREQUENCY:  Very  rare
+ORGANIZATION:  Solitary
+ACTIVITY  CYCLE:  Any
+DIET:  Carnivore
+INTELLIGENCE: _ Exceptional  (15-16)
+TREASURE:  D,  S
+ALIGNMENT:  Lawful  evil
+NO.  APPEARING:  1-4
+ARMOR  CLASS:  -  2
+MOVEMENT: 9,  FI  18  (C)
+HIT  DICE:  10
+THACO:  11
+NO.  OF  ATTACKS:  4  or  1  +  weapon
+DAMAGE/ATTACK:  1-4/1-4/2-5/1-3  or  1-3  +  weapon  +6
+(strength  bonus)
+SPECIAL  ATTACKS:  Fear,  wounding,  stun
+SPECIAL  DEFENSES:  Regeneration,  +2  or  better  weapons
+to  hit
+MAGIC  RESISTANCE:  50  %
+SIZE:  L  (9'  tall)
+MORALE:  Elite  (13-14)
+XP  VALUE:  36,500
+Cornugons  are  very  powerful  amongst  the  greater  baatezu.  It  is their  lot  to  find  service  in  the  elite  defense  forces  of  the  Nine Hells.  In  appearance  they  are  frightening  enough  to  fulfill  that role.  Fully  9  feet  tall,  these  creatures  are  a  only  vaguely  human¬ oid,  covered  with  grotesque  scales.  Their  huge  wings  and  snak¬ ing,  prehensile  tail  add  to  their  frightening  demeanor.  In  combat, they  favor  a  large  barbed  whip,  but  often  carry  other,  more  grue¬ some  weapons.
+Cornugons  communicate  telepathically.
+Combat:  Cornugons  are  fearless  fighters,  rarely  retreating  from combat  even  in  the  face  of  overwhelming  odds.  They  have  18/00 strength  (  +6  damage  adjustment).  The  cornugon  will  always  at¬ tack  with  its  tail,  lashing  out  for  1-3  points  of  damage,  creating  a wound  that  will  continue  to  bleed  for  1  hit  point  of  damage  per round  until  treated.  In  addition,  they  will  either  attack  with claws  and  bite  or  with  a  weapon.  Their  large,  barbed  whip  deals out  1-6  points  of  damage  on  a  successful  hit  and  the  victim  must make  a  saving  throw  vs.  paralyzation,  or  be  stunned  for  1-4  me¬ lee  rounds.  Even  unarmed,  the  beast  is  capable  devastating  at¬ tacks.  It  can  attack  with  two  claw  attacks  for  1-4  points  of damage  per  hit  and  a  bite  for  2-5  points  of  damage  per  hit  (plus  its tail  attack).
+In  addition  to  those  available  to  all  baatezu,  cornugons  can  use any  one  of  the  following  spell-like  powers  at  will,  once  per round,  at  will:
+•  detect  magic
+•  ESP
+•  lightning  bolt ,  3  times  per  day
+•  produce  flame
+•  pyrotechnics
+•  wall  of  fire,  1  time  per  day
+They  can  also  attempt  to  gate  in  the  following:  2-12  barbazu (50%  chance,  once  per  day),  2-16  abishai  (35%  chance,  once  per day)  or  1-3  additional  cornugons  (20%  chance,  once  per  day).
+All  cornugons  radiate  a  fear  aura  in  a  5  foot  radius.  Anyone entering  the  fear  radius  must  make  a  saving  throw  vs.  rod,  staff.
+™  &  ©1992  TSR,  Inc.  All  Rights  Reserved.
+or  wand  or  flee  in  terror  for  1-6  melee  rounds.  Cornugons  also regenerate  2  hit  points  per  melee  round.
+Habital/Society:  Cornugons  are  the  elite  fighting  force  in  the Nine  Hells.  They  are  often  formed  into  terrifying  armies  up  to 2,000  strong!  Only  the  mighty  pit  fiends  may  lead  these  hideous fighting  forces  into  battle.  The  cornugons  are  prized  personal guardians.  As  such,  all  pit  fiends  and  gelugons  try  to  obtain  one or  more  cornugons  as  personal  retainers.  The  Dark  Eight  have 106  cornugons  as  retinue.
+The  cornugon  armies  are  usually  formed  only  in  the  lower  few layers  of  the  Nine  Hells.  In  the  upper  layers,  individuals  serve  as generals  to  vast  armies  of  lesser  baatezu.  This  duty  is  the  most desirable  (and  most  subject  to  rapid  advancement)  second  only to  guardian  duty  among  the  Dark  Eight.
+Ecology:  The  cornugons  are  greater  baatezu,  and  as  such  enjoy  a certain  amount  of  prestige  across  the  Nine  Hells.  Of  all  the  baate¬ zu,  the  cornugons  have  the  most  rapid  advancement.  With  sev¬ eral  successful  campaigns  to  their  credit,  more  heroic  cornugons will  receive  promotions  to  the  upper  layers  of  the  Nine  Hells where  they  command  vast,  gruesome  legions  of  baatezu.  From there,  great  action  leads  to  promotion  to  gelugon,  the  ruthless baatezu  inhabitants  of  the  frigid  layer  of  Caina.  Although  power¬ ful  and  cunning,  the  cornugons  are  the  baatezu  least  likely  to  dis¬ play  treachery  amongst  their  ranks,  due  most  likely  to  their militaristic  nature.  Their  loyalty  makes  them  something  of  an  un¬ usual  asset  in  the  Nine  Hells.  It  is  said  that  the  106  cornugons  that guard  the  Dark  Eight  are  completely  loyal  and  would  give  their lives  in  defense  of  the  council,  behavior  that  is  nearly  unheard  of in  the  Nine  Hells.  Whether  this  is  due  to  genuine  loyalty  or  fear  of the  almost  limitless  power  of  the  pit  fiends  is  unknown.  What  is known,  however,  is  that  never  in  the  history  of  the  Dark  Eight has  a  cornugon  guardian  displayed  traitorous  behavior.
+B&xtezUj  Gnexten-Pft  Fiend
+FRQ2
+CLIMATE/TERRAIN:  The  Nine  Hells
+FREQUENCY:  Very  rare
+ORGANIZATION: Solitary
+ACTIVITY  CYCLE: DIET:
+INTELLIGENCE:
+Any
+Carnivore
+Genius  (17-18)
+TREASURE:
+G,  W
+ALIGNMENT:
+Lawful  evil
+NO.  APPEARING:
+1-4
+ARMOR  CLASS:
+-  5
+MOVEMENT:
+15,  FI  24  (C)
+HIT  DICE:
+13
+THAC0:
+7
+NO.  OF  ATTACKS:
+6
+DAMAGE/ATTACK:
+1-4/1-4/1-6/1-6/2-12/2-8  or  weapon +6  (strength  bonus)
+SPECIAL  ATTACKS:
+Fear,  poison,  tail  constriction
+SPECIAL  DEFENSES:
+Regeneration,  +3  or  better  weapons to  hit
+MAGIC  RESISTANCE:
+50  %
+SIZE:
+L  (12'  tall)
+MORALE:
+Fearless  (19-20)
+XP  VALUE:
+57,500
+The  most  terrible  baatezu  of  the  Nine  Hells,  pit  fiends  appear  to be  giant,  winged  humanoids,  very  gargoylish  in  appearance. Their  huge  wings  can  wrap  around  their  body  in  defense.  Their fangs  are  large  and  dripping  with  vile,  green  liquid.  Their  bodies are  red  and  scaly,  often  emitting  flames  when  they  are  angered  or excited.
+In  the  rare  instances  they  choose  to  communicate,  they  do  so using  telepathy.
+Combat:  No  baatezu  is  more  terrifying  in  combat  than  a  mighty pit  fiend.  In  physical  combat,  the  pit  fiend  is  capable  of  dealing out  tremendous  punishment,  using  its  incredible  18/00  strength (+6  damage  adjustment).  They  can  attack  six  times  in  a  single round,  dividing  its  attacks  against  up  to  six  different  opponents. They  can  attack  with  two  hard,  scaly  wing  buffets  for  1-4  points of  damage  per  hit.  Their  powerful  claws  do  1-6  points  of  damage per  successful  attack.  The  bite  of  a  pit  fiend  is  dreadful  indeed, causing  any  creature  bitten  to  take  2-12  points  of  damage  and receive  a  lethal  dose  of  poison.  A  saving  throw  vs.  poison  is  re¬ quired  or  the  victim  will  die  in  1-4  rounds.  The  bite  also  is  100% likely  to  infect  the  victim  with  a  disease  whether  he  saves  against the  poison  or  not.
+Pit  fiends  can  also  attack  with  their  tail  every  round,  inflicting 2-8  points  of  damage  per  hit.  The  tail  can  then  hold  and  constrict the  victim  for  a  like  amount  of  damage  per  round  until  the  victim makes  a  successful  strength  check  to  break  free.  Pit  fiends  can also  carry  jagged-toothed  clubs  which  inflict  7-12  points  of  dam¬ age  per  hit  (this  replaces  one  claw  attack).
+Once  per  round  a  pit  fiend  can  use  one  of  the  following  spell¬ like  powers,  plus  those  available  to  all  baatezu:
+•  detect  magic
+•  detect  invisibility
+•  fireball
+•  hold  person
+•  improved  invisibility
+•  polymorph  self
+•  produce  flame
+•  pyrotechnics
+•  wall  of  fire
+™  &  ©1992  TSR,  Inc.  All  Rights  Reserved.
+They  can,  once  per  year,  cast  a  wish  spell.  They  may  always gate  gate  in  two  lesser  baatezu,  or  one  greater  baatezu  with  a 100%  chance  of  success,  performing  this  action  once  per  round. Once  per  day,  a  pit  fiend  can  use  a  symbol  of  pain  —  the  victim must  save  vs.  rod,  staff  or  wand  or  suffer  a  -4  penalty  on  attack dice  and  a  -2  penalty  to  dexterity  for  2-20  rounds.
+They  regenerate  2  hit  points  per  round.  Pit  fiends  also  radiate  a fear  aura  in  a  20  foot  radius  (save  versus  rod,  staff,  or  wand  at  a -3  penalty  or  flee  in  panic  for  1-10  rounds).
+Habitat/Society:  Pit  fiends  are  the  lords  of  the  Nine  Hells.  They are  the  baatezu  with  the  greatest  power  and  station.  Pit  fiends  are found  throughout  the  various  layers  of  the  Nine  Hells,  but  are very  rare  on  the  upper  layers.  They  also  are  not  fond  of  the  frigid coldness  of  Caina,  the  eighth  layer.  Pit  fiends  are  very  rare  on Avernus,  Dis,  Minauros,  and  Caina.  They  are  rare  on  Phle- gethos,  Stygia,  Malbolge,  and  Maladomini.  In  the  fearful  realm of  Nessus,  however,  the  dreaded  pit  fiends  are  common.
+Wherever  they  are  found,  these  mighty  lords  hold  a  position  of great  authority  and  power.  They  sometimes  will  command  vast legions  consisting  of  dozens  of  complete  armies,  leading  the  hate¬ ful  horde  into  battle  against  the  Tanar'ri.  These  huge  forces  are terrifying  to  behold,  and  any  non-native  of  the  lower  planes  of less  than  10  hit  dice  who  sees  them  will  flee  in  panic  for  1-3  days. Those  of  10  hit  dice  and  greater  must  make  a  saving  throw  vs. rod,  staff,  or  wand  or  flee  in  panic  for  1-12  turns.
+It  is  rumored  that  pit  fiends  are  not  the  most  powerful  beings  in the  Nine  Hells,  but  rather  themselves  servants  of  some  greater power.  If,  in  fact,  there  are  some  greater  beings  in  the  Nine  Hells, certainly  they  are  powerful  enough  to  hide  their  presence  horn mere  mortal  sages.
+Ecology:  Pit  fiends  are  spawned  from  the  powerful  gelugons  of the  Nine  Hells'  eighth  layer.  When  those  icy  fiends  are  found worthy  they  are  cast  into  the  Pit  of  Flame  for  1,001  days  after which  they  emerge  as  a  pit  fiend  (see  Gelugon  for  more  detail).
+Baatezu,  LesseK-BaizbAZU
+FRQ2
+CLIMATE/TERRAIN:  The  Nine  Hells
+FREQUENCY:  Common
+ORGANIZATION:  Troupe _
+ACTIVITY  CYCLE:  Any
+DIET:  Carnivore
+INTELLIGENCE: Low  (5-7)
+TREASURE:  Nil
+ALIGNMENT:  Lawful  evil
+NO.  APPEARING:  20-100
+ARMOR  CLASS:  3
+MOVEMENT: 15 HIT  DICE:  6  +  6
+THACO:  13
+NO.  OF  ATTACKS:  3  or  1  (weapon) _
+DAMAGE/ATTACK:  1-2/1-2/1-8  or  2-12  (weapon)
+SPECIAL  ATTACKS:  Glaive,  disease,  battle  frenzy
+SPECIAL  DEFENSES:  +1  or  better  weapons  to  hit
+MAGIC  RESISTANCE:  30%
+SIZE:  M  (6'  tall)
+MORALE:  Steady  (11-12)
+XP  VALUE:  23,500
+The  barbazu  is  the  most  vile  and  effective  soldier  in  the  Nine Hells.  They  are  employed  in  large  numbers  as  shock  elite  troops.
+A  barbazu  is  a  foul,  humanoid  creature  with  a  long  tail, clawed  hands  and  feet,  pointed  ears,  and  a  snaky,  disgusting beard  growing  out  of  its  face.  Its  skin  is  moist  and  scaly  like  a reptile.  They  are  most  often  seen  carrying  a  cruel,  saw-toothed glaive,  capable  of  great  damage.
+Though  barbazu  rarely  find  a  need  to  communicate,  they  can do  so  using  telepathy.
+Combat:  The  barbazu  are  the  most  violent  of  the  baatezu,  taking advantage  of  any  excuse  to  attack.  This  makes  them  unpopular amongst  baatezu-kind  and  subject  to  frequent,  harsh  disciplinary measures.  These  same  traits,  however,  make  them  excellent shock  troops.  They  are  deployed  in  large  armies  sometimes  num¬ bering  in  the  thousands  both  to  guard  the  middle  layers  of  the Nine  Hells  and  to  launch  devastating  attacks  against  the  tanar'ri. They  are  also  popular  among  the  more  powerful  Baatezu  to guard  personal  treasure  or  one's  demesne.
+The  barbazu  attacks  with  a  saw-toothed  glaive.  This  terrible weapon  not  only  inflicts  2-12  points  of  damage  on  a  successful hit,  but  the  wound  caused  by  the  weapon  will  continue  to  bleed each  melee  round  until  the  wound  is  bound  (or  the  victim  dies). The  victim  will  continue  to  suffer  2  points  of  damage  per  round until  tended  to.  These  bleeding  glaive  wounds  are  cumulative;  2 points  of  damage  will  be  suffered  per  round  per  wound.  If  neces¬ sary,  however,  the  barbazu  is  capable  of  powerful  natural  at¬ tacks.  It  can  deal  out  two  claw  attacks  for  1-2  points  of  damage each  and  an  attack  with  its  wire-like  beard  for  1-8  points  of  dam¬ age.  If  both  claws  manage  to  hit,  the  beard  damage  is  an  auto¬ matic  hit  for  maximum  damage.  Also,  when  the  beard  hits,  there is  a  25%  chance  the  victim  will  contract  a  disease  from  the  foul attack.
+At  will,  one  at  a  time,  one  per  round,  a  barbazu  can  use  the following  spell-like  powers  in  addition  to  those  available  to  all baatezu:
+•  affect  normal  fires
+•  command
+•  fear,  by  touch
+•  produce  flame
+™  &"  ©1992  TSR,  Inc.' All"  Rights" Reserved.
+The  barbazu  can  also  attempt  to  gate  in  2-12  abishai  (50% chance,  once  per  day)  or  1-6  additional  barbazu  (35%  chance, once  per  day).
+All  barbazu  are  subject  to  a  battle  frenzy.  When  in  the  heat  of combat,  a  group  of  barbazu  is  10%  likely  per  melee  round  to  go berserk.  While  berserk,  the  barbazu  need  not  make  morale checks.  They  will  attack  twice  as  many  times  per  round  at  +2  on attack  rolls  and  damage  dice.  Their  armor  class,  however,  will increase  by  3.  The  roll  is  cumulative  per  melee  round,  so  that  it they  are  20%  likely  to  go  berserk  on  the  second  round,  30%  on the  third,  etc.  Once  berserk,  they  will  stay  that  way  until  combat ceases.
+Habita^Society:  The  barbazu  have  no  real  internal  society.  They are  bred  for  battle,  which  is  what  they  do  best.  All  other  denizens of  the  Nine  Hells  know  that  barbazu  are  exceedingly  cruel.  Bar¬ bazu  will  rush  into  combat  whenever  possible,  and  often  will  not stop  until  either  they  or  their  opponent  is  dead.  They  are  perhaps the  most  impetuous  and  chaotic  of  the  baatezu,  and  thus  have gained  a  very  bad  reputation  among  outsiders.  However,  even the  pit  fiends  themselves  cannot  deny  the  barbazu' s  extreme  val¬ ue  in  combat.
+Although  the  barbazu  is  a  lesser  baatezu,  they  are  never  found in  command  of  their  own  armies.  They  are  simply  too  chaotic and  are  unfit  to  lead.  Often,  though,  a  barbazu  that  has  proven himself  of  exceptional  worth  will  promoted  to  an  osyluth.  Most, however,  never  survive  to  see  promotion.
+Ecology:  As  noted  earlier,  the  barbazu  serves  only  one  function: fighting.  They  are  bred  for  combat  and  combat  alone;  they  have no  other  purpose  and,  therefore,  no  ecological  structure  other than  military.  They  are  the  bulk  of  the  army  of  the  middle  layers and  the  most  common  guards  of  the  greater  baatezu.  They  do  not fight  out  of  any  particular  loyalty  or  comraderie,  but  rather  out of  their  violent  need  to  hurt  and  kill.
+]KN;ircl
+•  OtiMpirn
+EHESHINlNti  SEA
+Hl-IMMlIH
+Lushpou;
+IlhMON  M
+Lapallipa
+tapakjsn*  £
+A-'\vv;
+tl]€  Nall?
+«  Ala  i  mr
+isiiini?
+HafllK&SlK
+Spni>c
+Ennlhriinl
+UNfteiifjOMf
+CffiNN.anpia.il
+TffTicc  fiwOMM
+KSiollilH
+DEtZjMMCtt  ^
+'■  -i.1  ■__H'J  ^  i
+WcstwaicH
+UetomtHi LaNO  or ’
+AzUICi'j  lb
+(o?r  Luke  inr  s.-ijn
+ItOlHHS  StDWt  1**11
+CoukuJ  I  lllld
+CunelvE
+■:s  ,-vi^>nl^
+OjrtjjlaJSifl A  MlN'ti,.-.
+EstaQUN&
+■■^fBaos^uai  MouNtalN
+Siiteat  tK^TWR's  Wb?
+UbrtUlto11
+lili  C'K  NA
+rijC  Lomij  Fane&t
+FmTrcmi
+CbJmeI
+SJ70UN
+Vi"  ifcl  TtfH,
+Laws  of
+MuHLll'rLS
+AmwaIIjIuLii
+KaimfN  ftrije  nuet
+Cl;-r  nuchv.ill
+\  Ol.
+cranner
+melve
+Dimpan
+5^ri!iNia
+HUORM
+THCJtiajiftN:
+SuoiTMpan
+liiitpfrt
+i.u-'.:u!i
+QotOCN  W3 ItR
+PliAiuiul
+Isfc of  snipe
+.  Mou  NtalMi  Of  QdS&J SuRftan  #  Q  C^aJpun
+\
+/
+&
+t  /
+HefaizaN
+•  OnVyltan
+VaR  QoIDgn  uiqaRtp  0  KelEirsajt
+I  Matiin
+1  —  1
+*  AlaThlE
+'
+tlje  HI5I]  Aluftft T  t(giiB3UH
+.  Zliinko  a Sscik&II  ^  m
+_  W*  ti.0m
+■  lV  - r  W3’5  -  T_
+^  -  *  Halmiaa
+mpr—
+iMuahisqual-tne  East  W*
+Swamp  qf  Akamai;
+JT
+Ham  *******
+1  Laitf
+HalaRA_f7l>
+AltlATElM
+LaUc  \
+hc.iinuaa  ft  SulasH*.
+i  .-1  Irp
+MillftaN
+9  Gal&pl
+Wlfill'M
+^  MiEm;l  ZalEi^uu
+HAlai.'
+liuLLsmi  •
+Lttnaim
+uiae  UltXDTei  1  M3  T  3R  Inc.  All  n  H*to rWd.  FORGOTTEN  fltALMS  It  *  trademark  o*n»d  bM  TSft,  Inc
+W-J”  V  .J
+7T7
+LiWDOf
+wp.ti
+FoitNaluiE  RaNcc
+AMMiHCtfEElR
+Ifiwarc
+~*  CwaqOaK  iOuiJaw  Wi5tot  AimSh  1
+F 5 C
+I{:  A*fj
+i  Dolphin's Henath-#  %
+XTlV
+■  —  j— |i|  i'TI  —
+Irltf&i  C5f  UK  Deato  Klwqe
+Cowaruli  Uansc
+Pttaetuitl
+DaMfcmatfr
+RiHiJuir  RaN^€ 4  IrUErSallj
+Cacnf?n.
+<4*
+3UfH*
+kiUllM31(F
+Ra.7  of  Dancing  iMstpijiN^
+•  T*-..  Otllpoul
+HtM;'.’  :
+Hetman
+>"i^L
+ilrNl
+WaTiffc  lalanibc
+Inc
+NaaitlLlI!
+c^GREAt%
+I  iiK  Nk.n.ML.-ircix-
+Ho  Zakfoana
+Maelestor  Rex, Black  Dragon
+AD
+ldl2
+B  W
+1  d  1  2
+AR
+2
+SP
+6/3/1
+Hits
+10
+MR
+45  %
+ML
+18
+MV
+12,  FI
+12  (C),  Sw  12
+Baazka's  Lieutenants,
+Comugons
+AD  ldlO
+BW
+Nil
+AR  4
+SP
+Special
+Hits  5
+ML  14
+MV  9,  FI  18  (C)
+MR
+50%
+Maelestor  Rex  radiates  an  aura  of  awe  that causes  all  enemies  within  12”  to  make  a  mo¬ rale  check  with  a  -  4  penalty.  His  primary  tac¬ tic  at  the  start  of  a  battle  is  to  swoop  across  the enemy  lines  in  an  attempt  to  shatter  the  mo¬ rale  of  the  other  side.
+Vrag,  Vooka,  and  Vesarius  are  Baazka’s  assist¬ ants.  Each  of  them  commands  one  of  his  arm¬ ies.  In  addition  to  the  abilities  described above,  each  of  them  can  use  the  following powers  once  per  battle:  lightning  bolt,  wall  of fire,  and  teleport.  They  can  be  hit  only  by  +2 or  better  weapons.
+Baazka, Pit  Fiend
+AD
+ldl2
+BW
+Nil
+AR
+2
+SP
+Special
+Hits
+6
+MR
+50%
+CD
+20
+MV
+15,  FI  24  (C)
+Baazka  is  the  absolute  commander  of  the Hordes  of  Dragonspear.  If  he  falls,  all  Dragon- spear  units  make  their  morale  checks  with  a -2  penalty.  Baazka  has  many  spell-like  abili¬ ties  and  is  able  to  use  the  following  powers once  per  battle:  fireball,  wall  of  fire,  and  tele¬ port.  Baazka  can  be  injured  only  by  +3  or better  weapons.
+Barbazu
+AD
+ld8
+BW
+Nil
+AR
+6
+SP
+Special
+Hits
+3
+MR
+30%
+ML
+12
+MV
+15
+In  the  event  that  the  player  characters  are  un¬ usually  tough,  the  DM  might  want  to  intro¬ duce  a  few  of  these  fiends  to  make  things more  challenging.  They  can  be  hit  only  by +  1  or  better  magical  weapons  and  are  able  to use  the  following  spells  once  per  battle:  fear and  teleport.
+Advanced
+n?
+radons
+[Nlcststaxs©  cqp
+W.  CoioraoiaB
+>
+f
+Dragonspear  Castle.  Alt  who  live  within  several  hundred miles  have  heard  th**  name  and  know  its  import,  Once  home  to the  proud  and  the  braver  it  stands  now  a  ruin,  cloaked  behind  a IlislOry  of  nluj'der  and  diabolic  plots,  Few  gn  there,  for  the  only
+I'tivv'iii’d  tu  be:  fOo mi  is  cJeijiiJi.
+Buiniirs  abound  that  Ilragnn  spear  holds  3  portal  to  the  sinis¬ ter  planes,  but  until  now  those  have  been  unfounded.  Follow¬ ing  a  great  bailie  against  ores  and  trolls  from  IHk  High  Murir who  had  taken  possession  uf  the  castle,  a  tom  pin  in  ward against  further  evil  was  established.  However,  by  the  Time  of Troubles,  that  temple  and  its  clergy  had  disappeared.  Now,  a horde  of  fiends  and  monsters  has  amassed  al  Dragon-spear  Cas¬ tle,  and  is  terrorizing  the  surrounding  countryside.
+The  portal  is  active,  (hat  is.  for  r^rlflin.  The  army  of  Tlagger- ftird  needs  reinforcements!  Is  your  party  made  of  the  stuff  of heroes?
+Hordes  tif  DmgOrt&pear  nan  lut  played  using  either  I  he PATTI >E5YSTRM™  miniatures  rules,  or  the  quick  combat  resolu¬ tion  system  found  in  DMGR2,  The  Castle  Guide,  Alternatively,  a few  simple  changes  render  the  entire  module  playable  without any  special  rules.
+s«.n.r,  ti.s.
+is.sn  fan
+E  i.su  u.k.
+'I SR,  In::.
+PC  JB  77, B I  jikr  Geneva
+W1  S3t47 UjH.A.
+TSI1  E.lii, IZOChurt-h  Hnil, cJiMi  ry  ilinintt l  jinibridflf:  (,'R  1  .  H  .ll United  tkJi^dom
+AVVAKvLU  DUNGEONS  4  DRAGONa.  ,li‘  J  FORGOTTEN  REALUS ■it-  rsglz.lcrtd  trjfinnaikii  allied  by  T3R,  Inc
+MAr  rLCirSTEM  and  Uif  TEH  JoflB  jrc  aw      l>r  TBR  In,:.
+topfrigsi  issa  T5H,  Ire.  All  Right* Riitn-ad.  PiViladin  U.S.A.

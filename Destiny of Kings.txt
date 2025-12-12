@@ -1,0 +1,7956 @@
+Skip to main content
+ 
+Texts
+ 
+Video
+ 
+Audio
+ 
+Software
+ 
+Images
+Sign up for free
+Log in
+ Search metadata
+ Search text contents
+ Search TV news captions
+ Search radio transcripts
+ Search archived web sites
+Advanced Search
+About Blog Events Projects Help Donate  Contact Jobs Volunteer
+Full text of "Tsr 09163 Adventure N 3 Destiny Of Kings (revised) (lvl 1 4)"
+See other formats
+N3 
+
+
+An Adventure for 4-6 Characters, Levels 14 
+
+
+9163 
+
+
+
+jLbwvtrr fv'CT > m i. a£X£< Nfcfrt-ritK* *C"* W4WUW nm -<T~ 
+
+
+Advanced 
+
+Dungeons^prasons 
+
+Official Game Adventure 
+
+Destiny of Kings 
+
+Stephen Bourne 
+
+
+
+
+
+Map 8: Capel Tower 
+
+
+Ground Level Level II 
+
+
+
+Dungeon (lower) Level 
+
+
+
+Level III 
+
+
+
+
+1 square = 10 feet 
+Spiral Stairs 
+Trap Door in Floor 
+Portcullis 
+Staircase 
+
+
+
+Note: trap doors in ceilings of 18, 
+19, and 20 lead to open parapets 
+above. Staircase leads to parapets 
+above 17. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Advanced 
+
+Dungeonsjjpragons 
+
+OFFICIAL GAME ADVENTURE 
+
+
+Adventure for 4-6 Characters, Levels 1-4 
+
+
+Destiny of Kings 
+
+by Stephen Bourne 
+
+
+
+CREDITS 
+
+
+TABLE OF CONTENTS 
+
+
+Editor: David James Ritchie 
+Cover Artist: Keith Parkinson 
+Interior Artist: James Roslof 
+Cartographer: David C. Sutherland III 
+Typographer: Betty Elmore 
+
+
+Distributed to the book trade in the United States by Ran 
+dom House, Inc. and in Canada by Random House of Can 
+ada, Ltd. Distributed to the toy and hobby trade by regional 
+distributors. Distributed in the United Kingdom by TSR 
+UK Ltd. 
+
+ADVANCED DUNGEONS & DRAGONS, AD&D, 
+PRODUCTS OF YOUR IMAGINATION, and the TSR 
+logo are trademarks owned by TSR, Inc. 
+
+(r) Copyright 1986 TSR Inc. All Rights Reserved. 
+
+This product is protected under the copyright laws of the 
+United States of America. Any reproduction or other unau 
+thorized use of the material or artwork contained herin is 
+prohibited without the express written permission of TSR 
+Inc. 
+
+Any questions on this material should be sent, along with a 
+self-addressed, stamped return envelope, to "AD&D(r) 
+Game Questions," at the address below: 
+
+TSR, Inc. TSR UK Ltd. 
+
+POB 756 The Mill, Rathmore Road 
+
+Lake Geneva Cambridge CB MAD 
+
+WI 53147 United Kingdom 
+
+
+
+Printed in the U.S.A. 
+
+0-88038-274-0 
+
+ISBN 394-55417-5TSR0800 
+
+
+DM BACKGROUND 2 
+
+The Situation 2 
+
+A Death in Dunador 2 
+
+A Pilgrimage to Andrevar 3 
+
+Synopsis 3 
+
+Names and Places 3 
+
+BEGINNING THE ADVENTURE 4 
+
+ADVENTURING IN ANDEVAR 5 
+
+Road Encounters Table 5 
+
+Off-Road Encounter Table 5 
+
+ENCOUNTER AREAS 6 
+
+Montinelle 6 
+
+F ontenmere Abbey 13 
+
+Open Road Patrol 16 
+
+Lusian Forest (The Darkwood) 16 
+
+The Drake & Castle Inn 17 
+
+The Road to the Shrine of Nevron 18 
+
+The Shrine of Nevron 19 
+
+The Capel Tower 20 
+
+Barbarian's Bridge 23 
+
+Eli's Cottage 24 
+
+Griffon Castle 25 
+
+ENDING THE ADVENTURE 3 0 
+
+Lord Edrin's Forces 30 
+
+The Secret Path 31 
+
+Noren'sWood 31 
+
+Conclusion 1 (if Edmund is alive) 31 
+
+Conclusion 2 (if Edmund is not alive) 31 
+
+PRE-ROLLED PLAYER CHARACTERS 32 
+
+MAPS 
+
+The Province of Andevar (players' map) outside cover 
+
+The Province of Andevar (Dungeon Master's map) inside cover 
+
+Montinelle (ground level) 8 
+
+Montinelle (citadel and dungeon) 11 
+
+Fontenmere Abbey 14 
+
+The Drake & Castle Inn 17 
+
+The Shrine of Nevron 19 
+
+Capel Tower inside cover 
+
+Griffon Castle (ground level) inside cover 
+
+Griffon Castle (upper level) inside cover 
+
+
+9163 
+
+
+
+
+
+Stop! If you plan to participate in this adven 
+ture as a player, please stop reading here. 
+Knowing the details of the adventure will 
+make it less fun to play for all concerned. 
+
+This adventure is designed for a party of four 
+to six player characters (PCs) of the 1st to 4th 
+levels of experience. A balance of character 
+classes is needed since the PCs will face a 
+wide variety of problems, each of which may 
+be most easily and effectively solved by a 
+character of a different class. 
+
+You, the Dungeon Master (DM), should read 
+this entire adventure before playing. There are 
+several plot elements that do not become fully 
+developed until lace in the adventure, but the 
+groundwork must be laid for them much 
+earlier. If you are not already aware of these 
+before play begins, you won't be able to plant 
+clues or build drama as effectively, and the 
+adventure will be less fun to play. 
+
+Study the maps while reading the area keys in 
+this booklet. Most of these keys contain boxed 
+information that should be read aloud to the 
+players when their characters enter the area. 
+Unboxed information is provided only as a 
+guide for the DM; it is not read to the players. 
+While every effort has been made to provide 
+all information needed for play, you may want 
+to add extra details to the boxed descriptions, 
+purely to enhance the atmosphere. 
+
+
+The following abbreviations are used 
+throughout this adventure: 
+
+
+AC 
+
+HD 
+
+#AT 
+
+AT 
+
+F 
+
+MU 
+
+MK 
+
+sp 
+
+cp 
+
+
+= Armour Class 
+= Hit Dice or 
+Level 
+
+= Number of 
+Attacks 
+= Alignment 
+= Fighter 
+= Magic User 
+= Monk 
+= silver pieces 
+= copper pieces 
+
+
+MV = 
+hp = 
+
+D = 
+
+S 
+T 
+C 
+
+gP 
+ep 
+
+PP 
+
+
+Movement Rate 
+current 
+hit points 
+Damage 
+
+Size of Monster 
+Thief 
+Cleric 
+gold pieces 
+electrum pieces 
+platinum pieces 
+
+
+Non-player characters (NPCs) are introduced 
+throughout the text where they are most likely 
+to be encountered. When introduced, their 
+statistics are shown in an abbreviated form 
+with all combat and movement adjustments 
+already figured in. 
+
+
+The Situation 
+
+The principal source of the evil besetting 
+Dunador is Lord Edrin, brother to the deceased 
+King Halfred and uncle to young Prince 
+Edmund. All his life, Edrin has lived in the 
+shadow of his older brother, nursing feelings of 
+envy and spite toward the relation whose very 
+existence barred him from access to the power 
+he craved. A decade ago, with Halfred and most 
+of his key advisors away at war, Edrin tried to 
+seize the throne. The coup failed and the 
+quaking younger sibling was forced to throw 
+himself at Halfred's feet upon the sovereign's 
+return. Despite his compassionate heart, the king 
+was obliged to punish his scheming brother. 
+Stripped of most of his titles and land, Edrin was 
+sent south, there to reside in a modest castle as 
+the minor lord of a small and poor principality. 
+Motivated both by his vaulting ambition and by 
+a new bitterness at his brother's treatment of 
+him, Edrin almost immediately renewed his 
+plotting and slowly rebuilt his power base. A 
+cornerstone of his strategy was to forge a secret 
+alliance with Aimar, Duke of Andevar, a small, 
+but important province on the northern border of 
+Dunador. 
+
+Unwilling at first to throw his lot in with Edrin, 
+Aimar's heart has changed in recent years due to 
+Halfred's "injustice" toward him. Having twice 
+lost parcels of land as a result of the king's 
+rulings and having all too often seen his overly 
+harsh judgments in civil matters overturned by 
+the king's justice. Aimar has become 
+increasingly estranged from his lord. The latest 
+affront to Aimar's pride was an estate transfer 
+just last spring favoring the king's old friend, 
+William Menote, patriarch of Fontenmere. It was 
+the loss of this rich tract of cropland that finally 
+drove Aimar into Edrin's arms. Together, Lord 
+Edrin and Duke Aimar have plotted for months, 
+awaiting their chance. 
+
+
+A Death in Dunador 
+
+The plotter's chance finally came just a few days 
+ago. While hunting in a rugged corner of the 
+royal game preserve, Halfred was struck in the 
+neck by an errant arrow and killed instantly. 
+Some of those present wondered aloud whether, 
+in fact, the shot was an accident, but there were 
+witnesses in sufficient number to label it 
+"misadventure." 
+
+While the witnesses quibbled, the clerics abored. 
+But all for naught. Attempts to raise the king 
+from the dead mysteriously failed. Only Lord 
+Edrin and his assassin knew that the deadly 
+projectile that felled Halfred was an unusual 
+arrow of slaying whose effects would defy all 
+remedy. 
+
+
+DM Background 
+
+
+With the untimely death of King Halfred, the 
+Dunador's political situation has rapidly 
+deteriorated. The Royal Council, under the 
+direction of Hollend, announced to the people 
+that Prince Edmund will be king. Lord Edrin, 
+however, has challenged the proclamation, 
+putting forth his own claim to the throne. There 
+are those at the court and elsewhere who support 
+him. Only reverence for the old king and 
+widespread esteem for Hollend have, for the 
+moment, checked Edrin's plans. 
+
+After lengthy and tough negotiations, it has been 
+agreed that Edmund will be king, but that Edrin 
+will become regent during the period until 
+Edmund can be located and plans for his 
+coronation at Fontenmere Abbey can be finalized. 
+In exchange for holding the throne for the young 
+prince, Edrin has forced Hollend and the royal 
+Council to accept him as next in line for the 
+crown. In this dark and foreboding atmosphere, 
+the great and near great of Dunador breathlessly 
+await Edmund's return to Dunthrane. 
+
+All, that is, except Edrin. As regent, he has 
+moved quickly. King Halfred's guards have been 
+removed from Dunthrane. In their place Edrin has 
+installed his own knights and has officially taken 
+command of the military. Hollend and the Royal 
+Council have no men-at-arms at their disposal at 
+this rime. 
+
+Naturally, Hollend fears for Prince Edmund's 
+safety. Wandering about in the wilds of northern 
+Andevar, the young prince is a perfect target for 
+assassination. Officially. Aimar (Duke of 
+Andevar) has stayed neutral on the issue of 
+succession, but Hollend suspects the worst. If 
+only loyal warriors could be placed at Edmund's 
+disposal! But the old cadre of loyal palace guards 
+has been scattered to the winds under the 
+command of officers loyal to Edrin. Without 
+trustworthy military retainers at his disposal, the 
+old king's advisor has been forced to consider a 
+desperate plan. 
+
+Working in utmost secrecy, the aged Hollend has 
+recruited a party of rugged adventurers to locate 
+Edmund and bring him safely home. Bold and 
+dangerous men have been brought in haste to 
+southern Andevar, there to meet with Hollend to 
+plan the most dangerous move in a dangerous 
+game. Should this plot be revealed, none can 
+expect to escape with their heads since the 
+employment of a private mercenary force to 
+locate and bring in Edmund can only be viewed 
+as treasonous when the Royal Guard is already 
+mounting its own official search. How easy it 
+would be to lay at the feet of the plotters a 
+purpose less wholesome than ensuring the safety 
+of the young prince. How readily would Edrin 
+leap at such a revelation in order to extend the 
+duration of his regency on the pretext that the 
+very foundations of the state were threatened by 
+treason so close to the throne. 
+
+
+2 
+
+
+
+
+
+
+A Pilgrimage to Andevar 
+
+A few weeks before King Halfred's death, 
+Prince Edmund embarked on a long pilgrimage 
+to the holy shrine of Nevron in the Veronian 
+Mountains For generations the princes of 
+Dunador have made this holy trek on foot. Such 
+a show of piety, humility, and devotion has 
+always been thought most seemly in a man who 
+would be king. Further, according to the sages, 
+drinking from the sacred waters of Nevron 
+would enhance an heir's wisdom and strength. 
+
+Thus, dressed in gray pilgrim's robes and 
+accompanied by only a handful of lightly armed 
+retainers, young Edmund set out on his 
+pilgrimage at just that moment when his 
+presence would be mostly sorely missed. By 
+now he has been gone almost a month and his 
+exact whereabouts are unknown. Fost in 
+contemplation somewhere i 
+n the high mountains, it is doubtful that the 
+young prince even knows of his father's fate or 
+his people's need. Armed only with a true heart, 
+a youthful piety, and a beggar's bowl, the prince 
+is, in Hollend's considered judgment, extremely 
+vulnerable. 
+
+Flollend has by no means underestimated his 
+opponent's cunning or ruthlessness, either. Even 
+as the king's advisor has moved to recruit his 
+ream of mercenary rescuers, the Duke of 
+Andevar's men have seized the prince in the 
+Veronian Mountains. Lord Edrin has instructed 
+Aimar to kill Edmund, but the duke is no fool. 
+Fledging his bees, Aimar has taken Edmund to a 
+secret stronghold just beyond the northern 
+frontier of his realm. 
+
+Flere, at Griffon Castle on the banks of the 
+Laine River, young Edmund is held captive by 
+order of the duke. As long as the power struggle 
+continues, his fate is in the wind. If Edrin's bid 
+to take the kingdom is completely successful, 
+Aimar will surely kill Edmund. If Edrin fails, 
+then the duke can release the prince and claim 
+to be his savior. Nor has Aimar ruled out the 
+possibility of simply selling the young prince to 
+the highest bidder. For the moment, Aimar has 
+reported to Edrin that he can't find Edmund. 
+
+Meanwhile, the evil regent has taken matters 
+into his own hands. Unwilling to rely too 
+heavily on his newly recruited henchman, he 
+has sent a group of his own men-at-arms to 
+Andevar to look for the prince, and, at the same 
+time, loot Fontenmere Abbey. Disguised as 
+brigands, Edrin's men have sacked Fontenmere 
+by this time and made off with the royal seal 
+and scepter of Dunador. Without these precious 
+symbols, no coronation can take place. Ruthless 
+and diabolical. Lord Edrin has left little to 
+chance. 
+
+Ultimately, then, the group of adventurers must 
+accomplish two things: secure the release of 
+Prince Edmund and recover the artifacts 
+required for the prince's coronation. 
+
+
+Synopsis 
+
+The following is a brief synopsis of these 
+background events given in chronological 
+order. 
+
+The Heir Apparent, Prince Edmund, embarks 
+on a pilgrimage to the Shrine of Nevron in the 
+Veronian Mountains of Andevar. 
+
+King Halfred of Dunador is slain in a hunting 
+accident near the royal castle at Dunthrane. 
+
+Hollend, head of the Royal Council, 
+announces that Prince Edmund will be 
+crowned king upon returning from his 
+pilgrimage. 
+
+Lord Edrin, brother to the late king and uncle 
+to the prince, challenges Hollend's 
+proclamation and puts forth his own claim to 
+the throne. 
+
+The king's retainers, led by Hollend. strike a 
+bargain whereby Edrin becomes regent until 
+Edmund is crowned at Fontenmere Abbey. 
+Thereafter, Edrin will be next in line for the 
+succession. In exchange for these concessions, 
+Edrin agrees to recognize Edmund's claim to 
+the throne. 
+
+Working in utmost secrecy and entirely 
+without the knowledge of the Royal Council, 
+Aimar, Duke of Andevar, seizes Prince 
+Edmund and imprisons him at Griffon Castle. 
+
+Hollend seeks the aid of a party of 
+adventurers to enter Andevar, find Prince 
+Edmund, and return him safely to Dunthrane. 
+Lord Edrin's men, in the guise of brigands, 
+sack Fontenmere Abbey, stealing the royal 
+seal and scepter of Dunador. 
+
+The parry of mercenary adventurers retained 
+by Hollend meets secretly with their employer 
+at the Three Feathers Inn in the south of 
+Andevar. 
+
+The adventure begins. 
+
+Names and Places 
+
+Aimar, Duke of Andevar: Secular authority in 
+the northern province of Dunador. His men 
+have seized Prince Edmund and now hold him 
+at Griffon Castle. 
+
+Livery: A gold lion on a blue field. Aimar's 
+elite citadel guards and close lieutenants wear a 
+gold lion on a gray field instead. 
+
+Andevar: Northern province of Dunador and 
+general location of this adventure. 
+
+Barbarian Bridge: Main crossing of the River 
+Laine, located north of the Capel Tower. 
+
+Capel Tower: Northern outpost of Andevar, 
+currently occupied by Lord Edrin's men. 
+
+Drake & Castle Inn: Roadside tavern at the 
+foot of the Veronian Mountains. 
+
+Dunthrane: The capital of Dunador and the 
+site of the royal court. 
+
+Dunador: The kingdom whose future is now 
+at stake. 
+
+
+Edmund, Prince of Dunador: Heir to the 
+throne and son of the late King Halfred. His 
+deliverance is the main object of the quest. 
+
+Edrin, Regent of Dunador: Uncle to the 
+prince and brother to the late king. He is the 
+main villain in this piece. 
+
+Livery: A black raven on a dark gray field. 
+Fontenmere Abbey: Traditional coronation 
+seat of the kings of Dunador. It is located in 
+Andevar, to the west of Montinelle. 
+
+Griffon Castle: Secret fortification of the 
+Duke of Andevar where Prince Edmund is held 
+captive. 
+
+Halfred, King of Dunador: The departed 
+sovereign whose untimely death precipitated 
+the present crisis. 
+
+Livery: A light blue cross of Dunador on a 
+canary yellow field. 
+
+Hollend: Chief advisor to the late king and 
+head of the Royal Council. He is also Prince 
+Edmund's main supporter. He has hired the 
+party for this quest. 
+
+Kirkroy, Knight of Andevar: A henchman of 
+the Duke of Andevar who will await the party 
+at Barbarian Bridge. 
+
+Lusian Forest: A large wood in Andevar, 
+rumored to be the site of some great evil. It is 
+known to the local peasants as "the Darkwood." 
+Montinelle: The principal fortress of Andevar 
+and home to Duke Aimar. 
+
+Shrine of Nevron: The holy shrine, located in 
+the Veronian Mountains, which is the object of 
+Prince Edmund's quest. Its magical waters are 
+said to bestow wisdom and strength upon the 
+true heir to the throne of Dunador. 
+
+Three Feathers Inn: The tavern where the 
+party first meets Hollend. 
+
+Veronian Mountains: The high range marking 
+the northwest frontier of Andevar. 
+
+William Menote: Patriarch of Fontenmere 
+Abbey and senior cleric of Dunador. Menote is 
+an old friend of the late king and a supporter of 
+Prince Edmund. 
+
+A number of other, less important NPCs are 
+mentioned in the text as they 
+are encountered. 
+
+
+3 
+
+
+
+
+
+
+
+
+As a first step in preparing for the adventure, 
+pick one of the PCs to receive Hollend's 
+message. Preferably, this should be a fighter, 
+ranger, or fighter multi-class of good alignment. 
+Someone of neutral alignment is also 
+acceptable. Look mainly for leadership qualities 
+in this adventurer. He will be responsible for 
+"recruiting" the rest of the party for a dangerous 
+mission. 
+
+In order to make the circumstances of the 
+adventure more plausible, it will be necessary to 
+establish some connection between Hollend and 
+this individual that explains why Hollend would 
+place such trust in him. If this adventure is 
+being used as an isolated adventure, you can do 
+this very easily simply by indicating that the 
+chosen individual once served as a mercenary 
+captain in Dunador and so is well known to 
+Hollend. 
+
+If, on the other hand, you are fitting this 
+adventure into an ongoing campaign, a less 
+direct connection may be appropriate. In this 
+case, make it the character's father who served 
+Dunador. and indicate chat there is some "debt 
+of honor"that the father once promised to pay 
+by either coming to Hollend's aid at need or 
+sending his kin to pay his debt. In this latter 
+scenario, Hollend trusts the character because 
+his father vouches for him. The son takes on the 
+mission at the father's request. 
+
+When the leader has explained to the players 
+how it is that he has been summoned co appear 
+in Dunador, he informs them that on a certain 
+day they must travel to the Three Feathers Inn, 
+located in the Dunadorian province of Andevar. 
+Aside from this infonnation and whatever hints 
+the leader may drop as to the reward that can be 
+expected for serving the head of Dunador's 
+Royal Council, the players will know nothing of 
+their mission until briefed by Hollend. They will 
+enter Andevar from the southwest (see map 
+reference for "Start Here.") 
+
+Once the party is assembled and enters 
+Andevar. read the following passage to them. 
+
+
+It is with some apprehension that you enter 
+the kingdom of Dunador. By now. rumors 
+have traveled far and wide that things are 
+not well in this troubled land. The king of 
+Dunador has been killed, felled bv an arrow 
+in what may have been a hunting accident, 
+but might just as easily have been murder. 
+Whatever the true late of King Halfred. it 
+is now known far and wide that Dunador is 
+a kingdom without a king. As you cross the 
+frontier into this realm, it is clear that a 
+great sadness is abroad. Everywhere the 
+peasants have built mourning pyres and the 
+air is thick with the heavy aroma of holy 
+incense, certain signs of a sovereign's 
+death. 
+
+
+The Three Feathers Inn is a safe haven for 
+anyone in Prince Edmund's service. Rolfe, the 
+innkeeper, once served in King Halfred's army 
+and remains entirely loyal to the cause of 
+Edmund and Hollend. 
+
+When the party arrives at the Three Feathers, 
+Rolfe, who has been briefed by Hollend, 
+recognizes its leader either from past 
+acquaintance or from Hollend's description. If 
+the party's leader is the son of one of Hollend's 
+former comrades in arms, Rolfe (who also 
+served with the father) identifies the son via 
+some family resemblance. After identifying 
+himself, the innkeeper leads the party to a back 
+room where Hollend awaits them. 
+
+
+At first, there is no sign of the king's chief 
+advisor. Just an old itinerate tinker in the 
+hooded, travel-stained cloak of his 
+profession. But when the figure stands and 
+throws back his hood, there is no mistaking 
+him for any such thing. Tall, gaunt, and 
+hatchet faced, Hollend wears authority like 
+a suit of armor. Though quite aged now, the 
+steel-gray beard still merges with a healthy 
+head of curly hair and the sun-darkened skin 
+exhibits a glow of health. Striding across the 
+room, he grasps each ff your hands and 
+welcomes you individually to Dunador. As 
+he greets you, his icy blue eyes examine you 
+as if appraising your worth. 
+
+
+Inviting the party to break their fast, Hollend 
+directs them to a table laid with a simple meal 
+of ale, bread, and cheese. While they eat, he 
+contents himself with asking them about their 
+trip and deftly prying from hem details about 
+their backgrounds. Once he is satisfied that the 
+party meets his requirements for skill, 
+boldness, and trustworthiness, Hollend speaks 
+more seriously.. 
+
+
+"Welcome, my friends, to this troubled 
+land. Your arrival is timely indeed and 
+thank you for your haste. By now, you 
+have doubtless heard of the death of our 
+king, Halfred of Dunthrane. For over 20 
+years I served him as chief advisor on the 
+Royal Council. Through war and peace and 
+feast and famine, I stood by this noble king 
+until his death not a fortnight ago. 
+
+"The story, as I say, is well-known. He 
+was hunting near the royal castle at Dun 
+thrane when a deadly arrow pierced his 
+neck. Those in his party called it an 
+accident and. by my troth, I can't say 
+otherwise. But I have my suspicions, as do 
+others. How does a yellow-clad man on a 
+white horse look anything like a deer! How 
+does any normal hunting arrow resist all 
+attempts at curing its effects! We wonder 
+
+
+much for little gain. Halfred is dead and 
+we are plunged into sorrow. 
+
+"But there is one in this realm who shed 
+no tears at the fall of Halfred. Lord Edrin, 
+the king's brother, has coveted the crown 
+of Dunador for years. A decade gone by he 
+made to seize it when my liege was gone 
+to war, but he was stopped then while 
+Halfred yet lived. This time, there may be 
+no such grace for Dunador. With the king 
+gone and our first tears of grief not yet dry 
+upon our cheeks, he strode into the Royal 
+Court with his black-clad knights to claim 
+the throne. Only the sorrow of the people 
+and the meager opposition of the Royal 
+Council has thus far prevented him from 
+taking the realm for his own. Already he 
+has made himself regent of Dunador. 
+
+"And thus we come co the purpose of our 
+being here. There is one man -little more 
+than a boy, really- who can save us. 
+Prince Edmund, Halfred's son and heir, 
+should rightly wear the crown. And so he 
+shall if he can but be spared the fate which 
+I suspect his uncle of plotting for him. 
+
+"For, you see, Edmund is lost now to the 
+eyes of man. Just before his father's death, 
+he set off on a pilgrimage to the Shrine of 
+Nevron in the Veronian Mountains of our 
+northern province of Andevar. For gener 
+ations, the heirs apparent of Dunador have 
+made this pilgrimage to the waters of 
+Nevron. The sages say that drinking from 
+the sacred waters give a prince the wisdom 
+and strength to rule this realm when the 
+rime comes. I know not of this, but such 
+devotion does much to win the hearts of 
+the people. 
+
+"We pray that Prince Edmund will return 
+soon from this pilgrimage, but we have 
+reason to believe that he is not safe in 
+Andevar. Aimar, the duke of this province, 
+is a self-seeking man who might turn a 
+blind eye to the prince's welfare if it served 
+his purpose. Worse still, this Aimar may be 
+in alliance with Lord Edrin. This is my 
+worst fear, for if that be so, then my prince 
+is in mortal danger in Andevar. Edrin has 
+sworn to protect the Prince but to believe 
+his word is to be less than a fool. Assassins 
+may already be abroad in Andevar, with or 
+without Duke Aimar's blessing. 
+
+"Currently we do not know where 
+Edmund is. Such is the nature of his pil 
+grimage. On foot with only a few men in 
+pilgrim's garb. Edmund travels inconspic 
+uously. By now he may have reached the 
+Shrine of Nevron. We don't even if the 
+prince has heard of his father's death. In 
+an); event, he must be found and brought 
+safely back to Dunthrane Castle. If Prince 
+Edmund dies, the realm will be crushed 
+
+
+4 
+
+
+
+
+
+
+
+
+
+
+
+
+Adventuring in Andevar 
+
+
+beneath the heel of this dark Lord Edrin. 
+
+"On behalf of the Royal Council, and in 
+the utmost secrecy, I am asking you to 
+enter Andevar and find Prince Edmund 
+before it is too late. Anything you can leam 
+of the Duke of Andevar's motives will also 
+be of value to us, and we will pay well for 
+such knowledge. But, it is the safety of the 
+prince that is of greatest concern. 
+
+"I suggest you begin your search at 
+Montinelle, the capital of Andevar and the 
+home of Duke Aimar. Keep your eyes 
+open and discover what you can of Aimar's 
+disposition and the whereabouts of Prince 
+Edmund. If this should prove profitless, the 
+road through Montinelle will carry you 
+directly to Nevron. where you ma); find the 
+hunting better. 
+
+"But, whatever you do, remember this. At 
+no time should you reveal the nature of 
+your quest. If you are taken and your 
+mission discovered, you will certainly die 
+most horribly, and the Royal Council's 
+position will 
+
+become extremely difficult. You will be 
+wise to pass yourselves off as soldiers of 
+fortune or, perhaps, as emissaries of a 
+foreign country. Conceal your identities as 
+you will. 
+
+"Also, mark well one other thing. In this 
+whole region of Andevar, you can only 
+trust two men: the patriarch of Fontenmere 
+Abbey, William Menote, and Rolfe, the 
+innkeeper here at the Three Feathers. If 
+pressed, you may seek refuge there or here. 
+
+"If you succeed in this quest to find and 
+save the prince, you will have the undying 
+gratitude of this kingdom and the certain 
+knowledge that you have saved it. More co 
+the point, you will also be rewarded 
+handsomely for your efforts. I beg you to 
+accept this mission and I pray that you 
+succeed in it." 
+
+
+After this speech, Hollend gives the parry 200 
+gp with which can buy provisions for the trip. 
+He is also prepared to offer them fresh horses 
+should they request them. Finally, he gives the 
+parry's leader small portraits of Prince 
+Edmund and William Menote, patriarch of 
+Fontenmere, and a rough map of Andevar 
+showing some (but not all) of the province's 
+key features. This map (Map 1) does not show 
+Eli's cottage, Griffon Castle, or the secret path 
+through Noren's Wood. 
+
+
+
+In view of the long distances to be covered it is 
+assumed that the PCs will use horses to journey 
+through Andevar. Most of the time the horses 
+will be walking with a movement base of 12 
+"(12 heres per day in clear areas; 5 heres per 
+day in the Lusian Forest, Noren's Wood, the 
+Veronian Mountains, and the Moorland). 
+Galloping will at least double this movement 
+base to 24" for short periods. Galloping over 
+long distances, however, exhausts a mount 
+and you should keep track of such conditions. 
+After a 20-mile gallop a horse will be almost 
+ready to drop dead! 
+
+In the event that the party finds itself afoot, it 
+will travel at the rate of four hexes per day in 
+most of Andevar. Travel afoot through the 
+Lusian Forest, Noren's Wood, or the Veronian 
+Mountains is at the rate of two hexes per day. 
+
+Road Encounters Table 
+
+Roll ld6 
+
+1 20 Brigands (AC 6, MV 24"; hp 5 each; 
+FI; #AT 1; D 1-8; AL E) with one leader 
+(AC 6; MV 24 "; hp 20; F3; #AT 1; D 1-8; 
+AL E). Each brigand is mounted on a light 
+horse (AC 7; HD 2; hp 12 each; MV 24"; 
+#AT O; S L; AL N). Each brigand carries 
+1-20 sp, 1-10 gp, and a sword. The leader 
+carries 50 gp and a sword. 
+
+2 15 Bandits (AC:; MV 24"; hp 5 each; D 1- 
+6, AL E). Each bandit is mounted on a 
+light horse (AC 7; MV 24"; HD 2; hp 12 
+each; #AT O; S L; AL N). Each bandit is 
+armed with a lance and short sword, and 
+each carries 1-20 sp and 1-10 gp. 
+
+3 10 Berserkers (AC 7; MV 12"; hp 6 each; 
+FI; #AT 2; D 1-8; AL N). Each berserker 
+carries 1-20 sp, a sword, and an axe. 
+
+4 A merchant caravan that has been sacked 
+by its guards. Only six survivors can be 
+found: four men and two women. They 
+have no possessions other than the clothes 
+on their backs but, if escorted to 
+Montinelle, they generously reward 
+anyone who assisted them. 
+
+5 10 Goblins (AC 6; MV 6"; hp 6 each; HD 
+1; #AT 1; D 1-6; AL E). Each goblin 
+carries a club and 1-20 sp. 
+
+6 3 Jackalweres(AC 4; MV 12"; hp 20 each; 
+HD 4; #AT 1; D 2-8; AL E). The members 
+of this hunting pack at first appear 
+disguised as pilgrims and claim to be 
+either on their way to the Shrine of Nevron 
+(if the party is headed in that direction) or 
+on their way home from the shrine (if the 
+party is headed away from Nevron). The 
+jackalweres cry to join the party "for 
+protection." If permitted to do so, they 
+work into position for a surprise attack at 
+close quarters. If denied this opportunity, 
+they attack immediately. 
+
+
+The Road Encounters Table indicates the 
+wandering monsters that are found on the 
+open roads of Andevar. For every 40 miles of 
+open road traveled, check once for an 
+encounter which occurs on a roll of 1 on ld6. 
+Use the Road Encounters Table when the party 
+is traveling along any roads except the path 
+through Lusian Forest or the track leading to 
+the Shrine of Nevron. 
+
+If the party insists on plunging into the 
+surrounding wilderness, then refer to the Off- 
+Road Encounter Table to determine what 
+encounters they have. The Off-Road 
+Encounters Table is used only for cross 
+country travel in areas other than the Lusian 
+Forest. Cross-country movement is impossible 
+in the rugged Veronian Mountains. For every 
+20 miles of wilderness traveled, check once 
+for an encounter which will occur on a roll of 
+1 or 2 on ld6. 
+
+Off-Road Encounters Table 
+Roll ld6 
+
+1 25 Brigands (AC 6, MV 24"; hp 6 each; 
+FI, #AT 1; D 1-8; AL E) with one leader 
+(AC 6; MV 24"; hp 22; F3; #hT 1; D 1-8; 
+AL E). Each brigand is mounted on a 
+light horse (AC 7; MV 24"; HD 2; hp 12 
+each; #AT 0; S L; AL N). Each bandit is 
+armed with a sword and carries 3-30 gp. 
+The leader carries 60 gp. 
+
+2 20 Gnolls (AC 5; MV')"; hp 10 each; HD 
+2; #AT 1; D 2-8; AL E) with one leader 
+(AC 5; MV 9"; hp 16; HD 3; #AT 1; D 2- 
+8; AL E). Each gnoll is armed with a 
+sword and carries 2-12 ep. In addition, 
+five of the gnolls carry great bows and the 
+rest carry polearms. The leader is armed 
+with a sword and carries 8 gp. The gnolls 
+are accompanied by six hyenas (AC 7; 
+MV 12"; hp 10 each; HD 3: #AT 1; D 2- 
+8; AL N). 
+
+3 15 Wild Dogs (AC:: MV 15": hp:. HD 1 
++1; #AT 1; D 1-4; ALN). 
+
+4 20 Hobgoblins (AC 5; MV 9"; hp 7 each; 
+HD 1 + 1; #AT 1; D 1-8; AL E) of the 
+Ripper tribe. Each hobgoblin carries a 
+sword and 2-8 gp. 
+
+5 2 Perytons (AC 7; MV 24 "; hp 22. 20; 
+HD 4; #AT 1 ( + 2 to hit), D 4-16, AL E). 
+These winged carnivores are extremely 
+hungry, having hunted for some time 
+without success. They can be harmed 
+only by magical weapons. 
+
+6 9 Wolves (AC 7; HD 2+2; hp 14 each; 
+#AT 1; D 2-5; S S; ALN). 
+
+
+5 
+
+
+
+
+
+
+
+
+
+Montinelle is the stronghold of the Duke of 
+Andevar. It consists of an octagonal area 
+approximately 270 feet from side to side 
+enclosed by a 40-foot-high stone curtain wall. 
+The wall is broken at each comer by a guard 
+tower. Each of the eight towers (T1-T8) about 
+the castle has a ground-level chamber with a 
+spiral staircase leading 60 feet up to a trap door 
+and the open parapets above. Each of the lower 
+chambers is a combination armory and 
+guardhouse containing locked weapons racks 
+holding spears, lances, maces, crossbows, and 
+bolts), oil barrels, two small beds, and a stove 
+and pantry area for catering. At any time, one 
+guard will be off duty in the lower guardhouse 
+and one will be above on the parapets. All the 
+guards are human. 
+
+The Tower Guard Roster lists all tower guards. 
+Each wears a blue tunic with the gold lion 
+insignia of the Duke of Andevar. 
+
+The two gatehouses flanking the southern 
+entrance each contain a lower chamber used as a 
+guardroom. There are no armories in these 
+guardrooms. Spiral stairs lead from the lower 
+chambers to the parapets above. Each 
+guardroom contains a pair of small beds, a 
+fireplace equipped with iron pothooks, and a 
+cabinet housing heavy crockery, pots, and 
+cooking utensils. The western gatehouse also 
+contains a rude table and chair and a rough shelf 
+full of dusty ledgers along the north wall. It 
+serves as an office to the sergeant-at-arms who 
+keeps a sketchy record of the comings and 
+goings through the southern gate. If questioned, 
+the guards atop the eight wall towers direct all 
+travelers to the office of the sergeant-at-arms. 
+
+Leaving Montinelle 
+
+Upon approaching the southern gate, the party is 
+stopped by two castle guards armed with swords 
+(AC 6; MV 12 F3, hp 22; #AT 1; D 1-8; AL 
+
+N). Over their chainmail they wear blue tunics 
+with the gold lion of the Duke of Aimar on the 
+breast. The guards immediately call the sergeant- 
+at-arms (AC 6; MV 12"; F4; hp 34, #AT 1; D 1- 
+8; AL N) who also wears the Andevar livery over 
+his chainmail. He subjects the characters to 
+routine questioning as to their business inside 
+Montinelle. If satisfied that they have a 
+legitimate errand inside the castle and aren't 
+going to cause trouble, he orders the group to 
+enter his office and sign the register book on the 
+table that serves as his desk. If the characters 
+offer a bribe of 2 gp or more, the sergeant-at- 
+arms lets them look at the register. It shows that 
+"Edmund of Dunthrane" entered Montinelle 10 
+days previous, leaving the castle on the following 
+morning. Immediately below the entry showing 
+Edmund's departure is the name "Kirkroy," a 
+reference to an individual who apparently left 
+Montinelle shortly after the prince. In truth, 
+
+
+Kirkroy is the agent who followed the prince 
+and abducted him.. 
+
+The interior of Montinelle is divided into seven 
+areas: 
+
+A. The Market 
+
+B. Peasant Huts 
+
+C. The Jousting Field 
+
+D. The Reviewing Stand 
+
+E. Stables 
+
+F. Barracks 
+
+G. The Citadel 
+
+Entry to areas C through G is restricted. Any 
+attempt to force an entry during daylight 
+arouses the castle guards patrolling the market, 
+guarding the stable and main gate, and relaxing 
+in the barracks. As soon as a disturbance is 
+noted, the gate is closed. Sustained 
+disturbances attract a company of 20 guards 
+from the citadel. In addition, in the event of a 
+general melee, 4-16 guards from the wall 
+towers also appear. 
+
+Arrest and Imprisonment 
+
+Obviously, investigations conducted inside 
+Montinelle must be performed with a certain 
+discretion. Open melee or unsophisticated 
+questioning that draws attention to the party will 
+lead to the characters' arrest. Points of special 
+danger occur when the party is in the market 
+trying to locate a source of information; if and 
+when the party attempts to bribe the sergeant-at- 
+arms in order to get a look at his records; if and 
+when the party tries to gin entrance to the 
+citadel. In any of these three instances, 
+suspicions will be aroused unless a plausible 
+cover story is presented that adequately explains 
+why information is being sought. 
+
+Should the suspicions of individuals who are 
+not guardsmen be aroused, they report the 
+matter to the guard. Should isolated guardsmen 
+become suspicious, they let the group go about 
+its business until they can quietly summon 
+overwhelming force to the vicinity. Once a 
+superior force of guardsmen arrives or a melee 
+breaks out, the guard tries to arrest the 
+characters. Beggars, merchants, servants, and 
+peasants do not become involved in the affair, 
+but there are 47 fighters in the castle who do: 
+
+
+Sir Bracken, 16 tower guards. 20 castle guards, 
+the sergeant-at-arms, and 10 citadel guards. 
+
+The characteristics of the tower guards have 
+already been described. Except where other 
+wise noted, castle guards are (AC6. MV 12"; 
+F3; hp 24; #AT 1; D 1-8, AL N). All citadel 
+guards are (AC 3; MV 9"; F6; hp 40; #AT 1 or 
+2; D 1-8 with sword, 1-6 with bow; AL LE). 
+Each guard (of any type) carries 2-20 gp. Cita 
+del guards wear over their plate armor gray 
+tunics with gold lions to indicate their special 
+status. The rest of the guards are, unless other 
+wise noted, equipped only with chaimnail and 
+wear the blue and gold livery of Andevar. 
+
+Sir Bracken is (AC 2; MV 3"; FG, hp 44; #AT 
+1; D 2-8; AL LE). In addition to his sword +1, 
+he carries a special net of entrapment with one 
+remaining charge. In melee, he uses this 
+device to incapacitate anyone within a 10-foot 
+radius of the target area. The net, when cast, 
+acts so quickly that escape from its grasp is 
+highly unlikely. Each player is entitled to a 
+saving throw on ld20. but an unmodified roll 
+of 20 is needed to evade the net. Those who 
+fail to save are disarmed and totally incapaci 
+tated, unable even to cast a spell. Sir Bracken 
+will use the net when it will have the maxi 
+mum effect, inside or outside the citadel. 
+
+Throughout any melee, it is the intent of Sir 
+Bracken and his men to capture the party by 
+any means. While willing to injure and 
+incapacitate, they are reluctant to kill and 
+repeatedly call on the party to surrender. 
+
+If arrested or subdued, the members of the 
+party are disarmed, stripped of their armor and 
+tunics and taken to cell D4 of the dungeon. All 
+of their gear is stashed in or next to the large 
+chest in the jailor's office (Dl). Sir Bracken 
+accuses the characters of being spies and 
+threatens them with individual interrogation at 
+a later time, but they will never actually be 
+harmed. If the characters ask to see the duke, 
+they are informed that Aimar is not currently 
+in residence at the castle. Should Sir Bracken 
+use the net of entrapment to aid in the capture 
+of the group, he comments to the members of 
+the parry on how upset he is at having had to 
+use up the last of the net's power and how he 
+intends to make them regret causing him to do 
+so. 
+
+
+Tower Guard Roster 
+
+
+Location 
+
+Class/Level 
+
+AL 
+
+Weapons 
+
+T1 
+
+F2 
+
+LN 
+
+sword, bow 
+
+
+F3 
+
+LN 
+
+sword, bow 
+
+T2 
+
+F4 
+
+LN 
+
+sword, crossbow 
+
+F3 
+
+LN 
+
+sword, bow 
+
+T3 
+
+F4 
+
+LN 
+
+sword, bow 
+
+F3 
+
+LN 
+
+sword, crossbow 
+
+T4 
+
+F5 
+
+LN 
+
+sword, bow 
+
+F3 
+
+LN 
+
+sword, spear 
+
+
+Combat Bonus 
+
+Armor 
+
+AC 
+
+hp 
+
++1 with bow 
+
+chain 
+
+7 
+
+14 
+
+
+chain 
+
+6 
+
+21 
+
+
+plate 
+
+4 
+
+26 
+
++1 with bow 
+
+chain 
+
+6 
+
+22 
+
+
+splint 
+
+7 
+
+34 
+
++1 with X-bow 
+
+chain 
+
+7 
+
+27 
+
++1 with bow 
+
+banded 
+
+6 
+
+37 
+
+
+chain 
+
+6 
+
+26 
+
+
+6 
+
+
+
+
+
+
+
+
+
+Montinelle 
+
+
+A. The Market 
+
+The entire southern portion of the castle 
+grounds is an open market area studded with 
+gaily colored tents, canopied merchant stalls 
+and small enclosures housing numerous 
+varieties of common livestock. The vendors at 
+this market fair have available for purchase at 
+normal prices all of the items listed on page 36 
+of the Player's Handbook other than weapons 
+and armor. Fine clothes, silks, linens, and 
+sundry art objects may also be found, but at 
+slightly inflated prices (normal price plus 10 
+to 20 percent). 
+
+The market areas is thronged with peasants, 
+merchants, and the ever-present beggars. 
+Ominously, there seem to be members of the 
+castle guard everywhere, filing between the 
+stalls in ones and twos, their eyes open for 
+trouble. You should point out to the players at 
+some time during their passage through this 
+area that at least one pair of guards is eyeing 
+them with suspicion. 
+
+If the players attempt to obtain information at 
+the market fair, they draw a blank from the 
+ignorant peasants. Even market regulars know 
+little. However, any merchant or beggar 
+approached by the party will eventually, in 
+exchange for a few gold pieces, direct them to 
+a certain Lemus, a peasant living in the 
+cottage marked with an in area B2 of the 
+Montinelle map. Beyond this, no one in 
+Montinelle seems to know anything except his 
+own business. 
+
+B. The Peasant Huts 
+
+The peasants who work the land surrounding 
+the castle are housed in this cluster of squalid, 
+mud-daubed, wattle-and-thatch huts. Apart 
+from Lemus and the odd porcine house pet, 
+there is virtually nothing of interest in this 
+area. If the players insist on making a detailed 
+examination, treat them to a tour of almost 
+identical, dirt-floored dwellings containing 
+only straw pallettes, crude cooking facilities, 
+wall pegs for clothing, a roughly carpentered 
+table and chairs, and perhaps a plank fixed to 
+one wall as a pantry. Between the hours of 6 
+a.m. and 6 p.m. only the very old and the very 
+young will be found in this area. All able- 
+bodied men and women are at work in the 
+fields or the market. 
+
+The cottage marked is, as noted, the home 
+of Lemus, an ancient, crippled beggar who 
+was once a warrior in the king's service. 
+Despite the wretchedness of his current 
+condition, Lemus remains a loyal king's man. 
+Moreover, Lemus has recently spoken with 
+one of the prince's companions and has reason 
+to be suspicious of strangers inquiring 
+concerning Edmund. 
+
+Unless he is satisfied that the members of the 
+party are friendly to the king. Lemus provides 
+them with no information. At first, he 
+
+
+questions them closely. Once he is certain that 
+they are no threat to the king's interests, he 
+becomes willing to answer questions 
+concerning Edmund, providing that first his 
+tongue is loosened by a few pieces of silver or 
+a skin of wine. He then provides the following 
+entertainment in a voice cracked with age: 
+
+"Twas more'n week gone by now. I seen the 
+young prince an' his companions. Ha! 
+Dressed as pilgrims, they was. But pilgrims 
+don't wear shiny gold on they fingers nor 
+has bright neck braces winkin' under they 
+gray pilgrims' cloaks. Knew 'em right off. I 
+did. Knew 'em an' spoke to one. Nay the 
+prince, but another. We spoke a bit, spoke o' 
+the old days, o' Dunador an' the king. 
+Oh,'twas grand, all right. Grand. He give me 
+gold afore he left. A proper gentleman, he 
+was. 
+
+"I pray they did well. But that be somethin' 
+
+I ain't too sure 'bout. They was nervous like, 
+an' I heard one atellin' young Edmund as 
+'ow they was still bein' followed an' 'ad 
+better get on to Nevron an' see to they 
+business. That seemed t' set em to movin', 
+an' they slipped out the next day, quiet like. 
+Headin' for Nevron an 1 them cursed 
+mountains, I 'spect." 
+
+
+Though this is all that Lemus knows of the 
+prince's party, he does have one more bit of 
+news which he provides if plied with more 
+money or wine: 
+
+
+"Well, aye. there be one more thing tha may 
+be o' interest, seein' as 'ow you be eager t' 
+learn.'Twas day afore yesterday, I guess. A 
+monk come in wearin' the habit o' 
+Fontenmere. Straight to the tower there e 
+rode, an' ain't no one seen 'im since. No, nor 
+heard what happened to bring 'im 'ere. 
+Which is real strange, ya see, cause it ain't 
+that often that folks ride in on horses all 
+lathered an' with a arrow stickin' outa they 
+monkish backs. Yep, well. If I was a curious 
+man, which I ain't, I'd sure be wonderin' 
+what 'appened t' that monk and why ain't 
+nobody can get nothin' about 'im outta them 
+guards up t' the citadel. Yeah. I sure would 
+wonder." 
+
+
+Having imparted these two valuable bits of 
+information, Lemus declines to provide further 
+useful knowledge, answering all additional 
+queries by returning to how he "jes' couldn't 
+'elp wond'rin' 'bout that monk." 
+
+C. The Jousting Field 
+
+The 40-foot by 130-foot open area near the 
+west wall is Duke Aimar's jousting field. It is 
+divided into lists by three low, open fences 
+
+
+running its length. In the absence of the duke, 
+there is no activity in this area. 
+
+D. The Reviewing Stand 
+
+The reviewing stand is a 5-foot-high open 
+platform of raw, weathered lumber topped by 
+an open wooden framework used to support a 
+canopy during tournaments. Since no tourna 
+ments are planned in the near future, the 
+canopy over the reviewing stand, the skirts that 
+normally hide its supports, and the chairs that 
+normally occupy the platform have all been 
+stowed under the stand. 
+
+E. The Stable 
+
+The long, low stone stable houses 30 light 
+horses, together with all manner of riding gear. 
+At the back of each stall is a generously filled 
+oat bin. A castle guard stands at each entrance, 
+and a stable boy is busy tending to the 
+livestock. 
+
+F. The Barracks 
+
+The solid structure at F is a sturdy stone 
+barracks built directly into the curtain wall 
+surrounding Montinelle. At any given time 
+there will be 3-10 guards wiling away their 
+off-duty hours inside the structure. Without 
+their armor, the guards are (AC 10; MV 9"; 
+F3; hp 20: #AT 1; D 1-8; AL LN). If roused, it 
+rakes them two rounds to get their swords; 
+they never waste time doming their armor. 
+
+The interior of the barracks is a single low 
+room. Ten rickety cots line each of the long 
+walls. Suspended from the foot of each cot is 
+an equipment pack. There is a small fireplace 
+equipped for cooking in the center of the south 
+wall. It is flanked by wooden plank shelves 
+groaning under the weight of various cooking 
+implements and provender bins. Bags of spices 
+hag from the nearby rafters. Opposite this 
+fireplace is a long trestle table and a pair of 
+benches. Beneath this table, obscured by a 
+shaggy rug fashioned from the skin of some 
+obscure animal, is a trap door leading to a 
+secret underground passage that connects these 
+barracks with the dungeon below the citadel. 
+
+In addition to the miscellaneous equipment in 
+the equipment packs hanging from the foot of 
+each bed, a complete ransacking of the 
+barracks will turn up 5-100 gp and 100 600 sp 
+in coins. 
+
+G. The Citadel 
+
+Dominating Montinelle is Duke Aimar's 
+citadel. Its single, unhidden entrance in the 
+south wall is guarded by a pair of tough 
+looking citadel guards in the gray and gold of 
+the Duke of Andevar. Any attempt to enter 
+this way, whether by negotiation or force, 
+results in Sir Bracken's arrival. Any further 
+attempt at entry, whether by force or as a 
+
+
+7 
+
+
+
+
+
+
+
+
+
+Map 3: Montinelle (ground level) 
+
+
+
+1 square = 10 feet Note: walls are 40 feet high, towers are 60 feet high. 
+
+
+
+MB CO - 
+
+Secret Door 
+
+0 
+
+
+
+
+
+S 
+
+Trap Door (in floor) 
+
+
+111111"" 
+
+
+Spiral Stairs 
+
+Stairs 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+result of an invitation, results in Sir Bracken 
+casting his net of entrapment over the group in 
+an attempt to arrest them. If a confrontation 
+occurs outside the entrance, Sir Bracken casts 
+the net from the shadows just inside the 
+gateway. Otherwise, he waits until the group is 
+already inside the citadel to spring his little 
+surprise on them. 
+
+Citadel Main Level 
+
+A cruciform hallway divides the main level of 
+the citadel into four chambers. When opened, 
+the trap door in the west arm of the hall of this 
+level reveals a flight of spiral stairs leading 
+down to the jailor's office (Dl) below. The 
+staircase in the north arm of the hall leads 
+directly to an open landing on the upper level. 
+
+1. Sir Bracken's Room 
+
+
+The entire northwest corner of this chamber 
+is dominated by a mahogany four-poster 
+with drawn gray velvet curtains. A large one 
+drawer ironwood desk is located beside it. 
+Against the south wall is a bulky cabinet, 
+flanked by a pair of heavy, iron-bound oaken 
+chests. Every square inch of the available 
+wall space seems to be occupied by 
+weaponry or shields. Some are in pristine 
+condition. Others, obviously battle trophies, 
+are twisted and dented to the point of 
+uselessness. A few of the less serviceable 
+items are graced with crusty brown stains. 
+
+
+The locked drawer of the desk contains a ring 
+of keys and a diary. The keys unlock all of the 
+citadel's doors except for those giving access to 
+the wine cellar and to the duke's rooms. The 
+diary is Sir Bracken's personal chronicle of the 
+mundane events characterizing garrison life for 
+many months in the past. The last entry, several 
+days old, consists only of the name "Kirkroy" 
+on a page by itself. 
+
+Both of the chests against the south wall are 
+securely locked. That to the left of the cabinet 
+contains 100 gp worth of silks and fine linens. 
+Beneath these is a small locked chest containing 
+300 gp and 400 sp. The chest to the right of the 
+cabinet contains an unpainted shield, a jewel- 
+inlaid short sword worth 200 gp. a broadsword 
+and two long swords, all extremely well-made. 
+The tall cabinet contains two dozen skins and a 
+score of fine tunics befitting a knight of high 
+station. At the rear of the cabinet hangs a suit of 
+chain mail of a type commonly used in jousting. 
+A large footlocker built into the cabinet holds a 
+small saddle inlaid in silver (600 sp). 
+
+Located in the bedpost nearest the desk is a 
+secret compartment about four feet from the 
+floor. By sliding back a cunningly hidden panel 
+in the post, the characters gain access to this 
+
+
+recess where they find a 10-inch hollow tube of 
+mithril. This is a chime of opening with 10 
+charges. If pointed at a lock of any kind, includ 
+ing a held portal or wizard-locked door, striking 
+the chime opens the lock or portal. However, 
+each use of the chime causes it to emit a loud, 
+resonating tone which attracts anyone or any 
+thing in the vicinity. Each striking of the chime 
+uses one charge and unlocks one lock. Thus, a 
+door, lid, or portal locked by more than one 
+means would require more than one striking of 
+the chime in order to open it. For example, it 
+would take four charges to open a locked, 
+chained, wizard-locked, and padlocked chest. 
+Striking the chime within 10 feet of a concealed 
+door automatically opens that door regardless of 
+whether the user knows that the door is present. 
+
+2. Barracks of the Citadel Guard 
+
+
+The north and south walls of this chamber 
+are each lined with five sturdy oak beds 
+strewn with warm furs. To the left of each 
+bed is a tall oak wall cabinet. 
+
+
+All of the cabinets are locked. Inside, each is 
+divided horizontally into a pair of compart 
+ments. The left compartment contains one or 
+more shirts of varying quality, a pair of gray 
+guardsman's tunics, several pairs of matching 
+hose, a guardsman's dress bonnet and a pair of 
+parade shoes. A shelf at the top of this com 
+partment contains small items of personal 
+gear: toiletries, razors, dice, and the like. 
+Racked against the walls of the right compart 
+ment of each cabinet is an assortment of nor 
+mal weapons, including a bow with a quiver of 
+arrows, two or three spears, and two cased 
+shields in the colors of Andevar. Also hanging 
+loose in this compartment is a collection of 
+leatherwork. Some is dyed a bright yellow and 
+is clearly part of the guardsman's dress har 
+ness. The rest consists of plain brown or black 
+belts, bracers, caps, and other (mostly non 
+regulation) items. The cabinet directly to the 
+south of the door contains a spear +1 and a 
+small sack stuffed with 300 sp. 
+
+3. Kitchen and Pantry 
+
+
+What could this be but a kitchen! Almost the 
+whole of the north wall is taken up by a 
+combination iron stove and oven. The rest of 
+the walls are occupied from floor to ceiling 
+with a massive shelving arrangement, 
+containing an orderly array of post, pans, 
+bowls, crocks, bags, boxes, and tins. 
+Bunches of hard sausages and cheeses, 
+drying herbs, and vegetables adorn every 
+rafter. The floor space is occupied by a 
+jumble of tables and carts holding butcher 
+blocks and breadboards. An aged, bald, 
+
+
+stoop-shouldered little serving man In a 
+greasy white smock stands at one of these, 
+mindlessly fussing with a batch of bread 
+dough. 
+
+The fellow occupied with making the day's 
+bread is one Matlocke (AC 10; MV 6"; T3. hp 
+12; #AT 0; AL NE). This greasy little man, the 
+Duke's cook, is noted among his peers for both 
+his cowardliness and his aversion to the 
+truth. Formerly a member of the guard, 
+Matlocke is now far too old to fight, a 
+profession for which he never had much taste 
+anyway. Long since retired to the kitchen 
+service, he has prospered in a mean way by 
+tyrannizing lesser servants and picking the 
+pockets of the guards whenever he thinks he 
+can get away with it. 
+
+Suspended from a leather thong around 
+Matlocke's neck is a small dagger and a pouch 
+containing 10 sp. Otherwise, he has no posses 
+sions of note. 
+
+If left unattended by the members of the party. 
+Matlocke summons the citadel guard at the 
+earliest opportunity If an unwary party member 
+approaches too closely, he has a 30% chance of 
+losing something from his pecker to Matlocke's 
+nimble fingers. If the characters bribe or 
+threaten him, Matlocke will, in answer to the 
+proper questions, reveal the entire sum of his 
+knowledge, including the following: 
+
+"Och. aye! The prince an' them others left 
+Montinelle jus' this past ten-day. I guess we 
+weren't supposed to know who they was, 
+but it was plain as the nose on yer face, if 
+ya 1 take my meaning." 
+
+"Nay, 'is lordship, the duke, ain't in the 
+castle. What's more,'e 'asn't been home fer a 
+week. Gone north, they say." 
+
+"Kirkroy! Aye, sure. Everybody knows 
+Kirkroy. Why.'e's the duke's strong right 
+arm! Chief hiresword an' champion-at- 
+arms. that's Kirkroy. But 'e ain't in the castle 
+now. Naw. 'e left right after the prince did." 
+
+"Och, well now. Let's see. 'Twas maybe a 
+week ago that we got news o' the king's 
+death. That was then the duke rode out 
+leavin' orders fer a patrol to go after the 
+prince and tell 'im about 'is father's death. 
+Caught up with 'im by now. I 'spect." 
+
+
+4. Storage Chamber 
+
+The door to this chamber is locked. 
+
+
+Clearly a larder of some sort, this chamber is 
+panelled in some dark, rough insulating 
+wood. The west wall is lined with deep 
+shelves on which are stacked dozens of large, 
+bulging gunny sacks. Along the east wall are 
+half a dozen casks. There are four great north 
+upright barrels against the north wall. 
+
+
+9 
+
+
+
+
+
+
+
+
+
+
+
+
+
+The barrels hold drinking water; the sacks 
+contain grain and flour; the casks hold oil of 
+varying quality. 
+
+Behind the barrel in the northwest corner of 
+the chamber is a secret door. If the players push 
+outward on the wall panel behind this barrel, 
+the panel slides back to reveal a concealed 
+room beyond. Stacked to the ceiling of this 
+room are dozens of small oak casks of fine 
+brandy, mead, and ale. On a table against the 
+north wall is a small leather-bound box. Inside 
+is a vial of clear liquid -a potion of sweet 
+water. 
+
+Citadel Upper Level 
+
+From the landing on the upper level, an 
+adjacent staircase leads to a trap door high in 
+the ceiling. Above this trap door are open-air 
+parapets which are constantly patrolled by 1-4 
+of the citadel guards. 
+
+5. Bathing and Privy Chamber 
+
+The eastern portion of this bathing cham 
+ber is occupied by a shallow, marble-inlaid 
+pool. A garderobe, its door now hanging 
+ajar, is built into the northwest comer. 
+
+
+6. Study and Meeting Chamber 
+
+
+From the richly veined rose marble of the 
+fireplace in the northeast comer to the vel 
+vet smoothness of the dark walnut pan 
+eling, this room exudes an aura of wealth. 
+The floor is covered by what is obviously a 
+costly and very antique carpet of indeter 
+minate hue. Three wine-colored uphol 
+stered armchairs are clustered around the 
+fireplace. Against the north wall is a small 
+bookcase of some dark wood enclosed by a 
+pair of leaded glass doors. Against the west 
+wall is a carved walnut desk with a beauti 
+ful matching high-backed chair. Half-a- 
+dozen shadowed portraits bearing the 
+accumulated grime of centuries stare down 
+on the opulence. 
+
+
+This chamber is Aimar's study. 
+
+The single locked drawer in the desk con 
+tains the duke's estate ledger. A quick look is 
+sufficient to indicate that Andevar is far more 
+prosperous than it looks. A closer examination 
+reveals much concerning the duke's affairs, 
+including the information that a substantial 
+parcel of land north of Fontenmere Abbey and 
+its proceeds were transferred from ducal 
+authority to the control of William Menote, 
+Patriarch of Fontenmere. This entry notes that 
+the transfer, ordered by King Halfred in order 
+to "provide for the maintenance of the abbey 
+at Fontenmere," has been accomplished 
+
+
+entirely "against the will of and under strong 
+protest by the Duke of Andevar." 
+
+Also stored in the desk drawer is a solid gold 
+paperweight in the shape of a lion worth 200 
+gp. Finally, in the very back of the drawer, is an 
+apparently long-forgotten scroll. This is a 
+cursed magic-user's scroll: any magic-user who 
+reads it and fails to save vs. spells suffers a 
+devastating, psionic-like mental attack. Losing 
+both mind and personality, the victim is 
+reduced to a vegetable state (a la feeblemind) 
+with an Intelligence of 1. Speech and rational 
+behavior are no longer possible; only basic 
+motor functions remain. A successful alter 
+reality or remove curse spell can restore the 
+victim to normal functioning. 
+
+If the drawer is removed completely, a keen 
+eyed character notices a slim cord in the back 
+of the drawer cavity. Pulling this cord draws 
+forth a small secondary drawer from the back 
+of the desk. Within is a magic-user's scroll of 
+ESP. 
+
+The bookcase contains four score handwritten 
+books, many on the history of Dunador. A 
+thorough examination of titles turns up one on 
+the role of religion and the state in Dunadorian 
+society written by William Menote, Patriarch of 
+Fontenmere, and dedicated to "Good King 
+Halfred." 
+
+7. The Great Hall 
+
+
+The most prominent feature of this large, 
+finely appointed chamber is a long, carved 
+oak trestle table lined with sumptuous high- 
+backed, carved oak chairs upholstered in 
+wine-red leather. Running the length of the 
+south wall is a caved limestone fireplace. 
+Above the mantle hangs a gold lion coat-of- 
+arms. The other walls are clothed in fine 
+antique tapestries whose slightly frayed 
+appearance only confirms their great age 
+and enhances their worth. Three large, gold 
+candelabra rest atop the table. There is a 
+glass-doored oak cabinet in the northeast 
+corner. 
+
+
+The candelabra are worth 200 gp each. The 
+cabinet contains a silver service with a total 
+value of 1.000 gp. The gold lion coat-of-arms, 
+set into a wooden plaque, is worth 500 gp. It can 
+be pried out of its mounting for easier carriage. 
+
+8. Servants' Quarters 
+
+
+The plainness of this chamber and its fur 
+nishings is in sharp contrast to the elaborately 
+carved door in the south wall. Against this 
+masterpeice of the woodworker's art, the mis 
+matched pair of beds, the two dented 
+dressers and the duo of shabby night 
+
+
+stands that make up the room's contents 
+seem strangely out of place. Only the glossy 
+animal skin rug in the center of the floor 
+looks like it really belongs here. 
+
+
+These are the quarters of the duke's body 
+servants. The door in the south wall leads to 
+the duke's bedchamber. It is securely bolted 
+from room 9,has 50 hp, and can only be 
+opened from room 8 if a knock spell is used or 
+if the door is smashed to pieces. The chime of 
+opening will not work against this simple bolt. 
+
+Each nightstand contains a locked drawer. 
+One drawer contains a sack of 50 ep, the other 
+a sack of 20 gp. The rug is the pelt of a giant 
+beaver. A ranger or a character with 
+furrier/trapper secondary skill recognizes its 
+worth: 1,000 gp. 
+
+9. The Duke's Chamber 
+
+The door to the duke's chamber is locked and 
+wizard-locked. It can be opened by expending 
+two charges from the chime of opening. In 
+addition, a magic-user of the 6th level or 
+better can automatically open the door once 
+the normal lock is dealt with. Lesser magic- 
+users must cast a knock spell in order to do so. 
+The door (which has 50 hp) can also be 
+broken down with an axe. 
+
+
+A large, ornately carved four-poster occu 
+pies the southeast corner of the chamber. Its 
+bottle-green curtains are tied back to show 
+that it is empty. Centered in the north and 
+west walls are a pair of doors That in the 
+north wall is flanked on one side by a five- 
+drawer dresser and on the other by a tall 
+cabinet whose double doors are inlaid in 
+gold foil with the ducal coat of arms. A 
+small chest sits atop a table in the southwest 
+comer. The walls are decorated with fine 
+tapestries. 
+
+
+Once inside the room, the party is attacked 
+by an invisible stalker (AC 3; MV 12 "; HD 
+8; hp 50; #AT 1; D 4-16; AL N). The creature 
+is invisible (-4 to hit). 30% resistant to magic, 
+and is solely devoted to the purpose of 
+defending Aimar's chamber. In melee, the 
+characters suffer a -4 penalty to hit unless 
+they can see invisible objects and creatures. 
+The invisible stalker fights to the death. 
+
+The cabinet is locked. Within are two score 
+fine tunics, a score of pantaloons and dozens 
+of shirts and pairs of stockings. Hanging in a 
+separate compartment from the clothing is a 
+suit of chain mail +2 in perfect condition and 
+suitable for a large elf, half elf, or human. 
+Also in this compartment is a battle axe +1 
+and a broadsword +1. 
+
+The top drawer of the dresser contains a 
+
+
+10 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jumble of jars and bottles filled with sundry 
+salves and powders. Most are perfectly mun 
+dane, but a large jar marked "K. S." contains five 
+applications of Keoghtom's Ointment. 
+
+The locked chest holds 1,500 gp and 500 sp, in 
+addition to the duke's neck brace of office worth 
+
+200 gp. 
+
+Below the table containing the chest is a loose 
+flagstone covering a hidden recess in the floor. 
+Here lies Aimar's spellbook, containing the fol 
+lowing: magic missile, shocking grasp, charm 
+person, jump, read magic, wizard lock, ray of 
+enfeeblement, and fireball. Beside the spellbook 
+is a small leather pouch containing a vial of liq 
+uid. This is a specially magicked antidote to the 
+cursed magic-user's scroll from room 6. Consum 
+ing all of this liquid restores the victim's facul 
+ties. It does not remit maladies stemming from 
+any cause other than this scroll. 
+
+Citadel Dungeon Level 
+
+The downward spiral stairs on the ground level 
+lead directly to room D1 of the dungeon. 
+
+Dl. Jailor's Office 
+
+
+A guttering torch stuck in a bracket set into 
+the east wall provides little light and less 
+warmth to this dank chamber of morticed 
+stone. A filthy cot against the north wall is 
+occupied by a dark-clad sleeping figure in 
+grimy leather breeches and vest. Beside the 
+bed is a big, iron-bound oak chest. 
+
+
+The sleeping figure is Ranu, the jailor (AC 7; 
+MV 6"; F4; hp 26; #AT 1; D 1-6; AL LN). 
+Nestled on the bed next to him (and obscured by 
+his body) is a heavy club. A set of keys to all of 
+the dungeon's cells hangs from his belt. 
+
+The chest contains a motley collection of rusty, 
+old weapons and bits of decaying armor. If any 
+player characters have been captured, their 
+weapons and armor ate also inside. Beneath the 
+chest, under a loose flagstone, is Ranu's treasure 
+trove of 50 gp, 800 sp, 3,000 cp, and a large 
+amount of cheap jewelry worth 100 gp. 
+
+D2. Wine Cellar 
+
+The door to this room is locked. Sir Bracken 
+carries the key on a chain around his neck. 
+
+
+Clearly, the duke keeps his wine cellar well 
+stocked. Row upon row of dusty bottles 
+glitter in half a dozen ceiling-high racks set 
+perpendicular to the north wall. Against the 
+south wall, on either side of the door, are a 
+dozen small casks resting in multi-tiered 
+cradles. 
+
+
+All of this wine, which is the product of local 
+vineyards, is quite excellent. 
+
+
+Map 4: Montinelle 
+(citadel) 
+
+
+Level II (upper level) 
+
+
+
+Note: above level II are open-air parapets. 
+
+
+
+Dungeon (lower level) 
+
+
+Secret 
+
+Underground 
+
+Passage 
+
+
+
+n 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+D3. Torture Chamber 
+
+
+If the chains and manacles suspended from 
+the main ceiling beams didn't indicate this 
+chamber's purpose, the great rack and wheel 
+in its center would do so. Clearly the duke 
+takes the task of interrogation seriously. 
+Suspended from hooks lining the west wall 
+are a variety of tongs, pincers, nd other 
+grisly looking tools, none of which seem 
+like they could possibly have any 
+wholesome purpose. Next to the door in the 
+west wall is a large, deep brazier equipped 
+with a sort of bellows. Set into the north, 
+east, and south walls of the chamber are 
+seven sturdy doors, each of which is 
+equipped with a covered peephole. 
+
+
+The seven doors lead to individual cells. Each 
+4x4 inch wooden peephole cover is closed 
+with a simple dead bolt. Sliding back the bolt 
+allows the cover to swing back so that the cell 
+within can be examined without having to 
+actually open the door. The cell doors are 
+locked from the outside with both key locks 
+and heavy dead bolts. 
+
+There is a secret door in the north wall of the 
+chamber. Pulling a loose stone in that wall 
+causes a counter-weighted segment of the wall 
+to slide back revealing the secret passage lead 
+ing to the barracks outside the citadel. A simi 
+lar arrangement on the other side of the wall 
+can be used to open and close the secret door 
+from the passageway. Behind the loose stone 
+on the dungeon side of the wall is a locking 
+ring. If twisted to the right, it closes a bolt, 
+preventing anyone from opening the secret 
+door from the passageway. 
+
+D4. Jail Cell 
+
+
+This grimy, mean little room appears to be 
+partly constructed of limestone blocks and 
+partially cut from the living bedrock below 
+Montinelle. Moisture oozes from the rock 
+and soaks the decaying straw strewn over 
+its rough flags. In several places the damp 
+straw has been piled high to make a kind of 
+nest for sleeping. The air is thick with the 
+miasma left by the countless poor wretches 
+who have been forced to accept its hospi 
+tality in the past. 
+
+
+If captured, the party is confined together in 
+this large cell. Under a pile of straw in the 
+northwest corner, the characters can find a 
+loose flag. With much effort, it can be pried 
+loose. Underneath, they find a blunted dagger, 
+a rusty file, and a piece of a broken shield. By 
+making use of the dagger and shield fragment 
+as digging tools, a hearty dwarf should 
+
+
+be able to break through the west wall where 
+another loose stone covers the beginnings of a 
+previous excavation. Five to eight hours of dil 
+igent digging opens a way into the corridor 
+west of the cell. 
+
+If the party includes a thief, he might be able 
+to jimmy the bolt locking the peephole and 
+reach across to pick the lock securing the cell 
+at shoulder level. Since this task must be 
+performed by touch alone, it will be difficult, 
+but hardly impossible. Once the lock has been 
+picked, a heavy item might be used to knock 
+back the door bolt (which can't be jimmied). 
+Be lenient here. If the players come up with a 
+thoughtful and viable escape plan, they should 
+be rewarded with success. All other cells 
+except D5 are empty. Use the description for 
+D4 as the basic description for all of the other 
+cells in the dungeon. 
+
+D5. The Monk's Cell 
+
+Like the other cells, D5 is partly constructed 
+of mortared stone and partly cut from the 
+bedrock under the castle. The description of 
+cell D4 will serve to convey its general 
+appear-ance. In addition, the cell contains 
+another feature: 
+
+
+Lying face down in the center of the cell is 
+a tonsured man in a white woolen monk's 
+robe, now filthy and tattered. The entire 
+back of the robe is stained a rusty brown. At 
+a distance, the man looks thoroughly 
+deceased. 
+
+
+If the characters enter the cell and examine 
+the prisoner, they find that he is still alive, 
+though barely so. If revivied and given drink 
+to moisten his parched lips, he speaks. 
+
+
+"Alas, brothers, I fear that you are too late. 
+Already, I feel that coldness that so often 
+presages the coming of the reaper. He 
+cannot now be far from me, friends, so 
+listen well. I have news that must reach the 
+king's counselors. Know you, that there is 
+much treachery abroad in this land, and now 
+its hand has touched even that which all 
+good men hold sacred. 
+
+"I am called Theran, and I am a monk of 
+Fontenmere. For long years have we loyally 
+carried out the king's charge in our peaceful 
+abbey, but now that is at an end. For red- 
+handed death has fallen on our scented 
+fields and quiet halls of prayer. Two days 
+gone by, the abbey was attacked by the 
+foulest of brigands. What may have been 
+the outcome of their depredations I know 
+not, for I was ordered by my master, the 
+patriarch, to flee hence and beg succor from 
+the king's liegeman at Montinelle. 
+
+
+"Horror and death! Horror and death! E'en 
+as I rode out on this fool's errand, one of the 
+swine put an arrow deep in my back. 'Twas 
+only the spirit and intelligence of my 
+faithful mount that allowed me to come 
+here at all. Bleeding and exhausted, with 
+the screams of my brothers still ringing in 
+my ears, I rode into Montinelle and laid my 
+lord's charge before Sir Bracken. But the 
+black-hearted scoundrel would not hear me. 
+Instead of aid, he gave me this cell in which 
+to die. 
+
+"Aye. you understand too well. I can see it 
+in your faces. The hired man. Bracken, 
+would ne'er be so bold on his own. Such 
+treachery must go deeper-to the very seat 
+of Andevar and the person of the duke 
+himself. Only orders from the lord of this 
+place could have left me caged in this 
+dungeon while murder was committed at 
+Fontenmere Long has Aimar tended his 
+anger against Fontenmere for the loss of 
+lands that he deemed his own. Now it 
+seems he has had his revenge. 
+
+"Hear me, friends. I die now. But first I lay 
+on you this charge. If you be true men of 
+Dunador. ride now to Fontenmere and see 
+what fate has befallen the king's abbey. The 
+council must know of what happened there 
+for Aimar's treason cannot possibly end at 
+Fontenmere. Unless they are timely warned, 
+I fear for our land. Unless..." 
+
+
+With this last word, the monk gives a rattling 
+cough and dies. Since the monk suffers from 
+blood poisoning, a cure light wounds spell 
+does nothing to prolong his life. A slow 
+poison spell will, however, prolong the 
+monk's life, and he passes out instead of 
+dying. Even if he remains alive, he is unable 
+to provide additional information or 
+assistance other than guiding the parry to 
+Fontenmere. In fact, he is too weak to do 
+much more than sit a horse. If revived, Theran 
+is (AC 7; MV 12"; Mk 4; hp 16; #AT O; AL 
+LN). A careful examination of the monk's 
+robe reveals an object sewn into its hem. The 
+item is a gold ring bearing the cross of 
+Dunador; it is a ring of protection +1. 
+
+Leaving Montinelle 
+
+Any conspicuous attempt to leave Montinelle 
+arouses the castle guards. If the parry has 
+escaped after having been arrested, any 
+visible attempt to leave the castle arouses the 
+guards unless the characters are somehow dis 
+guised. Should the guards become aroused by 
+an attempted exit, 4-16 guardsmen form a 
+mounted pursuit group and try to overtake 
+
+
+12 
+
+
+
+
+
+
+
+
+
+
+
+
+Fontenmere Abbey 
+
+
+and slay the parry. The mounted guardsmen 
+have (AC 7; MV 24"; F4; hp 28; #AT 1; Dl-6; 
+AL LN). They carry lances and swords. Their 
+mounts are (AC 7; MV 24 "; HD 2; hp 14; 
+#AT 0; S L; ALN). 
+
+Once pursued, if the characters fail to 
+maintain a 24" movement rate or if they do 
+not take appropriate evasive action, the guards 
+overtake them within 20 miles of Mon-tinelle. 
+The guardsmen break off their pursuit after a 
+30-mile chase or if they lose two-thirds of 
+their force. 
+
+
+While you are still well east of the abbey, it 
+is obvious that all is not well. A wreath of 
+pungent smoke hangs over the site. As you 
+approach, details become clear. The wisps 
+of smoke that float in the still air emanate 
+from the bumed-out ruin of a small wood 
+and stone structure north of what appears to 
+be the main building. The great doors in the 
+south wall of this latter structure have been 
+knocked off their hinges. Two dead men in 
+white monks' robes are sprawled on the 
+front steps before the doors. Their bodies 
+have been savaged by some animal. All of 
+the visible windows have been wholly and 
+partially smashed. Your view of the interior 
+through the open doorway shows a vista of 
+smashed pews and debris. 
+
+
+1. Office _ 
+
+The door to this chamber is smashed open 
+and the chamber devastated. All of the 
+furniture is smashed to kindling and torn 
+papers and rare illuminated manuscripts are 
+scattered amid the wreckage. 
+
+
+There is nothing of real interest here. 
+
+2. Monks' Living Quarters 
+
+
+The four beds in this spartan chamber have 
+been overturned and their straw tifcks have 
+been slashed open. There is a movement in 
+the southeast corner. 
+
+
+Disturbed by the noise, two large spiders 
+which have only recently entered the chamber 
+through the broken window in the east wall 
+crawl out from under some debris in the 
+comer. Each has (AC 6; MV 18"; HD 2 +2; 
+hp 17. 15; #AT 1; D 1-6 c poison 2; AL N). A 
+victim bitten by a spider must save vs. poison 
+at + 1 or die within six rounds. Hidden by the 
+debris is a chest containing 400 gp. 
+
+3. Writing Room 
+
+
+The door to this chamber is open. Six tall 
+writing desks lay toppled over on the floor 
+of this chamber. Many writing materials- 
+quill pens, ink wells, papers, and blotters - 
+lie scattered about the room. The lifeless 
+body of a monk is slumped against the 
+south wall. 
+
+
+The monk has been hacked to death with 
+swords. On the floor beside the body is the 
+word "Capel," written in a mixture of spilled 
+ink and blood. This clue indicates that the 
+royal seal and scepter of Dunador have been 
+
+
+spirited away to Capel Tower. Before dying, 
+the monk heard one of the "brigands" make a 
+reference to this fortification in the north of 
+Andevar. 
+
+4. Monks' Quarters 
+
+
+The smashed remnants of four twisted 
+bedsteads and four splintered footlockers 
+lie scattered about this chamber. A dozen 
+savagely torn monks' habits and the tick 
+ing from the beds is strewn across the stone 
+flags. 
+
+
+A careful examination of the room uncovers a 
+flat wooden case under one of the beds in the 
+southwest comer. The case holds a magical 
+crossbow +1. 
+
+5. West Chapel 
+
+
+This antechamber seems almost intact. The 
+altar in the center of the room seems 
+undamaged, though it lacks its normal 
+adornment. Even the prayer benches 
+remain in place. Their kneeling cushions 
+have, however, been ripped open and the 
+stuffings scattered about the floor. 
+
+
+There is nothing of interest here. 
+
+6. East Chapel 
+
+
+The altar piece in this chapel is unharmed 
+though, like the others at Fontenmere, it 
+lacks its altar cloth and service. A trap door 
+in the floor has been ripped open to reveal a 
+flight of stairs leading into the blackness 
+below. 
+
+
+The stairs end in an open door. This area is a 
+single-room wine cellar (30x30 feet). Standing 
+behind the door is a thief named Menlow. 
+armed with a short sword. Having heard the 
+party above and having no escape route, he 
+intends to ambush whomever comes into the 
+room. Menlow is (AC 7; MV 12"; T4; #AT 1; D 
+1-6; AL CN). He attempts one surprise attack 
+from the rear. If outnumbered or overmatched, 
+the pragmatic Menlow surrenders after making 
+this one attack and begs for mercy. 
+
+Menlow wears leather armor and carries the 
+following in his pack: two bottles of good 
+quality wine; two altar cloths (50 gp each); two 
+gold goblets that bear the abbey's insignia (50 
+gp each); a golden cross of Dunador (150 gp); 
+and a set of thiefs tools. Hidden in a leather 
+pouch inside his tunic he carries 10 gp. 40 sp. 
+and a parchment in the form of a letter 
+addressed to "Holland at Dunthrane." This brief 
+handwritten note reads as follows. 
+
+
+13 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Honored Friend, 
+
+There is grave news. I have learned that 
+Lord Edrin's men-at-arms have entered 
+Andevar. Through an arrangement with 
+the duke, they have made their headquar 
+ters at Capel Tower along our northern 
+border. The location is, as we both well 
+know, an ideal base for scouting the trails 
+through the Veronian Mountains. I fear 
+now for the Prince's safety. Take care and 
+look to yourself. 
+
+Your Devoted Friend, 
+William 
+
+
+The letter is obviously from William Menote 
+to Hollend. Its authenticity can be established 
+beyond doubt by comparing the handwriting 
+to that of any documents in the patriarch's 
+chamber (room 8). 
+
+Menlow has looted this leather pouch from 
+the body of a monk who was preparing to 
+leave for Dunthrane when the brigands (Lord 
+Edrin's men in disguise) attacked, although 
+also a chief in his own right, Menlow is cur 
+rently acting as an agent of Sir Bracken, the 
+commander of the Duke of Andevar's castle at 
+Montinelle. At Bracken's order, he has come to 
+Fontenmere to investigate the report of this 
+attack. Having established the facts in the 
+matter, he is to meet Kirkroy. the Duke's 
+champion, at Barbarian's Bridge (north of 
+Capel Tower) and report his findings. From 
+the patriarch's letter and his own observa 
+tions, Menlow is rightly convinced that Lord 
+Edrin's men are responsible for sacking the 
+abbey. 
+
+Menlow's cover is that he is a thief returning 
+to Andevar from the far west. If bribed or 
+threatened, this is the story that he offers the 
+party. If pressed further, he provides details, 
+claiming to be heading for the Drake & Castle 
+Inn to stay with a distant cousin. He even 
+identifies Graf, the innkeeper at the Drake & 
+Castle, by name. If he is able to lull the party's 
+suspicions, Menlow, pretending to be 
+talkative, advises them to avoid the open road 
+east of Montinelle since "it be a'crawl wi' 
+brigands" and advises them to take the 
+covered route through the Lusian Forest 
+instead. He well knows that no one familiar 
+with the area would go through the dreaded 
+Darkwood and considers this bit of 
+misdirection quite clever. If an astute member 
+of the parry wonders how someone returning 
+from the west knows so much about the roads 
+to the east, Menlow becomes flustered and 
+shuts up. 
+
+Unless challenged concerning his 
+information, Menlow is quite affable with 
+party members, in an effort to lull them into 
+complacency. Whether sullen or affable, how 
+ever, the thief takes the first available 
+
+
+14 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+opportunity to escape if detained by the char 
+acters. If successful in this endeavor, he meets 
+Kirkroy at the end of three days and reports on 
+events at the abbey and the presence of the 
+party in Andevar. 
+
+Menlow knows nothing about Griffon Castle 
+or the whereabouts of Duke Aimar. 
+
+7. Chapter House 
+
+This chamber bears all the coats-of-arms of 
+Dunador on its walls. All of the shields and 
+banners are undisturbed except for one: the 
+banner of the royal house of Dunthrane, 
+which lies draped over the body of a dead 
+monk. The royal insignia bears the light blue 
+symbols of the crown, the sword, and the 
+Dunadorian cross on a field of canary yellow. 
+
+8. Patriarch's Chamber 
+
+
+This finely appointed chamber appears to 
+be a combination office and bedroom. A 
+small but comfortable-looking bed 
+occupies the southeast comer. There is a 
+small writing desk beside it. Floor-to- 
+ceiling bookcases are built into the wall on 
+either side of the door. Their contents have 
+been tumbled onto the floor. A large chest 
+lies overturned in the center of the 
+chamber. Amongst the debris littering the 
+floor is the body of a monk wearing a white 
+robe trimmed in red. 
+
+
+The body is that of William Menote, Patriarch 
+of Fontenmere, a supposition which the players 
+can easily verify by checking the portrait of 
+William Menote carried by the party's leader. 
+Within eight rounds of entering the room, 
+everyone must save vs. spell or flee the chamber 
+in terror. Those who stay see a ghostly figure 
+rise from the dead patriarch's body. The 
+transparent figure hovers for a moment and then 
+speaks in a quiet but eerie voice. 
+
+
+"I am the spirit of William Menote, once 
+patriarch of Fontenmere... now murdered. 
+Know you, mortals, that I appear before 
+you because I cannot rest. An outrage has 
+been committed here, a desecration 
+beyond all enduring. The royal seal and 
+scepter of Dunador have been stolen by 
+the forces of darkness. These things must 
+be returned. They must be brought back! 
+Without them, there can be no corona 
+tion, and no king in Dunador. Without our 
+king, there can be no peace, neither for the 
+living of Dunador nor for the dead of 
+Fontenmere! 
+
+
+So saying, the patriarch utters a wail of 
+despair and disappears. Viewing this spirit 
+
+
+does not cause unnatural fear or aging. 
+
+A small cloth pouch is tacked to the bottom of 
+the patriarch's writing desk. It holds a clerical 
+ring of spell storing with four spells: remove 
+curse, cure serious wounds, dispel magic, and 
+spiritual hammer. The ring can be used by 
+anyone and can be recharged. 
+
+9. The Royal Chapel 
+
+The walls of this chapel are broken by rows 
+of niches, each containing a fine alabaster 
+carving of one of the kings of Dunador. 
+Each carving stands 5 feet high, and the 
+name of the king it represents is etched in 
+the wall above the effigy in the common 
+tongue of the kingdom. One of the statues 
+has been smashed and the nave above it 
+partly scratched out. On the east wall, an 
+iron grid has been ripped away from a 
+recess in the scene. A finely embroidered 
+purple cushion rests on a bare marble plinth 
+in the center of the otherwise empty cavity. 
+
+
+It should be clear to the players that this is the 
+chamber that once held the royal seal and 
+scepter of Dunador. The broken statue is that 
+of King Halfred. 
+
+10. Main Altar 
+
+
+A long, semicircular stone altar rests flush 
+against the north wall. A blue and gold altar 
+cloth covers the fixture. The altar is topped 
+by a large silver cross. There is a small 
+marble font next to the altar. 
+
+
+The cross is typical of Dunadorian design, 
+having heavy balls at the end of each arm. It is 
+worth 500 gp. Hidden in a secret compart 
+ment in the base of the altar is a Superior Mas 
+ter's Manual of Bodily Health. Any monk who 
+studies this book is cured of 3-6 points of dam 
+age and all diseases and adds 1 point to his or 
+her Constitution score. A complete reading of 
+the manual requires one week. 
+
+11. Lady Chapel 
+
+
+As you are entering this chapel, you are 
+startled by the muffled sound of a grunt 
+from the northwest corner. There is a 
+strong animal smell in the air, and there 
+are coarse hairs caught in the splintered 
+frame of the door by which you are enter 
+ing the chamber. 
+
+
+A giant boar has recently entered this chamber 
+in search of food. The creature is (AC 6; MV 
+12"; HD 7; hp 46; #AT 1; D 3-18; AL N). 
+Trapped inside the chamber by the party's 
+
+
+presence, it fights to the death. 
+
+This chamber was in the process of being 
+renovated when the abbey was sacked. Scaf 
+folding lines the south wall. The various statues 
+and carvings have been cleaned with a lime 
+wash treatment to restore them to their original 
+color. The acid used in this process is not strong 
+enough for use as a weapon. In the northwest 
+comer is a pile of rags and miscellaneous small 
+files and other tools. Among the rags is a 
+leather pouch filled with 400 gp worth of gold 
+chips used for doing gold inlay. 
+
+A careful examination of the stone and wood 
+debris in the southeast comer uncovers a metal 
+arm brace bearing a small insignia in the shape 
+of a raven. The brace was dropped by one of 
+Edrin's men. It is a clue to the tme identities of 
+the brigands. 
+
+12. Kitchen House 
+
+
+This building has been razed almost to the 
+ground. Amid the jumble of charred beams 
+and broken, blackened stones are the 
+skeletal remains of half a dozen bodies. 
+
+
+The bodies are the mortal remains of four 
+monks and two servants who sought refuge 
+inside the kitchen house and were burned out 
+by the brigands. A careful search uncovers an 
+iron box containing 40 pp and a small oilskin 
+bag filled with a soft resin. This substance is a 
+special detoxin. If applied to any poisonous 
+bite or wound with eight rounds, it neutralizes 
+all ill effects. There are three applications in 
+the bag. The detoxin may be used externally 
+only. A monk will know the properties of the 
+resin and a cleric has a base chance of 60% to 
+identify it. 
+
+Behind the gutted building is a small but 
+dense stand of trees. Hidden in this tiny wood 
+is a horse, tethered to a tree. This animal, a 
+medium war horse (AC 7; MV 18; HD 2 + 2; 
+hp 17; #AT 3, D 1-6/1- 6/1-3; AL N). belongs 
+to Menlow, the thief. In the horse's saddle 
+bags are iron rations for a week, normal 
+provisions for a week, pots, pans, clothes, and 
+a bedroll. At the bottom of one of the bags is a 
+blue-enameled copper brooch used to fasten a 
+cloak. The brooch is engraved with the golden 
+lion insignia of the Duke of Andevar. 
+
+
+15 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Open Road 
+
+(Only if the group has first gone to Mon- 
+tinelle; then to the Abbey) 
+
+If the characters have visited Montinelle and 
+been identified as hostile to the duke or other 
+wise suspicious, there is one patrol of the 
+duke's men looking for them on the main road 
+from west of Montinelle to the Drake and 
+Castle Inn. If the group moves northeast on 
+the main road from Fontenmere, they are cer 
+tain to encounter this patrol which is easily 
+identified by their livery (the blue tunic with 
+gold lion of the Duke of Aimar). The horse 
+men fight to the death. They include: 
+
+1 sergeant: AC 5; MV 24"; F4; hp 36, #AT 1; 
+
+D 1-8 (sword); ALN 
+The sergeant carries 1-20 gp. 
+
+9 troopers: AC 6, MV 24"; F3; hp 22; #AT 1; 
+D 1-6 (lance); ALN 
+
+Each trooper carries 1-20 gp and a sword. 
+
+10 light horses: AC 7; MV 24"; HD 2; hp 13 
+each; #AT Nil; S L; AL N 
+
+
+The Darkwood is a dangerous place. If the 
+party chooses to follow this path, it should be 
+a memorable experience. Make three wander 
+ing monster checks; one for every 15 miles of 
+the group's progress through the forest. An 
+encounter occurs on a roll of 1 or 2 on Idb. 
+The exact nature of the encounter is found on 
+the Lusian Forest Wandering Monster Table. 
+
+Lusian Forest Wandering Monster Table 
+
+Roll Result 
+
+1 Skeletons (10): AC 7; MV 12"; hp 8 
+each; HD 1; #AT 1; D 1-6 (short sword); 
+ALN 
+
+2 Wraiths(3): AC 4; MV 12 7 24 "; hp 18, 
+22, 23; HD 5+3; #AT 1; D 1-6 (energy 
+drain); AL E 
+
+3 Zombies (8): AC 8; MV 6", hp 9, 11, 13, 
+13, 14, 15, 15, 16; HD 2; #AT 1; D 1-8; 
+ALN 
+
+4 Zombies (6): AC 8; MV 6"; hp 11, 12, 
+13, 14, 15, 16; HD 2; #AT 1; D 1-8; AL 
+N 
+
+5 Wights (4): AC 5; MV 12"; hp 16, 17, 
+13, 24; HD 4+3; #AT 1; D 1-4 (energy 
+drain); AL E 
+
+6 Wights (2): AC 5, MV 12"; hp 22, 24; 
+HD 4+3; #AT 1; D 1-4 (energy drain); 
+ALE 
+
+The Lusian Forest Wandering Monster Table 
+is used only when the party is within the 
+Lusian Forest. 
+
+Menlow does not willingly accompany the 
+party into the Lusian Forest. Only if bound or 
+closely guarded does he stay with the party 
+when they enter this area. However, once 
+inside the forest, Menlow, realizing that his 
+only hope of survival lies with the party, will 
+ingly throws in his lot with them. He fights 
+alongside the characters and uses his skills on 
+their behalf (without ever, however, admitting 
+that he has any knowledge of the forest's 
+wicked reputation). As soon as the party is out 
+of the forest, Menlow again tries to escape. He 
+does not willingly visit the Drake and Castle 
+Inn because of his fear that his talkative cousin 
+will accidentally give him away. 
+
+Upon reaching the midpoint of their journey 
+through the woods, read the following passage 
+to the players: 
+
+
+You have been traveling through this 
+dense forest for many miles. Your horses 
+seem uneasy and your own spirits droop 
+as you ride deeper and deeper into the dim 
+and brooding wood. At length, you come 
+to a widening in the roadway. In the midst 
+of a clearing grows a huge, ancient tree 
+whose arching limbs cast the otherwise 
+open area into deep shadow. Its twisted, 
+gnarled trunk exhibits numerous 
+imperfections and holes. Scattered about 
+the tree bole are the skeletons, armor, and 
+rotting garments of a number of humans 
+or humanoids. Many of the skeletal 
+figures grip rusting weapons. The air is 
+deathly still and somehow oppressive. 
+Each of you is consumed by an 
+overpowering feeling of dread. 
+
+
+The tree trunk is the dark resting place of a 
+groaning spirit (AC O; MV 15 "; HD 7; hp 36; 
+D 1-8 (touch); SA wail; AL CE). Entering the 
+25-foot by 25-foot clearing causes the groan 
+ing spirit to emanate from one of the holes in 
+the tree. The sight of this entity forces every 
+one in the party to save vs. spells or flee in ter 
+ror back down the road and out of earshot. The 
+groaning spirit attacks with its chilling touch. 
+On a roll of 1 or 2 on ld6, it wails once. 
+Whoever hears this terrible sound must save vs. 
+death or die on the spot. The groaning spirit is 
+immune to cold or electricity attacks and also 
+to the following spells: charm, sleep, and hold. 
+A successful exorcism kills the groaning spirit. 
+
+This entity is the undead spirit of a female elf, 
+once known as Lusian. A dabbler in the black 
+arts, she brought ruination on the elven 
+community who dwelt in this wood before the 
+time of man. So wicked was she that the elven 
+god, Rillifane Rallathil, bound her to this fate 
+after death. The undead in this wood are the 
+spirits of her victims. The skeletons around the 
+tree are the remains of passing adventurers. 
+Some aspiring knights and warriors of 
+Dunador, having thought to perform their rite 
+of passage" by riding through the Darkwood, 
+have paid for their arrogance with their lives. If 
+the groaning spirit is destroyed, the wood 
+becomes peaceful again. 
+
+A careful search of the debris and weaponry 
+surrounding the tree reveals a magical shield 
++1. Inside the tree trunk is a chest containing 
+4,000 gp, a potion of undead control (wraiths), 
+and a magic user's scroll lightning bolt. At the 
+base of the tree trunk, there is a long sword in a 
+scabbard. A detailed inscription on the blade 
+identifies it as a sword +1, +2 against magic 
+using or enchanted creatures (including magic 
+users, spell-casting monsters, created or 
+summoned creatures. 
+
+
+16 
+
+
+
+
+
+
+
+
+
+
+The Drake & Castle Inn is the only stopover 
+for travelers along the main road between 
+Montinelle and the Northlands, and also does 
+a small, but profitable business serving pil 
+grims bound for the Shrine of Nevron. As the 
+party approaches the inn they see three horses 
+and a pack mule tied up outside the front 
+entrance. Two horses and the mule stand apart 
+from the third horse. 
+
+If the party investigates the animals, they 
+discover that the two horses and the mule 
+belong to two merchants. The animals' saddle 
+bags and packs literally bulge with linens, 
+silks, cheap trinkets, and jewelry. The third 
+horse carries two saddle bags. One bag con 
+tains a sleeping roll and ordinary personal 
+items. The other bag holds a set of thiefs 
+tools, a throwing dagger provisions, and at the 
+bottom of the bag, a small leather pouch. The 
+pouch contains a small silver icon engraved 
+with the insignia of Fontenmere Abbey. 
+
+There are four people at the inn; a barman 
+behind the curving bar, two merchants at the 
+round table, and a figure sitting at the booth 
+in the southeast comer, huddled deep in his 
+dark, hooded cloak and trying quite unsuc 
+cessfully to look inconspicuous. 
+
+Graf the innkeeper: AC7; MV 9"; F3; hp 22; 
+#AT 1;D 1-6 (club); AL N 
+Treat him as if he wears leather armor 
+because of his heavy serving clothes. 
+
+In most respects, Graf is a true neutral. His 
+business depends on it. However, for 2 gp per 
+question, he will provide the following 
+answers (or whatever variation seems appro 
+priate) in an oily and ingratiating voice: 
+
+
+Pilgrims! Why certainly, good sirs. Pil 
+grims are something one sees a lot of at the 
+Drake & Castle. Why, just a bit over a week 
+ago I had one rather curious party in here. 
+On their way to Nevron, of course. 
+Nothing unusual in chat, but they seemed 
+too fine to be common folk. More like 
+royalty, if you catch my drift. 
+
+Riders! Why now that you ask, there was 
+one rather large parry of riders that passed 
+by last week. Why, yes. In fact, it was just 
+an hour or so after that party of pilgrims I 
+told you about. Very strange business. I 
+remember, because, you see, they didn't 
+stop in here. Unusual. This being the only 
+inn between the Three Feathers and the 
+Boar's Bride up by Coldwater in the 
+Northlands, it's not often that a party just 
+rides on by. Something else unusual, too. 
+Hot weather last week. Very hot. But they 
+were all bundled up in heavy cloaks, and 
+under the cloaks you could see blue tunics 
+peeking out as they rode. Now, I ask you, 
+who, in that kind of weather, wears 
+
+
+a tunic and a heavy cloak! 
+
+Yes, well now, Capel Tower. No mystery 
+there. Just stay on the north road here 
+instead of taking the turnoff to Nevron. 
+That'll take you right to the tower with no 
+trouble. Its right on the River Laine, just 
+about 40 miles north of here. Hardly any 
+distance at all for gentlemen such as 
+yourselves. 
+
+
+Menlow! Hmmm. Uh, yes. I do have a 
+cousin named Menlow. No close relation, 
+you understand. Haven't seen him in some 
+time now. Last I heard, he was in 
+Montinelle in the duke's service. Actually, 
+we all hoped that would straighten him out 
+a bit, but I don't suppose it has. The boy 
+was always a miserable little sneak. 
+
+
+Map 6: The Drake & Castle Inn 
+
+1 square = 10 feet 
+
+
+Main Road to Montinelle 
+
+
+
+Booths and Tables 
+Large Round Table 
+
+
+
+17 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+If Menlow is present with the party, he tries 
+(by hand motions or facial expressions) to sig 
+nal Graf to help him, but Graf assumes that his 
+blacksheep cousin is in on some secret 
+business and is indicating that he would like to 
+have his presence ignored. Thus, he studi 
+ously pretends not to recognize Menlow until 
+openly confronted with his presence. Under no 
+circumstances does Graf help Menlow escape. 
+
+Merchants (2): AC 7; MV 9"; F2; hp 10, 12; 
+#AT 1; D 1-6 (short swords); capes and 
+leather tunics; AL N 
+
+Between them, these two merchants, Fenn 
+and Swaine, carry 115 gp. They are traveling 
+to Montinelle from the far north to do some 
+business. If questioned, they remember hav 
+ing yesterday seen a motley band of hard- 
+riding horsemen who passed them heading 
+north on the main road just this side of the 
+River Laine. The incident sticks in their minds 
+because the riders looked like brigands, caus 
+ing Fenn and Swaine to take momentary fright 
+and hide in some bushes, a state of affairs 
+which both men now view with rueful humor. 
+If the players do not at first catch the signifi 
+cance of the merchants' story, make it clear 
+that the group of riders they are describing 
+were nothing like those described by Graf. 
+Grafs group appeared to be soldiers of some 
+sort, while the merchants' group seemed to be 
+brigands. 
+
+The soldiers were the Duke of Andevar's men 
+who seized the prince. The second group 
+(brigands) are Lord Edrin's men who sacked 
+Fontenmere Abbey and made off with the 
+royal seal and scepter of Dunador. The Duke's 
+men have ridden north of the River Laine 
+while Edrin's men are at the Capel Tower. 
+
+Harkin: AC 4; MV 12 "; T4; hp 21; #AT 1; D 
+2-9 (long sword +1); AL E 
+
+The man in the corner is a thief named 
+Harkin, a member of Edrin's group of "brig 
+ands" that sacked Fontenmere. He wears 
+bracers of defense AC 6, a leather jerkin, and 
+carries 40 gp in a pouch around his waist. As 
+soon as the characters begin to question the 
+others, Harkin makes as if to leave the inn. 
+Finding the group suspicious, he intends to 
+ride to Capel Tower and inform Edrin's chief 
+henchman, Mendal Secord, about the group's 
+presence in Andevar. If questioned or con 
+fronted, Harkin attacks without warning, 
+trying to cut a way clear to his horse which is 
+tethered outside. If unable to escape, he fights 
+to the death. However, an ESP spell reveals 
+that he is one of Edrin's "brigands" and that 
+the royal seal and scepter of Dunador 
+
+
+are at Capel Tower. He does not know where 
+the prince is. 
+
+Layout of the Inn 
+
+Stools stand in front of the semicircular bar. 
+Behind the bar is a tall shelving unit stocked 
+with all types of wines and spirits. Under the 
+bar are several casks filled with ale of 
+various quality. Graf also provides bread and 
+cheese to hungry wayfarers. Drake & Castle 
+prices: ale 17 cp, beer 8 cp, mead 8 sp, wine 
+10 sp, other spirits 12 sp a glass, and Grafs 
+ploughman's lunch of bread and cheese 1 gp. 
+Grafs room is at the back of the inn through 
+a door behind the bar. The chamber contains 
+a bed, table, and two straight-back chairs, 
+and a pair of footlockers. One footlocker 
+contains odds and ends of clothing and 
+personal items. The other footlocker con 
+tains a suit of chain mail armor, a shield, and 
+a long sword +1. Grafs life savings are 
+secreted in an old chest hidden under the bed 
+beneath the floor boards. The chest contains 
+200 gp, 400 sp, and 2,000 cp. 
+
+At the back of the inn, tethered in a sort of 
+lean-to, is Grafs old horse. 
+
+Horse: AC 7; HD 2 + 2; MV 18"; hp 9; #AT 
+Nil. AL N 
+
+A small, free-standing enclosure behind the 
+inn contains about two dozen chickens. A 
+goat is tethered to a nearby post. 
+
+Leaving the Drake 
+& Castle Inn 
+
+Before they leave the inn, Graf repeats his 
+instructions for reaching Capel Tower. If the 
+characters ask about the Shrine of Nevron, 
+he informs them that travel on horseback is 
+not possible in the higher reaches of the 
+Veronian Mountains. Graf sells the 
+characters any provisions they need at 
+normal prices. 
+
+
+If the characters proceed to Nevron, read this 
+passage to them. 
+
+
+From the turning in the main road, the 
+small track to Nevron winds its way along 
+forested foothills rich with the scent of 
+pine and fir tree. As the path winds ever 
+higher up into the Veronian Mountains, the 
+gently rolling hills give way to steeper, 
+granite-faced cliffs and misty hollows. 
+
+
+When the characters reach a spot about 10 
+miles due southwest of the shrine, read this 
+passage. 
+
+
+As the trail continues to wind up the steep 
+sides of the mountains, the footing 
+becomes more and more treacherous and 
+uneven. You approach an out-jutting lip of 
+rock, forming a sort of natural shelter. 
+Ahead, you can see that the path narrows, 
+weaving in and out between cowering rock 
+formations and ascending abruptly. 
+
+
+At this point, mounted progress is no longer 
+possible. You should point this out to the 
+characters and suggest that this is a good place 
+to tether their horses in relative safety. 
+
+For the last 10 miles, the characters have to 
+climb about 2,000 feet to reach the shrine at an 
+elevation of 6,000 feet. As the party passes 
+through the wooded area indicated on the 
+Shrine of Nevron map, they are surprised by a 
+marauding cave bear whose disposition has 
+been unbalanced by the coming of spring. 
+Driven into a frenzy by its derangement, the 
+bear fights to the death. 
+
+Bear: AC 6, MV 12 "; HD 6 c 6; hp 55; #AT 3; 
+
+D 1-8, 1-8, 1-12; SA hugs for 2-16; S L; AL N 
+
+If the characters search the vicinity, they find 
+the bear's den 60 feet due east of this encounter 
+location. Among a pile of bones near the cave 
+mouth is a rotting leather satchel. Barely 
+contained by the rotting material is a cache of 
+gold nuggets worth 300 gp. this trove of an 
+unfortunate dwarven miner who fell victim to 
+the bear. 
+
+
+18 
+
+
+
+
+
+
+
+
+
+
+
+
+After climbing many hundreds of feet on 
+the narrow path, at last you come to a level 
+area like a small plateau surrounded by 
+steep-faced cliffs. At the north end of this 
+natural basin is a large cave mouth 20 feet 
+wide and 10 feet high. In front of the cave, 
+anchored atop a large, flat rock, is a cross of 
+Dunador. 
+
+
+The cross is made of oak and sunk part way 
+into the rock. There is nothing to keep the 
+characters from entering the cave mouth. Once 
+they do so, they see the following: 
+
+
+From the cliff-side entrance, a long, deep 
+cave with irregular 10-foot high ceiling, 
+stretches into the darkness. The sound of 
+running water resonates throughout the 
+cavern. Dimly visible in the darkness is a 
+crystal rock formation by the north wall. A 
+fountain-like stream of water gushes forth 
+from the rock and tumbles into a catchpool 
+in front. Thousands of tiny lights wink and 
+sparkle in the crystal rock formation like 
+so many imprisoned fireflies. 
+
+
+The characters may approach the rock and 
+fountain at their leisure. 
+
+As the characters are about to leave the cave 
+(or when anyone tampers with the crystal), a 
+shaft of golden light emanates form inside the 
+crystal rock. Characters of neutral or evil 
+alignment are instantly turned from the cave. 
+Characters of good alignment experience the 
+following telepathic communication: 
+
+
+Listen seeker, for I am the Oracle of 
+Nevron and I know why you have come. 
+You seek the true heir to this kingdom. He 
+is in grave danger. Look for him in the west 
+where the waters flow... where the bird 
+meets the lion. 
+
+
+Having said this, the oracle is silent, and the 
+odd golden light fades into darkness. 
+
+The last two lines of the oracle's message are 
+references to Griffon Castle (a griffon is part 
+bird and part lion). It also has a double meaning, 
+referring to the lion symbol of Aimar and the 
+raven symbol of Lord Edrin, the evil alliance. 
+
+Drinking the Water 
+of Nevron 
+
+Any clerics of good alignment who drink the 
+water improve their Wisdom scores by 1. 
+However, thereafter, they also become lawful 
+good in alignment. 
+
+The leader of the group, if a fighter or fighter 
+multiclass of good alignment, may improve his 
+or her Strength score by 1 by 
+
+
+drinking the water. Once again, though, this 
+character's alignment changes to lawful good, 
+if applicable. 
+
+Paladins who drink the water add 1 point to 
+both Wisdom and Strength scores. 
+
+Individuals suffering an alignment change as 
+a result of drinking the waters of Nevron lose 
+one level of experience, as described on page 
+25 of the DMG. All characters who drink the 
+waters are considered to have suffered an 
+
+
+"involuntary" alignment change, even if they 
+have observed the waters' effect on those who 
+drank before them. Characters will have their 
+ability scores or alignments affected only once 
+by the waters of Nevron in this adventure. 
+
+Persons other than those mentioned above 
+neither benefit from drinking the water nor 
+suffer an alignment change from doing so. 
+Persons of evil alignment, however, feel nau 
+seated after drinking. 
+
+
+Map 7: The Shrine of Nevron 
+
+
+
+19 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Capel Tower is a fortification located 
+three miles south of the River Laine. As part 
+of Dunador's northern defense, the tower is 
+under Duke Aimar's jurisdiction, but subject 
+to royal policy and use. Currently, as pan of 
+Edrin's and Aimar's secret alliance, Lord 
+Edrin's men are using Capel Tower as their 
+base of operation in Andevar. All of the tow 
+er's occupants are human, and all are in 
+Edrin's service except for the steward, the 
+kitchen servant and the turnkey, who are 
+Aimar's men. 
+
+Roster: The Capel Tower Roster lists all 
+guards at the Capel Tower. Each guard wears 
+a dark gray tunic emblazoned with Edrin's 
+black raven device. 
+
+
+Capel Tower Roster 
+
+
+Class/Level 
+
+AL 
+
+Weapons 
+
+Combat Bonus 
+
+Armor 
+
+AC 
+
+hp 
+
+F4 
+
+LE 
+
+sword, bow 
+
++1 with bow 
+
+chain & shield 
+
+5 
+
+33 
+
+F5 
+
+LE 
+
+sword, bow 
+
+
+chain & shield 
+
+4 
+
+41 
+
+F3 
+
+LE 
+
+spear, crossbow 
+
++1 with X-bow 
+
+splint 
+
+6 
+
+22 
+
+F2 
+
+LE 
+
+spear, sword 
+
+
+ring 
+
+7 
+
+14 
+
+F4 
+
+LE 
+
+sword, crossbow 
+
+
+chain 
+
+6 
+
+28 
+
+F3 
+
+LE 
+
+axe, sword 
+
++1 with axe 
+
+leather 
+
+8 
+
+24 
+
+F4 
+
+LE 
+
+axe, mace 
+
+
+chain & shield 
+
+6 
+
+36 
+
+F2 
+
+LE 
+
+axe, dagger 
+
+
+chain & shield 
+
+4 
+
+17 
+
+F3 
+
+LE 
+
+sword, flail 
+
++1 with sword 
+
+splint & shield 
+
+5 
+
+21 
+
+F5 
+
+LE 
+
+bow, dagger 
+
++1 with bow 
+
+chain 
+
+6 
+
+40 
+
+F5 
+
+LE 
+
+bow, mace 
+
++1 with bow 
+
+splint 
+
+6 
+
+38 
+
+F4 
+
+LE 
+
+bow, sword 
+
+
+chain 
+
+6 
+
+30 
+
+F3 
+
+LE 
+
+bow, sword 
+
++1 with bow 
+
+leather 
+
+7 
+
+22 
+
+F4 
+
+LE 
+
+sword, spear 
+
+
+chain & shield 
+
+5 
+
+30 
+
+F3 
+
+LE 
+
+crossbow, mace 
+
++1 with X-bow 
+
+ring 
+
+6 
+
+26 
+
+F5 
+
+LE 
+
+bow, dagger 
+
++1 with bow 
+
+chain 
+
+6 
+
+46 
+
+
+Each guard carries 2-40 sp and 1-10 gp. Sta 
+tion these men-at-arms as needed, consistent 
+with the encounter descriptions that follow. 
+
+Capel Tower sits only a few hundred feet 
+west of the main road, facing east toward the 
+mountains. Constructed of large blocks of 
+mossy limestone, its square mass is sur 
+rounded by a 10-foot-deep, weed-choked moat 
+fed by an underground spring During daylight, 
+the drawbridge is down, but so is the 
+portcullis. At night, the drawbridge is up and 
+covers the entrance arch. 
+
+The tower steward and four men-at-arms are 
+always at the front entrance, they stop and 
+question anyone seeking entry. If the charac 
+ters arrive at the Chapel Tower unannounced 
+and state that they have important inform 
+ation for the tower's commander or devise a 
+similar story, the steward lets them in. 
+Otherwise, he sends them on their way. 
+Persistent attempts to get into the tower after 
+having once been denied entry results in arrow 
+attacks from the walls. The men at Capel 
+Tower are in a constant state of combat 
+readiness. 
+
+If Elarkin the thief from the Drake and Castle 
+Inn, arrives at Capel Tower before the party, 
+he informs the guards of the parry's presence 
+in the area. In this case, when the characters 
+arrive at the tower, its occupants invite them to 
+enter and ambushes them in the courtyard (2.). 
+
+The tower's parapets are 40 feet high and the 
+four small guard towers are 54 feet high at the 
+comers. At any one time, there is one guard in 
+each guard tower and two guards patrolling 
+the open-air parapets atop the walls of the 
+main tower. In the event of open hostilities, 
+mobilize all the men-at-arms in a way 
+consistent with an intelligent and spirited 
+defense of the tower. Ten of the guards, for 
+instance, have crossbows or bows. These men 
+
+
+would naturally fire arrows from the walls or 
+turret tops. 
+
+The Moat 
+
+The moat contains six giant leeches (AC 9; 
+MV 3"; HD 1; hp 8 each; #AT 1; D 1-4; SA 
+drain blood; AL N). The leeches attach 
+themselves to a victim (l-4)and drain one point 
+of blood per round until knocked off or killed. 
+There is only a 1% chance that the victim is 
+aware of the creatures' attack because of the 
+leeches' anesthetizing saliva. There is a 50% 
+chance that the bite causes a disease which, if 
+left untreated, is fatal in 2-5 weeks. 
+
+Capel Tower: Level I 
+
+1. Entrance and Gatehouse 
+
+There are four guards on duty behind the 
+lowered portcullis. Any attempted intrusion 
+causes them to summon Sigmund, the tower 
+steward, from his office (5). Sigmund is (AC 3; 
+MV 9"; F4' hp 28; #Att 1; D 1-8 (sword); AL 
+LN). He wears no livery. Instead, the 
+breastplate of his fine plate mail armor is 
+emblazoned with Duke Aimar's golden lion 
+insignia. He carries 1-20 gp in a pouch and 
+wears a silver chain of office around his neck. 
+
+A pair of winches inside the gatehouse control 
+the drawbridge and portcullis. 
+
+2. Open-Air Courtyard 
+
+Many covered water barrels stand near the 
+walls around this courtyard. The walls are 
+pierced here and there with narrow windows. 
+There are no other features of note. 
+
+3a. and 3b. Stables 
+
+There are 14 horses at the tower, seven in each 
+stable. Each stable contains 10 small, cramped 
+stalls. 
+
+
+4. Jailer's Office 
+
+
+A shriveled little old man in an ancient suit 
+of leather armor sits at a rough oak plank 
+desk against the wet wall. He halfheartedly 
+sharpens a rusty-looking short sword. In the 
+floor next to the west wall is an open trap 
+door. 
+
+
+The aged gentleman is Oswald, the turnkey. 
+He is (AC 8; MV 6"; F4. #AT 1; D 1-6 (short 
+sword); AL LN). Around his neck he wears a 
+pouch containing 1-10 sp and a large key 
+which unlocks the door to the dungeon below. 
+Being so old. Oswald would rather sound the 
+alarm than fight. If unable to summon help, he 
+tries to surrender if it looks as if his life might 
+be spared. 
+
+A spiral staircase leads from the trap door to 
+the dungeon below. A deep drawer in the desk 
+holds iron rations and a half-empty flask of 
+mead. 
+
+Dl. Dungeon Level 
+
+
+The spiral staircase leads to a dank 
+limestone corridor, featureless except for a 
+heavy door at its eastern end. The door's 
+oak planks are pierced by a single barred 
+window. 
+
+
+Behind the door is a cell holding a pair of 
+simple farmers, incarcerated for being late to 
+pay their taxes. If questioned by the characters, 
+the farmers are unable to provide meaningful 
+information. However, they indicate that they 
+know someone who can be of more help: Eli 
+the huntsman, considered by the local 
+peasantry to be the wisest man north of 
+Fontenmere. According to the farmers, Eli 
+
+
+20 
+
+
+
+
+
+
+
+
+
+
+
+
+
+lives on the north short of the River Laine, 
+about a mile west of the bridge (note map for 
+players). 
+
+5. Steward's Office 
+
+
+This circular chamber is dominated by a 
+narrow, stone spiral staircase in its center. 
+A battered old desk occupies the south 
+wall. Above it hangs the duke's golden 
+lion coat-of-arms. A small rack of lances 
+stands near the west wall. A rumpled bed 
+and a footlocker against the east wall com 
+plete the room's furnishing. 
+
+
+The staircase leads to room 15. 
+
+The desk's center drawer contains a mundane 
+assortment of papers detailing the stores 
+currently held in the tower. The locked 
+footlocker contains a battle axe, a shield, two 
+long swords, and a sack holding 300 sp. The 
+lance rack against the west wail holds six 
+lances. 
+
+Sewn inside Sigmund's mattress is a small 
+leather pouch containing five pearls and six 
+rubies (each worth 30 gp). 
+
+
+6. Barracks 
+
+
+A spiral staircase winds up through the 
+center of this chamber. Placed symmetri 
+cally about this chamber are eight narrow 
+beds. The head of each rests against the 
+wall; the foot points toward the central spi 
+ral staircase. At the foot of each bed is a 
+sturdy-looking footlocker. 
+
+
+The staircase leads to room 13. 
+
+The footlockers are unlocked. Each contains 
+articles of clothing. One of them contains 1-20 
+sp tied up in an old rag. Another contains 1-20 
+sp in a small leather pouch 
+
+7. Barracks 
+
+
+A spiral staircase winds up through th 
+center of this chamber. Placed symmetri 
+cally about this chamber are eight narrow 
+beds. The head of each rests against the 
+wall; the foot points reward the central 
+staircase. At the foot of each bed is a 
+sturdy-looking footlocker. 
+
+
+The staircase leds to room 11. 
+
+The footlockers contain clothing and other 
+personal items, the footlocker nearest the exit 
+door contains a gorgeous linen altar cloth 
+embroidered with the emblem of Fontenmere 
+Abbey (30gp). 
+
+8. Armory 
+
+
+This room is obviously an armory. Lining 
+ics curved walls are many racks of efficient 
+looking and brightly-polished weapons. 
+Spears, lances, javelins, crossbows, and 
+long bows abound. In the gaps between 
+weapons racks are four iron-bound chests. 
+The spiral stairs in the center of the room 
+lead up to a trap door in the ceiling which 
+is closed with a deadbolt. 
+
+
+Each of the five racks hold 16 weapons. The 
+easternmost chest contains 50 heavy iron 
+spikes. Moving clockwise around the room, 
+the other chests contain 200 crossbow bolts. 
+300 arrows, and 6 grappling hooks (each with 
+50 feet of rope attached) respectively. 
+
+The trap door leads to room 9. 
+
+
+
+21 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Capel Tower: Level II 
+
+9. Storeroom 
+
+The doors to this storeroom are locked. 
+
+
+The floor of this room is amply occupied by 
+six upright barrels. Against the walls are 
+racks filled with scaled kegs. 
+
+
+Three barrels hold wine; the others hold 
+drinking water. There are four kegs each of 
+ale, brandy, and mead. There are no spiral 
+stairs in this room. The trap door in the floor is 
+locked from below by a dead bolt. 
+
+10. Cookhouse 
+
+
+A large, grimy brick oven occupies the 
+north wall. It is flanked on either side by a 
+stack of mealy bags. The south wall is 
+lined with scarred wooden counters. 
+Beneath them are a number of produce 
+bins stuffed with fresh vegetables. All 
+manner of cooking utensils litter the 
+counters and hang from heavy iron hooks 
+in the ceiling beams. Standing at one 
+comer is a large man in breeches, shirt, and 
+cloth apron. He is using a cleaver to bone a 
+brace of hares. 
+
+
+The mealy bags contain flour and grain. The 
+man with the cleaver is Dewey, the house 
+hold servant and caretaker assigned to Capel 
+Tower by Aimar. Dewey is a simple-minded, 
+but good-natured soul who neither fights nor 
+raises an alarm. He speaks with the parry 
+happily and at length, but he knows absolutely 
+nothing of importance...not even the exact 
+number or whereabouts of the guards. 
+
+11. Servants' Tower Room 
+
+
+This is a mean, dirty chamber, barely rec 
+ognizable as a human habitation. Its only 
+furnishing is a pair of cots set against the 
+north wall. Four three-pronged grappling 
+hooks with their coiled ropes attached 
+hang from an iron bracket set into the west 
+wall. In the northeast comer is a stack of 
+lumber. A spiral staircase leads to an unse 
+cured trap door in the ceiling. 
+
+
+This chamber is the servants' quarters for 
+Oswald and Dewey. Under each man's cot is a 
+bag of clothing and one or two meager 
+personal possessions. The sack under Oswald's 
+cor contains 4-80 cp and 2-12 sp. Each of the 
+grappling hooks on the west wail have 50 feet 
+of rope attached. 
+
+The spiral staircase leads up to room 18 and 
+down to room 7. 
+
+
+12. Guards' Mess 
+
+
+A long, wood-plank table, flanked by a pair 
+of benches, occupies the center of this 
+room. It is set with sixteen mugs, plates, 
+and cutlery sets. A tired-looking, old hound 
+is asleep under the table near the north 
+entry. 
+
+
+If it is dinner time (6 p.m. to 7 p.m.) and no 
+alert has been sounded, eight of the tower 
+guards are seated at the table, making inroads 
+in the savory contents of a couple stew pots 
+and three pitchers of ale. If there has been an 
+intruder alert or the tower guards have been 
+mobilized for any other reason, this mess is 
+empty 
+
+The old hound is (AC 7; MV 15 HD 1 + 1; 
+hp 6; #AT 1; D 1-4; AL N). His name is Bo. 
+Far too old to be much of a threat, Bo will, in 
+most situations, simply watch the action. He is, 
+however, devoted to Dewey, and attacks if the 
+simple-minded serving man is threatened in 
+his presence. Bo also fights in self-defense. 
+
+13. Guards' Ale Room 
+
+
+Four small, square tables, each with two 
+chairs, surround the spiral staircase in the 
+center of this chamber. There is a deck of 
+playing cards on each table. A large keg 
+with a padlocked spout is chained to an iron 
+cradle set in the south wall. 
+
+
+If no alarm has been sounded and the guards 
+have not been mobilized, two guards can be 
+found relaxing in this room. Though fully 
+armored, they are not armed. The pad locked 
+keg holds ale. Only the captain (16) has the 
+key. 
+
+The spiral staircase leads up to room 19 and 
+down to room 6. 
+
+14. Forge and Repair Shop 
+
+
+A large iron forge, now cold, is built into 
+the center of the south wall. There are sev 
+eral work benches against the north wall. 
+Each is covered with dozens of weapons- 
+bows, spears, swords, and axes-all in 
+varying states of disrepair. Two heavy 
+leather blacksmith's aprons hang from 
+hooks in the south wall nest to the forge. A 
+large bellows, a shovel, and a pair of long 
+iron stokers hang from spike set in the 
+south wall east of the forge. 
+
+
+East of the forge, at the base of the south 
+wall, is a secret compartment hidden behind a 
+loose stone. Tucked inside is a long case con 
+taining an ancient composite short bow +1. 
+Long hidden in its moisture-proof case of 
+
+
+lacquered wood, the bow is the private project 
+of a long-dead craftsman once employed at the 
+tower. 
+
+15. Captain's Tower Room 
+
+
+Two leashed hunting dogs are asleep on 
+corn mats near the south wall. As you enter, 
+they awaken and growl. On a table near the 
+east wall is a double cage containing a pair 
+of hunting hawks. A spiral staircase 
+dominates the center of the room. 
+
+
+The dogs are (AC 6; MV 12"; HD 2 + 2; hp 
+13, 16; #AT 1; D 2-8; AL N). They have been 
+trained not to attack humans, even if 
+unleashed. However, their growling has a 
+60% chance of alerting the occupant of room 
+16 (if present). The hunting hawks are (AC 7; 
+MV 24"; HD 1+1; hp 6, 7; #AT 3; Dl-4/1-4/1- 
+6; AL N). Only the captain can handle the 
+hawks, and if released, they attack all those in 
+the room except for him. 
+
+The spiral staircase leads up to room 20 and 
+down to room 5. 
+
+16. Captain's Chamber 
+
+The door to this room is locked. 
+
+
+A wide, comfortable-looking bed is set 
+against the west wall. Beside it, resting on a 
+tiled night table, is a small chest. A tall 
+clothes cabinet stands against the east wall. 
+Beside the cabinet is a small writing table 
+with one chair. A decanter and one glass 
+occupy the table. 
+
+
+There is a 60% chance that the captain is in 
+his room (day or night) unless the tower is mobi 
+lized for battle. At night, the captain is AC 10 
+(sleeping). Otherwise he a (AC 3; MV 9"; F5, 
+hp 44; #AT 1; D 1-8 (sword); AL LE). He wears 
+plate mail armor under a gold-trimmed, gray 
+tunic emblazoned with Edrin's black raven 
+device. He carries 1-20 gp in a belt pouch 
+together with a set of keys: one to his own room, 
+one to the storeroom (9), and one to the padlock 
+on the ale keg in the guards' mess (13). The cap 
+tain investigates any disturbances in any 
+general alarm or large-scale melee. 
+
+The locked chest holds a sack of 200 pp and a 
+small box that contains a gold necklace (100 gp). 
+The back wall of the locked clothes cabinet is 
+fitted out with a weapons rack containing a 
+heavy crossbow and a quiver of 10 bolts, a lance, 
+a spear, and a shield decorated with Edrin's black 
+raven device. Four shirts and tunics also bearing 
+the black raven hang from a dowel set high in the 
+cabinet. At the cabinet's base is a small locked 
+chest holding assorted papers and service orders. 
+One paper empowers the captain to take 
+command of the garrison at Capel Tower. The 
+
+
+22 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+order is signed by Lord Edrin and sealed with 
+the black raven symbol. 
+
+The decanter on the writing table holds one 
+pint of fine quality brandy. 
+
+Capel Tower: Level III 
+
+17. Assassin's Chamber 
+
+
+A large bed rests against the east wall of this 
+tower chamber. Against the south wall is a 
+three-foot high, glass-doored cabinet. Atop 
+the cabinet is a small chest. Against the north 
+wall is a desk and chair. An open footlocker a 
+positioned between the desk and bed. 
+
+
+The door is bolted from inside: it is 40 hp. Any 
+attempt to open it alerts the room's occu-pant, 
+and actually opening the door by any means 
+causes him to trigger two crossbow traps which 
+fire at the doorway. The first two characters 
+crossing the threshold are automati-cally hit; 
+each takes 1-6 points of damage from the bolts 
+and must save vs. poison to avoid the deadly 
+effects of the poison smeared on the bolt rips. 
+Failure to save results in the victim's death 
+within 10 rounds unless remedial action 
+{neutralize poison , slow poison ) is taken. 
+
+The crossbow traps are located under the bed 
+and angled up to the doorway. Two fine 
+threads attached to the triggers lead out to the 
+side of the bed so that anyone lying on it can 
+trigger both crossbows by pulling the threads. 
+The discovery of the threads should be a clue 
+to the characters that the crossbows have been 
+manually fired. 
+
+The occupant of the chamber is currently 
+invisible. He is Mendal Secord, an assassin 
+and Lord Edrin's chief henchman in Andevar: 
+(AC 1; MV 12"; A6; hp 31; #AT 1; D by 
+weapon; SA poisoned weapons; AL LE; S 15, 
+
+I 17, W 13, D 17, C 13, Ch 13). He wears 
+bracers of defense AC 5, a cloak of protection 
++1, and a ring of invisibility (actually a ring of 
+spell storing with five invisibility spells). 
+Secord generally uses a poisoned dagger +2 
+and a short sword. 
+
+In this situation, Secord has become invisible 
+in order to escape from the chamber. His 
+primary objective, and one which overrides ail 
+other concerns, is the assassination of Prince 
+Edmund. In an instant, he has determined that 
+the party of intruders is too formidable to deal 
+with and that attempting to do so would 
+needlessly delay his getting to Edmund. 
+Secord does not interfere with the party's 
+search and presumed looting of his chamber. 
+Rather, he remains invisible and retires to the 
+tower halls to observe the characters while 
+they remain in the structure. When they leave, 
+Secord tries to follow them unobserved until 
+they reach Griffon Castle. 
+
+When following the group, Secord assumes 
+
+
+the guise of an old beggar, a ruse which he tries 
+to keep up even if accosted and questioned by 
+the party. If pressed, he uses his ring to escape 
+again. See "Ending the Adventure" for more 
+information on Mendal Secord. 
+
+The glass-doored cabinet holds assorted 
+chemicals and substances used for making 
+poisons. There are two small vials in the 
+cabinet that contain a poisonous resin for 
+tipping weapons. 
+
+The chest on top of the cabinet is locked. The 
+key to the lock is strung on a cord around 
+Secord's neck. Any attempt to open it without 
+the key releases a charge of dust of sneezing 
+and choking. Anyone within a 10-foot radius 
+of the chest must save vs. poison or die 
+immediately. Those who save are disabled by 
+choking for 5-20 rounds. 
+
+The interior of the chest is lined with black 
+velveteen. Pillowed inside it is a large, white 
+chamois bag, tied at the top with a purple 
+silken cord. Inside the bag is a solid gold, 
+ruby-encrusted scepter and a gold and silver 
+ball, eight inches in diameter, that bears a 
+crown image over a ruby-studded cross of 
+Dunador. These items are the royal seal and 
+scepter of Dunador. Although they are in one 
+sense priceless, if sold on the black market, 
+each item brings 6,000 gp. All the characters 
+recognize the seal and scepter. 
+
+Lifting a flap of the chest's velveteen lining 
+raises a false bottom, revealing a small space 
+in which the characters find a sack holding 
+
+1,000 gp. 
+
+The single drawer in the desk is locked. 
+Inside, hidden behind a false panel at the rear, 
+is a small metal box containing two bottles. 
+One bottle holds a potion of levitation; the 
+other holds a potion of gaseous form. The 
+writing materials on top of the desk are 
+ordinary. 
+
+The open footlocker holds a cape similar to 
+those commonly worn by local brigands, a 
+leather satchel containing six throwing 
+daggers, and a small wooden box containing 
+10 poison-tipped crossbow bolts. 
+
+18. Northwest Turret 
+
+
+Two large traveling trunks sit against the 
+north wall of this cahmber. A spiral stair 
+case leads to a trapdoor above. 
+
+
+One chest holds 10 dark hooded capes and 10 
+studded leather jerkins similar to those 
+affected by many of the local brigands. The 
+other chest contains studded leather arm braces 
+and 10 pairs of heavy boots, also typical of 
+brigand garb. 
+
+The spiral staircase leads down to room 11 
+and up to the open parapet atop the tower. The 
+trap door is not secured. 
+
+
+19. Southwest Turret 
+
+
+The southwestern are of this room's wall 
+contains an iron rack holding a score of 
+long, spiked poles with a y-shaped head at 
+one end. A small fireplace is set into the 
+west wall. Next to it is a small table with a 
+flask and six clay cups resting on top. A 
+spiral staircase leads to a trapdoor above. 
+
+
+The poles are used to repel ladder assaults on 
+the tower. The spiral staircase leads down to 
+room 13 and up to the open parapet atop the 
+tower. The trap door is not secured. 
+
+20. Southeast Turret 
+
+
+A huge cauldron hangs from a spit over a 
+large firepit in the south wall. There is a 
+large pile of dry cord wood on the floor on 
+either side of the pit. A pair of deep, iron 
+ladies rest against one of the wood piles 
+Spaced evenly along the walls of the cham 
+ber are eight wide barrels. A spiral staircase 
+leads to a trap door above. 
+
+
+The barrels contain flammable oil which, 
+when heated in the cauldron, is used for 
+defense. The boiling oil is dispensed by 
+means of the ladies into the dozens of wood- 
+handled iron buckets which hang from hooks 
+in the walls of the parapets. The tower's 
+defenders then hurl the contents of the 
+buckets at those trying to scale the walls. 
+
+As the parry moves north to the River Laine, 
+they reach a messy limestone span known to 
+the locals as Barbarian's Bridge. A sign 
+proclaiming this fact to one and all is nailed to 
+an elm tree near the southern entrance to the 
+span. The bridge is 200 feet long and 15 feet 
+wide. Its three stone piles are set deep in the 
+river bed and linked by carefully joined stone 
+arches capable of bearing even the heaviest 
+traffic. Below the bridge surface, the white 
+water of the Laine, sometimes as much as 30 
+feet deep tears angrily at the impervious 
+stone. 
+
+Barbarian's Bridge 
+
+As the group begins to cross the bridge, they 
+are surprised by the appearance from a nearby 
+copse of trees of a dark rider on a black horse. 
+He is accompanied by four other riders 
+wearing dark brown cloaks. The dark rider is 
+Kirkroy, the Duke of Andevar's champion 
+(AC 3; MV 9718"; F6; hp 48; #AT 1; D 2-9 
+{long sword +1), 3-8 {lance +1); AL LE). He 
+wears a plain, black tunic over splint armor 
+and carries a small jousting shield. At his belt 
+is a small pouch containing 3-60 gp and a jew 
+elled dagger worth 50 gp. Around his neck he 
+wears a gold medallion engraved with Aimar's 
+
+
+23 
+
+
+
+
+
+
+
+
+
+
+
+
+golden lion insignia (50 gp). 
+
+Kirkroy rides a medium war horse (AC 7; 
+MV 18"; HD 2 + 2; hp 17; #AT 3;D 1-6/1-6/ 
+1-3; S L; AL N). 
+
+Kirkroy's companions are (AC 4; MV 12"1 
+18"; F4; hp 24, 26. 29, 34; #AT 1; D 2-5 
+(heavy crossbow), 1-6 (short sword); AL LE). 
+The heavy crossbows can be fired only once 
+every two rounds. They ride medium horses 
+(AC 7; MV 18"; HD 2 + 2; hp 12, 13, 14, 16; 
+#AT 3; D 1-6/1-6/1-3; AL N). Beneath their 
+brown capes, these riders wear blue tunics 
+emblazoned with Aimar's golden lion device 
+over fine chainmail. 
+
+Kirkroy and his men have been placed at the 
+bridge by the Duke in order to cover Aimar's 
+move to his new base of operations ar Griffon 
+Castle. 
+
+As soon as the party begins to cross the 
+bridge. Kirkroy rides out of the woods and 
+gallops up to the center span where he awaits 
+the party. Upon meeting the characters on the 
+bridge, he tells them that it is impossible for 
+them to cross. He does not tell them why. If 
+they insist on trying to cross, Kirkroy chal 
+lenges one of the party's fighters to single 
+combat with horse and lance. He proposes that 
+the winner and his parry may proceed as they 
+will; the loser must withdraw. 
+
+Naturally, Kirkroy and his men have no 
+intention of honoring any such agreement. His 
+men attack as soon as the joust is over, 
+regardless of the result. If the characters do not 
+agree to Kirkroy's terms or leave, he and his 
+men attack immediately. 
+
+Running the Joust 
+
+* Only combatants are allowed on the bridge. 
+
+* Only one attack is allowed for each mounted 
+pass. Make a normal initiative roll to hit 
+first. 
+
+* On a roll of a natural 20 to hit, an opponent 
+must save vs. poison or be knocked off his 
+or her mount. 
+
+* A mounted combatant has a + 2 chance to hit 
+an opponent on foot. 
+
+* A mounted opponent has a + 2 chance to hit 
+a mounted opponent's horse with sword, 
+mace, flail, or other small weapon. 
+
+* On a roll of a natural 1 to hit, a combatant's 
+lance breaks on impact. The fighter may get 
+another lance if his seconds provide them at 
+their end of the bridge. 
+
+* A mounted combatant using a sword, mace, 
+flail, or other small weapon can't hit a 
+mounted combatant using a lance. 
+
+* Combat continues, mounted or on foot, until 
+a clear winner emerges. 
+
+* You must establish statistics for the player 
+character's horse. 
+
+Ultimately, Kirkroy and his men neither give 
+nor accept a quarter. If captured through enter 
+prising means, they refuse to give information 
+upon pain of death. An ESP spell, however, 
+reveals that the prince is at Griffon Castle. 
+
+
+A well-trodden path runs west along the River 
+Laine from the north side of the bridge. 
+Clearly visible in the mud of the track are the 
+recent imprints of horse hooves. Two miles 
+from the bridge, the path reaches a thatch- 
+roofed cottage perched along a low bank 
+beside the Laine. The splintered wreck of a 
+small boat is tied up to a pier near the front of 
+the cottage. The front door of the dwelling is 
+closed, but not locked. 
+
+The interior of the dwelling is a single 30-foot 
+by 30-foot room. Its air is thick with ani-mal 
+smells, and there are dozens of furs and skins 
+nailed to the walls or strewn about the floor as 
+rugs. In places, these have been tom from their 
+hooks or kicked up from the floor as if in a 
+scuffle. Many of them have been torn or 
+slashed. In one comer of the cottage are the 
+masked remains of a bed and a chest. Torn 
+clothing and broken tools and cooking uten 
+sils are scattered everywhere in a way that sug 
+gests deliberate vandalism. 
+
+Except for Eli's hidden treasure trove of 75 gp 
+(hidden in a box in a cubbyhole under one of 
+the rafters in the north wall), nothing in the 
+cottage, including the many animal pelts, has 
+escaped damage. A careful inspection of the 
+floor reveals a pool of congealed blood to the 
+right of the door. Of Eli, however, there is no 
+trace. 
+
+The solution to this riddle is, of course, that 
+Eli was an eyewitness to the passage of the 
+duke and his prisoner along the path from 
+Barbarian's Bridge toward Griffon Castle. Not 
+wishing to leave any embarrassing clues 
+behind, Aimar ordered Kirkroy to take a squad 
+of men to the cottage and dispense with the old 
+hunter in such a way as to make the murder 
+look like the work of brigands. After savagely 
+attacking the aged Eli and ravaging the 
+cottage, Kirkroy and his men left their vic 
+tim for dead and rode on to take up their guard 
+at the bridge. But Kirkroy did not count on 
+Eli's good standing with the forest community. 
+Once the attackers left, wood spirits arrived at 
+the cottage, took care of Eli's wounds, and 
+carried him off to heal in a secret forest glen 
+far north of the river. 
+
+One of the sprites, a bold youngster named 
+Toughnut. stayed near the cottage to keep an 
+eve on the place. This tiny sprite is (AC 6; MV 
+9718"; HD 1; hp 6; #AT 1; D 1-3 (bow), 1-4 
+(sword); S 2'; AL NG). Toughnut, currently 
+invisible, is now hiding just east of the cot 
+tage's front door. 
+
+Using his abilities, Toughnut determines the 
+characters' alignments as soon as they arrive, 
+but he will still be unsure of why they are in 
+the cottage, and so, will bide his time. If Eli's 
+treasure is taken, Toughnut fires a warning 
+arrow dangerously close to the head of 
+whomever has plundered the trove. Toughnut 
+then imitates Eli's booming voice, saying, 
+
+
+"Thieves and robbers! Have you no shame 
+that you would steal the few pathetic coins of a 
+poor old man!" 
+
+If the characters take the hint and give up 
+Eli's treasure, Toughnut is better disposed 
+toward them. If they refuse to give up the 
+treasure, he makes its surrender a condition 
+for giving the characters any information. 
+After inquiring as to their purpose, the sprite, 
+using his natural voice, explains Eli's fate and 
+gives the following information: 
+
+
+"The one you seek is gone. Only a few days 
+ago, the young prince was taken west by 
+the "golden lion." the one called Aimar. 
+Eli knew of this. He saw. He told us that 
+they could only be going to a place that he 
+called 'the Griffon.' Eli was troubled by 
+this, but the black ones came before he 
+could do aught but tell us of his worry. We 
+know nothing of the 'Griffon'; we do not 
+travel much. But this we can tell you just as 
+it was told us bv Eli. It is in the west, this 
+place. Down the river over many of your 
+miles. The waters of this river flow west. 
+Follow them by the river's side, if you will. 
+Or, if you be sailors, there is another way. 
+Hidden in the trees by the river is another 
+boat. Take it and be on your way. This I 
+think that Eli would want." 
+
+
+So saying, the sprite retires to the woods. 
+The other boat is hidden in the brush, 100 
+feet west of the cottage. It is a flat bottom 
+scow. 18 feet long and 8 feet wide, and has a 
+sail and a rudder. Even if the player characters 
+are nor accomplished sailors, the river's cur 
+rent carries them to Griffon Castle. They only 
+have to steer with the rudder and use the oars 
+to slow their vessel. The boat is roomy enough 
+for the party and all their gear, but their horses 
+must be tethered and left by the river. If the 
+players decide to float down the river, the voy 
+age is without incident. 
+
+If the party takes the north riverside track, 
+make the usual wandering monster checks. 
+
+
+24 
+
+
+
+
+
+
+
+
+
+
+Griffon Castle is a secret stronghold set back 
+about 50 feet from the north bank of the River 
+Laine and surrounded by a dense wood. Few 
+even know that it still exists. Years ago, the 
+Duke took the isolated castle from a robber 
+baron who refused to swear fealty and mend 
+his ways. Though the castle was ruined in the 
+fighting, Aimar has, over the years (and espe 
+cially since forming his alliance with Edrin), 
+labored patiently and in secret to pur it back 
+into repair. Since so few are aware of Aimar's 
+secret project, the site makes an ideal hiding 
+place for the captured prince. 
+
+Apart from the retainers, servants, sundry 
+"pets," and the duke, the castle is garrisoned 
+by 20 men-at-arms. All these human fighters 
+wear scale mail armor and black-plumed 
+helms. Each is equipped with a crossbow, a 
+long sword, and a shield. When using their 
+crossbows they are AC 5. None of this equip 
+ment bears any insignia. The Griffon Castle 
+Roster indicates the guards who are presently 
+in the castle. 
+
+Position these men as follows: at any time, 
+day or night, there are 16 guards on duty; four 
+others are asleep in barracks room 8. Seven of the 
+16 guards on duty are stationed in the towers, 
+one guard atop each of the seven open-air tur 
+rets. Each open turret is equipped with a heavy 
+crossbow (1 shot/2 rounds, D 2-5) that hangs 
+from a hook driven into one of the turret's 
+merlons. The other nine guards are positioned as 
+indicated in the following room descriptions. 
+
+Currently the entire garrison is on alert; the 
+discovery of any intrusion causes the mobiliza 
+tion of the captain and all the guards except 
+those in room 20. 
+
+
+Class/Level 
+
+AL 
+
+Gear 
+
+F2 
+
+LN 
+
+20 sp, dagger 
+
+F3 
+
+LE 
+
+10 gp, ring (1 gp) 
+
+F4 
+
+LE 
+
+6 pp, 11 sp 
+
+FI 
+
+LN 
+
+1 gp, 4 sp 
+
+F2 
+
+LN 
+
+2 gp, dagger 
+
+F5 
+
+LE 
+
+40 sp, 3 gp 
+
+F4 
+
+LN 
+
+22 sp, 3 ep 
+
+F3 
+
+LN 
+
+50 sp 
+
+F2 
+
+LN 
+
+10 ep, ring (4 sp) 
+
+F3 
+
+LN 
+
+5 gp 
+
+F3 
+
+LE 
+
+3 rubies (40 gp) 
+
+F4 
+
+LN 
+
+17 sp, 30 cp 
+
+F3 
+
+LN 
+
+10 gp 
+
+F4 
+
+LN 
+
+5 sp 
+
+F2 
+
+LE 
+
+5 cp, dagger 
+
+F3 
+
+LN 
+
+10 sp 
+
+F2 
+
+LN 
+
+11 gP 
+
+F4 
+
+LE 
+
+15 gp 
+
+F2 
+
+LN 
+
+9 cp 
+
+F3 
+
+LN 
+
+30 sp, 10 gp 
+
+
+Entry to Griffon Castle 
+
+The party can enter the castle in two ways: 
+
+1. By finding the traitor's gate (next to room 
+13) after a covert search of the outside wall. 
+Such a search is not possible in daylight in 
+view of the towers above. 
+
+2. By an open (and very foolhardy) attempt to 
+assault the walls or main gates. In the event of an 
+open attempt, mobilize all the occupants of 
+Griffon Castle and organize an effective defense. 
+The tops of seven of the eight towers are 
+equipped with bells for use in sounding an 
+alarm. 
+
+Griffon Castle: Ground Level 
+
+1. Southwest Gatehouse 
+
+As befits a border stronghold. Griffon Castle 
+is blessed with an extremely strong gate, com 
+plete with portcullis. The latter is always down, 
+and no entry is permitted. A winch for raising 
+the portcullis is located in gatehouse 1. The 
+room is bare except for a barrel of water and 
+twelve drinking mugs hanging from hooks 
+driven into the wall beside it. The walls are 
+breached here and there by narrow arrow slits. 
+
+2. Southeast Gatehouse 
+
+There a a guard on duty in gatehouse 2. 
+Thanks to the arrow slits in the gatehouse, he has 
+an excellent view of the exterior of the gate. The 
+guardsman is charged under penalty of death 
+with immediately reporting to the captain in 
+room 15 any attempt to approach the gate. He is 
+extremely vigilant. Located in this room is a 
+release mechanism for the castle's outer door. 
+
+
+Combat Bonus 
+
+AC 
+
+hp 
+
++1 with sword 
+
+5/6 
+
+14 
+
++1 with X-bow 
+
+5/6 
+
+21 
+
+
+5/6 
+
+39 
+
+
+5/6 
+
+8 
+
+
+5/6 
+
+12 
+
++1 with X-bow 
+
+5/6 
+
+42 
+
+
+5/6 
+
+29 
+
++1 with X-bow 
+
+5/6 
+
+25 
+
+
+5/6 
+
+13 
+
++1 with X-bow 
+
+5/6 
+
+29 
+
++1 with sword 
+
+5/6 
+
+22 
+
+
+5/6 
+
+22 
+
++1 with X-bow 
+
+5/6 
+
+24 
+
+
+5/6 
+
+29 
+
+
+5/6 
+
+12 
+
+
+5/6 
+
+17 
+
+
+5/6 
+
+14 
+
++1 with X-bow 
+
+5/6 
+
+33 
+
++1 with sword 
+
+5/6 
+
+15 
+
+
+5/6 
+
+24 
+
+
+3. Tower Chamber 
+
+
+A spiral staircase near the south wall leads 
+to another chamber above. There are two 
+large barrels near the east wall. Beside the 
+door is a weapons rack holding four spears. 
+
+
+There is one guard on duty in this room. The 
+barrels hold fresh water, the spiral stairs lead 
+to room 17. 
+
+4. Tower Chamber 
+
+
+A cask rests on a stained plank table near 
+the west wall. A spiral stairccase near the 
+south wall leads to an upper chamber. 
+
+
+One guard is stationed in this room. The case 
+contains mead. The spiral stairs lead to room 19. 
+
+5. Great Hall 
+
+
+There is an immense fireplace with a lime 
+stone mantle set into the west wall. A large 
+tapestry hangs over the fireplace. The hang 
+ings depict an odd sort of creature, part bird 
+and part animal. A long, heavy oak table 
+flanked by two benches occupies the center 
+of the room. Large carved and padded chairs 
+are placed at the head and foot of the table. 
+A second smaller tapestry with a golden lion 
+boldly woven into its background of blue 
+flowers hangs from the east wall. 
+
+
+Set into the wall behind the tapestry is a 
+three-foot by two-foot wooden panel. The 
+panel can be opened by pushing a stone 
+pressure plate in the floor just below it. 
+
+A recess behind the panel holds a locked 
+chest, the key to which hangs on a silken cord 
+around Aimar's neck. Any attempt to open the 
+chest without the key causes a toxic gas to be 
+released; those within 10 feet must save vs. 
+breath weapon or fall unconscious for 3 turns. 
+The chest contains 20 gold plates, 20 gold 
+goblets, and 20 gold cutlery sets worth a total 
+of 1,000 gp. 
+
+6. Kitchen 
+
+
+The kitchen is dominated by a big brick 
+and tile oven set into the north wall. There 
+is a rude wooden bin on either side of the 
+stove. Shelves full of pots, pans, and sealed 
+crocks line the other walls. Dried vegeta 
+bles and herbs hang from the rafters. The 
+air is heavy with the smell of sage. 
+
+
+One bin is full of onions; the other contains 
+a collection of tuberous vegetables. The crocks 
+contain a variety of pickled meats, fruits, and 
+vegetables. 
+
+
+Griffon Castle Roster 
+
+
+25 
+
+
+
+
+
+
+
+
+
+
+
+
+7. Storeroom 
+
+
+Piled high against the wall of this circular 
+chamber are hundreds of small mealy 
+bags. A dozen slabs of slated mutton hang 
+from hooks in the ceiling. Three barrels 
+occupy the center of the room. The room is 
+roofed, floored, and panelled with tightly- 
+joined walnut boards. 
+
+
+The mealy bags contain flour and grain. 
+One barrel contains apples, one contains salt 
+port, and the other holds iron rations. 
+
+8. Barracks 
+
+
+Twenty narrow beds line the walls of this 
+hut. Quarrel quivers hang on books behind 
+each bed. 
+
+
+Unless the alarm has been sounded, there are 
+four guards asleep in this hut In this situation, 
+guards are AC 10 and require 1 round to get 
+their swords. 
+
+Under each bed is an oaken footlocker 
+containing personal items such as spare boots, 
+breeches, flasks of mead, and spare parts for 
+crossbows (string, triggers, bolt heads, etc.). 
+Each quiver on the wall holds 2-40 quarrels 
+(light). 
+
+9. Tower Chamber 
+
+
+A spiral staircase near the north wall of 
+this chamber leads to an upper level. 
+Beside the staircase, set against the north 
+wall, is a tall oaken cabinet. There are two 
+big bar-rels near the west wall. 
+
+
+Unless the alarm has been sounded, there is 
+one guard stationed in this room. The barrels 
+hold fresh water. The locked cabinet contains 
+a fine suit of chain mail (suitable for a human 
+or half elf), a lance, a broadsword, and a 
+shield. The spiral stairs lead to room 22. 
+
+10. Northwest Gatehouse 
+
+The north gate, like its twin to the south, is 
+quite strong, having its own portcullis in addi 
+tion to the gate itself. The former is always 
+down, and no entry is permitted here, either. 
+There is a guard on duty in gatehouse 10. 
+Thanks to the arrow slits in its walls, he has an 
+excellent view of the exterior of the gate. Like 
+the guardsman at the south gate, he is charged 
+under penalty of death with immediately 
+reporting to the captain in room 15 any 
+attempt to approach the gate. He, like his fel 
+low at the south gate, is extremely vigilant. 
+Located in this room is a door release mecha 
+nism for the castle's outer door. 
+
+
+11. Northeeast Gatehouse 
+
+Gatehouse 11 is empty except for the winch 
+user to raise the portcullis. 
+
+12. Tower Chamber 
+
+
+Spiral stairs near the north wall lead to a 
+chamber above. A tall oaken cabinet 
+stands against the east wall. 
+
+
+Unless the alarm has been sounded, there is 
+one guard on duty here. The cabinet is locked. 
+It holds a weapons rack with brackets for 20 
+heavy crossbows. Seven of the weapons are 
+missing. At the bottom of the cabinet are four 
+open wooden boxes filled with heavy crossbow 
+bolts. 
+
+The spiral stairs lead to room 24. 
+
+13. Stables and Traitor's Gate 
+
+
+Nine of the ten narrow stalls against the 
+east wall are occupied by horses. The fifth 
+stall from the north is vacant. A dozen big 
+feed bags are stacked by the west wall. A 
+pair of water buckets hang from the gate 
+post by each stall. 
+
+
+The nine horses are light war horses. A care 
+ful examination of the fifth stall reveals a hid 
+den door set into its east wall. Just to the left of 
+the door, one of the vertical boards pro-trudes 
+slightly from the others in the stall's wall. 
+Pulling the board so that it swings our on a 
+spring-fed hinge opens the door. Characters 
+have the normal chance of locating this door. 
+Dwarves, elves, half elves, gnomes, and 
+thieves gain an extra +1 if they are expressly 
+looking for a secret door. 
+
+Behind the hidden door is a narrow passage 
+running eastward four feet to a stone wall. In 
+the wall is the outline of another door. This 
+door is four feet high and three feet wide and 
+has an iron ring handle. Turning the ring causes 
+the door to open inward, giving access to the 
+exterior of the castle. 
+
+14. Stables 
+
+
+Ten narrow stalls on the east wall hold 10 
+horses. There are two barrels and a stack of 
+30 to 40 feed bags against the west wall. 
+Two large chests occupy the northwest cor 
+ner of the stable 
+
+
+One chest contains 20 light horse saddles. 
+The other contains 40 different bridles and 
+reins. All 10 horses are light war hoses. 
+
+
+15. Captain's Office 
+
+
+A wide, but rather short, bed occupies the 
+northeast comer of this chamber. At the 
+foot of the bed is a big, iron-bound chest. 
+Flush against the western part of the south 
+wall is a plain writing desk. There is a trap 
+door with a heavy iron ring visible in the 
+floor in the southeast corner of the cham 
+ber. 
+
+
+If no alarm has been sounded, there is a 
+70% chance that the captain and one guard 
+are in the room. If they are not present when 
+the characters enter, roll ld6 once every 10 
+rounds while the party is in the room. On a 
+roll of 1-3, the captain and one guard return. 
+
+The captain of the guard is a nasty dwarf 
+named Dram: AC 3. MV 9"; F6; hp 47; #AT 
+1; D 4-11 (axe 1-8 +3); saves at +1; AL LE. 
+Dram wears plate armor and wields a two- 
+handed axe. Hanging- from his belt are a dag 
+ger, an iron ring containing a set of keys to 
+rooms 16 and 17 and the cabinet in room 12, 
+and a pouch containing 10 gp. 
+
+The locked chest holds 300 gp and the cap 
+tain's personal belongings. 
+
+Among the papers strewn across the desk is a 
+pay roster for the 20 men-at-arms guarding 
+the castle. A single unlocked drawer in the 
+desk contains iron rations, an empty wineskin, 
+and a flask of brandy. At the back of the 
+drawer is a leather sack holding two gold neck 
+braces (30 gp each) and a silver cross of Duna- 
+dor (20 sp). These items are loot taken from 
+the prisoners in the dungeon below. 
+
+The trap door lets onto a flight of steep 
+stairs leading to the dungeon. A single door at 
+the foot of the stairs is bolted from the out 
+side. Behind the door, a 20-foot by 20-foot 
+cell contains the bodies of four dead humans 
+clad in the tattered remnants of pilgrim's 
+robes. One of the men seems to have died as a 
+result of one or more wounds. The others have 
+died of thirst. The four were the Prince's com 
+panions on his pilgrimage. 
+
+16. Armory (door locked) 
+
+
+This semicircular chamber houses an excel 
+lent armory. Weapons racks set in the walls 
+hold scores of spears, lances, pikes, 
+guisarmes, and halberds. There are two 
+large chests against the east wall, and a bar 
+rel set on either side of the door. 
+
+
+The wall racks hold 40 of each type of 
+weapon. One chest holds 20 long bows, the 
+other holds 500 arrows. The barrels hold poor 
+quality inflammable oil. 
+
+
+26 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Griffon Castle: Upper Level 
+
+Stairway access to this upper level is 
+through the four round tower chambers. Spi 
+ral stairways from ground level chambers lead 
+to open landings in the upper tower cham 
+bers. On the second level, the spiral stairs in 
+22, 19, and 17 continue upward, ending in 
+trap doors in the ceilings that lead to parapets 
+on the turrets above. Staircases in 18, 20, 23, 
+and 25 also end in trap doors in the ceiling 
+which give out on the wall parapets. 
+
+Undisguised movement along the open-air 
+parapets, day or night, is certain to attract the 
+attention of the guards on top of the seven 
+turrets. At night, crouching low behind the 
+merlons and moving as quietly as possible 
+gives the characters a 70% chance of moving 
+undetected from one tower to another. 
+(Thieves have a 95% chance of accomplishing 
+this feat.) If any character's movements are 
+detected by a guard, there is a 50% chance 
+that the guard sounds the alann bell at his sta 
+tion. A percentage roll of 51 or higher means 
+that the guard assumes the sound was insig 
+nificant and ignores it. 
+
+As previously noted, a general alarm mobi 
+lizes all castle occupants in an organized 
+search for the intruders. (See encounter 26 for 
+the special role of the griffon.) 
+
+17. Tower Chamber (Guardhouse) 
+
+
+A spiral staircase near the south wall leads 
+to a trap door in the ceiling. A table sur 
+rounded by four chairs occupies the center 
+of the room. There is a small cask and four 
+stoneware mugs on the table. Twenty 
+spiked poles with y-shaped heads at one 
+end are set in racks fixed to the walls. The 
+east wall contains a fireplace of rough 
+fieldstone. 
+
+
+This chamber is a way station for the guards 
+mounting wall patrols. The cask holds a few 
+quarts of cheap mead. The staircase leads 
+down to room 3 and up to the parapet atop 
+the turret. 
+
+18. Aimar's Sanctuary 
+
+The door to this room is locked. 
+
+
+The walls of this well-appointed chamber 
+are decorated with fine tapestries depicting 
+heroic battles waged by noble knights 
+against horn-helmed barbarians. The 
+golden lion coat-of-arms is displayed 
+prominently in all the hangings. In the 
+middle of the west wall, there is an elabo 
+rate fireplace and hearth topped by a finely 
+dressed stone mantle. An armchair, uphol 
+stered in bottle-green cut velvet place 
+
+
+before the fire. An ornately-carved walnut 
+desk and chair are positioned against the 
+north wall. Against the east wall is a small 
+glass-doored walnut bookcase. 
+
+
+Atop the mantle are a pair of black candles 
+in gold candlesticks (40 gp each). An ornate 
+set of fireplace tools stand in a small bin north 
+of the hearth. The tool's handles are made of 
+finely chased silver filigree (200 sp total). 
+
+The desk drawer holds writing parchment 
+and a gold lion seal for marking letters and 
+documents. Two quill pens and an ink well are 
+placed on top of the desk. 
+
+The bookcase holds books on a variety of 
+sorcerous subjects. Except for one plain book 
+with no markings that is larger than the oth 
+ers, the books in the two-tiered bookcase are 
+quite mundane. This one unusual book is 
+located at the far right side of the top shelf. It 
+is a librum of gainful conjurations. Because of 
+his evil alignment, Aimar has never been able 
+to read it. 
+
+Any magic user or illusionist of neutral 
+alignment who reads the librum gains enough 
+experience points to put him at the midpoint 
+of the next higher level. A complete reading 
+of the book requires a character's undivided 
+attention for one full week. Any non-neutral 
+magic user or illusionist reading even one line 
+of the book sustains 5-20 points of damage 
+and falls unconscious for the same number of 
+turns. Any magic-using victims of the book 
+must seek a cleric to atone in order to regain 
+the ability to progress in experience. Without 
+such atonement, the character gains no fur 
+ther experience points. Any non-magic user 
+who peruses the book must save vs. spells to 
+avoid insanity. Insane characters must receive 
+a remove curse spell and rest for one month 
+unless a cleric heals them. 
+
+The Secret Room 
+
+Located in the southern part of the room, 
+behind a tapestry near the east wall, is a hid 
+den door. Sheathed in painted plaster, it can 
+hardly be distinguished from the stonework in 
+the walls. The door is opened by pressing a 
+pressure plate in the floor next to it. Behind 
+the hidden door is a three-sided recess occu 
+pied by a large, locked chest containing 2,000 
+gp, 5,000 sp, and 500 pp. Also inside the 
+chest is a small wooden box containing a neck 
+lace set with a single sparkling gem - a luck- 
+stone. It gives its wearer +1 on saving throws 
+and throws to avoid traps and pitfalls; how 
+ever, the "luck" doesn't apply to hit and dam 
+age rolls. The stone does not work for 
+characters of evil alignment. 
+
+The librum, the luckstone, and the treasure 
+within this secret room were all wrested from 
+the previous lord of Griffon Castle. 
+
+
+19. Tower Chamber 
+
+
+A spiral staircase near the southern wall 
+leads to a trap door in the ceiling. The 
+western part of the chamber is taken up by 
+a fire pit, over which hangs an iron caul 
+dron. There are four barrels grouped in the 
+northeast comer. 
+
+
+The cauldron is used to boil the oil con 
+tained in the barrels. The hot oil is then 
+dumped down the castle's battlements onto 
+the heads of its attackers. 
+
+The spiral staircase leads down to room 4 
+and up to the parapet atop the turret. 
+
+20. West Tower Antechamber 
+
+
+A staircase leads to a trap door in the ceil 
+ing of the western part of this semicircular 
+chamber. Set in the east wall of the cham 
+ber is a heavy door, flanked on either side 
+by a guard in scale mail, equipped with a 
+sword and shield. 
+
+
+The pair of guards is assigned to secure the 
+prisoner in room 21. They have strict orders 
+not to leave their posts for any reason. If a 
+melee breaks out, one of the guards tries to 
+get up the stair to sound the alarm bell on the 
+open parapets of the turret. 
+
+21. Prison Chamber 
+
+This chamber door is bolted from outside. 
+
+
+A figure dressed in a filthy pilgrim's robe 
+lies on a small cot in the northeast comer of 
+this sparsely-furnished chamber. There is a 
+fireplace in the middle of the east wall. A 
+simple writing desk and chair occupy the 
+south wall. 
+
+
+The reclining figure is Prince Edmund. 
+Gaunt and haggard from his recent ordeal, 
+the royal heir is barely conscious. The party 
+can confirm the prince's identity by compar 
+ing his features to those in the portrait of him 
+that they carry. A cure light wounds spell or an 
+application of healing potion or ointment gets 
+the prince on his feet, but he won't be able to 
+fight for some days. He is, however, able to 
+keep up with the group during travel. The 
+prince is AC 10; MV 9"; F2; hp 1(13); no 
+weapons, AL LG. When discovered, Edmund 
+has only 1 hp remaining. 
+
+As soon as he is on his feet and aware of his 
+surroundings, the prince expresses the follow 
+ing concerns and comments in whatever order 
+seems appropriate: 
+
+
+27 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"Who are you! Why are you here! Were 
+you sent by my father!" 
+
+"Where are my loyal comrades! Are they 
+safe! Please tell me. I bid you." 
+
+"But why was I kidnapped! And why 
+brought here!" 
+
+"The Royal Council must know of what has 
+happened here. Aimar is a traitor; of that 
+there is no doubt. But the poison goes 
+further. I am sure. Perhaps all the way to 
+my Uncle Edrin, who has long coveted the 
+throne." 
+
+"Stand a moment, friends. Let me get my 
+legs under me. It has been such a strange 
+time, alone here in the dark. And always 
+that screeching in my ear. Like some great 
+bird trying to speak its hate of men. A 
+dream, perhaps, but even now my head is 
+filled with that terrible sound." 
+
+
+Edmund's single burning desire, at the 
+moment, is to return to Dunthrane as soon as 
+possible. But, being young, inexperienced, and 
+in a weakened state, he places his fate entirely 
+in the hands of the characters, deferring to 
+their decisions as to strategy and tactics. If his 
+opinion is solicited, Edmund sides with 
+characters who are of good alignment. 
+
+22. Tower Chamber 
+
+
+A spiral staircase near the northern wall of 
+this room leads to a trap door in the ceiling. 
+The south and east walls are lined with 
+weapons racks containing spiked poles. A 
+fireplace is set into the west wall. 
+
+
+The stairs lead down to room 9 and up to the 
+parapet atop the turret. 
+
+23. Aimar's Bedroom (door locked) 
+
+
+A large four poster bed takes up the entire 
+southeast corner of the room. A fireplace is 
+set into the middle of the east wall. Above 
+the fireplace are shelves containing a lamp, 
+an hourglass, a set of tongs, and an inverted 
+funnel. In the southeast corner stands a tall 
+walnut wall cabinet. Fine tapestries adorn 
+all of the chamber's walls. 
+
+
+Beneath the bed is a footlocker filled with 
+boors, spurs, leg braces and leggings. Some 
+where in this tangle of leather goods is a 
+leather sack containing a pair of bracers of 
+defense AC6. 
+
+The locked wall cabinet holds a dozen pair of 
+silk and velvet pantaloons with matching 
+doublers and a pair of royal blue tunics. The 
+
+
+tunics are embroidered with the golden lion 
+device. A small chest at the bottom of the 
+cabinet contains 100 gp, 200 sp, and a rolled- 
+up parchment encircled by a black ribbon. The 
+parchment is a letter from Lord Edrin to the 
+Duke of Andevar exhorting the latter to "deal 
+with our friend, the pilgrim." This is a coded 
+reference to the kidnapping and killing of 
+Prince Edmund. 
+
+Hidden in the bottom hem of the base of the 
+tapestry on the south wall is a 14-inch metal 
+tube. Inside the tube is a w and of magic 
+missiles with 12 charges. This item functions 
+up to twice per round to deliver a 2-5 hp mis 
+sile. Each missile needs three segments to fire 
+and uses one charge. 
+
+24. Tower Chamber 
+
+
+Four narrow beds crowd the east wall of 
+this room. A spouted barrel rests against 
+the north wall. 
+
+
+There are no spiral stairs in this room, just a 
+hole leading down to the stairway below. At 
+any one rime, one to four servants (AC 10, MV 
+9"; hp 6 each; #AT nil; AL N) are asleep here. 
+Greatly fearing the duke's wrath, the servants 
+will do nothing to help the party. If threat 
+ened, they will feign ignorance about the cas 
+tle and all its occupants. 
+
+Beneath the beds, the servants have hidden 
+their few paltry possessions (1-20 cp per ser 
+vant). 
+
+25. East Tower Antechamber 
+
+
+A staircase near the eastern wall of this 
+semicircular room leads to a trap door in 
+the ceiling. The room, itself, is bare. A 
+rather large, brutish-looking individual 
+stands before a carved door in the west 
+wall. 
+
+
+The room's occupant is Aimar's bodyguard, a 
+huge half-ore named Lom (AC3; MV9"; F6; hp 
+46; #AT 1; Dl-10 (two-handed sword); S M; AL 
+LE). Lom wears plate armor and a spiked helm. 
+Stuck in his belt are a dagger and a footman's 
+flail. Around his neck is a cord from which is sus 
+pended a pouch holding 1-10 pp and 2-20 gp. 
+Lom fights to the death to defend Aimar. 
+
+Any disturbances in this room attracts the 
+attention of Aimar, who emerges from room 
+21, within three rounds of hearing the sound of 
+fighting. 
+
+
+26. Aimar's Quarters 
+
+
+A large fireplace and mantle dominate the 
+west wall of this chamber. There are three 
+small statuettes atop the mantle. A low 
+table, flanked by a pair of carved, leather- 
+upholstered chairs, is positioned in front of 
+the fire. A crystal decanter filled with an 
+amber liquid and two crystal goblets are 
+arranged on the table. Against the north 
+wall is a large bed covered in heavy furs. A 
+table topped by a small chest sits against the 
+south wall. In the southwest corner of the 
+room, two horizontal bars hang from chains 
+bolted to the ceiling. 
+
+
+If Aimar did not enter the melee in room 25, he 
+is in this room. The Duke of Andevar is a 
+fighter/magic user (AC1; MV 12"; F/MU 6/5; 
+hp 40; #AT 1; D 3-10(sword + 2); AL LE; S 15, 
+1 17, W 13, D 16, C 16, Ch 14). He wears a 
+black tunic embroidered with the golden lion 
+device, bracers of defense AC 5, and a ring of 
+protection +1 (saves at +1). His Dexterity gives 
+his two pluses on his armor class. In this 
+situation. Aimar may use magic missile (twice), 
+shocking grasp, ray of enfeeblement, and, in 
+desperation, a fireball. If Aimar uses the fireball 
+while in room 25, he retreats to room 21, (or to 
+the open parapets) and launches the 5d6 fireball 
+into room 25. Aimar will not use the fireball if 
+him or his companion, Riannon, are uninjured. 
+Aimar has two pet blood hawks who follow 
+him to the attack. The blood hawks are (AC 1; 
+MV 12724"; HD 1+1; hp 7,7; #AT 3; D 1-4/1- 
+4/1-6. AL N). The horizontal bars in room 26 
+are perches for these birds. 
+
+As suggested by the two goblets, another 
+person also occupies Aimar's quarters - his 
+mistress, Riannon. A half-elf magic user/thief, 
+Riannon is (AC 7; MV 12"; MU/T 3/4; hp 17; 
+#AT 2; D 2-512-5 (dagger +1); AL CE). On a 
+successful backstab, Riannon does double 
+damage. She wears studded leather armor. 
+Riannon has the use of three memorized spells: 
+sleep, feather fall, and invisibility. 
+
+Though quite fond of the duke's wealth and 
+power, beautiful Riannon is too much the 
+adventuress to risk her life for Aimar. Her main 
+goal is survival, and if Aimar is beaten and she 
+is captured, she will quickly surrender and offer 
+to join the party. In this situation. Riannon will 
+admit to being a thief, but will conceal her 
+magic-user skills. She may even attempt to 
+persuade the party that Aimar held her against 
+her wishes, though Prince Edmund will 
+maintain just the opposite. If the characters try 
+to win Riannon's trust, her manner will soften 
+and she will start to behave in a friendly 
+manner, even going so far as to show them 
+Aimar's treasure room (18). 
+
+
+29 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+However, once outside the east tower cham 
+ber, Riannon will use a shrill, birdlike call to 
+summon the griffon from on top of the north 
+east tower (24). To remove herself from the 
+action once the griffon arrives, she uses 
+feather fall from the wall, turns invisible and 
+flees to the nearby woods to watch the fun. 
+Her hope is, of course, that if the griffon 
+destroys the party then she can return and 
+make off with all of Aimar's treasure. If the 
+situation becomes life-threatening to Rian 
+non, she will abandon this plan and quit the 
+area entirely. 
+
+The chest on the table in room 26 holds 
+1,000 gp worth of precious gems and jewelry, 
+a gift from Aimar to Riannon. The three stat 
+uettes on the mantle are lions; one is gold and 
+worth 100 gp; one is silver and worth 100 sp; 
+the third is bronze. The bronze lion is hollow 
+and contains a small leather pouch inside of 
+which the characters will find a ruby worth 
+
+200 gp. 
+
+The wall cabinet contains a suit of leather 
+armor, a cloak and a bag holding a set of 
+thieves' tools. On the floor of the cabinet, 
+hidden under an old tunic is Riannon's spell 
+book. 
+
+The Griffon 
+
+If the griffon (AC 3; MV 12730 "; HD 7; 
+hp 44; #AT 3; D 1-4/1-4/2-16; S L; AL N) 
+does not attack at Riannon's summons, it is 
+attracted by the sound and smell of the char 
+acters' horses as they try to leave the castle, 
+and attacks at that time. The events inside the 
+castle having disrupted the griffon's regular 
+feeding schedule, the beast is now hungry 
+enough to do its own hunting. It attacks with 
+determination in an effort to get at the party's 
+horses, but prefers a riderless mount at all 
+times. If it can isolate a horse, it breaks off its 
+attack and starts to feast; if interrupted in its 
+feast, it fights to the death. If the characters 
+don't use horses to leave the castle and it is 
+not summoned by Riannon, the griffon does 
+not appear. 
+
+
+With the defeat of Aimar and the freeing of 
+Prince Edmund, the evil designs of the Duke 
+of Andevar have been thwarted. It remains, 
+however, for the party to make its way safely 
+back to Dunthrane. They may retrace the way 
+they came through Capel Tower and 
+Montinelle, or they may ride south from 
+Griffon Castle and then through Noren's 
+Wood. In either case, they must still reckon 
+with the forces of Lord Edrin. 
+
+Lord Edrin's Forces 
+
+Lord Edrin's remaining forces include two 
+groups of horsemen, one group of infantry, 
+and the assassin, Mendal Secord. By this time, 
+Lord Edrin, having had no news of the fate of 
+the prince, has sent most of his own men to 
+Andevar to make sure chat Edmund does not 
+turn up again. 
+
+Ironically, as regent of Dunador, Edrin has 
+also been forced to send some of his troops to 
+restore and guard Fontenmere Abbey, which 
+was so recently sacked by a group of his men 
+disguised as brigands. Edrin's forces in 
+Andevar include: 
+
+Group 1 
+
+8 horsemen: AC 6; MV 12724"; F3; hp 20 
+
+each; #AT 1; D 1-6 with lance; AL LN 
+
+1 captain: AC 4; MV 12724"; F4 ; hp 32; #AT 
+1; D 1-8 with sword; AL LE 
+
+9 light horses: AC 7; MV 24"; HD 2; hp 15 
+
+each; #AT 0; AL N 
+
+All the horsemen wear gray tunics 
+emblazoned with the black raven device. The 
+troopers wear scale armor, but have no shields. 
+They carry swords at their sides. Each also 
+carries 1-20 sp. The captain wears chain armor 
+under a gold-trimmed gray tunic. He carries a 
+shield, a sword, and 2-40 gp. 
+
+The party encounters this group patrolling the 
+road from the Three Leathers Inn through 
+Montinelle to Capel Tower. They know of the 
+events at Capel Tower and are aware of the 
+party's presence in the region. Their express 
+purpose is to find and kill Edmund. The most 
+likely spot for an encounter with these troops 
+is at the Drake & Castle Inn. 
+
+Group 2 
+
+This group is identical to the first group 
+except that there are only five horsemen 
+(instead of eight) and their captain. On a roll 
+of 1 or 2 on ld6, this group is encountered 
+patrolling the roads from the Three Feathers 
+Inn past Fontenmere Abbey and thence 
+northwest as far as the secret path through 
+Noren's Wood. It will never be encountered on 
+the secret path or inside Noren's Wood. If the 
+party does not encounter this patrol further 
+north, then it does meet the patrol at the 
+
+
+Three Feathers Inn. 
+
+Group 3 
+
+10 foot soldiers: AC 5; MV 3"; F3; hp 18 each; 
+#AT 1; D 1-6 with spear; AL LN 
+
+1 captain: AC 4; MV 3"; F4; hp 23; #AT 1; D 
+1-8 with sword; AL LE 
+
+The infantrymen making up this party are 
+dressed in gray tunics emblazoned with the 
+black raven device. Beneath their tunics they 
+wear scale armor. Each is armed with a sword 
+and spear and carries a shield. Each has 1-20 
+sp on his person. There are two horses left at 
+Fontenmere and two of the fighters pursue the 
+group on horseback if such action is 
+appropriate to the encounter. 
+
+In the improbable event that the group tries to 
+return the royal seal and scepter to 
+Fontenmere, the captain tries to take them into 
+his custody. 
+
+Edrin's men have cleaned up the damage 
+inflicted on the abbey by the brigands who 
+sacked it. Two guards are now posted outside 
+the abbey, one at the north door and one at the 
+south door. The captain and the rest of his 
+troop are inside. The captain has set up a 
+makeshift office in room 3. 
+
+The troop's ostensible purpose is to restore 
+and guard the abbey. However, the captain has 
+secret orders to kill Prince Edmund if he 
+should fall into the soldiers' hands. If the 
+prince is recognized, the captain orders his 
+men to attack and fight to the death. If the 
+melee goes against Edrin's men, the captain 
+sends one of the men to ride for 
+reinforcements. If Edmund is captured, the 
+captain kills him. 
+
+Mendal Secord, the Assassin 
+
+Mendal Secord has shadowed the party all the 
+way from Capel Tower to Griffon Castle, 
+moving along the river track on horseback. 
+Having thus discovered Duke Aimar's secret 
+stronghold, Secord has established himself in a 
+wooded hiding place and waited for events to 
+unfold. If he sees the party leave the castle 
+without the prince, he contents himself with 
+trailing it south. If the prince is with the party, 
+however, Secord prepares to move against his 
+royal victim as rapidly as possible, preferably 
+before the party reaches any of the main roads 
+of Andevar. 
+
+Secord has already laid a tentative plan for the 
+assassination. Using his ring of invisibility and 
+his skill as an assassin, he tries to get ahead of 
+the party and ambush the prince in some 
+convenient wooded area, dropping onto 
+Edmund from a tree. If this plan can't be 
+concluded successfully, he tries to attack the 
+prince when the party makes camp for the 
+night. 
+
+Regardless of which plan he uses, Secord 
+
+
+30 
+
+
+
+
+
+
+
+
+
+
+
+makes a surprise attack from the rear. If he 
+leaps at the prince in ambush, he does not have 
+the benefit of his + 4 to hit; however, he does 
+have a 30 percent chance of causing triple 
+damage with his dagger +2 through two 
+attacks in the same round. As soon as he 
+attacks, the assassin slips off his ring and 
+becomes visible. If hit, the prince must save vs. 
+poison or die within 10 rounds, unless remedial 
+measures are taken to bind his wounds and deal 
+with the poison from Secord's dagger blade. 
+Secord sustains his attack until the prince is hit 
+once. 
+
+If Secord attacks the prince while the group 
+camps for the night, he has a + 4 bonus to hit 
+from the rear. However, he has a base chance 
+of only 70 percent to get silent access to the 
+prince. For every character on guard duty, 
+Secord's chance to move silently is lessened by 
+15 percent. If Secord fails to move silently, tell 
+the characters on guard that they hear a rus 
+tling in the bushes or a snapping twig. As in the 
+first scenario, Secord becomes visible as soon 
+as he attacks. 
+
+To recap, Mendal Secord is human (AC 1; MV 
+12"; A6; hp 31; #AT 2; D 3-6, 3-6 with dagger 
++2; SA poison; AL LE). He wears bracers of 
+defense AC 5, a cloak of protection , and a ring 
+of invisibility with no more than four charges 
+left. He carries a short sword and a purse 
+containing 1-20 gp and 1-10 pp. 
+
+After attacking Edmund. Secord tries to escape 
+on foot and reach his horse, which is tethered 
+within 200 feet of the attack site. If he is 
+overtaken, Secord becomes invisible if his ring 
+still contains at least one charge. Otherwise, he 
+fights to the death. 
+
+If he escapes, the assassin returns to Dun- 
+thrane, believing that he has killed the prince. 
+There is a 60 percent chance that Secord falls 
+prey to the worgs if he travels through Noren's 
+Wood on his way back to Dunthrane. 
+
+The Secret Path 
+
+A few miles west of Griffon Castle and in 
+plain sight of it is a narrow bridge over the 
+Laine River. The bridge is part of an old road, 
+now fallen into disuse, that cuts through this 
+northwestern parr of the province. Point out to 
+the party that this track seems considerably less 
+traveled than other roads in Andevar. Ten miles 
+south of the river, the party comes to a huge 
+boulder just east of the road. At this point, the 
+main road turns west. Behind this rock, and 
+barely distinguishable amid the long grass that 
+overgrows it, is a narrow path weaving slightly 
+southeast. The path is wide enough for one 
+horse, allowing single-file passage only. 
+
+Noren's Wood 
+
+Noren's Wood is home to a band of 10 
+
+
+vicious worgs, each (AC 6, MV 18"; HD 4 + 
+4; hp 30, 26, 25, 23, 21, 20, 20, 19, 17, 16; 
+#AT 1; D 2-8; S L. AL NE). Currently the 
+worgs are hunting small, cute animals in the 
+southwest portion of the woods. If Mendal 
+Secord attacks Edmund in this forest, he does 
+so near the northern entrance. Then, if the 
+assassin escapes the party, he rides south 
+through the wood. There is a 60 percent 
+chance that he and the worgs meet near the 
+southern end of the secret path, in which case 
+Mendal Secord automatically becomes lunch. 
+The party finds his incomplete mortal remains 
+near the southern edge of the wood. His 
+weapons and all magical items except the ring 
+of spell storing are gone. 
+
+For the last 15 miles of the party's journey 
+through the wood, check twice to see if they, 
+too, are attacked by worgs. An encounter 
+occurs on a roll of 1 on ld6. 
+
+Conclusion -- 
+If Edmund is Alive 
+
+Once the party passes south of the Three 
+Feathers Inn, it may automatically proceed to 
+Dunthrane in safety. As the characters enter 
+the fortified town, crowds gather around 
+Edmund and the adventurers. Cries of joy and 
+chants of "hail the king," fill the air. 
+
+When word of this event spreads to the castle 
+grounds, Hollend's few retainers move quickly 
+to disarm Lord Edrin's depleted forces. 
+Throughout the town Edrin's black raven ban 
+ners are replaced by the yellow banners of the 
+Royal House of Dunthrane. At the castle gates. 
+Hollend and the council greet Edmund with a 
+trumpet fanfare. 
+
+After a day of rest, Prince Edmund and 
+Hollend hold an audience with the party at 
+which the adventurers learn that Lord Edrin is 
+in irons and that Mendal Secord (if he returned 
+to Dunthrane) has been charged with the 
+murder of King Halfred. If Secord is dead, the 
+parry hears that the late Secord was the king's 
+assassin. Furthermore, a case is being made 
+against Edrin for the murder of William 
+Menote, Patriarch of Fontenmere. In the face 
+of overwhelming evidence, it looks to Hollend 
+like Edrin is well on his way to being 
+shortened by a head. 
+
+At the end of the audience, the party learns 
+that the young prince will be crowned king as 
+soon as a new patriarch is elected for Fonten 
+mere. 
+
+A grateful Edmund gives each character a 
+reward of 2,000 gp and proclaims a 
+week of celebration in their honor. Each 
+surviving adventurer is also made an honorary 
+citizen of Dunador and a new yearly holiday, 
+to be called Liberation Day, is decreed in their 
+honor. If any of the party died in the quest. 
+Edmund asks the survivors to remain in Duna 
+
+
+dor to provide the bards with material for use 
+in songs honoring their memories. 
+
+Of course, the party must return the royal seal 
+and scepter of Dunador. Reward the party with 
+an additional 6,000 experience points (divided 
+equally) if they voluntarily return these 
+treasured symbols. 
+
+Conclusion -- 
+If Edmund is Dead 
+
+If the group bears Edmund's body back to 
+Dunthrane, eliminate all fanfare and 
+celebration from the previous scenario. In its 
+place, terrible cries of anguish and wails of 
+mourning fill the air as the dead prince is 
+carried to the castle gates. Hollend meets the 
+characters. Taking them aside, he asks about 
+their mission and how it comes that Edmund is 
+dead. When satisfied with the explanation, 
+Hollend makes the following proposal. 
+
+
+"This may be the darkest hour in the 
+history of Dunador. Oh that evil should 
+triumph in spite of all our efforts! A king, 
+a patriarch, and now a prince, all dead at 
+the hands of this evil lord. I fear now that 
+we are, indeed, lost. 
+
+"And yet, there may be one final chance 
+to save the realm from this prince of evil. 
+Edrin's forces are depleted. Some of his 
+men are less than faithful. I believe that, 
+thanks to you, he has but a handful of 
+loyal men-at-arms at his side. If I go forth 
+now and publicly charge him with the 
+murder of his noble kinsmen, he must 
+answer. As heir to the throne, he cannot be 
+tried by the laws of man. But he must 
+answer to our gods. 
+
+"The way it is done is this: I can 
+challenge him to champion combat, and 
+before the people he would would have to 
+accept the challenge. I know Edrin would 
+not delegate this responsibility to a lesser 
+man, for he is a knight well skilled in the 
+fighting arts. Alas, for this task I am now 
+far too old, and there are no others here 
+who could unhorse the villain. None, that 
+is, save one of you, perhaps. I have 
+already asked much of you in this quest, 
+but now I appeal to you once more. Will 
+one of you take up arms again for truth, 
+justice, and the people of Dunador! 
+Though the foe be fearsome and the trial 
+to the death, will one of you be our cham 
+pion?" 
+
+
+If the characters refuse Hollend's appeal, he 
+bids them a regretful farewell. The adventure is 
+then over. The characters leave, however, in 
+certain knowledge that Dunador is left to the 
+mercy of the evil Lord Edrin. In keeping with 
+
+
+31 
+
+
+
+
+
+
+
+Ending the Adventure 
+
+
+such an unchivalrous action, the churlish 
+characters receive no reward of any sort 
+(money, honors, or bonus experience points). 
+
+If, on the other hand, the characters accept 
+Hollend's appeal, the king's advisor forces the 
+issue with Lord Edrin. The Royal Council sends 
+criers throughout Dunthrane to issue Hollend's 
+challenge and charges. In a matter of hours, 
+both charges and the challenge are echoed by 
+hundreds of voices throughout Dunthrane. 
+
+In the face of overwhelming pressure, Lord 
+Edrin accepts Hollend's challenge. The contest 
+is set for the following day and takes the form 
+of a joust to the death in the combat field next 
+to Dunthrane Castle. 
+
+
+Choosing a Champion 
+
+It may be that there is one character who is the 
+obvious champion. If not, you can help the 
+players choose a champion by having them 
+draw lots. After listing the appropriate fighter or 
+fighter multi-class characters, have the eligible 
+players draw pencils, cut straws, or cut 
+toothpicks. The player who draws the shortest 
+stick is the champion. 
+
+After the champion is chosen, Hollend and the 
+council offer the character a lance, a suit of 
+plate armor, and a medium war horse (AC 7; 
+MV 18"; HD 2+2; hp 18; #AT 0; S L; AL N). 
+The character may accept these things or refuse 
+them. Hollend asks the character to bear the 
+shield colors of Dunador (light blue Dunadorian 
+cross on a field of canaiy yellow). Make a note 
+of the character's adjustment in armor class. 
+
+
+If Lord Edrin is slain, a great cry of joy and 
+exultation rises from the crowd. All the fanfare 
+outlined earlier takes place. Despite their 
+sorrow over Prince Edmund's death, the people 
+of Dunthrane rejoice that justice has been done. 
+The adventurers receive their rewards and the 
+adventurer champion receives and additional 
+1,500 experience points for individual merit. 
+
+
+After much celebrating, the council announces 
+that Hollend has been elected regent of 
+Dunador. The new regent then publicly 
+acknowledges the great service the adventurers 
+have done Dunador and announces that he will 
+manage the realm until Edmund's 14 year-old, 
+female cousin returns from a convent in the 
+west. This young cousin, Valenria, will become 
+the first queen of Dunador. 
+
+
+Pre-Rolled Player Characters 
+
+
+Bromley Falco 
+
+A talented illusionist-thief, this gnome wears 
+leather annor and carries 12 darts, a dagger +1, 
+thieves' tools, a potion of speed, and a ring of 
+feather falling. He knows two lst-level spells (at 
+least one should be color spray) and one 2d- 
+level spell. 
+
+Astrid Fyn 
+
+This human cleric wears chain mail and carries 
+a shield. She also has a mace +1 and a 
+quarterstaff. She carries a potion of healing and 
+a potion of invisibility. She knows two lst-level 
+spells and two 2d-level spells. 
+
+Cameron Gaunt 
+
+This human ranger wears chain mail and carries 
+a shield. He also uses a longsword +1, a 
+composite bow with 20 arrows +1, a spear, and a 
+flail. 
+
+
+Owen Glendower 
+
+Owen is a half-elf fighter-cleric He wears 
+chain mail ii and carries a shield, a long sword 
++1, a flail, a short bow, and a dagger. He also 
+has a potion of extra healing. He knows two 
+lst-level spells and two 2d-level spells. 
+
+
+Horsa Hengist 
+
+This dwarf fighter wears plate mail and 
+carries a shield. He also has a battle axe +1, a 
+short sword, a crossbow, and a flail. 
+
+Kersana Ringlo 
+
+The elven magic-user wears bracers of 
+defense AC 7 and has a +2 Dexterity bonus, 
+giving her AC 5. She carries a 10-foot pole, a 
+dagger +1, and a wand of paralyzation with 7 
+charges. She knows three lst-level spells and 
+two 2d-level spells. 
+
+
+Lord Edrin 
+
+Lord Edrin takes the field in black plate armor. 
+His shield bears the black raven insignia against a 
+field of light gray. A gold raven encircled by the 
+silver crown of the regent of Dunador is fixed atop 
+his black helmet. Lord Edrin is (AC 2; MV 
+12718"; F6; hp 44; #AT 1; D 2-7 with lance, 1-8 
+with sword; AL LE; S 15, I 16. W 12, D 14, C 16, 
+CH 13). He rides a medium war horse (AC 7; MV 
+18"; HD 2+2; hp 17; #AT 3; D 1-6/1-6/1-3; S L; 
+AL N). He carries a sheathed long sword at his 
+side. 
+
+
+Horses 
+
+In this outdoor adventure, mounted travel is 
+essential. All the characters outlined on this page 
+have light warhorses. Let the players roll hit 
+points for their own horses. 
+
+6 light warhorses (AC 7; MV 24"; HD 2; #AT 2; 
+D 1-4/1-4; S L; AL N). 
+
+Bromley Falco is unusually large for a gnome 
+and so is able to manage a light horse with 
+appropriate saddle modifications. This character 
+cannot ride a large mount. 
+
+
+Rules for the Joust 
+
+Use the same jousting rules described for the 
+Barbarian's Bridge encounter. Each combatant is 
+allowed only two weapons in this contest; a lance 
+and one other. The joust is to the death. 
+
+If the character dies at the hands of Lord Edrin, 
+all other characters can leave Dunador in safety, 
+taking the body of their fallen companion with 
+them. But they leave without honors or reward. 
+
+
+Character 
+
+Race 
+
+Sex 
+
+AC 
+
+MV 
+
+Level 
+
+hp 
+
+AL 
+
+Str 
+
+Con 
+
+Dex 
+
+Int 
+
+Wis 
+
+Cha 
+
+Bromley Falco 
+
+G 
+
+M 
+
+6 
+
+12 
+
+I3/T4 
+
+17 
+
+LN 
+
+14 
+
+15 
+
+15 
+
+16 
+
+12 
+
+16 
+
+Astrid Fyn 
+
+H 
+
+F 
+
+4 
+
+9 
+
+C3 
+
+21 
+
+NG 
+
+15 
+
+14 
+
+15 
+
+14 
+
+16 
+
+13 
+
+Cameron Gaunt 
+
+H 
+
+M 
+
+3 
+
+9 
+
+F4 
+
+31 
+
+CG 
+
+16 
+
+17 
+
+16 
+
+14 
+
+12 
+
+14 
+
+Owen Glendower 
+
+HE 
+
+M 
+
+3 
+
+12 
+
+F3/C3 
+
+24 
+
+CG 
+
+16 
+
+14 
+
+15 
+
+11 
+
+16 
+
+13 
+
+Horsa Hengist 
+
+D 
+
+M 
+
+2 
+
+9 
+
+F3 
+
+32 
+
+LG 
+
+15 
+
+16 
+
+14 
+
+11 
+
+13 
+
+13 
+
+Kersana Ringlo 
+
+E 
+
+F 
+
+5 
+
+12 
+
+MU4 
+
+16 
+
+CN 
+
+13 
+
+14 
+
+16 
+
+17 
+
+11 
+
+17 
+
+
+32 
+
+
+
+
+
+
+Map 9A: Griffon Castle 
+(ground level) 
+
+
+
+1 square =10 feet 
+Spiral Stairs 
+Well 
+
+Portcullis 
+
+Trap Door in Flood 
+
+
+
+Note: all spiral stairs lead upward 
+to their respective tower rooms 
+directly above (no trap doors). 
+
+
+Map 9B: Griffon Castle 
+(upper level) 
+
+1 square =10 feet 
+Spiral Stairs 
+Well 
+
+Walls are 40 feet high. 
+Towers are 50 feet high. 
+
+
+
+
+Note: each of the six towers and 
+two gatehouses have open-air 
+parapets above. All stairs and 
+spiral stairs lead to trap doors and 
+the parapets above. 
+
+
+
+Traitor's Gate 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Map 2: TheProvhice of Andevar 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+¦PBqHMapyqpHiHMaqiuii 
+
+
+Map t : Proyirtc^ pf An6$ym 
+
+y \ ) i ¦ \ > i ) ( > < > < / ( 
+
+
+Thd Northlands 
+
+
+Bpuhdary df Aridevaf 
+
+V / '• .¦' 
+
+
+Larne River \ 
+
+
+tMobrtedds 
+
+
+Amtevar 
+
+>-( .W y-h 
+
+
+"'West lands 
+
+
+Fbrrtertniere t 
+Ab^ey 
+
+
+Montrielie 
+
+
+\ fids '> ft'hiii'ss 
+
+
+ja'ot^bruiidm^ aivL( 
+l.ari^i-JTi3.fTfs-ar<v~QU) J 
+
+^k* < /• ( ) 
+
+
+Sodth^m 
+
+
+ToDtmthmoe 
+
+
+"SMB At--, A 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Advanced 
+
+Dungeons0*pragons 
+
+Official Game Adventure 
+
+
+Destiny of Kings 
+
+Stephen Bourne 
+
+
+When Treason Walks the Land... 
+
+The kingdom of Dunador is in trouble. Since 
+the king, Halfred of Dunthrane, was killed in a 
+hunting accident, the land has hovered on the 
+brink of civil war. Crown Prince Edmund, at 18 
+only half-trained and quite unprepared to 
+assume the throne, has yet to be crowned. Cur 
+rently he is on a pilgrimage to the holy shrine of 
+Nevron in the province of Andevar. While the 
+uncrowned king is far from home, anarchy 
+reigns in Dunador. 
+
+Throughout the realm, plots are brewing and 
+evil hands are eagerly clutching at the sword of 
+treason. Inevitably the focus of these intrigues 
+is in the troubled province of Andevar to the 
+north. For it is here that the young Prince has 
+journeyed and here that he must be crowned. 
+
+In this dark hour Dunador has but one faith 
+ful servant: Hollend, chief advisor to the old 
+king. Painfully aware of all that is at stake, Hol 
+lend has sought the aid of a brave party of 
+adventurers in a desperate bid to tip the scales 
+in favor of truth ana justice. But, even as the 
+party secretly enters Andevar, the forces of 
+evil strike with blinding speed and ruthless 
+determination. 
+
+
+(c)Copyright 1986 TSR Inc. All Rights REservers. Printed in the U.S.A. 
+
+
+TSR Inc. 
+
+P.O. Box 756 
+Lake Geneva 
+WI 53147 
+
+
+TSR UK Ltd. 
+The Mill, Rathmore Road 
+Cambridge CB1 4AD 
+United Kingdom 
+
+
+0-88038-274-0 
+
+ISBN 394-55417-5TSR0800 
+
+
+
+
+
+
+
+
+
+

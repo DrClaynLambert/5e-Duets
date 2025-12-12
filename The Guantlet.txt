@@ -1,0 +1,6499 @@
+Skip to main content
+ 
+Texts
+ 
+Video
+ 
+Audio
+ 
+Software
+ 
+Images
+Sign up for free
+Log in
+ Search metadata
+ Search text contents
+ Search TV news captions
+ Search radio transcripts
+ Search archived web sites
+Advanced Search
+About Blog Events Projects Help Donate  Contact Jobs Volunteer
+Full text of "Tsr 09111 AD& D 1 E Adventure UK 3 The Gauntlet ( Level 3 6)"
+See other formats
+The second module in the two-part ADLERWEG series 
+
+
+9111 
+
+
+Advanced 
+
+Dungeons|>T)ragons 
+
+Official Game Adventure 
+
+THE GAUNTLET 
+
+by Graeme Morris 
+
+
+
+TSR, Inc, 
+
+PRODUCTS OF TOUR IMAGINATION" 
+
+ADVANCED DUNGEONS S DRAGONS and PRODUCTS Of YOUR IMAGINATION an- trademarks qI TSR. Inc. 
+
+
+
+
+
+ADVANCED DUNGEONS & DRAGONS 
+
+Fantasy Adventure Module 
+
+
+THE GAUNTLET 
+
+by Graeme Morris 
+
+
+This module can be played alone or as the second adventure of the two-part Adlerweg series. 
+
+
+
+The Keep of Adlerweg has remained aloof and impenetrable since before the coming of the 
+Sea Princes. Great Armies have broken like waves against its walls, but now it is overrun and 
+occupied by a sinister force. How can you restore it to its former glory? 
+
+
+ADVANCED OUNGEONS & DRAGONS and PRODUCTS OF VOUR IMAGINATION are trademarks owned by 
+TSR, Inc. 
+
+
+Distributed to the book trade in the United States by Random House. Inc., and in Canada by Random 
+House of Canada, Ltd, 
+Distributed to the toy and hobby trade by regional distributors. 
+
+Distributed in the United Kingdom by TSR UK, Ltd. 
+
+
+This module is protected under Ihe copy right laws of the United States of America, Any reproduction or 
+other unauthorized use of the material or artwork contained herein is 
+
+prohibited without the express written permission of TSR, too 
+
+c 1964 TSR. Inc. Ail Rights Reserved, 
+
+
+TSR, Inc. 
+POB 756 
+Lake Geneva, 
+Wl 53147 
+
+
+
+TSR (UK) Ltd. 
+
+The Mill, Rath more Road 
+Cambridge CB14AD 
+United Kingdom 
+
+
+TSR, Inc. 
+
+PRODUCTS OF YOUR IMAGINATION"* 
+
+
+PRINTED fN U.S.A. 
+ISBN O&8038-119-1 
+
+
+9111 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+INTRODUCTION 
+
+This module is for use with the ADVANCED DUNGEONS & 
+DRAGONS H adventure role-playing game rules. It is designed 
+for 6-10 characters of levels 3-6 of whom at least some must be 
+of lawful good, neutral good, chaotic good, lawful neutral, or 
+true neutral alignment. 
+
+
+STOP! 
+
+If you intend to be a player in this module, do not read 
+any further. The information in this booklet is for the 
+Dungeon Master (DM) only. Any knowledge of the 
+module will spoil your enjoyment of the adventure 
+and that of the other players. 
+
+
+CONTENTS 
+
+Page 
+
+
+INTRODUCTION 2 
+
+Contents 2; Abbreviations 2; Background for the DM 3 
+
+THE JOURNEY TO ADLERWEG 5 
+
+The Ruins of Gannaway S; The Track through the 
+Mountains 5 
+
+RANDOM ENCOUNTERS 6 
+
+THE RECAPTURE OF ADLERWEG 7 
+
+
+Architecture of the Keep 7; The Fall of the Keep 8; The New 
+Garrison of the Keep 8; Entering the Keep (areas 1-4) 8; 
+
+The Undercroft (rooms 5-9) 10; The Tower 13; Floor 1 
+(rooms 10-12) 13; Floor 2 (rooms 13-17) 14; Floor 3 
+(rooms 18-22) 16: Floor 4 (rooms 23-28} 18 
+
+THE SJEGE OF ADLERWEG 21 
+
+Summary of this Part 21; Starting the Siege 21; The Attack 
+by the Fire Giant 21; The Fire Giant's Army 22; Initial 
+Assault 23; Parley With The Giant 24; The Magical 
+Prison 24; The Instruction Book 25; The Secret Chest 25; 
+
+Releasing the Prisoners 25; Prisoners (cells 1-4) 26 
+
+THE GAUNTLET 28 
+
+Powers 28 
+
+THE SENTINEL 29 
+
+Powers 29; Destruction of the Gauntlet and the Sentinel 29 
+
+ALTERNATIVE START TO THE ADVENTURE 30 
+
+The Skulks' Lair 30 
+
+
+VIEW OF THE KEEP (tear-out) 
+
+MESSAGE FROM THE SENTINEL (tear-out) 
+MONSTER ROSTER 
+DUNGEON MASTER S MAPS A-C 
+PLAYERS' MAP 
+
+SUGGESTED CHARACTER ROSTER 
+
+
+31-32 
+
+31-32 
+
+inside module folder 
+inside module folder 
+outside module folder 
+outside module folder 
+
+
+ABBREVIATIONS 
+
+In this module, the statistics of monsters and non-player 
+characters have been standardised. The information is given in 
+brackets after the monster's/NPC's name, as follows: 
+
+AC - Armour Class; MV - Movement Rate; HD = Hit Dice 
+(monsters} or Class/Level (NPCs - see below}; hp = current hit 
+points (figures in brackets indicate maximum hit points of 
+wounded creatures); AT = Number of Attacks; D = Damage 
+Caused by Attacks; SA = Special Attacks; SD - Special 
+Defences; MR - Magic Resistance; Int - Intelligence (monsters 
+only); AL - Alignment: Ability Scores (NPCs only *see below); 
+Size (monsters only); xp = Experience Points awarded for 
+overcoming; THACO (below); Source of further information. 
+
+The following additional abbreviations are used: C = Cleric, 
+D - Druid, F " Fighter. P - Paladin, R = Ranger. M = Magic User, 
+
+1 = Illusionist. T = Thief. A- Assassin, Mk = Monk, S - Strength. 
+
+2 
+
+
+I - Intelligence, W = Wisdom, D - Dexterity, C - Constitution, 
+
+Ch = Charisma, MM = AD&D(tm) Monster Manual. FF - FIEND 
+FOLIO(tm)Tome, PH - AD&D Players Handbook. DMG = AD&D 
+Dungeon Masters Guide 
+
+THACO = To Hit Armour Class Zero, This is the roll on a d2Q 
+needed by a creature to hit an opponent with AC 0 (see DMG 
+pi96-215 r for examples). In most cases, the roll needed to hit 
+other armour classes - THACO - AC. Some creatures, whose 
+hit probability is very low, have been given a THACO of 20+, 
+and in these instances the DM should consult the relevant 
+tables (see DMG p74-5) to find the rolls needed to hit other 
+armour classes. 
+
+BOXED SECTIONS includethat information which the players 
+wou td get from a first glance at an area or the inside of a room. 
+The DM may either paraphrase or read them out as written. 
+
+
+
+
+BACKGROUND FOR THE DUNGEON MASTER 
+
+
+INTRODUCTION 
+
+
+This module concludes the adventure which began in module 
+UK2 - THE SENTINEL. It is assumed that the characters taking 
+part in this adventure have completed the first part and have 
+obtained the magical glove known as the Sentinel (see page 
+29) since, without this, they will not be able to fulfil the quest. 
+
+If, for some reason, the DM does not wish the characters to 
+adventure in module UK2. some other means by which they 
+may obtain the Sentinel will be required. For this purpose, the 
+DM may design an adventure, compatible with the events and 
+setting of this module, which culminates with the adventurers 
+finding the Sentinel. Otherwise, the brief ALTERNATIVE 
+START TO THIS ADVENTURE (page 30) may be used. 
+
+
+Setting for the Adventure 
+
+The events in this module begin in the hills at the head of the 
+Hool River (in the region known as Berghof). and move on to 
+the Keep of Adlerweg (in the Kamph mountains between 
+Berghof and Jeklea Bay) where most of the action takes place. 
+The area shown on map A on the inside of the module folder 
+encompasses hexes E5/137 and E5/138 on the WORLD OF 
+GREYHAWK(tm) Map. 
+
+
+caravan that braved the pass without an armed escort, and the 
+barons did not forget the cool breezes of Berghof. 
+
+Then, upon a time, there came among the barons a dark mage 
+of tremendous power, and he offered to aid them in the pursuit 
+of their ambitions. Vast was his price and long were his 
+labours, but when he was finished, the barons thought the deal 
+a bargain, for he had fashioned a weapon which was more than 
+capable of destroying the Keep, A gauntlet it was, made of 
+hard, black leather, set with iron studs and rugged gems. It 
+seemed large, but once donned, it would alter itself to fit any 
+left hand. Into it had gone more than a portion of the mage s 
+power, for it possessed the power of thought and was driven by 
+a will of its own; a will dominated by the desire to destroy the 
+Keep (see THE GAUNTLET - page 28). 
+
+As soon as word of the Gauntlet (this was all the title it needed) 
+reached the ears of the Duke in Berghof, all the mages of the 
+land were summoned to his palace, and work began on a 
+counter to this awesome threat. Although there was but little 
+time in which to accomplish this task, the final creation proved 
+indeed to be a match for the evil of the Gauntlet, It was its very 
+antithesis; soft, pale in colour and fitting snugly on the right 
+hand of any wearer, all its powers concentrated on defence. 
+
+
+Berghof is a land of gently rolling hills, many covered with 
+fight, mixed woodland. By contrast, the Kamph mountains are 
+harsh and stark. Trees are rare, vegetation sparse and the 
+creatures who live in the shadows of the snow-covered peaks 
+have grown lean and vicious in the struggle to survive. 
+
+
+History 
+
+In ages past, before the rise of the Sea Princes, Berghof was an 
+independent and populous state, ruled by a succession of 
+Grand Dukes. For many years, the self-styled barons of the 
+scorched and barren coastal lands to the south east, beyond 
+the Kamph mountains, had coveted the lush and fertile hills of 
+the Dukes' peaceful state. War would have been the undoubted 
+outcome were it not for the fact that the only route between the 
+two lands was through the Pass of Adlerweg ('the way of the 
+eagle 1 ). This narrow canyon, cutting through the Kamph 
+range, had been eroded by the River Gann (see map A), and 
+was defended by a lofty fortress, which had been built by the 
+Dukes as a guard against any surprise attack. Dominating the 
+pass from its rocky spur, the Keep of Adlerweg was so 
+cunningly constructed that it exceeded all the Dukes' 
+expectations, and no army could force a passage. 
+
+An uneasy peace prevailed for some while, and the Dukes 
+turned their thoughts to other matters. Yet rare was the 
+
+
+Worn by a succession of mages calling themselves the 
+Guardians, the glove was named the Sentinel. In it lay 
+Serghofs hope and strength, and, should the opportunity 
+arise, it had power enough to destroy the Gauntlet forever (see 
+THE SENTINEL - page 29). As tong as the Keep was guarded 
+by the Sentinel, the Gauntlet dared not assail it, and thus the 
+pass was made secure and a stalemate reached. 
+
+As time passed, the power of the Sea Princes waxed ever 
+stronger, and soon the coastal lands fell to their hordes, yet 
+still the Keep protected Berghof. As the Sea Princes marched 
+on to victory, the Gauntlet was first hidden, then lost during the 
+ensuing mayhem. The Sentinel, deprived of its enemy, fell into 
+quiescence. The last mage to take the title of Guardian finally 
+retired to his lake-side villa, and took the Sentinel with him. 
+There it remained until his descendants forgot its history and 
+came to regard it as no more than a curio. 
+
+The decline of this once proud family paralleled that of 
+Berghof itself, and. by the time the land had been peacefully 
+assimilated by the Sea Princes, the villa lay in ruins. As for the 
+Keep, its sole purpose was now to hold the pass against the 
+tribes of humanoids which inhabited the mountains. 
+
+Years passed, The Sentinel lay forgotten in a ruined, vine- 
+covered villa. The Gauntlet, lost to human knowledge, gained 
+strength and purpose, and waited...- 
+
+
+
+
+INTRODUCTION 
+
+
+Recent Events 
+
+Many years after it had passed out of the knowledge of men t 
+the Gauntlet was discovered in a rocky fissure by an ognilon* 
+out hunting alone in the Kamph Mountains, Driven by a force 
+he could not control and unaware of the consequences, he put 
+It on. 
+
+Instantly, he became a slave to its evil will. Filled with the power 
+invested in him by the Gauntlet, and driven on by it, the ogrilion 
+gathered a small army of gnolls and other creatures and 
+attacked the Keep of Adferweg. Protected by the Gauntlet's 
+magic, the ogrilion was able to stride unharmed through a hail 
+of arrows from the defenders, and smashed the upper gate of 
+the Keep (area 3) as if it were made of matchwood. The 
+garrison troops, thrown into confusion by a fear spell cast from 
+the Gauntlet, were soon overwhelmed and their bodies thrown 
+into the ravine. 
+
+Through its long years of waiting, the Gauntlet had perverted 
+the purposes for which it had been created. Instead of 
+destroying the Keep, it had decided to use it as a base from 
+which to conduct a reign of terror and conquest, However, it 
+realised that the ogrilion was not strong enough to satisfy its 
+lust for power and that it would need a more fitting bearer. 
+
+
+
+Delving into the ogrillon's memory, the Gauntlet learned of a 
+fire giant who had established himself as a warlord in the 
+nearby mountains. It also learned that the fire giant had a 
+daughter, a charming girl by the standards of her race, fond of 
+hunting wild goats and killing them with her bare hands. The 
+ogrilion knew the giantess 1 favourite hunting grounds and it 
+was a relatively easy matter for a squad of gnolls from the Keep 
+to capture her and bring her back to Adlerweg where she was 
+confined in the Keep's magical prison (see page 24), 
+
+The Gauntlet hoped to lure the fire giant to the Keep and so 
+gain the opportunity of transferring itself to a more powerful 
+wearer. The arrival of the fire giant and his army at the Keep, 
+and the subsequent events are described in THE SIEGE OF 
+ADLERWEG (page 21). 
+
+
+Recovery of the Sentinel 
+
+The events surrounding the re-awakening of the Sentinel and 
+its discovery by the adventurers are covered by module UK2 - 
+THE SENTINEL 
+
+Awoken by the sudden re-emergence of its old enemy, the 
+Sentinel found itself alone in the ruins of the long-dead 
+Guardian's villa. Alone, that is, save for a pair of odious skulks 
+who were terrorising the region. Desperate for a bearer who 
+would take it to meet its foe, the Sentinel used the skulks to 
+attract the attention of the adventurers who, after many 
+adventures and false trails, found Hand undertook its quest. 
+
+
+Outline of the Adventure 
+
+The adventure in this module begins immediately after the 
+adventurers acquire the magical glove known as the Sentinel. 
+This may have occurred in room V26 of the Lake-Side Villa in 
+
+module UK2 - THE SENTINEL, during the ALTERNATIVE 
+START TO THIS ADVENTURE on page 30, or in the DM's own 
+adventure. 
+
+The Sentinel will demand that the adventurers take if to 
+confront the Gauntlet at the Keep of Adferweg. On the way, it is 
+likely that the adventurers will pass through Gannaway where 
+they will encounter a wounded gnoll chieftain who may serve 
+as a useful source of information (see THE JOURNEY TO 
+ADLERWEG-page 5). 
+
+When they arrive at the Keep (see THE RECAPTURE OF 
+ADLERWEG - page 7), the adventurers will be advised by the 
+Sentinel to enter the building through the abandoned 
+chambers beneath it (the undercroft). If they follow the 
+Sentinel's advice, and if they overcome the denizens of the 
+lower chambers, the adventurers will avoid the Keep's main 
+defences and will take the defenders unaware. At the top of the 
+Keep, the party will encounter the ogrilion wearing the 
+Gauntlet. However, before he can be stopped, the creature will 
+retreat into the Keep's magical prison. 
+
+Before the party has time to seek out the ogrilion, the Keep will 
+be attacked by the fire giant and his army (see THE SIEGE OF 
+ADLERWEG - page 21). The adventurers should be able to 
+repulse the giant's first attack, after which he will parley with 
+them and demand the release of his daughter. The party must 
+then work out how the magical prison is operated, find the 
+means of releasing the giantess, and do so. at which point the 
+giant will leave. The final stage of the adventure will be the 
+release of the Gauntlet from the prison and the confrontation 
+between it and the Sentinel. 
+
+
+4 
+
+
+
+THE JOURNEY TO 
+
+
+Once the Sentinel has been rescued by the adventurers, it wiN 
+insist that they go to the Keep of Adlerweg in order to confront 
+the Gauntlet. It will tolerate minor delays or diversions if these 
+will contribute to the success of the mission but its fears 
+concerning the Gauntlet will make it impatient, If the 
+adventurers are unwilling to proceed with the task at hand as 
+soon as possible, the Sentinel will attempt to persuade them to 
+change their minds. If necessary, tt will resort to the withdrawal 
+of its powers and will even attempt to dominate the personality 
+of Hs bearer and will use its suggestion ability on the other 
+adventurers (see THE SENTINEL - page 29). 
+
+The adventurers' general knowledge of the region is repre 
+sented by the players' map on the outside of the module folder. 
+If necessary, however, the Sentinel will guide the party on their 
+journey to Adferweg 
+
+THE RUINS OF GANNAWAY 
+
+There are several routes by which the adventurers might travel 
+to the Keep of Adlerweg (see map A)but it is likely that they wilt 
+pass through Gannaway: 
+
+- ----- ¦> 
+
+A village comes into view, but the scene before you is 
+not the untroubled one that you would normally 
+expect. 
+
+The village has been ravaged by fire, only parts of the 
+stockade remain standing, the wooden buildings have 
+been reduced to smouldering timbers and the few 
+stone buildings are roofless and blackened. You can 
+see several corpses lying amongst the ruins. 
+
+
+When the party enters the village: 
+
+r - - - 
+
+A closer inspection of the village confirms that it has 
+been attacked. There are about 200 corpses, most of 
+which are human villagers. The rest, about 15 in all, 
+are apparently the corpses of their attackers - tall 
+humanoid creatures, with dog-like faces, yellowish 
+manes of unkempt hair and grey skin. 
+
+The Intermittent sound of a dog barking comes from 
+one of the stone buildings which still retains parts of 
+its roof. 
+
+
+The adventurers will be able to estimate correctly the time of 
+the attack as 12 hours ago. The village was attacked and 
+overrun by a raiding-party of gnolls and war-dogs led by an 
+ogre and a flind. The villagers were surprised and unprepared, 
+and were massacred by their attackers who then proceeded to 
+loot the place, taking every item of value - including the 
+equipment of their dead companions. 
+
+The raiding party did not come from the Keep of Adlerweg but 
+from a related group of tribal humanoids living in the Kamph 
+flange. The group leaving the village was large, and characters 
+with tracking skills will automatically be able to follow its trail. 
+Five miles south of the village, however, the raiders split into 
+groups of 5-10 individuals which then continued towards the 
+mountains. If any of these groups is followed, its trail will be 
+lost before reaching the mountains. 
+
+
+ADLERWEG 
+
+Inside the Ruined Building 
+
+If the adventurers investigate the sound of barking, they will 
+find a badly wounded gnoll chieftain (AC3; MV 1": HD 2; hp2(22); 
+* AT 1; D 2-5 (bare hand) or 2-5 (heavy crossbow); SA Attacks 
+as 4HD creature; SD Nil; MR Std; lot Ave; Ai CE; Size L; xp32; 
+THACO 16; MM) and his war-dog (AC 6; MV 12"; HD 2+2; 
+hp 16;* AT 1; D 2-5; SA Nil: SD Nil; MR Std; Int Serrn; AL N; Size M; 
+Xp 83: THACO 16; MM). 
+
+The chieftain was badly wounded during the raid and was 
+abandoned by his troops, but his dog has remained loyal. His 
+right leg and left arm are useless so his movement is restricted 
+(all opponents' attacks are at +4 to hit). He cannot reload his 
+crossbow. He has been robbed of all personal treasure. 
+
+He will fight to the death if necessary (aided by his dog), but 
+will cautiously accept aid if it is offered. In return for this, he 
+will give the party between 2 and 5 of the items of information 
+listed below (depending on the usefulness of the help). The 
+gnoll believes that all this information is true. It cannot be 
+obtained from him by force: 
+
+1. The group which destroyed Gannaway was formed from a 
+number of small bands which recently came down from 
+the mountains to raid the lowlands (True). 
+
+2. Recently, a previously unknown ogrilJon has emerged as a 
+powerful war-lord in the mountains (True). 
+
+3. The Keep of Adlerweg has recently been overrun by a tribe 
+of trolls (False). 
+
+4. I n the mountains to the south and east, evil creatures have 
+been gathering under the leadership of a giant (True). 
+
+5. There are rumours everywhere of an impending war 
+between the creatures of the mountains and the humans 
+of the lowlands (True), 
+
+6. A dark and terrible creature in the mountains is preparing 
+to unleash the power of several volcanoes to destroy the 
+humans of the region (False). 
+
+THE TRACK THROUGH THE MOUNTAINS 
+
+The track from Gannaway follows the River Gann up into the 
+mountains (see map A). Progress by the party will be slow but 
+the track is not in itself dangerous. However, the mountains are 
+inhabited by many dangerous creatures, and bands of hostile 
+humanoids are on the move (See RANDOM ENCOUNTERS - 
+MOUNTAIN PASS - page 6), 
+
+When the track first enters the mountains, it is on the right bank 
+of the River Gann (looking upstream). Later, it crosses the river 
+by a ford and follows the river on the left from then on. 
+
+The track is the only practical route for the party to follow 
+across the mountains. It follows a ledge, partly natural and 
+otherwise hewn, which has an even, level surface. Its width 
+varies between 10 and 20 feet, and its height above the river 
+ranges from a few feet to several hundred. The mountains soar 
+thousands of feet above the track along most of Its length. 
+
+As the adventurers approach the Keep, the DM should refer to 
+encounter area 1. 
+
+
+5 
+
+
+
+
+
+RANDOM ENCOUNTERS 
+
+Except in the Keep or in the villages, random encounters will occur on a roll of 1 on a d6 in each 6-hour 
+period (ie rolJ 
+twice each day and twice each night) or at the discretion of the DM. If a random encounter is indicated, 
+the DM should 
+determine the type of creature involved by rolling a dlO and consulting the appropriate table below. The 
+DM may 
+choose either to dictate the number of creatures which appear or else to use the ranges indicated. Each 
+random 
+encounter will occur only once 
+
+
+LOWLANDS (Wood or Open) - DAY 
+
+1-5 A forlarren (AC 2; MV 9"; HD 3: hp 15; z AT 2; D 1-4/1-4; 
+SA Heat metal; SD Nil; MR Std; Int Semi; AL NE; Size M; 
+xp 135;THAC0 16; FF) will unexpectedly break coverand 
+attack the party. His subsequent actions will run true to 
+form for his species (see the FIEND FOLIO(tm) Tome). He 
+has no treasure. 
+
+6-0 2 Adult giant weasels (AC 6; MV 15"; HD 3+3; hp 19 each; 
+- AT 1: D 2-12; SA Drain blood (2-12 hp/round); SD Nil; 
+MR Std: Int Animal; AL N; Size M; xp 201 each;THACO 16; 
+MM) and 2*5 young giant weasels (AC 6; MV 15"; HD 2+2; 
+hp 14 each -"AT 1. D2-8; SA Drain blood (2-Shp/round); 
+SD Nil; MR Std: Int Animal; Size S; xp 132 each; 
+THACO 16; MM) who will regard the adventurers as prey 
+and attack them on sight. The adults' pelts are worth 
+25Q0gp each and those of the young are worth 2000gp 
+each. These values should be reduced by 50gp for each hit 
+point of physical damage inflicted on the creatures 
+concerned, even where the totaf damage js more than is 
+required to kill them. 
+
+
+MOUNTAIN PASS - DAY 
+
+1-4 A troll (AC 4; MV 12"; HD 6+6; hp 38;-- AT3: D 5-8/5-8/2-12; 
+SA Body parts can fight independently; SD Regeneration; 
+MR Std; Inf Low; AL CE; Size L; xp 829; THACO 13; MM) 
+will meet the party on the track and attack. If interrogated 
+under duress, the troll will relate 1-4 of the rumours listed 
+for the gnoll chieftain (page 5), 
+
+5-6 5-8 Blood hawks (AC 7: MV24"; HD 1+1; hp6 each;" 7 AT 3; 
+D 1-4/1-4/1-6; SA Nil; SD Nil; MR Std; Int Semi; AL N; 
+Size S; xp 32 each; THACO 18 each; FF) will attack the 
+party from their nests which are on a rocky ledge 120 feet 
+above the track, The rock face below the ledge is nearly 
+vertical but may be scaled (at a rate of 12 feet per round) by 
+characters with the ability to climb walls. The nests 
+contain various gems (total value 350gp per hawk 
+encountered). 
+
+7-0 A slide of scree and small boulders from the slope above 
+the track will strike the party. Each party member will 
+suffer 2-12 hit points of damage (halved if the character 
+saves vs Breath). The landslide is a natural occurrence. 
+
+
+
+
+
+LOWLANDS (Wood or Open) - NIGHT 
+
+1-6 1-3 Ettercaps (AC 6: MV 12 rF ; HD 5; hp 26 each; * AT 3; 
+D 1-3/1-3/1-8; SA Poison and nets; SD Nil; MR Std; 
+Int Low; AL NE;SizeM: xp295each;THACO 15; FF), each 
+armed with a net, will ambush the party. Each net may be 
+thrown at one character who should be treated as AC 10 
+(plus dexterity modifiers). If hit, the character will be 
+ensnared (unable to move) ford6+2 rounds (negated if the 
+character saves vs Breath), The ettercaps have no 
+treasure. 
+
+7-0 2-4 Harpies (AC 7: MV (c)'715"; HD 3; hp 14 each;-AT 3; 
+D 1-3/1-3/1-6; SA Singing and charm; SD Nil; MR Std: Int 
+Low; AL CE; Size M; xp 187 each; THACO 16; MM). One 
+uses a broken tongsword as a weapon (treat as short- 
+sword), This has a fine, jewelled pommel (value - 400gp). 
+
+
+MOUNTAIN PASS - NIGHT 
+
+1-4 4-7 Leader-type goblins (AC 6; MV 6"; HD 1; hp 7 each: 
+- AT 1; D 1-6 (short sword) or 1-4 (sling); SA Nil; SD Nil; 
+MR Std: Int Ave; AL LE; Size S; xp 17 each; THACO 19: 
+MM) each mounted on a dire woH (AC 6; MV 18"; HD 3+3; 
+hp 18 each- AT 1; D 2-8; SA Nil; SD Nil; MR Std; Int Semi; 
+ALN; Size M;xp 132 each; THACO 16, MM) will encounter 
+the party on the track. The goblins each have dIO+IOgp in 
+mixed coins. One has adecorated clasp on his belt-pouch 
+(silver inlaid with coral, value - 250gp) The wolves have no 
+treasure. If interrogated, each goblin will relate one of the 
+rumours listed for the gnoll chieftain (page 5), 
+
+5-7 1 -3 Giant owls (AC 6; MV 3718": HD 4; hp 20 each;' AT 3; 
+D 2-8/2-S/2-5; SA Surprise on a 1-5; SD Nit; MR Std; Int 
+Very: AL N; Size M; xp 230 each; THACO 15: MM) will 
+swoop down silently and attack the party. Their nests are 
+far away and the party will not be able to find them. 
+
+8-0 A violent storm will develop over a period of about ten 
+minutes and will last for about an hour. The party wifi be 
+lashed by rain, and lightning will strike the peaks above 
+the pass. At the height of the storm a minor branch from a 
+streak of forked lightning will strike the party. Each 
+adventurer wearing metal armour will suffer 4d4 hit points 
+of damage (negated if the character saves vs. Breath) , The 
+storm is a natural phenomenon 
+
+
+
+6 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+THE RECAPTURE OF ADLERWEG 
+
+
+
+
+
+¦ft. 
+
+
+v, 
+
+
+
+
+
+
+
+
+
+
+sjfS 
+
+
+The undercroft {rooms 5-9) is at the same level as the main 
+track through the pass. Its largest chamber {known as the 
+Gateway of Berghof - room 5) was well known to those who 
+used the pass, since all traffic was obliged to go through here. 
+Other parts of the undercroft were set aside for use by the 
+Guardians alone, and a secret stairway, known only to them, 
+leads from the undercroft to the tower above. This is the route 
+which the party will be advised to use to enter the Keep 
+
+
+When the last Guardian left the Keep, the doors leading to the 
+Gateway ol Berghof were magically sealed (see the description 
+of area 4}, A section of trackway (shown by shading on maps B 
+and C) was built to by-pass the Gateway so that traffic could 
+continue to use the pass. Knowledge of the secret door which 
+leads to the stairway down to the undercroft was entrusted to 
+the castellans who succeeded the Guardians. Latterly, 
+however, the doorway was forgotten and the undercroft has 
+not been entered for many years. 
+
+
+The tower is a defensive structure consisting of several floors. 
+The lowest level {floor 1. rooms 10-12) consists mainly of a 
+battlemented platform overlooking the track. The upper 
+gateway (see area 3), which has been the only entrance used in 
+recent years, is on the next level up (floor 2 t rooms 13-17) It is 
+reached by a narrow path (area 3) which slopes down to meet 
+the main track. The upper floors of the tower (floor 3. rooms 
+18-22; floor4, rooms 23-26) contain living quarters, stores, and 
+so forth. 
+
+
+
+
+This part of the adventure starts with the approach of the 
+adventurers to the Keep of Adlerweg, At the time of the party's 
+arrival, the Keep is occupied by the ogrillon. which the 
+Gauntlet has dominated, and his retinue. Urged on by the 
+Sentinel, the party must enter the Keep (preferably in secret via 
+the disused rooms and passages in the undercroft beneath the 
+tower) and seek out the ogrillon, defeating all other creatures 
+in its path. If cornered, the ogrillon will consign itself to the 
+magical imprisonment system of the Keep in order to escape 
+the Sentinel. The characters will only be able to confront the 
+ogrillon and the Gauntlet after the fire giant's siege which is 
+described in THE SIEGE OF ADLERWEG {page 21}. 
+
+
+ARCHITECTURE OF THE KEEP 
+
+
+The position of the Keep (see map B) is dominating. Placed on 
+an acute mountain spur, it can only be attacked effectively 
+from the main trackway (area 1) running below its walls, or 
+from the path (area3) which climbs from the track tothe upper 
+*- either case, attackers would be forced to come very 
+close to the Keep, and to occupy a very confined position 
+exposed to fire from the Keep's defenders Until the coming of 
+the ogrillon and the Gauntlet, the Keep had never been taken. 
+
+
+The Keep can bethought of as comprising two main parts: the 
+main defensive structure - the tower - and the underground 
+chambers and passages beneath It - the undercroft. 
+
+
+7 
+
+
+
+
+THE RECAPTURE OF ADLERWEG 
+
+
+The roofs of the tower are stone and there is no direct access to 
+them from the interior of the tower. The main parts are flat and 
+are criss-crossed by cables, at heights ranging between 6 
+inches and 3 feet which make it very difficult to walk across 
+them. The roofs of the turrets are small, conical and also made 
+of stone The arrow slits of the turrets (rooms 23, 26 and 28) 
+allow for effective cross-fire over the flat areas of roof. 
+
+
+THE FALL OF THE KEEP 
+
+Mighty as it was. the Keep of Adlerweg was vulnerable to the 
+Gauntlet This artifact had been created specifically to 
+overthrow the Keep and. on the hand of the ogrillon, it was able 
+to fulfil its destiny at last. 
+
+Leaving his retinue just out of sight of the Keep's defenders, 
+the ogrillon smashed down the gate with his Gauntleted fist 
+and cast a fear spell at the gatehouse (room 22). This threw the 
+garrison into confusion and his small army was able to rush 
+forward through the breach. After much hand-to-hand fighting 
+the Keep was taken, the slain were stripped and burned and 
+their remains cast into the chasm. 
+
+Having taken the Keep, the Gauntletordered the capture of the 
+daughter of Bloodflre. a fire giant warlord, and her incarcer 
+ation in the hidden magical prison of the Keep It hoped to lure 
+the giant to the Keep and so transfer itself to a more powerful 
+bearer, The arrival of the giant and his army at the Keep forms 
+the basis of THE SIEGE OF ADLERWEG (page 21). 
+
+In the few days following the taking of the Keep and the arrival 
+of the party, the ogrillon's troops have repaired the gale and 
+have been organised into squads for the defence of the Keep. 
+They have worked out how to use the mechanism in the 
+defence room (room 14) and fully understand the layout of the 
+tower. Even so, neitherthe ogrillon nor his troops are aware of 
+the secret stairway which leads down from the tower to the 
+undercroft, nor have they been able to penetrate the 
+undercroft from the outside 
+
+
+
+THE NEW GARRISON OF THE KEEP 
+
+As the party arrives at the Keep, the new garrison is awaiting 
+the return of the messenger sent to the giant. To wile away the 
+time, some of the gnolis have taken flagons of wine from the 
+stores and are busy drinking. As a result, several of them are 
+intoxicated (see DMG p82~3). The effects of intoxication on hit 
+points and intelligence have been included in the gnolis' 
+statistics. 
+
+The gnolis are all wearing leather armour with metal plates, 
+and most are armed with battle-axes and longbows. Each gnoll 
+with a bow has a quiver with 20 arrows, 
+
+ENTERING THE KEEP 
+
+The section of the pass near the Keep of Adlerweg is shown on 
+map B The map shows the Keep, the main trackway, the path 
+(area 3) leading to the upper gate of the Keep, the mountain 
+slopes, the River Gann and one of its tributaries. 
+
+The width of the track varies between 15 and 20 feet, and it is 
+about 200 feet above the river here The mountain spur on 
+which the Keep stands rises several hundred feet above the 
+track 
+
+Normal movement by the adventurers is only possible on the 
+track and the path. Movement up, down or along the slopes is 
+only possible by climbing Those with special climbing 
+abilities will move at a rate of 12 feet per round with the normal 
+chance of falling. Falling characters will drop and slide lOdlO 
+feet and will suffer 1-6 hit points of damage per 10 feet fallen. 
+
+If the adventurers follow the advice of the Sentinel (see 
+encounter area 1), they will enter the Keep via the undercroft. 
+The gnolis in thegatehouse (room 22) aredrunk to the point of 
+incompetence, and those who are supposed to be on look-out 
+on the platform (area 10) overlooking the trackway have 
+abandoned their post and are drinking in the guardroom (room 
+11} This means that the party will be able to move along the 
+trackway and through the gate into the undercroft unnoticed. 
+
+The variety of other ways in which the party might assault the 
+Keep means that it is impossible to specify in advance how the 
+characters might be noticed or how the garrison would 
+respond In such cases, the defence of the tower against an 
+external attack must be determined by the DM. 
+
+Note that only the gnolis in the defence room (room 14) are 
+actively and effectively on the look-out for an external attack. 
+Normally, they will notice intrusions into the death room below 
+{room 12) If any of the defenders notice the party before it has 
+penetrated the Keep, the general alarm will be raised by 
+messengers within two rounds. Once alerted, the squad in the 
+guardroom (room 11) will move out onto the battlemented 
+platform (area 10). The rest of the male gnolis who are not 
+otherwise engaged will normally go to arrow slits, bows at the 
+ready. 
+
+The responses offered by the Keep's inhabitants to encounters 
+with the party inside the tower are detailed in the room 
+descriptions. Some of the squads will attempt to raise the 
+alarm by sending messengers but the party may be able to foil 
+these attempts. In general, male gnolis will move directly 
+towards the party if they are alerted to its presence within the 
+tower By contrast, the ogrillon and his close retinue will 
+remain on the top floor, hoping that the others will be able to 
+take care of the attackers. 
+
+
+8 
+
+
+
+
+THE RECAPTURE OF AOLERWEG (ENTERING THE KEEP: AREAS 1-3) 
+
+
+The descriptions assume that it is daytime as the party 2. The Paths Divide 
+approaches the Keep, If not, the DM should amend them 
+
+accordingly. Near the Keep, the path to the upper gate splits off from the 
+
+main track: 
+
+
+1. Main Trackway 
+
+The adventurers will have their first view of the Keep when they 
+reach the point marked 1 on map B: 
+
+
+As you round a bend in the pass, a daunting fortress 
+comes into view. Us lofty bulk clings grimly to a steep 
+sided mountain spur on the eastern side of the pass 
+and the track you have been following runs directly 
+beneath its walls. 
+
+
+At this point, the DM should give the players the tear-out 
+illustration from the back of this module (page 31) in order to 
+give them a good idea of the shape of the Keep, 
+
+Assuming that the Sentinel has been brought here by the 
+party, it will tefepathically send a message to all the 
+
+
+A narrow path branches off from the track. The track 
+remains level but the path slopes upwards towards the 
+Keep, suggesting access through an upper gate. 
+Occasional snatches of raucous laughter and dis 
+cordant song drift to your ears. 
+
+
+From here the party can make out several details of the Keep's 
+construction. The parapetted platform (area TO) may clearly be 
+seen, supported by sheer walls which rise from the trackway. 
+The lower gates (area 4) are obscured by the octagonal 
+buttresses and there are no signs of movement from behind 
+the parapet. Rising from the rear of the platform, the tower-llke 
+upper part of the Keep can be seen, set against the mountain 
+spur and having octagonal cornertowers which extend up into 
+pointed turrets. The sound is that of drunken revelry in the 
+tower. 
+
+
+adventurers. The DM may either read out the following or 
+
+paraphrase it: 3* Path to the Upper Gate 
+
+
+
+My most noble friends, there stands the Keep of 
+Adlerweg, 
+
+
+In defence of its walls, a garrison of a hundred men 
+might destroy an army of thousands, but it was my 
+purpose to defend the Keep against the one force it 
+could not withstand - the sorcerous wrath of the 
+Gauntlet, 
+
+
+But it seems that I have failed in this purpose, for I 
+sense that the Gauntlet has captured the Keep and is 
+firmly installed within its walls. Yet the Keep still 
+stands, and while it does we may yet recapture it and 
+destroy the Gauntlet's evil power. 
+
+
+The Keep is, no doubt, well garrisoned and to attack it 
+openly would be to invite a quick death. There is a 
+better way, however, since my powers include that of 
+opening the magically locked gates of the Keep. 
+
+
+If the adventurers proceed up the path towards the upper gate 
+of the Keep, they will be hidden from the defenders until they 
+reach the point marked 3 on map B: 
+
+
+If you follow the track, and are lucky enough to avoid 
+the eyes of those who may be watching, you win come 
+to the Keep's lower gates. These will open at the touch 
+of the one who bears me. and beyond are chambers 
+where you wilt find a stairway leading up into the heart 
+of the Keep. The creature who bears the Gauntlet 
+lurks high in the tower - seek him out and my destiny 
+wilt be fulfilled. 
+
+
+A short way along the path, you come to a point where 
+it bends fairly sharply to the left around a body of rock 
+which obscures your view of the Keep, 
+
+
+Ignore the path which runs upwards from the track to 
+the Keep's upper gate since this will surely be well 
+guarded and not even my powers will open it for you. 
+
+
+If the adventurers take a look around the rock (reasonable 
+caution will ensure that they are not spotted) they will see the 
+main edifice of the building: 
+
+
+Make haste, for who knows what evil is being wrought 
+there even now? From this point onwards I must 
+remain silent. Though my other powers will remain 
+available to you, 1 dare not speak into your minds for 
+fear that the Gauntlet will sense my coming. 
+
+
+Not far ahead of you the path comes to a small 
+gateway at the base of the towering fortress. The path 
+between here and the gate is completely over 
+shadowed by the tower and a disconcertingly large 
+number of arrow slits cover this exposed approach. 
+
+
+May good fortune go with you 
+
+
+
+
+
+
+
+
+
+THE RECAPTURE OF ADLERWEG (ENTERING THE KEEP: AREA 4 - UNDERCROFT: ROOM 5) 
+
+
+If the adventurers openly proceed round the bend, they may be 
+seen by the gnolls in the gatehouse (room 22) unless they 
+conceal themselves in some way. It is up to the DM to decide 
+how effective any concealment will be, taking account of how 
+close the characters approach and the slackness of the watch 
+being kept. If the party is spotted, the gnolls in the gatehouse 
+will fire arrows at the party and raise the general alarm. 
+
+The upper gate is made of iron-bound oak. It is raised and 
+lowered by the winch in the gatehouse. It has been repaired 
+since the tower was taken and can withstand 8 points of 
+structural damage before giving way. Anyone moving right up 
+to this gate unconcealed will automatically be seen from the 
+gate watchroom (room 15) and the alarm will be raised. 
+
+The exact response of the garrison as a whole to a general 
+alarm is at the discretion of the DM, but likely courses of action 
+would probably include the manning of the arrow slits 
+overlooking the path from the gatehouse (room 22), the store 
+(room 20) r the armoury (room 24), the lieutenant's room (room 
+25) and the north-western turret (room 26). Note that there are 
+murder holes between the gatehouse and the short passage to 
+the upper gate. These can be used to pour burning oil (normal 
+damage) on attackers or to fire arrows at them. 
+
+
+4. Lower Gates of the Keep 
+
+
+
+The lower gates of the Keep are magically locked but the 
+Sentinel-wearer will be abie to open them. Since the gnolls in 
+the guardroom (room 11) are not at their post on the 
+battlemented platform (area 10) and the gnolls in the 
+gatehouse (room 22) are drunk and are neglecting their duties, 
+the adventurers will be able to reach the lower gates 
+unnoticed, so long as they exercise reasonable caution: 
+
+
+On the western side of the fortress, the wall which 
+looms up from the track to the battlemented area has 
+two large, tower-like buttresses. As you round the first 
+of these, you find an impressive gateway occupying 
+most of the width of the wall between them. 
+
+The southern gateway may be described in similar terms when 
+the party is able to see it 
+
+Each gateway consists of a round-topped arch and has a pair 
+of stone doors. The doors have no visible handles, locks, or 
+hinges. Above each archway, a smooth, shield-shaped panel 
+of stone bears the faded remains of a coat of arms. 
+
+
+Both gateways (and the northern and eastern doors of the 
+Gateway of Berghof - room 5) are magically locked by a long- 
+forgotten. extra-powerful form of the wizard lock spell against 
+which the knock spell is ineffectual. However, the doors will 
+open automatically (swinging inwards) if touched by the 
+wielder of the Sentinel, The doors may also be opened by 
+means of a dispel magic spell (taking the level of the caster of 
+the wizard lock as 15th), 
+
+Characters who have read the book from the Hermitage (in 
+module UK2-THE SENTINEL), which describes the history of 
+the Van Arthog family, will be able to recognise the coat of 
+arms as that of the Grand Dukes of Berghof (a title no longer in 
+use). Its central motif is a tower with a winding path leading to 
+its gate. Behind the tower is a rising sun and above this a 
+crown, 
+
+
+THE UNDERCROFT 
+
+The chambers and passages of the undercroft have not been 
+entered (except by the giant ants in the Guardian's Hall - 
+room 7) for many years since the Guardians left the Keep, 
+
+The players* descriptions assume that the adventurers have 
+some light source. If not, the DM should amend the 
+descriptions accordingly. Unless otherwise stated, rooms in 
+the undercroft are 15 feet high. 
+
+
+5. The Gateway of Berghof 
+
+This room was once, quite literally, the Gateway of Berghof, 
+since all traffic between Berghof and the coastJands was 
+obliged to go through it. It is protected by three magical 
+automatons. These would not normally present any danger to 
+the party, but are now subject to being activated and de 
+activated at random. The room is about 30 feet high: 
+
+
+This is a targe and impressive room, The walls and 
+ceiling are of a deep red, lustrous stone, flecked with 
+glittering white inclusions. The floor is of a smooth, 
+pale grey stone and has a large coat of arms inlaid in 
+its centre. 
+
+In an alcove in each corner of the room stands a large 
+stone chair. Three of the chairs are occupied by 
+strange, silent, unmoving figures which appear to be 
+no more than suits of human-sized clothing, arranged 
+as if worn by invisible, seated men. The chair in the 
+south-eastern alcove is empty. 
+
+
+The figures are: a suit of chainmail armour equipped with 
+helm, shield and mace (north-western alcove): a rich, cowled 
+robe with a staff (north-eastern alcove); and a suit of platemail 
+armour with helm, shield and sword (south-western alcove). 
+They are not invisible creatures, but are magically animated 
+suits of clothing and equipment, given abilities which 
+resemble those of the character classes they represent. 
+
+If they are interfered with or attacked, or if the room or any of 
+its contents are damaged, the figures will be activated and will 
+attack any creatures in the room. 
+
+The figures may also be activated by a control device in the 
+Guardian's Hail (room 7), Since their arrival, the giant ants' 
+movements over the control device have had the effect of 
+
+
+10 
+
+
+
+
+
+THE RECAPTURE Of ADLERWEG (UNDERCROFT S-7b) 
+
+
+randomly activating and deactivating the figures. When the 
+party enters this room, the figures will be inactive and seated in 
+their alcoves. Each round thereafter, there is a 20% chance that 
+an ant will activate them, and a 20% chance that they will be 
+deactivated and return to their chairs. Even if an ant 
+deactivates the figures, they will be immediately re-activated if 
+the party continues to attack them. 
+
+While moving and attacking, the movements of the figures are 
+as if the clothing and equipment were being worn and wielded 
+by invisible creatures. They will not move outside this room for 
+any reason, and will take cover in their alcoves if fired upon by 
+creatures they cannot reach. 
+
+The chainmafl, shield and mace (AC 4; MV 9"; HD 6: hp 45; 
+* AT 1; D 2-7; SA Fear; SD Need magical or silver weapons to 
+hit; MR 25%, immune to sleep, charm, etc; Int Non; AL N; Size M; 
+xp 620; THACO 13) have cleric-like abilities. Any character hit 
+by the mace must save vs. Magic or be affected by the 
+equivalent of a cause fear spell (the reverse of remove fear) 
+which will last for six rounds. 
+
+The robe and staff (AC 8; MV 12"; HD 6; hp 42; * AT Nil; D Nil; 
+SA Magic missiles; SD Need magical or silver weapons to hit: 
+MR 50%, immune to sleep, charm, etc; Int Non; ALN; SizeM; xp 
+620; THACO N/A) represent a magic user and will fire two 
+magic missiles every round. 
+
+The plate mail, shield and sword (AC 2; MV 6"; HD 6; hp 50; 
+-*AT 1; D 5-12 (dS+4); SA Nil; SD Need magical or silver 
+weapons to hit; MR Std, immune to sleep, charm etc; Int Non; 
+AL N; Size M; xp 525; THACO 13) are like a fighter, relying on 
+good armour and brute force. 
+
+Although the individual animated objects may be damaged 
+during combat, each will fight at full capability until reduced to 
+zero hit points, when the objects will crumble to dust. 
+
+The figures were held in awe by travellers who regarded them 
+as invisible guardians of the Keep. Held most in awe was the 
+empty chair which men's minds filled with a number of 
+unknown horrors. 
+
+The coat of arms on the floor is that of the Grand Dukes of 
+Berghof (a tower with a path leading to its gate, a rising sun 
+behind and a crown above). It will be recognised by any 
+characters who have read the book from the Hermitage (In 
+module UK2 - THE SENTINEL) which records the history of 
+the Van Arthog family. 
+
+There are no items of value in the room. 
+
+The northern and eastern doors of this room are identical to 
+the western and southern ones. They are also magically locked 
+In the same way (see the description of area 4). 
+
+
+6. Toll Room 
+
+This room was used for the collection of toils from travellers 
+using the pass; it is unoccupied: 
+
+* * 
+
+This is a small, plain room. Projecting from the left- 
+hand wail is a long, stone table with a pan-balance 
+mounted on it near the right-hand end. Behind the 
+table are a pair of chairs and a large iron-bound chest 
+against the far wall. 
+
+I_- 
+
+
+The southern end of the table is supported by two slender, 
+stone pillars. Next to the balance are a number of brass- 
+coloured weights arranged neatly in a shallow depression. 
+
+Coins from travellers were first weighed and then deposited in 
+the chest. When the undercroft was abandoned, the chest was 
+left empty. It has three locks. 
+
+The only items of value in the room are the pan-balance and 
+weights. These have the appearance of brass, and an apparent 
+total value of Igp, they are actually made of a very hard- 
+wearing alloy of gold and mithrai. The total value of the 
+weights is 750gp and the pan-balance is worth IGOOgp if it is 
+removed from the table. Removing the balance will not be 
+difficult. 
+
+
+7. Guardian's Hall 
+
+This hall is being used as a nest by a small colony of giant ants 
+who will attack the party if disturbed. They have divided the 
+room into three parts with partitions made from mulched 
+vegetable matter. The material of the screens will burn readily 
+but will not alter the effects of any fire-based attacks. 
+
+The southern part of the room (7a) is unoccupied, the middle 
+part (7b) is the ants'general working and storage area, and the 
+northern part (7c) is the queen ant's chamber. The descriptions 
+of these three areas assume that the party first enters the hall 
+through the southern door and proceeds northwards. If not, 
+the DM should adjust them accordingly. 
+
+
+Area 7a 
+
+,f -------- - ---- 
+
+This long hall appears to be empty but you cannot see 
+the far end since it is obscured by an uneven screen of 
+a paper-like material, The floor consists of green, red 
+and white hexagonal tiles, each about 6 inches 
+across, laid out in a regular pattern. The walls are pale 
+grey and plain, as is the ceiling, 
+
+- -* 
+
+If the characters listen carefully, they wifi be able to hear the 
+sound of movement behind the screen. So long as the screen 
+remains unbroken, the ants will not attack the party in the 
+southern part of the room. 
+
+
+Area 7b 
+
+s ¦ - 
+
+Beyond the screen you find another section of the 
+room but the far end is still obscured since there is a 
+second screen. This is similar to the first except that 
+there is a small hole in it near the floor. 
+
+There are five giant ants working here, 
+
+i - •___________ ___j 
+
+The occupants are five giant worker ants (AC 3; MV 18"; HD 2; 
+hp 7 each; # AT 1; D 1-6; SA NH; SD Nil; MR Std; Int Animat; 
+ALN;SizeS;xp34 each; THACO 16; MM). They will attack any 
+creatures who enter the nest or who damage the southern 
+screen. When alarmed they will send a signal (a scent not 
+noticeable by the party) to the worker and soldier ants in the 
+queen's chamber (7c). These ants will join the fight in the next 
+round although the queen herself cannot move. 
+
+
+11 
+
+
+
+
+
+
+THE RECAPTURE OF ADLERWEG (UNDERCROFT: 7c-8) 
+
+
+The floor is covered with rubbish except for the area near the 
+centre of the room surrounding a hole about a foot across. 
+Hanging from the ceiling are five irregular bundles bound 
+tightly with silk-like threads. 
+
+The rubbish on the floor consists of vegetable matter, stones 
+and the bones of small animals. It contains no items of value. 
+
+The bundles hanging from the ceiling are the ants' foodstore. 
+They contain a iamb, a rabbit, a lizard, a fire beetle (this bundle 
+is glowing; if the party has no lights, the DM should mention 
+this in the room description) and a jermlaine; all are dead. The 
+fire beetle was killed five days ago and the luminosity of its 
+glands will persist fortwo more days. The jermlaine is wearing 
+an adjustable bracelet around its waist as a belt. The bracelet is 
+made of gold and is set with small pieces of jade. Its apparent 
+value is250gp. it is actually a magical item which will give the 
+wearer the same swimming abilities as those given by 
+gauntlets of swimming and climbing. Note that no climbing 
+abilities are given and that any character may usethis item. Its 
+actual value is SOOOgp (500xp), 
+
+The entrance tunnel of the nest emerges through a hole in the 
+floor. The tunnel is about 100 feet long. 15 inches wide and 
+follows a slightly twisting course westwards and downwards to 
+emerge on the mountain slope 30 feet below the main track. 
+The western end of the tunnel is hidden from the track by 
+rocks. 
+
+
+Area 7c 
+
+
+This is the final section of the room. The far wall bears 
+a vivid mosaic. Lying on an altar-like table below this 
+is the bloated mass of a queen ant 
+
+
+The queen ant (AC 3; MV 0; HD 10; hp 48; #AT Nil; 
+D Nil; SA Nil; SD Nil: MR Std; Int Animal; AL N; Size M; xp 0; 
+THACO N/A; MM) can neither move nor attack. If the queen is 
+killed, any surviving ants will become confused for six rounds 
+and then attempt to leave the nest. 
+
+
+
+The mosaic on the northern wall depicts the Sentinel. The tiny 
+tiles representing the stone on the glove's ring are azurite and 
+are worth a total of 8GQgp. 
+
+The table on which the queen is lying incorporates the controls 
+which activate and deactivate the figures in the Gateway of 
+Berghof (room 5). The movements of the queen ant's 
+attendants over the control panels were responsible for the 
+random activation and deactivation of the figures. She is 
+normally attended by four workers {AC 3; MV 18"; HD 2; hp 7 
+each; a AT 1; P 1-6; SA Nil: SD Nil; MR Std; Int Animal: AL N; 
+Size S; xp 34 each; THACO 16; MM) and four soldiers (AC 3; 
+MV 18"; HD 3; hp 13each; ^AT 1; D2-8; SA Poison sting (3-12 
+hit points of damage, 1-4 if save vs. Poison); SD Nil; MR Std; Int 
+Animal; AL N: SizeS;xp 79each:THACO 16; MM) but the party 
+will probably have met these already - either in area 7a or 7b. 
+
+
+8* Painted Room 
+
+This room was the private quarters of the Guardians, It is 
+currently unoccupied: 
+
+
+This octagonal room has a slender, stone pillar near 
+the wall at each corner. The ceiling is painted to 
+represent a domed roof, supported by these pillars, 
+and the walls show a country scene which continues 
+all the way around the room. With a little imagination, 
+you could bestanding in asummer house, surrounded 
+by pleasant pastures and woodlands, at the top of a 
+grassy slope leading down to a large iake. 
+
+
+This room was decorated in this way by Karl Van Arthog, the 
+last of the Guardians of Berghof, to remind him of hrs home, 
+the Lake-Side Villa (see UK2 - THE SENTINEL). All items of 
+furniture were removed when he left. 
+
+The doors of this room are well concealed by the painting and 
+should be regarded as secret when closed, if viewed from 
+inside the room. The north-western, north-eastern and south 
+eastern doors will open automatically at the touch of the 
+Sentinel-wearer, although they are not magically locked and 
+may be opened in the usual way. 
+
+If the players ask for a more detailed description of the wail 
+paintings, the DM should mention that there are paths 
+depicted on the north-eastern and north-western walls leading 
+away from the summer house. These paths are clues to the 
+presence of the doors in these walls. 
+
+There is a small secret compartment in the top of the pillar on 
+the north-eastern side of the door to the release chamber 
+(room 9), This compartment is very well hidden (half normal 
+chance of finding) and will onfy be found if the adventurers 
+specifically examine the pillars. The compartment contains a 
+tiny ivory casket with gold fittings (apparent value-50gp). The 
+casket is the replica for a Leomund s secret chest and magic 
+users in the party will have a 10% chance per level of 
+recognising it as such. 
+
+The large chest can only be retrieved if the words *Fram 
+cweartern theostre, cume' are spoken while the replica is held. 
+Directions for finding the casket and for retrieving the chest 
+are given in the instruction book which may be found in the 
+Castellan's room (room 27). The book and the contents of the 
+Leomund's secret chest are described in THE SIEGE OF 
+ADLERWEG (see page 25). 
+
+
+12 
+
+
+
+
+THE RECAPTURE OFAOLERWEG (UNDERCROFT:9- FLOOR 1:11) 
+
+
+9. Release Chamber 
+
+The door to this room is secret, ft may be opened by the touch 
+of the Sentinel-wearer or in the usual way: 
+
+f - ¦ - T -- V 
+
+This room is circular and seems to be unoccupied. 
+With the exception of a circular area in the centre of 
+the floor, the walls, floor and ceiling are of a smooth 
+pale grey stone. The circular area contains a stark 
+spiral pattern in black and white. 
+
+- _____ ^ 
+
+This room will only become significant during THE SIEGE OF 
+AOLERWEG (page 21), This is the place where creatures 
+incarcerated in the Keep's magical imprisonment system may 
+be released. The imprisonment system is described in THE 
+
+MAGICAL PRISON (page 24). 
+
+
+THE TOWER 
+
+If the party follows the advice of the Sentinel and enter the 
+Keep through the undercroft, they will enter the tower through 
+the secret door on the stairway next to the dormitory (room 13) 
+on floor 2. 
+
+Unless otherwise stated, all other rooms and passages in the 
+tower are 15 feet high, at! doors are of oak. 5 feet wide, 8 feet 
+high and 3 inches thick, and ail floors/ceiiings are 5 feet thick. 
+There are several chimneys in the building. These are only 6 
+inches wide at their narrowest points. All windows are barred. 
+The bars are half an inch thick and 6 inches apart. 
+
+Unless otherwise stated, all descriptions of areas in the tower 
+assume that the general alarm has not been raised, that it is 
+daytime and that the party has a source of light for use in 
+darkened areas. If this is not the case, the DM should amend 
+them accordingly. 
+
+
+FLOOR 1 
+
+This level of the tower consists of a battlemented platform 
+(area 10). two rooms and a stairway which leads to the higher 
+levels of the tower. 
+
+
+10. Battlemented Platform 
+
+This platform overlooks the track below and is currently 
+unoccupied: 
+
+This is an open, flat area with a crenellated parapet. It 
+extends outwards from the foot of the main fortress 
+building on the south and west sides. The walls of the 
+Keep look down on it menacingly. 
+
+S-------- 
+
+The crenellated parapet is about five feet high. The cut-out 
+portions of thecrenellation are narrow, and the raised parts are 
+each pierced by an arrow slit. Furthermore, there are arrow 
+slits in the floor of the platform near the parapet, pointing 
+obliquely downwards. 
+
+If the general alarm has been raised, the gnolls from the 
+guardroom (room 11) will be out on the platform. Otherwise it 
+will be unoccupied. 
+
+
+If the platform is deserted, and if they exercise reasonable 
+caution, the adventurers will be not be seen on the platform by 
+any of the garrison. If their presence becomes known, 
+however, the platform is a very dangerous place for them to be. 
+Different parts of it are overlooked from the dormitory (room 
+13),, the defence room (room 14). the kitchen (room 18), the 
+hall (mom 21) and the gatehouse (room 22). 
+
+
+11. Guardroom 
+
+The occupants of this simple guardroom are a drunken 
+contingent of the gnoll garrison: 
+
+r -- 
+
+Slumped on a bench or lurching around the room are 
+nearly a dozen tall humanoid creatures with grey 
+skins and dog-like faces. Some are swigging from 
+flagons and all are apparently drunk. They have axes 
+and are wearing leather armour with metal plates. 
+
+kv___ J 
+
+There are 10 gnolls (AC 5; MV 9": HD 2: hp 12 each; * AT 1; 
+D 1-8 {battle-axe} or 1-6 (longbow); SA -5 to hit; SO Nil; 
+MR Std; Int Semi; AL CE; Size L; xp52each. THACO 20*: MM) 
+in a state of great intoxication. If attacked, they will fight to the 
+death, making no attempt to raise the alarm. They will move 
+out onto the battlemented platform (area 10) if the general 
+alarm is raised. Otherwise, they wiU not notice attempts by the 
+party to enter the Keep unless they are actually attacked The 
+personal treasures of the gnolls consist of 4d6gp each In 
+addition, one of them has a silver napkin ring (value - 50gp) 
+
+Against the northern wall is a long table with a bench beside it. 
+Apart from the gnolls' longbows and quivers which lie in a heap 
+on the floor, and their other personal possessions, the only 
+items of value or interest in this room are 200 arrows in a locker 
+and a bundle of 25 torches. Several empty and broken flagons 
+are scattered around the room. 
+
+
+
+13 
+
+
+
+
+
+
+
+
+THE RECAPTURE OF ADLERWEG (FLOOR 1: 12 - FLOOR 2: 14) 
+
+12 Death Room 
+
+This entire room is a trap, operated from the defence room 
+(room 14) above. It is designed to prevent attackers who have 
+overrun the platform from entering the tower. To enter this 
+room, the players will have to lift or bend the southern gate. 
+They will be able to see through the bars, however: 
+
+f ¦'1 
+
+This is a plain room, hewn from solid rock, with 
+blackened walls and ceiling. There are many 
+suspicious holes in the ceiling, each about an inch 
+across. There are two doorways, each only five feet 
+high and barred by stout metal gates. 
+
+^ - - --- 
+
+The barred gates are opened and closed by the winch 
+mechanisms in the defence room on the floor above. The gates 
+slide vertically in slots cut into the door frames. The gates may 
+be bent (-10% usual chance, see PHB p9) or lifted in the usual 
+way by characters on this floor. 
+
+Warning bells in the defence room will sound if the gates are 
+lifted. The bells will alert the gnolls who will then raise the 
+general alarm. The bells will not ring if the bars are bent. The 
+gnolls in the defence room can see into the death room 
+through the peep-hole at the top of the stairs between the two 
+rooms. 
+
+Once alerted, the gnolls will operate the burning-oil device if 
+any attempt is made either to open the northern gate, or to 
+block the holes in the ceiling. The device works by sending a 
+shower of hot, burning oil into the death room through the 36 
+holes in the ceiling. This oil will burn for five rounds during 
+which it will cause 2-12 hit points of damage per round to any 
+creatures in the room. 
+
+The gnolls have enough hot oil in theircauldron in the defence 
+room to operate the device six times. The device takes a while 
+to reload and may only be operated once every six rounds, 
+
+FLOOR 2 
+
+This is the floor on which the party will most likely enter the 
+tower It includes the defence room (a key point in the defence 
+of the Keep) and the upper gate which is the normal entrance 
+to the Keep. 
+
+
+13. Dormitory 
+
+Several gnolls, overcome by drink, have come here to sleep. 
+They are relatively helpless but there are alert gnolls in the next 
+room: 
+
+'--- ' 
+
+The air in this room is filled with the strong smell of 
+sweat and the sound of none-too-gentie snoring. 
+Much of the floor is covered with straw on which 
+sprawl half a dozen humanoids wearing leather 
+armour. One of them is clutching a flagon. 
+
+L _______> 
+
+There are six gnolls (AC 5; MV 9"; HD 2; hp 12 each; # AT 1; 
+D 1-8 (battle-axe); SA -5 to hit; SD Nil; MR Std; tnt Semi; AL CE; 
+Size L; xp 52 each; THACO 20"; MM) who are greatly intox 
+icated and sleeping. The adventurers will normally be able to 
+kill these gnolls without difficulty if they decide so to do 
+
+14 
+
+
+However, there is a 10% chance per round that each surviving 
+gnoll will wake up. Once awake, the drunken gnolls will fight 
+fiercely and wifi call for help. Their shouts wifi be heard by their 
+companions in the defence room (room 14) unless the sound is 
+suppressed in some way (eg by a silence spelt). 
+
+Once alerted, the gnolls from the defence room will investigate. 
+They will attack the party on sight and will attempt to raise the 
+general alarm. 
+
+The sleeping gnolls each have 4d6gp. In addition one of them 
+has a silver mirror (value - 20gp) and another has a rock crystal 
+gem (value - 14gp). 
+
+If the adventurers take the opportunity to search the straw 
+bedding, they will discover the following items: a small ivory 
+ball (value-30gp), a pair of silver tweezers (value - 10gp), and 
+6gp, I2sp and 15cp in coins. 
+
+
+14. Defence Room 
+
+This room is very important In the defence of the Keep since it 
+contains the mechanism for springing the trap in the death 
+room (room 12) below, The gnolls here are only a little drunk: 
+
+
+The occupants of this large room are over a dozen taff 
+grey humanoids with dog-like faces. They are armed 
+with axes and long bows and wear leather armour. As 
+they see you, they rush towards you menacingly. 
+
+t_____ * 
+
+There is a gnoll leader (AC 5; MV 9 M ; HD 3; hp 16;* AT 1; D 1 -8 
+(battle-axe) or 1-6 (longbow); SA Nil; SD Nil; MR Std; Int 
+Low-ave; AL CE; Size L; xp83: THACO 16; MM) and 14 gnolls 
+(AC 5; MV 9"; HD 2; hp 9 each;** AT 1; D 1 -8 (battle-axe) or 1 -6 
+(long bow); SA Nil; SD Nil; MR Std; Int Low; AL CE; Size L; xp 
+46 each; THAC016; MM) who areal! slightly intoxicated. Their 
+personal treasures are as follows: leader - 25gp plus a seal 
+(with an eagle motif) made of jasper (value - 60gp); gnolls - 
+6d6gp each. One has a gold medallion (value - 21gp) t and a 
+silver table fork (value - 8gp). 
+
+if they are attacked (or If attracted by noises from the 
+dormitory - room 13) they will fight the adventurers to the 
+death but two of them will attempt to raise the alarm in the rest 
+of the Keep. 
+
+The gnolls will notice if the party lifts the gates in the death 
+room (room 12) and will react by raising the alarm and 
+operating the burning-oil device (see below and room 12). 
+Otherwise, they will not normally notice attempts by the party 
+to enter the Keep unless the general alarm has been raised. 
+
+The room is large, irregular in plan, with arrow slits in the 
+south- and west-facing walls. It is dominated by a device 
+designed to pour burning oil into the death room (room 12) 
+below. The device consists of several components, including a 
+large, iron cauldron mounted on brackets in the fireplace. A 
+pipe with a tap runs out from the base of the cauldron and 
+down to an empty, blackened, shallow trough cut into the 
+floor. On either side of the trough, three short runnels with 
+metal sluices lead to holes in the floor. Closer inspection of 
+these holes will reveal that, immediately below floor level, they 
+each sub-divide into six pipes sloping obliquely downwards. 
+
+To operate the device, the tap is opened, allowing oil to pour 
+into the trough. The oil is ignited and the sluices are opened, 
+
+
+
+
+
+
+
+allowing it to pourdown into the death room through the holes 
+The burning oil causes 2-12 hit points of damage per round to 
+anyone in that room, and burns forfive rounds. Thedevice can 
+only be used once every six rounds, however. 
+
+
+15. Gate Watchroom 
+
+
+This room was used by the porters of the Keep whose job it was 
+to check the identity of visitors before admittance. There are 
+some gnoll guards here now: 
+
+
+There is enough oif in a full cauldron for six uses. There are 
+seven jars next to the fire-place and each contains enough oil 
+tooperatethe pouring device threetimes, but the oil is of a low 
+grade which must be heated for two hours in the cauldron 
+before it will burn. 
+
+
+Seated around a small table in the centre of this small 
+room are four tali humanoid creatures with grey skins 
+and dog-like faces. Two of them are arm-wrestling 
+while the other two cheer them on. 
+
+
+There are two winch mechanisms which are used to raise and 
+lower the gates of the death room. Each winch has a bell which 
+rings if its gate is moved. 
+
+
+The occupants are four gnolls (AC 5, MV 9": HD 2; hp 9 each; 
+* AT l ;Dl-8 (battle-axe) or 1-6 {long bow); SA Nil; SD Nil: 
+MR Std; Int Low; AL CE; Size L; xp 46 each; THACO 16; MM) 
+who have had no alcohol. If they areattacked, they will attempt 
+to flee and to raise the general alarm. They will notice if 
+unconcealed characters enter the passage outside the upper 
+gate or if attempts are made to open it, and will accordingly 
+respond by raising the general alarm. Their personal treasure 
+consists of 4d6gp each. In addition, one of them has a 
+bloodstone gem (value - 34gp); and one is wearing what 
+appear to be ordinary black armbands. In fact these are a 
+perfect cure for insomnia, and anyone wearing them wiii have 
+no trouble sleeping soundly and comfortably 
+
+
+There are three benches, four tables and eight chairs. There 
+are also seven lockers standing against the western and 
+southern walls. None of these is locked or trapped. Their 
+contents are: 
+
+
+180 arrows, 
+
+10 longbows, 20 bow strings, lumps of resin and tools for 
+the repair and maintenance of bows. 
+
+210 arrows, 
+
+240 arrows. 
+
+Bandages, splints, pots of ointment and three glass bottles. 
+Each bottle contains one dose of a potion of healing (a 
+viscous, colourless liquid with a sour taste). 
+
+190 arrows. 
+
+(Next to fire-place) Tools and materials for repair and 
+maintenance of the burning-oil device. 
+
+
+Apart from the objects already described, and the personal 
+possessions of the gnolis, the only other items in this room are 
+a small pile of firewood, a bundle of six torches, a large hour 
+glass and a slate with a ptece of chalk attached toft by a string. 
+The slate and chalk were used by the human guards of the 
+Keep to note down passwords, times of arrival of visitors, duty 
+rosters, etc. To while away the time, the gnoffs have covered 
+the slate with illegible, meaningless scrawls. 
+
+
+Other items around the room are flagons of wine, leather cups 
+pewter platters, some bone dice, bone counters, two whet 
+stones and 25 torches in a bundle, 
+
+
+15 
+
+
+
+
+
+
+
+
+
+
+
+THE RECAPTURE OF ADLERWEG ( FLOOR 2: 16 - FLOOR 3: 18) 
+
+
+
+16. Stable 
+
+
+There are three horses here. They were used by the original 
+garrison but have been neglected by the gnolls: 
+
+f ""V 
+
+This is a stable, with five stalls against the eastern 
+walk Three of these contain horses which whinny 
+plaintively when they see you. They look under-fed 
+and ungroomed, and the room smells as if the stalls 
+have not been cleaned for many days. 
+
+- _ j 
+
+Each of these horses will adopt an uncommon loyalty (as if 
+affected by an animal friendship sped) to the first character 
+who feeds it or gives it water. All three are medium warhorses 
+(AC 7; MV 18"; HD 2+2; hp 11(14), 8(12), 7(10); * AT 3; 
+D 1-6/1 -6/1-3; SA Nil; SD Nil; MR Sfd; int Animal; AL N; Size L; 
+xp 68, 59, 56; THACO 16; MM) and are fully trained. Their full 
+hit points will be restored by two weeks of proper feeding and 
+grooming. 
+
+
+17. Tack Room 
+
+Having little interest in horses, the gnolfs merely ransacked 
+this room leaving most of the contents intact: 
+
+This room has many hooks, pegs and shelves on its 
+wails, but all are bare. Everything in the room, 
+consisting mostly of tack, harness and feed, has been 
+thrown into a large, untidy heap on the floor. 
+
+"._ 
+
+ff the adventurers take the time to sort out the heap they will 
+find 20 sacks of oats, six saddles, 10 bridles, eight saddlebags, 
+two sets of leather barding, a set of chain barding, 12 saddle 
+blankets, a small anvil, a small portable forge and bellows, 
+blacksmith's tools, horseshoes, nails, four sacks of charcoal, 
+leather-working tools, combs, brushes, saddlesoap and horse 
+liniment. 
+
+
+FLOOR 3 
+
+This floor contains the kitchen and associated store rooms, the 
+main hall of the Keep, and the gatehouse (the focus for the 
+defence of the upper gate). 
+
+
+18. Kitchen 
+
+Warming herself before the fire is the gnoils f malicious old 
+wise-woman with her pets; 
+
+-- - - - i 
+
+This room is filled with the smell of cooking meat. 
+Seated in a chair before a fire at the western end of the 
+room is an ancient female humanoid wearing a filthy 
+leather apron and holding a knobbly staff. She is 
+puffing on a large pipe and is surrounded by five 
+bristly, dog-like creatures gnawing bones noisily. 
+
+___ 
+
+The old female gnoll is a 4HD witch doctor {AC 8 (feather armour 
+only); MV 9*; C4/M2; hp 20; #AT 1; D 1-6 (club); SA Spell use; 
+SD Nil; MR Std; Int Ave; AL CE; Size L; xp 205; THACO 15) and 
+her pets are five hyenas (AC 7; MV 12"; HD 3; hp 16 each; #AT 1; 
+
+D 2-8; SA Nil; SD Nil; MR Std; Int Animal; Al N; Size M; xp 83 
+each; Thaco 16; MM). The wise-woman's spells are; 
+
+First level: affect normal fires, cure light wounds (x3), 
+shield. 
+
+Second level; augury, chant. 
+
+If possible, her first action when she sees the party will be to 
+cast affect normal fires on her pipe and to hurl it in the direction 
+of the adventurers. The burning pipe-weed will pour out 
+noxious fumes which will rapidly fill the room. Any character 
+inhaling these fumes will cough and choke for d6+2 rounds 
+unless they make a successful saving throw vs. Poison. 
+Affected characters will attack at -2 to hit and will have an 
+armour class penalty of+2 until they recover. The gnoll and the 
+hyenas will not be affected by the fumes. 
+
+The wise-woman, aided by the hyenas, will fight the party - 
+casting appropriate spells if possible She is somewhat over 
+confident of her own powers and will not flee for help unless 
+reduced to six or fewer hit points. 
+
+Her personal treasure consists of a fine pipe made of ebony 
+and inlaid with ivory, a small gold brooch with tiger eye stones 
+(value - 200gp), a plain wooden pipe (the one she was 
+smoking) and a pouch of unusual pipe-weed (enough to fill a 
+pipe twice). Magic users wifi be able to produce the same 
+choking effect as the old gnoll by casting affect normal fires on 
+a burning pipe-full of the weed (the pipe's contents are 
+consumed by this) but the magic user and his or her 
+companions are not immune to the fumes. 
+
+The hyenas have no treasure. 
+
+At the western end of the room, a large piece of meat is cooking 
+before the fire. I n the centre of the room are two large wooden 
+tables. On these, and around the room, are scattered many 
+items of kitchen equipment, food and scraps. There is a bread 
+oven behind an iron door next to the fire. 
+
+Unless the fight with the wise-woman has been unusually 
+quiet, the men-at-arms in the fuel store (room 19) will realise 
+that the tower is under attack and will cry out for help. Their 
+cries will be audible in the kitchen. 
+
+
+16 
+
+
+
+
+
+THE RECAPTURE OF ADLERWEG {FLOOR 3: W-22) 
+
+
+19. Fuel Store 
+
+This is the fuel store for the Keep. The gnolls have imprisoned 
+five of the original garrison here, who will call out to the party 
+for help: 
+
+t -v 
+
+Slumped at the southern end of this small room are 
+five wounded men. They are bound with rope and 
+implore you to release them. The room appears to be a 
+store for torches, firewood and coal. There are also 
+some large earthenware jars. 
+
+
+V. 
+
+
+
+The bound figures are the survivors of the original garrison of 
+the Keep. There are four men-at-arms (AC 10; MV 12"; F0; 
+hp 3(5), 2(6), 2(5), 1(4); * AT 1; D By weapon; SA Nil; SO Nil; 
+MRStd; Int Ave; AL NG; Size M; xp 13.12, 12,11;THACO 20') 
+and a sergeant (AC 10; MV 12"; F2; hp 4(14); a at 1; D By 
+weapon; SA Nil; SD Nil; MR Std; Int Ave; AL NG; Size M; xp 47; 
+THAGO20). They were wounded and captured by the gnolls, 
+and have been kept alive only in order to suffer the torments of 
+their captors. They have no equipment. 
+
+They are bound but not gagged and will shout for help if f for 
+example, they hear noise of combat nearby, if freed, healed 
+and armed, these men will willingly aid the party. Their 
+preferred weapons are the long sword and longbow, and they 
+will wear any fairly- or non-bulky armour which they are 
+offered (see DMG p27). 
+
+if used wisely, the soldiers will be very useful to the party. The 
+sergeant in particular may be a good source of information and 
+advice concerning the defence of the Keep (see THE ATTACK 
+BY THE FIRE GIANT - page 21). However, the DM should be 
+careful to prevent the party from taking unscrupulous 
+advantage of these men. They are experienced soldiers and 
+will only take risks if these are seen to be shared equitably by 
+the adventurers. 
+
+In total, the room contains 52 sacks of coal. 31 bundles of 
+torches (20 torches per bundle), 87 bundles of firewood and 12 
+large jars. The jars contain the low-grade oil which is used by 
+the burning-oil device in the defence room (room 14). This oil 
+will not burn unless hot. There is enough oil in each jar for 
+three operations of the burning-oil device. 
+
+
+20. Food Store 
+
+This is a general store. It is unoccupied: 
+
+
+This room is piled high with food-stuffs and other 
+stores, but there is a clear space along the western 
+wall, and easy access to a deep alcove in the eastern 
+wall* There is no sign ot any occupants, 
+
+i _______ . 
+
+
+The room contains large quantities of food, drink, tools, 
+timber, ropes, furniture and other miscellaneous items. 
+
+The eastern alcove contains a well This is a circular hole about 
+200 feet deep. There is a pulley on the ceiling directly above the 
+hole, and next to the well there is a winch for raising the bucket. 
+The well is fed through porous bedrock and so there is no way 
+in or out of the Keep through It. 
+
+
+21, Hall 
+
+The male gnolls have made a shambles of this room and some 
+females are tidying up. They will flee when they see the party; 
+
+-\ 
+
+I Working to tidy a table in the centre of this large room 
+are four tall, female humanoids with grey skins and 
+dog-like faces. They are wearing filthy leather aprons 
+over shapeless smock-like garments. When they see 
+you they back away in fear and begin to shout and 
+scream. 
+
+
+There are four female gnolls (AC 8 (leather armour only); MV 
+9"; HD 2; hp 9 each; * AT 1; D 1 -4 (miscellaneous weapons - 
+dagger, toasting fork, meat cteaver and skewer); SA -1 to hit; 
+SD Nil; MR Std: Int Low; ALCE; SizeL; xp35 each; THAC017; 
+MM) who are moderately intoxicated. They will not be alarmed 
+by noises from the kitchen (room 18) t but when they see the 
+party they will attempt to flee and warn the male gnolte4n the 
+gatehouse (room 22). If attacked, they will only fight back if 
+cornered. They have 2d4gp each. In addition, one of them also 
+has a silver arm-band (value - 60gp), 
+
+The gnolls in the gatehouse (room 22) will be alerted if the 
+females manage to open the door between the rooms or 
+scream for two rounds unchecked. The males will then rush 
+into this room and attack the party. 
+
+In the centre of this room is a long wooden table with a bench 
+on either side and a large, high-backed chair at one end. 
+Scattered over the table and floor are the bones, scraps of food 
+and broken vessels which the female gnolls were tidying up. 
+
+Hanging on the northern wall of the room is a tapestry which 
+has been slashed to ribbons. The tapestry once depicted the 
+building of the Keep, and was a very fine work of art. In its 
+present state, however, it is worthless. If it were repaired in 
+some way (for example, by the use of 10 mending spells) it 
+would be worth ISOOgp. 
+
+Above the fireplace, a large shield-shaped panel once 
+displayed the coat of arms of the rulers of Berghof. The 
+original design is now almost totally obscured by a crude 
+painting of the Gauntlet Standing against the wall in each of 
+the south-western and south-eastern corners is a long wooden 
+locker. The lockers contain arrows - 160 and 230 respectively. 
+
+
+22. Gatehouse 
+
+This room is a key point in the defence of the upper gate of the 
+tower. The gate is raised and lowered from here, there are 
+arrow silts which overlook the path and murder holes leading 
+down to the passage in front of the gate. It is likely that the 
+gnoll guards will have been alerted by the females In the hall 
+(room 21) and will have attacked the party there. It so, the DM 
+should amend the description accordingly: 
+
+
+17 
+
+
+
+
+
+
+
+THE RECAPTURE OF ADLER WEG (FLOOR 4; 23-24} 
+
+
+' - ^ 
+
+This is an odd-shaped room with many arrow slits in 
+the walls. Scattered around the room are eight 
+humanoids; tall and grey with dog-like faces. As you 
+enter, flagons are cast aside and the creatures rush 
+towards you, swinging battle-axes. 
+
+% j 
+
+The occupants are eight gnolls (AC 5; MV 9", HD 2; bp 9 each; 
+
+AT 1; D 1-8 (battle axe) or 1-6 (longbow); SA Nil; SD Nil; 
+MR Std; Int Low-ave; AL CE; Size L; xp 46 each; THACO 16; 
+MM) who are moderately intoxicated. They will attack the 
+party on sight or if they are alerted by the females in the hall 
+(room 21). Once they have engaged the party, they will attempt 
+to perform a fighting retreat up the stairs to floor 4 if things 
+start to go badly for them. One of them has31gp plus a bottle of 
+perfumed hair oil (value - 15gp). The others have 4d6gp each. 
+
+At the discretion of the DM. the gnolls may notice creatures 
+approaching the upper gate along the path and will then raise 
+the general alarm (see area 3). They are oblivious to 
+movements elsewhere outside the Keep. 
+
+
+FLOOR 4 
+
+This floor comprises the armoury and former chambers of the 
+Castellan and his lieutenant. Included with these rooms are the 
+turrets which guard the roof. 
+
+This floor is currently occupied by the ogrillon and his retinue. 
+They will not seek out the party if the general alarm is raised 
+but will remain here, relying on the garrison to take care of the 
+intruders. 
+
+
+23. Eastern Turret 
+
+This is a simple, unoccupied turret room: 
+
+
+This octagonal room is empty except for a wooden 
+locker in the centre of the floor Six of its walls are 
+pierced by arrow slits with metal shutters which are 
+hanging open. 
+
+^^ 
+
+
+There are a dozen stools in the room and a winch mechanism 
+against the southern wall which moves the upper gate. 
+Between the winch and the northern wall, murder holes 
+(vertical tubes about 6 inches across) lead down through the 
+ceiling of the short passage outside the upper gate. 
+
+In the middle of the enlarged, western part of the room is a 
+weapon rack with three wooden lockers on the floor beneath it. 
+There are five longbows on the rack {in addition to those 
+carried by the gnolls) and the contents of the lockers are as 
+follows: 
+
+- 180 arrows, 
+
+- 225 arrows, 
+
+- Bow strings, resin, tools, and other items for the repair and 
+maintenance of bows. 
+
+Near the winch there are 20 flasks of normal, inflammable oil 
+with simple wicks. These will be ignited and thrown at the 
+adventurers (causing normal damage) through the murder 
+holes, if the party reaches the gate below. 
+
+
+
+Thearrow slits of this room overlook the lower, eastern part of 
+the tower roof. The locker is unlocked and untrapped. It 
+contains 250 arrows. 
+
+
+24. Armoury 
+
+This is the armoury of the Keep. The ognflon's lieutenant is 
+here with hts master's hounds. All will fight to the death to 
+defend the ogrillon: 
+
+
+Looming towards you from the centre of this armoury 
+Is a very tall humanoid with violet, warty skin and 
+vicious-looking talons. Slavering at Its feet are four 
+huge, wolf-like creatures. 
+
+
+The humanoid is an ogre (AC 5; MV 9"; HD 4+1; hp 23; *AT 1; 
+D 1-10 {bare hands): SA Nil; SD Nil; MR Std: Int Low; AL CE; 
+Size L; xp 205; THACO 15; MM) and the other creatures are 
+fourworgs (AC 6; MV 18"; HD 4+4; hp 24 each; * AT 1; D 2-8: 
+SA Nil; SD Nil: MR Std; Int Low; AL NE; Size L; xp 210 each; 
+THACO 15; MM). These creatures are fanatically loyal to the 
+ogrillon and will fight to the death in his defence. 
+
+The ogre's personal treasures are; 44gp in a belt pouch, a belt 
+buckle (gold set with turquoise, value - 200gp) and the front 
+cover of a magic user s high level spell book hanging around 
+his neck on a leather thong. The ogre was attracted by this 
+cover because of the semi-precious stones with which it is 
+encrusted. Having torn the cover from the book, he then 
+discarded the contents, considering them to be meaningless 
+scrawls. Its value is 800gp. The spell book itself has long since 
+turned to dust. 
+
+The room is octagonal with a southward extension from the 
+south-east corner. In the centre of the octagonal area is a 
+weapon rack. Below this are four lockers on top of which lie 
+heaps of swords and leather armour. Against the walls of the 
+southern area are more racks, also with lockers beneath them. 
+
+There are 14 longbows on the rack in the octagonal area. Three 
+of the lockers beneath it contain arrows - 180. 210 and 175 
+respectively. The fourth locker contains materials and tools for 
+the repair and maintenance of bows. 
+
+
+18 
+
+
+
+
+
+
+
+THE RECAPTURE OFADLERWEG (FLOOR 4: 25*27} 
+
+
+The weapon racks in the southern portion of the room hold: 
+three battle axes, four daggers in scabbards, two footman's 
+flails, 15 halberds, four footman's maces, eight spears, two 
+bastard swords with scabbards, three broadswords with 
+scabbards, eight longswords with scabbards and one two- 
+handed sword. 
+
+There are six lockers below these racks. Piled on top of them 
+are IB longswords and 12 suits of leather armour. These are 
+the usabie items stripped from the bodies of the Keep's original 
+garrison. 
+
+The contents of the lockers are as follows (the armour is all 
+human-size): 
+
+- Three suits of chainmai! armour, 
+
+- Two suits of chainmai! armour, 
+
+- Two suits of platemail armour, 
+
+- Six small shields, 
+
+- Eight helmets, 
+
+- Various tools and materials for the repair and maintenance of 
+weapons and armour, eg oil, brushes, whetstones, sand. 
+
+Also in the southern part of the room is a bed of straw used by 
+the worgs, 
+
+
+25, Lieutenant's Room 
+
+
+
+This room was formerly occupied by the Castellan's lieutenant. 
+Since the capture of the Keep, the ogre has taken it over and 
+has not been particular about keeping the room in its original 
+neat condition: 
+
+¦-\ 
+
+This room was well furnished at one time but it has 
+been reduced to a shambles. The furniture - a couple 
+of chairs, a desk, a bed and a smalt, empty weapon 
+rack - suggests that it was a bedroom/study. 
+
+i 
+
+The desk had several drawers, but these have been pulled out 
+and smashed. Their contents, consisting mostly of pieces of 
+parchment, have been scattered around the room. The bed is 
+unmade and dirty. Lying over it is a carpet, which the ogre uses 
+as a blanket. 
+
+The role of the previous occupant was largely administrative, 
+although he was also a good fighter, and the papers are 
+concerned with the day-to-day running of the Keep. 
+
+
+26. North-Western Turret 
+
+This is a plain, unoccupied turret room; 
+
+'-- - 
+
+This octagonal room is empty except for a wooden 
+locker in the centre. There are arrow slits fn af! but one 
+of the walls, with metal shutters hanging open. 
+
+
+The arrow slits of this room, and those of the southern turret 
+(room 28) look out over the upper part of the roof of the Keep. 
+The locker contains 220 arrows. 
+
+
+27, Castellan's Room 
+
+Here, the party will encounter the ogrillon wearing the 
+Gauntlet. Before they can do anything, however, the creature 
+will seek refuge in the Keep's magical prison. Soon after this, 
+the fire giant will arrive at the Keep to besiege it: 
+
+--i 
+
+The sole occupant of this well-furnished room is a 
+man-sized humanoid creature with brown skin and 
+dark, unkempt hair. It looks mlidly ridiculous since it 
+is wearing a rich but ill-fitting robe. On its left hand 
+there is a black, leather, studded gauntlet. 
+
+When it sees you, the creature quickly brings its 
+hands together and mutters a word or two. For a 
+moment, it is transparent and then it vanishes 
+completely. Some glittering shards hang suspended 
+in the air for a few seconds and then fall to the floor. 
+
+
+Realising that its foe has efuded it, the Sentinel will send out an 
+anguished telepathic message to the adventurers: 
+
+What trickery is this? Is the Gauntiet in such awe of me 
+that it dare not face me? But wart though it has gone I 
+sense it stilt.,. It is close, yet I know not where. You 
+must find it or all our efforts will have been in vain. 
+
+L _ J 
+
+The ogrillon has escaped the party by deliberately sending 
+itself into the Keep's magical imprisonment system. The 
+adventurers are free to examine the room and its contents, but, 
+five rounds after the ogrillon vanishes, they will be interrupted 
+by the arrival of the fire giant and his army to besiege the Keep 
+(see THE SIEGE OF ADLERWEG page 21), 
+
+With the abrupt removal of the Gauntlet's influence, ail 
+surviving members of the ogrillon's garrison will be affected by 
+the equivalent of a fear spell and will flee the Keep (if possible) 
+by the shortest possible route, never to return. 
+
+The room is well-furnished. There is a polished desk in the 
+centre of the room with an open book on it, a four-poster bed 
+against the northern wail, and three comfortable-looking 
+chairs arranged around the fireplace in the eastern wall Next 
+to the southern wall are a weapon rack, a chest and a bare 
+manikin. The floor is carpeted and there is a tapestry on the 
+wall next to the bed. 
+
+If the fallen shards are examined, the party wifi conclude that 
+they are the fragments of a shattered black gem. The gem was 
+the key which the ogrillon used to imprison himself. 
+
+
+19 
+
+
+
+
+
+
+
+
+
+
+THE RECAPTURE Of ADLERWEG (FLOOR 4: 28) 
+
+
+The book on the desk contains details of the Keep's magical 
+prison. The imprisonment system is described in THE 
+
+MAGICAL PRISON (page 24). 
+
+
+scroll of protection from demons and a quantity of broken 
+glass - the remnants of several other potion bottles smashed 
+when the chest was originally opened. 
+
+
+
+
+The drawers of the desk (which are unlocked and untrapped) 
+contain quills (including two magical quills which allow the 
+writer to work twice as swiftly, except on magical scrolls or 
+spelf books), ink, penknives, pieces of parchment, the former 
+Castellan's letter of authority, personal tetters written to him by 
+his wife and miscellaneous papers relating to the day-to-day 
+running of the Keep. 
+
+The bed and chairs are unexceptional, but the bed is covered 
+by a giant beaver pelt (value - 6DQgp). The weapon rack holds a 
+longsword +2 (NSA) in a scabbard, a dagger in a scabbard, a 
+longbow and a quiver containing 20 arrows. 
+
+Thechest is unlocked. When the Keep was taken, the lock was 
+smashed by an unwary gnoll. This set off an explosive trap, 
+which killed the gnoll and singed the carpet nearby. The chest 
+may now be opened easily and safely. It contains a tunic with 
+matching robe (silk with fox fur trim; value - tunic 100gp f robe 
+150gp), two pairs of boots, a stoppered bottle containing a 
+potion of invulnerability (two doses * pale blue liquid, 
+transparent and tasteless), a bone scroll case containing a 
+
+
+The arrow slits of this room, and those of the north-western 
+turret (room 26) look out over the upper part of the roof of the 
+Keep. The focker contains 190 arrows. 
+
+
+The manikin has a secret compartment in its base, in which is a 
+small bag containing 350pp and a key to the chest. 
+
+
+The tapestry depicts a battle scene, it is worth 70Ogp. The 
+carpet is worth only lOOgp because of the damage done to it. 
+
+
+28. Southern Turret 
+
+
+This is a plain, unoccupied turret room: 
+
+
+This room is empty except for a wooden locker in the 
+centre of the floor It is octagonal and has an arrow slit 
+in all but one of its walls. These slits have metal 
+shutters which are hanging open. 
+
+
+20 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+THE SIEGE OFADLERWEG 
+
+
+After taking the Keep* the Gauntlet's thoughts turned to plans 
+of further conquest for which, It reasoned, a more powerful 
+wielder would be required, Drawing from the ogrillon's 
+memories, it learned of an excellent candidate - a fire giant 
+who had established himself locally as a warlord. The problem 
+was how to lure the giant to the Keep, 
+
+The solution lay in the giant s daughter, who was known to go 
+hunting alone in the mountains, A squad of gnolls was 
+despatched, the giantess was captured and then brought to 
+the Keep where the ogrilJon imprisoned her using some 
+magical gems which it had found (see THE MAGICAL PRISON 
+- page 24). Unfortunately* he had no means of releasing her! 
+
+Caring little for the fate of the giantess, the ogrillon sent a gnoll 
+to the fire giant with the message that his daughter would be 
+returned if he came alone to the Keep, bringing a fortune in 
+gold and gems. The giant's response to this was to gather an 
+army and to march on the Keep. His arrival and siege of the 
+Keep raise the curtain on this part of the module. 
+
+
+SUMMARY OF THIS PART OF THE MODULE 
+
+This section is quite different to a normal module adventure 
+where the sequence of events is dictated primarily by the 
+movement of the adventurers from place to place. Starting 
+almost immediately after the encounter between the party and 
+the ogrillon in the Castellan's room (room 27), the adventure 
+follows a series of events (detailed below) which take place in 
+and around the Keep: 
+
+1. The fire giant's army arrives at the Keep and lays siege to 
+it. The Keep is a good defensive position, however, and the 
+party should be able to repulse the first assault. 
+
+2. After the first attack, the giant will parley with the 
+adventurers. In return for his daughter's freedom, he will 
+swear to depart and to spare their Jives, 
+
+3. If they agree, the adventurers must find the secret of the 
+Keep's magical prison in order to free the giant's daughter. 
+The giant and his retinue will then leave as promised. 
+
+
+4. Finally, the party will be urged by the Sentinel to release 
+the Gauntlet from the magical prison and to destroy it. The 
+Gauntlet, however, will have changed bearer while 
+imprisoned. The ogrillon will re appear as a helpless 
+wretch while a giant two-headed troll will emerge wearing 
+the Gauntlet! With skill and luck the party will be able to 
+overcome the troll, destroy the Gauntlet and so fulfil the 
+destiny of the Sentinel and complete the adventure. 
+
+During these events, the party will generally have freedom of 
+movement around the Keep. The DM should use the maps and 
+descriptions used in THE RECAPTURE OF ADLERWEG 
+(pages 7 - 20, ignoring those occupants which have been killed 
+or have fled) with particular reference to the defensive devices 
+and the useful supplies (arrows etc) stored around the 
+building. 
+
+
+STARTING THE SIEGE 
+
+The siege will begin very soon after the encounter between the 
+adventurers and theogrilion in the Castellan's room (27) .If the 
+adventurers decide to examine the book lying open on the 
+Castellan's desk during this time, the DM should refer to THE 
+INSTRUCTION BOOK (page 25). However, they will not have 
+enough time to make a useful study of it. 
+
+Five rounds after the ogrillon has vanished, the party will be 
+madeawareof thearrival of the giantand his army. The giant s 
+forces will be deployed as shown on the PLAN OF BATTLE 
+(see page 23). 
+
+If they have been keeping watch, the characters will see the 
+giant's forces taking up position (the giant, his retinue and the 
+flying creatures will come over the ridge from the west and the 
+infantry will march in columns along the track from the north), 
+tf not, their attention will be drawn by a raucous blast from the 
+giant's trumpeters and the crash of the first rock (hurled by the 
+giant) against the wall of the Keep once the troops are in 
+position. The attack will then begin. 
+
+All the details required by the DM to conduct the siege are 
+given on the following two pages 
+
+
+THE ATTACK BY THE FIRE GIANT 
+
+
+IMPORTANT: the DM is advised not to look on the giant's 
+attack as a means of massacring the party but as an exciting 
+prelude to the parley and the rest of the adventure. There is a 
+limit to the losses which the infantry will tolerate before 
+withdrawing (see THE INITIAL ASSAULT - page 23) and it is 
+likely and desirable that the first wave of the attack will be 
+repulsed by the adventurers. The giant will then open 
+negotiations with the party for his daughter's release (see 
+PARLEY WITH THE GIANT - page 24). 
+
+In most cases, the adventurers will have the upper hand in the 
+battle since the tower is an excellent defensive position (eg 
+arrow-slits give a -10 AC bonus: see DMG page 64), which is 
+well stocked with the means for defence (arrows, oil etc). This 
+is especially true if the men-at-arms (from room 19) have been 
+released, since they are all able to use long bows and are well 
+versed in the defensive aspects of the building. If the party 
+shows signs of putting up a poor defence, the DM may use the 
+soldiers as a source of information and advice. 
+
+
+If the attack shows signs of succeeding, the DM has two 
+options. If, by silly actions, the adventurers have put up a very 
+poor defence, they should suffer the fate they deserve. If, 
+however, they are in peril of being overrun despite having put 
+up a brave and well-pfanned defence, eg because of bad luck, 
+heavy losses or depredation earlier in the adventure, the DM 
+should cause the hobgoblin platoons to withdraw with fewer 
+casualties and start negotiations earlier. 
+
+In general, the aim of the DM should be to provide an exciting 
+adventure without giving the players an impossible task or an 
+easy ride. 
+
+Note that the ogrillon's forces will flee when he imprisons 
+himself, and that the special magical nature of the lower gates 
+(those leading into the Gateway of Berghof - room 5) means 
+that they will automatically close (even if wedged open) when 
+the attack begins, thus preventing entry through the 
+undercroft. 
+
+
+21 
+
+
+
+THE SIEGE OF ADLERWEG (THE FIRE GIANTS ARMY) 
+
+
+THE FIRE GIANTS ARMY 
+
+
+The frre giant's army consists of eight squads: his personal 
+retinue, a squadron of four manticores, a pack of screaming 
+devilkins and five platoons of infantry. The giant is an able 
+leader, his forces are well-trained and their morale is high. 
+
+
+Descriptions and Personal Treasure 
+
+The fire giant wields a huge two-handed sword (not usable by 
+the adventurers). His personal treasure consists of this sword 
+and the platemail armour he is wearing. The armour is gilded 
+and the sword is encrusted with precious and semi-precious 
+stones. The sword is worth 600gp and the armour 3000gp. 
+Both would require a specialist buyer, however. 
+
+The giant keeps with him an elite corps of followers, 
+comprising four he!J hounds and 12 hobgoblins, who will never 
+desert him under any circumstances, Thehefi hounds have no 
+personal treasure, but the hobgoblins each have 
+2-20gp in mixed coins, small gems, and/or cheap jewellery. 
+
+
+Four of them have long, brass trumpets (value - 50gp each). 
+The airborne division of the giant's army comprises a 
+squadron of four manticores, and a pack of four screaming 
+devilkins. None of these creatures has any personal treasure. 
+
+The hobgoblin sub-chief wields a longsword with +2 damage, 
+has 50gp in coins and small gems, and wears a platinum 
+choker (value-200gp). He will not normally join in the infantry 
+attacks. 
+
+There are five platoons of infantry (referred to by the letters 
+A-E) under the overall command of the hobgoblin sub-chief. 
+Each consists of a hobgoblin sergeant and 30 hobgoblin 
+troops. Platoon B has a battering ram. 
+
+The hobgoblin sergeants use normal longswords. Each has 
+2-20gp worth of mixed coins, gems and/or cheap jewellery. 
+
+Each of the 150 hobgoblin troops has 1-10gp worth of mixed 
+coins, gems and/or cheap jewellery. 
+
+
+(I) Giant s Retinue 
+
+
+Name 
+
+No. 
+
+AC 
+
+MV 
+
+HD 
+
+hp 
+
+-AT 
+
+D 
+
+SA 
+
+SD 
+
+MR 
+
+m 
+
+AL 
+
+S 
+
+*P 
+
+THACO 
+
+Source 
+
+Fire giant 
+
+t 
+
+3 
+
+12" 
+
+11+3 
+
+71 
+
+1 
+
+5-30 
+
+Rocks 
+
+Immune 
+to fire 
+
+Std 
+
+A v(c) 
+
+LE 
+
+L 
+
+4012 
+
+10 
+
+MM 
+
+Hell hound 
+
+4 
+
+4 
+
+12" 
+
+7 
+
+42 each 
+
+1 
+
+1-10 
+
+Breath 
+
+Nil 
+
+Std 
+
+Low 
+
+LE 
+
+M 
+
+506 each 
+
+13 
+
+MM 
+
+Hobgoblin 
+
+12 
+
+5 
+
+9" 
+
+1+1 
+
+8 each 
+
+1 
+
+T8 
+
+Nil 
+
+Nil 
+
+Std 
+
+Ave 
+
+LE 
+
+M 
+
+36 each 
+
+18 
+
+MM 
+
+(11) Airborne Division 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Name 
+
+No, 
+
+AC 
+
+MV 
+
+HD 
+
+hp 
+
+* AT 
+
+O 
+
+SA 
+
+SD 
+
+MR 
+
+Ini 
+
+AL 
+
+s 
+
+xp 
+
+THACO 
+
+Source 
+
+Manticore 
+
+4 
+
+4 
+
+12718" 
+
+6+3 
+
+36 each 
+
+3 
+
+1-3/ 
+
+1-3/1-0 
+
+Tail 
+
+spikes 
+
+Nil 
+
+Std 
+
+Low 
+
+LE 
+
+L 
+
+813 each 
+
+13 
+
+MM 
+
+Screaming 
+
+Devllkin 
+
+4 
+
+2 
+
+12" 
+
+3 
+
+17 each 
+
+1 
+
+1-6 
+
+Scream 
+
+Nil 
+
+Std 
+
+Low 
+
+LE 
+
+S 
+
+141 each 
+
+16 
+
+FF 
+
+(lit) Infantry Platoons 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Name 
+
+No. 
+
+AC 
+
+MV 
+
+HD 
+
+hp 
+
+- AT 
+
+D 
+
+SA 
+
+SD 
+
+MR 
+
+Int 
+
+AL 
+
+s 
+
+*P 
+
+THACO 
+
+Source 
+
+Hobgoblin 
+
+Sub-chief 
+
+1 
+
+3 
+
+9" 
+
+3 
+
+16 
+
+1 
+
+3-10 
+
+Nil 
+
+Nil 
+
+Std 
+
+Ave 
+
+LE 
+
+M 
+
+83 
+
+16 
+
+MM 
+
+Hobgoblin 
+
+Sergeant 
+
+5 
+
+5 
+
+9" 
+
+1+1 
+
+9 each 
+
+1 
+
+1-8 
+
+Nil 
+
+Nil 
+
+Std 
+
+Ave 
+
+LE 
+
+M 
+
+38 each 
+
+18 
+
+MM 
+
+Hobgoblin 
+
+150 
+
+5 
+
+9" 
+
+1+f 
+
+6 each 
+
+1 
+
+1-8 
+
+Nil 
+
+Nil 
+
+Std 
+
+Ave 
+
+LE 
+
+M 
+
+32 each 
+
+18 
+
+MM 
+
+
+Casualty record (tick boxes with pencil to record losses). 
+
+Fire Giant Q 
+
+
+Hobgoblins G G G D 
+
+? ???????? 
+
+
+Screaming Devilkins 
+
+? ? ? ? ? 
+
+
+Hell Hounds 
+
+o ? ? 
+
+
+Platoon A: Sergeant D 
+TroopsD ??????? 
+
+??????????a 
+
+??????????a 
+
+
+Platoon B: Sergeant ? 
+I roopsO ??????? 
+??????????? 
+
+??????????? 
+
+(has battering ram) 
+
+
+Hobgoblin Sub-chief 
+
+? 
+
+
+Platoon C: Sergeant D 
+TroopsDD ?????? 
+
+??????????a 
+
+??????????a 
+
+
+Manticores 
+
+? ? ? 
+
+
+Platoon D Sergeant D 
+
+TroopsD ? ?????? 
+
+??????????a 
+
+??????????? 
+
+
+Platoon E: Sergeant ? 
+TroopsQD ?????? 
+
+??????????a 
+
+??????????? 
+
+
+22 
+
+
+
+THE SIEGE OF ADLERWEG (INITIAL ASSAULT) 
+
+
+
+BATTLE PLAN 
+
+
+1-1 
+
+-1 \ 
+
+INFANTRY 
+
+? 
+
+GIANT'S 
+
+RETINUE 
+
+o 
+
+FLYING 
+
+CREATURES 
+
+\ 
+
+/ 
+
+^ MOVES 
+
+
+INITIAL ASSAULT 
+
+The following is a description of the initial assault on the Keep 
+by the giant's army. It is recommended that the DM changes 
+the details of the attack only under exceptional circumstances. 
+The deployment and movements of the army are shown on 
+THE BATTLE PLAN above. The attack will take place In several 
+phases: 
+
+(i) Taking position. The army will take up position as shown 
+on THE BATTLE PLAN. The giant's retinue and the flying 
+creatures will come over the ridge from the west and the 
+infantry will march in columns along the track from the north. 
+
+(it) Distracting the defenders. The giant will attempt to distract 
+the defenders in two ways. Firstly, he will hurl small rocks at 
+the Keep, (while staying beyond longbow range). These rocks 
+will not affect the building but will make a lot of noise. He will 
+stop throwing once his infantry reach the Keep. 
+
+At the same time, the screaming devilkins will fly across the 
+valley to the Keep, enter it by squeezing between the bars of 
+windows (chosen at random) and search for defenders. When 
+any characters are found, the devilkins will attempt to cause as 
+much confusion as possible. Their screams may be particularly 
+effective in this respect. 
+
+(iii) Main assault. The main part of the initial assault consists 
+of a two-pronged infantry attack on the Keep. 
+
+
+Platoon A will move along the track until it is beneath the 
+western side of the battlemented platform (area 10). Arriving 
+there at the same time will be two of the manticores. Each of 
+these will be carrying two hobgoblins from the giant's retinue, 
+equipped with ropes. Using their tail-spikes to distract the 
+defenders, the manticores will support the hobgoblins while 
+they attach ropes to the battlements for the troops below to 
+climb up. If the hobgoblins of platoon A reach the platform 
+(area 10), they will attempt to enter the Keep through the guard 
+room (room 11). 
+
+Platoon B will advance along the upper path and assault the 
+upper gate with the battering ram. The upper gate will 
+withstand eight rounds of battering by the ram before giving 
+way. Once the gate is down, the hobgoblins will rush into the 
+tower. 
+
+Either platoon will fall back should 15 or more of its members 
+be killed or incapacitated. The sergeants count as the 
+equivalent of four hobgoblins in this respect. 
+
+If the initial attack is repulsed, the giant will parley with the 
+Keep's defenders (see PARLEY WITH THE GIANT - page 24}. 
+
+If this attack succeeds, the giant will signal the three platoons 
+in reserve to rush into whatever breach or breaches have been 
+made. He will oniy risk his own life if success seems certain. 
+
+
+23 
+
+
+
+
+
+
+
+
+THE SIEGE OF ADLERWEG 
+
+
+PARLEY WITH THE GIANT 
+
+
+If the initial assault is repulsed, the giant will parley with the 
+adventurers for the release of his daughter, shouting his 
+demands (in the common tongue) across the valley. The DM 
+should read out or paraphrase the following, in order to open 
+negotiations and then continue them as a conversation: 
+
+r ---- - l - 1 
+
+"Worthless ogrillon? Your flea-bitten gang may have 
+set back the first and least of my attacks, but do not 
+deceive yourself that you have won, 
+
+"Never will I leave so long as you hold my daughter 
+prisoner. Set her free from your sorcerous prison and 
+i will spare your worthless lives. Refuse and I will grind 
+your miserable bones into the dust, and cast down 
+your petty tower 'til no stone remains standing, 
+
+"You have two hours. Think not of escape for I have 
+many eyes and I would take pleasure in hunting you 
+down like the dog that you are." 
+
+
+The giant will be surprised and interested if he discovers that 
+the Keep is no longer under the control of the ogrillon. but this 
+will not cause him to alter his demands or conditions. He 
+knows little about the circumstances of his daughter's 
+imprisonment but has heard rumours of the Keep's 'sorcerous 
+prison 1 . The giant's alignment is lawful evil and he will be 
+prepared to swear that he will fulfil his part of the bargain. 
+
+
+If the adventurers decide to attempt to release the giantess, the 
+DM should refer to THE MAGICAL PRISON below. If they 
+succeed, and return her to her father, he will depart with his 
+army and not return, irrespective of whether he has formally 
+sworn the oath so to do. 
+
+The giant does indeed have 'many eyes'. Not only will any 
+surviving flying creatures in his army survey the Keep from the 
+air, but the eyes of his hell hounds (able to detect hidden or 
+invisible creatures 50% of the time) will be constantly on the 
+look-out. Should the adventurers be seen escaping, the giant 
+and his forces will run them down without mercy. 
+
+If the party is not able or willing to release the giantess, the 
+giant's army will attack again when the time is up. This time, he 
+will personally risk the arrows of the defenders and will open 
+his attack by hurling a series of large rocks against the north 
+side of the tower until a breach is made. 
+
+Each rock causes 1 point of structural damage against hard 
+stone. Any 10-foof by 10-foot section of tower wall can sustain 
+15 points of structural damage before yielding. Alternatively, 
+the giant's rocks will each inflict 4 points of structural damage 
+against the wood of the upper gate which can sustain 8 points 
+of damage before yielding. 
+
+Once a suitable breach has been made, the giant's army (their 
+morale restored by the giant after the initial setback) will 
+attack.... 
+
+
+THE MAGICAL PRISON 
+
+
+The prison of the Keep does not consist of a physical pi ace but 
+employs a variant of the imprisonment spell. When the Keep 
+was first built, four magical cells were established and the 
+Castellans, as jailors, were provided with a number of magical 
+gems with which to operate the system. Black gems allowed 
+the user to imprison creatures in a specified cell, while white 
+gems were used to release them. 
+
+An instruction book and a supply of black and white gems were 
+given to the Castellans, but a number of white gems were 
+mislaid. Since the gems could each be used only once, the time 
+came when only two black gems remained. This made the 
+system useless and left some prisoners trapped in the cells 
+(see PRISONERS - page 2$). 
+
+The book is on the desk in the Castellan's room (room 27) and 
+is described below (see THE INSTRUCTION BOOK - page 25). 
+
+The last Guardian hid an emergency supply of four white gems 
+in a Leomund s secret chest, the replica of which is hidden in a 
+compartment in the painted room in the undercroft (room 8). 
+The instruction book includes a reference to these gems but 
+the secret door leading to the undercroft had been forgotten, 
+and so the gems could not be found. 
+
+The instruction book and the two black gems were found by 
+the ogrillon when the Keep was taken. When the giantess was 
+brought to the Keep, the ogrillon imprisoned her with one of 
+the remaining black gems, heedless of the problem of her 
+release. When confronted by the adventurers and the Sentinel 
+(in room 27) t the Gauntlet will have forced the ogrillon to 
+imprison itself using the final black gem in a bid to escape. 
+
+24 
+
+
+The soldiers (from room 19) have heard of the magical prison 
+and will have some idea what the giant is talking about when he 
+makes his demands. If asked, they will fell the adventurers that 
+they have heard of the prison, but that the Castellan would 
+have been the only person to have known anything about it. 
+
+
+Imprisoning Creatures 
+
+This process can take place anywhere in the Keep, All that is 
+necessary is that the victim is touched with a black gem and the 
+words 4 Go hence unto....' are uttered, followed by the number 
+of the cell to which the captive should go. The creature will 
+fade and vanish as it is sent to the cell and the black gem will 
+break into fragments. The creature will not be imprisoned (and 
+the gem will remain whole) if an occupied cell is specified. 
+
+
+Releasing Creatures 
+
+This can only take place in the release chamber (room 9). To 
+release a prisoner, a white gem is placed on the spiral pattern 
+in the centre of the floor and the command 'Gome forth 
+from.... 1 , followed by the cell number, is spoken, A few 
+moments later the gem will shatter and the prisoner will appear 
+in the centre of the room. If an empty cell is specified or if the 
+procedure is carried out other than in the release chamber, 
+nothing will happen and the gem will remain whole. 
+
+In either case, there is no saving throw for the captive, and 
+while imprisoned, creatures are affected by the equivalent of a 
+
+temporal stasis spell. 
+
+
+
+
+THE MAGICAL PRISON 
+
+
+THE INSTRUCTION BOOK 
+
+
+
+The book may be found on the Castellan's desk (room 27). It 
+has a rich, tooled leather binding with the words 'The Prison' in 
+gold leaf on the spine. The front cover is nearly an inch thick 
+and has 36 padded compartments (each about half an inch 
+wide and deep) hollowed out on the inside. These compart 
+ments held the black and white gems used to operate the 
+prison. All are now empty. 
+
+The first five pages of the book explain how the imprisonment 
+system is operated. When the adventurers read the book the 
+DM should give the players a summary of the procedures 
+detailed in THE MAGICAL PRISON (page 24). 
+
+The sixth page contains a reference to a cache of white gems 
+for use in an emergency. Their location is given as the secret 
+compartment at the top of one of the columns in the'..,.painted 
+room with pillars beneath the Keep' (room 8), The text does not 
+describe how to get to the room but, once there, the 
+adventurers will automatically be able tofind the compartment 
+following the directions given. 
+
+The book contains no reference to the Leomund's secret chest 
+since the last Guardian only decided to leave this at the Keep 
+as a last-minute emergency measure (see THE SECRET 
+CHEST), 
+
+The next three pages contain records of prisoners kept In the 
+cells. All but the last two entries (shown below) have been 
+carefully crossed out: 
+
+- (Neatly written) Cell 4; Lorganarch'. The date given for its 
+imprisonment is about 50 years ago. There is no release date 
+given. 
+
+- (Scrawled) 'Bloodfire's daughter - number 3'. 
+
+Although the reference to the imprisonment of the fire giantess 
+in cell 3 Is correct, the detention of a volt in cell 2 was never 
+recorded. Also, as a result of the exchange it has performed, 
+the Gauntlet is now in cell 4 with the giant two-headed troll 
+(see RELEASING THE PRISONERS). 
+
+There follow seven blank pages. 
+
+Written on the inside of the back cover are the words Tram 
+cwearfern rheasfre, cume\ These are the command words for 
+the return of the Leomund's secret chest whose replica was 
+hidden in the the painted room (room 8). 
+
+
+THE SECRET CHEST 
+
+The secret compartment in the painted room (room 8) 
+contains the small replica of a Leomund's secret chest. The 
+large version, stored on the ethereal plane, may be recalled by 
+holding the small casket and saying Tram cweartern theostre. 
+cume\ 
+
+The chest contains the revenant (AC 10; MV 9"; HD 8; hp 45; 
+# AT 1; D 2*16; SA Paralysation; SD Special; MR Special; 
+Int Exceptional; AL N; Size M; xp 1725; THACO 12; FF) of a 
+ninth level fighter who was accidentally killed by Karl Van 
+Arthog, the last of the Guardians, Karl was pursued by the 
+revenant and, just before leaving the Keep, managed to trap it 
+in the chest and then consign it to the ethereal plane. In so 
+doing, however, he was forced to leave the emergency supply 
+of white gems and certain of his possessions in the chest. 
+
+In order to protect the embarrassing secret of the revenant's 
+existence, Karl made no mention of it either verbally or in the 
+instruction book He felt justified in this since he was confident 
+that the creature would soon be dispelled or otherwise 
+banished. He did, however, write the control words for the 
+chest on the inside of the back cover of the instruction book. 
+
+Unfortunately for him, the decomposition of the revenant did 
+not continue on the ethereal plane. Furthermore, its willpower 
+and intense desire to return to the prime material plane for 
+revenge enabled it to prevent the chest from being lost in the 
+ether over the long period that it has been there. 
+
+When the adventurers open the chest, the DM should not 
+identify the revenant to them, but merely describe it. The 
+revenant will rise from the chest muttering 'At last' and then 
+brush past the adventurers before departing on its hopeiess 
+quest for Karl Van Arthog (who is long since dead). It will not 
+attack the adventurers unless they attack it. 
+
+Also in the chest are two bags and a small wooden box. The 
+first bag contains four white gems for the magical prison. The 
+second bag contains a set of 12 violet garnet buttons (value 
+4Q0gp each, or 6GO0gp the set). The box contains a necklace of 
+missiles which has one 5-hit-dice-fireball globe and two 3~hit- 
+dice-fireball globes. 
+
+
+RELEASING THE PRISONERS 
+
+It is essential that the adventurers realise that both the giantess 
+and the ogrillon are incarcerated in the magical prison and that 
+they read the instruction book in order to find out how it works. 
+Under certain circumstances, the DM may be forced to drop 
+hints (probably via the Sentinel) until the players work out 
+what is going on. 
+
+The release of the prisoners can only take place in the release 
+chamber (room 9) and the party will need the four white gems 
+from the Leomund's secret chest. 
+
+If is likely that the party will wish to release the fire giantess first 
+in order to pacify the fire giant and, despite its intense desire to 
+destroy the Gauntlet, the Sentinel will not object to this. 
+
+When the giantess is released, she will be grateful to her 
+rescuers and will cautiously co-operate with the party in order 
+to ensure her safe return to her father. Although he is of evil 
+alignment, the fire giant is also lawful and will fulfil his part of 
+the bargain. Once the party has released his daughter, he and 
+his army will withdraw into the mountains and not return. 
+
+25 
+
+
+
+THE MAGICAL PRISON (CELLS 1-3) 
+
+
+Despite the giantess' evil alignment, her release should not be 
+considered an evil act for a paladin (for example) since the 
+intention is to spare bloodshed and to honour an agreement. 
+
+The giant will respond angrily if he believes that the party is 
+threatening his daughter, although his prime concern will 
+al ways be to ensure her safety. I f P for some reason, the gia ntess 
+is kitted and the giant discovers this, he will spare no effort or 
+loss In order to have his revenge. 
+
+Once the threat of the fire giant has been averted, the Sentinel 
+will want to confront the Gauntlet and It will make this desire 
+known to the party (by telepathy). It will emphasise that it is 
+only necessary for it to touch the Gauntlet in order that 
+the latter is destroyed. It will not mention that touching 
+the Gauntlet will also cause its own destruction (see 
+DESTRUCTION OF THE GAUNTLET AND THE SENTINEL - 
+page 29). 
+
+If the adventurers do not seem willing to confront the Gauntlet, 
+then the Sentinel will attempt to persuade them by stating that 
+fourmagicaj gems are incorporated into the Gauntletand that 
+these will remain if it is destroyed. If necessary, the Sentinel 
+will withdraw the use of its magical powers (restoring them if 
+the adventurers agree) and may even be forced to attempt to 
+dominate the personality of its bearer and to use its suggestion 
+ability on the other adventurers {see THE SENTINEL - page 
+29). It will agree to a reasonable delay (up to 12 hours) if the 
+party wishes to rest, heal wounds, relearn spells and so on, 
+
+Unfortunately for the party and the Sentinel, the Gauntlet had 
+sufficient power to overcome the temporal stasis which 
+usually besets those in the magical prison, to examine the 
+other prisoners and also to perform an exchange. It was able to 
+desert the ogrillon and moved to a new, more powerful bearer- 
+the giant two-headed troll in cell 4, 
+
+ft is likely that the swap and the incomplete nature of the 
+records in the instruction book (ie the omission of the volt) will 
+cause the party some surprises (and the DM some hard-earned 
+amusement) while they are attempting to find the Gauntlet. 
+
+
+
+PRISONERS 
+
+As Is the case with the normal Imprisonment spell, the 
+prisoners (with the exception of the Gauntlet) have been in a 
+state of suspended animation (cf temporal stasis) since they 
+were incarcerated. 
+
+The occupants of the cells and their responses to the party 
+when released are as follows: 
+
+
+Cell 1 
+
+The ogrillon (AC 6; MV 12 M : HD 2; hpl (12);^ AT 2; D 2*112-1; 
+SA Nil; SD Nil; MR Std; Int Low (insane); AL CE; Size M; xp 22; 
+THACO 16; FF) is no longer wearing the Gauntlet. The loss has 
+stripped him of all its magical powers and has reduced him to a 
+homicidal maniac with only one hit point. The ogrillon will 
+wildly attack the party on sight. 
+
+The Sentinel will send the following message (telepathically) 
+to its bearer when it becomes obvious that the ogrillon does 
+not have the Gauntlet, unless the party has already discovered 
+this: 
+
+* -. 
+
+What trickery is this? The Gauntlet has deceived us! 
+Somehow it has abandoned this vile creature and yet I 
+sense that it is stilt within the magical prison. Perhaps 
+it has moved to another bearer? If so, it remains a 
+prisoner and within our grasp. We must not allow it to 
+escape. 
+
+
+The ogrillon is still wearing the ill-fitting clothes in which the 
+
+party first saw him (room 27). His personal treasures are; 
+
+- a very fine tunic and robe (silk with gold brocade and sable 
+trim - the tunic is worth 600gp, and the apparent value of the 
+robeis600gp. If is actually a robe of useful Itemscontaming 
+the usual daggers, poles, etc r plus a bag with 100gp; two 
+silver coffers (value - 500gp each); three 24-foot wooden 
+ladders: 10 gems (value - 10Ogp each); two scrolls, one with 
+read magic and one with mending: and a 2-foot by 4-foot 
+window. 
+
+- a black opal or a gold chain around his neck (value - 2000gp) 
+
+- two black pearls (value - 500gp each) in a small purse 
+hanging from his belt. 
+
+
+Cell 2 
+
+A volt (ACS: MV 6"; HD 2+1: hp 14; # AT 1 and 1; D 1-4 and 2-12; 
+SA Nil; SD Immune to electrical-type attacks; MR Std; Jnt 
+Animal; AL N; SizeS; xp 92; THACO 16; FF) which will attack 
+the adventurers on sight. 
+
+
+Cell 3. 
+
+The fire giant s daughter (AC 3; MV 12"; HD 9; hp 43; *AT1; 
+D 2-16; SA Nil; SD Impervious to fire; MR Std; Int Ave; AL LE; 
+Size L:xp 1140; THAC012; MM).She will not be welt disposed 
+towards the adventurers at first, but will not attack them unless 
+she feels threatened and will cautiously allow the adventurers 
+to conclude their bargain with her father (see RELEASING 
+THE PRISONERS- page25). The giantess is unarmed and her 
+only personal treasure consists of a crudely made necklace of 
+jet (value - 15Qgp). 
+
+
+26 
+
+
+
+
+
+
+
+
+
+
+TT 
+
+1 
+
+111 
+
+la 
+
+
+IB 
+
+
+Cell 4 
+
+A giant two-headed troll wearing the Gauntlet (AC 4; MV 12"; 
+HD 11; hp 65; - AT 4; D 1-6(+ 2-7 - shocking grasp)/1-6/1-1D/ 
+1-10; SA cast tear (once per day); SD Regeneration (6 hp per 
+round), protection from normal missiles, immune to charm, 
+command, confusion, ESP, fear, teeblemmd, forget, friends, 
+geas, hold person, quest, scare, sleep and suggestion; MR Std; 
+Int Exceptional; AL NE; Size L; xp 2710; THACO 10; FF). The 
+characteristics of this creature are a combination of those of 
+the giant two-headed troll and the Gauntlet (see THE 
+GAUNTLET - page 28). 
+
+When brought back from the magical prison, the troll's 
+reaction will be simple and hostile. His major concerns will be 
+to avoid the Sentinel-wearer, to use his fear spell to the best 
+effect and to kill as many adventurers as possible with his 
+teeth, bare hands and shocking grasp attack. He will direct 
+each of his four attacks at different opponents if possible. 
+
+When the giant trolf with the Gauntlet appears, the Sentinel will 
+send this message to the party (telepathically): 
+
+* ~ ~ 1 ¦ \ 
+
+There my friends! There is the Gauntlet! You have 
+onfy to bring us together and I will destroy its evil 
+forever. Come now, be brave, touch me to the 
+Gauntlet and my destiny will be fulfilled. 
+
+
+The character wearing the Sentinel may automatically touch 
+the Gauntlet with it if the giant troll is immobilised (eg if 
+temporarily reduced below zero hit points). White the troll is 
+mobile, however, theSentfnel-wearer must score a hit m order 
+
+
+to bring the artifacts into contact. This should be treated as a 
+normal attack since the Sentinel wifi guide the bearer's hand to 
+some extent. 
+
+When the Sentinel and Gauntlet are touched together, both 
+will be instantly (and spectacularly) destroyed leaving only the 
+ring which was incorporated into the Sentinel and the gems 
+which were part of the Gauntlet. Nothing will remain of the troll 
+but a smear of dust (which will not regenerate). See THE 
+DESTRUCTION OF THE GAUNTLET AND THE SENTINEL - 
+page 29). 
+
+The ring from the Sentinel will give permanent shield 
+protection when worn. This power may only be used by the 
+person who was wearing the Sentinel at the time of its 
+destruction, however, 
+
+The gems from the Gauntlet contain the remnants of the power 
+of the artifact. They are identical in appearance, angular in 
+form, translucent and grey-green in colour. They have an 
+apparent value of 800gp each but they are magical and each 
+will have a different effect on its owner; 
+
+Gem * 1 - owner regenerates 1 hit point per turn (only while 
+the character is alive). 
+
+Gem* 2 - owner has an effective charisma of 1 8 when dealing 
+with creatures of his or her own alignment. 
+
+Gem* 3-owner has complete immunity to charm and 
+suggestion spells 
+
+Gem* 4 - this gem has a very strong aura of evil and non-evil 
+characters will take a instant dislike to it. If kept, it 
+will have the same effect on its owner as a jewel of 
+attacks. An identify spell will not reveal the nature 
+of this gem. 
+
+
+27 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+POWERS 
+
+
+
+There are two kinds of magical abilities which the Gauntlet can 
+employ: those which are permanent and may be used at will, 
+and those which may only be used at a limited rate. These 
+powers are only available to a character who has been 
+completely taken over by the personality of the Gauntlet. 
+
+
+Permanent Powers 
+
+
+The wearer will gain a number of hit dice or levels (as 
+appropriate). The number gained will depend on the 
+original level/hit dice of the wearer; 
+
+
+Levels/hit dice gained 
+
+
+Original level/hit dice 
+
+
+less than 1 
+1-3 
+4-6 
+7-9 
+10-12 
+
+more than 12 
+
+
+The wearer will gain all hit point, *\o hit', saving throw and 
+magic resistance benefits of the acquired level, but no 
+extra spell casting or special abilities. 
+
+
+2, The wearer will regenerate 5 hit points of damage per 
+round, even when reduced below zero. 
+
+
+The Gauntlet is made of tough black leather. It appears to have 
+been made for a large human left hand but is actually capable 
+of fitting any left hand. It has iron studs along the fingers and 
+four rough grey-green gems set in the palm. 
+
+
+3. The wearer is protected by the equivalent of a permanent 
+
+protection from normal missiles spell. 
+
+4. The wearer has a permanent shocklng-grasp-like ability 
+which adds 2-7 hit points of electrical damage to any hit 
+scored with the hand wearing the Gauntlet. This damage 
+does not apply if a weapon is used (characters attempting 
+two attacks - ie Gauntlet on one hand, weapon in the other 
+- should be dealt with as described in DMG p70). 
+
+
+The Gauntlet has a personality and purpose which are treated 
+in a similar (but not identical) way to those of unusual swords 
+(see DMG pi 67-8). It has an intelligence of 15 and an ego of 18, 
+and thus a personality of 33. Its alignment rs neutral evil and it 
+will attempt to dominate its bearerassoon as it is puton. If the 
+victim succumbs, it will become a slave to the Gauntlet's 
+commands. The Gauntlet will not allow the use of any of its 
+powers by a creature which it does not control. Any character 
+of non-evil alignment who puts on the Gauntlet will suffer 1-8 
+hit points of damage each round that it is worn. The Gauntlet 
+will only attempt to control a non-evil creature under 
+exceptional circumstances, in which case it will leave it with 
+one hit point. 
+
+
+5. The wearer will have the equivalent of charisma 18 when 
+dealing with creatures of evil alignment. This is due to the 
+emanations of power from the Gauntlet and if it is 
+destroyed, all creatures previously subject to its Influence 
+will be affected by the equivalent of a fear spell. 
+
+
+6. The wearer is no more than an automaton under the 
+control of the Gauntlet, and is immune to charm, 
+command, confusion, ESP, fear, feeblemind, forget, 
+friends, geas, hold person, quest scare, sleep and 
+suggestion spells. 
+
+
+If a player-character dons the Gauntlet and becomes 
+dominated by it. the DM should immediately take control of the 
+character from the player and direct its actions according to 
+the desires of the Gauntlet. Control of the character can only 
+be restored to the player if the Gauntlet is removed. This 
+removal requires the application of an exorcise spell. The level 
+at which the magic of the Gauntlet was created should be 
+taken as 20th for the purposes of the exorcise spell. Creatures 
+wearing the Gauntlet who are not under its the control will be 
+able to remove it without difficulty 
+
+
+Limited Use Powers 
+
+
+1. The Gauntlet may become the equivalent of a maul of the 
+titans (duration five rounds) three times each day. It may 
+automatically be wielded by its wearer (regardless of size 
+or strength) but it can only be used for damaging 
+structures and not as a weapon. 
+
+2. The wearer may casta learspell once per day (duration 6 
+rounds). 
+
+
+The original purpose of the Gauntlet was the destruction of the 
+Keep at Adlerweg, but during the years that it lay dormant it 
+became dissatisfied with this and planned to capture and 
+control the Keep rather than destroy it. 
+
+
+3. The wearer may cast a know alignment spell three times 
+per day. 
+
+
+The Gauntlet fears the Sentinel greatly since, if they are 
+brought together, it will be destroyed. 
+
+
+
+THE SENTINEL 
+
+
+The Sentinel is a glove made of pale kid leather which will 
+never become dirty or stained. Incorporated into the index 
+finger is a ring set with a rounded blue stone. It will fit any 
+humanoid right hand. 
+
+The Sentinel has a personality and purpose which are treated 
+in a similar (but not identical) way to those of unusual swords 
+(see DMG p167-8). It has an intelligence of 17 and an egoof 21, 
+and so has a personality of 38. The purposes of the Sentinel are 
+the defence of the Keep of Adlerweg, and the destruction of the 
+Gauntlet should an opportunity for this arise. It has remained 
+true to these purposes despite the passing of the years. 
+
+The personality of the Sentinel is very strong. In keeping with 
+its neutral-good alignment, however, it will not automatically 
+attempt to dominate and control its wearer, in order to achieve 
+its ends, it will use advice and persuasion in the first instance, 
+followed by total withdrawal of the use of its powers. It will only 
+attempt to dominate its bearer as a last resort if the bearer's 
+actions run seriously contrary to its purposes. 
+
+
+POWERS 
+
+The Sentinel was constructed in great haste. Its powers are 
+not, relatively speaking, very great, but it alone has the power 
+to destroy the Gauntlet. 
+
+There are two kinds of power which the Sentinel can make 
+available to its wearer: those which are permanent and may be 
+used at will, and those which may only be used at a limited rate. 
+Some of the powers are usable only by a magic user or 
+illusionist. In addition, the Sentinel has a suggestion-like 
+ability, which it uses to persuade creatures to don it or perform 
+other actions. This power is not available to the bearer. 
+
+
+Permanent Powers 
+
+1. The wearer may automatically open the magically locked 
+gates of the undercroft below the Keep of Adlerweg. 
+
+2. The Sentinel has the effect of a permanent protection from 
+evil 10' radius spell cast upon the wearer. 
+
+3. The wearer has a total resistance to magically induced 
+fear. All friends and allies of the wearer within 10 feet of the 
+Sentinel have a +2 bonus on saving throws against 
+magical fear, 
+
+4. The wearer is protected as if by a permanent shield spell 
+(magic users/illusionists only). 
+
+
+Limited Use Powers 
+
+1. The wearer may cast a protection from normal missiles 
+
+spell once per day (duration 5 turns-magic users/illusion- 
+ists only). 
+
+2. The wearer may cast a hold portal spell (as if cast by a 
+magic user of 10th level) twice per day (magic users/ 
+illusionists only). 
+
+3. The wearer may cast a know alignment spell twice per day 
+(magic users/illusionists only). 
+
+
+
+DESTRUCTION OF THE GAUNTLET 
+AND THE SENTINEL 
+
+The Sentinel and Gauntlet are artifacts and may not be 
+destroyed by normal means. However, if they touch one 
+another they will both be instantly vaporized, leaving only the 
+ring which was part of the Sentinel and the four gems from the 
+palm of the Gauntlet. 
+
+The mutual annihilation of Sentinel and Gauntlet will be 
+spectacular, producing a brilliant flash of light and a thunder- 
+like crash - both harmless. The creature wearing the Gauntlet 
+will be affected by the equivalent of a disintegrate spell (no 
+saving throw). The Sentinel wearer will not be harmed. 
+
+The ring from the Sentinel is gold with a rounded blue stone 
+(apparent value * 150gp). It is magical and will protect its 
+wearer (any character class) with the equivalent of a 
+permanent shield spell. This power may only be used by the 
+person who was wearing the Sentinel when it was destroyed. 
+
+The gems from the Gauntlet contain the remnants of the power 
+of the artifact. They are identical in appearance, angular in 
+form, translucent and grey-green in colour. They have an 
+apparent value of 80Qgp each but they are magical and each 
+will have a different effect on its owner: 
+
+Gem^ 1 - owner regenerates 1 hit point per turn (only while the 
+character ts alive). 
+
+Gem'* 2 - owner has an effective charisma of 18 when dealing 
+with creatures of his or her own alignment. 
+
+Gem;* 3-owner has complete immunity to charm and 
+suggestion spells. 
+
+Gem^4 - this gem has a very strong aura of evil and non-evil 
+characters will take a instant dislike to it If kept it will 
+have the same effect on its owner as a jewel of 
+attacks. An identify spell will not reveal its nature 
+
+29 
+
+
+
+
+ALTERNATIVE START 
+
+It is essential that the adventurers are in possession of the 
+Sentinel (page 29) before starting the adventure described in 
+this module. If the party has not obtained the Sentinel during 
+the adventure in module UK2 - THE SENTINEL, the DM may 
+wish to create a special adventure for this purpose. Alter 
+natively, the following encounter may be used. The DM should 
+note that the Sentinel can only be used by characters of LG, 
+NG. LN P N or GG alignments, and should ensure that the 
+characters chosen by the players will be suitable for the 
+adventure. 
+
+The adventurers arrive at the village of Kusntr, several miles 
+west of Ganna way (see map A). Here, they are told of problems 
+which the villagers have been having with a pair of skulks, one 
+of whom has been acting very strangely. The villagers direct 
+the adventurers to a cave in the woods, three miles east of the 
+village^ which they believe to be the skulks' lair. 
+
+
+THE SKULKS' LAIR 
+
+The cave is easy to find using the directions given by the 
+villagers. When the adventurers are able to see into the cave, 
+the DM should read out the following; 
+
+- ¦¦ ¦'> 
+
+Lying huddled on the floor of this chamber is a 
+humanoid figure. It appears to be trembling and 
+whimpering and is clutching its right arm to its chest, 
+
+- ^ 
+
+The creature on the floor is a skulk (AC 7; MV 12"; HD 2; 
+hp 1 (9);* AT Nil; D Nil: SA Nil; SD Nil; MR Std; Int Non; AL C£; 
+Size M; xp 0; THACO N/A; FF). It is wearing the Sentinel and 
+this has caused its pitiable state. The conflict between its 
+personality and the Sentinel's ego has destroyed the creature's 
+mind and it is completely harmless. It has no treasure. 
+
+Hiding to the right of the cave mouth is a second skulk (AC 7; 
+MV 12"; HD 2; hp 7;^ AT 1; D 1-6 (dagger): SABackstab as fifth 
+level thief; SD Camouflage; MR Std; Int Ave; AL CE; Size M; 
+xp5Q; THACO 16; FF). It will attempt to remain hidden until a 
+chance to escape arises and will attack a character from 
+behind if necessary in order to create confusion, it has 40gp 
+worth of mixed coins, and a gem (topaz, value-350gp) in a belt 
+pouch. 
+
+When the party arrives, the Sentinel will use its know alignment 
+ability to sense the presence of LG, NG t LN. N or CG 
+characters. If there are none present, the Sentinel will do 
+nothing in the hope that the adventurers will ignore it. 
+Otherwise, it will show itself to the party: 
+
+
+TO THE ADVENTURE 
+
+( -- 
+
+The creature on the floor regains its composure for a 
+while and raises its right arm as if to show it to you. 
+You see that it is wearing a pale brown glove 
+apparently made of fine leather. On the index finger is 
+a ring with a single, rounded, blue stone. 
+
+
+Next, the Sentinel will choose a bearer from the party 
+according to the following criteria; 
+
+Alignment. This is the most important criterion. The order of 
+preference is (starting with the most preferred): LG, NG, LN, N, 
+CG, No characters of any other alignment will be chosen. 
+
+Class, This is the next most important criterion. If two or more 
+characters have the same alignment, then magic user is the 
+preferred class, followed by (in order of preference) illusionist, 
+paladin, monk t ranger, cleric and fighter. No other class may 
+use the Sentinel, 
+
+Level. All else being equal, the Sentinel will choose the 
+character with highest level. 
+
+The Sentinel will then communicate (tetepathically) with its 
+chosen character only: 
+
+* -* 
+
+Come, worthy one. Take me from the hand of this 
+wretched creature and place me on your own. The evil 
+one is at large and together we must destroy it. 
+Despite my powers, I am helpless without one such as 
+you who will take me up and wield the power I possess 
+for the furtherance of the common good. Come. 
+
+
+If the chosen wielder seems reluctant to take up and put on the 
+Sentinel, it will use its suggestion power against which the 
+character will save at -4 since the suggestion is very 
+reasonable. 
+
+If the Sentinel is not taken up by its first choice of bearer, it will 
+repeat the process with each eligible character in the party, in 
+order of preference, until one of them decides or is forced to 
+put it on or until the possibilities are exhausted. 
+
+Once a suitable character puts on the Sentinel, it will tell that 
+character (telepathically) about its history, its purposes and 
+the powers it has to offer. In order to simulate this message, the 
+DM should give the player concerned the tear-off sheet 
+entitled MESSAGE FROM THE SENTINEL' from the back of 
+this module. 
+
+
+CREDITS 
+
+
+Graeme Morris 
+Tom Kirby 
+Phil Gallagher 
+Paul Cockburn, Kim Daniel 
+Paul Ruiz 
+Pete Young 
+
+
+concept, design, writing 
+
+concept, editing 
+
+production 
+
+layout, typesetting 
+
+cartography 
+
+art 
+
+
+Thanks to the DMs and players at GamesFair "83 who may recognise this module, MWB, D JT, CM, and 
+the Anglo Saxons 
+
+(for providing the command words for the Leorriund's secret chest). 
+
+
+30 
+
+
+
+
+
+
+
+MESSAGE FROM THE SENTINEL 
+
+
+I am the Sentinel, the glove worn by the 
+Guardians ot Adlerweg. 
+
+Many years ago, there was open strife between the inhabitants 
+of this area, then known as Berghof, and the people of the 
+coastal lands beyond the mountains to the south east, 
+Adlerweg, a pass cut by the River Gann, is the sole link 
+between these regions and so t to ensure peace, the rulers of 
+Berghof built a lofty fortress there. 
+
+The Keep of Adlerweg blocks the pass against invasion as a 
+cork blocks the neck of a bottle, but the hot-blooded 
+coastianders were never content with peace and prosperity. 
+War and conquest were their only loves, and to this end their 
+evil sorcerers created a black gauntlet and wove about it such 
+magics that it could reduce the Keep of Adlerweg to a ruin, 
+
+Little time was left to avoid catastrophe when rumour of the 
+Gauntlet first drifted over the mountains. In haste was I 
+fashioned to counter the threat - a creation having intellect and 
+great power, existing only to protect Adlerweg and to destroy 
+the Gauntlet should it threaten the Keep, Those appointed to 
+control my powers, a succession of mighty mages, were 
+known as the Guardians of Adlerweg and I served the holders 
+of that title over many years during which the Gauntlet dared 
+not oppose me and the Keep remained inviolate. 
+
+
+Eventually, the coastal lands fell to the ships and hordes of the 
+Sea Princes, and the Gauntlet was lost. Without its threat, the 
+reason for my existence faded and my powers waned. 
+Eventually the Guardians came to regard me as no more than a 
+relic from a bygone era. 
+
+Even so, I did but sleep. The destinies of the Gauntlet and I 
+were linked by my making such that we could only be 
+destroyed together Silent, I awaited the day when the 
+Gauntlet would return. Silent I remained when brought from 
+the keep to this villa by the last mage to bear the title 
+'Guardian', Silent still while his family, which retained me in 
+succeeding generations as a mere curio, declined and fell; and 
+silent in the empty years following their abandonment of this 
+place. Not long since, my sleep was broken by the re 
+awakening of the Gauntlet and I sensed that, as ever, it was 
+intent on the destruction of the keep, 
+
+Desperate for a person of pure intent who could employ my 
+power to cast the Gauntlet into oblivion once more, l had only a 
+pair of foul skulks for company. However I was able to 
+command one of them to do my bidding and, though I 
+destroyed its mind in the process, it was able to lure you here. 
+
+And now you have come. Feel the powers I can give you. 
+Together we will go to Adlerweg and destroy the evil of the 
+Gauntlet. 
+
+
+
+
+The powers of the Sentinel are as follows: 
+
+1. While you are wearing it you may automatic 
+ally open magically locked doors in the Keep 
+of Adlerweg. 
+
+2. It has the effect of a permanent protection 
+from evil 10' radius cast upon you. 
+
+3. tt gives you total resistance to magical fear 
+and gives all your allies within 10 feet of you a 
++2 bonus on saving throws against such 
+attacks. 
+
+If the wielder is a magic user or an illusionist the 
+
+Sentinel will confer additional powers as follows: 
+
+4. It has the effect of a permanent shield spell 
+cast on you alone. 
+
+5. You may cast a protection from normal 
+missiles spell once per day (duration 5 turns). 
+
+6. You may cast a hold portal spell (as if cast by a 
+10th level magic user) twice per day. 
+
+7. You may cast a know alignment spell twice per 
+day. 
+
+
+
+9111XXX15D1 
+
+
+
+MONSTER ROSTER 
+
+
+Name 
+
+Location 
+
+No 
+
+AC 
+
+MV 
+
+HD 
+
+hp 
+
+* AT 
+
+D 
+
+SA 
+
+SO 
+
+MR 
+
+Int 
+
+AL 
+
+s 
+
+xp THACO 
+
+Animated figure 
+
+Room 5 
+
+1 
+
+4 
+
+9" 
+
+8 
+
+45 
+
+1 
+
+2-7 
+
+Fear 
+
+MS 
+
+25%* 
+
+Non 
+
+N 
+
+M 
+
+620 
+
+13 
+
+(cleric) 
+
+Animated figure 
+
+Room 5 
+
+1 
+
+2 
+
+6' 
+
+6 
+
+50 
+
+1 
+
+5-12 
+
+Nil 
+
+MS 
+
+* 
+
+Non 
+
+N 
+
+M 
+
+525 
+
+13 
+
+(fighter) 
+
+Animated figure 
+
+Room 5 
+
+1 
+
+9 
+
+l T 
+
+8 
+
+42 
+
+o 
+
+0 
+
+Magic 
+
+MS 
+
+5Q%* 
+
+Non 
+
+N 
+
+M 
+
+602 
+
+N/A 
+
+(magic-user) 
+Ant, Giant 
+
+Roam 7c 
+
+1 
+
+3 
+
+0 
+
+TO 
+
+48 
+
+0 
+
+0 
+
+missiles 
+
+Nil 
+
+Nil 
+
+Std 
+
+Animal 
+
+N 
+
+M 
+
+0 
+
+N/A 
+
+queen 
+
+Ant, Giant 
+
+Roam 7c 
+
+4 
+
+3 
+
+ir 
+
+3 
+
+13 ea. 
+
+i 
+
+2-8 
+
+Poison sting 
+
+Nil 
+
+Std 
+
+Animal 
+
+N 
+
+S 
+
+79 ea. 
+
+16 
+
+soldier 
+
+Ant, Giant 
+
+Room 7c 
+
+4 
+
+3 
+
+19" 
+
+2 
+
+7 ea 
+
+i 
+
+1-6 
+
+Nil 
+
+Nil 
+
+Std 
+
+Animal 
+
+N 
+
+S 
+
+34 ea. 
+
+16 
+
+worker 
+
+Ant. Giani 
+
+Room 7b 
+
+5 
+
+3 
+
+Ifl" 
+
+2 
+
+7 ea 
+
+i 
+
+1-6 
+
+Nil 
+
+Nil 
+
+Std 
+
+Animal 
+
+N 
+
+S 
+
+34 ea 
+
+16 
+
+worker 
+
+Dog, war 
+
+Ganna way 
+
+1 
+
+6 
+
+12" 
+
+2+2 
+
+16 
+
+i 
+
+2-8 
+
+Nil 
+
+Nil 
+
+Std 
+
+Semi 
+
+N 
+
+M 
+
+83 
+
+16 
+
+Giant, fire 
+
+Army 
+
+1 
+
+3 
+
+12" 
+
+11+3 
+
+71 
+
+1 
+
+5-30 
+
+Rocks 
+
+Immune 
+
+Sid 
+
+Ave 
+
+LE 
+
+L 
+
+4012 
+
+10 
+
+Giant, fire 
+
+Cell 3 
+
+1 
+
+3 
+
+12" 
+
+9 
+
+43 
+
+i 
+
+2-16 
+
+Nil 
+
+to fine 
+
+Immune 
+
+Std 
+
+Ave 
+
+LE 
+
+L 
+
+1140 
+
+12 
+
+(female) 
+
+Gnoll 
+
+Gannaway 
+
+t 
+
+3 
+
+r 
+
+2 
+
+2 
+
+1 
+
+2-5 
+
+Attack 
+
+to fire 
+
+Nil 
+
+Std 
+
+Ave 
+
+CE 
+
+L 
+
+32 
+
+15 
+
+(chieftain) 
+
+Gnoll (female) 
+
+Room 21 
+
+4 
+
+S 
+
+r 
+
+2 
+
+9 ea. 
+
+1 
+
+1-4 
+
+as 4HO 
+
+-1 to hit 
+
+Nil 
+
+Std 
+
+Low 
+
+CE 
+
+L 
+
+35 ea 
+
+17 
+
+Gnoll (leader) 
+
+Room 14 
+
+1 
+
+5 
+
+9" 
+
+3 
+
+16 
+
+1 
+
+1-8 o r 1-6 
+
+Nil 
+
+Nil 
+
+Std 
+
+Low Ave 
+
+CE 
+
+L 
+
+83 
+
+16 
+
+Gnoll (mate) 
+
+Room 11 
+
+10 
+
+5 
+
+9" 
+
+2 
+
+12 ea 
+
+1 
+
+1-8 oM-6 
+
+-5 to fth 
+
+Nil 
+
+Std 
+
+SemJ 
+
+CE 
+
+L 
+
+52 ea 
+
+20' 
+
+Gnoll (male) 
+
+Room 13 
+
+s 
+
+5 
+
+r 
+
+2 
+
+12 ea. 
+
+1 
+
+1-8 
+
+-5 to hit 
+
+Nit 
+
+Std 
+
+Semi 
+
+CE 
+
+L 
+
+52 ea 
+
+20* 
+
+Gnoll (male) 
+
+Room 14 
+
+14 
+
+5 
+
+0" 
+
+2 
+
+9 ea. 
+
+1 
+
+1-8 or 1-6 
+
+Nil 
+
+Nil 
+
+Std 
+
+Low 
+
+CE 
+
+L 
+
+46 ea. 
+
+16 
+
+Gngtl (male) 
+
+Room 15 
+
+4 
+
+5 
+
+r 
+
+2 
+
+9 ea. 
+
+1 
+
+1-8 or 1-8 
+
+Nil 
+
+Nit 
+
+Std 
+
+Low 
+
+CE 
+
+L 
+
+48 ea 
+
+16 
+
+Gnoll (male) 
+
+Room 22 
+
+S 
+
+S 
+
+9" 
+
+2 
+
+9 ea. 
+
+1 
+
+1-8 or 1-8 
+
+Nil 
+
+Nil 
+
+std 
+
+Low Ave 
+
+CE 
+
+L 
+
+46 ea 
+
+1@ 
+
+Gnoll, witch 
+
+Room IS 
+
+1 
+
+a 
+
+9 JI 
+
+4 
+
+20 
+
+1 
+
+1-8 
+
+Spells 
+
+NH 
+
+Std 
+
+Ave 
+
+CE 
+
+L 
+
+205 
+
+15 
+
+doctor (female) 
+
+Hell hound 
+
+Army 
+
+4 
+
+4 
+
+12" 
+
+C4/M2 
+
+? 
+
+42 ea. 
+
+1 
+
+1-10 
+
+Breath 
+
+Nil 
+
+Std 
+
+Low 
+
+LE 
+
+M 
+
+506 ea 
+
+13 
+
+Hobgoblin 
+
+Army 
+
+12 
+
+5 
+
+
+1+1 
+
+8 ea 
+
+1 
+
+1-8 
+
+Nil 
+
+Nil 
+
+Std 
+
+Ave 
+
+LE 
+
+M 
+
+36 ea. 
+
+18 
+
+(guards) 
+
+Hobgoblin 
+
+Army 
+
+ISO 
+
+5 
+
+9" 
+
+141 
+
+6 ea 
+
+1 
+
+1-8 
+
+Nil 
+
+NH 
+
+Std 
+
+Ave 
+
+LE 
+
+M 
+
+32 ea 
+
+16 
+
+(infantry) 
+
+Hobgoblin 
+
+Army 
+
+5 
+
+5 
+
+r 
+
+1+1 
+
+9 ea. 
+
+1 
+
+1-8 
+
+Nil 
+
+Nil 
+
+Std 
+
+Ave 
+
+LE 
+
+M 
+
+38 ea 
+
+18 
+
+(sergeant) 
+
+Hobgoblin 
+
+Army 
+
+t 
+
+3 
+
+9" 
+
+3 
+
+16 
+
+1 
+
+3-10 
+
+Nil 
+
+Nil 
+
+Std 
+
+Ave 
+
+LE 
+
+M 
+
+63 
+
+16 
+
+(sub-chief) 
+
+Horae 
+
+Room IS 
+
+3 
+
+7 
+
+IS" 
+
+2+2 
+
+11.8. 
+
+3 
+
+1-6/1-8/1-3 
+
+Nil 
+
+Nil 
+
+Std 
+
+Animal 
+
+N 
+
+L 
+
+68. 59, 
+
+16 
+
+(medium war) 
+Hyena 
+
+Room IS 
+
+5 
+
+7 
+
+12" 
+
+3 
+
+7 
+
+16ea 
+
+1 
+
+2-S 
+
+Nil 
+
+Nil 
+
+Std 
+
+Animal 
+
+N 
+
+M 
+
+56 
+
+63 ea. 
+
+16 
+
+Man-at-arms 
+
+Room 19 
+
+4 
+
+10 
+
+12" 
+
+F0 
+
+3,2, 
+
+1 
+
+by weapon 
+
+Nil 
+
+Nil 
+
+Std 
+
+Ave 
+
+NG 
+
+M 
+
+13. 12, 
+
+20' 
+
+Man-at-arms 
+
+Room 19 
+
+1 
+
+10 
+
+12" 
+
+F2 
+
+2. 1 
+
+4 
+
+1 
+
+by weapon 
+
+Nil 
+
+Nif 
+
+Std 
+
+Ave 
+
+NG 
+
+M 
+
+12. 11 
+
+47 
+
+20 
+
+(sergeant) 
+
+Mantle ore 
+
+Army 
+
+4 
+
+4 
+
+18" 
+
+6+3 
+
+36 ea. 
+
+3 
+
+1-3/1-3/1-8 
+
+Tail spikes 
+
+Nil 
+
+Std 
+
+Low 
+
+LE 
+
+L 
+
+613 ea 
+
+13 
+
+Ogre 
+
+Room 24 
+
+1 
+
+5 
+
+9" 
+
+4+1 
+
+23 
+
+1 
+
+1-10 
+
+Nil 
+
+Nil 
+
+Std 
+
+Low 
+
+CE 
+
+L 
+
+205 
+
+15 
+
+Ogrillon 
+
+Cell 1 
+
+1 
+
+6 
+
+12" 
+
+2 
+
+1 
+
+2 
+
+2-7Z2-7 
+
+Nil 
+
+NH 
+
+Std 
+
+Insane 
+
+CE 
+
+M 
+
+22 
+
+15 
+
+Revenant 
+
+Lecmundft 
+
+1 
+
+10 
+
+9" 
+
+0 
+
+45 
+
+1 
+
+2-16 
+
+Paralyse 
+
+Special 
+
+- 
+
+Except 
+
+N 
+
+M 
+
+1725 
+
+12 
+
+Screaming 
+
+Chest 
+
+Army 
+
+4 
+
+2 
+
+12" 
+
+3 
+
+17 
+
+1 
+
+1-6 
+
+Scream 
+
+Nil 
+
+Std 
+
+Low 
+
+LE 
+
+S 
+
+141 ea 
+
+16 
+
+deviikin 
+
+Skulk 
+
+AIL start 
+
+1 
+
+7 
+
+13" 
+
+2 
+
+7 
+
+1 
+
+1-8 
+
+Backstab 
+
+Hide 
+
+Std 
+
+Ave 
+
+CE 
+
+M 
+
+50 
+
+16 
+
+Skulk (with 
+
+Alt. atari 
+
+1 
+
+7 
+
+12" 
+
+2 
+
+1 
+
+0 
+
+0 
+
+Nil 
+
+Nil 
+
+Std 
+
+Non 
+
+CE 
+
+M 
+
+0 
+
+N/A 
+
+Sentinel) 
+
+Troll, giant 
+
+Cell 4 
+
+t 
+
+4 
+
+12" 
+
+11 
+
+85 
+
+4 
+
+1-8 (+2-7)/ 
+
+Fear 
+
+Regen. 
+
+* 
+
+Except 
+
+NE 
+
+L 
+
+2710 
+
+10 
+
+two-headed 
+(with Gauntlet) 
+
+Volt 
+
+Cell 2 
+
+1 
+
+3 
+
+8" 
+
+2+1 
+
+14 
+
+2 
+
+1-8/1-10/ 
+
+1-10 
+
+1-4/2-12 
+
+Nil 
+
+Immune 
+
+Std 
+
+Animal 
+
+N 
+
+S 
+
+92 
+
+16 
+
+Worg 
+
+Room 24 
+
+4 
+
+6 
+
+18 r 
+
+4+4 
+
+24 ea. 
+
+1 
+
+2-8 
+
+NH 
+
+to elec 
+
+NH 
+
+Std 
+
+Low 
+
+NE 
+
+L 
+
+210 ea 
+
+16 
+
+
+Abbreviations: N/A = Not applicable, 
+
+
+MS - Need magical (+1) or silver weapons to hit, 
+
+
+¦* Special. 
+
+
+Except = Exceptional. 
+
+
+
+
+
+BERGHOF AND THE 
+PASS OFADLERWEG 
+
+
+gannawa 
+
+
+KAMPH 
+
+RANGE 
+
+
+LOCATION OF MAP B 
+
+
+KEEP OF 
+ADLERWEG 
+
+
+1 hex S MILES 
+
+
+RIVER 
+
+
+VILLAGE 
+
+
+WOODS 
+
+
+?y TRACK 
+
+
+MOUNTAINS 
+
+
+DOOR 
+
+
+ARROW-SLIT/ 
+
+PEEP-HOLE 
+
+
+SECRET ON 
+ONE SIDE 
+
+
+STAIRS UP 
+
+
+LOCKED 
+
+
+STAIRS DOWN 
+
+
+LADDER UP 
+
+
+FIREPLACE 
+
+
+LADDER 
+
+DOWN 
+
+
+
+
+
+
+
+
+
+
+^tga^tsV'' 
+
+nI,:14 
+
+^0^4_ 
+
+¦Ik 
+
+
+HUHMnBMim 
+mmr^mmvmwFmu i 
+a mii 
+
+mb ¦niH?* 
+
+' . JBL .mm 
+
+fc"5s.^anBk._ jg 
+
+^i^suiniss 
+
+
+C FLOOR PLANS OF THE KEEP 
+
+
+FLOOR 4a 
+
+
+FLOOR 4 
+
+
+FLOOR 3 
+
+
+FLOOR 2 
+
+
+FLOOR 1 
+
+
+[fftb 
+
+55 
+
+PI 
+
+
+¦¦ 
+
+nl 
+
+
+' 1 S 84 TSR, Inc, AN Right* Reserv&d 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SUGGESTED CHARACTER ROSTER 
+
+
+NAME 
+
+Morcarak 
+
+Leandra 
+
+Idrfl 
+iron fist 
+
+Drak 
+
+Tarmenelda 
+
+Frund the 
+
+Fi remaster 
+
+Lara 
+
+Lightfingers 
+
+Caddhban i 
+
+Feagil 
+
+CLASS 
+
+Cleric 
+
+Cleric 
+
+Fighter 
+
+Fighter 
+
+MU 
+
+MU 
+
+Thief 
+
+Monk 
+
+Ranger 
+
+RACE 
+
+Human 
+
+Homan 
+
+1/2 Elf 
+
+Dwarf 
+
+Eir 
+
+Human 
+
+Having 
+
+Human 
+
+1/2 0f 
+
+SEX 
+
+Male 
+
+Female 
+
+Female 
+
+Male 
+
+Female 
+
+Male 
+
+Female 
+
+Male 
+
+Male 
+
+
+
+
+
+
+
+
+
+
+
+STRENGTH 
+
+12 
+
+8 
+
+15 
+
+16 
+
+6 
+
+8 
+
+U 
+
+15 
+
+15 
+
+INTELLIGENCE 
+
+11 
+
+12 
+
+6 
+
+15 
+
+15 
+
+16 
+
+9 
+
+6 
+
+13 
+
+WISDOM 
+
+16 
+
+15 
+
+8 
+
+13 
+
+13 
+
+10 
+
+13 
+
+15 
+
+14 
+
+DEXTERITY 
+
+11 
+
+14 
+
+13 
+
+9 
+
+14 
+
+12 
+
+16 
+
+16 
+
+8 
+
+CONSTITUTION 
+
+13 
+
+to 
+
+14 
+
+12 
+
+10 
+
+15 
+
+14 
+
+11 
+
+14 
+
+CHARISMA 
+
+e 
+
+12 
+
+15 
+
+6 
+
+12 
+
+9 
+
+8 
+
+8 
+
+7 
+
+
+
+
+
+
+
+
+
+
+
+CLOTHING 
+
+Glue cloak 
+over 
+
+chains ail 
+
+Green robes 
+over 
+ringmail 
+
+Banoed 
+mail and 
+chain 
+
+Chainmail 
+and sheild 
+
+Red & white 
+robes and 
+black cloak 
+
+Cowied cloak 
+and 
+
+grey robes 
+
+Leather 
+
+armour 
+
+Black robe 
+with 
+rope belt 
+
+Green cloak 
+over 
+
+cha inmail 
+
+WEAPONS 
+
+Footmans 
+
+flail 
+
+Footman's 
+
+mace 
+
+long sword, 
+longbow 
+
+Hand axe, 
+short sword 
+
+Dagger 
+
+Staff 
+
+Short 
+
+sword 
+
+5 peat 
+
+2-handed sword 
+and dagger 
+
+HIT POINTS 
+
+18/21/26/30 
+
+15/19/27/32 
+
+25/31/40/45 
+
+18/24/31/40 
+
+10/12/16/19 
+
+12/15/19/23 
+
+12/16/21/24 
+
+11/13/17/21 
+
+20/24/30/36 
+
+
+MAGICAL ITEMS 
+
+Listed above are nine characters suitable for use in this 
+adventure. Hit points have been given for each character at 
+tevels 3, 4, 5. and 6, respectively. Once the players have 
+been allocated characters, the DM should decide on a level 
+between 3 and S for each one, which is strong enough (but 
+not too strong) for the adventure (say 30-35 levels total). 
+Players may, of course, continue to use any characters from 
+the Character Roster in UK2, The Sentinel. 
+
+The allocation of magical items to the characters from the 
+list provided is at the discretion of the DM T who should take 
+account of the levels of the characters concerned in order to 
+ensure a balanced adventure. 
+
+
+Each character should receive 1-2 magical items* The items 
+are listed in order corresponding to the listed characters. 
+
+2 potions of extra healing; mace *1; 1 jar Keoghtom's 
+ointment; wand of magic detection (20 charges), hand 
+axe *2; bag of holding (2500 gp); phylactery of faithful 
+ness; cloak of etvenkind; cloak of protection 2; dagger 
+2 \ ring of water walking; longsword +1; 10 arrows *1; 
+potion of invisibility; shield *1; spear -1. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Advanced 
+
+Dungeons5pra3ons 
+
+Official Game Adventure 
+
+
+THE GAUNTLET 
+
+by Graeme Morris 
+
+
+indomitable it stood for centuries, a symbol 
+of order in a world of chaos. Bastion of the pass 
+through the Kamph Mountains, the very 
+stones of the Keep of Adlerweg were the stuff 
+of legends. What evil power had strength 
+enough to take it? How were its defenses 
+swept aside? 
+
+Fell creatures now attend the battlements 
+that overlook the only pass between Berghof 
+and the sea. 
+
+This is not a petty problem to be solved by 
+the militia of the local villages. These and more 
+may be needed to withstand the mayhem 
+stirred up by the fall of the Keep. Indeed, if the 
+Keep is not retaken, and retaken soon, the 
+Hold of the Sea Princes itself may not be 
+secure. 
+
+Now is the time for herioc action. Aided by 
+the Sentinel, former protector of the legendary 
+Guardians of Adlerweg, have you the courage 
+and determination to rid the Keep of its sinis 
+ter occupants? 
+
+This module can be played atone or as the second adventure in the two- 
+part ALDERWEG series* 
+
+91 1 IXXX1401 0 88038-119-1 
+
+394-53998-2TSR0600 
+
+1984 TSR, Inc. All Rights Reserved* Printed Printed in U.S.A, 
+
+
+
+T$R t Inc* 
+POB 758 
+Lake Geneva, 
+Wl 53147 
+
+
+
+TSR, Inc, 
+
+PflODUCTS OF YOUR IMAGINATION(tm) 
+
+
+TSR {(IK) Ltd* 
+
+The Mill, Rathmore Road 
+Cambridge CBI4AD 
+United Kingdom 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

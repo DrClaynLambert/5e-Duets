@@ -1,0 +1,6383 @@
+Skip to main content
+ 
+Texts
+ 
+Video
+ 
+Audio
+ 
+Software
+ 
+Images
+Sign up for free
+Log in
+ Search metadata
+ Search text contents
+ Search TV news captions
+ Search radio transcripts
+ Search archived web sites
+Advanced Search
+About Blog Events Projects Help Donate  Contact Jobs Volunteer
+Full text of "Tsr 09112 WG 5 Mordenkainen's Fantastic Adventure"
+See other formats
+WG5 Approved for use with ADVANCED D&D(r) rules 9112 
+
+
+Advanced Dun 3 eons^f)rAgons 
+
+
+Fantasy World Adventure 
+
+Mordenkainen's Fantastic Adventure 
+
+by Robert J* Kuntz and Gary Gygax 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Advanced Dungeons^ragons 
+
+\VOR|X>0fOR^VHaWK 
+
+Fantasy Word Adventure 
+
+
+MordenkainerTs Fantastic Adventure 
+
+by Robert J. Kuntz and Gary Gygax 
+
+
+
+credits 
+
+
+UBle of contents 
+
+
+Editing: Frank Mentzer and 
+Michael Dobson 
+
+Graphic Design: Elizabeth Riedel 
+Cover Art: Clyde Caldwell 
+Illustrator: Jeff Easley 
+Typographer: Betty Elmore 
+Maps: Eric Nelson Shook 
+Play testing: Gary Gygax, 
+
+Eric Nelson Shook, 
+
+Theron Q. Kuntz r and 
+James F. Goodlellow 
+
+Special Thanks to "Mordy and 
+the gang"; may they soon 
+adventure again! 
+
+Distribuled to the book trade in the United State* by Ran 
+dom Hnuwe T Inc,. and in Cumnlu by R a octant Hou"e of Can 
+ada,, Ltd. Distributed ta ihe toy and hobby trade by regional 
+distributors, Distributed in the United Kingdom by TSR(UK) 
+UtL 
+
+
+advanced dungeons* dragons, ad&d. world of 
+
+GREY HAWK. and PRODUCTS OF YOUR IMAGINATION are 
+registered trademarks owned by TSR. Inc. 
+
+'Copyright ISMM E. Gary G^iX, All Rights Reserved. 
+
+
+THU adventure is protected under the copyright laws of the 
+Unilcd States of America, ary reproduction or olHct unau' 
+i horned use of the material or artwork contained herein is 
+prohibited w ithout the exprea* written permisaimi of TSR, 
+Inc. 
+
+
+TSR, Inc, 
+
+POB 75S 
+l^tke Geneva, 
+W1 53147 
+
+
+TSKjUKl Ltd. 
+The Mill, Rathmore Rnad 
+Cambridge CB14AD 
+United Kingdom 
+
+
+special pRepace . 2 
+
+intRoduction . 2 
+
+Backq Round Por the dunqeon masteR . 3 
+
+the adventupe Beqins. 4 
+
+key to the piRst Level. 6 
+
+key to the second LeveL.12 
+
+key to the thiRO LeveL ..20 
+
+appendix 1: maqic items. 25 
+
+appendix 2: new monsteps.27 
+
+append ix 3 : pRe-qeneRated . 30 
+
+
+
+TSR, Inc. 
+
+
+Printed in U.S.A. 
+
+
+ISBN 0-88038-168-X 
+
+
+9112 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+pecial pRefAce 
+
+
+The module you are about to read contains 
+the basis for one of the most difficult adven 
+tures that my character, Mordenkainen the 
+Mage, ever underwent. The characters and 
+the events were slightly different from what is 
+presented here; for, after some time, Rob 
+Kuntz and I sat down together as co-DMs of 
+the Greyhawk Campaign to revise and expand 
+the scenario. You now have substantially what 
+we created at that time. 
+
+For those who wonder about the outcome 
+of the actual adventure, Mordenkainen and 
+Bigby the Magic-User initially went it alone. 
+The terrible iron golem on the first level 
+spelled petrifaction for Mordenkainen, and 
+Bigby teleported out in great haste to bring 
+reinforcements. With the aid of Yrag and Rig- 
+gby, the monster was finally destroyed, and 
+Mordenkainen was restored to flesh again. 
+
+
+Thereafter, the quartet proceeded to investi 
+gate the lower dungeon levels to see what 
+they could discover With a bit of luck and a lot 
+of hard work, they managed to dear out the 
+whole place. Of course, they expended many 
+potions and a wish or two in the process. 
+
+Just to set the record straight, the statistics 
+shown for the four are not entirely correct. 
+Similarly, the magic items shown are not the 
+ones that they actually took with them when 
+adventuring in this dungeon. The information 
+was changed for one principal reason-I still 
+have all four of the characters interacting in 
+the Greyhawk Campaign, and 1 even play one 
+or another on occasion. The Citadel of Eight is 
+a serious force in the events of the WORLD 
+OF GREYHAWK(tm), and the four characters 
+are amongst the eight principals of the for 
+tress. 
+
+
+
+ntRoPuction 
+
+
+This dungeon was originally designed for 
+the members of the Lake Geneva Tactical 
+Studies Association (LGTSA) back in 1972- 
+1973. Primarily, although not exclusively, I 
+created my Castle, "The Ruins of El Raja 
+Kye," from which this dungeon is derived, for 
+Gary Gygax, who deserved an opportunity for 
+some extensive play because of all the judging 
+(in between all the writing) he had done for the 
+players in his Greyhawk Campaign. These 
+levels were originally adventured in by Gary's 
+player characters: Mordenkainen the Mage, 
+after whom this module is named, Yrag the 
+Lord, Riggby the Patriarch, and Bigby the 
+Wizard, and later by many others. All the 
+characters mentioned above, except Yrag, 
+were described in the AD&D(tm) Rogues Gal 
+lery, a TSR games booklet. When Gary took 
+me in as co-DM of the Greyhawk Campaign, 
+these levels became part of that world. Since 
+that time, this scenario has undergone little 
+change, although the characters have been 
+modified to ensure compatibility with the 
+AD&D(tm) game system. 
+
+This module is designed for four or more 
+characters of at least 8th to 14th level. The 
+four original characters of Gary Gygax are 
+included as pre-generated characters for your 
+use. If you elect to use other characters, be 
+sure that such characters possess equal levels 
+and corresponding spells and magic. 
+
+
+The Dungeon Master should read and study 
+the contents of this module carefully, for many 
+new monsters, magic items, and encounters 
+are included herein. 
+
+The abbreviations appended below are used 
+throughout this module: 
+
+
+AC 
+
+
+Armor Class 
+
+MV 
+
+r 
+
+Move 
+
+HD 
+
+¦p= 
+
+Hit Dice 
+
+F 
+
+
+Fighter 
+
+hp 
+
+E 
+
+hit points 
+
+MU 
+
+¦ 
+
+Magic-User 
+
+#AT 
+
+
+Number of 
+Attacks 
+
+C 
+
+
+Cleric 
+
+Dmg 
+
+
+Damage 
+
+T 
+
+
+Thief 
+
+SA 
+
+
+Special 
+
+Attack 
+
+A 
+
+w 
+
+Assassin 
+
+SD 
+
+
+Special 
+
+Defense 
+
+S 
+
+= 
+
+Strength 
+
+MR 
+
+
+Magic 
+
+Resistance 
+
+1 
+
+¦ 
+
+Intelligence 
+
+MS 
+
+
+Move 
+
+Silently 
+
+W 
+
+" 
+
+Wisdom 
+
+HS 
+
+-± 
+
+Hide in 
+Shadows 
+
+D 
+
+" 
+
+Dexterity 
+
+HN 
+
+m 
+
+Hear Noise 
+
+Con 
+
+¦ 
+
+Constitution 
+
+CW 
+
+£ 
+
+Climb Walls 
+
+Ch 
+
+- 
+
+Charisma 
+
+DMG 
+
+* 
+
+Dungeon 
+
+PH 
+
+- 
+
+Players 
+
+
+
+Masters 
+
+Guide 
+
+
+
+Handbook 
+
+MM 
+
+* 
+
+Monster 
+
+Manual 
+
+
+
+
+
+You will note that this is what is generally 
+termed a "hack-and-slash" module. There is 
+plenty of real thinking necessary, but the 
+action is nearly non-stop, so the former term 
+is not inaccurate. If you are interested in 
+developing a bit more background for the sce 
+nario to work it into the whole of your per 
+sonal campaign, a little effort will suffice to 
+accomplish the task. There are so many obvi 
+ous reasons for regular characters to journey 
+to the area that a listing would be superfluous. 
+On the other hand, here is a chance for play 
+ers with lower level characters to try' their 
+hand at some "high level" play. 
+
+Whatever approach you decide to take, Rob 
+and 1 sincerely hope that you will enjoy this 
+"Fantastic Adventure" as much as we have! 
+
+Gary Gygax 
+
+
+It is strongly recommended that those people 
+wishing to play in this module read no further! 
+Which is more fun: knowing every*thing in 
+advance, or discovering the tricks t traps, and 
+treasures as you adventure along? 
+
+This is one of a continuing series of modules 
+specifically related to the WORLD OF GREY 
+HAWK 7 " Fantasy Game Setting. This scenario 
+places the adventurers in the vicinity of 
+Maure Castle , located on the WORLD OF 
+GREYHAWK map at grid coordinates X3 86, 
+
+Robert J. Kuntz 
+
+
+2 
+
+
+
+
+H I BackqRounO foR the 
+, unqeon masteR 
+
+
+Maure Castle has long been a "quiet insti 
+gator'' of wonderment, adventure* and mys 
+terious happenings in the Flanaess. The castle 
+is located south and east of the Free City of 
+Grey hawk, surrounded by an admixture of 
+hills, sparse trees, and brush. Rivulets run 
+down from the uplands of the Cairn Hills to 
+form fens and bogs about the strange castle. It 
+is a forlorn and forboding place. 
+
+Legends tell little about the history of 
+Maure Castle or of its reportedly strange 
+inhabitants* What little is known is told by 
+sages and adventurers to all those who would 
+listen. Rumors about Maure Castle are always 
+rife in the cities of Grey hawk and Hardby, 
+although with so many in circulation it is often 
+hard to tell which of them are true. 
+
+
+Of late, a strange story concerning the cas 
+tle has run rampant throughout the country 
+side around Greyhawk and Hardby. Though 
+widespread, this story has remained for the 
+most part unchanged, although its originator 
+is nowhere to be found, and therefore cannot 
+substantiate its content. 
+
+The story begins thus: An unknown and 
+currently unbeatable adventurer descended 
+into the depths of Maure Castle via a down 
+ward slanting corridor that had been hidden by 
+brambles and brush. Several smooth-hewn 
+passages were discovered and briefly investi 
+gated. One of them led to two large iron 
+doors--doors without latch, lock, handle, or 
+any other visible means of opening. The mys 
+terious adventurer returned to the City of 
+
+
+Greyhawk, spread his tale, and then disap 
+peared without a trace. 
+
+Several adventurous inhabitants of the 
+Cairn Hills area have subsequently found the 
+same passageways, but all have returned to 
+say that the iron doors were indeed uno pen- 
+able! 
+
+Because of these mysterious discoveries, 
+an influx of adventurers has been noted about 
+the Greyhawk/Hardby area. Among them is 
+one man, a powerful wizard, who, with his 
+partners in adventure, deems this rumor 
+interesting enough to warrant further investi 
+gation .. , 
+
+
+
+
+
+
+
+
+
+The 
+
+
+
+OventuRe Begins 
+
+
+Mordenkainen the Mage and his boon com 
+panions, Yrag, Rigsby, and Bigby {see 
+APPENDIX 3 for complete character infor 
+mation) have been tempted to explore Maure 
+Castle because of the widespread rumors con 
+cerning the "unope liable" doors. Preferring 
+not to attract attention, they have traveled 
+from their abode, the Citadel of Eight, upon 
+Mordenkainen T s carpet of flying. The party 
+has encamped roughly a mile north of the cas- 
+tie, Riggby has used the clerical spell Speak 
+With Animals , and has been told the general 
+direction and distance to the downward slant 
+ing passage leading to the doors. The party 
+decides to rest for the night and plans to pro 
+ceed afresh the following morning. 
+
+Encounters During the Night 
+
+Yrag elects to stand guard during the night, 
+for he is oftimes uncomfortable and cannot 
+sleep before undertaking a dangerous adven 
+ture. He will maintain a quiet and careful 
+watch for the six hours remaining until day 
+light, intently surveying the terrain compris 
+ing the Maure Castle environs. 
+
+DM: Roll ld6 each hour; consult the table 
+and explanations that follow below if the roll is 
+6 . 
+
+Nighttime Encounters Table 
+
+1 A passing owl or nightbird is heard. 
+
+2 Torchlights can be seen to the south, 
+heading east toward Maure Castle. 
+
+3 A wild animal is heard moving near the 
+encampment. 
+
+4 A large winged shape passes in front of 
+the moon, casting its shadow earth 
+ward . 
+
+5 A strange Coating light appears within 
+10 yards of the camp. 
+
+6 Strange grating noises can be dimly 
+heard below ground and to the south. 
+
+Encounter Explanations 
+
+1 Owl or Nightbird: The bird flies 
+above the encampment and emits a 
+reverberating screech, Yrag is startled 
+and all characters are awakened, 
+
+2 Lights: Lights are seen heading east 
+toward the castle at a steady pace. They 
+are torch and lantern lights held by 2-5 
+lepers (Level 0 humans) who roam the 
+upper extremities of Maure Castle. 
+These outcasts will deftly avoid the 
+
+
+adventurers if approached, and have no 
+useful information if they are somehow 
+captured. 
+
+3 Wild Animal: Heavy movement and 
+occasional animal noises are heard at a 
+distance of 10-60 yards from the camp. 
+Roll ld4 and consult the listing below for 
+animal type and statistics. If left undis 
+turbed, the animal will leave the 
+encampment area in 1-3 turns. 
+
+1 Bear, BlackfAC 7, MV 12 * HD 3*3, 
+hp 21, MT 3, D 1-3/1-3/1-6. SA 
+hugs for 2-8) 
+
+2 Boar, Wild (AC 7, MV 15", HD 3*3, 
+hp 16, MT 1, D 3-12) 
+
+3 Horse, Wild (AC 7, MV 24 ", HD 2, 
+hp 12 t MT 1. Dmg 1-3) 
+
+4 Wolverine (AC 5, MV 12*, HD 3 t 
+hp 17, #AT 3, D 1 -4/1 -4/2-5, SA *4 
+on "to hit" rolls, squirts musk) 
+
+4 Winged Creature: Roll ld4 to deter 
+mine the type of flyer: 1 = Wyvem, 2 - 
+Dragon, 3 - Griffon, 4 * Roc. This mon 
+ster is unconcerned with the characters 
+unless accosted, but will fight if 
+attacked. The flyer will be of neutral or 
+evil alignment. 
+
+5 Strange Light: This is a will-o-wisp 
+(AC 8 f MV 18*. HD 9, hp 57, MT 1, 
+Dmg 2-16, SD only affected by Protec 
+tion From Evil, Magic Missile , and 
+Maze spells) that has come upon the 
+camp while dimmed and invisible. This 
+creature will surprise Yrag or any others 
+watching on a roll of 14 on ld6 since It 
+seemingly pops into existence in a twin 
+kling of an eye. It will attempt to lure all 
+those that might follow toward the fens 
+to the north (see the MAURE CASTLE 
+ENVIRONS MAP), hoping to trap its 
+prey there. If the attempt fails, it will 
+attack. If confronted in force, it will 
+retreat, never to return. If near death* it 
+will reveal its treasure, described 
+below, in exchange for its life. The box 
+is hidden in a hollow log near the fens 
+(see Key #T, MAURE CASTLE ENVI 
+RONS MAP). 
+
+Iron Box (1 cu. ft,): This box is 
+rusted shut and must be pried open. It 
+contains a scroll and four gems, 
+
+Scroll of Create Food and R&ter and 
+Find the Path . both at 20th level. (If 
+Riggby uses the latter spell, there is a 
+10% chance of spell failure because of 
+the difference in levels). The scroll is 
+signed 11 Ignis s Fatuus'L 
+
+
+Gems: 1 amethyst (500 gp), 1 dia 
+mond (1,000 gp), and 2 emeralds 
+(5*000 gp each). 
+
+6 Grating Noise: A sound like the grat 
+ing of iron on stone seems to originate 
+beneath the ground. If the characters 
+investigate, they will discover that it 
+issues from the slanting passage that 
+leads down to the Unopenable Doors. 
+
+
+The Next Morning 
+
+The characters awaken at dawn and may 
+then proceed on the next leg of their adven 
+ture. Each carries provisions for a journey 
+beneath the ground. 
+
+
+Mordenkainen: 
+
+Bigby: 
+
+Riggby: 
+
+Yrag: 
+
+
+3 days' food and water 
+3 days' food and water 
+
+6 days' food and water 
+
+7 days" food and water 
+
+
+If direly pressed, Riggby can magically cre 
+ate food and water, Mordenkainen or Bigby 
+can teleport out and return with ample provi 
+sions to sustain the whole party for 3 days' 
+time. (If a teleport spell is used* the DM 
+should ensure that the spell caster teleports 
+to a well-known destination, and returns to a 
+carefully studied locale), 
+
+
+Entering the Level 
+
+The party discovers a passage heading 
+east, slanting down at about a 30 degree 
+angle* based on the information gained by Rig 
+gby. They proceed along this 8 ft. wide, 2,000 
+to 3*000 ft. long passage for some time. 
+Unless the characters map* they will not be 
+able to tell how deep this passage goes. If the 
+players map. increase the amount of time 
+taken to cover the distance involved (PH, p. 
+102) and increase the number of wandering 
+monsters encountered. This may speed them 
+up considerably! 
+
+After a long while, the adventurers will 
+come to a corridor branching north and south 
+(refer to MAP OF THE FIRST LEVEL, Key 
+X) The northern passage ends after a short 
+distance. 
+
+Characters who examine the floor here will 
+note that there is an eight-pointed star chis 
+eled into the stone. The points of the star are 
+entirely cleaned out * as if something is sup 
+posed to he set into them, The "something" 
+which is meant to be inset is a set of eight 
+metal triangles, each about the size of a half- 
+lings hand and each of a different hue. In the 
+Grey hawk Campaign, each plate was 
+enchanted to a different plane, typically a spe 
+cial demi-piane or similar place , Thus * a dou- 
+
+
+4 
+
+
+
+
+
+
+
+
+
+ble adventure was set up for each of the eight 
+triangles. First came the search for the metal 
+plaque r and then came the adventure of trav 
+eling to the destination encoded on the 
+plaque* exploring * and finding a way hack. 
+When the whole WORLD OF GREYHAWK 
+Campaign senes is eventually completed, the 
+eight triangles will be placed therein, as will 
+the destinations encoded upon them. Until 
+such time, you may either 
+pointed star as an enigma> or 
+yourself the locations of the plates and their 
+mysterious destinations. Then t either in this 
+dungeon complex (or in another), your adven 
+turers may find a special treasure-an expla 
+nation of the power of the eight-pointed star 
+and its metal pieces, and a clue as to where 
+one of them might be found * Thereafter, you 
+have a whole new set of adventures for your 
+campaign!-EGG 
+
+
+The passage south leads to the Unopenable 
+Doors (Level #1, Key 01). DMs! Man your 
+calling stations! Thus begins: 
+
+
+Mordenkainen's Fantastic Adventure! 
+
+
+5 
+
+
+
+
+
+
+ey to the fiRst level 
+
+
+
+General Notes 
+
+All inhabitants of this dungeon complex are 
+chaotic evil in alignment unless noted other 
+wise. They will not take prisoners unless to 
+sacrifice them to their deity on Level 3, The 
+morale of the inhabitants varies, though they 
+are more secure knowing that these are 
+"their levels " 
+
+The stonework on Level 1 is of ancient 
+workmanship and typically made of granite* 
+The floors are smooth-hewn and lightly cov 
+ered with dust. Unless otherwise noted, cor 
+ridor width remains a constant 10 ft. Height 
+varies where noted but is usually 20 ft. Doors 
+are of oak and metal-bound, or of bronze- 
+wood, 7 ft. wide, 6 in. thick. They open 
+inward unless specified otherwise. 
+
+1. The 
+Unopenable 
+Doors 
+
+These massive doors are each 4 ft* wide and 
+made of 2 ft. thick iron. The doors and floor in 
+front of them are scraped and scratched, as if 
+someone had unsuccessfully tried to force 
+them open. No handles, keyholes, latches, or 
+hinges seem available for their expeditious 
+opening. It seems that they open inward, but 
+even this is debatable. 
+
+These doors are of magical manufacture. 
+No amount of pushing, pulling, shoving or 
+ramming will open them, Opening" spells 
+( Knock ; Passwalf et al.) have no effect upon 
+them. Spells or items that cause damage will 
+merely rebound and ricochet off these doors, 
+and will do no harm to them. Items or spells 
+that allow astral or ethereal travel will, how 
+ever, provide passage. A wish will also cause 
+the doors to open. If the Silver Key of Portals 
+touches the doors, they will immediately 
+swing inward to allow ingress. 
+
+2. ROOM OF 
+
+Misplaced Fortunes 
+
+This room is empty and a bit dusty. Nine 2 ft. 
+round by 2 ft. deep holes are aligned at perfect 
+intervals about the periphery of the room. 
+Characters who enter the room immediately 
+feel a slight "tingling" sensation, and must 
+make a saving throw vs. spells. Those who fail 
+their saving throws will become misguided in 
+their thoughts and actions for the next 1-6 
+segments. The DM must roll ldlG for each 
+affected character and consult the table 
+below. Once the room's effects are com 
+
+
+pleted. the characters lapse back to their nor 
+mal selves, with (no doubt) great misgivings 
+about their lost items. Each character may be 
+affected only once by this room; no additional 
+saving throws are required, whether or not 
+the first save was made. 
+
+Disposal Table 
+
+1-5 The character drops one magical 
+item of worth into the nearest hole. 
+
+An item in hand will always be 
+dropped first; if nothing magical is in 
+hand, the most accessible item of 
+worth will be dropped. 
+
+6-9 The character drops 2 magical items 
+of worth, as above. 
+
+10 The character starts dropping all 
+items of worth in descending order 
+of value: magic, weapons, maps, 
+food, water, torches, lanterns, 
+clothes, etc.) at the rate of 1 item 
+per segment. 
+
+The holes will instantly contract to 
+"crunch" all items disposed, with no saving 
+throws allowed. The holes will open again 1 
+round later, exposing the mangled items. The 
+items will be forever useless. 
+
+3. Fighter Frescoes 
+
+This room is lit by four small candles placed 
+just inside each door. The inside of each door 
+is painted in reds, purples, and yellows, and 
+depicts a fresco of a fighter in hill chainmail. 
+Each fighter seems to be awaiting an onrush- 
+ing enemy, although no enemies of any type 
+are shown. 
+
+If any candle's flame is extinguished, the 
+fighter painted on the door behind it will come 
+to life, jump down from its fresco, and attack 
+as a hasted Champion {F 7, AC 2, MV 18 ", hp 
+39, 40, 45, 50, #AT 2, D 4-11; S 16, D 16; 
+longsword +2, normal chainmail and round 
+shield). 
+
+There are three ways that the candles may 
+go out: 
+
+1. characters may blow or snuff them out; 
+
+2. each candle will go out on a roll of 1 -2 on 
+ld6, one chance for each candle once 
+every two rounds spent by any charac 
+ter in the room; 
+
+3. ail of the candles will automatically go 
+out after one full turn spent by any 
+character in the room. 
+
+These fighters wifi fight to the death, pursuing 
+the characters automatically, no matter where 
+they attempt to flee. 
+
+
+4. rug Room 
+
+
+This room is lit by two continual light spells in 
+the NB and SW comers. A variety of rugs are 
+lying about, both flat and rolled up. 
+
+No.Size Make Design Gp Wue 
+
+
+L 6'x 3' silk 
+
+2. 6 J x 4' silk 
+
+3. 8'x 4' wool 
+
+4. 9'x 5' silk/ 
+
+cotton 
+
+5. 9'x 6' silk/ 
+
+linen 
+
+6. S'xlB' cotton 
+
+* Rug # 5 : This mg has 
+stuck in it and the wo 
+beside it. 
+
+
+floral 1,150 
+geometric 1*300 
+floral/ 2,000 
+geometric 
+hunting 3,500 
+scene 
+
+geometric special* 
+
+floral 2,600 
+
+two-inch long golden pin 
+d "AeieirT embroidered 
+
+
+These mgs are the only valuable and possi 
+bly dangerous items in this room. Rug #5 is 
+effectively the largest variety of Hying carpet ; 
+and can hold up to four persons while flying at 
+a 24* movement rate. Its command word 
+("Aeiem") will control it, although its move 
+ment will seem a bit sluggish. One drastic dif 
+ference exists between this carpet and the 
+standard variety: the golden pin (worth 100 
+gp) is magical, although the magic on it cannot 
+be distinguished from the carpet s magic. This 
+pin holds a captured air elemental (AC 2, MV 
+36", HD 16, hp 72, #AT 1, Dmg 2-20, SA *1 
+bonus to hit and *2 to damage when fighting in 
+the air, whirlwind for 2-16). While a prisoner 
+in the golden pin, Aeiem will obey those who 
+speak his name, transporting them about as 
+does a normal carpet of Hying , If the pin is 
+removed, both it and the carpet will become 
+forever non-magical, and Aeiem will escape. 
+He will come forth from his century-long 
+internment with great fury, attacking all those 
+before him. If he should escape in the pres 
+ence of Alley the Weaver (Key #5), he will 
+direct all attacks against the Iflfeaver, for it was 
+Arley who captured and imprisoned him* 
+
+
+5. Weaver's Chamber 
+
+This room is well-lit by continual light spells. 
+Sitting on a stool before a table laden with 
+doth is a fat, jovial-looking old man, rosy- 
+cheeked and balding. To his left is a loom, with 
+bolts of linen, wool, and silk spread before it. 
+To his right is a spinning wheel. Next to this is 
+a medium-sized box, piled high with many coL 
+ors of spooled thread. The room radiates 
+magic everywhere. 
+
+
+6 
+
+
+
+
+Arley the ^feaver is actually a polymorphed 
+ogre mage (AC 4; MV 9"/IS"; HD 5+2; hp32; 
+#AT 1; Dmg I-12; SA 1 /day charm person , 
+sleep, cone of cold for 8d8; SD regenerate 1 
+hp/round, at will; By, polymorph to humanoid 
+form , become in visible, cause darkness 10' 
+radius t 1/day assume gaseous form). 
+
+Arley will immediately turn and welcome 
+the characters when they enter his room. He 
+will introduce himself by name, and explain his 
+presence by briefly telling them/"I am a lowly 
+weaver, forced to endeavor in this forsaken 
+place because of an evil enchantment laid upon 
+me by a wizard who was none too pleased with 
+a robe I fashioned for him." Arley will then 
+proceed to produce his "valuables," which he 
+claims to have "fashioned for all those who 
+would trade for them " He will attempt to turn 
+aside or brush off any questions. 
+
+He will open the box next to the spinning 
+wheel and bring forth the eight items listed on 
+the table below. He will attempt to trade with 
+the characters for these items, gamering an 
+"equal item" m return. The trading is rigged 
+against those who partake, however, for all of 
+the following items are evil or cursed, and 
+Arley will be more than happy to part with 
+them. 
+
+If Arley is caught during one of his ruses, if 
+his alignment is detected, and/or if the players 
+do not believe his "evil enchantment" story, 
+he will assume gaseous form or turn invisible 
+to escape. He knows Level #1 well, and if fol 
+lowed he will lead the players to Key #19 
+
+
+(75%) to activate the golem or to Key #7 
+(25%), to lure them into the pool of the het- 
+fish. If all else fails, he will fight to the death! 
+
+Arlev's Boxed Items: 
+
+1. Girdle; Arley says it is a girdle of stone 
+giant strength. It is actually a girdle of feminin 
+ity/masculinity (DMG t page 145). 
+
+2. Cap: Arley says it is a cap of quick action. 
+It is actually a cap of evil, and will change the 
+wearer's alignment to evil (similar to a helm of 
+opposite alignment [DMG, page 146). 
+
+3. Gauntlets: Arley says they are silken 
+gauntlets of swimming and climbing. They are 
+actually envenomed gauntlets ; the linings 
+have been treated with a contact poison. A 
+saving throw vs. poison is required when they 
+are put on-failure means death! 
+
+4. Slippers: Arley says they are slippers of 
+speed. They are actually slippers of slowness 
+(treat as a slow spell for as long as they are 
+worn). They cannot be removed except by 
+the use of a dispel magic spell, by a remove 
+curse at 12th level of spell use, or by a wish. 
+
+5. Robe: Arley says it is a robe of eyes. It is 
+actually a cursed robe 0 /serration. When the 
+robe is donned, the wearer will not see "magi 
+cal eyes" at all; instead, hundreds of half-inch 
+mouths, sporting tiny teeth, will appear. They 
+will bite the victim for 10 points of damage 
+(total) per round that this robe is worn. The 
+
+
+robe will wrap around whomever dons it, and 
+cannot be removed if the victim's strength is 
+14 or less. A character having a strength of 15 
+or more may break this devilish robes hold 
+upon him in 10 rounds, sustaining only half 
+damage while doing this. Alternately, a 
+remove curse spell will utterly destroy the 
+item, leaving nothing but a heap of smoldering 
+rags upon the floor in its place, 
+
+6. Sash: Arley says it is a silken sash of 
+wishes. It is actually a sash of immolation . 
+Once wrapped around the waist, the sash will 
+explode in a sheet of whirling flame about the 
+wearer. This item causes a total damage of 21- 
+30 (ldlO*2Q) points and then "bums out," fall 
+ing to the ground in a stream of black ash, 
+
+7. Socks : Arley says they are socks of fire 
+walking. They are actually socks of sweating. 
+They appear to be the only good item out of 
+the bunch; when worn, they will actually pro 
+tect the wearer from fire, just as would a ring 
+offire resistance (DMG, page 130), This pro 
+tection, however, lasts but six rounds. At that 
+time, the wearer will start sweating profusely, 
+losing 2 hit points per round to dehydration. 
+Additionally, for every 6 points of damage 
+accrued in this manner, the character's 
+strength, constitution, and charisma scores 
+are each reduced by 1 point. If any score 
+drops below 2 t the character is incapacitated. 
+If any score drops to 0, the character is dead. 
+Lost ability points return in I day. These 
+socks will continue to cause the character to 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8. The 
+
+Ever-Changing 
+
+Chalice 
+
+
+sweat as long as they are worn. The continue 
+ous intake of water will lessen the damage 
+dealt by 1 hit point per round, and will negate 
+the loss of the aforementioned ability score 
+points. 
+
+8, Kaftan: Arley says it is a kaftan 
+(sweater) of protection from evil. It is actually 
+a kaftan of ogrishness. When worn, this 
+sweater will not actually protect anyone from 
+evil, A peculiarity will shortly be noted by the 
+wearer. After a character wears the garment 
+for one full day, he will start having cravings 
+for progressively rawer meat, and will be 
+heard to mumble occasionally while leering at 
+others* From time to time, the wearer will be 
+noticed drooling. The wearer will still remem 
+ber his duties and his companions, although he 
+will begin to talk to friends less and less fre 
+quently. 
+
+The kaftan is easily removed. If the wearer 
+of the item removes it before the end of three 
+days, the effects will be reversed; and the 
+character will return to normal within 1-6 
+hours. Otherwise, the character will be sub 
+jected to the full effect of the kaftan's curse. 
+
+The Curse of the Kaftan: On the second 
+day of wearing the garment, highly noticeable 
+physical and mental effects will be apparent. 
+The character's bulk will increase by 20-50 
+lbs,; height will increase to 6 ft. * ldl2 in. (if 
+the character was originally under that 
+height); the eyes will appear squintv and filmy* 
+the tongue purplish-brown f the nose longer 
+and rubbery* the skull more bulbous, the talk 
+slower and more guttural, and the walk will be 
+reduced to a stiffer, more lumbering gait. 
+Strength will increase to 18/00, but intelli 
+gence and wisdom will decline by 6 points 
+each, or to a score of 7 t whichever is lower* 
+Dexterity will drop to 7-9 (6+1 d3)* constitu 
+tion remains unchanged, and charisma 
+changes to a range from -3 to 2 (ld6 roll). 
+During this time, the wearer will barely 
+remember events of only one or two days pre 
+vious. His mistrust of others will greatly 
+increase-there is a 50% chance that the vic 
+tim will wander off, not trusting his associates 
+any more* Once departed, the victim will 
+either avoid or attack former companions 
+(50% chance of each) if they approach. 
+
+On the third day of wearing the kaftan* the 
+victim irrevocably becomes a full-fledged 
+ogre! AH previous knowledge and lifetime 
+experiences are wiped clean* The victim will 
+think* act* eat, etc*, as does an ogre. Align 
+ment will r of course, change to chaotic evil. 
+Nothing less than a wish or divine intervention 
+will restore the character to his or her former 
+self. 
+
+
+6. Tapestry Room 
+
+This room is illuminated by two lamps sus 
+pended from pegs on the northern and south 
+ern walls. Strewn about and hung from the 
+walls and ceilings are many beautiful tapes 
+tries* 
+
+The lamps have enough oil in them to stay lit 
+for 3-30 turns each. The six tapestries listed 
+below have no special value other than their 
+aesthetic and/or monetary worth. 
+
+
+NoJSize 
+
+Make 
+
+Design 
+
+Gp Value 
+
+1 . 
+
+3'x3' 
+
+linen 
+
+floral 
+
+460 
+
+2* 
+
+3'x5* 
+
+silk/ 
+
+geometric 780 
+
+
+
+gold 
+
+thread 
+
+
+
+3. 
+
+4'x4' 
+
+cotton 
+
+floral 
+
+800 
+
+4. 
+
+5'x5' 
+
+woolen/ 
+
+hunting 
+
+1*275 
+
+
+
+silver/ 
+
+scene 
+
+
+
+
+gold 
+
+thread 
+
+
+
+5. 
+
+5'x5' 
+
+cotton/ 
+
+floral/ 
+
+2.560 
+
+
+
+silk/ 
+
+hunting 
+
+
+
+
+platinum 
+
+thread 
+
+scene 
+
+
+6. 
+
+6'x6 1 
+
+silk/ 
+
+mosaic/ 
+
+3*100 
+
+
+
+crushed 
+& mixed 
+
+floral 
+
+
+
+
+gemstones 
+
+
+7- 
+
+THE 
+
+Amber Pool 
+
+
+
+The water of this round pool is amber in color, 
+a bit murky, and moves just slightly* as if a 
+small but constant tidal influx were at work 
+upon it* Its bottom cannot be seen because of 
+a haze caused by an admixture of the colora 
+tion, the murkiness, and the light shed by a 
+chalice which is set upon a raised 20 ft. round 
+area at the center of the pool (see Key #8)* 
+This 10 ft. deep pool is inhabited by hetfish 
+(see Appendix 2; AC 5* MV 15' swimming, 
+HD 1-3* hp S-24 each, #AT 1-20 fish swarm 
+victim, Dmg 1-20 heal damage!* If the pool is 
+entered, 1-20 of these fish will swarm each 
+character* No "to hit" roll is needed by the 
+fish, for their mode of attack (merely brushing 
+up against or ramming the target) allows 
+instant contact and heat damage. If the char 
+acters do not immediately eliminate these fish 
+in melee, more and more fish will swarm to 
+the attack (1-20 additional fish per melee 
+round)* until the entire pool is embroiled in a 
+thrashing* scorching uproar, Hetfish appear 
+virtually identical to piranha, but with many 
+knobs and lumps protruding above the surface 
+of their scales. Their size varies from 1 to 3 ft* 
+There is nothing of value in the pool. 
+
+
+When first seen, this appears to be a 3 ft. tall* 
+9-inch round silver chalice. It is enchanted* 
+and will appear, by illusion, to change color. 
+RoH ld6 once per turn per character to deter 
+mine what color is seen by each character that 
+turn. The characters may see the chalice in 
+different colors. 
+
+
+1 = glistening silver 
+
+2 - pale green 
+
+3 * radiant amber 
+
+4 * warm red 
+
+5 - cobalt blue 
+
+6 - sparkling gold 
+
+The chalice has a worth of6,000 gp if sold to 
+those interested in such illusions. It has no 
+other properties except as described. 
+
+9. Empty Chamber 
+
+
+10. Decorated Chamber 
+
+Painted upon the north, east* and west walls 
+of this 30 ft, x 30 ft. room are frescoes of ser 
+vile ladies lying upon many-colored furs near a 
+fountain* The fountain water is depicted as 
+bubbling lava, with a scaled* fire-enveloped 
+hand reaching forth from it. 
+
+This is an artist's symbolic representation 
+of the pool (Key 07) and the danger it repre 
+sents. The ladies represent the laxness of 
+those dealing with it carelessly. The scaled 
+hand signifies the hetfish, while the bubbling 
+lava denotes the fiery inclination of these 
+creatures. 
+
+11. Empty Chamber 
+
+12. Empty Chamber 
+
+13. Bronze Statue Room 
+
+One bronze statue is placed in each of the 
+room's comers (NE* NW, SE* SW). Each is 6 
+ft, high and appears to be a grim fighter* 
+bedecked in plate mail and holding a long 
+spear. They are positioned so that each is 
+pointing its spear toward the center of the 
+
+
+Colors: 
+
+
+This room is unused and dusty* 
+
+
+8 
+
+
+
+
+
+
+
+
+
+room. In the middle of this room is a 1 ft, 
+round blood mark, dried and aged-looking, as 
+if someone from eons past had bled here. 
+
+These are just statues, nothing more. The 
+plate mail and spears are cast as part of the 
+figures and are not removable. The blood 
+mark radiates magic. Any character who 
+steps in, touches, or moves over this mark 
+will gain the benefit of being unaffected by the 
+spears loosed from the trap at Key #15. The 
+blood is not useful in any other way. ft cannot 
+be removed, 
+
+14. Empty Chamber 
+
+This room appears to be empty and unused. A 
+secret trap door leading down is located in the 
+northeast comer. It opens easily, allowing 
+space for one person at a time to descend. A 
+passage at the bottom leads off to the east for 
+30 ft., ending at a trap door set into the ceil 
+ing, which leads to Key #15, 
+
+15. Deserted Chamber 
+
+This room seems like the others, dusty and 
+unused. Examination of the 10 sq. ft. alcove in 
+the southeastern portion of this room will 
+reveal a door to the north. 
+
+When the door is opened, six bronze spears 
+shoot forth from a slotted trap on the far west 
+ern wall. The slots open as the door does t so 
+unless the players specifically check for traps 
+on that wall they will not see the slots. The 
+spears will hit anyone standing in the inter 
+vening space between Hie door and the west 
+ern wall (Divide the spears equally among 
+potential victims, randomly rolling for spears 
+or victims left over.) All those characters who 
+did not gain the benefits of the blood mark at 
+Key #13 will be automatically hit by these 
+
+
+spears. Damage caused is 2-8 points per 
+spear. Those characters who gained the pro 
+tection of the blood mark will find that these 
+spears do no harm, merely bouncing off them. 
+
+These 6 ft. long bronze spears radiate a dim 
+magic. If used in combat, they will automati 
+cally hiL, scoring 2-8 points of damage. 
+Against unarmored or lightly armored oppo 
+nents, they do normal damage. When 
+employed against metal-dad opponents, or 
+those beings with equivalent armor class rat 
+ings, there is a 50% chance per use that they 
+will break, doing .10 damage in the process, 
+
+16. The Great Draperies 
+
+These curtains divide this great room in half, 
+They are made from black satin and are sus 
+pended from numerous 20 ft. tall wooden 
+columns. 
+
+The ceiling south of the curtains is vaulted, 
+extending some 30 ft. upward. The whole of 
+Areas #17-19 is continuously lit by a dim, pur 
+ple faerie fire spell effect. A magical aura per 
+meates the entire area. 
+
+17. Ivory Pillars 
+
+Keys #17a-f are each 30 ft. high, 5 ft. diame 
+ter Ivory pillars-possibly carved from huge 
+elephant tusks! Each pillar is sculpted to 
+resemble a male figure. 
+
+These pillars wilt seem to come to life when 
+the iron golem moves to attack intruders (see 
+Key #19d, #, Room Conditions during Golem 
+Attack/ 1 for details). 
+
+a. This carving resembles a nobleman in 
+robes, looking straight ahead. 
+
+b. This carving resembles a scowling lighter 
+type* looking directly north. 
+
+
+c. This carving resembles a scholarly man 
+who seems to be deep in thought. 
+
+d. This carving resembles a lithe man in fash 
+ionable dress, possibly a representation of a 
+bard or poet. He has a thin smile on his face 
+and a dreamy expression. 
+
+e. This carving resembles a sneering, regal 
+person. His eyes are turned upward, as if he 
+were above all who pass, 
+
+f. This carving resembles a beggar. He looks 
+off at an angle toward Key #19. 
+
+18. Viewing Stands 
+
+These two areas are raised 15 ft. above the 
+main floor, with steps leading to the seats 
+above. The stands seat a maximum of 60 peo 
+ple (4 booths, 15 per booth), and are tiered so 
+as to allow easy viewing of the area in front of 
+them. 
+
+The stands will seem to have a variety of 
+beings in them when the iron golem attacks. 
+(See Key #19d.) 
+
+19. Throne/Statue Area 
+
+This 50 ft, x 70 ft. raised area has 3 statues 
+upon it. Two stand on either side of the stairs, 
+each raised 5 ft. above the floor. The other, 
+more ominous, statue is seated upon a granite 
+throne at the top of the stairs* 15 ft above the 
+floor. 
+
+If this area is entered or touched (/.e.. if the 
+characters attempt to walk or dimb on any of 
+the raised areas, or touch the statues, or use 
+spells on any part of the throne area, etc.) the 
+iron golem described below will animate and 
+immediately move to attack the characters. 
+(See Key #19d, "'Room Conditions during 
+Golem Attack/') 
+
+
+9 
+
+
+
+
+
+19A. Fighter Statue 
+
+This statue is made of iron, and depicts a 
+swarthy fighter in elaborately crafted plate 
+mail armor. His visor is open* and he stares 
+downward. He holds an out-thrust longs word 
+in his right hand. 
+
+Lf the adventurers attempt to remove the 
+sword, which seems to be part of the whole 
+statue* the statue's right hand will momentar 
+ily turn to flesh and release its grasp upon the 
+sword. This sword is one of the only two 
+weapons that may harm the iron golem. 
+Against a golem, this weapon gains a *3 bonus 
+to hit and inflicts 3-30 points of damage per 
+hit, plus any other bonuses applicable. It is 
+otherwise a normal longs word *L 
+
+If this half-ton statue is somehow moved* a 
+small cavity below it (3 ft* deep* 1 ft, diame 
+ter) will be revealed. In the cavity is a copper 
+urn containing 11 pieces of jewelry worth 
+2,000-5*000 gp each* 27 gems (24 black opals 
+and 3 diamonds, worth a base 1*000 gp each), 
+and 1*275 pp. 
+
+19B. Magic/User Statue 
+
+This iron statue depicts an old, bearded 
+magic-user* clothed in traditional garb. He 
+holds a dagger in his left hand* and peers down 
+with a vengeful cast to his eyes. 
+
+If the adventurers attempt to remove the 
+dagger* the statue will transform to flesh and 
+come to life* Instead of attacking* however* it 
+will immediately kneel and, with both hands* 
+present the dagger to the character in front of 
+it. It will then stand, resume its original posi 
+tion, and turn back to iron, winking to the 
+recipient just before the flesh-to-iron trans 
+formation is complete. 
+
+This dagger is the second of the two weap 
+ons that may harm the iron golem. Against a 
+golem, this weapon gains a *2 bonus to hit and 
+inflicts 2-16 points of damage, plus any other 
+bonuses applicable. In addition, if the "to hit" 
+roll is a natural 19 or 20* a second attack may 
+be made during the same round. It ls other 
+wise a normal dagger *2, 
+
+If the right hand of the magic-user statue is 
+grasped and pulled down, the statue's head 
+will loosen and fall to the floor. The head is hol 
+low. and contains a scroll of 3 clerical spells: 
+neutralize poison , raise dead, and heal. 
+
+19c, Creature Statue 
+
+This iron statue is seated upon a granite 
+throne. It holds a crystal, iron-hewn sword in 
+
+
+its left hand, and a whip of long, broad, inter 
+woven feathers in its right hand. 
+
+This is the terrible iron golem (AC 3, MV 
+6*, HD 15, hp 85* #AT-see below* D-see 
+below* SA poison sword, flaming breath, whip 
+petrifies, SD automatic fevication at 2 "/turn as 
+desired* MR immune to ail physical and magi 
+cal attacks except from the "statue weapons" 
+detailed above)* The golem will animate as 
+described in Key #19 above. 
+
+The golem stands a full 8 ft. tall. Its head is 
+that of a regular iron golem, except that its 
+maw is wider and a small flicker of dame may 
+be seen therein. 
+
+This monstrosity is exceptionally powerful 
+and terrible indeed. It may perform up to 
+three attack functions per melee round: roll 
+ld6 and apply the results from the table 
+below* 
+
+1-2 Attacks with sword only 
+
+3-4 Attacks with sword and whip 
+
+5-6 Attacks with sword* whip* and flaming 
+breath 
+
+Sword: This 5 l h ft. long sword is wrought 
+from crystal-encased iron. A greenish, vis 
+cous fluid appears to be on its surface. This 
+substance is poison. When the golem scores a 
+hit, its victim takes 2-24 points of immediate 
+damage and must make a saving throw vs. 
+poison or die. 
+
+Whip of Feathers: This 6 ft. long whip is 
+fashioned from many cockatrice feathers. 
+Upon each successful hit, the victim must 
+make a saving throw vs* petrifaction or be 
+turned to stone. The whip is actually non- 
+magical, but a rare technique of preserving 
+cockatrice feathers has been employed here, 
+thus making it usable as a weapon. 
+
+Flaming Breath: A fiery sheet of flame, 
+12 ft* long and 2 ft. wide at its base* shoots 
+forth from the golem's mouth. It may hit sev 
+eral grouped opponents at once (1-4 in a mass 
+ranked or packed column)* If the golem is 
+involved in one-on-one melee* its breath is 
+capable of hitting one person only. The golem 
+is extremely accurate with this breath* requir 
+ing no "to hit" roll* nor may the targeted vic 
+tim make any saving throw (although 
+protections against magical fire do apply). The 
+damage inflicted is 5-30 points per breath. 
+
+Once animated, the iron golem will pursue 
+and attack all intruders who still roam this 
+dungeon level. It will seek out such inter 
+lopers everywhere* tirelessly tracking them 
+down, lf the characters descend to the lower 
+levels* the iron golem wih stand guard at 
+either Key #14 (50%)* Key #19 (25%), or 
+
+
+Key #1 (25%)* awaiting their return. If the 
+characters flee from the dungeon* it will wait 
+for their return at Key #1 for 1-4 days* 
+unemotionally clanking back to resume its 
+"sleeper position" on its throne after the pas 
+sage of time is complete. 
+
+19D. Room Conditions 
+During Golem Attack 
+
+The Ivory Pillars (Keys #17a-f) and the view 
+ing stands (Key #18) seem to come to life, ini 
+tiated by the activation of the iron golem. A 
+strong* ingrained magic motivates and sus 
+tains these grand illusions and audible gla- 
+mers. Whatever the state or actions of the 
+characters* these sight and sound occur 
+rences will seem real to them. Although the 
+illusions cannot be dispelled or disbelieved, 
+they are more "bark than bite," and cause no 
+real harm. 
+
+When the golem is defeated through com 
+bat* or when the characters quit this area and 
+the golem returns to its former state of dor 
+mancy, these illusions will cease to function* 
+
+The Pillars (Keys #17a-f) 
+
+The pillars now seem to be fleshly versions of 
+the original carvings* moving and speaking to 
+one another as if they were heavenly beings, 
+viewing and wagering upon the outcome of 
+this contest. Each watches the battle in pro 
+gress closely* talking and comparing notes 
+with others all the while. Each seems to look 
+at the characters, some pointing at times* 
+some merely observing intently, perhaps sav 
+ing their comments for the eventual outcome 
+of the battle. 
+
+Viewing Stands (Key # 18 ) 
+
+These once-empty viewing stands now 
+appear to be filled to bursting with many char 
+acters of dead* living, ethereal, earthly, 
+demonic, and angelic visages. The living* 
+earthly, and angelic types are heard to shout 
+encouragements to the characters such as: 
+"Get that rust bucket! Don't let him whip yah! 
+Get behind him!! GO! GO!" The dead, ethe 
+real, and demonic types will boo the charac 
+ters and shout evil suggestions to the golem 
+such as: "Melt that magic-user! Crunch that 
+cleric! Killing's too good for them!I" 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ey to the second Level 
+
+
+
+General Notes 
+
+The stonework here seems quite old and, as 
+on the first level is composed of granite. The 
+floors are damp, but not overly so, and appear 
+mildewed in places. Unless noted, the corri 
+dor width remains a constant 10 ft, and height 
+maintains a consistent 20 ft.* as on the first 
+level. Doors are made of metal-bound oak, 
+and are 7 ft* wide and 6 in. thick, opening 
+inward unless indicated otherwise* 
+
+20. Entry 
+
+There is an 8 ft. x 10 ft* rough-hewn hole to 
+the south. 
+
+A tyrg (see Appendix 2; AC 5, MV 15", HD 
+5, hp 32, #AT 1, Dmg 1-12, SA howl equals 
+minor stunning within a 20 ft. radius; save vs. 
+wands or penalties of -1 to initiative, -2 to hit, 
+lasts 3 rounds) stands a vigilant watch here. 
+This giant mammal, which resembles a grey, 
+black, and white-speckled wolfhound* leaps 
+out at anyone coming within 10 ft* of its den. 
+The tyrg will howl incessantly, causing all 
+those failing their saving throw vs* wands to 
+be affected as noted above. Saving throws 
+must be made for each round of howling. The 
+effects of the howling attack are not cumula 
+tive* and a character may only be affected a 
+second rime if three consecutive rounds of 
+stunning have previously occurred* The howl 
+ing will alert the occupants of Room #21, and 
+they will arrive in 1 round to do battle. 
+
+This hound's lair contains scraps, bones, 
+and dung. There is nothing of use or interest 
+to adventurers here. 
+
+21. Guard Room 
+
+Herein are eight fighters, who are lounging, 
+standing, cleaning weapons* and so forth. 
+Some of them are reclining on bunks along the 
+southern and western walls. 
+
+These are the guards of the entryway to 
+this dungeon level (F 4* AC 4, hp 30, 28, 26. 
+22, 21, 20* 20, 19, #AT 1* Dmg 1-8, all aver 
+age ability scores, chain mail armor, shields, 
+light crossbows* broadswords, and 2-20 gp 
+each). They wear black surcoats with a blazon 
+of a silver sun. Since they were provided with 
+a puppy tyrg which eventually grew to 
+become the beast at Key #20, they have done 
+less of the guarding, allowing the tyrg to be 
+their warning sy stem. If the characters do not 
+disturb the tyrg in their approach* there is a 
+50% chance that these fighters will be sur 
+prised for 5 segments by anyone entering 
+their room. If the characters disturb the tyrg, 
+
+
+the fighters will rush to Key #20 to kill or cap 
+ture the characters. After an initial discharge 
+of crossbow bolts, they will attack with broad 
+swords; those unable to change weapons will 
+continue firing crossbows. 
+
+Note that each Guard must also make a sav 
+ing throw vs. the tyrg's howl They have not 
+grown accustomed to the awful noise* 
+
+In all cases, these fighters will do battle until 
+their numbers are reduced to four or below, 
+and will then attempt to flee to inform their 
+Lord at Key #24. They know this dungeon 
+level well, and if followed will dodge around 
+comers and double back to elude the adven 
+turers while proceeding to their lord* 
+
+22. Huge Tapestry 
+
+A thick and very well-made 30 ft* x 10 ft. tap 
+estry is hung along the southern wall. 
+Depicted upon a field of black are many 
+strange beings in very unusual surroundings, 
+A great city dominates the majority of this tap 
+estry; with two huge, bronze, tuskless ele 
+phants positioned before its wide gate. The 
+city itself seems lifeless. A single domed 
+building with cupola is shown jutting above the 
+city's battlements. The sky above the city 
+crackles with silver lightning. Two heads 
+appear among the bolts* One is of a larger- 
+than-normal wolfs head, its fur black and thick 
+and its eyes like two silver pools of menacing 
+thought. The second is of a man* gaunt and 
+intense in features* who smiles as he looks 
+down upon the city, 
+
+This tapestry was woven by Arley, and 
+depicts the Lost City of the Elders, located in 
+a dimension accessible only through the use of 
+a certain dagger guarded by Kerzit the 
+Demon (see Appendix 1, TOME OF THE 
+BLACK HEART), It radiates a faint magic of 
+an indeterminate sort, but does nothing. The 
+tapestry is worth 10,000 gp, but it weighs 150 
+pounds and requires three strong characters 
+to carry it even at encumbered speed. 
+
+23. Hallway 
+
+The middle 10 ft. expanse of this 20 ft. wide 
+hail is taken up by a pool of water* Its surface 
+is still and nothing lies within it* It appears to 
+be only 1 to 2 ft. deep at most, but closer 
+examination (within 1 ft* of the edge) is 
+required to verify this, 
+
+When viewed from no more than a 1 ft* dis 
+tance, a vision appears upon its surface that 
+can be seen by all those watching. The picture 
+takes the form of a purplish object, possibly a 
+large rock or stone, It definitely appears to be 
+
+
+oblong or ovoid in shape. All those who look 
+upon this vision for more than one full round 
+will acquire a directional "feeling." A charac 
+ter who attempts to follow this "feeling" will 
+be led to Key #47* THE PURPLE STONE. 
+
+24. Occupied Room 
+
+This room is well lit by a continual light spell. 
+A man wearing grey and black robes can be 
+seen standing next to a table with many 
+objects on it. This man begins to gesture at 
+the characters as they enter. 
+
+This is the "Lord" Hubehn* who is the 
+right-hand man of Eli Tomorast (see Key 
+#38). 
+
+Hubehn has the following statistics: M-U 
+8, AC 5, MV 12". hp 31, #AT 1* Dmg 2-5; S 
+10, I 16* W 14, D 14, Con 15, Ch 9; robe of 
+protection *1, scroll of three spells: compre 
+hend languages, Rary's mnemonic enhancer 
+distance distortion; a small sack contining four 
+sprinkles of dust of dullness* and a dagger T 
+hidden beneath Ins robe; SA spells. See 
+Appendix 1 for a full description of dust of dull 
+ness. 
+
+Hubehn f s spells: 
+
+Level 1: hold portal, magic missile, shocking 
+grasp * spider climb 
+
+Level 2: invisibility, shatter, web 
+Level 3: haste, hold person* stow 
+Level 4: dimension door, polymorph other 
+
+Hubehn will be awaiting the characters if he 
+has been alerted by his guards (Key #21). He 
+will not be surprised by their entrance {unless 
+the characters use magic, such as dimension 
+door, shrinking down and slipping under the 
+door, etc*) and gains a bonus of +2 on ail initia 
+tive rolls because of his dexterity and pre 
+paredness* If he has not been alerted* normal 
+surprise and reaction rolls apply, Hubehn will 
+cast haste on himself and any other compatri 
+ots present (maximum of 8), and will attempt 
+to subdue as much of the party as possible 
+with his hold person spell. If this fails to stop 
+at least half of those attacking him, he will cast 
+dimension door, go behind the secret door to 
+the south, and await the adventurers there. If 
+he hears them poking around this door, he will 
+cast invisibility and spider climb on himself, 
+and then crawl to the ceiling to hide, judging 
+the right time and distance between the party 
+and himself to either ambush them or escape. 
+If he is discovered* he will fight with all means 
+available, first throwing liis dust of dullness 
+upon the adventurers. If he escapes* he will 
+
+
+12 
+
+
+
+
+
+flee to Key #38 to warn his master, Eli 
+Tomorast, of the intrusion. In this event, the 
+whole of the 2nd and 3rd dungeon levels will 
+be alerted and prepared for the characters # 
+approach. 
+
+This room contains a simple bed and a table 
+with chair. There are a variety of objects on 
+the table, including a bowl with dried fruit, a 
+jug of thin wine t half a loaf of hard bread, a nor 
+mal knife, a day cup, and a small wooden box 
+(where Hubehn stores his change) containing 
+12 cp, 20 sp, 8 gp, 3 ep, and 2 zircon gems 
+(worth 10 gp each). Otherwise this room 
+appears empty and seldom used. 
+
+25. Storage Room 
+
+This rough-hewn place is a closet. Piled in 
+front of and around a 6 ft, round by 5 ft. deep 
+pit are 8 crates and boxes and 3 casks. 
+
+The boxes contain foodstuffs (dried meat, 
+flour, dried fruit, salt, etc*), but the casks, which 
+contain beer and wine, are nearly empty- The 
+last barrel contains a fine wine and honey mix 
+(mulse), The pit descends 5 ft. and connects to a 
+5 ft. x 7 ft. passage going west-southwest. The 
+passage ends after 40 ft., and there is a 6 ft. x 5 
+ft. chimney above the far end, 
+
+26. Chest Room 
+
+The chimney at Key #25 leads up to another 
+rough-hewn area. Within this area are two 
+large chests, positioned across from each 
+other along the east and west walls. Each 
+chest is 4 ft* long, 2 ft. high, and 2 ft. wide. 
+
+If the chests are examined (approached, 
+prodded, opened, etc,) there is a 75% chance 
+
+
+that the thin wire between the two will be bro 
+ken and the trap described below sprung. 
+Normal trap detection (by spell, item, or thief 
+ability) may detect this, but such attempts will 
+fail if those attempting them are adversely 
+affected by the dust of dullness. The DM 
+should determine the exact location of each 
+character when the trap is triggered. The trap 
+consists of eight arrows from each chest: four 
+straight out to the front, two straight up, and 
+two to either side. Each arrow has a 50% 
+chance of hitting a victim within the area spec 
+ified. The arrows are poison-tipped, inflicting 
+1-6 points of damage plus 1-8 points of poison 
+damage unless a saving throw vs, poison is 
+made for each hit. 
+
+The chest along the west wall is empty The 
+east chest contains 1,652 sp, 3,075 gp, and a 
+map revealing the route to Key #27. 
+
+27. Dead End 
+
+Tins appears to be a dead-end corridor, with 
+no visible exits. If the characters are following 
+the map from Key #26, they will find that the 
+trail seems to end here, although the map 
+appears to continue. A secret door to the 
+west leads to a passageway south toward the 
+stairs leading down to Level #3. 
+
+28. Stinking Chamber 
+
+The air here smells acrid and stale* The floor 
+is stained and pitted as if eroded. The shaded 
+area shown on the map is from the constantly 
+exploding, bubbling add pit to the north, If the 
+residual "film" on the floor here is checked for 
+taste, it will be bitter and will burn the mouth. 
+
+
+29. Unwholesome Pool 
+
+This 20 ft. wide pool is filled with a blackish, 
+smoking, acrid-smelling, gurgling brew. The 
+smell is awful and causes dizziness, accompa 
+nied by a burning sensation in the eyes, nose, 
+and mouth. 
+
+This is a pool of concentrated acid under 
+constant pressure from streams passing 
+beneath Maure Castle, If touched by flesh, 
+the minimum damage inflicted is 2-7 points, no 
+saving throw* All those thrown in or 
+immersed are slain immediately no save. The 
+pool will explode 1-6 rounds after the charac 
+ters arrive, and again every 0-9 (Idl0-1) 
+rounds thereafter. Each explosion will spray 
+all those standing in the outlined area (see 
+map) for 4-16 points of add damage each (no 
+save, but items carried need not be checked). 
+All those standing next to this pool and/or 
+viewing it closely (witliin 5 ft.) will also be 
+blinded for 1-6 turns or until the acid is washed 
+from their eyes. Any fully helmeted character 
+is protected from this blinding. 
+
+
+30. Chamber of Fumes 
+
+This area seems to be rather hot. Smoke can 
+be seen rising from the corners of the floor 
+and collecting near the ceiling. 
+
+The patterned area (see map) is a fire-pit 
+trap. If walked upon by any character, the 
+floor will collapse, hurling all those upon it 20 
+ft. down into a raging fire pit. All within it take 
+2d2Q points of fire damage per segment 
+(20d20/round). This fire pit will destroy 
+nearly anything within it in two rounds; all 
+
+
+13 
+
+
+
+items must save vs* magical fire with a -8 pen 
+alty to the roll* A wish can restore an inciner 
+ated character, but without items carried. 
+
+31. Room of Robes 
+
+This room is filled with racks of robes hanging 
+from the ceiling and walls. Because of this, the 
+room's dimensions cannot be properly made 
+out, nor its entire contents viewed* 
+
+Hidden among the robes is a spectre (AC 2, 
+MV 15730", HD 7+3, hp45, #AT 1, Dmg 1-8, 
+SA energy drain, SD +1 or better weapon to 
+hit). This undead creature will wait for those 
+examining this room to pass it by* It will float 
+out from its cover and attack, surprising oppo 
+nents on a roil of 1-3 on ld6. 
+
+There is nothing of value or interest here 
+except the robes, which are worth 1 cp each. 
+Characters may take robes for themselves if 
+they like. Each adds 50 gp encumbrance, 
+
+32. Special Guard Room 
+
+Upon entering this room, the characters see two 
+knightly figures in black armor. Emblazoned 
+upon their breastplates are silver suns. They 
+draw longswords and attack immediately. 
+
+These two fighters (F 7, AC 2. MV 67 hp 
+47, 44, #AT 1, Dmg 2-9; Strength 17, plate 
+mail and shield) are fanatical followers of 
+Tbmorast. Once engaged in combat, they will 
+fight to the death. They will be of no help to 
+the characters if they are captured; instead, 
+they will lead them astray toward areas other 
+than their master's* 
+
+This room contains two bunks. All that 
+these fighters own is stored in a box near one 
+of the bunks. Within the box are two small 
+pouches, each containing four rubies worth a 
+base 1 *000 gp each* Everything else is of nor 
+mal manufacture (towels, cups, a glass mirror, 
+rations, etc.) 
+
+33. SOUTH 
+Storage Room 
+
+This room contains three large kegs, five 
+boxes, three casks, three large sacks, and an 
+intricately carved coffer. The kegs contain 
+wine, water, and vinegar water. The five 
+boxes contain dried fruit, vegetables, dark 
+cheese, salted meats, and nuts. The sacks 
+contain flour, salt, and beans. The small coffer 
+(made of iron wood and festooned with minia 
+ture flowers, worth 55 gp) contains a variety 
+of spices including sage, pepper, nutmeg, 
+mustard, dill, and basil. 
+
+
+34. Heavy Door 
+
+Beyond this door is a spiral staircase that 
+descends to Level #3. 
+
+35. Weapons 
+Practice Area 
+
+This 80 ft. x 70 ft. area houses many fighting 
+props, large stones, straw and wooden dum 
+mies dressed in leather jerkins, copper and 
+brass urns, two small tables, three stools, 
+two chairs, four builseye targets, boxes of 
+rocks, empty chests, and several weapons 
+(swords, halberds, arrows and shields). It 
+appears to be a place where fighters might 
+work to improve their skills. A 2 ft* diameter 
+hole is on the west wall, 7 ft* up; it will not be 
+noticed unless the room is careMy examined. 
+
+This is actually a magical practice area for 
+Tomorast (Key #38) and his apprentice 
+Hubehn (Key #24)* In here they practice 
+mock battles and hone their dexterity and tim 
+ing. The eastern wall has obviously been 
+"blasted" a number of times, as the holes and 
+singe marks silently attest. Some blood marks 
+are also here* left by those prisoners who 
+were given a weapon and "let loose" upon 
+one of the two mages to meet a swift death by 
+spells. Except for the weapons present (two 
+bastard swords, three halberds, fifteen 
+arrows, and two target shields) nothing is of 
+value or further interest, 
+
+If the hole in the western wall is checked, 
+peek holes #K and #L will be seen (see Key 
+#41)* 
+
+36. Long Corridor 
+
+As the characters walk down this 20 ft. wide 
+corridor, which appears to extend to the south 
+for a considerable distance, they are suddenly 
+faced with a dead end! 
+
+The characters have actually been tele 
+ported from Key #36a to Key #36b. No mat 
+ter which way they go, they wifi always be 
+teleported back to Key #36b* The easiest way 
+to escape this trap is to walk backward to Key 
+#36b, thus reversing the magic and allowing 
+the characters" return* Other ways to foil this 
+trap require the employment of magical spells 
+or items that allow teleportation or other 
+methods of magical passage. A dispel magic or 
+similar abjuration will "calm Tt the teleporter 
+for 1*3 rounds, allowing those who pass dur 
+ing that time to avoid being sent back to Key 
+#36b. 
+
+
+37. Black Hand 
+
+This 25 ft* x 25 ft* hexagonal room has a 3 ft* x 
+7 ft, imprint of a black hand near its center. 
+Anyone touching this hand will have an instan 
+taneous mental contact with another being, as 
+described below. RoU ld6: 
+
+1-3 a* Eli Tomorast Key #38 
+
+4-5 b* Kerzit the Demon Key #67 
+
+6 c* One of the party members 
+
+a. Tomorast will tdepathically speak to his 
+contactor, attempting to find out as much as 
+possible. He will use every ruse in the book, 
+even saying that he is a good spirit (ki-rin, 
+shedu. et a/.) who can guide the characters 
+through the dungeon level and to safety or 
+riches if they so desire. If they listen to his 
+advice, he will either guide them to an ambush 
+(where he. Hubehn, and his special guards 
+will be waiting-see Keys #24 and #32), or 
+give precise directions to the fire-pit trap 
+(Key #30) to destroy the party. If the charac 
+ters ignore this advice and/or "call his bluff" 
+Tomorast will gather the aforementioned 
+forces and immediately proceed to this room, 
+attempting to track the adventurers by the 
+mental contact. 
+
+b. Kerzit the Demon appears as a picture in 
+the contacting character's mind, but no com 
+munication occurs* The image is greatly for 
+bidding, depicting a wolf-headed, tentaded 
+being* The image is quite distorted and some 
+what disproportionate, so the contactor will 
+see little else depicted besides this. 
+
+c. A telepathic link is established with a ran 
+domly selected party member. This link will 
+remain in effect as long as the two in contact 
+do not leave this room (Key #37). 
+
+Unless specified otherwise, any contact will 
+remain for only 2-7 (d6 +1) rounds. The link is 
+then broken, and the only way to reestablish it 
+is to again touch the black hand. Communica 
+tion with Tomorast or with a character may 
+extend up to 1 mile, as long as the spell is in 
+effect* The hand does not provide communi 
+cation with anyone else* 
+
+38. Round Chamber 
+
+The characters see a wizardly figure 
+bedecked in black, grey and silver garb. His 
+overall visage is glaring, and he quickly exam 
+ines the group's position within his quarters. 
+This room is laden with many objects, but 
+there is no time to study the place. The robed 
+man raises his odd-looking hands, gesturing 
+
+
+14 
+
+
+
+
+
+
+
+
+
+and making strange signs in the air before 
+him. As he does, his luminous amber eyes 
+seem to bum into your souls. The battle is 
+joined at last! 
+
+This is Eli Tomorast, wizard, artificer, and 
+madman. His statistics are: M-U 14, AC var 
+ies-see below* MV 12** hp 45, #AT 1, Dmg 
+3-6* SA spells and see below* SD see below; S 
+14* l IB, W 10, D 17, Con 16, Ch 11, dagger 
+*2 f ring of spell turning, potion of controlling 
+damage. (See Appendix 1 for potion descrip 
+tion,) 
+
+Tomorast will attack all intruders with grow 
+ing ferocity each turn. The characters will 
+notice his hands immediately, for they are 
+black and scaly, and have many unnatural 
+spikes upon their surface, Tomorast's great 
+est weapons, outside of his spells, are these 
+hands, described below. 
+
+Tomorast will use every contrivance availa 
+ble to him to kill the characters. Since he will 
+be somewhat warded from spells due to his 
+ring* he will lodge his first attacks upon 
+fighters and clerics in the group, with the 
+imagined hope of dispatching them and then 
+concentrating, through melee with his hands, 
+upon any magic-users present. He wifi al 
+ways opt to use killing spells rather than 
+slowing* controlling, or transformation-type 
+dweomers* 
+
+If all else fails, and if he seems near certain 
+death, he may (50%) continue the battle by 
+magic jar using one of the gems adorning the 
+ceiling for soul containment. Otherwise (50%) 
+he will teleport to Key #64, with which he is 
+very familiar. Once there, he will rouse the 
+entirety' of Level #3 against the adventurers, 
+positioning gnolls (Keys #35 and #38a) and 
+assassins (Key #55) to guard the stairs down 
+to this dungeon level. The magic-users (Key 
+#60) will wait with Tomorast at Key #61, 
+where the last stand for this dungeon will be 
+made. 
+
+
+Right Hand: This hand automatically 
+improves Tbmorasts chance to hit by + 3 while 
+wielding weapons in his right hand. When 
+used in combination with other spells or 
+items* the total "plus" to hit may not exceed 
+*6 due to the restraining nature of this hand. 
+
+Both Hands In Attack: When both unoc 
+cupied hands strike the same opponent simul 
+taneously, two things occur: 
+
+L The victim hit must make a saving throw 
+vs. paralyzafton or be immobile for 2-12 
+rounds* and: 
+
+2. The victim hit must make a saving throw 
+vs* spell or lose one level of experience (as 
+if struck by a wight). 
+
+Both Hands In Defense: When both 
+hands are clasped in prayer, Tomorast accrues 
+the following benefits: 
+
+1. Flitting non-corporeal black shadows 
+hover between him and his opponents, 
+giving him a -5 bonus to Armor Class; and 
+
+2* He immediately gains a temporary 
+increase of 4-24 hit points* and 
+
+3* He gains a *3 bonus to saving throws vs* 
+spell and a *2 bonus on all other saving 
+throws. 
+
+When his hands are removed from this 
+clasped position* ail benefits cease immedi 
+ately. Tomorast may not cast spells nor carry 
+on any other combative measures that require 
+the use of his hands while maintaining this 
+defensive posture. He may move* but only at 
+a movement rate of 3" per turn slower than 
+normal* If Ibmorasris original hit points fall 
+below zero during this period* he will die. 
+Damage sustained when in defensive mode 
+comes first from additional points gained, 
+Defensive posture can be taken as often as 
+desired. 
+
+
+Tomorast f s Spells: 
+
+Level 1: affect normal fires, jump , magic mis 
+sile (x2), protection from good 
+
+Level 2: darkness 15' radius, invisibility, lev 
+itate , web, wizard lock 
+
+Level 3: dispel magic, Same arrow, lightning 
+bolt, phantasmal force, suggestion 
+
+Level 4; confusion , dimension door t poly 
+morph other, wall of ice 
+Level 5: cone of cold, feeble mind, magic jar, 
+teleport 
+
+Level 6: repulsion t spirit wrack 
+Level 7: monster summoning V 
+
+Tomorast *s Hands 
+
+Eli's original hands have undergone a grisly 
+experiment, involving their removal and 
+replacement by the strange appendages 
+described below. These were grafted onto 
+him* presumably by the same demon or 
+nether-world creature that supplied them. 
+When striking in melee, the spikes (12 per 
+hand) will cause 1 point of damage per spike 
+contacting the target* Roll ldl2 (or 2dl2 if 
+both hands hit) to determine the number of 
+spikes connecting and damage subsequently 
+caused. In addition to this melee capability, 
+Tomorast has many other abilities inherent in 
+these hands* 
+
+Left Hand; This hand can improve 
+Tomorasris dexterity by 2 points (raising it to 
+18. adjusting his reaction die roll by *3 and 
+improving his Armor Class by -2). To use this 
+power, which lasts for 2-1 2 rounds, Tomorast 
+need only touch his thumb to his index finger, 
+but be can do no spell casting that round. 
+
+
+15 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tomorast's Room 
+
+Since the adventurers will most probably 
+become engaged in combat with Tomorast 
+immediately upon entry to this chamber, they 
+will probably not have a chance to examine the 
+room extensively until the wizard is defeated. 
+The area is plush, in its own way-the floors 
+are carpeted in black, the walls are hewn from 
+grayish stone, and the ceiling has many inlaid 
+gems (700 sunstones, base 100 gp each), 
+which sparkle like baleful demonic eyes when 
+met by light. Many candelabra and cressets 
+(bowl lamps) provide illumination. Positioned 
+about the room are sundry objects, including 
+an oaken table carved with spiraling columns 
+for legs, a chair, a divan of cherry wood and 
+black velvet, a bookstand with a large book 
+upon it, a curved mantle hung on the north 
+east wall containing some miniature carvings, 
+and a rug next to it. Positioned 5 ft. above the 
+floor on the northern wall (see map) is a 2 ft. 
+round, rough-hewn tunnel. It leads to the 
+north for a short distance and then branches 
+(see Key #39, peek holes A-F.) 
+
+Oaken table: On this table is a pen knife, 
+a quill pen, a bottle of scroll ink, 12 sheets of 
+vellum, a bottle three-quarters filled with 
+wine, and an incense burner, A small box on 
+the table contains many teeth, scented pow 
+ders, flora samples, glass and gem pieces, and 
+other miscellany which could be spell compo 
+nents. A partial diary is next to the box, con 
+taining the information in "Tomorast's 
+History," below. Nothing else of interest or 
+value is in the box. The contents of the table 
+might be sold to a person interested in magical 
+supplies (apothecary, magic-user, etc.) for 
+about 800 gp. 
+
+Chair: The legs of this chair are made of 
+satin wood, the seat of teak wood, and the rest 
+of rosewood. The faces of wolves and octopus 
+tentacles are inlaid in sable wood. If sold to a 
+wood craftsman, this chair can bring 1,000 gp 
+or more for its originality and professional 
+quality. 
+
+Divan: If the characters somehow 
+remove this velvet-lined piece fashioned in 
+cherry wood, it may be sold for 400 gp* 
+
+Bookstand: This has an atlas of Oerth 
+detailing the geography of the Flanaess, Some 
+areas on these maps are marked with an X, 
+including the capital of the Great Kingdom, 
+Rauxes. Whatever this may mean, it is not 
+indicated here. 
+
+Curved Mantle: Set upon this are six 3* 
+x 6* miniature coral reliefs. These depict vari 
+ous portions of Level #1: the pool of hetfish, 
+
+
+the pillars, the viewing stands, the iron 
+golem* the fighter and magic-user statues, 
+and the weaver Ariey (as he appears in ogre 
+mage form). Each carving will bring 200-500 
+gp if sold. 
+
+Rug: This rug is finely made from rich 
+silks. Depicted upon its surface is an alien wil 
+derness comprised of trees of a many-hued 
+and rooted nature, with multi-headed animals 
+and gaudily plumed saw-tooth birds among 
+their crooked, dun-colored branches. Double 
+suns, one red and the other white, can be 
+seen rising* shedding their opulent, mingling 
+hues upon a twisted, purplish river, which 
+flows through greenish-yellow plants set 
+along its banks. In the distance is a grandiose 
+city, a miniature in perspective, but the dis 
+tance to it seems endless* suggesting that the 
+artist's depth is distorted or that the city is 
+gargantuan in size. 
+
+This rug radiates magic and is actually an 
+item known to Tomorast as "The Accursed 
+Carpet" When handled, the rug takes on one 
+of the following two aspects (50% chance of 
+each): 
+
+A. The rug animates, moving and attacking of 
+its own accord as if it were semi-intelligent. 
+The rug's characteristics are: AC 5; MV 15 * 
+Eying; HD 7; hp 40: #AT 1; Drag 2-20 points 
+smothering; SA once attached, smothers for 
+automatic damage; SD see below. The rug 
+flies about, attempting to land on and smother 
+a victim below it. When it hits, it inflicts 
+smothering damage automatically until 
+destroyed. The victim trapped under it moves 
+at half speed, has a -2 penalty to initiative, and 
+if the weapon used is trapped inside the rug 
+(50% chance), it may only inflict l h damage. 
+
+B. In this aspect the rug remains where it is 
+on the wall. Several strong, thick threads (2- 
+12 strands, each 50 ft. long, of the carpet's 
+frill-like edging). Attached to the end of each 
+thread is a 1 ft. wide mouth with many teeth 
+that seem especially made for severing and 
+chewing. Each "mouth" will attack as a 6 HD 
+monster, inflicting 2-7 points of damage per 
+bite. Other statistics are as given in A, above. 
+
+DAMAGING THE RUG: In either aspect, 
+this rug is immune to spell attacks. Fire and 
+weapon attacks affect it as follows: 
+
+FIRE 
+
+Torch: 1-6 points per hit 
+
+Flask of burning oil: 2-8 points initially, 14 
+points per round for the following three 
+rounds 
+
+
+Raging fire (bonfire, cask of oil, etc.): 2-12 
+points per round in the fire; rug catches fire 
+for six rounds, 2-8 points per round 
+Magical fire: No effect! 
+
+WEAPONS 
+
+Pointed and blunt weapons inflict only the 
+magical and character strength bonuses, if 
+any, Sharp-edged weapons inflict those 
+bonuses plus the following "normal" damage 
+per hit: 
+
+
+Dagger: 
+
+1 
+
+point 
+
+Short sword/hand axe: 
+
+1-2 
+
+points 
+
+Long sword: 
+
+Bastard sword/edged 
+
+14 
+
+points 
+
+pole arm: 
+
+Battle axe/broads word/ 
+
+1-6 
+
+points 
+
+halberd: 
+
+1-8 
+
+points 
+
+Two-handed sword: 
+
+1-10 points 
+
+
+Tomorast's History 
+
+Tomorast apparently settled into a life of study 
+and debauchery around Maure Castle nearly 
+ten years ago. He chose to elaborate on these 
+dungeon levels since they were removed from 
+the Castle, yet dose to it at the same time. 
+Tomorast seeks more and more arcane knowl 
+edge, It is indicated in his diary/journal that he 
+has traveled far for the mystical knowledge he 
+owns and uses. He has been many places, 
+including a long-past visit to the Forgotten 
+Temple of Tharizdun (Dungeon Module WG- 
+4) some years back, where he was instructed 
+by priests concerning the ways of hidden 
+knowledge as taught by the once-powerful 
+Tharizdun. Recently, he sought to return to a 
+place he chanced upon in the past* a place 
+named in a forgotten rhyme as 'The Lost City 
+of the Elders/' 
+
+It is written that the guardian demon Kerzit 
+(Key #67), over which Tomorast holds sway, 
+was captured by him at this Lost City-though 
+the location of that unearthly realm is not 
+given. Tomorast tinkers with artificing perma 
+nent enchantments. Most of the kerns 
+(cursed, magical, or trapped) located on these 
+levels were constructed and/or enchanted by 
+him-including the iron golem, the ivory pil 
+lars, the accursed carpet, and the fire-pit trap. 
+
+39. Peek Holes (#A-F) 
+
+This area is lined with six round holes, each 6 
+in. across, 7 ft. above the floor, and spaced at 
+the intervals indicated on the map. 
+
+These are the peek holes belonging to Re! 
+(Key #40), Tomorast's unique familiar, who 
+uses them to spy upon the corridors and 
+
+
+16 
+
+
+
+
+
+
+
+
+
+
+rooms surrounding Tomorast's chambers. 
+There is a 75% chance that Rel is here at one 
+of the spy holes (roll ld6 to determine which). 
+He is otherwise located at Key #41, spying 
+there. 
+
+40. Study and 
+Work Area 
+
+This is Tomorast s area for study and storage. 
+Located here are two copper urns, one small 
+box f four barrels, four coffers, and a desk and 
+chair. 
+
+There is a 25% chance that Rei (AC 5 t MV 
+9", HD 5, hp 31, #AT 1, Dmg 2-7, 5A surprise 
+from behind on 1-4, pendant of invisibility, 
+chain mail armor, spiked hammer) is hiding 
+here behind the second copper urn. If Rel is 
+not here, then he is at one of the peek hole 
+areas (Key #39). Rel looks like a 2 ft. tall 
+cyclopean dwarf with an umber tint to his skin. 
+He wears a light suit of chain mail. Rel will try 
+to surprise individuals when he attacks with 
+his light spiked hammer. He will not attack 
+unless the odds are in his favor (usually one- 
+to-one) or if he is cornered, which is not likely. 
+Rel has a pendant of invisibility, a magically 
+enchanted diamond (worth 5,000 gp) set on a 
+silver chain (worth 60 gp) and hung about his 
+neck. Treat this item as an invisibility spell, 
+except that Rel need only touch the gem to 
+activate the power. Rel may disappear up to 
+three times daily by using this device, but he 
+usually reserves it for spying upon or escaping 
+from unwanted and/or unannounced "com 
+pany/* There is a good chance (80%) that he 
+is aware of the characters' contest (if any) 
+with his master, Tomorast, 
+
+Rel is much interested in living (like quasits 
+or imps) and will not sacrifice his life need 
+lessly. He will remain hidden in this room until 
+it is apparent that he is about to be discov 
+ered. He will then turn invisible and make a 
+dash for the peek hole tunnel, hoping to hide 
+therein. If this fails, he will try to get past the 
+intruders and into the remainder of the dun 
+geon level. He will continue to follow the 
+adventurers once they leave this area, seizing 
+nearly any chance to damage them, and 
+informing other dungeon inhabitants of their 
+location. 
+
+Item Descriptions 
+
+Copper um # 1 : This um contains about 
+20 pounds of black, sweet-smelling powder. A 
+note, in the common tongue, lies atop the 
+stuff, and clearly says "DO NOT EAT THIS! 11 
+
+
+This is actually a massive amount of 
+drugged incense. If characters breathe the 
+fumes rising from this um for more than two 
+rounds, a saving throw vs. poison is required. 
+All those inhaling the fumes who fail their save 
+will fall unconscious to the floor in a dream-like 
+stupor. They will automatically awaken 1-3 
+hours later, or when seriously prodded into 
+wakefulness by their fellows by repeated 
+slaps and dousings with water. 
+
+The powder tastes delicious* If a handful or 
+more is eaten, a saving throw vs. poison is 
+required. If this is failed, the consumer dies 
+immediately If the save is successful, how 
+ever, the character will walk about in a dream 
+like trance for 2-8 hours. During this time, he 
+will not be able to perform even the most sim 
+ple tasks. Conversation will be limited to a few 
+garbled words, Attack or defense by the 
+affected character is out of the question. If 
+those in this hapless state are left alone, they 
+could easily fall prey to beings inimical to 
+them. If those affected are not continuously 
+prompted to stay awake or to move (at half 
+speed) they will fall to the floor and pass into a 
+coma-like sleep, which is 50% likely to be 
+fatal. 
+
+Those eating less than a handful of this 
+incense will undergo severe stomach cramps 
+(no saving throw), and a general giddiness will 
+be noted. Dehydration could occur, at a 40% 
+chance per turn for 1-8 turns after ingestion. 
+If dehydration occurs and if water is not con 
+sumed (at least a pint per turn), dehydration 
+will cause 1-3 points of damage each turn* 
+
+Surprisingly, when the powder is burnt and 
+smelled, no ill side effects will be noted. If 
+sold, the 320 ounces present are worth 21-30 
+gp per ounce. 
+
+Copper um #2: When and if the players 
+come near this um, Rel (who may be hiding 
+here) will turn invisible and make a dash for 
+freedom. There is nothing in the um. 
+
+Small box: This box opens easily. It con 
+tains 10 silver rings, worth 15, 30, 35, 70, 
+100,150, 160, m 210, and 225 gp* The 35 
+gp band radiates magic if checked for, and is a 
+ring of weakness (DMG, page 132). 
+
+Four Barrels: #1 contains dried fruit; #2 
+contains salted meat; #3 contains pickled veg 
+etables ; #4 has a cup set atop the openable lid, 
+and contains water. 
+
+Coffer #1: This contains 750 sp, 376 ep 
+and 500 gp* 
+
+
+Coffer #2: This contains 282 gems: 50 
+tourmalines (base 500 gp), 32 peridots (base 
+100 gp), 47 zircons (50 gp each), and 103 tiger 
+eyes (10 gp each). The listed values for the 
+zircons and the tiger eyes have no chance of 
+increasing* 
+
+Coffer #3: In this are many ring-mail 
+links. These radiate magic and actually make 
+up a whole suit of disassembled ring mail +3. If 
+reconstructed (at the cost of hiring an 
+armorer and tailor), it may be worn by a 
+human. 
+
+Coffer #4: Wrapped in black felt is an amu 
+let of inescapable location (DMG, page 137). 
+
+Desk and chair: These are located 
+against the southern wall. The chair is of nor 
+mal make and nearly valueless. The desk has 
+quill pens, bottles of regular ink. a box with 
+white crystals (salt for the inks), a tube con 
+taining crushed and mixed gemstones (for 
+book or scroll decoration) atop it, and many 
+sheaves of papyrus are spread about. The 
+drawers contain the same sort of miscellany* 
+However, a small secret compartment 
+(located on the desk's underside) contains an 
+ebony ring carved from obsidian, which radi 
+ates magic* One charge from this ring will pro 
+tect the wearer against either physical or 
+magical attacks (wearer's choice) from things 
+demonic or diabolic (demons, imps, et a/*) for 
+1 turn* Thus, a11 physical blows from a demon 
+could be negated during a round, not harming 
+the wearer of this ring. Magical attacks could 
+be likewise negated for the same period of 
+time* This ring has 23 charges left. It func 
+tions but once every 7 days, during the 
+interim being useless. It is worth 10,000 gp if 
+sold to those interested in such magics (those 
+of lawful good alignment in most cases)* 
+
+
+41. Peek Holes (#g-l) 
+
+These correspond to the peek holes listed and 
+described at Key #39* There is a 25% chance 
+that Rel will be here if he Is not at Key #40* He 
+is otherwise at #39* 
+
+
+42. Old Prison Room 
+
+The doors to this room are padlocked and 
+rusty. Inside are the long-dead skeletal 
+remains of three humans, shackled to the 
+wall* Scratched upon these walls are various 
+graffiti and a date, CY (common year) 457. 
+
+
+17 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+43. Abandoned Room 
+
+This dusty circular chamber has a chest near 
+its center. There is nothing else here except 
+doors to the east and west* 
+
+This 20 ft. diameter room is avoided by the 
+inhabitants of this dungeon level* The 5 ft* 
+radius area about the chest is an inlaid pres 
+sure-sensitive plate. When the plate is 
+stepped upon, sleep gas starts issuing from 
+around the sides of the chest, filling the room 
+in three segments. Those within its confines 
+must make a saving throw vs* spell or fall to 
+the floor for 24 turns of slumber. There is 
+nothing in the chest, but if moved, the players 
+will note two V 2 in* round holes beneath it t 
+obviously from which the gas issues. This trap 
+automatically resets itself every three hours, 
+but if the holes are exposed, the room will 
+become permanently filled with Lhe gas. 
+
+44. Chamber of 
+Black Smoke 
+
+This area's dimensions cannot be easily ascer 
+tained, for it is enveloped in a thick fog of black 
+smoke that does not extend beyond the 
+rooms perimeter! 
+
+Directional mapping in this room is impossible 
+without the aid of spells* The smoke is heavy 
+upon the lungs of the characters, but does not 
+seem to adversely affect them. It will be noted 
+that a higher concentration of this smoke is to 
+the north (left, as the adventurers enter the 
+room). Though unaided vision beyond 1 ft. is 
+impossible* spells which aid or increase sight will 
+function normally here. Bright light near the 
+characters will blind them for as long as the light 
+remains about them* As the party investigates 
+these confines, three slow-shadows (see 
+Appendix 2; AC 8, MV 12*. HD 4, hp 15, 21, 
+23, #AT 1, Pmg 14, SA attachment equals shw 
+spell until removed, SD *2 or better weapons to 
+hit) will attach themselves to the unsuspecting 
+characters* These things will move onto the 
+characters unnoticed due to the obscurement of 
+the fog* They will cause an initial 14 points 
+numbing damage (DMs should convince those 
+so attacked that it may have been a portion of the 
+room or smoke that they stepped in or through); 
+the attachment is then complete* The slow 
+shadows wfl] blend into the characters' clothing, 
+undetectable as natural shading among the folds 
+of the material. They will also slow their victims 
+by 50% for as long as they remain attached, and 
+inflict 14 points of cold damage per round. 
+
+This room contains nothing besides the 
+smoke and the shadows* 
+
+
+45. Mud Room 
+
+This 25 ft. diameter circular room appears to 
+be covered from top to bottom with mud or 
+dirt. The room emits a chill which is transmit 
+ted to all as the door is opened. 
+
+This is actually a gargantuan deposit of 
+brown mold (AC 9, MV 0*. MT 0 T SA 4-32 
+points of frost damage to all within 5 ft*, SD 
+affected only by magical cold; growth will 
+move the mold mass 5 ft* into the hallway) to 
+which Tomorast feeds prisoners to increase 
+its size. 
+
+Because of the size of this colony, all heat 
+sources (lit torches, lanterns, etc,) in the 
+front rank will go out as the door to the room 
+is opened. Characters in the front rank will 
+sustain 4-32 points of damage during Lhe first 
+round, and the mass will move closer. The 
+adventurers must retreat to avoid certain 
+death. 
+
+Nothing of value exists within the room. 
+
+46. Fighters* Quarters 
+
+This room is well-lit by torches and lamps* 
+Gathered around a table heaped with food and 
+drink are many staunch fighter types (F 4, AC 
+6, MV 9\ hp 20, 21, 22, 23 , 24, 25, 26 , 27, 
+28* #AT 1. Dmg 1-8, average abilities, stud 
+ded leather armor, round shields* longs words, 
+daggers, 40-160 (4d4 xlO) gp each) wearing 
+leather jerkins. Bunk beds and other 
+paraphenalia are positioned about the room. 
+
+Roll ld6, A result of 14 indicates that one 
+randomly chosen fighter is in transit from Key 
+#33 with tonight's dessert, Ef so, he will arrive 
+14 rounds after the. party's entrance into this 
+room, joining the other eight fighters. The 
+fighters will engage the characters in combat, 
+but will flee or surrender if their numbers are 
+reduced by half* 
+
+Each fighter has something of value hidden 
+in the room. Most of these items have been 
+secreted, for these men do not trust one 
+another. 
+
+Fighter #1 has a gold cup worth 275 gp 
+hidden in a pillow on his bunk. 
+
+Fighter #2 has an earring on his left ear 
+which is hidden by his shaggy hair and helmet* 
+It is fashioned from platinum and inset with a 
+sapphire, having a total value of 1,570 gp. 
+
+Fighter #3 has hidden a vial (potion of 
+umfead control) in a hollowed leg of the dinner 
+table. 
+
+Fighter #4 has a small gold plaque hidden 
+in his right boot. It has some gibberish written 
+
+
+upon it which may appear to be a spell or runic 
+inscription of some sort. It is worth 290 gp. 
+
+Fighter #5 has a silver and gold bracelet 
+(worth 400 gp) about his wrist, covered from 
+sight by his jerkin's cuff. 
+
+Fighter #6 has a small sack containing 127 
+pp hidden beneath a heap of clothes near his 
+bunk. 
+
+Fighter #7 openly wears a gem-studded 
+gauntlet (cheaper cuts of topaz) worth 865 gp. 
+
+Fighter #8 has an ebony-capped teak wood 
+walking stick, worth 170 gp, next to his bed. 
+
+Fighter #9 has, hidden on his body, a map 
+that shows the way to the secret stairs down, 
+20 ft. south of Key #38. It is in an ivory case 
+worth 175 gp* 
+
+47. The Purple Stone 
+
+Behind this secret door is a 10 ft* iong t 4 ft. 
+high, 3 ft. wide oblong purple stone. It seems 
+to pulsate with an inner light shed dimly from 
+it as the room is entered. 
+
+When characters approach within 2-5 ft. of 
+this stone, a purple light will issue forth upon 
+them* Find each character's intelligence and 
+consult the listing below for the effects caused 
+by this illumination. 
+
+Intelligence 
+Score Result 
+
+3-12 The character sees visions of an 
+
+undecipherable future event. 
+Some of these visions indicate 
+that a dark foe is following the 
+party; others point toward a 
+possible renegade/turncoat 
+among them who will desert or 
+harm one or more of the party 
+members in the near future. 
+Although these visions are mor 
+bid and seem revealing to the 
+players, they are not true, 
+
+13-15 The character receives one of 
+the abilities given below, The 
+ability is usable 4 times, and 
+then dissipates and is forever 
+gone. Roll ld4: 
+
+1* FSPas per the spell, 
+
+2* Clairaudience as per the 
+spell* 
+
+3* Clairvoyance as per the 
+spell* 
+
+
+18 
+
+
+
+
+
+
+
+
+
+
+4, Commune once per day as 
+per the spell. 
+
+16-18 The character is prompted to 
+ask one question. The stone will 
+communicate its answer tele- 
+pathically to the character. 
+Areas of questioning are limited 
+to this dungeon and those 
+beings, items, places, or gen 
+eral knowledge regarding its 
+history, and so forth. If the 
+player asks a question such as 
+"Where is the closest set of 
+stairs down?" the stone will 
+grant this knowledge in the 
+form of a telepathic vision that 
+will remain in the character's 
+memory. However, if the player 
+becomes greedy and asks a 
+question such as "What are all 
+of the locations of every crea 
+ture on this level and how can 
+we easily kill them?" the char 
+acter will receive a short tele 
+pathic insinuation which 
+
+
+resembles "\bu must be kid 
+ding! " This counts as a question 
+answered. The stone will 
+answer but three questions in 
+all. If any character gets no 
+answer due to this limitation, an 
+ability will be given instead, as 
+detailed above. 
+
+19+ The character is much 
+respected by the stone, which 
+will allow him to ask ten "yes/ 
+no/maybe" questions that per 
+tain to the three levels of this 
+complex. The "maybe Tr (or 
+^you're getting warmer") 
+answers should be hints or sug 
+gestions toward another line of 
+questioning which might lead to 
+the answers sought. 
+
+Each character may gain one of the above 
+listed powers, information, visions, etc,, a 
+maximum of once per week. The stone will 
+not react to further pleas from those wanting 
+more. If the stone is threatened with may 
+
+
+hem, it will unleash as many feeblemind spells 
+as there are attackers. There is no saving 
+throw or protection against this effect. The 
+Purple Stone always wins initiative* no matter 
+what numbers or types of dexterity' and/or 
+magics are involved, for it is always aware of 
+the characters' thoughts and remains ulti 
+mately one step ahead of their actions. The 
+Purple Stone can sustain 32 hp of damage and 
+is AC 3. If destroyed or removed from this 
+room, it will immediately cease to function, 
+and all knowledge and/or powers gained 
+through its actions will be wiped dean, as if 
+they had never existed. 
+
+
+
+19 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ey to the thiRO Level 
+
+
+
+General Notes 
+
+The overall appearance of this level suggests 
+that the stonework here is relatively new (12 
+years old). The granite seems less worn by 
+time, and is better worked than on the pre 
+vious two dungeon levels. Corridor width 
+remains the standard 10 ft, while the ceiling 
+height is 15 ft, unless specified otherwise. AH 
+doors are 7 ft, wide, fashioned from 3 in. thick 
+oak bound with metal, and open inward unless 
+noted otherwise. 
+
+
+(and only those, for the gnolls are too scared 
+of the colchiin at Key #54 and too distrustful of 
+the magic-users at Key #60 to bother them). 
+
+There is a great quantity of dung, bones, 
+skulls, moldy furs and vegetable matter, and 
+an assortment of other broken, discarded and 
+unusable material located here. It will take the 
+characters 2-4 turns of digging to discover 
+that the articles here are all worthless. 
+
+50. Storage Room 
+
+
+48. Secret Room 
+
+A small podium is located at the center of this 
+room, and wooden benches are placed along 
+the north, northeast and south walls. Many 
+wooden pegs are driven into the walls above 
+these benches. 
+
+This is a secret congregation room for all 
+those who follow Tomorast's fake religion. 
+The pegs are obviously meant to hang articles 
+of clothing upon. On the podium is a scroll 
+fashioned from what appears to be reptile skin 
+of some species unknown to the characters. A 
+chant of some sort (written in the evil align 
+ment tongue) appears on its surface. If inter 
+preted, most of it merely offers a welcome to 
+those new "initiates" who follow the Cause of 
+the Elders. The ending seems to be the most 
+interesting: 
+
+"May those who don Masks of Chaos 
+THE ELDERS by names transcended 
+darken paths by which to guide us 
+lighting those that blaspheme others 
+that is known to us save one- 
+KER2IT! KERZIT!! KERZJTI!!" 
+
+49. GnollRoom 
+
+This room reeks of dung and decayed refuse. 
+Within is a large grouping of gnolls who readily 
+attack intruders. 
+
+The 16 gnolls (AC 5, MV 9", HD 2, hp 12 
+each, #AT 1, Dmg 2-7, leather armor, wooden 
+shields, flails) are more of TomorasCs ser 
+vants: they dig tunnels for him to increase the 
+dimensions of the stronghold* These crea 
+tures will attack until reduced 50% in number. 
+The remainder will then attempt an orderly 
+retreat out of the room, and exit out the 
+secret door to the north. Those who escape 
+will unite with the gnolls at Key #52 t where 
+they will ail wait to ambush the characters 
+near Keys #52 and #53. Whether the charac 
+ters fight them or not, the gnolls will alert 
+those in Keys #38a and #40 to the intrusion 
+
+
+This room is heaped with three boxes, four 
+chests, three kegs, twelve beams of wood, a 
+number of picks, shovels, hammers, axes, 
+crates, a variety of weapons, and dun- 
+geoneering equipment that includes sacks, 
+poles, backpacks, rope, and two block and 
+tackle sets. 
+
+The boxes and chests are empty except for 
+a few shards of wood and metal in each. The 
+twelve 15 ft. long beams are made of stained 
+black mahogany. Each is notched at the ends, 
+obviously intended to be used as a crossbeam 
+support for a room. The crates contain disas 
+sembled, sanded and crafted teakwood 
+church pews. The three kegs have the follow 
+ing contents: 
+
+1. 20 gallons of wood lacquer finish 
+
+2. 3 bolts of black doth, 30 ft. x 20 ft. 
+unrolled 
+
+3. Thousands of wooden pegs, bronze 
+bolts, and iron nails. 
+
+
+The remaining room contents include: 
+
+
+three picks 
+five axes 
+four bardiches 
+
+eight throwing 
+spears 
+
+two quarrel cases 
+four long daggers 
+three 10-foot 
+poles 
+
+
+seven shovels 
+three longswords 
+seven thrusting 
+spears 
+twelve light 
+crossbows 
+ninety-six quarrels 
+two small sacks 
+twelve large 
+backpacks 
+
+
+120 ft. of rope (3 coils) 
+two block and tackle sets with an extra 
+20 ft. of rope each 
+one normal lantern with no fuel 
+one hullseye lantern with a three hour 
+supply of fuel 
+
+
+51. Refuse Pit 
+
+This well is 8 ft, across and can be seen to dis 
+appear down and out of sight. A strong stench 
+is rising from below. 
+
+
+This 80 ft. deep pit was once used as a well, 
+but has been subsequently filled in and used as 
+a disposal pit for garbage and corpses. If a 
+character climbs down to the bottom of this 
+foul place, a tangle of garbage, dung, bones, 
+bodies, and other refuse may be found. Some 
+of the bodies were apparently sacrificed 1-3 
+days ago, and all their important organs are 
+missing. Those staying near the bottom of 
+this pit for more than three rounds may con 
+tract a disease {saving throw vs. poison to 
+avoid) which, over four days, will cause the 
+loss of all hair, a yellow skin discoloration* and 
+will necessitate two system shock rolls. If one 
+roll is failed, the character loses 1-4 points of 
+constitution permanently. A second failure 
+causes immediate death. Even if both of these 
+rolls are successful, the character will die 3-30 
+days later unless healed by a cure disease 
+spell 
+
+There is otherwise nothing of use or inter 
+est here. 
+
+
+52. Empty Room 
+
+This area seems unused. A smell of charred 
+meat and smoke issues from the northern cor 
+ridor 
+
+Tills is an ambush area that will be used by 
+the gnolls in Key #53. Half of the remaining 
+gnolls may be encountered here. 
+
+53. Red-Lit Chamber 
+
+This room is smoke-filled, and the dying 
+embers of a recent fire can be seen near a pile 
+of wood in the center. The smeU of burnt meat 
+permeates the air. Many tall, dark figures can 
+be seen about the interior 
+
+If these gnolls were alerted during the 
+intrusion of the characters at Key #49, they 
+will have an ambush ready at Key #53 with 
+half of their numbers* the other half remaining 
+alert and in reserve here. In this case, the 
+gnolls cannot be surprised, since they are fully 
+prepared. 
+
+The 16 gnolls (AC 5, MV 9\ HD 2* hp 12 
+each, #AT 1, Dmg 2-8, flails, leather armor, 
+and wooden square shields) have just finished 
+a feast of roast meat, They will immediately 
+attack, shouting wild and evil curses at the 
+party while so doing. As these gnolls have no 
+possible escape route, they will fight to the 
+bitter end, their morale unaffected by any 
+losses. Other than their weapons and a scrap 
+or two of unidentifiable meat, they hold noth 
+ing of worth. 
+
+
+20 
+
+
+
+54* Junk Room 
+
+This room is laden with all kinds of junk and 
+some useful-looking material, but before the 
+characters may view the contents of the room 
+fully, they are leapt upon and attacked by eight 
+silent blackish figures who have been hidden 
+unnoticed. 
+
+These 8 colchiln (see Appendix 2; AC 4 r 
+MV 10\ HD 6, hp 20, 24, 24, 27, 28, 30, 30, 
+32, #AT 2* Dmg 4-9 per claw, Str 18/75 but 
+with no bonus to hit, SA surprise % of the 
+time because of silent movement, SD 20% 
+magical resistance) are demonspawn, the 
+guardians of this room* Each monster is a 4 ft. 
+tall bipedal black humanoid with scaled skin, 
+lidless white bulbous eyes, and a mouth which 
+sports a serpent-like, forked red tongue but 
+no teeth. Its four-fingered hands have claws 
+with the hardness of iron. These creatures 
+will aggressively fight to the death, having a 
+limited mind and will that is controlled by a 
+more powerful creature (such as a demon or 
+like denizen of the Outer Planes of Exist 
+ence), 
+
+Upon inspection, this room seems to be a 
+littering ground for junk objects, much too 
+numerous for the characters to examine fully. 
+Some of the more interesting items are three 
+broken jugs (two wooden, one clay); three 
+small cushions (roughly 2 ft* square), which 
+will require one full round each to check; four 
+large (6 ft. x 4 ft. x 2 ft.) chests; one broken 
+wine cask; three rolls of cotton-like material 
+(see below); two broken swords (see below); 
+four glass bottles (see below); one 5 ft. x 5 ft. 
+x 3 ft. iron-banded crate (see below); a shat 
+tered spear; two sheaves of smudged and par 
+tially burnt papyrus: two pairs of moldy boots 
+{one boot missing a heel); a flattened, crushed 
+object which at one time could have been a 
+workable lantern; and a small pouch with 
+spoiled onions and garlic within it* 
+
+Cotton-like material: Hidden inside the 
+second roll are potions of cloud giant strength 
+and treasure finding. After the material is fully 
+described, note whether the characters 
+examine it immediately* If they do not, and 
+continue with other objects, there is a 25% 
+chance that the roll containing the potions will 
+be stepped on and the bottles broken. 
+
+Broken swords: 1) Shortsword; its blade 
+is broken, but imbedded in its hilt are seven 
+aquamarine gems (base value 100 gp). 2) 
+Longsword; this is broken at the lower grip 
+ring. Its hilt lies next to the blade, and appears 
+to be filigreed platinum, worth 557 gp. 
+
+
+Glass bottles: One is broken, two con 
+tain stagnant water, and one is stoppered and 
+has within it a dear but unstable liquid. When 
+unstoppered, this acidic substance starts to 
+bubble and fizz. Even if the bottle is immedi 
+ately re-stoppered, this liquid will cause an 
+explosion in a 10 ft. radius in 1-8 segments* 
+Those within this area take 140 points of 
+damage each (no saving throw). 
+
+Iron-banded crate: This crate ap 
+pears to contain nothing* A board on the inside 
+bottom is loose, and. if this is found by a suc 
+cessful check for secret doors and pressed 
+down upon, an unseen spring mechanism will 
+be activated, loosening one of the crate's cor 
+ners. If this comer is subsequently checked* a 
+4 ft* section will feel noticeably loose. Once 
+this piece is detached, a compartment is 
+revealed. Inside is the Sword of the Ebon 
+Flame (described in Appendix 1). 
+
+55. Torture Chamber 
+
+This appears to be a classic torture chamber. 
+Two hooded figures in black robes stand 
+before an older man who is strapped in a chair. 
+This ancient fellow appears to be battered and 
+bruised. 
+
+These torturers are Killers (A 6, AC 3 from 
+armor and 18 dexterity. MV 12 \ hp 24, 26, 
+#AT 1, Dmg 14 or 1-8, MS 47%. HS 37%, 
+HN 20%; CW 92%; other abilities average, 
+SA poison daggers: 2 throwing daggers each, 
+poisoned daggers in boots; longswords. 1 vial 
+each containing 3 applications of contact poi 
+son for daggers, SD studded leather armor 
+beneath robes). 
+
+These np-goods will flee if outnumbered by 
+2 to 1 or more. They will hide in any part of 
+this dungeon from where they can view the 
+characters leaving their chambers. They will 
+then follow, hoping for an opportunity to 
+ambush the party. When the party is weak 
+ened or otherwise occupied, these unsavory 
+fellows will backstab with poisoned daggers. 
+Even if the party leaves this room by a door 
+not watched by the assassins, it is 75% likely 
+that they will be spotted and followed in 14 
+turns, since the assassins are very familiar 
+with this dungeon level. It is 25% likely that 
+the assassins will maintain pursuit to the 
+upper levels- During such tracking and 
+planned ambush, it is unlikely that these two 
+will alert other inhabitants of this complex, 
+preferring to "go it alone" for professional as 
+well as egotistical reasons* 
+
+The room is lit by torches set in sconces, 
+inside and to the left of each door to this room, 
+
+
+All torches are lit. The inner part of the cham 
+ber has a table with a brazier with unlit coals 
+inside, a branding iron, and a hot poker set 
+upon it. Strapped across a chair beside the 
+table are leather thongs and a studded leather 
+glove. Many shackles and ropes are hanging 
+from the ceiling; a section of rope is sus 
+pended from a pulley. In the four odd-angled 
+comers are the cells, empty at this time. The 
+keys to these are kept out of reach on wall 
+pegs next to them* The old man strapped in 
+the chair will not speak, and is in a stupor. His 
+head and neck appear greatly bruised, and his 
+tongue is split; thus, he cannot talk even when 
+revived* 
+
+Unless this man is healed within one day's 
+time, he will die* A cure serious wounds spell 
+applied to his tongue will serve to mend it, so 
+that he may speak once again* He may not 
+communicate otherwise, since he is unskilled 
+and cannot read or write* If cured, he will 
+explain that he is a common tinkerer named 
+Arnelson, who was captured the week before 
+while traveling from his home village, Orz 
+(near Hardby), to the Free City of Grey hawk 
+to attend the monthly merchant's fest com 
+mon to that city. His cargo consisted only of 
+copper pots and pans and other linker's items, 
+and he cannot surmise why he was kidnapped 
+and tortured so, other than for the morbid 
+entertainment derived by his captors from 
+such an event* 
+
+Arnelson has learned such information as 
+was discussed by the assassins. He knows 
+that Tomorast's minions are few, and that the 
+mage relies on many hidden powers anistrat 
+agems to help secure those things he covets 
+or that be wishes removed from his sphere of 
+influence. It was mentioned by his torturers 
+that many of the wizard's servants have disap 
+peared without a trace. Rumors about these 
+events center around the idea that Tomorast 
+might be sacrificing his own followers to an 
+unnamed entity. He will reveal the direction to 
+this entity, either south or west* He says that 
+he learned this direction when he lay feigning 
+sleep one day while the assassins talked* 
+Arnelson will be very grateful when removed 
+from the dungeon. He will invite the adventur 
+ers to drop in anytime at his "Tiny Tinkers" 
+shop, located between the merchants' and 
+peasants' sections of Orz. 
+
+56. Robe Rooms 
+
+These rooms have many black robes hung 
+upon the walls. There are approximately 20 
+hooded robes per room, worn by followers of 
+Tomorast; they are usually donned just before 
+
+
+
+
+
+
+proceeding to those various areas which are 
+pre-ceremonial in nature (Keys #34 and 
+#4 2b). 
+
+57. Torchlight 
+
+Upon reaching this spot, characters see light 
+from torches (see Key #58), 
+
+58. Torches 
+
+This hallway is covered with thick black car 
+peting and illuminated by 24 sconce-held 
+torches. Twelve are set upon the east wall and 
+twelve upon the west wall, extending up the 
+corridor at 2 Hz ft. intervals, 
+
+59. Antechamber 
+
+This room contains a single torch that sheds 
+its light upon a checkered glass mosaic along 
+the northern wall. The light from the torches 
+at Key #58 reflects off the mosaic, illuminat 
+ing the room in a variegated mass of colors, 
+including light reds, dull oranges, off-whites, 
+stony greys, and soft blues. The floors are 
+covered with the same black carpet seen in 
+the hallway. Twenty large, black pillows are 
+spread everywhere. Burgundy-stained 
+
+
+wooden stands adorn the comers; a brass 
+incense burner is on each stand. 
+
+There is no one currently here, though if 
+the characters remain in this room for more 
+than three turns, one or more of the magic- 
+users from Key #60 will arrive. Roll ld6 and 
+consult the table below for those who arrive 
+and what the situation will be at that time: 
+
+1. One magic-user arrives (DM's choice); 
+normal surprise and reaction rolls apply. 
+
+2. One magic-user (DM's choice) arrives and 
+has seen the party from Key #58, He will cau 
+tiously investigate and enter the room with a 
+spell ready, thinking that they might he other 
+inhabitants of this complex. 
+
+3-5. Two to four of the magic-users (DIVFs 
+choice) have seen the party. They will attack 
+and may (50%) surprise the characters if the 
+party has not taken precautions . 
+
+6. All of the magic-users from Key #60 arrive 
+undetected outside the room. They will wait 
+for the party to exit the room and will try to 
+ambush them, surprising the party on a roll of 
+1-4 on ld6, 
+
+60. Magic-Users' Room 
+
+This room is dimly lit by several candles 
+located on a small table. Five men in magic- 
+
+
+user dress confront the characters as they 
+enter. 
+
+Hogh, Shryg* Blanesh, Dovrah, and Iksil 
+live a secluded and rigidly ascetic lifestyle 
+here. When and if intruded upon* they will 
+react accordingly, throwing such spells that 
+are proper for the situation, Hogh is the most 
+experienced of them all and has a fireball spell 
+aL his disposal. He has always wanted to use 
+this magnificent "fire bomb" (as he calls it) 
+when bragging to his companions* but has 
+never had the opportunity to do so. 
+
+When the characters open the door to this 
+room, Hogh will immediately (without another 
+thought) throw his fireball down the hallway 
+behind the characters, knowing that the blast 
+will conform to that area. Hogh will receive a 
++1 bonus to initiative to do this, for he has 
+studied and practiced this spell repeatedly, 
+However, because of this "rushing" of the 
+spell, Hogh may fail to complete lie verbal 
+and somatic parts of it correctly (roll ld4 to 
+determine a 10-40% chance of Mure, then 
+roll d% to determine whether the spell fails). 
+If failure is indicated, roll ld20 and then d% to 
+find the end result; if "Reverse Effect" is indi 
+cated, the fireball goes off behind Hogh, in the 
+room! 
+
+
+
+22 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dice 
+
+Roll 
+
+Spell 
+
+Fails 
+
+Reverse 
+
+Effect 
+
+1* 3 
+
+01-95 
+
+96-00 
+
+4* 6 
+
+01-85 
+
+86-00 
+
+7- 9 
+
+01-75 
+
+76-00 
+
+10-12 
+
+01-65 
+
+6600 
+
+13-15 
+
+01-50 
+
+51-00 
+
+16*20 
+
+01-30 
+
+31-00 
+
+
+Shryg, Blanesh, Dovrah, and IksU will not 
+be slow in reacting to the menace. They will 
+use every spell they carry to control, damage, 
+and kill the party If their numbers are reduced 
+to below 50% t they may attempt to flee or 
+surrender. However, if they have somehow 
+deduced that their assailants are of lawful 
+good alignment, they will fight to the death 
+rather than give in to "these swine! ,T 
+
+All of the magic-users are of high intelli 
+gence* with other ability scores average 
+unless noted otherwise. Each wears normal 
+robes (MV 12*) and has a normal dagger 
+(Dmg 1-4/1*3). 
+
+Hogh: MU 5, AC 8, hp 13, D 16. 
+
+Spells; 
+
+Level 1: jump, magic missile (x2), shield 
+Level 2; invisibility pyrotechnics 
+Level 3: Sreball 
+
+Shryg: MU 4, AC 9. hp 11, D 15, W 18 H 
+bonus). 
+
+Spells: 
+
+Level 1: charm person * friends, 
+protection from good 
+
+Level 2: levitate, web 
+Blanesh; MU 2, AC 9, hp6, D 15. 
+Spells: 
+
+Level 1: burning hands, magic missile 
+Dovrah: MU 2, AC 7, hp 5, D 17. 
+Spells: 
+
+Level 1: hold portal, push 
+Iksil: MU 1, AC 10, hp 3, D 11. 
+
+Spell: 
+
+Level 1: unseen servant 
+
+Contained here are five small beds of straw, 
+a small table, five wooden stools, and a coffer. 
+Inside the coffer are the collected possessions 
+of these magic-users, including 150 cp, 370 
+sp, 86 gp, two loaves of stale bread* dried 
+vegetables, a small cask of water, and five tin 
+drinking cups. 
+
+
+6i. The Chapel 
+
+This entire area is lit by lanterns suspended 
+from the ceiling at 20 ft. intervals. Pews are 
+arranged facing a raised pulpit and altar area. 
+There are four sections * each with five pews 
+that seat six per pew* for a total capacity of 
+120 people. The first three rows of pews look 
+more worn and used than the remainder, sug 
+gesting that the congregation is scanty at 
+best. 
+
+
+62. Pulpit/Altar Area 
+
+Stairs lead up to a pulpit where services for 
+the followers in this complex are held. To the 
+right and left of the pulpit are 3 ft. tall granite 
+statues depicting slaves bowing in submis 
+sion. Behind these is a granite altar. The altar 
+is 10 ft. long by 4 ft. wide, and has a silver 
+ewer and an obsidian ritual dagger upon it. 
+The ewer and altar are caked with dry blood, 
+while the dagger has been used often and 
+retains some stains. (If cleaned and sold, the 
+ewer will bring 220 gp but the dagger is only 
+worth 35 gp.) 
+
+
+63. Walkway 
+
+A 5 ft. high raised walkway leads south from 
+Key #62. This walkway ends in front of two 2 
+ft. tall statues standing against the southern 
+wall. 
+
+These statues are carved from a greenish 
+porphory and depict two wolf-headed men. 
+Each holds a whip shaped like an octopus ten 
+tacle. If the statues' whips are both pulled 
+down* a 6 ft. wide secret door located 
+between these statues will swing open, 
+revealing a 10 ft. wide passage heading south. 
+
+
+64. Marble 
+Fresco Room 
+
+The walls and floor here consist of carefully 
+inlaid 5 ft. x 5 ft. square slabs of black marble. 
+A large silver and black fresco covers the 
+entire eastern wall. Depicted here is a silver 
+masked human who is offering a bowl to an 
+amorphous black shape. This entity's full fea 
+tures cannot be deciphered due to a (deliber 
+ately?) poor rendering by the artist. This tall* 
+many-armed creature appears to be in a wait 
+ing pose. 
+
+
+65. Dressing Room 
+
+This appears to be a preparation room of 
+some sort. The table here bears several 
+objects. 
+
+This is where Tomorast readies himself to 
+visit Kerzit* the demon of the caverns. 
+Tomorasl always dons the vestments seen on 
+the table: a pure black undecorated robe, a 
+solid silver face mask (worth 450 gp) carved in 
+the likeness of a leering wolf-headed being 
+with black fangs, a long iron dagger *,3 , a solid 
+black onyx ring (worth 236 gp), and a pure sil 
+ver staff capped with an onyx skull (worth 
+1 * 212 gp). The weight of all these items slows 
+Tomorast's movement rate to 9*. During his 
+slow procession through these caverns, 
+Tomorast must chant a repetitive verse 
+(known to him alone) containing the demon's 
+name. As long as he continues this incanta 
+tion, the demon will remain at a safe distance 
+from him (10-30 ft.) and not attack. 
+
+His first task when he visits Kerzit is to ren 
+der a sacrifice to the demon, and then, still 
+chanting, proceed to Key #67b to recover the 
+Tb/ne of the Black Heart , as he has done many 
+times in the past. He then returns, still chant 
+ing, to Key #66, and reads this volume for 
+three days without rest. Then, resuming his 
+chant, he returns it to Key #67b. His stamina 
+wanes-if he makes a but a single mistake 
+(1% chance upon initial entry and 2-12% upon 
+his return), the demon will attack him with 
+great vigor. 
+
+66 . Study 
+
+A simple black curtain covers the entrance to 
+this room, which is painted dull black. Located 
+here are a small table, a chair, several candles, 
+a scattering of scrolls and small librams, a cask 
+of water* and a silver cup. 
+
+Tomorast uses this fasting and study area 
+after he has procured the Tome of the Black 
+Heart from the caverns (see Key #45a). 
+Sequestered here, he reads and studies this 
+volume for three days straight* partaking of 
+nothing but water from the cask. The silver 
+cup is the only valuable item here (worth 50 
+gp). The scrolls and tomes are aU discarded 
+materials from earlier studies. None make 
+sense or have any power or value. 
+
+67. Charnel Caverns 
+
+This area is rough-hewn and reeks of charnel 
+stenches. Bones, skulls, and some complete 
+skeletal remains are present. Rats mingle in 
+
+
+23 
+
+
+
+
+
+
+
+
+
+this ghoulish debris, but scamper off at the 
+slightest movement or sound. 
+
+Roll 1 dlO to determine the current where 
+abouts of Kerzit the Demon. (For complete 
+statistics and a description of this horrible 
+demon, refer to Appendix 2.) 
+
+Dice Roll Demon Location 
+
+1- 2 Key #67a 
+
+3- 4 Key #67b 
+
+5- 6 Key #67c 
+
+7- 8 Key #67d 
+
+9 10 Key #67e 
+
+If Kerzit is at Key #67a when the characters 
+arrive, it will immediately engage them in 
+combat (see details below). Otherwise, for 
+every 50 ft. the party moves within these cav 
+erns, roll ld6; if the result is 6* Kerzit finds 
+the party. They will become aware of the 
+demon s approach unless they are extremely 
+noisy, for an audible clicking sound resonates 
+within 20 ft. of the demon due to its taloned 
+paws on the stony floors. 
+
+Attack Routine: This demon relies on 
+overpowering its opponents through melee. It 
+is intelligent and, although protected from 
+
+
+spells to a certain extent, will always be cau 
+tious and wary of spell casters. Jf confronted 
+in force by fighters and spell casters at once, 
+Kerzit will gate lesser demons to combat 
+them. Kerzit always concentrates its efforts 
+upon the seemingly strongest adversary. If 
+met with too strong a battle, the demon will 
+teleport away, ending the encounter. 
+
+If the adventurers flee, Kerzit will pursue 
+them while they remain in its caverns. It will 
+not proceed beyond the rough-hewn area {see 
+map) unless Tomorast is killed or the book is 
+stolen. If Tomorast is killed, Kerzit will lose its 
+sole purpose for remaining on this plane, and 
+may {75%) teleport with the Tome to parts 
+unknown, or (25%) rampage through the dun 
+geon complex for one full day, killing all living 
+creatures it encounters, and then depart with 
+the book. If the Tome is stolen or destroyed. 
+Kerzit will be driven insane, having lost the 
+purpose for which it was summoned. In this 
+case, it will vent its fury upon the inhabitants 
+of these dungeon levels (although it will not 
+attack the iron golem) and then proceed to the 
+outdoors, heading toward (roD ld6): 1-3 * 
+Grevhawk Citv, 4-5 = Hardby* 6 = the Bright 
+Desert (see THE WORLD OF GREYHAWK(tm) 
+Fantasy Game Setting). 
+
+
+67B. Dead-End 
+
+Several bones are heaped about this dead-end 
+area. Rats scuttle into holes. A square iron 
+box, 18 in. x 18 in. x 18 in., lies upon a slab of 
+stone near the northwestern wall. 
+
+If Kerzit is not here, the characters may 
+immediately view the contents of this iron 
+box. Inside is a damp, leather-bound volume. 
+Its timeworn title is barely visible on the 
+cover: The Tome of the Black Heart 
+
+This book has no named author, and 
+although evilly wrought, it may be handled by 
+a member of any class or alignment without 
+fear of harm. A short history' of the Tome is 
+given in Appendix 1. Interested DMs may 
+expand on the information given, for many an 
+adventure could be garnered from its mere 
+perusal! 
+
+
+
+24 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ppenOix 
+
+v* 
+
+
+
+magic items 
+
+
+Dust of Dullness 
+
+This appears to be normal silty dust* One 
+large pinch will affect one man-sized creature; 
+a handful can affect 2-5 man-sized creatures. 
+It may be thrown up to 10 ft., cascading down 
+upon intended targets, When this dust is cast 
+upon any living creature with senses (sight, 
+taste, hearing, touch, smell, and/or a "sixth 
+sense 1 ' such as psionics or magic that pro 
+vides unusual sensory capabilities); Roll ld6* 
+and consult the table below. The number 
+railed affects all senses with a a number equal 
+to or lower than the result. (Example : A roll of 
+3 would affect Sight, Taste, and Hearing.) 
+Consult the descriptions that follow for the full 
+effect. 
+
+1 Sight 
+
+2 Taste 
+
+3 Hearing 
+
+4 Touch 
+
+5 Smell 
+
+6 "Sixth Sense" 
+
+Sight: Vision is blurred for 1-6 hours. Roll 
+ldlQ to determine the severity; 
+
+1-3 -3 penalty to hit 
+
+4-3 -5 penalty to hit and penalty to 
+
+movement rate; attempts at faster 
+movement result in a stumble and 
+fall, for no damage. 
+
+9-0 Blinded 
+
+Taste: The victim loses all ability to taste 
+things for 1-6 hours. 
+
+Hearing: The victim is deaf for 1-6 turns; 
+a -1 penalty applies to ail initiative rolls, and 
+the victim suffers a 50% chance of being sur 
+prised in situations where sound (footsteps, 
+howling, etc.) is the primary factor. Unless 
+some non-aura] signaling method is used, the 
+victim will not react to unseen situations until 
+after a 1-4 segment delay (or until physically 
+warned by other characters). 
+
+Touch: The victim cannot feel anything for 
+1-6 turns, including being touched, burned* 
+frozen, etc. A penalty of -3* applies to the 
+movement rate* and any attempt at running 
+results in a stumble and fall (for no damage) 
+within one round. Dexterity is temporarily 
+penalized by -2 points. When holding objects 
+in hand, there is a 30% chance per object held 
+of dropping it, checked each turn and when 
+ever an item is used. 
+
+Smell: The victim loses all olfactory facul 
+ties for 1-6 turns, and cannot smell anything (a 
+boon when investigating garbage heaps!). 
+
+
+Sixth Senses: The victim may not 
+receive* transmit* use* or interpret psychic, 
+magical, or psionic powers for 1-6 turns. AH 
+those functions related to dreams, intuitions* 
+"hunches" extra sensory perceptions, and/or 
+magical spells or items that would produce, 
+heighten, or elaborate upon these areas are 
+"wiped clean" from the victim's mind. No tel 
+epathic or empathie communication is possi 
+ble. Spells affected are listed below. Magical 
+items that resemble these spells are treated 
+in the same way, and their use is not possible. 
+
+Spells affected/negated: 
+
+Cleric: All detect spells, find traps. know 
+alignment, locate object, diwnaLion, 
+commune , true seeing * find the path , 
+and stone tefi, 
+
+Druid: All detect spells* locate animals, 
+locate plants, and commune with nat 
+ure. 
+
+Magic-user: All detect spells* identify', locate 
+object, dairaudience, clairvoy 
+ance, ESP, suggestion, wizard 
+eye, contact other plane, teleki 
+nesis, legend lore, and mind 
+blank. 
+
+Illusionist: All detect spells, non-detection, 
+s ugges tion , ma ss s ugges tion . 
+true sight * and vision. 
+
+Potion of Controlling 
+Damage 
+
+This potion is usable by all classes. When it is 
+imbibed, the effects are realized immediately. 
+Damage to the user is lessened by 2 points 
+per hit die of any damage dealt after drinking 
+the potion, including damage from spells* 
+weapons, falling, etc. When damage caused 
+by combat is given only as "points *" and not 
+"hit dice of damage" the potion negates one- 
+third of the total. The duration is 3-24 rounds. 
+
+Sword of the Ebon 
+Flame 
+
+This longsword +2 f *4 vs. lawful good align 
+ment, is evil, usable by all evil alignments. It is 
+not intelligent, although it can communicate 
+through empathy. It has no ego at all. The 
+sword's face and edge have many small black 
+flickering flames upon it, though these do not 
+radiate warmth. When used in combat, the 
+sword bursts forth in black flame, which runs 
+
+
+from pommel to tip but does not affect the 
+wielder in any way. Any victim hit by the 
+sword must make a saving throw vs, wands or 
+be burned for 1-10 points of damage in addi 
+tion to normai sword damage plus magic and 
+strength bonuses* if any. A person burned by 
+the sword will catch fire, taking 14 more 
+points per round until the fire is extinguished. 
+The burning victim makes another saving 
+throw each round; if the save is successful, 
+the flame is extinguished. The ebon flame 
+cannot be doused by any non-magical means, 
+including water. 
+
+When unsheathed and held* this weapon 
+gives the wielder mfrarision with a 9' range. 
+The wielder is also harder to surprise* and 
+receives ldB for surprise checks instead of 
+the usual ld6. 
+
+Each Sword of the Ebon Flame comes com 
+plete with a curse -determined individually by 
+the DM. Normally, the curse of the sword 
+consists of penalties "to hit" when fighting 
+some type of creature or alignment. For 
+example* one sword might be -3 against lawful 
+evil creatures while another might be -3 
+against demons. Creatures named in the 
+curse of the sword will become instantly 
+aware of it when they come within 60 ft. of it! 
+There is a base 50% chance that these beings 
+will attack the sword wielder because of this 
+weakness, even if they had been neutrally dis 
+posed to begin with. 
+
+In addition to the above limitation, the 
+sword inflicts 1-4 fewer points of damage than 
+normal against water- and fire-type creatures, 
+such as serpents, mermen, elemental, fish, 
+dragons, and salamanders. All fires started by 
+the sword will burn for only one round and 
+then will automatically extinguish. 
+
+It is thought that several varieties of these 
+swords were made by some great artificer for all 
+alignments. If researched by the player charac 
+ters* the history surrounding their placement in 
+the Flanaess will be scarce and unreliable, indi 
+cating instead that the swords might be more 
+likely found in the outer realms. 
+
+Tome of the Black 
+Heart 
+
+This book was written by several evil magi* 
+whose time of existence upon Oerth is not 
+recorded* save that they dwelt near the Valley 
+of the Mage, The Tome was lost during those 
+years when the Mage of the \&lley brought 
+down a great ruin upon these evil ones* The 
+Tome slipped from the ways of dread for a 
+time* only to be located by Tomorast in a curio 
+
+
+25 
+
+
+
+
+
+
+shop in the City of Greyhawk! The legends do 
+not tell how it came to be there, but it was 
+truly lucky for Tomorast that he found it, for it 
+contained what he had always sought: power 
+and arcane knowledge to procure still more 
+power. He has read extensively from this 
+book, although he is forced to offer a sacrifice 
+to Kerzit every time he peruses its worm- 
+eaten pages. 
+
+Through the use of the Tome and his own 
+baleful spells, Tomorast has created and 
+brought to life many of the objects that reside 
+on the dungeon levels beneath Maure Castle. 
+His greatest artificing was performed, using 
+the knowledge imparted by the Tome, in the 
+creation of the iron golem (Key #19). 
+Through the use of the Tome, he has sum 
+moned many evil and knowledgeable spirits to 
+guide him in acquiring knowledge of the Outer 
+Planes of Existence, and how to traverse this 
+realm while remaining in his physical body. 
+Tomorast has yet to use aU of the Tome's 
+powers and secrets, for his servants have of 
+late become suspicious of him and his so- 
+called "service" to the elder gods. Thus, 
+Tomorast has had to stop sacrificing his fol 
+lowers, and now resorts to using hired assas 
+sins to find offerings for Kerzit. 
+
+
+The Powers of the Tome 
+
+The Tome of the Black Heart is written in 
+magical script of the chaotic evil alignment 
+tongue, and is comprised of many and varied 
+powers and summonings, Each area covered 
+is listed hereafter. 
+
+Pages 1-12: These pages describe the 
+summoning of the guardian demon Kerzit. and 
+those words of power that may dismiss it. 
+This summoning requires an evil magic-user 
+of the 12th level or higher, 10,000 gp in 
+crushed black opals, a sacrifice, and two 
+weeks of preparation and meditation. Appro 
+priate vestments must be acquired and worn, 
+and the words, "Kerzit the Mighty. Kerzit the 
+Strong, Kerzit the Guardian, Kerzit! Kerzit!! 
+Kerzit!!!" must be chanted. This chant pro 
+tects the summoner from Kerzit T s attack. 
+Every time the Tome is used, a sacrifice must 
+be offered to the guardian demon, and the 
+precise ritual must be repeated. 
+
+Pages 13-50: This is the history of the 
+Tome as recorded by its unknown authors, 
+Tbmorast's scrawl can be identified, as he 
+keeps updating the Tome as he learns from it. 
+
+Pages 51-120: These pages describe the 
+making of a special iron golem. The crafting of 
+
+
+this golem requires 6 months of time, 150,000 
+gp. and the following: 
+
+1. A fireball spell must be cast on this 
+creature once complete. This imparts its 
+fiery breath* 
+
+2. A levitate spell must be cast on the 
+creature, making this form of movement 
+possible, The spell must be cast while the 
+golem is still inanimate. 
+
+The Whip of Cockatrice Feathers and the 
+poisoned crystal-and-iron sw T ord are both 
+optional. DMs should decide upon the avail 
+ability of these items, perhaps sending those 
+characters desiring them on yet another fan 
+tastic adventure! 
+
+Pages 121-200: These pages de 
+scribe the making of an item known as the 
+Dagger Obelisk. This requires a magic-user of 
+the 12th or higher level, 3 months of prepara 
+tion time and magical investigation, and a 
+30.000 gp sacrifice to the lesser gods 
+Fharlanghn (horizons, distance, travel) and 
+Celestian (stars, space, wanderers). The fol 
+lowing elements are also needed: 
+
+3 pounds of hornblende* 
+
+A teleport spell, cast by a 12th or higher 
+level magic-user. 
+
+An extension III spell . 
+
+A plant growth spell. 
+
+One 95%-fIawless sapphire. 
+
+The hornblende must be shaped into a nor 
+mal dagger by a lapidary. The spells are then 
+cast into the dagger in this order: plant 
+growth , teleport, and extension HI. The sap 
+phire is finally set in the pommel to boost the 
+dagger's magical powers (and what a boost 
+this will be!). The sacrifice to Fharlanghn and 
+Celestian may be made at any time, but must 
+be performed at a church of those who profess 
+neutral alignment. 
+
+The last passage in the Tome about this dag 
+ger instructs the creator in its use. Once hav 
+ing created and enchanted the dagger, the 
+magic-user must thrust it into the ground up 
+to its hilt. This done, a rumbling will be heard 
+and the ground will begin to part, making way 
+for a green, spiraling, 3Q ft. x 8 ft, plant stalk 
+that will push up out of the ground and stop in 
+front of the character. A grotto near the from 
+of this stalk will appear to be a passageway. 
+This is, in fact, a transportation device to the 
+Lost City of the Elders. 
+
+Pages 201-268: These pages cover sev 
+eral names of spirits that can provide informa 
+
+
+tion about the other Planes of Existence, if 
+conjured or summoned: 
+
+RAR-TUM, Spirit of the Elemental Planes 
+KESH-GURH, Spirit of the Para-Elements I 
+Planes 
+
+SHA-DUAN, Spirit of the Plane of Shadow 
+MEZZIK, Spirit of the Demi-Plane of Knowl 
+edge Concerning the 666 Layers of the Abyss 
+and the Layers of Tarterus. 
+
+[This last entity will only be summonable 50% 
+of the time. If successfully gated, it will appear 
+as a Type I demon with bright red and light 
+green colorings (feathers). It is actually an 
+imp with a minor shape change ability, which 
+allows it to appear as and fight as this demon 
+for six turns only. This creature will lie to 
+those of any alignment save chaotic evil, and 
+will leave of its own volition after only 3-12 
+rounds spent on the Prime Material Plane.] 
+
+GENERAL NOTES: To question these spir 
+its, the character must first gate them in by 
+spell or magic item. They may be asked direct 
+questions, but will usually refuse to converse 
+unless threatened by spiritwrack or similar 
+magical means. Under such pressure, they 
+will inform the querist of al they know con 
+cerning the particular plane from which they 
+were summoned (20-80% veracity on all 
+answers if the questions are detailed enough). 
+They will answer as many questions as the 
+querist can pose during a 24 hour period* 
+After this time they merely "pop" out of this 
+plane back to where they came from* cursing 
+their summoner with many vile words and 
+derisive comments. 
+
+DESCRIPTION: Rar-tum appears as an 
+admixture of fire, air, water and earth. Kesh- 
+gurh appears as flowing dust particles filled 
+with ice, heat and vapor. Sha-duan appears as 
+a 10 ft, high shadow, and talks in low sonorous 
+tones when addressing its summoner. 
+
+
+
+
+
+
+ppendix2: newmonsteRs 
+
+
+Demons 
+
+Kerzit the Guardian 
+(Major Demon) 
+
+FREQUENCY: \fery Rare 
+NO. APPEARING: 1 
+ARMOR CLASS: ~2 
+MOVE: 12" 
+
+HIT DICE: 15 (112 hit points) 
+
+% IN LAIR: 65% 
+
+TREASURE TYPE: Speciai 
+NO. OF ATTACKS: 4*1 
+DAMAGE/ATTACK: 1-10/M0/2-12/2-12 
+? 2-24 
+
+SPECIAL ATTACKS: Poisonous bite 
+MAGIC RESISTANCE: Immunities 
+(see below) 
+
+INTELLIGENCE: High 
+ALIGNMENT: Chaotic Evil 
+SIZE: L (10 ft. tall) 
+
+PSIONIC ABILITY: Nil 
+Attack/Defense Modes: Nil 
+LEVEL/XP VALUE: X/13 r 800 * 20/hp 
+(16,040) 
+
+Kerzit is a special guardian, especially created 
+by higher demons to serve the cause of chaos 
+on the Prime Material Plane. It is thus most 
+often encountered there, guarding some item 
+or area of import. 
+
+Kerzit is currently the guardian demon of 
+the Tome of the Black Heart, summoned forth 
+from that volume by Tomorast, as a necessary 
+prelude for the use of powers and other 
+arcane knowledge contained within that 
+leather-bound manual of black lore and 
+demon-begotten magic* Kerzit maintains a 
+watchful vigil over this tome, and, in return 
+for this service, accepts sacrifices from 
+Tomorast 
+
+
+Kerzit may attack up to 5 times per round. 
+Its tentacles (IdlO each) and saw-like arms 
+(ld!2 each) account for the majority of its 
+melee capability. If both tentacles strike the 
+same victim in a single round, the victim is 
+dragged to Kerzifs waiting jaws for an addi 
+tional bite (normal "to hit" roll) of 2-24 points 
+plus deadly poison {-3 penalty to saving 
+throw), 
+
+Kerzit is immune to ail Ist-3rd level magic- 
+user and illusionist spells, 1st and 2nd level 
+druid spells, and 1st level cleric spells. At will, 
+it may create darkness 10* radius, use detect 
+magic , read magic, detect invisibility, and tele 
+kinesis (maximum 7,000 gp weight) spells 
+once per round. It can gate (70% success 
+fully) a Type II (40%) or Type HI (60%) 
+demon, though it may only gate two demons 
+of one type per day, as its abilities while on the 
+Prime Materia] Plane are somewhat limited. 
+
+
+Description 
+
+Kerzit stands 10 ft. tall and 4 ft, wide at the 
+shoulders. Its overly large wolfs head sports 
+two menacing, silver eyes, and its jaws open 
+wide to reveal ebon black teeth that drip a 
+greyish fluid. The entire body is covered with 
+matted black fur, and its upper appendages 
+resemble 6 ft. long octopus tentacles, located 
+upon its torso where a human's arms might 
+be. Its lower torso has a pair of saw-like 
+appendages, chitinous to a degree, but the 
+black fur common to ail parts of this demon's 
+body (except the tentacles) is present here 
+also, Kerzit's feet resemble 2 ft. long wolfs 
+paws, with polished black six-inch long talons. 
+These talons emit an audible clicking sound 
+when the demon walks on a hard surface, 
+which may give a warning of this horrific mon 
+ster's approach to those who might be listen 
+ing, negating surprise by the creature. 
+
+
+
+27 
+
+
+
+
+
+
+
+Coichiln 
+
+
+
+FREQUENCY: Rare (on the Prime 
+Material Plane) 
+
+NO. APPEARING: 246 
+ARMOR CLASS: 4 
+MOVE: 10 # 
+
+HIT DICE: 4-7 
+% IN LAIR: 60% 
+
+TREASURE TYPE: F 
+NO, OF ATTACKS: 2 
+DAMAGE/ATTACK: 4-9Z4-9 
+(plus strength bonus) 
+
+SPECIAL ATTACKS: Nil 
+SPECIAL DEFENSE: See below 
+MAGIC RESISTANCE: 20% 
+INTELLIGENCE: Low 
+ALIGNMENT: Neutral Evil 
+SIZE: S (4 ft.) 
+
+PSIONIC ABILITY: Nil 
+Attack/Defense Modes: Nil/nil 
+LEVEL/XP VALUE: (4 HD) ID/130 
+* 5/hp; (7 HD) V/500 ? 10/hp 
+
+The Colcliiln are a most uncommon demon 
+spawn, set upon this world to assist high-level 
+evil beings (demons or similar creatures). 
+They may be found wherever major concen 
+trations of evil are located, but are most often 
+found underground in mountainous caves that 
+extend into the inky depths of the earth, lower 
+level dungeons where abominable rites are 
+practiced and homed non-human deities are 
+
+
+worshipped. The coichiln are possibly created 
+from larvae, but the complete process is 
+unknown. Their mission is to serve and fol 
+low. They do this very well, for even if they 
+are incapable of imaginative thought, they 
+usually have a good memory and can follow 
+orders explicitly. They are thus often incorpo 
+rated into legions to fight subterranean wars 
+to which those "evil ones of the pits and cav 
+erns' 1 are accustomed. 
+
+The coichiln attack with their iron-hard 
+claws, but have no teeth. They usually (55%) 
+move silently, and when set for ambush, sur 
+prise their victims two-thirds of the time. 
+
+Their strengths range from 18/01 to 18/00, 
+but the creatures gain only the *3, +4. +5 T or +6 
+damage bonus (add to the base ld6+3 points of 
+damage) and not the corresponding "to hit" 
+bonus, as they are rather uncoordinated. 
+However, their appearance provides no indi 
+cation of their great strength. They never 
+check morale, and will impassively fight to the 
+death in all situations. 
+
+Description 
+
+A coichiln is black in color, bipedal, with scale 
+like skin and Mess, bulbous white eyes. Its 
+mouth sports no teeth, but its red forked ser 
+pent's tongue is used to sense things. Its four 
+fingered hands have iron-hard claws, 
+adamantite-hard in larger varieties of coichiln. 
+
+
+Hetfish 
+
+
+
+FREQUENCY: Uncommon 
+NO. APPEARING: 26-70 
+ARMOR CLASS: 5 
+HIT DICE: 1-3 
+% IN LAIR: 70% 
+
+TREASURE TYPE: Q (x3) 
+
+NO. OF ATTACKS: 1 
+DAMAGE/ATTACK: 1 per fish 
+SPECIAL ATTACKS: See below 
+SPECIAL DEFENSES: Nil 
+MAGIC RESISTANCE: Standard 
+INTELLIGENCE: Low 
+ALIGNMENT: Neutral 
+SIZE: S (1-3 ft, long) 
+
+PSIONIC ABILITY: Nil 
+
+Attack/Defense Modes: Nil/nil 
+LEVEL/XP VALUE: (1 HD) 1/14 + 1/hp: 
+
+(3 HD) n/50 - 3/hp 
+
+Hetfish are found in both fresh and salt water, 
+and in any dime from arctic to boiling hot 
+springs. These fish have super-heated bodies 
+(350 degrees Fahrenheit), which can actually 
+bum objects touched. Their sizes range from 
+1-3 ft. long, and each attacks as a 1-3 hit die 
+monster. Length determines attack probabil 
+ity, Their great maneuverability and speed in 
+the water account for their armor class rating 
+and attack capability. These fish are attracted 
+by motion in the water. When their "den" is 
+disturbed, they swarm en masse to meet the 
+intruder. Their mode of attack is to bump or 
+ram their intended targets, inflicting 1 point of 
+heat damage per touch per fish. Hetfish have 
+been known to continue these swarming 
+attacks indefinitely. A victim may be "boiled 
+alive" due to the proximity of great numbers 
+of these fish heating the water nearby. Hetfish 
+have been known to ram small ships and other 
+waterborne vessels, Wx>den ships sustain 1 
+point of structural damage per 30 small (1 ft.), 
+20 medium (2 ft.) or 10 large (3 ft.) hetfish 
+attacking. 
+
+These fish have been known to bring a good 
+price (10-100 gp each, depending on their size 
+and condition) when captured alive and sold to 
+men of wisdom (sages, alchemists, certain 
+priests and mages, et a/J, as these scholars 
+have yet to learn about this fish's strange 
+properties, which resemble the fire-breathing 
+dragon or the remorhaz* 
+
+Description 
+
+General coloring of the hetfish is silver and 
+orange. Many small bumps and unnatural 
+looking skin boils can be seen covering their 
+bodies. They otherwise resemble pirahna, 
+though they have no teeth of note. 
+
+
+28 
+
+
+
+
+
+
+
+
+
+
+have become attached to their victims. These 
+shadows are detectable only 10% of the time. 
+During these periods they are seen as undu 
+lating, inky blobs, with amorphous twistings 
+to their outline which make them appear to 
+grow or shrink (between 4 ft. and 6 ft.) as 
+they move. 
+
+
+
+Slow Shadow 
+
+
+
+FREQUENCY: Rare 
+NO. APPEARING: 4-16 
+ARMOR CLASS: 8 
+MOVE: 12* 
+
+HIT DICE: 4 
+TREASURE TYPE: P, Y 
+NO. OF ATTACKS: 1 
+DAMAGE/ATTACK: 14 
+SPECIAL ATTACKS: Slow 
+SPECIAL DEFENSES: *2 or better 
+weapon to hit 
+
+MAGIC RESISTANCE: See below 
+INTELLIGENCE: Low 
+ALIGNMENT: Chaotic Evil 
+SIZE: M (4 6 ft. tall) 
+
+PSIONIC ABILITY: Nil 
+Attack Defense Modes: Nil/nil 
+LEVEL/X.P. VALUE: JV/15Q * 4/hp 
+
+Slow shadows are related to their cousins, the 
+shadows. It is thought by those who study 
+arcane fauna and undead creatures such as 
+these that shadows (and particularly slow 
+shadows) come from the Negative Material 
+Plane. Some place their origin in Shadowland, 
+but this Is not substantiated. 
+
+Slow shadows typically attack by surprise* 
+maneuvering from behind their intended prey. 
+They attach themselves to the unsuspecting 
+victims, causing an immediate 1-4 points of 
+cold damage. The victim becomes slowed (as 
+the spell) automatically, with no saving throw, 
+For every round that the slow shadow 7 
+remains attached, 14 points of additional cold 
+damage is inflicted. Those killed by these 
+creatures are transformed into slow shadows, 
+but these usually remain within 40 ft, of where 
+they were killed. This, of course, suggests 
+that wandering slow shadows are created* or 
+summoned, and those that stay within one 
+area are past victims. In any case, these crea 
+tures are dangerous. They are not affected by 
+cold* lightning* hold, or charm attacks. A 
+haste spell directed at them will drive them 
+away* but has no effect upon them once they 
+
+
+FREQUENCY: Rare 
+NO. APPEARING: 140 
+ARMOR CLASS: 5 
+MOVE: 18" 
+
+HIT DICE: 5-8 
+% IN LAIR: 30% 
+
+TREASURE TYPE: C 
+NO + OF ATTACKS: 1 
+DAMAGE/ATTACK: 142 
+SPECIAL ATTACKS: See below 
+SPECIAL DEFENSES: Nil 
+MAGIC RESISTANCE: Standard 
+INTELLIGENCE: Low 
+ALIGNMENT: Neutral 
+SIZE: L (6-9 ft, long) 
+
+PSIONIC ABILITY: Nil 
+Attack/Defense Modes: Nil/nil 
+LEVEL/XP VALUE: (5 HD) IV/130 
+* 5/hp; (8 HD) Vl/550 - 10/hp 
+
+The Tyrg is a cross between a dog (in watch 
+fulness) and a tiger (in stalking ability). These 
+creatures are often found in the mountains, 
+but not too far from woods (wherein they pre 
+fer to hunt). When they engage prey in melee, 
+
+
+they emit fierce howls which will serve to 
+mildly stun the victims engaged (-1 penalty to 
+initiative* -2 penalty to hit) for the following 
+three rounds. The effects of this stunning are 
+not cumulative, and only after the first three 
+rounds of stunning have worn off can those 
+affected be stunned once again. After howl 
+ing* a tyrg attacks. Tyrgs can move silently 
+75% of the time, and are surprised only on a 
+roll of 1 on ld6. 
+
+If encountered in their lair, there will be 14 
+young present (20-70% grown). These will 
+flght with the adults to preserve the lair. All 
+others in the lair will be adults, the majority 
+male* though the sexes cannot be told apart 
+because of a lack of general knowledge 
+regarding these hounds. 
+
+Description 
+
+A tyrg stands 3 ft. tall at the shoulder and var 
+ies in length, as noted above. Its overall color 
+ing is white with grey* black, and tan 
+splotches. Its sleek stance while hunting is 
+reminiscent of a cat, but its powerful jaws* 
+containing many fangs* demonstrate its rela 
+tion to the world of dogs. 
+
+
+29 
+
+
+
+
+
+
+
+
+
+
+ppendix 
+
+
+
+PRe-qeneRAteP 
+
+chaRacteRS 
+
+
+General Note 
+
+Standard dungeon adventuring equipment 
+should be assumed for all characters. Players 
+may select whatever they wish within the nor 
+mal limits of the game. 
+
+
+Mordenkainen the 
+Mage (Wizard, M-U12) 
+
+
+CLASS: Magic-User 
+LEVEL: 12 
+ARMOR CLASS: 1 
+Magic Adjustment: +6 
+Dexterity Adjustment: *3 
+MOVEMENT: 12" 
+
+HIT POINTS: 52 
+NO. OF ATTACKS: 2 (Dagger) 
+DAMAGE/ATTACK: By weapon 
+Dagger *1: 2-5/24 
+ALIGNMENT: Neutral 
+DEITY: Boccob 
+
+
+STRENGTH: 10 
+INTELLIGENCE: 18 
+WISDOM: 15 
+DEXTERITY: 17 
+CONSTITUTION: 17 
+CHARISMA: 18 
+
+
+Mordenkainen appears to be a middle-aged 
+man bedecked in simple grey robes, perhaps 
+resembling a merchant. His face suggests age 
+beyond his normal appearance, as if wisdom 
+were a part of his charisma, thrusting out 
+upon those that stand near him almost as 
+much as do his bushy eyebrows. His hair is 
+black and cropped, his beard black with silver 
+streaks and well waxed. Mordenkainen has 
+come well-prepared with many items, know 
+ing full well that anything might lie beyond the 
+Unopenable Doors, 
+
+
+Armor/ 
+
+Clothes 
+
+In Hand 
+
+In Side 
+Pouch 
+
+In Portable 
+
+Hole 
+
+In Belt 
+Pouches 
+
+
+Nil/Norma] Dress 
+Dagger *1 
+
+Bracers of Defense AC 4 
+
+Wind of Fear 
+Scroll of the Efreeti 
+Silver Key of Portals 
+
+Carpet of Flying 
+Crystal Ball 
+
+Components for Spell 
+Carried 
+
+
+Spells All of Levels 1-6 
+
+Known 
+
+
+Carpet of Flying: This is of the largest vari 
+ety, and holds four while flying. 
+
+Scroll of the Efreeti: This scroll appears 
+wrought from some alien hide (actually a 
+lesser demon's skin). Upon it are many flam 
+ing runes and sigils. In the possession of a 
+magic-user, this scroll acts as a ring of Ere 
+resistance. If read, an efreeti (MM, pg. 37) 
+will appear immediately, summoned from the 
+Elemental Plane of Fire. It will serve its 
+"master" for 2-5 hours and then leave; the 
+scroll is then useless. 
+
+Silver Key of Portals : This item appears to 
+be a regular-sized silver skeleton key (silver 
+worth equals33 gpL It is. in fact, a minor arti 
+fact that was found in an abandoned chapel to 
+Dalt, the lesser god of portals and enclosures* 
+(It is conjectured by Mordenkainen that this 
+forgotten god led him to find the Key, for he 
+has learned that Dalt is of a chaotic good align 
+ment and gives generously to those he 
+favors)* When the key is touched to any por 
+tal, be it magical or other, the portal will slowly 
+swing open. This key may be used to open 
+four portals per day, and no more . 
+
+
+Spells Carried 
+
+Level I: Charm Person, Jump, Magic Mis 
+sile, Protection from Evil 
+
+Level 2: Continual Light, Locate Object> Ray 
+of Enfeeblement, Ifeh 
+
+Level 3: Dispel Magic ( Fireball, Haste, Slow 
+
+Level 4: Fire Shield, fee Storm (x2) y Wizard 
+Eye 
+
+Level 5: Monster Summoning HI , Teleport 
+(x2), Wall of Force 
+
+Level 6: Globe of Invulnerability 
+
+•Mordenkainen and his compatriots are unu 
+sual characters, since they come from a cam 
+paign of very long standing. As a result, they 
+sometimes have abilities (such as knowledge 
+of all spells at levels 1-6) that are not nor 
+mally possible for ordinary AD&D* charac 
+ters. 
+
+
+
+
+
+
+
+
+Yrag the Lord 
+(Lord, F 9) 
+
+CLASS: Fighter 
+LEVEL: 9 
+ARMOR CLASS: -4 
+Magic Adjustment: *4 
+Dexterity Adjustment: -2 
+MOVEMENT: 12' 
+
+HIT POINTS: 81 
+NO. OF ATTACKS: 3/2 
+DAMAGE/ATTACK: By weapon 
+Longs word *1, Flame Tongue: 
+2-9/243 
+
+ALIGNMENT: Neutral 
+DEITY: Zagyg 
+
+STRENGTH: 18/46 
+INTELLIGENCE: 14 
+WISDOM: 14 
+DEXTERITY: 16 
+CONSTITUTION: 16 
+CHARISMA: 17 
+
+
+
+Yrag appears as a stout and hardy man, flaxen 
+haired, and normally dressed in grey and 
+green robes* He stands over 6 ft- tall and is 
+very broad-shouldered. Yrag is ever watchful 
+of things about him, and usually prefers no 
+new undertakings unless these are shared 
+with those persons he knows and trusts* Yrag 
+has come with many items: 
+
+
+Armor/ 
+
+Clothes 
+
+In Hand 
+
+In Side 
+
+Pouch 
+
+Backpack 
+
+
+Plate Mail *2 
+Shield *2 
+
+Boots of Feather Falling 
+
+Longsword 4, Flame Tongue 
+Ring of Invisibility 
+
+Scroll of Protection 
+from Elementals (ail) 
+
+Potion of Storm Giant 
+Strength 
+
+
+Boots of Feather Falling: Treat these boots 
+as an unlimited duration feather fall spell* 
+
+
+Bigby the Magic-User 
+(Necromancer, M-U io) 
+
+CLASS: Magic-User 
+LEVEL: 10 
+ARMOR CLASS: 1 
+Magic Adjustment: *3 
+Dexterity Adjustment: *3 
+MOVEMENT: 12" 
+
+HIT POINTS: 39 
+NO. OF ATTACKS: 2 (Dagger) 
+DAMAGE/ATTACK: By weapon 
+Dagger +2: 3-6/3-5 
+ALIGNMENT: Neutral 
+DEITIES: Boccob & Zagyg 
+
+STRENGTH: 8 
+INTELLIGENCE: 17 
+WISDOM: 14 
+DEXTERITY: 17 
+CONSTITUTION: 15 
+CHARISMA: 12 
+
+Bigby's attire is unassuming: a simple hooded 
+dark grey robe* When this hood is thrown 
+back from the usual covering of his face (for 
+Bigby is a somewhat retiring and secretive 
+man), his lean but healthy features will be 
+exposed: studious brown eyes* light brown 
+hair, and a laugh that precedes jokes on almost 
+a forced level* To those who do not know him 
+
+
+well, he might be viewed as oddly nervous (or 
+paranoid), but this is nowhere near true. The 
+mark to which Bigby adheres is simply "Cau 
+tion " Bigby has brought along a few of his 
+accumulated magic items. 
+
+
+Armor/ 
+
+Clothes 
+
+In Hand 
+
+
+Side Pouch 
+
+
+Nil/Normal Dress 
+Ring of Protection *3 
+
+Dagger *2, or 
+Wand of Cold 
+(12 charges) 
+
+Potion of Animal Control 
+Vial of Sweetwater 
+
+
+Belt Components for Spells 
+
+Pouch Carried 
+
+Spells Ail, of Levels 1 -5 
+
+Known 
+
+
+Spells Carried 
+
+Level 1: Affect Normal Fires ( Hold Portal , 
+Magic Missile , Shield 
+
+Level 2: Detect Evil, Mirror Image, Rope 
+Trick , Stinking Cloud 
+
+Level 3; Fly, Lightning Bolt f Phantasmal 
+Force 
+
+Level 4: Charm Monster, Minor Globe of 
+Invulnerability 
+
+Level 5: Conjure Elemental, TeJeporf 
+
+
+
+31 
+
+
+
+
+
+
+
+Riggby the Patriarch 
+High Priest, C 9) 
+
+CLASS: Cleric 
+LEVEL: 9 
+ARMOR CLASS: -1 
+Magic Adjustment: *2 
+Dexterity Adjustment: *1 
+MOVEMENT: 12" 
+
+HIT POINTS: 51 
+NO. OF ATTACKS: 1 
+DAM AGE/ATTACK: By weapon 
+Bar Hammer *2: 4-7Z3-6 
+ALIGNMENT: Neutral 
+DEITIES: Boccob & Zagyg 
+
+STRENGTH: 12 
+INTELLIGENCE: 13 
+WISDOM: 16 
+DEXTERITY: 15 
+CONSTITUTION: 15 
+CHARISMA: 16 
+
+
+Riggby is normally dressed in light grey and 
+off-white colored robes. His eyes are chest 
+nut brown, his hair pure black* and his opin 
+ions are short and succinct- "Convert, or 
+else!! 1 ' Riggby has been convinced that his 
+
+
+
+services will be a boon to his other compan 
+ions, so he has opted to come along on this 
+"stint" {as he refers to it). He has brought 
+several items with him: 
+
+Armor/ Plate Mail *1 
+
+Clothes Shield *1 
+
+In Hand Staff of the Serpent 
+
+(Constrictor) 
+
+Ring of Free Action 
+
+Backpack Scroll of two spells: 
+
+Cure Critical Wounds, 
+
+True Seeing 
+
+Spells Carried 
+
+Level 1: Cure Light Bounds (x3). Detect 
+Magic, Remove Fear ; Sanctuary 
+
+Level 2: Hold Person (x2) t Find Traps, 
+Resist Fire, Silence 15' Radius, 
+Speak With Animals 
+
+Level 3: Create Food and Water, Cure Dis 
+ease, Remove Curse 
+
+Level 4: Cure Serious Bfotmds 
+
+Level 5: Raise Dead* 
+
+t* Note that the Raise Dead spell will not 
+restore a character to effectiveness* Its pri 
+mary use would be, for example, to learn the 
+Command Wards for the Carpet of Flying from 
+Mordenkainen. should he be killed*] 
+
+
+
+9112XXX1501 
+
+
+32 
+
+
+
+
+
+
+
+
+Advanced Oungeonsferagons* 
+
+\s*ORiOcfGK^ftiaWI^ 
+
+Fantasy World Adventure 
+
+
+Mordenkainen's Fantastic Adventure 
+
+by Robert J. Kuntz and Gary Gygax 
+
+
+Four great and powerful heroes travel in search 
+of adventure. Led by Mordenkainen, wizard 
+without peer, they have come to mysterious 
+Maure Castle, a forlorn and foreboding place, 
+source of wonderment and awesome adven 
+ture, following a strange and terrible story. 
+
+For, somewhere deep beneath Maure Cas 
+tle, from whence no person has returned alive, 
+there stand two massive iron doors - doors 
+without latch, lock, or handle - the Unopen- 
+able Doors. 
+
+And if the doors are opened, what then? Such 
+potent evil, such terror lies beyond, that even 
+the bravest adventurers may quail before the 
+ultimate test! 
+
+Mordenkainen's Fantastic Adventure is a 
+challenging adventure for high-level play. Four 
+original characters from Gary Gygax* famous 
+Greyhawk* 1 * campaign are included for your 
+use. 
+
+Can you meet the challenge? Can you survive 
+what lies beyond . .. the Unopenable Doors? 
+
+An Adventure for Character Levels 9-12 
+
+^Copyright 1934 6. Gafy Oygas. All Rights Reserved. Printed In tl.S.A. 
+
+TSR. inc TSR(UK) Ltd. 
+
+FOB 756 The Mill, Rathmore Road 
+
+Lake Geneva. Cambridge CB14AD 
+
+Wt 53147 United Kingdom 
+
+ISBN 0-S8038-168 X 
+394-54162-6TSR0600 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Statues 
+
+
+
+Tunnel 
+
+
+
+Door 
+
+
+
+Secret 
+
+D*x>r 
+
+
+
+Barred 
+
+Cell 
+
+
+
+Peep 
+
+Holes 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Map of Dungeon Level 2 
+
+
+KEY 
+
+1 square = 10 feet 
+
+
+
+Tunnel 
+
+
+
+
+Purple 
+
+Stone 
+
+
+
+
+Curtain 
+
+
+
+LUI 
+
+
+Benches 
+
+
+
+Pulpit 
+
+
+
+Door Holes Pillar 
+
+
+
+Secret Wood 
+
+Door Column 
+
+
+FTP 
+
+
+
+
+Fire Fit Stairs Up 
+Trap 
+
+
+
+Barred Pool 
+Cell 
+
+
+
+
+Pit 
+
+
+
+Spiral 
+
+Stair 
+
+
+
+Peep Wei 
+
+Holes Floor 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1904 TSR Irur; Ah R*ghfg Reaijrvr^d 
+
+
+Map of Dungeon Level 3 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

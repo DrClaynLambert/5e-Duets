@@ -1,0 +1,6362 @@
+Skip to main content
+ 
+Texts
+ 
+Video
+ 
+Audio
+ 
+Software
+ 
+Images
+Sign up for free
+Log in
+ Search metadata
+ Search text contents
+ Search TV news captions
+ Search radio transcripts
+ Search archived web sites
+Advanced Search
+About Blog Events Projects Help Donate  Contact Jobs Volunteer
+Full text of "Tsr 09210 CM 9 Legacy Of Blood"
+See other formats
+An Adventure for Levels 15 to 19 
+
+
+Companion Game Adventure 
+
+
+Legacy of Blood 
+
+
+by Steve Perrin and Katharine Kerr 
+
+
+DUNGEONS & DRAGONS, D&D, PRODUCTS OF VOUR IMAGINATION, and the TSR logo are trademarks 
+owned by TSR Int. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Companion-Level Module 
+
+
+Legacy of Blood 
+
+by Steve Perrin and Katherine Kerr 
+
+
+
+Credits: 
+
+Editing: Heike Kubascb 
+Cover Art: Clyde Caldwell 
+Interior Art: Eric A, Gehlin 
+Typesetting: Betty Elmore 
+Cartography: Stephanie Tabat, Sue Myers* 
+Gloria Habriga, and Dave Sutherland 
+Thanks to Playtesters: 
+
+Alan Cohn T Douglas Friedman, Dawn 
+Friedman, Steve Henderson, Barbara 
+Huguley, Howard Kerr, Heather Mace, 
+Devin McKinney 
+Original Maps by Jon Jacobsen 
+
+
+TABLE OF CONTENTS 
+
+
+HOW TO RUN THIS ADVENTURE 
+DM BACKGROUND . . 
+
+Fcnhold ... 
+
+DM Notes f . ........ 
+
+On Darokin , 
+
+THE NEW HEIR .*. 
+
+Starting the Adventure .. 
+
+Traveling to the Capitol . 
+
+In Darokin. ,.., .... 
+
+Player Information . 
+
+The Dominion Statistics .... *. 
+
+Staying in Darokin ....... ______ 
+
+On To Fcnhold ... 
+
+Arriving in Fenhold ... 
+
+The Manor House of Fenhold ...... 
+
+FENHOLD . 
+
+Player Notes .................... 
+
+DM Notes .".. 
+
+The Dominion ................... 
+
+ADVENTURES IN FENHOLD. 
+
+DM Notes ______ 
+
+The Annoyances ... 
+
+The Dragon ..................... 
+
+The Kidnapping .. 
+
+The Festival of the Fens.. 
+
+INTO THE GREAT SWAMP 
+
+
+* 1987 TSR Inc. AD Right* Reserved Primed in U-S.A 
+
+DUNGEONS 4 DRAGONS. UftD, PRODUCTS OF YOU Ft 
+IMAGINATION, and the TSR tags *re trademark* owned by 
+TSR. Inc. 
+
+DiitntmtnJ 10 ihr IhhA trad? in (hr United StHhrt by Ranch(tm) 
+Himjt, In?-, *ral in Caruda by JWidunt Home of Qtmwhi, I*t*L 
+Dinribulcd to tht toy uut hobby trad? by regional diuributort. IHi- 
+mhutrd in rh? Umwd Kingdom by TSR (UK) Lid 
+
+Tbb adventure u protected under the copyright law* of the United 
+Statics of America. Any reproduction or oLher unauthorized u*e of 
+i he imicnil or urwork contained here in u prohibited witbeut the 
+exprexu written pcnmiuCm of TSR Inc: 
+
+
+Finding Barzan 
+
+Traveling Through the Swamp .. 
+
+BarzanLair .......................... 
+
+Barzan"s Tactic's ........._........... 
+
+ENDING THE ADVENTURE 
+
+Totaling the Points ... 
+
+Further Adventures ... 
+
+Uneasy Alfheim .. 
+
+The Sunken City . 
+
+Clearing the Swamp ............... 4 .... 
+
+NEW MONSTERS .... 
+
+
+TSR UK Ltd, 
+The Mill, Rathmore Road 
+Cambridge CB l +AD 
+United Kingdom 
+
+
+
+ISBN 0 88038-487 5 9210 
+
+
+TSR. Inc, 
+ROB 756 
+Lake Geneva 
+W1 53147 
+
+
+Giant Swamp Eel .......... 
+
+Giant Freshwater Slug ..._ 
+
+Swamp Vdya. 
+
+Swamp Snapping Turtle ..... 
+
+Nekrozon ........ _ 
+
+NFC STATS . 
+
+Pre-Generated Player Characters 
+Friendly NPCs ............. 
+
+Barzan and his Allies . 
+
+
+..,2 
+... 2 
+... 2 
+
+... 3 
+
+...3 
+
+4 
+
+4 
+
+.... 4 
+,,, 4 
+... 5 
+... 5 
+
+... 6 
+... 7 
+... 8 
+9 
+
+...11 
+,,,11 
+.. .11 
+.11 
+...17 
+, # .17 
+,. .17 
+,,.17 
+...18 
+.. .20 
+.,.21 
+,,.21 
+,, ,21 
+,,.21 
+,, .24 
+.,.25 
+,, .25 
+,,.25 
+,,.25 
+.. .26 
+...26 
+...27 
+.*.27 
+.*.27 
+,,.27 
+.,.28 
+.28 
+.. .29 
+.. .29 
+.. .30 
+*..30 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HOW TO RUN THIS ADVENTURE 
+
+
+legacy of Blood is designed for a party of lawful 
+adventurers, 15th to 19th level, who do not 
+already rule dominions of their own. The 
+party should have a combined experience 
+level of at least 90 and a good selection of 
+magical items It is also important that the 
+party include a high level magic-user. The 
+DM can look at the ready-to-use characters 
+in the NPC section and use them as a guide to 
+the proper party strength. 
+
+This module is an example of how a small 
+area may be developed in detail to provide 
+many opportunities for role playing. Ltgaty of 
+Blood contains a detailed description of a 
+dominion, complete with important NPCs, 
+location descriptions, and internal politics, in 
+addition , the module includes a mystery for 
+the players to solve. 
+
+It is especially important that the DM read 
+through the entire module before beginning play. 
+You must be thoroughly familiar with the villains 
+in order to run their evil .schemes propedy. 
+
+DM BACKGROUND 
+
+
+Each chapter presents two kinds of materi 
+al . On the one hand, there are key encounters 
+and encounter areas, with scripted text at 
+important points in the action. (As always, 
+read only the text in boxes to your players.) 
+On the other hand, there are descriptions of 
+basic situations and NPCs, Do not dismiss 
+this background as "local color'* only It can 
+easily be developed in greater detail to pro 
+vide you with many dramatic opportunities. 
+For example, the module only sketches in the 
+capital city of Darokrn. The DM could easily 
+map the city and add political intrigue, 
+encounters with thieves, and other dangers. 
+
+Ihere are notes and background material for 
+the DM at the beginning of each chapter. 
+Always read these before beginning play in that 
+chapter. Make notes of the ways to expand the 
+material and bring it to life by adding details or 
+small problems for the characters to solve. 
+
+Fed free to add color to the bare bones of the 
+tables. If you roll a farmer on an encounter table, 
+
+
+give him a touch of personality. He might talk on 
+and on about his ailments while the characters 
+are trying to extract important information from 
+him, or he might be a backbiting gossip. His ail 
+ments or gossip might be a vital clue to the mys 
+tery that the characters must solve. 
+
+Although Legacy of Blood is set in the on 
+going D&D* campaign world, it can be 
+adapted for use in any other universe. Place 
+the swamp in a logical relationship to the rest 
+of your world's terrain, but remember that, 
+since its origin is magical, it should be larger 
+than normal geography would allow. Second, 
+note that the ruling government in the mod 
+ule is a republic. IF you wish the dominion to 
+be part of a feudal government, change the 
+titles of the various officials and important 
+persons. In this case, the peasants would be 
+much more timid than the free farmers and 
+fishers of the module. Finally, some of the vil 
+lains arc fugitives from justice. Change their 
+countries of origin to places in your world. 
+
+
+Over the years, the Republic of Darokin lias 
+been expanding into the empty lamb on its 
+bonders. Many of these new dominions are 
+in a dide around the nation and forest of 
+Alfheim. By treaty with the reclusive elves, 
+Darokin may colonise these dominions and 
+act as a buffer between Alfheim and the oth 
+er nations of the continent. 
+
+One of these buffer dominions, 
+Fenhold, came under the rule of Lord 
+Ralph, who in his day was a famous 
+adventurer A good ruler despite his odd 
+ities, Lord Rolph was obsessed with 
+making improvements in his dominion. 
+
+Fenhold takes its name from die swamp 
+occupying its southern half. The origins of 
+the Fen are shrouded in mystery, unlike 
+those of the Malpheggi swamp, which occu 
+pies much of southern Darokin. Lord 
+Rolph was Fascinated with the notion of 
+draining part of the swamp and/or building 
+a causeway, to facilitate commerce between 
+the capital, Darokin, and Sdenica in the 
+east. This plan earned him the hatred of the 
+people living in the swamp, while draining 
+his treasury. 
+
+Lord Rolph never married. Thus, 
+when he died a few months before the 
+start of this module, he left no direct heir 
+to take over his dominion. 
+
+
+In his will, Rolph left Fenhold to a dis 
+tant cousin. If the players are running the 
+ready-to-use characters in the module, the 
+heir is Lord Hugh of Redlands. If the players 
+are using their own characters, the DM 
+should give the dominion to the highest 
+level fighter who has no lands of his own. 
+The module thus provides one character 
+with a dominion, but the DM can rest 
+assured that this inheritance is not an easy 
+gift. Keeping Fenhold will take all of the 
+character's resources and a great deal of 
+help from his friends . 
+
+The players of the other party mem 
+bers might wonder why their characters 
+should risk life and limb to help the new 
+heir. Thanks to its ongoing expansion, 
+the republic needs friendly and powerful 
+characters on its borders. If the other 
+party members perform well, they may 
+be rewarded with their own lands. 
+
+Fenhold 
+
+Fenhold has fallen on hard times. 
+Rolph's scheme drained his cash 
+reserves, and Fenhold is a poor domin 
+ion even in good times. Second, the Con 
+fidence Level is very low. Not only did 
+the lord's project anger many of the 
+inhabitants, but after his death tempo 
+
+
+rary stewardship passed to Lord Geraint , a 
+loyal but incompetent man whose poor 
+judgement has demoralized everybody. 
+Almost all of Rolph's retainers and offi 
+cials have left in disgust, and his subjects 
+constantly grumble about his misrule. 
+
+Worst of all, an insane chaotic magic- 
+user covets the dominion. Barzan of the 
+Black Hand was briefly employed by Rolph 
+to cast spells for the swamp project (mostly 
+lower water and wall of stone). As he explored 
+the fringes of the Great Swamp, he discov 
+ered a vast Elemental gate to the Plane of 
+Water made permanent by the wish of 
+some long'lbrgptten wizard, whose strong 
+hold lay in the ruins of an ancient city, now 
+drowned in the swamp. 
+
+Barzan is convinced that possessing 
+this gate is his first step on the path to 
+Immortality, and is determined to keep it 
+for his use alone. He has planned a cam 
+paign of terror to frighten the inhabit 
+ants. With the dominion in chaos, none 
+will be able to hinder his ambitions. 
+
+If he succeeds, he will go to the Daro- 
+kinian ruling council, denounce the cur 
+rent lord of the dominion, and offer his 
+services to correct the problem in return 
+for the dominion's overlordship. Natu 
+rally the disturbances would stop in a 
+short time and Fenhold be his forever. 
+
+
+2 
+
+
+
+
+DM BACKGROUND 
+
+
+DM Notes 
+
+The Confidence Level, At the start of play, 
+FenhoicTs Confidence Level stands at 
+225, Unsteady. It's up to the player char 
+acters to raise this level by ruling wisely 
+and by eliminating Barzan. During play* 
+Barzan will take certain actions that will 
+lower the level by a set number of points. 
+Often the characters will be unable to 
+scop these actions, though they can take 
+steps to correct the situation which will 
+regain the points* Conversely* the play 
+ers will also have opportunities to take 
+measures that will raise the level by a set 
+number of points. The DM must keep 
+track of the running total. A listing of the 
+points lost and gained for various actions 
+is given after the last adventure of the 
+campaign. At the end of play, this total 
+becomes the new base Confidence Level 
+for the dominion. If the player characters 
+raise the level to 270 or above, the Daro- 
+kinian government will reward them. 
+
+Since the action of the module takes 
+only about a month of game time, the 
+DM should ignore the standard results of 
+the Confidence Checks as given in the 
+B&D(r) Companion rules* If the Confi 
+dence Level drops below 200, the inhab 
+itants of the dominion will not turn to 
+defiance; rather, they 'll wait and watch* 
+giving the ruler time to put his affairs in 
+order If the characters allow the Confi 
+dence Level to drop below 100, then Bar- 
+zan has won. At that point he will go to 
+Darokin and convince the ruling council 
+to put the dominion in his hands. 
+
+The DM can invent other situations 
+than those given in the module to give 
+the characters a chance to gain or lose 
+Confidence Points. For example, if the 
+DM rolls an encounter with a baffling* 
+the halfling might be elderly or ill. If the 
+player characters help him in some way, 
+they oould gain two or three points, or 
+lose the same if they treat him callously, 
+Remember that in a small, isolated, 
+community, gossip is everyone^ favorite 
+recreation; news travels quickly, 
+
+On Darokin 
+
+Here is some general information the DM 
+needs to run encounters in Darokin* 
+
+The Government of Darukin, The Republic of 
+Darokin is an oligarchy (sometimes called a 
+
+
+plutocracy'). While all citizens are free, a few 
+wealthy families hold most of the political 
+power. These families are primarily mer- 
+chant houses, although a few large land 
+owners are included in the ruling circles. 
+The country is divided into two areas* the 
+Heartland and the Borderlands, 
+
+The government is organized into rul 
+ing councils* All citizens of the Heartland 
+vote to elect thirty-seven members of the 
+Outer Council, but these candidates are 
+chosen from a list presented by the outgo 
+ing Council. The list includes only suitably 
+wealthy candidates because, the Council 
+says, only rich men have the time to gov 
+ern properly. How many citizens believe 
+this rationalization is unknown. 
+
+Once elected, the Outer Council 
+chooses an Inner Council of Six, the men 
+who actually do the day-to-day ruling. 
+The Outer Council offers them advice 
+and debate on important issues and also 
+has a tie-breaking vote. 
+
+The current Council rules fairly and 
+treats the general populace well out of an 
+enlightened self-interest* A happy, prosper 
+ous citizenry buys the trade goods on which 
+the wealth of the Council depends, while 
+sullen citizens hoard coin and provoke riots 
+that disrupt the flow of trade. All citizens of 
+Darokin have* the right to appeal to the 
+Inner Council if they feeJ that their legal 
+rights were infringed upon, and the current 
+Council win listen to the appeal of even the 
+smallest farmer. Of course, one must be a 
+landowner or wealthy to be considered a cit 
+
+
+izen, In the past, some corrupt Councils 
+demanded bribes to hear an appeal* or sim 
+ply did not allow appeals they felt were 
+against their own selfish interests. 
+
+There are, two slightly different versions 
+of the basic law's. One* the Heartland law, 
+is administered bv appointed officials who 
+are directly responsible to the Inner Coun 
+cil. The other, the Border law, is adminis 
+tered by a special class of hereditary rulers, 
+the Magistrates of the Borders. The equiv 
+alent of barons in a feudal system, these 
+Magistrates own hereditary dominions 
+and have wider powers than the average 
+appointed judge or constable. They are 
+still bound by die Darokinian laws and 
+cannot treat the inhabitants of their domin  
+ions in a harsh or arbitrary manner 
+
+The character who has inherited Lord 
+Ralph's dominion has just become one of 
+these Magistrates of the Border. The 
+DM should explain in some detail that 
+the heir is not an all-powerful feudal 
+lord, but the ruler and landlord of free 
+beings with legal rights. 
+
+Although a Magistrate is entitled to 
+the dues and taxes described in the Com 
+panion rules, the tax rates are set by 
+Darokinian law, and the ruler may raise 
+them only in a real emergency. If a Mag 
+istrate of the Border refuses to comply 
+with the laws, the Inner Council has the 
+authority to confiscate his lands, by force 
+if necessary, and bestow the dominion 
+upon another family. 
+
+
+
+3 
+
+
+
+
+
+THE NEW HEIR 
+
+
+STARTING THE 
+ADVENTURE 
+
+First the heir must receive the news of his 
+good fortune and travel to the capital 
+city* Darokin* to claim his inheritance. 
+
+If the players are using the pre-rolled 
+characters provided in this module* the 
+DM can set the stage by announcing that 
+Lord Hugh and his companions have 
+just returned to the city after some 
+months adventuring in the north. Play 
+begins as they enter the city and find an 
+inn. 
+
+If the players have characters from an 
+on-going campaign* then the herald sent 
+by the Outer Council finally catches up 
+to them in their current location. The 
+boxed material below assumes that the 
+party is staying at an inn. If they*re not* 
+suggest that they go to a local tavern for 
+an evening or else modify the material to 
+fu their current whereabouts. 
+
+If using personal characters, the name 
+of the character should be substituted for 
+Lord Hugh's in die dialogue below. 
+
+
+The iavem room is half-empty and 
+rather quiet this evening, A few mer 
+chants argue in one corner about the 
+current price of grain; near the door* a 
+couple of undistinguished young men 
+who might be thieves are looking over 
+your party's equipment and clothing; 
+near the hearth a pair of drunken 
+dwarves are singing loudly in their 
+own language. Then the door opens* 
+and a tall* dark-haired man strides in. 
+
+Although his clothing is weather 
+stained and dusty* he stands with an 
+air of one used to respect and obedi 
+ence. In one hand he carries a staff 
+wound with colored ribbons, the uni* 
+versal sign of a herald. Even the 
+dwarves fall silent as the innkeeper 
+hurries over to speak with him. In a 
+deep, authoritative voice* the herald 
+says, "I seek a man named Lord 
+Hugh of Redlands, 13 
+
+Once the heir has identified himself, the 
+herald kneels at his feet and says the fol 
+lowing. 
+
+
+a I bring grave news, my lord. Lord 
+Rolph of Fenhold has died and named 
+you as the heir of his dominion." 
+
+The heir should make an ability check 
+against his Intelligence on 3d6. If suc 
+cessful* he remembers that Rolph was his 
+mother's cousin twice removed. If not* 
+the herald looks rather scornful as he 
+explains the relationship. He then says: 
+
+
+"If you would claim this dominion* 
+my lord, then you must meet with 
+Arnulf, council member in the capital 
+of Darokin, to complete certain legal 1 
+formalities. 1've spent long months 
+searching you out, so it would be best 
+tf you traveled there immediately" 
+
+At this point the players will probably 
+want to discuss the turn of events. Try to 
+get them to stay in character as much as 
+possible. The herald, hblfram> joins in 
+the conversation and can supply them 
+with general information about the state 
+of affairs in Darokin, the legal standing 
+of a holder of a dominion on the border* 
+and the likelihood of reward for the other 
+characters if they accompany their 
+friend. He knows nothing of Fenhold's 
+current troubles or* indeed* much about 
+il except its location. 
+
+Traveling to the Capital 
+It is possible that the characters will be a 
+long way from Darokin when the herald 
+reaches them. To speed play, the DM can 
+calculate the approximate amount of 
+time that the journey would take and 
+then announce that they've arrived, as 
+in, "After three long weeks on the road, 
+you reach the main gate of Darokin." 
+
+On the other hand, if the DM wishes* 
+or if there are other events to accounted 
+lor in a long-running campaign, the 
+journey can be played out day-by-day. In 
+either case, Wolfram accompanies the 
+party, since he's on his way back home. 
+When they reach the city, Wolfram rec 
+ommends a good urn and oilers to intro 
+duce them to Arnulf* the council 
+member who's in charge of finding 
+
+
+Rolph's heir and settling the legacy. 
+
+With player characters of the levels 
+involved in this game, it is possible that 
+there might be two or three magic-users 
+or others with use of enough teleport spells 
+to take them directly to Darokin. If they 
+discuss this in front of Wolfram, he 
+points out that the city of Darokin is 
+shielded by a spell that does not allow 
+teleportation over the town walls. It is 
+possible to use teleport within Darokin* 
+but not out of or into the city walls. In 
+fact* most cities have this protection 
+spell* which is actually a form of wish first 
+discovered by the wizards of Glantri and 
+sold by them to any interested city. 
+
+The characters can teleport to a known 
+spot close to Darokin, but they cannot 
+get inside the city this way. 
+
+IF the characters decide to use teleport 
+without consulting Wolfram (and none of 
+them are characters from Darokin* who 
+would know of it}, then they cast the tele 
+port spells and have the gut-twisting feel 
+ing of traveling by teleportation, are 
+treated to ihe light-show effect of glimp 
+sing untold alien dimensions* and find 
+that they have not moved an inch. The 
+spells have been used, however* and they 
+must wait to renew them before trying 
+something else in that line. 
+
+Similarly, characters attempting to fly 
+into Darokin have a ballista bolt shot 
+across their bows. Darokin even employs 
+night-seeing elves and guards with per 
+manent detect invisible spells cast on them 
+to stop most forms of illegal entry. Daro 
+kin is not keen on anyone who doesn't 
+come in through a gate* where they can 
+be registered with the city guard. Illegal 
+entry still occurs, but it is strongly dis 
+couraged. 
+
+In Darokin 
+
+Characters arriving, with or without 
+Wolfram, can request an audience with 
+Arnuif which he gives within a day. A 
+demand for an audience means the char 
+acters will be delayed at least two days 
+before they obtain their audience. A 
+bribe gets them past the majordomo to 
+Amulf in a matter of minutes. 
+
+
+4 
+
+
+
+
+
+
+
+
+THE NEW HE IB 
+
+
+Player Information 
+
+Amulf is a tall, greying, affable man in 
+the garb of the clergy of the Church of 
+Darokin, He can quickly put the inheri 
+tor past the formalities of inheriting the 
+dominion. Though the heir may have lit 
+tle memory of Rolph, his cousin kept 
+himself well-informed of the accomplish 
+ments of his unsuspecting heir The 
+Councils, both Inner and Outer, are well 
+pleased with the choice. 
+
+Arnulf has the following information 
+about the dominion of Fenhold. The 
+DM should try to make the players stay 
+In character and extract the information 
+from him rather than merely read it out. 
+Remember, the republic wants the heir 
+to take up his duties; Amulf minimizes 
+the difficulties. 
+
+First, the Confidence Level is 
+Unsteady Ralph was personally popular 
+with his subjects, though a vocal minori 
+ty objected to his policies about the 
+swamp* Those who expected to live 
+under his enlightened leadership for 
+many years to come were badly shaken 
+by his untimely death. They will view the 
+heir with suspicion and match him 
+against Rolph's high standards. In addi 
+tion, both humans and halflings live in 
+the dominion, with some friction 
+between the races. Finally the Seneschal 
+Lord Geraint f s incompetence has left many 
+beings with grievances that the new heir 
+must soothe* 
+
+Amulf has already had some vague 
+repons of the troubles Barzan is causing, 
+though he has no idea of who is responsi 
+ble. There are rumors of apparitions and 
+ghosts in the swamp, sightings of 
+undead, strange disappearances, blight 
+ed crops, and dead animals. Amulf 
+doesn't know whether to believe in these 
+matters or not, but he prefers to think 
+that they are only the fancies of simple 
+peasants. If he repeats them, he T ll 
+remark that to seasoned adventurers, 
+such nuisances should present no real 
+problems. 
+
+Third, Amulf will express the general 
+eagerness of the Council to see anything 
+that will increase commerce and thus tax 
+revenue in the Borderlands. While some 
+
+
+members of the ruling Councils have 
+doubts about Ralph's plan for the cause 
+way through the swamp, they support 
+the plan in principle and would like to see 
+it completed. 
+
+Lord Rolph had been spending the 
+equivalent of 1,500 gp a month in the 
+attempt to build his causeway and drain 
+the swamp around it. Republic officials 
+estimate that the causeway would be 
+worth a good 1,000 gp a month to the 
+dominion, if trade takes off as they 
+expect it would, in tolls and taxes. 
+
+Arnulf also has the basic legal statistics 
+for the realm, given in the Dominion 
+Statistics table, but since he has never 
+visited Fenhold, he can supply no details. 
+
+Dominion Statistics 
+The Dominion of Fenhold 
+
+Size: One 24 mile hex 
+Loyalty: Republic of Darokin 
+Territory Type: Borderlands 
+Terrain Types: hills, swamp, some clear 
+Population: 700 families (1) 
+
+1, 50 human farmers 
+
+2. 300 human fowlers/fishers 
+
+
+3. 350 baffling hiilmcn 
+Population Gain: 1-5% a month 
+Resources: two animal and one vegeta 
+ble 
+
+1. herds 
+
+2. fish and eels (2) 
+
+3. farm produce 
+Income; 
+
+Standard: 7,000 gp/month 
+Tax: 700 gp/month 
+Resource: 2800 gp/month (3) 
+Monthly XP Award: 9,800 
+Taxes to Darokin: 2,100 gp/month (4) 
+Taxes to the Theocracy: 3,050 gp/month 
+
+( 5 ) 
+
+(1) In addition to the official tally, there 
+are about 100 individuals, deserters and 
+other low-lifes trying to stay alive in the 
+swamp. 
+
+(2) Pickled eels are a trade item, 
+
+(3) This is less than normal resource 
+income because the fish and eel resource 
+produces less than a standard animal 
+resource would. 
+
+(4) May be paid in coin, goods, or by 
+providing troops 
+
+(5) Payable in coin, goods, or foodstuffs. 
+
+
+
+5 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+THE NEW HEIR 
+
+
+The State of the Holdings 
+
+Amulf knows that the Magistrate's seat 
+is an old manor house, complete with a 
+defending wall, though he has no details 
+of its current condition. He has the plans 
+of the original tower built on the site* but 
+he knows that it was tom down in favor 
+of a roomier keep a century ago. How 
+ever, no one filed plans of the new keep 
+with the Council. 
+
+Staying in Darokin 
+
+The player characters may want to spend 
+a few days in Darokin before heading for 
+Fenhold. There are many things a Mag 
+istrate needs that a wandering adventur 
+er does not, and the villages of Fenhold 
+are unlikely to have the goods required. 
+
+For the purpose of buying goods and 
+hiring followers, assume that all prices in 
+Darokin are the same as found in the var 
+ious rules books. Darokin is a large town 
+with many mercantile interests. If it is 
+available anywhere in the D&D(r) world 
+or your campaign world* it is available in 
+Darokin at the book price. Everyone 
+knows that prices can be as much as 300 
+percent higher in oudying regions like 
+Fenhold. 
+
+Day-to-day living expenses in Daro 
+kin are the same for the heir as for a Bar 
+on in the rules. 
+
+State of the City 
+
+Darokin straddles the Street river where 
+it leads to the Malpheggi Swamp and 
+thence to the sea. Most of the city is on 
+the east bank of the river; the west com 
+mercial and slum area. 
+
+The east bank is prosperous, with 
+good cobbled streets and well-dressed cit 
+izens* with only occasional riff-raff. On 
+the west bank, the streets are din or 
+mud* depending on the season* and the 
+percentage of riff-raff is much higher 
+than that of well-dressed citizens. 
+
+Rather than provide a map of the city, 
+we give you a flow chart showing the 
+major districts and the best distances 
+between them* If running a chase 
+through Darokin (sec The Thief, below) 
+these distances should be all you need* 
+along with an active and experienced 
+
+
+imagination, to determine what son of 
+streets and buildings the characters are 
+running through and what sorts of haz 
+ards they might run into. 
+
+Weapons In The City. Anyone entering the 
+city through the main gate will be 
+stopped by the watch, who will gladly 
+recommend appropriate inns and brief 
+the characters on the city rules. 
+
+No obvious armor and major weaponry 
+may be carried on the city streets without 
+permission of the Council. Specifically, this 
+means that a character may wear armor 
+under his clothes, virtually impossible for 
+anything but leather* chain mail, or band 
+ed mail* and may carry a one-handed 
+weapon* such as sword or handaxe. 
+Spears* halberds, bows, crossbows, etc. are 
+not allowed on the streets, though they can 
+be bought for use elsewhere. 
+
+The Thief 
+
+Within a day of their arrival, Barzan's 
+agents in the city are aware of the player 
+characters. Barzan is in the city* waiting 
+for their arrival, hut he w r ill lake no direct 
+hand in events. 
+
+Instead, Barzan works through the 
+Thieves Guild to hire the thief* Jocko the 
+Guile (see the NPG section), to follow the 
+characters and do what he can to disrupt 
+their plans. 
+
+Jocko attempts to plant things he has 
+stolen on the player characters* steal 
+their valued magical items* and to dis 
+suade anyone the characters hire from 
+taking the job. He also follows whichever 
+character seems most vulnerable* and he 
+will even try to attack a character if the 
+opportunity seems to present itself* 
+though only if he really thinks he can 
+win. He is unlikely to attack a ready 
+fighter in full armor and weaponry. 
+
+jocko will also try to subvert any char 
+acters* such as another thief* he thinks 
+might be persuaded to betray the heir. 
+His agents first watch the potential trai 
+tor carefully, to make sure the possibility 
+of defection is exists and then try to 
+arrange a meeting between the character 
+and Jocko. Jocko appears masked and 
+with a bolthole ready in case the charac 
+ter attacks him. Be sure to rew-ard player 
+characters who think of this possibili ty of 
+
+
+smoking out potential opposition by 
+planting a double agent. 
+
+If chased, Jocko does everything he 
+can to discourage pursuit* including 
+dumping over peddlers' carts* frighten 
+ing horses* etc. Remember that Darokin 
+is a medieval city, and that the streets are 
+narrow and packed with people. There 
+are many places to hide. 
+
+The player characters should be told of 
+this follower the first time he fails a Hide 
+in Shadows roll. He should be described 
+as one of many sights on the street, along 
+wirh the legless beggar, the traveling jug 
+gler* the woman in the incredible hat, the 
+curtained palanquin holding who- 
+knows-who* etc. 
+
+The second time Jocko fails a roll, they 
+should receive Ability checks against 
+INT to realize that it is the same person. 
+Now they can become suspicious and 
+take action if they like. 
+
+If caught* Jocko knows nothing of Bar 
+zan. He was hired to do a job through the 
+Guildmaster. Trying to question the Guild- 
+master is difficult for anyone unless he is a 
+thief of suffictendy high level himself. 
+
+CITY FLOWCHART 
+
+A 
+
+20''' I 20 
+
+B-I60-CT D-140-E 
+
+
+160 240 220 340 
+
+1 l I I I 
+
+F - 240- G-240 -H -240- 1 - 200- j 
+
+I 120 | 244) I 
+
+240 160 \l20 / 240 320 
+
+I I I I 
+
+K-240-L-120-M-120 -N -240 -0 
+I 
+
+60 
+
+4-North P 
+
+20 
+
+I 
+
+Q-360- R- 200- S- 200-T-480-U 
+
+Numbers indicate distance in yards between dis 
+tricts. Flow Chart is not to scale. 
+
+Key to Darokin Flowchart 
+
+A. Town Gate 
+
+B. Weavers, Dyers, Tailors (ADV) 
+
+C. Inns* Taverns (ADV) 
+
+D. Carpenters* Potters, Masons 
+
+E. Horse/Mule Traders (ADV) 
+
+
+6 
+
+
+
+
+THE NEW HEIR 
+
+
+F. Armorers* Fletchers, Weaponsmuhs 
+(ADV) 
+
+G. Guild Halfs, Legal Offices (ADV) 
+
+H. Open-Air Food Market, Street 
+EntertainersCHAZ) (ADV) 
+
+I. Magic Users t Alchemists, Herbalists 
+(ADV) 
+
+j. Blacksmiths* Stables (ADV) 
+
+K Temple Quarter 
+
+L. HQ of City Guards 
+
+M. Hall of the Councils* Legal Offices, 
+Tax Collectors 
+
+N. Jewelers, Metalworkers 
+
+O Wealthy residences, luxury shops 
+R Bridge across river (HAZ) 
+
+Q. Cheap Inns, Taverns, HQ of Thieves 
+Guild (HAZ) (ADV) 
+
+R. Brewers (HAZ) 
+
+S. Fish Market, Wharves, Warehouses 
+(HAZ) 
+
+T Slum Residences (HAZ) 
+
+U* Soapmakers, Tanners, Candlemakers 
+(HAZ) 
+
+All areas marked (HAZ) are areas where 
+thieves and muggers abound, ready to 
+snatch an unguarded purse or to hit 
+someone over the head in the evening 
+and lighten his purse undisturbed. 
+
+If a party stops in any of these places* 
+particularly if they are in pursuit of 
+someone or searching for a friend* pick 
+one and make a Pick Pocket roll on him, 
+assuming the abilities of a IOth level 
+thief If the thief is caught, the players 
+can do what they want with him, though 
+the DM might find it interesting to make 
+the thief a 13-year-old child, perhaps 
+with big, brown, appealing eyes. Never 
+pass up the chance to confront a player 
+character with a moral decision. 
+
+Areas marked (ADV) are places char 
+acters can go to recruit followers or pur 
+chase supplies. 
+
+DM Notes 
+
+This section of the adventure can be 
+expanded if you wish. J ust set up various 
+inns or shops and add NPCs. Possibili 
+ties include other Councillors, hostile or 
+hel pful innkeepers (some of whom might 
+have ideas or heard rumors that might be 
+helpful), and encounters with footpads, 
+insane magic-users, spooked horses, 
+
+
+drunken officials, etc. 
+
+In the Eastern side of town, the char 
+acters can be embroiled in street fights, 
+have their pockets picked, be assailed by 
+friendly or unfriendly drunks, or some 
+one (the poor fool) might even try to mug 
+them. 
+
+On to Fenhold 
+
+Barzan takes no overt action against the 
+player characters in Darokin. He leaves 
+shortly after giving the Thieves Guild 
+Guildmaster his instructions, and heads 
+for Fenhold* intending to give the new 
+heir a proper welcome. 
+
+Barzan has been making many differ 
+ent preparations against the advent of a 
+new heir One of these has been inciting 
+tension between Fenhold and its north 
+ern neighbor* Alfheim. 
+
+The elves of Alfheim have always had 
+a friendly but wary relationship with 
+Darokin. They officially welcomed 
+Darokin *s induction of the lands around 
+their forest into Darokin* but they are 
+less pleased with Darokin T s project to 
+turn all of these borderlands into work 
+ing, civilized parts of Darokin. They 
+worry, probably rightly* about the time 
+when Darokin decides to induct Alfheim 
+into the republic. 
+
+Acting as a mysterious being called 
+"the Waterford/' Barzan has been incit 
+ing the dan nearest to Fenhold into hos 
+tility. On his way back to Fenhold he 
+stops off at the Clan holding and tells 
+them that the new heir is simply using 
+Fenhold as a beachhead for an invasion 
+of Alfheim. After all, why would Daro 
+kin want such a high level fighter in 
+Fenhold if not to use his abilities against 
+the elves? 
+
+Most elves are not impressed by these 
+arguments, but some of the dan are. 
+Five clansmen, all experienced, if Cha 
+otic, former adventurers, decide to try to 
+drive the new heir back to Darokin, or at 
+least demonstrate that elves are not to be 
+taken for granted. 
+
+I net Newteaf Lord Wizard Elf* (AC - 
+1; E10; hp 40; #AT i; D 2-11; MV 9"; 
+ML 8; AL C) chain mail + 2, two-handed 
+sword + l t ring of spell turning, medallion of 
+
+
+ESP 90\ elom cloak , elvers booh 
+Spell book: 
+
+First level: charm person, detect magic , 
+magic missile , protection from evil, read 
+magic, sleep, memorize 5 
+
+Second level : detect invisible, ESP, mirror 
+image, phantasmal force f web, memorize 
+4 
+
+Third level: fire ball t fly, hold person, 
+lightning bolt , memorize 3 
+
+Fourth level: confusions, hallucinatory ter 
+rain , wizard eye, memorize 2 
+
+Fifth level: cloudkill, teleport , memorize 
+1 
+
+Dylan Long branch, Superhero Necro 
+mancer, {AC -2; E8; hp 30; #AT 1 
+(bow); D 2-7; MV 12'; ML 7; AL C) 
+leather + 5, long bow + 2 with 15 arrows 
++ /, displacer cloak 
+Spell Book: 
+
+First level: detect magic, magic missile ; 
+protection from coil, read magic, ventrilo 
+quism, memorize 4 
+
+Second level: ESP, invisibility, levitate, 
+web t memorize 3 
+
+Third level: clairvoyance, haste, water 
+EI) } memorize 2 
+
+Fourth level: dimension door r tee storm 7 
+remove curse memorize 2 
+
+Avran Greenstrider , Myrmidon Warlock, 
+(AC 0; E6; hp 21; #AT 1; D 3-10; MV 
+9"; MLS; AL C) plate mail +2, battleaxe 
++ 2* staff of power 21 charges, nng of life 
+protection 2 charges 
+
+SpeU Book: 
+
+First level hold portal, light, read tan- 
+guoges, sleep, memorize 3 
+
+Second level: continual light, invisibility, 
+phantasmal forces, memorize 2 
+
+Third level: hold person f lightning holt, 
+protection from evil Iff radius , memorize 
+2 
+
+Myriet 7 alllooker t Swashbuckler 
+Enchantress, (AC - 1; E5; hp 20; #AT 1; 
+D 1-6; MV 9 W ; ML 9; AL C) chain mail 
+
+
+7 
+
+
+
+
+THE NEW HEIR 
+
+
++ 3, shield + 1 ? short sword, wand of cold 
+3 2 charges, ring of regeneration 
+Spell book; 
+
+First level: charm person, detect magic, 
+protection from coil, memorize 2 
+
+Second level: tnvisibility, locate object, 
+mirror image, memorize 2 
+
+Third level; clairvoyance, protection from 
+evil JO 1 radius , memorize 1 
+
+Telvon Treetamer f Swashbuckler 
+Enchanter, {AC 0; E5; hp 18; #AT 1; D 
+2-9, MV 9 H ; ML 6; AL C) chain mail + 1 , 
+shield + l f normal sword + 1, ring of pro 
+tection + 1, elven cloak f wand of lightning 
+bolts 9 charges 
+Spell book; 
+
+First level: magic missile, read languages, 
+read magic, memorize 2 
+
+Second level: detect evil , invisibility, 
+phantasmal force, memorize 2 
+
+Third level: dispel magic, hold person, 
+memorize 1 
+
+The elves will watch the party for a 
+couple of days, and take up an ambush 
+position which allows them to attack just 
+after the noon break. They hide in the 
+roadside trees, first attacking with spells 
+and arrows from a distance. Then the 
+higher level elves engage the party, while 
+the lower levels continue to use ranged 
+weapons. Their goals are to frighten any 
+followers and pack animals with the par 
+ty and to destroy the party members. 
+
+Once defeated, any elves left alive will 
+say that they obtained their information 
+from the Waterford, the only name they 
+know Barzan by. They can identify fiar- 
+zan by his magical items, if not his face, 
+if the party wishes to hold them captive 
+or hostage for this purpose. 
+
+The story of this attack lowers the 
+Confidence level by 10 points. The peo 
+ple of Fenhold do not want the elves mad 
+at them. If the party manages to prevent 
+killing all the elves and convinces the sur 
+vivors of their good intentions and sends 
+them back to Alfhcim, this Confidence 
+Icvd drop is only 5 points, but it still 
+drops. 
+
+
+Overwhelming Force 
+
+If the characters have hired a group of 
+mercenaries to work with them, the DM 
+can handle the situation in one of several 
+ways: 
+
+* If there are elves in the character 
+party, the five elves sneak into the camp 
+at night during the elfs watch and con 
+front him with the information they 
+obtained from the "Waterford. 1 ' Since 
+the characters have elves in the party, the 
+Alfheimers are more inclined to watch 
+and wait rather than attack. They might 
+do this even if the characters don't hire a 
+mercenary troop. 
+
+* The DM can work up a War 
+Machine group of 30 elves and still run 
+the ambush. It will make an interesting 
+change from dungeon crawling for the 
+characters. 
+
+* The elves can merely harrass the 
+party, using their superior forestry skills 
+to ambush sentries and pick off strag 
+glers. They can even shoot messages on 
+arrows into the character camp, A few 
+"Go back to Darokin, war-mongers" 
+messages should leave the characters 
+thoroughly confused. 
+
+Arriving in Fenhold 
+
+Read the following to the players. 
+
+As you ride the last few miles to the 
+manor house, a fog surrounds you. 
+You're still five miles north of the 
+swamp, but you see the gray mass bil 
+lowing up, then sweeping toward you 
+like a calm, stately, animal. When it 
+swirls over you, the world becomes 
+damp, cold, and strangely silent. 
+Even the sound of your horses' hooves 
+is muffled. You fed as if the chill came 
+out of the depths of the earth itself. 
+
+If the characters want to try to detect magic 
+here, by ah means let them, but this fog is 
+just normal weather for Fenhold. 
+
+
+Farmers are working in their fields all 
+along the road, but no one looks up as 
+you pass. They keep dose and talk 
+very quiedy among themselves. 
+
+
+If the characters hail one of the farmers, 
+roll on the Random Encounter Table for 
+Farmlands. Remember to roll on the 
+Rumor Table from now on during 
+encounters. 
+
+
+At last the manor house looms out of 
+the fog. The pale gray curtain wall, 
+slimy now from the moisture in the 
+air, rises about 20 feet high with 
+square towers at each comer of the 
+rectangular complex. There are two 
+more towers over the main gate* 
+where a rusty portcullis hangs at an 
+angle, allowing just enough room for 
+a rider to pass under. A drawbridge 
+leads to the gates over a now-dry 
+moat. White geese are grubbing 
+about in the moat's tall grass, but 
+nothing or no one else is in sight. 
+
+
+The portcullis is not a trap, merely so 
+badly stuck that it can neither be raised 
+or dropped. If the characters hail the cas 
+tle, Niall runs out. If they ride in, read 
+the next box. 
+
+
+The inner ward is half cobbles, half 
+mud. There are no out-building$ t 
+only the huge stone manor house. 
+Three stories high, it sports turrets on 
+its gray slate roof. The bottom story 
+serves as a stable, the body heat of the 
+animals helping to heal the house. 
+
+A young man comes out of the mas* 
+sive iron-bound, gates. Tall and 
+blond, he wears a linen tunic, leather 
+trousers, and a cloak. He carries a 
+great sword slung in a baldric. He 
+bows to you and says, "My lords, 
+greetings. Are you the new heir and 
+his companions? I'm Niall, the guard 
+captain/ 1 
+
+Though a good fighter, Niall is too young 
+for this important post and hates making 
+decisions. He will gladly follow the new 
+heir's orders. If the party does not ask 
+about the seneschal, Niall volunteers the 
+following. 
+
+
+8 
+
+
+
+
+
+
+
+THE NEW HEIR 
+
+
+'Tm surprised Lord Gereint is not 
+back yet to greet you, my lord. He 
+went out for his usual afternoon ride a 
+couple of hours ago. His lordship's 
+very old, you see, and very set in his 
+ways. He probably dismounted and 
+sal down for a rest, then fell asleep. 
+
+It*3 happened before. Well, my lord, 
+come in to your new home. I'll have 
+the servants rake care of your horses 
+and baggage. We've been planning a 
+feast in your honor." 
+
+When Niall daps his hands, no one 
+answers. He tries again, with no bet 
+ter resulrs. Finally he goes back into 
+the manor house and comes out again 
+chivying some servants, who nod 
+grudgingly at you and pick up as little 
+luggage as they can get away with and 
+carry it into the gates. 
+
+Alert characters should smell trouble at 
+this point and want to search for Lord 
+Gereint. If so, turn to the section below 
+labeled The Search. If they leave imme 
+diately. they can find an important due 
+with Gereint f s body that indicates his 
+seeming accident was arranged by some 
+one who uses magic. 
+
+If the characters remain in the manor 
+(or, of course, when they return LF they 
+leave immediately) give the players the 
+map of the Manor of Fenhold, As they 
+move through the house, read out the 
+room descriptions. Note that there are 
+some items they will only find if their 
+characters are searching an area. It will 
+take several hours of game time for the 
+party to explore the manor 
+
+If the party didn't set out to look for 
+Gereint, Niall will come to them and say 
+that he"s worried about the old man. 
+He'll wait for the heir to suggest a search. 
+
+The Search 
+
+When the party goes searching for 
+Gere hat, they find the old man about a 
+mile away along the main road. His 
+horse is nearby with a broken foreleg. 
+Apparently the horse shied and threw 
+him, killing him in the fall. 
+
+Casting a raise dead fully on Gereint will 
+
+
+have no effect. He's 102 years old t and 
+his body cannot take a resurrection. If a 
+speak with dead is tried, he knows little, as 
+he was snoozing in the saddle when the 
+accident occurred. 
+
+Barzan murdered the old man. He 
+sent a small fireball into the road directly 
+in front of the horse, which panicked and 
+raced off, finally throwing and roiling on 
+Gereint some distance away from the 
+impact. IF the characters backtrack and 
+search along the road where they Find the 
+body, they find charred traces of the 
+explosion. If they wait, the traces vanish 
+in the constant dampness of the area. 
+
+If the characters immediately begin 
+investigating Gereint'$ death, give them 
+5 Confidence Points, but if they delay, 
+there is no penalty. 
+
+Chaos in the Manor 
+
+Without Gereint the manor house is in 
+complete disorder, As mentioned earlier, 
+Niall is the last true retainer in the house- 
+hold, but none of the servants obey him 
+because of his youth . The characters will 
+have to yell for stablebovs and hum up 
+the maidservants. 
+
+Remember that these servants are not 
+serfs. They obey the characters, grudg 
+ingly, and they resent any attempt at bul 
+lying. Most of them would rather be 
+dismissed from the Magistrate's service 
+and go back to their families than keep 
+their jobs. On the other hand, firm but 
+courteous treatment will earn their 
+respect. Raise the Confidence level 5 
+points if the servants are treated well, 
+and lower it by 5 if they arc not. 
+
+The Manor House of Fenhold 
+
+General Description 
+
+The manor house is old and sadly in need 
+of repair. There are cracked floorboards, 
+broken windows, worn treads on the 
+stairways, and patches of mildew on the 
+stone walls every where. The furnishings 
+are similar; once luxurious, now they are 
+battered and worn. The tapestries are 
+rotting away and the bed hangings are 
+faded. Thanks to its unusual layout, the 
+second floor always smells of horses, but 
+
+
+the stables are under the main dwelling 
+for a good reason. The body heat of the 
+animals rises and helps keep the second 
+story warm. 
+
+Many of the rooms on the plan have 
+the same number. Each of these rooms is 
+identical to others sharing the number 
+For example, the rooms numbered 6 are 
+all servants' quarters, untidy places 
+crammed with bunks and little else. 
+
+Like many old places, the manor is 
+without plumbing. Water is obtained 
+from a well in the courtyard. Along the 
+west walls are a series of outhouses whose 
+cesspools are supposed to be cleaned out 
+every couple of months. This hasn't been 
+done for several months, 
+t, Horse Stalls These are made of wood 
+with Iron mangers. At the moment the 
+manor owns only three horses, not 
+counting Gereint r s mount, leaving plen 
+ty of room for the characters' mounts. 
+The nordieastemmost stall has a ladder 
+leading up to the kitchen area and a trap 
+door concealing a ladder leading tfown to 
+the food storage cellar. 
+
+2. Storerooms . These rooms are piled high 
+with hay and bags of oats. Several cats 
+live very well off the mice in them. 
+
+3. Jack Room . On the north wall are high 
+shelves holding six saddles, three in good 
+repair Six bridles hang from pegs near 
+by. On the other walls are more shelves, 
+empty except for dust. 
+
+4. Guardrooms. Each has a bench and a 
+small table. 
+
+5. Quarters far the grooms. Although there 
+are three bunks in each room, only one 
+groom currently lives in the manor. He 
+has the eastern room to himself. 
+
+6. Servants J quarters. Each has four bunks, 
+but only rwo servants share each room, 
+
+7. The Hail of Justice. This is the most 
+important room in the manor, and the 
+reason for the manor's existence. Here 
+the Magistrate holds legal court and 
+criminal trials. The furniture is in better 
+repair than elsewhere. On the dais is the 
+Magistrate's chair, a small throne made 
+of dark oak with dark green cushions. 
+Nearby are two small tables where offl- 
+rial scribes sit during proceedings. Any 
+observers of the proceedings stand to the 
+east. On the west wall directly behind the 
+
+
+9 
+
+
+
+
+
+THE NEW HEIR 
+
+
+dais hangs the banner of the Republic of 
+Darokin. 
+
+B. Holding cell An empty room where 
+accused persons are kept directly before 
+their trial. The doors cannot be opened 
+from the inside* 
+
+9. Armory. On shelves and in orderly 
+ranks, are swords, shields, and pot' 
+helms for 20 men, 
+
+10. Troop barracks. The four remaining 
+men of Lord Rolpfrs personal guard 
+have bunks here. 
+
+1 1. The Great HaU . This room is the other 
+center of life in the manor. On the dais 
+are three wooden tables for the Magis 
+trate^ family and guests and a hearth 
+placed so that the honored ones get plen 
+ty of heat, On the floor are twelve 10-foot 
+long tables with benches. One has a bro 
+ken leg and lists at a sharp angle. The 
+Door is inlaid with colored slate in a maze 
+pattern, but some of the tiles are missing 
+and others are cracked. 
+
+12. Storeroom Barrels of ale and sacks of 
+flour and barley line the walk. Five enor 
+mous hams and big nets of turnips and 
+onions hang from the ceiling. 
+
+13. The Kitchen . More food supplies line 
+the walls. In the middle of the room are 
+two long worktables. Next to the hearth 
+is an earthenware bread oven. 
+
+14. Lodderway . This storeroom is current 
+ly empty except for the ladder which 
+leads down to the wine cellar and the 
+room for hanging meat. 
+
+15. Lord GereinTs bedchamber. There is a 
+large bed with heavy hangings, a wooden 
+chest of clothing, and a small table with a 
+water jug on it on the south wall. A table 
+and four plain chairs stand in the middle 
+of the room. On the north wall is another 
+table, heaped up with scrolls and parch 
+ments, the records of the dominion's tax 
+es and incomes for the last year, 
+
+16. The Magistrate f s bedchamber Just 
+beyond the door is a small reception 
+chamber, cut off from the bedchamber 
+proper by green and silver brocade drap 
+eries, faded and tom. There is an enor 
+mous bed by the south wall just beyond 
+the curtains, and a table airs in front of 
+the hearth. A wardrobe stands by the 
+north wall, and a set of empty shelves on 
+the west. The wardrobe still has several 
+
+
+suits of Lord Rolph's clothes in it, but all 
+are worn and shoddy. AD of his best 
+clothes were distributed to the people of 
+the dominion as a legacy from their 
+departed lord. The room is lit by a contin 
+ual light spell on a brass post, 
+
+37. The Magistrate r s private office. The ser 
+vants have kept this room exactly the 
+way it was the day Lord Ralph died. On 
+the tabic in the middle of the room lies a 
+half-finished letter to Arnulf of Darokin. 
+Beside it lies a quill and an ink-pot, 
+though all the ink has dried. Ralph's 
+cloak still hangs over the chair at the 
+table, and his pen-knife lies on the floor 
+where he dropped it. Aside from the 
+table and chair, the only furniture is a set 
+of shelves on the west wall containing 
+several hundred treatises on Darokin 
+law* A continual light spell beams from a 
+bronze boss set into the ceiling. 
+
+The letter reads: 4l I am glad that you 
+approve my choice of an heir, because I 
+know my time is near. I again entreat 
+you to prevent any attempts at my resur 
+rection. There comes a time in every 
+man's life when he is willing, nay, when 
+he longs to die, and that day has come 
+upon me now. Yet, I am uneasy in my 
+heart, fearing that my loyal citizens will 
+come to harm without a strong leader. 
+
+*T also write about a troubling inci 
+dent. The other day, Davvi of the Fenfolk 
+came to be to tell me that., " Here the 
+writing ends. 
+
+If asked f Niall will say that everyone 
+knows about the letter Gereint, after 
+reading it, instructed that it be left where 
+it was for the heir and he would convey 
+Lord RolpfTs thoughts to Darokin in his 
+report of the Magistrate's death. 
+
+If the new Magistrate asks Dawi what 
+he wanted to see the Magistrate has for 
+gotten* Gereim never thought it worth 
+following up, though Niall feels it should 
+have been done. 
+
+In fact, DawFs granddaughter saw a 
+party of obvious adventurers heading for 
+the area he knows contains the sunken 
+city The adventurers were furtive, and 
+no one else knows of their existence. 
+
+18. Secret stairwell. This secret way was 
+meant for the Magistrate to reach the 
+first floor without passing any public 
+
+
+areas. A continual light spell illuminates 
+this room and the stairs. 
+
+19. Chapel, This place of worship is 
+meant for the use of a cleric of Darokin* 
+There has not been one in residence for 
+twenty years since the previous deric, an 
+old adventuring comrade of Rolph's, 
+died. The priest in the village of Fenhold 
+occasionally holds services in the chapd, 
+
+20. Cleric jf quarters. This is intended to be 
+the living quarters of the resident deric, 
+Anselm j the priest from Fenhold village, 
+sometimes uses it when he has to stay 
+over at the manor, so there are no longer 
+any traces of the deric who had been 
+Rolph's companion, 
+
+2L Guest rooms. These rooms are meant 
+for guests. Each has a bed, a table and a 
+chair, and a wardrobe. 
+
+22. Sitting Room. This is the meeting 
+room for a visiting or residing magic- 
+user. 
+
+23. Bedchamber. This is the sleeping room 
+for the magic-user suite, 
+
+24. Sitting Room. This is a large meeting 
+room for a high-ranking visitor. 
+
+25. Bedchamber. This is for whoever uses 
+the high-ranking visitor suite. 
+
+26. Troop quarters. The guard captain and 
+hi$ select guard are supposed to live here. 
+Right now, Niall is the only occupant. 
+
+27. Stairwell and storage. The west wall has 
+many shelves containing linens and oth 
+er necessities. The room also holds the 
+stairway leading to the Hall of Justice. 
+
+28. Wine cellar. This room can hold sev 
+eral hundred bottles of wine, but the 
+stock has been considerably depleted in 
+the last year and not restocked, thanks to 
+Lord Gereint's policies. 
+
+29. Roots and meat cellar This storage area 
+is well stocked. 
+
+30. Mustering areas Jot covering retreats. 
+These underground areas have never 
+been used. The plan is to use them to 
+retreat to if the manor is overrun; the 
+defenders can gather here and arrange 
+for someone to cover their retreat while 
+the rest go out the tunnels to the boil 
+holes several hundred feet to the north 
+and to the west of the manor. 
+
+
+10 
+
+
+
+
+FENHOLD 
+
+
+Player Notes 
+
+At this time, the DM should remind the 
+players about the basic focus of a domin 
+ion game: earning Confidence Points, 
+Actual Experience Points are no longer 
+important. What the player needs for his 
+character is Confidence Points. 
+
+Confidence Points are earned by rul 
+ing well and reacting well to crises. They 
+reflect the confidence both the citizens of 
+the dominion and the ultimate rulers (the 
+Darokin Councils, in this case) of the 
+dominion have in the ruler. Confidence 
+Points are totalled at the end of the game 
+to determine the Confidence Level of the 
+dominion, A high Confidence Level 
+means the dominion is doing well and 
+the Councils of Darokin are pleased. A 
+low level means that Darokin will find 
+someone else to rule the dominion, 
+
+DM Notes 
+
+This chapter describes the dominion so 
+that the characters can explore it and 
+meet its inhabitants. The DM should use 
+the appropriate Encounter Table for each 
+type of terrain. Note that in the dry land 
+part of the dominion there are no wan 
+dering monsters as such. The farmers 
+long ago drove most troublesome wild 
+beasts away from their lands. If an 
+encounter roll comes up "special/ 1 the 
+characters have a chance of finding a 
+minor due. Roll again on the Minor 
+Clues Table, note the location of the 
+due, and cross it off the table. No clue is 
+ever found twice. 
+
+The Dominion 
+
+The Politics 
+
+A well-run dominion is relatively quiet, 
+with few major political problems. The 
+Magistrate is mostly concerned with pro 
+tecting its borders and helping the citi 
+zens face major natural catastrophes. 
+
+This is no longer the case in Fenhold, 
+The Seneschal, Lord Gereint, was a 
+martinet and a blunderer. He made a 
+good executive officer under Rolph, but 
+was a disaster as an administrator 
+
+He refused to listen to the advice of the 
+mayors and sheriffs (sometimes with 
+
+
+good cause, as you will see) and ignored 
+most of the problems of the dominion in 
+favor of completing the causeway Lord 
+Rolph wanted built. 
+
+Efforts to complete the causeway 
+failed. Workers refused to appear, engi 
+neers left the project because of his high 
+handed treatment, and the swamp 
+constantly eroded what had been built. 
+As he grew more frustrated. Lord 
+Gereim became increasingly abrupt with 
+his subordinates, who generally left his 
+service, and the citizens, who avoided his 
+company. 
+
+Perhaps he was influenced in his 
+intransigence by Barzan. Whatever the 
+cause, the characters are inheriting a 
+dominion with little regard for its pre 
+vious administration and a conviction 
+that a simple change of personnel is 
+going to do no one any good. 
+
+The Geography 
+
+There are three types of terrain in 
+Fenhold, each with its own kind of 
+inhabitants. Under Lord Rolph's rule, 
+these three groups got along well, but 
+now they are squabbling amongst them 
+selves. If the characters are to rule the 
+dominion successfully, they must soothe 
+the injured feelings of their subjects. The 
+DM should stay alert for opportunities 
+during play to improvise encounters 
+where the characters can mediate differ 
+ences between various NPCs and solve 
+their problems. Each successful solution 
+is worth Confidence Points, how many 
+depends on the situation. 
+
+The Farmlands 
+
+This relatively flat area between the 
+swamp and the high hills also includes a 
+fringe of rolling hills to the north and 
+east. Here dwell the human farmers, 
+who also raise dairy cattle in the hills. 
+There are two villages, Fenhold, about a 
+mile from the manor house, and East 
+Riding, eight miles away. Although most 
+farmers live in one of these villages and 
+trudge out to their fields every day, there 
+are two isolated dairy farms in the hills to 
+the southwest. Barzan plans to give these 
+people a lot of unpleasant attention. 
+
+The farms have always been prosper 
+
+
+ous because the soil is rich and well- 
+watered. Thanks to the atmosphere of 
+fear and suspicion, however, some arc 
+beginning to decline. Parents no longer 
+send their children out alone to watch the 
+goats and sheep; orchards that are far 
+from the villages have not been pruned 
+this spring; people have started hoarding 
+what little coin comes their way in case 
+they have to leave their holdings and 
+move elsewhere. The farmers who have 
+holdings in the hills resent the halflings, 
+whom they accuse of trying to encroach 
+on their grazing grounds with their 
+flocks. All the farmers resent the swamp 
+dwellers, whom they see as being lazy 
+good-for-nothings who probably steal 
+whenever they get the chance. 
+
+Although most of the farmers arc 0 
+level humans, some of the young men 
+have served in the Darokinian army. 
+Each village can produce ld4 + 1 2d level 
+level fighters and ld6 1st level at any 
+given time. In a real emergency, all the 
+fighters will muster for a force of ten 2d 
+level and 12 1st level, but these men have 
+no weapons of their own and must be 
+supplied from the magistrate's armory. 
+
+Important NPCs of ike Farmlands 
+Will Duchamp , Mayor of Fenhold. Will 
+Duchamp is a middle-aged farmer who 
+has lived all of his life in Fenhold, He is a 
+0 level human with major farm holdings 
+in the surrounding land. His basic atti 
+tude toward the new heir has been taint 
+ed by constant arguments with Lord 
+Gereim. He has no faith in the ability of 
+a bushwacking adventurer to administer 
+a dominion properly. Truth be told, he 
+considers himself far more qualified, 
+though he has not the slightest idea of 
+how to petition the Council of Darokin to 
+obtain the job. 
+
+He will deal with the new Magistrate 
+the same way that angered Lord GereLnt. 
+He will tell the Magistrate what to do, 
+rather than making suggestions. 
+
+Duchamp's major program is to drain 
+the swamp and transform it into farm 
+land. If the Fenfolk canh see that they'd 
+be better off as farmers, drive them off or 
+kill them. Anyone who doesn't see the 
+logic of this program is a fool and not to 
+
+
+11 
+
+
+
+
+FENHOLD 
+
+
+be bothered with. He knows that all of 
+the right people of Fenhold, the other 
+farmers, support him, 
+
+Hilda Kosseauf, Mayor of East Riding. 
+The mayor of East Riding Is a 5th level 
+magic-user from Karameikos who mar 
+ried a fellow adventurer and settled in 
+East Riding to become a shopkeeper. She 
+was eventually elected mayor and her 
+husband became the local Justice, an 
+office combining circuit judge and local 
+sheriff. Her husband died recently while 
+investigating some mysterious sightings 
+near the Fens. 
+
+Hilda is positive that most of the prob 
+lems of the dominion have a common, 
+malevolent source. Her own schooling in 
+magic gives her some better insight into 
+what can be done with illusions and sum- 
+atoning! than the common farmer has. 
+However, she has a hard time convincing 
+her constituents that the problems are 
+anything but a curse of the Fenfoik. 
+
+Hilda is fairly young, about 43, and is 
+striking rather than beautiful. She has a 
+strong sense of duty to her people and is 
+anxious to remove the source of the mal 
+aise that has fallen on the dominion. 
+Hilda realizes that, alone, she has no 
+chance to accomplish anything against 
+such great power, and she could never 
+convince Gcreint that the source existed. 
+
+Anselm, Priest of Darokin This 6th level 
+cleric lives and preaches in Fenhold. 
+Since the death of the last chaplain, he 
+has come to the manor to lead worship 
+there. Anselm has seen many winters, 
+and is mystified by the events occurring 
+in the dominion. He spends most of his 
+time trying to evoke the spirit of the "old 
+days, when all the peoples of our fair land 
+lived together in harmony" He has tried 
+to use remove curse on the land and on spe 
+cific problems with no effect, and as a 
+consequence doubts himself and his god, 
+
+Anselm is a broken man who lives one 
+day at a time, going through the rituals 
+which he now distrusts. If the party 
+arrives with a Name level cleric, he puts 
+himself entirely under the orders of that 
+cleric, though he continually carps and 
+moans about the uselessness of any 
+action in the face of such malevolence. 
+
+
+Perhaps the right actions can renew the 
+faith and skills of this man, but it will be a 
+long, uphill climb. If the new Magistrate 
+succeeds in bringing Anselm back to his 
+former vigor, he earns 20 Confidence 
+Points, as Anselm is well liked in 
+Fenhold and anything to bring him out 
+of his current funk is appreciated. Firing 
+or discarding Anselm loses 20 Confi 
+dence Points. 
+
+Further disasters can befall Anselm 
+either before or after the player charac 
+ters meet him. See the Annoyances in 
+the Adventures section. 
+
+Xavier, Priest of Darokin, This fiery 
+young priest is a circuit preacher, leading 
+services all over the dominion, including 
+East Riding, which has no regular 
+church. Xavier is only a 4th level cleric, 
+but he is convinced that something can 
+be done about the current curse on the 
+land- He will gladly follow any leader 
+who has a solution to the problem . If the 
+heir fails and Barzan takes over, Xavier 
+will follow him, and be loud in Barman's 
+praises when the curse is lifted. 
+
+Herek Plowshare, farmer. Herek is a life 
+long farmer, now middle-aged. His farm 
+was one of the biggest in the East Riding 
+area, but now his outer fields are lying 
+fallow because his workers won 1 ! hike 
+out to them. He is extremely knowledge 
+able about crops and soil. Anything else 
+is a mystery to him, and he is so 
+befuddled about current events that now 
+he spends much of his time at the tavern 
+in East Riding, reminiscing about the 
+good old days. 
+
+Fend Grey feaiher, elf farmer. This former 
+adventurer became corrupted in the eyes 
+of his elven kin. The idea of controlled 
+growth and harvesting began to appeal 
+to him during his adventuring among 
+humans. When he decided to retire as a 
+7 th level elf, the wild forests of his home 
+had no appeal for him. 
+
+Feriel bought orchards in Fenhold and 
+settled down to raise citrus fruits. He has 
+lived in Fenhold for over a century, and 
+enjoys the company of the other farmers 
+and orchardmen. The current unpleas 
+antness is beginning to inspire his adven 
+turing spirit again, though he's done 
+nothing about the situation as yet. He 
+
+
+still has his adventuring gear, including 
+chain mail + 2, sword + 1, ring of flight, and 
+13 arrows + 1 , 
+
+Johannes Longfurrow, farmer, Johannes is 
+a Fenhold farmer who now spends most 
+of his time in Fenhold at the Plow and Ox 
+tavern, telling all who come nigh that the 
+current troubles are entirely due to the 
+laxity of the government at Darokin. If 
+the government would just send in a 
+strong leader who would drain the 
+swamp and run out the Fenfoik, invade 
+Alfheim, put slave collars on the half- 
+lings, and replace Mayor Duchamp with 
+a real man (named Johannes), every 
+thing would be fine. As it is, the gods of 
+Darokin must be punishing them for 
+their laxity. 
+
+Merdith Homscraper, dairyman. Merdith 
+has been one of the hardest hit by the cur 
+rent troubles. His prize bull went mad 
+and had to be killed, someone let the 
+dairy herd into his garden, some of his 
+cows died mysteriously of an uncommon 
+disease, Ireak storms made his ground so 
+wet that the cows have foot rot, and an 
+incredible monster came out of the 
+ground and ate three of his cows. 
+
+Merdith is a former adventurer, a 6th 
+level fighter. He has seen more of the 
+world and how magic works than his con 
+temporaries, and can see how some of 
+these things could be the work of a 
+malevolent design. However, he discard 
+ed this theory because he couldn't see 
+what anyone would want with Fenhold. 
+
+Delbert Dale wander, local eccentric . 
+Delbert pretends to be an ex-adventurer 
+driven somewhat mad by his adventures. 
+Sometimes he talks about what a great 
+fighter he was, then he speaks of using 
+magic, and sometimes of sneaking 
+around like a thief or healing someone 
+like a cleric. Actually he is a 6th level 
+thief in the employ of Barzan, spying 
+about the dominion. 
+
+Farmlands Encounter Table 
+Roll once on the Encounter Table and, if 
+the result is 1-5, roll once on the Reac 
+tion Table, If the result is 6, roll on the 
+Minor Clue Table, 
+
+Such reactions as Has Complaint from 
+a Trader can be cither ignored (roll 
+
+
+12 
+
+
+
+
+FENHOLD 
+
+
+again) or be considered a challenge to the 
+DM*s storytelling ability. 
+
+
+Idh Encounter 
+
+1 Farmer 
+
+2 Farmer 
+
+3 Fenfolk 
+
+4 Trader 
+
+5 Halfling 
+
+6 Special 
+
+
+ld6 Reaction 
+
+1 Casual 
+
+2 Hostile 
+
+3 Friendly 
+
+4 Has Lawsuit 
+
+5 Has Rumor 
+
+6 Has Complaint 
+
+
+Explanation of Reactions 
+
+Casual. Person(s) encountered is non' 
+committal and has little to say. ''Good 
+day" and "Trifle hot for this time of 
+year" is about the extent of his conversa 
+
+
+tion. 
+
+Hostile Person(s) encountered may or 
+may not have anything to say but he is 
+obviously hostile to the characters. He 
+has had as much as he is going to stand 
+from Gereint's foolishness* and no talk 
+about a new administration is going to 
+persuade them that the characters are 
+any improvement. 
+
+Friendly . Some people are just naturally 
+friendly others are determined to be 
+friendly to the people who are going to 
+dean things up after Gereint made a 
+mess of things. 
+
+Has Lawsuit. The person encountered 
+wishes the Magistrate to act as judge for 
+a lawsuit the person is bringing against 
+someone else in the dominion. In these 
+times of stress, neighbor suspects neigh* 
+bor, and the slightest comment or most 
+innocent action can touch off a dispute. 
+In other lands, these might be settled 
+with swords, but the Darokin folk are 
+essentially peaceful* and still feel they 
+can gain redress through the court of the 
+Magistrate. One thing about Gereint; 
+when he sat in court he was scrupulously 
+fair It seemed like the only time he took 
+any time to listen to his citizens. 
+
+Has Rumor Check the Rumor Table 
+which appears later. Feel free to toss in 
+any other rumors you fed appropriate. 
+Roll again on ld3 and compare against 
+the Reaction Table to see what sort of 
+person has this rumor, A Casual 
+encounter mentions it in passing, a Hos 
+tile one demands to know what the Mag 
+istrate is going to do about it, and the 
+Friendly encounter mentions it as some 
+
+
+thing the Magistrate might want to look 
+into. 
+
+Has Complaint This is someone with the 
+first stage of a possible lawsuit. If the 
+Magistrate can deal with the complaint 
+fairly so that it doesn't become a lawsuit, 
+add 5 points to the Confidence Level, If 
+the Magistrare refuses to hear a com 
+plaint, drop the Confidence Level 5 
+points. 
+
+The Halfling Hills 
+
+Aside from the human farmers discussed 
+above, the hills are primarily the domain 
+of the halfling population of the domin 
+ion, The halflings maintain small subsis 
+tence farms and graze sheep and goats. 
+The human farmers claim the sheep and 
+goats destroy the pasturage for their 
+dairy cattle. 
+
+There are two halfling villages, 
+Barnaby-Under-Brain bit and Holly- 
+down, each containing about 150 people. 
+Like the humans, the halflings leave the 
+village in the morning to tend their 
+flocks, returning in the evening. The 
+halflings used to spend many nights in 
+the hills with their flocks, but oflate they 
+make a point of returning to the villages 
+every night. 
+
+The remaining halflings live in iso 
+lated farms elsewhere about the hills. 
+Like the village folk, they spend their eve 
+nings and nights snug and safe in their 
+burrows. 
+
+These halflings are all part of the Ber- 
+rybramble Clan of the Five Shires, and 
+journey over the mountains to that clan 
+holding for dan functions, another prac 
+tice which sets them apart From their 
+human co-inhabitants. 
+
+Following standard halfling practice, 
+the villages do not have mayors. All gov 
+ernance is vested in their sheriffs, who 
+act as both administrative and law 
+enforcement authority. Under each sher 
+iff is a Firewatch, a small rotating group 
+of volunteers whose main function is to 
+watch for forest fires, but can also act as 
+deputies to the Sheriff. 
+
+tf called upon for combat, each village 
+can provide Id6 1st level halflings 
+instantly; their Firewatch force, Given 
+lime to muster, the halflings can provide 
+
+
+16 1st level, 8 2d level, and 5 3d level 
+halflings. Each comes with leather 
+armor, a dagger, and a short bow with 20 
+arrows. Any other weapons and armor 
+have to be supplied from the Magis 
+trate's armory'. 
+
+Important NPCs 
+
+Oakieaf Green, Sheriff of Holly down. Oak- 
+leaf is a bluff, remarkably tall (about 
+3'6 H ) halfling who has been Sheriff of 
+Holly down for exercises his authority 
+with great political acumen, which is just 
+as well since he is nothing of a fighter. 
+
+His first answer to any real problem is 
+"let the Big Folk take care of it." Since 
+Darokin insists on vesting final authority 
+in the Magistrate, Oakieaf will shuffle 
+any task he can onto the Magistrate and, 
+if nothing is done, use the Magistrate as 
+a scapegoat to explain why no action is 
+taken. 
+
+At this time, Oakieaf s stock in Holly- 
+down is very low, since Lord Gereint has 
+continually told him, and any other Hol- 
+lydown resident, that he would have to 
+fend for himself until the new heir 
+arrives. Rather than use the coming of 
+the new heir as a relief for his problems, 
+he blames the new heir for the problems 
+because the heir did not get to Fenhold 
+sooner. 
+
+Fihhar Bramble t Sheriff of Burnaby-Under- 
+Bramble . Filibar is an ex-adventurer who 
+stepped in when the previous sheriff died 
+mysteriously. His family is the most pres 
+tigious in the village, and he took the job 
+as his duty as a community leader. 
+
+Filibar is a 6th level halfling with no 
+time for foolishness. His brusque ways 
+have alienated many of his neighbors, 
+but everyone has a high regard for his 
+integrity and wisdom. His dealings with 
+the heir will be extremely correct, but he 
+will volunteer nothing until the Magis 
+trate earns his respect. 
+
+Filibar has encountered Barzan 
+before, when both were adventurers, 
+and knows him to be both Chaotic and 
+evil. He has never seen him in Fenhold 
+and knows of nothing to connect Barzan 
+with the mysterious Wateriord. How 
+ever, he is bright enough to be suspicious 
+
+
+13 
+
+
+
+FENHOLD 
+
+
+if he ever sees Barzan or hears his name 
+connected with any mischief. 
+
+Dulcet Sweetsong, shepherdess. Dulcet is 
+thought to have named herself. To 
+human ears her singing, which she 
+breaks into at any excuse, resembles fin 
+gernails on a writing slate. 
+
+Dulcet*s avocation is town gossip, 
+which she engages in with a fine disre 
+gard for the truth or the consequences to 
+anyone she gossips about. Her main 
+friend in the world is Old Ferdic f see 
+below, with whom she exchanges stories. 
+If asked, she swears that Old Ferdie is the 
+soul of honesty, 
+
+Brogo Bramble f shepherd . Brogo has been 
+guarding his flocks for years, and, unlike 
+most of his contemporaries, has no inten 
+tion of "hiding in a hole just 'cause of 
+s^ime dirnwitted spook stories." He also 
+has no time for humans, and has to be 
+very impressed by the actions of the 
+Magistrate before he comes Forward to 
+describe the reliability of Ferdibor 
+Ales worthy, who once worked for him. 
+As you might expect, Brogo found Fer- 
+die totally untrustworthy. Brogo has a 
+similar low opinion of Dulcet, and simi 
+lar reluctance to speak of it to humans. 
+
+Ferdibor Ales worthy, shepherd . Ferdibor, 
+called "Old Ferdie " is an itinerant shep 
+herd who has worked for all of the fami 
+lies of Hollydown at one time or another. 
+He is an endless source of stories and 
+hints, ail of them misleadin g. He is actu 
+ally a semi-retired adventurer, a 5 th level 
+halfling, who is employed by Barzan to 
+muddy the waters of any investigation 
+and report any action of the Magistrate 
+that affects the halflings. 
+
+He has no idea of what Barzan is plan 
+ning, but enjoys the extra income and 
+the chance to be involved in this kind of 
+undercover work. 
+
+Hal fling Hills Encounter Table 
+
+Roll once on the Encounter Table and, if 
+the result is 1-4. roll once on the Reac 
+tion Table, If the result is 5, see Playing 
+the Herd below. If the result is 6* roll on 
+the Minor Clue Table which appears 
+later 
+
+Such reactions as Has Complaint from 
+a Trader can be either ignored {roll 
+
+
+again) or be considered a challenge to the 
+DM's storytelling ability. 
+
+
+Id6 Encounter 
+
+1 Halfling 
+
+2 Halfling 
+
+3 Farmer 
+
+4 Trader 
+
+5 Herd 
+
+6 Special 
+
+
+Id6 Reaction 
+
+1 Casual 
+
+2 Hostile 
+
+3 Friendly 
+
+4 Has Lawsuit 
+
+5 Has Rumor 
+
+6 Has Complaint 
+
+
+Reactions, Description of the reactions 
+is found under die Farmlands Encount 
+er Table. 
+
+Playing the Herd . 
+
+The hills contain many herds of cattle 
+and flocks of sheep. While the characters 
+will pass many herds on their travels 
+which are simply grazing by the side of 
+the road, there are situations where they 
+can have more interaction with the ani 
+mals, See the Herd Encounter Table. 
+
+
+Herd Encounter Table 
+
+Die roil (ld6) Encounter 
+
+1 Berserk Ram. The ram from a 
+local flock of sheep has suddenly 
+gone mad ( Barzan 7 s work). The 
+problem here is not so much how 
+to kill the ram, but how to capture 
+it so it can be preserved. 
+
+Ram (AG7; MV 240'; HD 2; hp 9; 
+#AT 1; D 1-4; Save as F2). 
+
+2 Berserk Bull. The bull from a 
+local dairy farm has broken out of 
+his pen and is causing general hav 
+oc. He seems to be driven mad, 
+just like the ram described above 
+(and for the same reason). 
+
+Bull. (AC7; MV 240'- HD 3, hp 
+14; #AT 1; D 1-6; Save as F3). 
+
+3 Road Blocked. 
+
+
+A herd of animals is blocking your 
+passage. It looks tike it could take an 
+hour before the path is clear. You can 
+probably push your way through if 
+you want to. 
+
+
+If the party pushes through, subtract 5 
+points from their Confidence Level. If 
+they wait patiently, there is no effect. 
+Offering to help herd the beasts adds 5 
+points to the Confidence Level. 
+
+4 Stampede. 
+
+
+There is a cloud of dust to your side, 
+and you suddenly realize that you are 
+hearing the thudding of several hun 
+dred hooves. Over the next ridgeline 
+comes the tossing horns of the front 
+rank of a herd of stampeding cattle, 
+
+Barzan has done it again. His spells 
+have summoned every cow for miles 
+around and now they are headed for the 
+party. If the party turns their horses and 
+runs with the herd, give them 350 XP 
+each. 
+
+If the party kills cattle to divert them, 
+lower the Confidence Level by 5 points. 
+Sure, it's not their fault, but the dairy 
+farmers arc not going to like this solution 
+to the problem. 
+
+If the party can stop the stampede 
+without excessive loss of cattle (no more 
+than two) raise the Confidence Level by 
+5 points. 
+
+Herd Animals (AC 7; MV 240'; HD 2; hp 
+8; #AT 1 (trample); D 1-20 (no Hit roll 
+needed); Save as Fl) 
+
+5 Wolf Attack. 
+
+
+You see a young halfling boy running 
+pelkndl for you, yelling "Wolf, wolf!" 
+When he reaches you, he points up 
+the narrow trail he has just run down 
+and pants out, "Please help me sirsl 
+Wolves attacking my sheep!" 
+
+
+Racing up the path* the party Finds a 
+herd of about 40 sheep being savaged by 
+three wolves. Seeing the party, one wolf 
+howls, the others answer, and they attack 
+the party, It rapidly becomes apparent 
+that these are werewolves. 
+
+Mhewohm (3) (AC 5; MV 180'; HD 4*; 
+hp 23, 24, 25; #AT I; D 2-8; Save as F3; 
+XP 125) 
+
+There should be no problem dealing 
+with these werewolves, though the DM 
+can add more if he wants a larger batde. 
+The [joint here is to show that more than 
+natural monsters are at work in these 
+hills. 
+
+6 Abandoned Flock or Herd. 
+
+The characters come upon a flock 
+or herd with no shepherds or 
+
+
+14 
+
+
+
+
+
+
+FENHOLD 
+
+
+
+herdsmen. The animals are wan 
+dering aimlessly. 
+
+Backt railing reveals the murdered 
+herdsmen. If the herdsmen were human, 
+they were slain by halfling arrows, and 
+the reverse if the herdsmen were half* 
+lings, 
+
+It*s Barman again, stirring up trouble. 
+The owners of the animals will demand 
+revenge. If the player characters manage 
+to stave off a lynching, add 5 to the Con 
+fidence Level. 
+
+If they ignore the situation, perhaps 
+just returning the animals* they learn the 
+next day of a wholeseale hanging of 
+cither humans or halflings, whichever 
+did not own the animals. 
+
+Lower the Confidence Level by 5 
+points and* if they take no further steps, 
+lower it by another 5 points. 
+
+The Swamplands, 
+
+There are two kinds of swamp, the 
+fringes, known as the Fens, and the inner 
+swamp, called the Deep Swamp. As far 
+as anyone knows, the Deep Swamp is a 
+wilderness filled with giant monsters, 
+pits of quicksand, and swarms of insects. 
+(The final chapter of this module 
+describes the Deep Swamp in more 
+detail.) The local people rarely enter the 
+Deep Swamp, 
+
+The Fens, however* are another mat 
+ter. They are much like the Okefenokee 
+Swamp or the Mississippi River Delta in 
+the real world; a vast stretch of territory 
+
+
+that is half-land* half-water Small 
+streams wind between low-lying islands, 
+then peter out into bogs. Here and there 
+are larger streams with enough draft for 
+bigger boats, or shallow lakes dotted with 
+dumps of trees that rise directly out of 
+the water Some of these trees are islands 
+in the making; debris and soil lie caught 
+around their massive multiple roots, 
+poking out of the water and providing 
+nesting places for birds and otters. 
+
+Yet, inhospitable as they sound, the 
+Fens have their Fenfolk, human beings 
+who live in isolated families scattered aB 
+along the edges of the Great Swamp. No 
+one knows where they came from. When 
+Darokin extended its control eastward 
+around Alfheim, its explorers found 
+them already there, speaking a strange 
+dialect of the Common Tongue which 
+was barely comprehensible to others. (By 
+now most Fenfolk speak standard Com 
+mon as well as their own dialect*) The 
+Fenfolk dismiss all questions about their 
+origins with a shrug; for all they know, 
+the swamp bred them as it did the frogs 
+and birds. 
+
+The Fenfolk build huts and plant gar 
+dens on the larger islands* bui they live 
+primarily on their boats, round coracles 
+made of hides lashed over wooden 
+frames* Even the small children can han 
+dle a tiny coracle, and all Fenfolk are 
+excellent swimmers. They fish, gather 
+edible plants, and trap the eels who live 
+in great numbers in the Fens. Since 
+
+
+smoked eel is a great delicacy in Daro 
+kin, they pay their taxes to the Magis 
+trate in eels, with fish and fresh 
+waterfowl to make up the balance. They 
+also trade eels to the farmers and half- 
+lings for metal tools, doth, and various 
+other things that they can't make or 
+gather themselves. 
+
+Small family groups are usually associ 
+ated with one or two particular islands, 
+but the Fenfolk are always on the move 
+in one way or another, whether hunting 
+waterfowl, tending their eel-pots, or 
+hunting out good supplies of water reeds 
+and edible plants* The older people know 
+the endlessly shifting fens as well as a 
+Darokinian Council member knows the 
+city. There are also several permanent 
+islands that serve some Fenfolk as graz 
+ing places for milk cows and other ani 
+mals, or as market and meeting places, 
+where the people come together to trade, 
+gossip, and generally have a good time. 
+At these gatherings the folk compare 
+notes on the current water levels and life 
+of the ever-changing islands. 
+
+If the characters are to successfully 
+track Barzan down to his lair in the Deep 
+Swamp, they must have the goodwill and 
+cooperation of the Fenfolk* Unfortu 
+nately, they are suspicious of Magistrates 
+in general and this new heir in particular. 
+In other days the local Magistrates have 
+always tried to civilize the Fenfolk and 
+force them to settle down as farmers 
+(though* of course, continuing to check 
+
+
+15 
+
+
+
+
+
+FENHOLD 
+
+
+heir eel-pots)* Every now and then, 
+someone talks of draining the fens and/or 
+building a causeway to let the trade road 
+run straighten and smoother, using magi' 
+cal spells as well as shovels* Even the gen 
+erally popular Lord Rolph wanted to 
+build the causeway, though he wanted to 
+allow the Fen folk to keep as much of their 
+ancient ways as possible* The FenfoJk 
+have heard rumors that the new heir has 
+instructions from the Inner Council to 
+build the causeway and drain the 
+swamp. 
+
+Besides the Fenfolk, a small number of 
+criminals, fleeing from one justice or 
+another, live out in the margin between 
+the Fens proper and the Deep Swamp. 
+The Fenfolk keep an eye on them, but 
+their basic inclination is to live and let 
+live. Only if one of these fugitives tries to 
+rob or otherwise harm the Fenfolk is he 
+killed or (rarely) captured and brought to 
+the Magistrate. Some of the fugitives 
+have proved themselves in the eyes of the 
+Fenfolk by learning the ways of the Fens, 
+and a few were in truth unjustly accused 
+of their crimes. If the player characters 
+gain the respect of the Fenfolk, they will 
+suggest that their friends be given 
+amnesty. If the player characters do so, 
+give them 10 Confidence Points, 
+
+Fenfolk NPCs 
+
+Old Dauvi. 0-levd human. White-haired 
+and frail, Dawi now spends much of his 
+time sitting in from of his hut and mend 
+ing fishing nets; when he was young, he 
+was known throughout the Fens as being 
+daring to the point of fool-hardy. He is 
+the only person who has ever gone to the 
+Deep Swamp and come out again. 
+
+He and his companions, who were 
+killed, reached the edge of the drowned 
+city and saw buildings under the still 
+water. He also saw the velya (see New 
+Monsters), who killed his companions. 
+After all these years he's vague about the 
+distance, but his story jibes with that of 
+any of BarzaiTs men who have been cap 
+tured and made to talk. He remembers 
+the tower sticking out of the water which 
+is now Barzan's lain 
+
+Gaidar the Wise. Chief of the Fens. Gold ax 
+
+
+is only one of the Chiefs, but he is the 
+most willing to talk to strangers. Previ 
+ously he was a Darokinian citizen 
+accused of embezzling funds from the 
+Inner Council . He is pretty sure he was 
+innocent. However, he will ask strangers 
+about the current makeup of the board 
+and whether they 4i ever found the money 
+they say I took" The player characters 
+are very unlikely to have any knowledge 
+of this, and Goldar is certainly never 
+going to step out of the Fens again, 
+
+Dina Quickpaddle, This fiery little lass is 
+the current generation's equivalent of 
+Old Davvi. The fact that she is his grand 
+daughter might have something to do 
+with this. Though untrained, Dina is the 
+equivalent of a 3d level Thief. She is the 
+Fenfolk most likely to make contact with 
+the player characters, as she likes to get 
+out of the Fens and see the rest of the 
+world, even though she shares the Fen 
+folk contempt for dust-eaters. 
+
+Dina has hung on every word her Old 
+Dawi has said about the underwater city 
+and the tower. Dina has wanted to 
+explore this city for years, but doesn't 
+want to go without a lot of help, and none 
+of her Fen friends is the slightest inclined 
+to "chase old DawFs dream " Between 
+Davvi's stories and Dina's own knowl 
+edge of the Deep Swamp fringes, she 
+could probably take a party directly to 
+Barzan's lair. 
+
+Fens Encounter Table 
+td6 Encounter 
+
+1 Fenfolk 
+
+2 Barzan patrol (See Into the 
+Swamp) 
+
+3 Giant Slugs (Sec New Monsters) 
+
+4 Trader 
+
+5 Giant Eds (See New Monsters) 
+
+6 Special 
+
+Rumor and Lore Table 
+
+If on the Farmlands or in the Halfiing 
+Hills, roll Id8 and use rumor or lore off 
+the Table. If in the Fens, roll ld8 + 4. 
+
+Roll Rumor 
+
+1 The Swamp is getting bigger. 
+(True) 
+
+2 The elves want to expand their 
+border to the swamp edge, (False) 
+
+
+3 The Fenfolk have put a curse on 
+the dry lands. (Untrue) 
+
+4 The Fenfolk have been here for 
+ever* (Not quite) 
+
+5 There are turtles in the swamp that 
+can eat a man whole* (True) 
+
+6 The Blue Dancer birds come every 
+year at the same time. (True) 
+
+7 There is a dragon in the swamp 
+that eats cattle and sheep. (True) 
+
+8 Old Anselm had a vision a few 
+months back and he hasn't been 
+the same since. (False) 
+
+9 That water mage is still hanging 
+around. (True) 
+
+I 0 Old Dawi claims there is a sunken 
+
+city in the swamp. (True) 
+
+II The farmers are cursing the Fen 
+folk. (False) 
+
+12 The farmers want to drain the 
+swamp completely. (Some do) 
+
+Random Clue Table 
+
+ldfi Clue 
+
+1 Hunters found a campfire in the 
+hills with the remains of a giant eel 
+that the campers had eaten. 
+
+2 A mysterious freak wave over 
+turned a Fenfolk coracle. 
+
+3 There was a man at the general 
+store in East Riding recently who 
+looked like that magic-user Lord 
+Rolph had around three years ago. 
+
+4 Little Jo Danberry saw the ghost of 
+his gramma last week, but it disap 
+peared when he shied a rock at it. 
+
+5 Old Davvi occasionally spends 
+coins like no one around here has 
+ever seen before. 
+
+6 Sheriff FUibar at Bamaby-Under- 
+Bramble caught a sheep thief a 
+while back who turned out to be a 
+bandit wanted in Norwald* He was 
+part of a larger band led by a fight 
+er named Rark of the Northlands. The 
+thief was hanged. 
+
+
+16 
+
+
+
+ADVENTURES IN FENHOLD 
+
+
+DM Notes 
+
+The new heir will not have an easy time 
+in Fenhold. Barzan intends to see to that. 
+Besides Barzan, other problems lie ahead 
+to the test the mettle of the new heir and 
+his companions. 
+
+Now is the time to ask the players what 
+their plans are. Their main goal is to turn 
+Fenhold into a working dominion. The 
+way to do this in game terms Is to earn 
+Confidence Points. How are they going 
+to accomplish this goal? 
+
+The dominion is in a state of genteel 
+chaos; there is no central authority. The 
+only dominion-level official still around 
+is Niall, the Guard Captain, and he is a 
+good fighter but poor leader, especially of 
+civilians. Many of the usual dominion 
+posts are vacant. Check the Players Com 
+panion pages 8 and 9 for a list of posts. 
+Usually these are filled by NPCs, but in a 
+situation like this, one assumes the party 
+members take the positions so as to help 
+their comrade. 
+
+What of the causeway? Are there engi 
+neers in the player party? Perhaps the 
+party would like to consult with the elves 
+and druids of Alfiieim about the best way 
+to build the causeway in harmony with 
+nature? Did they anger Alfheim with the 
+previous on-the-road encounter? 
+
+The characters will probably use several 
+of these methods simultaneously to accom 
+plish their goals, and be ready to compli 
+cate all of them as much as possible. 
+
+If the characters keep losing Confidence 
+Points without gaining any, use some sub 
+tle clues, such as comments overheard in a 
+crowd, advice from one of the mayors, or 
+finally, resort to putting words in the 
+mouths of the player characters (if nothing 
+else works) to tell the characters they are 
+losing the morale of the citizens. 
+
+While the characters are getting see 
+ded in, use some of the annoyances to 
+keep them from becoming complacent. 
+In some cases, there is an almost auto 
+matic loss of Confidence Points with no 
+chance of restoring them. This is life and 
+politics. All they can do is take other 
+actions that will restore the people's con 
+fidence again. 
+
+All in all, it should take at least four 
+
+
+game weeks to play the material here. 
+When the adventure is over, check the 
+Totaling The Points Table to see how 
+well the characters are doing in accumu 
+lating Confidence Points. 
+
+The Annoyances 
+
+The Noble Zombie 
+
+Shortly after Lord Gereint is buried, 
+frightened townspeople will say that he is 
+alive again, and walking about the coun 
+try. Tracking down the stories, the char 
+acters find that Gereint has been turned 
+into a zombie. Barzan did this with an 
+animate dead spell. Under dose examina 
+tion, the characters will discover that 
+Gereint T s tomb, in the manor graveyard 
+outside the wall, has been broken into. 
+The damage has been cleverly con 
+cealed, and only a master thief (Mutt, to 
+be exact) could have done it. The Magis 
+trate loses 5 CP for letting this happen. 
+
+If the characters make sure Gereint is 
+cremated then this won't occur. 
+
+The Turbulent Fens 
+Fenfolk complain that their boats are 
+being upended on perfectly dear, calm 
+days. Barzan has conjured a water elemen 
+tal and used a permanence spell to keep it in 
+existence in the swamp. He set it to work 
+overturning boats on a schedule the char 
+acters can figure out after a few reports. 
+The Magistrate receives 25 CP for elimi 
+nating this menace, -5 for every day 
+after the first report until it is destroyed. 
+
+The Cursed Cleric 
+
+Visiting Anselm the village deric dis 
+guised as a parishioner, Enzo curses the 
+poor man by reducing his Intelligence by 
+1 point. Then Enzo returns and repeats 
+the curse every two days or so. Eventu 
+ally, Anselm is barely able to remember 
+his prayers and sermons and rhe names 
+of his parishioners. The Magistrate loses 
+10 CP for allowing this to happen to such 
+a well-loved old man, but gains 25 CP if 
+he manages to cure him. 
+
+The Traitor Within 
+
+Oieena tries to obtain a job as part of the 
+
+Magistrate's staff (parlor maid, if that's 
+
+
+all she can get), then use charm person to 
+extract valuable information from other 
+workers or even some of the characters. 
+She also uses the spell to make retainers 
+do things which would embarrass the 
+Magistrate, commanding them to forget 
+she gave them the order in the process. 
+
+If caught, she might take this opportu 
+nity to turn traitor to Barzan, which she 
+is indined to do (see NPC descriptions). 
+
+The Dragon 
+
+Snagglefang, a large black dragon* is 
+roosting in the swamp near the hills 
+where the Bamaby-Under-Bramble half- 
+lings live. Snagglefang is the cause of the 
+loss of some of the halfllngs* sheep and 
+the dairymen's cows, and he has been 
+sighted a couple times from a distance. 
+He is taking advantage of Barzan's reign 
+of terror to feed with little fuss. 
+
+Finally, however, just as the characters 
+are getting settled into their new jobs, a 
+delegation of Fenfolk arrive at the gate. 
+
+
+The Fenfolk hang on the gate and 
+demand entrance. When you let them 
+in, they demand "An* what will you 
+be doin' about the dragon, eh?" 
+
+When you ask what they are talking 
+about, the spokesman says, 4i Thar I 
+be, just goin' out to the island what 
+holds my milkin' cattle, when this 
+boomin' great flying lizard comes 
+along and scoops up my Nancy cow 
+before my very eyes " 
+
+Further questions elicit the information 
+that the Fen man is Gothhold, one of the 
+influential chiefs of the Fenfolk. Nancy is 
+a prize-winning cow that took first place 
+twice in a row at the Festival of the Fens, 
+much to the chagrin of the land-dwelling 
+human dairymen. If the Fenman hadn't 
+seen the dragon with his own eyes, he 
+would be it was jealous dusteaters that 
+stole it. 
+
+If the characters ignore the dragon ini 
+tially, they lose 25 Confidence Points 
+immediately, and 5 more per day they 
+don't get after the dragon. If the Magis 
+trate offers to recompense the Fenfolk for 
+the loss of the cows, he gains 10 CP for 
+
+
+17 
+
+
+
+
+
+ADVENTURES IN FENHOLD 
+
+
+paying the proper price, 25 gp each, and 
+a CP for every gp over that amount. 
+Offering a lesser amount loses 1 CP for 
+every gp under the proper amount- 
+Promising to track the dragon down 
+gains 10 CP Killing the dragon is worth 
+50 CP Otherwise removing the menace 
+of the dragon is worth 25 CP. 
+
+Snaggle fang, a huge black dragon 
+AC -1 
+HD 12**** 
+hp 80 
+
+MV 150 r (50 , y360 f (120') 
+
+#AT up to 6 
+
+D Bite 2dI0 + 6 daws ld8 + 2 kicks 
+ld8 + 2 (only in air) tail ld8*2 
+(only on ground) Breath - to cur 
+rent hit points 120 # x5 # line 
+Save as F24 
+Morale 10 
+-Alignment: C 
+XF 6,100 
+Spells: 
+
+First level: charm person, detect magic, 
+tight . protection from evil, ventriloquism 
+Second level: ESP, mirror image, detect 
+invisibility 
+
+Third level: dispel magic 
+
+Treasure: 17,000 cp, 25,000 ep, 33,000 
+gp, 20,000 pp, 61 gems at an average 
+of 350 gp each, 28 jewelry at an aver 
+age of 1370 gp each, hand axe +7, 
+charming 
+
+Note that Snagglefang is actually about 
+halfway in development between a large 
+and a huge dragon. He is full size for a 
+huge dragon, it's just that the rest of him 
+hasn't grown into the shape. 
+
+Finding Snagglefang 
+
+Snagglefang* s lair is like a crocodile bur 
+row; its entrance is under water. The 
+dragon comes out every week to hunt* 
+Snagglefang's burrow is at Location 7 
+on the dominion map. It will take some 
+detective work to find it. 
+
+Fighting Snagglefang 
+
+Snagglefang will avoid a fight with more 
+than four obvious high level humans if at 
+ail possible. If surprised in bis burrow, 
+he will break out and take to the air, 
+
+
+abandoning his treasure. If pursued in 
+the air by some of the party, (less than 
+four) he will turn to fight. 
+
+If he succeeds in escaping, he may be 
+return to rescue his treasure from house, 
+probably when he has made sure that 
+most of the major inhabitants are else 
+where, 
+
+Snagglefang is aware of Barzan *s pres 
+ence. Barzan has appeared to him and 
+offered to take Snagglefang on as a lieu 
+tenant and mount. Snagglefang 
+declined, but felt he would be in real 
+trouble trying to attack Barzan Barzan 
+left peaceably, but promised to return 
+once the dominion was rightfully his. 
+Snagglefang knows a good deal about 
+what Barzan intends, though he has no 
+idea where Barzan is, and docs not know 
+that Barzan has called himself the 
+"Waterford" in other circumstances* 
+
+The Kidnapping 
+
+One foggy dawn, just as the manor is ris 
+ing, there is a commotion at the gates. 
+Accompanied by most of the fighting 
+
+
+halflings in his town, aherrifT Oakleaf 
+Green of Hollydown is demanding to see 
+the Magistrate on a matter of justice. 
+Since the sheriff is an important being, 
+the players should have their characters 
+hurry to the gates to see what's wrong. If 
+they don 1 *, subtract 2 CP from their run 
+ning total. 
+
+The sheriffs daughter has been kid 
+naped* The day before, she went with 
+two friends to gather wild mushrooms in 
+the hills. Although the friends stopped 
+early to rest, Larkfeathcr went farther into 
+the hills, where she was abducted by 
+human bandits* 
+
+These bandits have now sent a mes 
+senger to the sheriff demanding that the 
+halflings give them three weeks rations, 
+2,000 gp, and horses* Sheriff Green has 
+come most honorably to the Magistrate 
+instead* 
+
+If the Magistrate refuses to rescue 
+Larkfeaiher, the DM should subtract 20 
+CP from the total. If the player charac 
+ters rescue her* add 20 CP 
+
+The bandits are hiding in location 6 on 
+the DM's dominion map, in a ruin. 
+
+
+
+18 
+
+
+
+
+ADVENTURES IN FENHGLD 
+
+
+
+# ( Brush 
+
+
+Kidnaping 
+
+
+.Wall foundation 
+
+
+Trapdoor- 
+
+
+Third Level 
+
+
+Broken 
+
+
+foingnpr 
+
+
+
+m 
+
+
+Jfgi 
+
+
+
+? 
+
+
+- 1 
+
+¦ 
+
+
+-i 
+
+* 
+
+-j 
+
+-i 
+
+r 
+
+- 
+
+
+
+
+K 1 
+
+
+
+
+rVN^S- 
+
+¦ 
+
+_ 
+
+
+¦i 
+
+¦ 
+
+
+
+
+
+
+
+
+¦i 
+
+ii 
+
+
+
+
+- 
+
+
+
+* 
+
+
+% 
+
+Down -J 
+
+n 
+
+1 
+
+_ 1 
+
+- 
+
+
+_j 
+
+¦ 
+
+
+
+
+
+
+
+
+
+¦ 
+
+
+4 
+
+& 
+
+m ^ 
+
+
+3 
+
+1 
+
+Pn 
+
+u 
+
+
+i 
+
+L_ 
+
+
+
+) 
+
+
+
+
+
+- 
+
+
+
+This ruin was an outpost of the ancient 
+city in the swamp, It is connected to the 
+city by a tunnel, unknown to Barzan and 
+hb followers. The tunnel is filled with 
+water, but Barzan had Jason Darkspdl (see 
+below) pul a water breathing on everyone 
+in his party and then put a permanence 
+spell on it. 
+
+If the characters take the bandits pris 
+oner, the highest ranking remaining 
+member will bargain for their lives with 
+the information that the tunnel can take 
+them to the source of all their problems, 
+by a way Banian knows nothing about! 
+
+The Bandits 
+
+Dorn Ltmgwalker, 12th level fighter, 
+(AC 0; hp 50; #AT 1; D 3-10; MV 120'; 
+
+
+Save FI2; ML 7; AL N; XP 1,100) sword 
++ f leather + 3, shield + f ring of Jire resist 
+ance, 9 gp T 32 sp T 1 gem worth 310 gp 
+Marly s Quickblade, 8th level fighter, 
+(AC 3; hp 52; #AT 1; D 3-12; MV 120 r ; 
+Save F8; ML 8; AL C; XP 650) two- 
+handed sword + 2; chain mail +7, 5 pp 
+Jason Darkspdl f 8th level magic user, 
+(AC 4(2); hp 28; #AT 1; D 2-5; MV 
+180'; Save M8; ML 8; ALC; XP 1,200) 
+Amulet of Shield*, dagger + l t wand of fire 
+balls (9 charges), 14 gp, 15 sp 
+Spells; 
+
+First level: charm person, light T magic missile 
+Second level: detect invisible, web, mind- 
+mask (reverse of ESP) 
+
+Third level: dispel magic , water breathing 
+Fourth level- confusion, polymorph others 
+
+
+* Amulet of Skidd is an amulet that has had 
+a shield spell placed on it, and then made 
+permanent with a permanence spell. The 
+skidd also protects the amulet's wearer. 
+
+Vleieslav Radu f 8th level thief, (AC 3; 
+hp 24; #AT 1 (sword or crossbow); D 2-9 
+(sword) 1-6 (crossbow); MV 180'; Save 
+T8; ML 7; AL N; XP 450) leather + P, 
+sword +7, crossbow +5, 12 gp 
+
+Note that Vleteslav is one of the Radu 
+family of Specularum (See GAZ 1, Kara- 
+meikos). Anyone harming him might 
+have a vendetta declared against him by 
+this important underworld family in a 
+neighboring kingdom. 
+
+Dominick and Olafi 5th level fighters, 
+(AC 4; hp 22, 24; 0 AT I (sword or bow); 
+D 1-8 (sword) or 1-6 (bow); MV 120'; 
+
+
+19 
+
+
+
+
+
+
+
+ADVENTURES IN FENHOLD 
+
+
+Save F5- ML 8; AL C; XP 175) each has 
+chain mail, shield, sword and long bow, 
+
+Quintus and Mellisandre x 6th level 
+thieves, (AC 6; hp 15, 17; #AT 1 (sword 
+or bow); D 1-8 sword or 1-6 bow; MV 
+180'; Save T6; ML 7; AL N; XP 225) 
+each has leather, sword and bow. 
+
+DM Notes 
+
+Another time to have Sheriff Oakleaf 
+appear would be during the Magistrate's 
+Erst court, or when the new Magistrate is 
+having an introductory gathering. If the 
+sheriff is invited and doesn't attend 
+because he was searching for his daugh 
+ter, this gives the players something to 
+speculate about until the truth is discov 
+ered, either by the arrival of Oakkaf or 
+an investigation by the characters. 
+
+If the player character team seems too 
+powerful for Barzan's group to handle, 
+leave some of these followers behind to 
+holster Rork's group, and let the player 
+characters have an easy time with the 
+remaining bandits and obtaining the 
+dues. 
+
+Alternately* the same statistics can be 
+used for more of Rork's followers, per 
+haps changing the magical items, if any, 
+of the followers* There is no need to 
+change any of the primed statistics, as 
+chain mail + 2 is the equivalent of leather 
++ 3 and a - 1 adjustment to AG for Dex 
+terity, a battleaxe + / does the same dam 
+age as a sword + } , and so forth. 
+
+The Festival of the Fens 
+
+This festival is an annual event meant to 
+mark the return to the marsh of the Blue 
+Dancers, a large member of the swallow 
+family which returns to the dominion 
+every year at the same time. 
+
+DM Notes 
+
+These birds originally nested in the trees 
+which lined the boulevards of the now- 
+sunken city where Barzan has his head 
+quarters. The birds always cirde the city 
+before looking for another nesting place. 
+Using speak with animals on any of the 
+birds will get directions on how to reach 
+the spot they cirde. The birds mention 
+the tower, if asked about it. 
+
+
+The Festival 
+
+There are contests with prizes and vari 
+ous shows and entertainments. Often 
+high-ranking elves from Alfheim come 
+down from the forests, and sometimes 
+members of the Inner Council of Daro- 
+kin have visited. 
+
+The Usual Program , 
+
+Traditionally, the Festival takes place at 
+location 8 on the dominion map. This is 
+an area with a wide greensward for a 
+tournament and other contests and a 
+beach area with a large body of water for 
+boating and other contests. 
+
+The festival starts at dawn with 
+speeches by all the village headmen who 
+want to give them. Then there is enter 
+tainment by the local entertainers, 
+mostly third rate musicians and singers 
+and tumblers, induding Dulcet Sweet- 
+song, and whatever wandering enter 
+tainers may be passing by or come 
+especially for the festival. 
+
+Food is served continuously, usually 
+from the storerooms of the Magistrate. 
+Children are constantly underfoot play 
+ing their own games, or having self- 
+judged contests inspired by those of the 
+adults around them. Numerous fights 
+among the children must be broken up 
+throughout the day. 
+
+After the initial welcoming speeches 
+by the headmen, other community lead 
+ers are expected to speak during the day* 
+including the new Magistrate and the 
+friends he has appointed to various posts. 
+
+To one side of the site is an open-air 
+market. Many traders from other 
+dominions make a point of coming to this 
+market every year. 
+
+Barzan J r plan 
+
+This is the ideal place for Barzan to make 
+his rivals look ineffectual. Barzan* 
+Qleena, Enzo, and Murr, and other fol 
+lowers will join the festivities as wander 
+ing entertainers. Enzo pretends to be a 
+simple pilgrim given to portentous pro 
+nouncements* Barzan and Oleena pre 
+tend to be low level magic-users 
+providing entertainments, and Murr 
+pretends to be an acrobat. 
+
+
+Barzan V Dirty Tricks 
+
+Barzan ? s group attempts to mingle with 
+the crowd and cause general havoc 
+whenever possible. They are aware that 
+the Magistrate and his friends arc watch 
+ing for such problems, and always work 
+to keep themselves out of sight when 
+using their spells and abilities. 
+
+Some possible dirty tricks they use are: 
+
+* Barzan, as pan of a magical display, 
+casts confusion over an important* and 
+armed person. 
+
+* Barzan casts a phantasmal forces of 
+one of the huts burning. 
+
+* Barzan summons a water elemental 
+and uses it to tip over boats during one of 
+the boating events. 
+
+* Enzo casts cause disease on one of the 
+leaders of the Fenfolfc. 
+
+m If Enzo is caught, he casts cause light 
+wounds on the first person near him. 
+
+* Enzo uses his disguised staff of with 
+ering only after Barzan makes a getaway 
+which does not include Enzo, 
+
+* Murr steals some item of value from 
+one of the Fenfolk and plants it on a half- 
+ling or human, or vice versa. 
+
+* Oleena casts sleep on an important 
+visiting leader or speaker. 
+
+* Oleena or Barzan casts confusion on 
+the performers. 
+
+Finding Barzan 
+
+If Barzan la discovered, he will attempt 
+to escape in the underwater boat {see his 
+character description), which is 
+anchored just under water in the swamp. 
+J ust before he leaves he casts meteor swarm 
+on the closest collection of buildings to 
+cause panic among the members of the 
+community. He will leave any of his fob 
+lowers behind that can't make it to the 
+boat, vowing to return for them* 
+
+
+20 
+
+
+
+
+INTO THE GREAT SWAMP 
+
+
+Finding Barzan 
+
+By now the characters should know that 
+their main enemy ts Barzan, and have 
+several dues on how to find him. If eve 
+rything has been done correctly, they 
+should know of both the hidden tunnel to 
+the center of Barzan's headquarters and 
+the general direction of the tower in the 
+swamp. 
+
+Characters who can Jly should have no 
+trouble finding the tower eventually, and 
+guiding their friends to it. However, 
+most groups trying to reach the tower 
+will have to travel through the swamp. 
+
+Traveling through the Swamp 
+
+The Deep Swamp is a morass of ever 
+changing blind waterways, snags chat 
+could tear a boat apart, and strange crea- 
+tures. The characters have to cross 10 
+miles of swamp lo reach the tower, and 
+that takes five hours of travel. 
+
+Roil Id6 for each hour of travel. A roll 
+of 1-2 means that the DM should roll 
+once on the Deep Swamp Encounter 
+
+
+Table, Most of the monsters are 
+described in the New Monsters section of 
+this book. The Barzan patrol consists of 
+one of his top aides, Rork f Enzo, or 
+Gicena, and a half-dozen followers. If 
+Rork is leading, there is a magic-user, 
+otherwise they arc all fighters. 
+
+If confronted by prepared, well-armed 
+group of adventurers, the patrol returns 
+to the tower, using previously established 
+byways that the characters do not know 
+of, thus returning in time to warn Barzan 
+that company is coming. If the patrol 
+happens on the remnant of a force, per 
+haps already decimated by one or more 
+of the other monster encounters, they 
+attack. Their tactics are to sink any sur 
+viving boats and then kill the characters 
+in the water Remember that all of Bar 
+zan's people have water breathing spells 
+with permanence on them. 
+
+If the characters chance on the velya (see 
+the Deep Swamp Encounter Table)! and 
+do not succeed in kill i ng him, news of their 
+presence gets hack to Barzan through the 
+velya he T s befriended. 
+
+
+Deep Swamp Encounter Table 
+
+ld6 Encounter 
+
+! Giant Eels 
+
+2 Velya 
+
+3 Barzan Patrol 
+
+4 Giant Swamp Snapping Turtle 
+
+5 Nekrozon 
+
+6 Giant Swamp Slug 
+
+Barzan's Lair 
+
+Barzan is hidden in a tower that rises out 
+of the swamp (see map). The tower is 
+covered with moss, and there is no sign 
+of life except for the guards who pace on 
+the balcony that circles the fifth floor of 
+the lower. 
+
+The first floor is entirely submerged, 
+and the water seems to rise as high as 
+midway up the second floor. 
+
+Inside, a visitor sees that not much has 
+been done to make the place homey. The 
+centuries have left their mark on this 
+tower, and Barzan's people have done lit 
+tle to improve it* The leaders have spent 
+most of their time around the dominion, 
+causing trouble,, and the followers have 
+
+
+
+21 
+
+
+
+
+
+
+INTO THE GREAT SWAMP 
+
+
+
+little incentive to repair the tower when 
+their leaders are away. 
+
+The Rooms 
+
+1. The Gate Room. This was originally the 
+main entry hall of the building. The cre 
+ators of the gate to the Plane of Water 
+placed it where the room widens out. 
+Now it also serves as the docking area for 
+Barzan's underwater boat. If Rarzan is in 
+the tower, the boat is here, facing the 
+always open door* ready for a quick exit, 
+2 , These rooms are all disused and full of 
+water There are numerous cracks in the 
+walls which let in all manner of small 
+swamp life. 
+
+3. This stairway leads to the upper sto 
+ries. Coming from the undersea boat dock, 
+inhabitants usually swim until they reach 
+dry steps on the second level, then walk. 
+
+4, This is where the tunnel leading to the 
+bandits* lair begins. Barzan does not 
+know of its existence. 
+
+5- Stairwell leading to the first and third 
+floors. The water Alls the room to about 
+halfway up the stairs. 
+
+6. This room has been magically cleared 
+of all water, and is ready to be used to 
+drain water out of the stairwell if Barzan 
+thinks it necessary, 
+
+7. This room, too, is empty of water and 
+can be used as a water drain if need be. It 
+also has a ladder which can be used for 
+access to the next higher level. 
+
+
+8, These rooms are full of water, and can 
+be used to flood the level if Barzan con 
+siders it expedient. Anyone opening a 
+door to these rooms is immediately inun 
+dated with water, and all the doors to the 
+other Room 8s open as well. 
+
+9, This is the stairwell leading to the sec 
+ond and fourth floors. To the east is a 
+door opening on to a shaft with a ladder, 
+which also leads to the fourth floor. 
+There are generally two guards stationed 
+here at all times, 
+
+10, This is the guardroom for the floor. 
+Four guards use it as a ready room in 
+case they are needed to support the 
+guards in room 9 or 13. The room is fur 
+nished with a table and chairs (there are 
+usually playing cards and about 20 sp 
+and 50 cp in table stakes at any given 
+time), and commodes and closets on the 
+eastern wall. 
+
+11, This bare room is full of water The 
+water is there so that Barzan or Oleena 
+can cast a conjure water elemental spell on it. 
+Rork (see room 12) thinks that its func 
+tion is to aid him if he is under attack. 
+Actually it will attack everyone in Room 
+
+12 , 
+
+Water elemental (AC -2; HD 16; hp 75; 
+Move 60' (20'); #AT 1 or special; D 3-24 
+(plus 1-8 in water); save as Fighter 16; 
+Morale 10; AL N; XP 1*350) 
+
+12. Rork's room. If the tower is invaded 
+and he is aware of it, Rork goes from 
+here to Room 9 to support his guards. 
+The room is furnished with what little 
+loot Rork could bring from the North 
+lands, much of which is mildewed now. 
+The fabrics and other hangings here 
+would fetch perhaps 2,000 gp on the 
+open market. In a small chest under his 
+bed, Rork keeps his getaway money of 30 
+gems with an average value of 250 gp, 
+and a muzzle of training. 
+
+13. This room has two guards who watch 
+the ladder up from the second floor. 
+
+14. This stairwell leads to the third and 
+fifth floors, 
+
+15. This room is a stairwell guard room 
+which is generally empty. If the guards in 
+rooms 9 and 10 are sorely pressed, they 
+retreat here to defend the stairwell. 
+
+16. This is Ertzo's chapel to the chaotic 
+immortal of sea and storm that he wor 
+
+
+ships. On the east wall of the room is an 
+altar with a representation of an amor 
+phous creature with several heads and 
+tentacles. The room is lit by a continual 
+light spdl and otherwise unfurnished. 
+
+17. This room's main function is to hold 
+the commodes for Enzo and anyone 
+using the temple lor worship. There arc 
+torches at the doors to supply light, 
+
+18. This is Enzo's room. It is lit by a con 
+tinual light spell, and sparsely furnished 
+with whatever he has been able to scare 
+up. Much of the furniture is made of 
+stone and looks like it has been under 
+water for centuries, which it has, Enzo 
+has spent many days searching the ruins 
+of the drowned city for usable items. 
+Most of it is carved in ways and motifs 
+unknown today, and the furniture itself is 
+probably worth 10,000 gp to a collector 
+of antiquities, (A few can be found in 
+Darokin.) 
+
+Enzo keeps his personal fortune in a 
+secret compartment in the ornately 
+carved throne-like chair Enzo sits in 
+when entertaining visitors. There are 
+300 gp, 50 pp, and a complex piece of 
+neck and chest jewelry worth 30,000 gp. 
+
+On the east wall is a ladder leading 
+down to level three. Guards cut off from 
+the stairwell during an attack can use the 
+ladder to gain the next level. Enzo dis 
+courages its use for anything else. 
+
+19. This concealed room has not been by 
+Barzan or his minions. It is a remnant 
+from the original inhabitants. Inside are 
+two bronze golems whose function is to 
+defend the paintings stacked in racks 
+behind them. Unfortunately, mildew has 
+already attacked the paintings and they 
+are worthless, though this is not obvious 
+until one holds one of the paintings and 
+examines it. Visitors to the room must 
+give the long forgotten password or be 
+attacked when they have fully entered 
+the room. 
+
+Bronze golems (2) (AC 0; HD 20"; hp 
+100; MV 240 r (80 r ); #AT 1 fist + special; 
+D 3-30 + 1-10 from interior heat; Dam 
+aged only by magical weapons or magic, 
+edged weapon user must make saving 
+throw vs death or take 2-12 from Fiery 
+blood; immune to sleep , charm, hold , and 
+Fire-based spells; save as Fighter 10; 
+
+
+22 
+
+
+
+
+Fourth Floor 
+
+
+Sixth Floor 
+
+
+Fifth Floor 
+
+
+Secret door 
+
+
+Ladder 
+
+
+J C Q > Table 
+9 Q Latrine 
+cl Closet 
+
+
+-o- Door 
+I'rr'l Altar 
+
+
+2^ Spiral staircase 
+
+-Curtain 
+
+-G- Concealed door 
+
+
+swamp bed 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+INTO THE GREAT SWAMP 
+
+
+Morale 12; AL N; XP 4,300 each) 
+
+20. This is the stairwell leading to the 
+fourth and sixth floors. It is also the liv 
+ing space of Muit the Weazel, Barzan T s 
+chief thief. Murr shares the room with 
+another thief, a female who is identical to 
+the 6th level thieves shown elsewhere. 
+
+The room is sparsely furnished, and 
+has a door leading to the troops' barracks 
+and another door to the balcony that 
+encircles the tower. When home, Murr 
+can usually be found in this room, sharp 
+ening his knives and sword and planning 
+new* plunderings. 
+
+Muir's personal treasure is cleverly 
+hidden under a riser on the stairway in 
+his room. It consists of a bag of holding 
+with 650 gp and 150 pp and 20 matched 
+gems, each w-orth 50 gp (a total of 1,000 
+gp), or 5,000 gp as a set. 
+
+21. This is Oleena's room, which she 
+shared with Jason Darkspel! until his 
+defection. The room has a tapestry on 
+the south wall that Oleena wove herself, 
+depicting aquatic scenes, 
+
+Oleena 1 s personal treasure is under 
+her bed, and consists of 500 gp, 25 pp, a 
+ring worth 600 gp, a necklace worth 
+2,000 gp, and a chime of time, 
+
+22. These are Barzan T s personal quar 
+ters, and contain an entrance into 
+Oicena's room, one into the barracks, 
+and one to the outside balcony There is 
+also a secret door to room 24. Barzan's 
+rooms are painted (most of the others are 
+bare stone with moss) an aquamarine 
+shade. None of Barzan's personal trea 
+sure is in this room. 
+
+23. These barracks are used by the 
+guards not on duty on the third floor 
+below. The group that defected also used 
+some of these beds. Hidden among the 
+belongings of the troops are an average 
+of 30 ep, 100 sp # and 25 cp each. 
+
+24. This secret room is full of water. Bar 
+zan will use it to conjure a water elemen 
+tal if he needs the assistance. An invisible 
+stalker appears in the room die minute the 
+elemental leaves, commanded there 
+through a pact from long before. 
+
+The room contains Barzan's personal 
+treasure: a watertight chest holding 200 
+gems worth a total of 30,000 gp, all aqua 
+marines, pearls, and other gems associ 
+
+
+ated in one way or another with water, 
+and two crowns stolen from merman 
+royalty worth 50,000 gp each (or 250,000 
+gp in pearls and such to the merpeople), 
+
+25, This balcony goes all the way around 
+the tower. There are always four guards, 
+each 90 degrees apart on the balcony. 
+
+26, This is the stairwell to the fifth floor 
+There arc always two guards stationed 
+here to guard against attack from above, 
+
+27, This is a ready room for reinforce 
+ments for the guards in Room 26. 
+
+28, This room houses more of Barzan's 
+guards: outlaws who rode with Rork + 
+there are eight guards living here. 
+
+29, This secret room has never been 
+found by Barzan's group. It holds the 
+mol dering remains of many top-secret 
+government documents from the era 
+before the city drowned. 
+
+30, R ark's current second-in-command, 
+Ferris SUelsoul, lives here and commands 
+the top floor guard. He also controls the 
+access to the troop's treasure room. 
+
+31, This room has been given to the out 
+laws to hold their full treasure in com 
+mon, It is full of small bags and chests, 
+each marked in some fashion with the 
+identifying sign of an outlaw. There are 
+20 of these containers (the ones belong 
+ing to the defectors were opened and the 
+loot redistributed to the others). Each 
+contains the equivalent of 1,000 gp in 
+various coins and gems. 
+
+32, Commode room. 
+
+Barzan's Tactics 
+
+When the characters reach the tower, 
+Barzan will be in one of two states of 
+alertness. He may be expecting an 
+attack, but be uncertain of when because 
+he has had no notice of their coming; or 
+he will know they are coming and be 
+awaiting the characters. 
+
+The only difference in the situations 
+when the characters attack will be wheth 
+er some of the guards are still in the ready 
+rooms, or all are at the guard positions. 
+
+Otherwise, his plans depend on where 
+the characters are coming from. In any 
+case, he will never leave the tower which 
+guards the gate to the Plane of Water, 
+even though it might be the best tactic. 
+
+1. From Above. If the characters attack 
+
+
+from the sky, using fly spells, devices, or 
+mounts, Rork, Oleena, and the guards 
+attempt to knock them from the sky, then 
+retreat floor by floor, doing as much 
+damage as possible, 
+
+2. From the Tunnel If the characters attack 
+from die tunnel, Barzan will be unaware 
+of them until they reach the gate room. 
+His immediate reaction will be to force 
+them out of that room , preferably luring 
+them upstairs where they can be engaged 
+without endangering the gate, 
+
+3, From the Surface. If the characters arc 
+depending on boats, Barzan will add his 
+magic to Oleena's to attempt to overturn 
+the boats. In the meantime, any of Bar- 
+zaii *s guards who is struck will pretend to 
+be dead and fall into the water, then use 
+dieir ability to breathe underwater to 
+attack the the characters. 
+
+4. Invisible Approach. At least one out of 
+every guard group has had a detect invisi 
+ble cast on him and kept there with perma 
+nence. Invisible approaching characters 
+are spotted before they reach the tower 
+
+5, Total Surprise. If the characters some 
+how surprise the guards, the thieves will 
+attempt to cither fill attackers full of 
+arrows, if they are at a distance, or climb 
+the walls and wait for opportune backs, if 
+they are in a position to work an ambush. 
+The fighter guards engage the characters 
+to keep them busy while the main villains 
+try to do away with them. Given the 
+opportunity, Oleena surrenders immedi 
+ately and tells all. If all seems totally lost, 
+but Barzan is still free, he tries to reach 
+the gate and immigrate to the Plane of 
+J4ter. Murr runs at the first opportunity, 
+while Rork and Ferris fight to the death. 
+
+
+24 
+
+
+ENDING THE ADVENTURE 
+
+
+When Barzan is destroyed, the adven 
+ture is effectively aver There are more 
+things to do in the Dominion of Fenhold, 
+but doing them passes beyond the pur 
+view of this book. See Further Adven 
+tures section. 
+
+At the time of Barzan's demise, the 
+characters will have been In Fenhold 
+only one month (or thereabouts). How 
+ever, because of die importance of these 
+past few weeks, a Confidence Check is 
+calkd for to determine what the popula 
+tion thinks of their new Magistrate, 
+
+
+Totaling the Points 
+
+Beginning: 225 
+
+Elves Attack and are killed: - 10 
+
+Elves Attack and are sent back to 
+Alfheim: "5 
+
+Search for Gereint: + 5 
+
+Handle Servants well: + 5 
+
+Tyrannize Servants: - 5 
+
+Bring Anselm back to vigor: + 20 
+
+Firing Anselm: - 20 
+
+Successfully deal with complaint: + 5 
+Ignore complaint: - 5 
+
+Push through herd: - 5 
+
+Help herd: + 5 
+
+Kill stampeding cattle: - 5 
+
+Stop stampeding cattle: + 5 
+
+Destroy werewolves: +5 
+
+Stop lynching: + 5 
+
+Ignore lynching: - 5 
+
+Do not investigate lynching: ^5 
+
+Gereint becomes zombie: - 5 
+
+Every day water elemental attacks 
+boats: ^5 
+
+Destroying water elemental: + 25 
+
+Anselm is cursed: - 10 
+
+Anselm is cured: +25 
+
+Handling the Dragon: 
+
+Recompensing the farmer: + 10 
+
+paying over normal price: +i/gp 
+
+paying under normal price: - !/gp 
+
+Tracking the Dragon: +10 
+
+Destroying the Dragon: +50 
+
+Magistrate kills Dragon: +10 
+
+Driving away the Dragon : + 25 
+
+Rescuing Larkfeathcr 
+Ignoring halflings at gate: -2 
+
+Refuse to rescue: -20 
+
+Rescue Larkfeather: +20 
+
+Festival of the Fens 
+
+
+Any unpunished Barzan act: - 2 
+
+Barzan T s Lair 
+
+Driven Away by Barzan: - 15 
+
+Finding Barzan: +5 
+
+Killing Barzan: + 15 
+
+Removing Barzan: +10 
+
+Each party member Jos! forever: - 5 
+
+
+Final Total 
+
+If the final total is less than 2 30, Darokin 
+will find another Magistrate, whether 
+Barzan is still alive or not. 
+
+If the final total is 230-269 (Average) 
+Darokin will retain the character in his 
+office, but keep an eye on him. 
+
+If the final total is 270 (Steady) or 
+more, Darokin retains the character in 
+office and leaves him pretty much to his 
+own devices. The character's recommen 
+dations as to friends who should get 
+dominions will be seriously considered. 
+
+Further Adventures 
+
+Now that Barzan and his followers have 
+been dealt with, what lies ahead for the 
+character who now rules the dominion of 
+Fenhold? 
+
+Uneasy Alfheim 
+
+Alfheim is rethinking its relationship 
+with Darokin and the dominion. Origi 
+nally Alfheim had no objection to Daro 
+kin claiming the territory surrounding 
+Alfheim, In fact, the elves liked having 
+another nation acting as buffer between 
+[hem and the rest of the world . 
+
+Over the last century; most of the 
+dominions possible in the strip of Daro 
+kin which encircles Alfheim have been 
+occupied. The elves now wonder if Daro 
+kin intends to start encroaching on the 
+forests of Alfheim in a search for addi 
+tional farmland? 
+
+This is a question for the DM (o 
+resolve for his own campaign. Look for 
+the upcoming GAZ 5, Alfheim, for more 
+information on the Alfheim side of the 
+matter. Even without this source, there 
+are adventures that can be run using just 
+the information available. 
+
+Here are few springboards for future 
+adventures. 
+
+
+The Hunters 
+
+The elves of Alfheim are primarily 
+hunters. The northern boundary of 
+Fenhold runs right into Alfheim, and the 
+boundaries of Fenhold and Alfheim are 
+nebulous, to say the least. 
+
+Now a new tribe of elves has set up a 
+stronghold near the border They are 
+pursuing their intended targets into 
+Fenhold, shooting the occasional cow or 
+sheep in the process, seemingly more for 
+a joke than mistaking them for legitimate 
+prey 
+
+A deputation sent into Alfheim to stop 
+these incursions must first find the new 
+stronghold, then deal with its clan leader, 
+who is either the leader of the dven 
+ambush at the start of this adventure, or 
+a dose relative if that elf was killed* 
+
+The dan leader will do his best to 
+humiliate any human or other non-elf 
+sent to talk to him, and to persuade any 
+elf that he should change sides either 
+overtly or covertly. 
+
+Any attack by the deputation will be 
+met with an attack, and then the elves 
+fade into the brush. The Magistrate is 
+faced with a continuing guerilla war on 
+his border. 
+
+The Monster 
+
+The elves like to hunt monsters and 
+therefore, they do not take the trouble to 
+root out chaotic creatures in their areas. 
+Instead, they just hum them to keep the 
+numbers down and provide some exdte- 
+meat. 
+
+The occasional monster will venture 
+from the forests of Alfheim to ravage 
+some crops or croptenders, then fade 
+back into Alfheim* By treaty official 
+forces of Darokin cannot pursue such 
+creatures into Alfheim. This includes the 
+Magistrate's private army. Of course, if 
+the Magistrate and his friends just want 
+to go hunting, they can do so, 
+
+Alfheim does keep an eye on hunting 
+parties loaded down with magic and 
+armor. This doesn't fit their idea of fair 
+hunting. Unless the party wants to try to 
+sneak Into Alfheim, virtually impossible 
+thanks to the dven empathy with the ani 
+mals of the forest, they will have to fit 
+elven ideas of proper hunter gear. 
+
+
+25 
+
+
+
+ENDING THE ADVENTURE 
+
+
+The Invasion 
+
+If the halflings of the dominion are 
+downtrodden by the humans, they might 
+look for some other masters to help them. 
+Halflings have always admired elves. A 
+particularly human-centric administra 
+tion could cause a dan of elves entering 
+the administration in order to aid their 
+small friends* 
+
+The final resolution of these disputes, 
+all of which hark back to the tension 
+between Darokin and Alfheim, and how 
+much this will have to do with Fenhold is 
+up to the individual DM. 
+
+The Sunken City 
+
+Another plot thread left for the Magis 
+trate of Fenhold is the sunken city that 
+Barzan took for a headquarters. We do 
+not supply a map of it, leaving that as an 
+exercise for the DM. There are a number 
+of questions left as exercises for the play 
+ers. 
+
+Origins 
+
+Where did this city come from? Is it as 
+old as Blackmoor, or a relative new 
+comer, only about a thousand years old? 
+This depends on what the DM wants, If 
+it dates from the Blackmoor period, it 
+might contain some vestiges of the 
+
+
+strange technology that eventually 
+doomed Blackmoor and its allies. 
+
+Explorations 
+
+The city is large, and it may be tenanted 
+by more than the velya mentioned earli 
+er Moreover, it was drowned quickly, 
+with little chance for people to escape. 
+The Fen folk are descendants of survivors 
+who were out of the city when it 
+drowned. 
+
+This means that there arc quite likely 
+untold riches and adventures down 
+there, ready for the DM to chart and the 
+characters to investigate* It's an ideal 
+place for some underwater adventures. 
+
+Clearing the Swamp 
+
+One thing that the Magistrate will know 
+after the adventure is over is that the 
+swamp is entirely artificial,, and would 
+e ventually d ry up if the gate is closed. Do 
+the player characters want to do this? 
+
+Taking such an action arouses aU of the 
+antagonism that has made the dominion 
+such an interesting place to live m so far 
+There isn't much of a chance for combat, 
+but the political infighting could be fasci 
+nating for a relatively small gaming 
+group* 
+
+Drying up the swamp makes the 
+
+
+straighter route for the trade road possi 
+ble, without a causeway* It also destroys 
+the life of the Fenfolk. It might also make 
+the area too dry to maintain the lush 
+farmlands the farmers prefer, though few 
+of them would have thought of such a 
+thing* 
+
+If the Magistrate decides to just dose 
+the gate and let the swamp die olT, it 
+would take about twenty years or more* 
+This would arose the ire of, among oth* 
+ers, delicacy importers who depend on 
+the eel trade. This could be a major chal 
+lenge to both DM and players' role play 
+ing skills. 
+
+The Alternatives 
+
+Without Barzan to interfere, the Magis 
+trate could let the gate remain open and 
+simply use magic such as wall of stone and 
+lower water and other magics to create a 
+causeway that could be used and still leave 
+the Fenfolk most of their way of life* 
+
+Instead of a causeway, he could also 
+just bridge the islands and create a more 
+costly road for the traders, It could create 
+jobs for the Fenfolk in maintaining the 
+bridges, All this expense would probably 
+put the dominion in the red for ten years 
+or so, but then the various tolls for the 
+bridges would start to provide a profit. 
+
+
+
+26 
+
+
+
+
+
+
+
+
+NEW MONSTERS 
+
+
+Some of the following monsters are simi 
+lar to ones previously published in TSR 
+publications. However* their restricted 
+environment in the Fenhold swamp, cut 
+off from most other swamp creatures, 
+has made them somewhat different. Oth 
+er monsters encountered, such as the 
+crocodiles summoned by velya, are 
+exactly the same as those described in 
+other publications. 
+
+Giant Swamp Eel 
+
+Armor Class: 5 
+Hit Dice: 6 
+Move: 180' (60') 
+
+Attacks: 1 bite + special 
+Damage: 2-16, drowning 
+No. Appearing: 0{1) 
+
+Save as: Fighter 3 
+Morale: 9 
+Treasure Type: Nil 
+Alignment: Neutral 
+XP Value: 500 
+
+About 20 feet long, giant swamp eels are 
+black on their upper side and grayish 
+green on the lower. They live in the riv 
+ers and open water of freshwater swamp. 
+Although basically only vicious preda 
+tors, they possess a certain amount of 
+animal cunning. They are the same 
+breed as the common swamp eels, but 
+they have lived long enough to grow 
+gigantic, and have gained wisdom in the 
+process. 
+
+They prefer to lurk unseen in thick 
+water weeds, then leap upon their prey; 
+they have been known to tail a boat for 
+hours until one of the boatmen looked 
+careless. When attacking, they attempt 
+to bite their prey. If successful, they 
+thrash, a convulsive movement that 
+drags the prey underwater, where it 
+begins to drown as the eels swims away. 
+Although they have no treasure, a giant 
+eel provides a lot of valuable meat, 
+though connoisseurs of eel meat feel that 
+the meat loses delicacy as the animal that 
+bears it gets larger. VVhen pickled or 
+smoked for the luxury trade, a typical 
+giant eel is worth 2,000 gp. 
+
+
+Giant Freshwater Slug 
+
+Armor (Jlass: 6 
+Hit Dice: 3 
+Move: 60' (20') 
+
+Attacks: 1 bite + special 
+
+Damage: ld6 + 1, ramming (see below) 
+
+No, Appearing: 0(1) 
+
+Save as: Fighter 1 
+Morale: 3 
+
+Treasure Type: Nil (but see below) 
+Alignment: Neutral 
+XP Value: 50 
+
+This slimy grey scavenger lives in 
+swamps and fen lands, where it fills an 
+important ecological niche by eating eve 
+rything too disgusting for any other crea 
+ture to eat. Although it needs air to 
+breathe, it slides along underwater for 
+long periods while it scrapes its meals off 
+stream bottoms with its mouthful of 
+sharp, inward-pointing teeth. Although 
+it never attacks unless provoked, it does 
+have an extremely dangerous habit. 
+Whenever it needs to breathe, it rises 
+straight up out of the water without both 
+ering to look first to see if there are any 
+boats m the way. Any small boat, up to 
+10 feet in length, so inadvertently 
+rammed will be capsized unless its skip 
+per rolls his Dexterity or less on 8d6 + For 
+boats between 10 and 20 feet, the roll is 
+made on 5d6; between 30 and 40 Feet, 
+3d6. Boats larger than 40 feet are merely 
+bounced around in an irritating way; for 
+instance, if a magic-user were trying to 
+cast a spell at that moment, his concen 
+tration would be broken and the spell 
+lost. If a giant slug is killed and cut open, 
+there is a 10% chance thai its stomach 
+contains a gem, gold item, or 2d6 +1 
+gold coins. All other metals dissolve in 
+the slug's corrosive stomach juices. 
+
+
+Swamp Velya 
+Armor Glass: 3 
+Hit Dice: 7** 
+
+Move: 180'(60') 
+
+Attacks: i touch or special 
+Damage: 1-8 or special 
+No. Appearing: 0 (1) 
+
+Save As: Fighter: 9 
+Morale: It 
+Treasure Type: F 
+Alignment: Chaotic 
+XP Value; 1,250 
+
+This weak form of underwater vampire 
+was once common to the city that now 
+lies under the swamp. Fora few centuries 
+after the city drowned, die velya flour 
+ished, but the lack of visitors to the 
+swamp caused them to turn on each oth 
+er, and now- only a few are left. 
+
+Because they are undead, they are 
+unaffected by sleep, charm , and hold spells 
+and can only be hit by magical weapons. 
+A swamp velya can take the form of a 
+blue-skinned human with gills, an albino 
+crocodile, a white eel, or a water current 
+at will. Each change takes one round* 
+
+Whatever its form, a velya regenerates 
+2 hit points per round (except for fire or 
+acid damage) as soon as it is damaged. If 
+a velya is reduced to 0 hit points it does 
+not regenerate, but becomes a water cur 
+rent and flees to its crypt, where it must 
+rest the whole day. Fire and acid damage 
+is not regenerated until the velya rests in 
+its crypt. 
+
+In crocodile or eel form, the velya's 
+movement, attacks, and damage are 
+those of the animal. The velya's AC t hit 
+dice, morale, and saving throws remain 
+unchanged. In water form, a velya can 
+not attack, but can swim at 180 1 per turn 
+and is immune to all weapon attacks. 
+Some spells affect it, none do damage. 
+
+In human form, a velya may attack by 
+song or touch, or may summon other 
+creatures. The touch of a velya inflicts an 
+energy drain, removing one level of 
+experience, in addition to damage. The 
+creature's song can charm (as the spell). 
+Any victim hearing the song must save 
+vs. spells or be charmed. The song can be 
+heard up to a mile away, but it will only 
+charm within 200 feet of the velya. 
+
+
+27 
+
+
+
+
+
+NEW MONSTERS 
+
+
+
+Once a successful saving throw is 
+made, that character is immune to the 
+velya's song for 24 hours. If the charm is 
+dispelled, the character is still susceptible 
+to the velya's song until he makes a sav 
+ing throw. 
+
+The velya can summon 3-18 croco- 
+diles if they are within one mile. The 
+crocodiles will arrive in I -4 rounds if they 
+are close by. 
+
+Any character slain by a velya will 
+return from death in three days as a 
+wight under the control of the velya. A 
+creature can only become a velya 
+through an ancient and forgotten curse. 
+
+A velya will not come within 10 feet of 
+a strongly presented religious symbol, 
+though it may move to attack from 
+another direction. Swamp velya cannot 
+come fully into the open air or they 
+instantly disintegrate. As long as one 
+part of their body is in the swamp, they 
+remain intact. 
+
+During the day the velya must rest in 
+its sunken grave or crypt. If the grave is 
+blessed with the clerical spell, the velya 
+can get no rest there that day. Failure to 
+rest results in 2-16 points of damage per 
+day. These points are not regenerated 
+until the velya rests in its crypt a full day. 
+Velya cast neither reflection nor shadow. 
+
+A velya can be destroyed by exposing 
+it to air, driving a wooden stake through 
+it while it lies in its crypt, or being turned 
+by a 13th or higher level cleric. The die 
+roll for the number of hi t dice of undead 
+
+
+destroyed must equal or exceed the hit 
+dice of the velya. 
+
+One of the swamp velya has 
+befriended Barzan and lurks around his 
+tower. The other velya report any move- 
+ment they see to this one. 
+
+Giant Swamp Snapping Turtle 
+
+Armor Class: 0 
+Hit Dice: 20 
+Move: 30' (10 f ) 
+
+Swimming: 90' (30 1 ) 
+
+Attacks: 1 bite + special 
+
+Damage: 6*36 
+
+No. Appearing: 0(1) 
+
+Save As; Fighter: 12 
+Morale: 10 
+Treasure Type: Nil 
+Alignment: Neutral 
+XP Valuer 4,175 
+
+This ornery swamp creature can be mis 
+taken for a dragon turtle at a glance, 
+though it is smaller and actually has few 
+dragon traits. Among other things, it 
+does not collect treasure nor does it 
+breathe anything. 
+
+However, like a purple worm, if its 
+attack roll is 4 or more over what it needs 
+to hit its target, or a 20 in any case, crea 
+tures of mansize or smaller are swallow 
+ed whole, taking 3-18 points of damage 
+each round thereafter. 
+
+The main tactic of the giant snapping 
+turtle is to wait by a main waterway, 
+looking like a hummock of ground. As a 
+
+
+boat passes, it snaps its head out of the 
+shell and reaches as much as 30 r for one 
+of the occupants of the boat. Once it has 
+either taken a bite out of a victim or swal 
+lowed him whole, its head snaps back 
+into the shell and it depends on its 
+armored back For protection, 
+
+Nekrozon 
+
+Armor Class: 7 
+Hit Dice: 7** 
+
+Move: 60' (20 1 ) 
+
+Attacks: I Tail/ I Gaze (possible) 
+Damage: 1-6 + special; gaze: special 
+No. Appearing: 0(1-3) 
+
+Save As: Fighter: 4 
+Morale: 8 
+Treasure Type: C 
+Alignment: Neutral 
+XP Value: 1,250 
+
+This monster is described in the Master 
+DM'* Book and is repeated here in case 
+you don't have that book. It is found 
+only in the wilderness, usually in 
+swampy areas. The terrible nekrozon 
+resembles a huge buffalo with a boar's 
+head on a long neck. It attacks with the 
+bony tip of its long tail, and in addition to 
+the damage done, the victim has a 50% 
+chance of falling over, stunned for 1-6 
+rounds T 
+
+The gaze of a nekrozon is a 60' long 
+magical death ray. If it looks at anyone, 
+the victim must make a saving throw vs. 
+death or die immediately. Fortunately, 
+there is only a 1 in 4 chance that the 
+nekrozon will look up when encoun 
+tered; this chance is also checked each 
+round of combat. Even then, it can only 
+gaze at one victim per round. It never 
+looks straight up. Anyone looking 
+directly at its eyes will die without even a 
+saving throw. Few are this foolish, but 
+complete surprise (1 on Id6) indicates 
+that someone (determined randomly) 
+has accidentally done so. 
+
+The nekrozon is immune to energy 
+drains, death rays, and all spells and 
+attack forms causing instant death, 
+including disintegrate except through 
+points of damage. 
+
+
+28 
+
+
+
+NPC STATS 
+
+
+Pre -Generated 
+Player Characters 
+
+Lord Hugh of Redlands, 16th level lord 
+STR 17 TNT 9 WIS 12 THAGO 6 
+DEX 10 CON 14 CHA 15 AL L 
+AC -1 
+
+hp 81 
+
+Languages: Common, Lawful 
+Equipment: plate armor +¦ 3 (cures wounds), 
+shield, bastard sword + 1, + 3 versus giants t 
+INT 9, EGO 3, detect magic, detect gems, 
+detect shifting walls and rooms, heavy crossbow 
++ /, quarrels + 3 (7), boots of traveling and 
+leaping, ring of remedies , hag of holding, 
+potion of haste 3 doses 
+Hugh is an affable, soft-spoken man. He 
+has the common sense to know he lacks a 
+ready wit, but he does have a good 
+instinct for what is fair and just. Since 
+has faced so much grim danger in his 
+time, he has an almost eccentric love of 
+entertainment, particularly of bards, 
+acrobats, and jesters. Lord Hugh is 
+exceptionally generous to his friends, but 
+ruthless to his enemies. 
+
+Hugh is a native of Darokin, and his 
+family has often served on the Council, 
+though his branch of the family have 
+been simple fighters for several genera 
+tions. Councillor Arnulf, for instance, is 
+a cousin of his, though they have never 
+met. 
+
+Athel the Deep One, 
+
+18th level magic-user 
+
+STR HINT 17 WIS 9 THACO 12 
+
+DEX 12 CON 11 CHA 6 AL L 
+
+AC 6 
+
+hp 29 
+
+Languages: Common, Lawful, Elf, 
+Hal fling 
+
+Equipment: ring of protection + 3 t potion of 
+healing (5 doses), carpet of flying, helm of 
+telepathy , dagger + l 
+Spell Book: 
+
+First level: detect magic, light, magic mis - 
+silc } protection from evil, read languages f 
+read magic, shield , sleep , memorize 6 
+Second level: continual light, detect invisi 
+ble, knock, levitate, mirror image , phantas 
+mal force, web, wizard lock, memorize 5 
+Third level: clairvoyance, dispel magic, 
+fireball, infravision, lightning bolt t water 
+
+
+breathing, memorize 5 
+Fourth level; charm monster, confusion, 
+dimension door, ice storm/wall, polymorph 
+self, remove curse, memorize 4 
+Fifth level: cloudkill, dissolve, pass-wall, 
+teleport, wall of stone , memorize 4 
+Sixth level; disintegrate, lower water, move 
+earth, projected image memorize 3 
+Seventh level: delayed blast fireball, lore, 
+power word stun, memorize 2 
+Eighth level: Mind barrier 
+
+Athel got his name from his habit of 
+always keeping his thoughts to himself. 
+Unless he's asked a direct question, he 
+never speaks of personal matters, only of 
+things directly related to the matter on 
+hand. He lives simply, spending all his 
+treasure on magical research; his one 
+real passion in life. Although Athel 
+would never admit it, he admires Hugh 
+and will be glad to help him anytime the 
+lord needs him. Being the Magist for 
+Hugh's dominion would fulfill many of 
+his dreams. 
+
+Athel is a self-made wizard who had 
+little instruction in the magical arts. He 
+despises wizards who come from the 
+magical schools ofGlantri. 
+
+Alys the Cheerful, 16th level cleric 
+STR 13 INT 11 WIS 17 THACO 10 
+DEX 9 CON 13 CHA 10 AL L 
+AC 0 
+hp 55 
+
+Languages: Common, Lawful 
+Equipment: plate armor + 2 (reflection), 
+mace +2, ring of quickness (1 haste per day). 
+
+
+staff of healing (19 charges), helm of reading , 
+slate o f identification, bag of holding, potion of 
+giant strength (1 dose), potion of giant control 
+(1 dose), scroll of protection from undead, 
+scroll of communication , shield 
+
+Spells: 
+
+
+First level: 
+
+7 spells 
+
+Second level: 
+
+6 spells 
+
+Third level: 
+
+6 spells 
+
+Fourth level: 
+
+4 spells 
+
+Fifth level: 
+
+4 spells 
+
+Sixth level: 
+
+3 spells 
+
+
+A compassionate, genuinely pious soul, 
+Alys has one irritating habit. No matter 
+how bad things get, she is firmly and 
+unfailingly cheerful, determined to find 
+
+
+a silver lining even in a tornado funnel* 
+When things are at their worse, she's 
+likely to say, "Isn't it wonderful! Now 
+the gods can test our courage " There 
+have been times when the other party 
+members have been tempted to strangle 
+her, but they know that they need her too 
+much. 
+
+lorg Quiekwrist, 15th level thief 
+STR 12 INT 12 WIS 8 THACO 11 
+DEX 16 CON II CHA 16 AL N 
+
+AC 3 
+hp 36 
+
+Languages: Common, Neutral 
+Equipment: short sword + 2, + 3 us, water* 
+breathing matures, (including those using 
+breathe water spells), leather armor + 2, long 
+bow + 2 t +3 versus lycanihropes, ring of spell 
+turning, potion offlying I dose), scroll of pro 
+tection from lycanthropes t thieves' tools, 
+blackjack 
+
+Skills: Open Locks 75%, Find Traps 73%, 
+Remove Traps 67 %, Pick Pocket 90 %, Move 
+Silently 70%, Climb mils 101%, Hide in 
+Shadows 58%, Hear Noise 87%, Read Any 
+thing 80 % t Read Magic 90% 
+
+With his gift for smooth talking, lorg is 
+as skilled a con man as he is a burglar. 
+His favorite recreation is baiting Alys 
+when she periodically tries to reform him 
+from his thieving ways* Although he's as 
+fond of trea*sure as anyone, lorg keeps 
+adventuring mostly because he loves 
+risks and challenges, but he'll never lake 
+an unnecessary risk. He would never rob 
+his own party, because he knows it's in 
+his best interests to remain their friends. 
+So far, traveling with them has brought 
+him all the challenges a man could want* 
+
+Dariel Sundancer, 
+
+10th level elf, Attack Rank E 
+STR HINT 16 WIS 16 THACO 8 
+DEX 13 CON 12 CHA 13 AL L 
+AC - 1 ( - 3 w/sword) 
+hp 38 
+
+Languages: Elf, Common, Lawful, 
+Hal fling 
+
+Equipment: plate +3, sword +2, defend- 
+ing, potion of fire resistance (1 dose), scroll of 
+protection from elemental, wand of trap detec 
+tion, elven boots longbow with 25 arrows 
++ 2, ring of regeneration 
+
+
+29 
+
+
+
+
+NPC STATS 
+
+
+Spelt Book: 
+
+First level: detect magic t hold portal } magic 
+missile, protection from evil, read magic, 
+shield, sleep, ventriloquism , memorize 4 
+Second level: detect evil , knock, mirror 
+image, web, wizard lock, memorize 4 
+Third level: dispel magic, fly, protection 
+from normal missiles, water breathing , 
+memorize 3 
+
+Fourth level: confusion, growth of plants, 
+wizard eye, memorize 4 
+Fifth level: hold monster ; pass-wall, 
+memorize 1 
+
+DarieJ presents a puzzle to everyone who 
+knows him, including himself. Normally, 
+he's a cheerful, kindly elf who loves good 
+jokes, small children, and giving largess 
+to beggars. In battle* he becomes a ber 
+serker, howling war-cries as he rushes 
+into the worst part of a fight. Unless 
+someone he respects orders him, he will 
+refuse to retreat, no matter what the 
+odds. Lord Hugh's orders have saved his 
+life more than once. All he can say about 
+his battle fever is* **I don't know', some 
+thing just comes over me." 
+
+Meadowrock Barberry, 
+
+8th level halfling, Attack Rank D 
+STR 9 INT 12 WIS 8 THACO 10 
+DEX 16 CON 14 CHA UAL L 
+AC 0 
+bp 36 
+
+Languages; Common, Halfling* Lawful 
+Equipment: short sword + 2 t chain mail 
++ 3 , slingstones +1 (8), potion of healing (1 
+dose), ring of spell eating 
+Known as Med to his friends, Meado- 
+wrock can be something of a coward in 
+tight places. Although he would never 
+desert his friends, he complains bitterly 
+and often when things look bad. He also 
+insists on studying all the angles when 
+faced with a problem, a trait which has 
+stood the party in good stead in the past. 
+
+
+Friendly NPCs 
+
+Nia.ll the Guard Captain, 
+
+7th level lighter 
+
+STR 12 INT 12WTS 8 THACO 15 
+
+DEX 16 CON 14 CHA 11 AL L 
+
+AC 2 
+hp 42 
+
+Languages: Common, Lawful 
+Equipment: chain mall* shield, bastard 
+sword. 
+
+Dina Quickpaddle, 3d level thief 
+STR 10 INT 13 WIS 11 THACO 19 
+
+DEX 17 CON 13 CHA 12 AL N 
+
+AC 7 
+hp 10 
+
+Languages: Common, Neutral, Fenfolk 
+dialect 
+
+Equipment: leather armor, dagger 
+
+Barzan and His Allies 
+
+Balancing the Opposition. When Rork fled 
+Norwold, he naturally brought some of 
+the men from his old bandit gang with 
+him. It's up to the DM to decide how 
+many, depending on the strength of the 
+player characters. If they command a siz 
+able number of high level troops or 
+retainers, then Rork should have a com 
+parable force, including a 10th level Lieu 
+tenant. If the players have a weak force, 
+then few of Rork's men were willing to 
+follow him into a swamp. If the players 
+are using the pre-rolled characters in the 
+module, then Rork has 16 men of 5th 
+level. 
+
+On the same principle* if the player 
+characters are loaded down with magical 
+items, the DM should give Barzan and 
+his minions a comparable number. On 
+the other hand, the DM should beware of 
+making the opposition too strong. 
+Although some of Barzan *s retainers are 
+of a fairly Sow level, his party holds all the 
+cards, especially in the final chapter, 
+where the player characters must come 
+after them in their fortress. 
+
+If the DM plays Barzan correctly, all of 
+his principal allies will be alive for that 
+last battle* although the player characters 
+may have dim mated various supporters 
+in previous encounters. Barzan's fortress 
+
+
+is a formidable one* partly underwater 
+and approachable only by boat or some 
+means of underwater or Hying travel. 
+Remember that if Rork hits a normally 
+swimming character with one of his 
+arrows of stunning, then that character 
+automatically drowns if he fails the sav 
+ing throw. 
+
+Barzan of the Black Hand , 
+
+23d level magic-user 
+STR 11 INT 16 WIS 7 THACO 9 
+DEX 13 CON 14 CHA 12 AL C 
+
+AC 3 (1 vs missiles) 
+
+Morale 12 
+hp 51 
+
+Languages: Common* Chaotic, Elf, 
+Halfling 
+
+Equipment: ring of protection + I T staff of 
+water (31 charges)* ring of water breathing, 
+talisman of water, dagger + 2, crystal ball , 
+undersea boat 
+Spells in Spell Book: 
+
+First level: charm person, darkness , detect 
+magic, magic missile, read magic, shield, 
+sleep , * memorize 6 
+
+Second level: detect invisible, ESP, invisi 
+bility, knock, mirror image, phantasmal 
+force , wizard lock, memorize 6 
+Third level: dispel magic * fireball, fly, 
+haste, hold person, infravision, lightning 
+bolt, memorize 6 
+
+Fourth level: charm monster , confusion, 
+dimension door p hallucinatory terrain, mass- 
+morph " polymorph others, remove curse, 
+memorize 6 
+
+Fifth level: animate dead, feebUmind, tele 
+port , telekinesis, wall of stone memorize 5 
+Sixth level: wall of iron, weather control, 
+invisible stalker, lower water 
+Seventh level; magic door, reverse gravity, 
+sword 
+
+Eighth level: permanence, symbol of fear ; 
+mtnd barrier 
+
+Ninth level: meteor swarm, power word 
+kill 
+
+NOTE: Barzan has east a shield on him 
+self and then cast permanence ; The most 
+important thing for the DM to remem 
+ber is that while Barzan is insane, he is 
+not a drooling maniac who makes bad 
+decisions. His madness stems from his 
+obsession with the gate . From that 
+
+
+30 
+
+
+NPC STATS 
+
+
+assumption, all of his actions are perfect 
+ly logical an<j well calculated. Likewise, 
+since he hopes to rule the dominion 
+someday* he will never slaughter its 
+inhabitants or destroy their property 
+wantonly. After all, someday they might 
+be his source of income. 
+
+For those who have GAZ 3, The Princi 
+palities of Glantri, Barzan is a Water Ele- 
+mentalist of the Third Circle and studied 
+for a long time at the Great School of 
+Magic in Glantri City. 
+
+Barzan*s main strategy is to use magic 
+to terrify the inhabitants into thinking 
+that the land is under a curse too strong 
+for the local cleric to remove . Since he is 
+trying to keep his presence a secret* he 
+will refrain from openly trying to kill the 
+player characters at first. If they become 
+too popular with the people, or if they are 
+too close to discovering who he is, he 
+might send an invisible stalker after the 
+heir or make some other desperate move. 
+The DM will have to decide what that 
+move is, based on how play has gone so 
+far. 
+
+Within these restrictions, the DM can 
+add more acts of mischief to those given 
+in the text. Barzan will also react to the 
+actions of the characters. If the party 
+includes a thief, Barzan might have 
+Murr (see below) steal some valuable 
+item from the village mayor, then plant it 
+in the player character thiefs bedroom. 
+He might also arrange his apparitions in 
+such a way that it seems a player charac 
+ter magic-user caused them. The DEvTs 
+basic principle should be if Barzan can 
+cause trouble, he will, but always from 
+behind the scenes. 
+
+On the other hand, once the adventur 
+ers track him down to his lair near the 
+gate, Barzan T s madness will begin to get 
+the upper hand. Although he will fight 
+them in the best manner he can, he will 
+never surrender or flee. To protect his 
+beloved gate he will fight to the death, 
+even if his retainers have deserted him 
+and he is clearly outnumbered. If he's 
+slain, his last words will be: "Mine. It 
+was mine, you thieves.' 1 
+
+
+Rork of the Northlands , 16th level fighter 
+STR 17 INT 8 WIS 7 THACO 4 
+DEX 13 CON 14 CHA 8 AL C 
+AG "1 
+Morale 10 
+hp 76 
+
+Languages: Common, Chaotic 
+Equipment: plate + 2, electricity , sword + 3 
+(IdS + €) f longbow + 2, arrows of stunning 
+(20), ring of spell turning, amulet of protection 
+from crystal balls and ESP, potion of healing {3 
+doses), and scroll of protection from elementals 
+Rork is a famous bandit chief on the run 
+from Norwold, where King Ericall has 
+placed a price of 25,000 gp on his head. 
+Although he is a good commander, look 
+ing after the needs of the men under him, 
+he is sarcastic and hateful to everyone 
+else, and may the Immortals help the 
+bandit who disobeys him. He teamed up 
+with Barzan out of desperation. If he 
+finds himself in a hopeless battle, he will 
+try to save his own skin, even if it means 
+deserting the wizard. 
+
+Enzo , 10th level cleric 
+
+STR 15 INT 10 WIS 15 THACO 14 
+
+DEX 12 CON 14 CHA 8 AL C 
+
+AC -1 
+
+Morale 7 
+
+hp 40 
+
+Languages: Common, Chaotic 
+Equipment: staff of withering (5 charges), 
+banded mail +2, shield, mace +2, ring of 
+protection + 2, ring of life protection, boots of 
+levitation 
+
+
+Spells: 
+
+
+First level: 
+
+4 spells 
+
+Second level: 
+
+4 spells 
+
+Third level: 
+
+3 spells 
+
+Fourth level: 
+
+2 spells 
+
+Fifth level: 
+
+1 spell 
+
+
+Although both Rork and Barzan despise 
+this weak-willed coward and make no 
+secret of it, Enzo stays because he, too, is 
+on the run. The Princes of Glantri will 
+gladly pay 10,000 gp for proof of his 
+death or 15*000 gp if brought to them 
+alive. Enzo is so terrified of Barzan that 
+he will stay and fight with him to the 
+death, convinced that Barzan would find 
+some way to revenge himself If left to die 
+alone. 
+
+
+31 
+
+
+Murr the Wenzel, 15th level thief 
+STR II INT 12 WIS 9 THACO 10 
+DEX 17 CON 11 CHA 10 AL N 
+
+AC 2 
+Morale 10 
+hp 38 
+
+Languages: Common, Neutral 
+Equipment: leather +2 f dagger + 3 t ring of 
+protection + l f boots of speed , scroll with 
+detect magic (2), invisibility, fly, pas small. 
+Skills: Open Locks 75%, Find Traps 73 % * 
+Remove Traps 67 %, Pick Pocket 70 %, Climb 
+Wills 101 % * Hide in Shadows 58 % * Hear 
+Noise 87%, Read Anything 80%, Read 
+Magic 90% 
+
+In this band of fugitives, Murr is unique 
+in having no less than four prices on his 
+head: in Ylarum (GAZ 2), Darokin, 
+Glantri (GAZ 3)* and Karameikos 
+(GAZ 1), to the tune of 10,000 gp each. 
+A quiet, self-effacing little man, he can 
+blend in with almost any crowd. If the 
+player characters are on the point of vic 
+tory, Murr will desert if he can, but he 
+will never surrender. If the Duke of 
+Karameikos gets his hands On him, Murr 
+will hang* and he prefers death in battle. 
+
+Qleena Stone-Heart, 10th level 
+
+STR 8 INT 16 WIS 10 THACO 18 
+
+DEX 12 CON 13 CHA 12 AL N 
+
+AC 6 
+
+Morale 9 
+
+hp 29 
+
+Languages: Common, Neutral, Ore* 
+Hobgoblin 
+
+Equipment: ring of protection +3, ring of 
+water walking , bowl of commanding water ele 
+mental;, dagger 
+Spells in Spell Book: 
+
+First level: charm person t detect magic , 
+read magic , shield, sleep , memorize 4 
+Second level: detect invisible, in visibility 7 
+web 7 wizard lock , memorize 3 
+Third level: dispel magic , invisibility 10* 
+radius * lightning bolt , water breathing, 
+memorize 3 
+
+Fourth level: confusion, wall of fire, wiz 
+ard eye 
+
+Fifth level: doudkill teleport 
+
+Olccna joined Barzan for a very different 
+reason than his other followers. She, too* 
+is obsessed with water magic, but not to 
+
+
+
+
+NPC STATS 
+
+
+
+the point of madness. 
+
+In fact, she has begun to have second 
+thoughts about this risky venture. If 
+things go badly, she might try to slip 
+away; the DM should roll for Morale at 
+every real set-back. If things look bad to 
+her when the player characters storm 
+Barzan *s lair, she will surrender and help 
+them if they promise her a full pardon. 
+She will serve them well unless it looks 
+like Barzan is going to win, in which case 
+she will change sides again, pretending 
+that she intended to do so aU along. 
+
+Ferris Steelsosd, i Oth level lord 
+
+STR 18INT 10W1S 14 THACO 9 
+
+DEX 14 CON 18 CHA 10 AL C 
+
+AC 2 
+
+Morale: 9 
+
+hp 70 
+
+Languages: Common, Chaotic 
+Equipment: banded mail + /, two-handed 
+sword +7, longbow with arrows + 2 (4), 
+ring of fire resistance, bag of holding 
+Ferris has come to his position as Rork's 
+second-in-command because of the 
+defection of Dorn Longwalker, Ferris is 
+
+
+not well-liked by either his superiors or 
+his subordinates. He is close-mouthed 
+and aloof, and little is known of him. 
+When he fights, he is disdainful of his 
+opponents and sneers at them constantly, 
+Ferris has always been a subordinate and 
+there is no reward for him, personally 
+He has nothing but contempt for Barzan 
+and his plans, and will surrender if given 
+the opportunity and he is obviously out 
+matched, 
+
+Rork*s Bandits 
+
+5th level fighters, (AC 4; hp 24; # AT 1 
+(sword or bow); D 1-8 (sword) or 1-6 
+(bow); MV 120'; Save F5; ML 8; ALC; 
+XP 175) each has chain mail, shield, 
+sword and longbow 
+Or: 
+
+6th level thieves, (AC 6; hp 17; #AT 1 
+(sword or bow); D 1-8 sword or 1-6 bow; 
+MV 180*; Save T6; ML 7; AL N; XP 
+225) each has leather, sword and bow 
+
+
+Jocko The Guile , 10th level thief 
+STR 12 INT 13 WIS 8 THAC0 13 
+DEX 14 CON 15 CHA 30 AL N 
+AC 4 
+hp 25 
+
+Languages: Common, Neutral, Elf 
+Equipment; sword + 2, ring of protection 
++ 2, elven boots f amulet versus crystal balls and 
+ESP, scroll with protection from evil, knock, 
+protection from normal missiles, dimension 
+door 
+
+
+32 
+
+
+9210XXX15O1 
+
+
+
+
+
+
+MAP II 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MAP lit 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+. Deep Swamp 
+
+
+¦y 1 - FenhokJ Manor 
+\ 2 = Fenhrkd Tow/i \ 
+
+" '3 ='East Riding' / A. 
+
+4 = Barnsby-under-Bramble 
+y >5 =<^ollydqwn < V - \ 
+
+6 = see adventure descriptions 
+^ J =jSee adventure descriptions 
+
+5 = Festival site 
+
+
+miles 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Players' Map of Fenhold 
+
+
+
+
+Alfheim border 
+
+
+v m >' 
+
+
+Forest to Alfheim 
+
+
+Village 
+
+
+v Barnaby-under-0ramble^ 
+
+
+Manor 
+
+
+l East Riding 1 0 
+
+u't*. 
+
+
+Festival site 
+
+
+?eep Swamp 
+
+
+
+
+Ifl 
+
+
+1 i f ( Hollydown 
+
+I 7i '¦ 'V , 
+
+
+Halfling 
+
+Hills 
+
+
+
+
+vv 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9210XXJ4140 ] 
+
+
+
+Companion Game Adventure 
+
+
+Legacy of Blood 
+
+by Steve Perrin and Katharine Kerr 
+
+
+Your cousin Rolph is dead-and while there is 
+cause for sadness, there is also cause for cele 
+bration, As his heir, you were willed his domin 
+ion: Fenhold. 
+
+Of course, the Deep Swamp is threatening to 
+engulf all of your new holding. People are see 
+ing ghosts, disappearing mysteriously...ani 
+mals die without reason, and crops are 
+suddenly blighted. 
+
+The farmers don't like the swampdwellers, the 
+swampdwellers don't like the farmers, and no 
+one likes the halflings. The entire civil service of 
+the dominion seems to have either worked for 
+the failure of the dominion or resigned due to 
+actions of the others. 
+
+It's going to be a tough task to make all this 
+shipshape once again, but you're 15th level 
+now. Isn't it about time you settled down? 
+
+This adventure is for use with the DUNGEONS & 
+DRAGONS' Companion Ryles set, which comple 
+ments the D&D' Bask and Expert Rules. This 
+adventure cannot be played without the D&D 
+Basic, Expert* and Companion Sets produced by 
+TSR Inc. 
+
+
+1987 TSR Inc. All Rights Reserved. Printed In tLS.A. 
+
+
+TSR Inc* 
+
+POB 756 
+Lake Geneva, 
+WS 53147 
+
+
+TSR CJK Ltd. 
+The Mill* Rathmore Road 
+Cambridge CB14AD 
+United Kingdom 
+
+
+ISBN 0-88038-487-5 
+
+
+
+
+
+0 
+
+i363' 09210"" s 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

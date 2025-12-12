@@ -1,0 +1,3386 @@
+Skip to main content
+ 
+Texts
+ 
+Video
+ 
+Audio
+ 
+Software
+ 
+Images
+Sign up for free
+Log in
+ Search metadata
+ Search text contents
+ Search TV news captions
+ Search radio transcripts
+ Search archived web sites
+Advanced Search
+About Blog Events Projects Help Donate  Contact Jobs Volunteer
+Full text of "Tsr 09428 AD& D Module GA 3 Tales Of Enchantment ( 5 8)"
+See other formats
+GA3 
+
+ADVENTURE 
+
+
+For characters of levels 5-8 
+
+
+Advanced 
+
+
+Official Game Adventure 
+
+
+by Jim Musser 
+
+
+
+
+
+
+
+
+Whispering Widow Woods (DM s map) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TaLes of 
+Enchantment 
+
+
+Introduction.1 
+
+Plot Synopsis .2 
+
+Chapter One: Outer Forest .4 
+
+Troubleshooting .9 
+
+Chapter Two: Diversions.10 
+
+Chapter Three: Inner Perils.19 
+
+Chapter Four: Pixie Trouble .26 
+
+Resolution.30 
+
+
+Credits 
+
+Design: Jim Musser 
+Editing: Anne Gray McCready 
+Cover Illustration: Glen Orbik 
+Interior Illustrations: Ken and Charles Frank 
+Cartography: John Knecht 
+Typography: Tim Coumbe 
+
+ADVANCED DUNGEONS & DRAGONS and AD&D are registered 
+trademarks owned by TSR, Inc. 
+
+The TSR logo, DUNGEON MASTER, and DM are trademarks owned 
+by TSR, Inc. 
+
+(c)1993 TSR, Inc. All rights reserved. Printed in the U.S.A. 
+
+Random House and its affiliate companies have worldwide distribu 
+tion rights in the book trade for English language products. Distrib 
+uted to the book and hobby trade in the United Kingdom by TSR Ltd. 
+Distributed to the book and hobby trade by regional distributors. 
+
+This product is protected under the copyright laws of the United States 
+of America. Any reproduction or other unlawful use of the material or 
+artwork contained herein is prohibited without the express written 
+permission of TSR, Inc. 
+
+TSR, Inc. TSR Lld 
+
+POB 756 120 Church End 
+
+Lake Geneva Cherry Hinton 
+
+WI53147 Cambridge CBI 3LB 
+
+USA United Kingdom 
+
+
+Tales of Enchantment is designed for three to 
+six characters, levels 5 to 8. Almost any mix of 
+classes can succeed, but players will find it very 
+helpful to have at least one character who can 
+detect invisibility. They may also find the need 
+for a cleric who can remove a curse. For guid 
+ance in dealing with a party without some of 
+these basic tools, see the Troubleshooting section 
+at the end of Chapter One. 
+
+This adventure is organized into chapters 
+based on when, if ever, the PCs are likely to 
+encounter each creature. Chapter One contains 
+common creatures found near the edge of the 
+forest and the illusions of them created by pix 
+ies. Players should begin unraveling the mys 
+tery during these encounters. Chapter Two 
+contains creatures found deeper in the woods 
+but they are generally irrelevant to the main 
+plot. The PCs can pick up information here that 
+can set them back on track, or make erroneous 
+assumptions based on these diversions and go 
+further astray. Chapter Three chronicles the per 
+ils of the inner forest. If the party is alert and 
+misses no key clues, it should never encounter 
+these creatures. Chapter Four describes the pixie 
+colony and the main characters in this adven 
+ture. 
+
+Tales of Enchantment has no mechanism built- 
+in to keep the players on track. That is part of 
+the problem for them to solve. They can go as 
+far afield as their bad judgment takes them, but 
+the farther afield they go, the more trouble they 
+will find. The only way the party should face 
+much combat is if the players blunder about. 
+Therefore, reduce standard combat experience 
+awards by 50% so as not to reward the players 
+for making bad choices. The end of the adven 
+ture calls for more advanced role-playing and 
+some really clever problem-solving. The Resolu 
+tion section of Chapter Four includes special 
+awards for the end of the adventure. 
+
+
+ISBN 0-56076-646-8 
+
+
+9428XXX1501 
+
+
+
+
+
+
+
+
+
+
+Plot Synopsis 
+
+
+
+The mysteries and legends surrounding 
+Whispering Widow Woods have always been 
+enough to scare off the timid. The dense canopy 
+shrouds the forest floor in darkness even at mid 
+day, and the tangled underbrush inhibits travel 
+and can disorient even seasoned woodsmen. 
+
+Most folk who live nearby, however, feel safe 
+enough if they keep near the trails through the 
+outer reaches of the woods. They believe the sto 
+ries about a dragon and other horrors, but they 
+have no intention of going into the deepest and 
+darkest parts of the forest. The locals use special 
+care to steer clear of an unusual rock formation 
+that gives the woods its name. Visible from 
+some farms near the forest is a towering lime 
+stone outcropping that some say looks like a 
+face. Above and on both sides of the pale lime 
+stone is a thin vein of dark stone much like a 
+shroud. Trees cover the eerie hill's gentle eastern 
+slope. When the wind is right and especially at 
+night, neighboring farmers can hear what sounds 
+like a widow's muted wails of grief. 
+
+The folklore, eerie rock formations, and thick 
+underbrush are plenty to keep locals on the 
+trails near the edge of the forest where they can 
+find sufficient firewood, mushrooms, and herbs 
+and where the forest creatures never bother 
+them-until recently. 
+
+It started as a frightening curiosity. Terror 
+ized residents described attacks by normally 
+docile creatures, such as black bears. Then it 
+grew more bizarre. Respected citizens told wild 
+tales of unprovoked attacks by treants, sprites, 
+and brownies. The last two curious souls to 
+venture into Whispering Widow Woods have 
+not returned. 
+
+Other travelers have disappeared for days, 
+eventually arriving at their destinations with no 
+memory of what had delayed them. In fact, one 
+stranger wandered out of the woods with no 
+memory whatsoever; local authorities are still 
+trying to learn his identity. 
+
+In addition, reports of strange occurrences 
+near the forest, a list of oddities dating back for 
+
+
+years, suddenly grew more numerous and 
+stranger. 
+
+A shepherd named Patos complains that his 
+flock increases by two or three when he's not 
+looking and then returns to its normal size when 
+he turns away again. He cannot tell the addi 
+tional sheep from the regular ones, and he is 
+afraid to take his eyes off his flock for fear of 
+what will happen. 
+
+A farmer named Jerube maintains that it has 
+been raining on his fields for 22 days straight. 
+No one believed him at first because the area 
+has seen little rain in the last three weeks, but 
+anyone traveling to his fields can see the steady 
+downpour and the great pools of standing 
+water. His crops have rotted. 
+
+Patos, Jerube, and others have noted voices 
+coming from Whispering Widow Woods. In 
+every instance, they recognized the voice as that 
+of a friend or family member. Those who fol 
+lowed the voice into the forest found nothing, 
+and several times the person hearing the voice 
+knew the friend or family member to be else 
+where, not in the forest. 
+
+Jareb Klause, a wealthy landowner, has 
+decided to hire the PCs to investigate these 
+strange happenings. Jareb is particularly wor 
+ried about his adolescent son, Barens. Barens 
+has been showing youthful rebellion against his 
+father by taking long trips away from the manor, 
+sometimes disappearing for days. Some of these 
+times, Barens has been seen entering Whisper 
+ing Widow Woods, and his father is worried 
+because Barens has been missing for two weeks. 
+The PCs' mission is to learn the cause of the 
+attacks, to find Barens, and to make the woods 
+safe again. 
+
+In fact, Barens is a central piece to this puzzle. 
+On one of his brooding hikes, Barens unknow 
+ingly passed near a colony of pixies. These pix 
+ies had long succeeded in avoiding contact with 
+humans and demihumans. However, Gwellen, a 
+particularly curious and bold princess of the 
+pixies, actually introduced herself to Barens 
+
+
+2 
+
+
+Plot Synopsis 
+
+
+
+when he next passed that way. The two became 
+close friends, developing quite a bond before 
+the pixie king found out. 
+
+The king, Ebron, reacted by creating illusions 
+to frighten "large folk" from the forest. Gwellen 
+told Barens about the illusions, protecting him 
+but getting herself in trouble by leaving the 
+pixie colony against Ebron's orders. She found it 
+ever more difficult to get away to meet with 
+Barens, and his trips into the forest became 
+longer and longer. He even built himself a cabin 
+to use as a base for his long walks in search of 
+Gwellen. 
+
+When Ebron learned that he had not suc 
+ceeded in halting Gwellen's contacts with 
+Barens, he grew angry and began a campaign of 
+harassment against humans living near the for 
+est and especially against Barens. Suddenly 
+Barens found himself subjected to all manner of 
+trickery, such as being potytnorphed, put to sleep, 
+and led into confusion. Once, when lost, Barens 
+happened upon a tribe of sylvan elves. After 
+Barens explained his plight, the elves took pity 
+on him. Though they did not want to confront 
+the pixies directly, the elves gave Barens a 
+charm that protects him from pixie magic. 
+Barens, not wanting to tip off the pixies about 
+his new defense, uses his cabin as a base in his 
+searches for Gwellen, all the while pretending to 
+fall victim to the pixies when they harass him. 
+
+The PCs enter Whispering Widow Woods 
+with no idea of the pixies' existence. All they 
+have is a simple map drawn by Barens' father. 
+He has not gone deep into the woods for a very 
+long time and can only give the PCs an idea of 
+what lies in the outer reaches of the forest. At 
+the edges of the forest, they will meet normally 
+benevolent creatures. One-third of the time they 
+will encounter the actual creatures, and the rest 
+of the time they will encounter the pixies' hos 
+tile illusions of those creatures. When the PCs 
+encounter the illusions, at least one pixie will be 
+present creating the illusion. This gives the PCs 
+a chance to discover the pixies and the source of 
+
+
+the illusions. The PCs will also hear a voice call 
+ing for Gwellen, a name that means nothing to 
+them at first, deepening the mystery and pro 
+viding a clue at the same time. These incidents 
+are caused by pixies trying to lead the PCs 
+astray in the belief that the party is trying to 
+help Barens find Gwellen. The fact is, the PCs 
+are much less informed than the pixies assume. 
+
+Deeper into the woods, the PCs might 
+encounter several kinds of diversions, includ 
+ing forest creatures unrelated to the main plot, 
+false trails created by the pixies, and even false 
+images of Barens, who will gladly agree to 
+leave the forest with the PCs. The PCs will 
+probably recognize this as a ruse only when 
+they take "Barens" back to his father. The PCs 
+might also encounter the real Barens or the syl 
+van elves, either of whom will aid them in solv 
+ing the mystery. 
+
+If the PCs stumble onto Barens' cabin, he will 
+tell them exactly what is going on. As the PCs 
+are trying to unravel the mystery, Gwellen is 
+trying to convince her brother that her friend 
+ship with Barens is good, that the "large folk" 
+won't harm the pixies. 
+
+Gwellen's mother, Lizbet, also has sympathy 
+for her daughter but dares not openly defy her 
+husband. Thus the PCs will have some passive 
+allies when they try to find a resolution that is 
+acceptable to all. Their ultimate success would 
+be to find a way to unite Barens and Gwellen in 
+some way acceptable to both Ebron and Jareb. 
+
+
+3 
+
+
+
+
+Jareb, Barens's father, gives the PCs a map 
+he has drawn of the area (Player's Map). His 
+knowledge of the area is limited because no one 
+enters the deepest parts of the forest anymore. 
+Also, unless the PCs remind Jareb, he forgets to 
+give them a description of Barens (see encounter 
+215 for a complete description). If Jareb is asked 
+for a description of his son, he says Barens has 
+long brown hair and usually wears a cap. 
+Beyond that, he cannot remember what Barens 
+was wearing when he last disappeared into the 
+woods. 
+
+Each hex on the map equals 50 yards, mean 
+ing that careful listening might reveal sounds in 
+a neighboring hex, but the thick undergrowth 
+blocks sight for more than about 10 yards. 
+
+From outside the forest, only a few features 
+are visible. The most noteworthy is the "Whis 
+pering Widow," an unusual, rocky hill that con 
+sists of a limestone cliff resembling a face, 
+shrouded with a thin layer of dark rock (303). 
+The eerie wail that comes from this area of the 
+forest reputedly comes from the face. Also visi 
+ble from outside the forest are a series of low 
+hills often covered with a curious green mist 
+(305). The hills are rumored to be home to a 
+dragon, but no one has claimed to have seen this 
+creature for generations. 
+
+Most of the outer forest consists of common 
+animals and creatures that are not normally 
+threatening to humans and demihumans. In 
+each instance, however, the pixies have, under 
+their king's orders, created illusions of these 
+creatures that behave very aggressively toward 
+any travelers. It is possible, and even likely, that 
+the PCs will encounter both the real creatures 
+and their illusions. 
+
+The pixies have created the illusions to 
+frighten off mortals, not to kill them, which 
+may start a war in which many more mortals 
+are tramping about the forest. To the PCs, the 
+illusions are little more than a bother, since 
+they should not be rewarded for killing such 
+creatures, but the illusions are the first major 
+
+
+clue for the PCs to begin solving the puzzle. 
+There are one or more invisible pixies hiding 
+near the scene of each illusion. When the PCs 
+discover this, they will at least know what 
+they're up against even if they still don't know 
+why. 
+
+In addition to the encounters in all the chap 
+ters, there is a special encounter that can occur 
+anywhere in the forest if one or two PCs get sep 
+arated from the rest of the group. This also 
+occurs if the party goes to sleep and leaves only 
+one or two characters awake on guard. When 
+either of these situations arises, a pixie will 
+approach the PC more directly. The pixie 
+approaches invisibly and, if undetected, touches 
+the character to cause confusion. In addition, pix 
+ies harass isolated PCs by making them sleep, by 
+pohjmorphing them into outlandish creatures, 
+and by stealing their memories. 
+
+If the PCs seem overmatched or somehow at a 
+severe disadvantage during this part of the 
+adventure, see the Troubleshooting section at the 
+end of this chapter. 
+
+101. Black Bears 
+
+Bears, black (2): AC 7; MV 12; HD 3+3; lip 16; 
+
+THACO 17; #AT 3; Dmg 1-3/1-3/1-6; SA hug 
+
+2-8; AL N; ML 10; XP 85 
+
+101a. These two black bears have long lived 
+in this part of the forest. They learned to ignore 
+travelers except to scavenge for food at camp 
+sites after the travelers have gone. When the 
+PCs encounter them anywhere within this 
+area, these bears will first note the party curi 
+ously and then lumber off into the woods. If 
+the PCs attack, the bears try to avoid combat, 
+fighting only if cornered. If the PCs encounter 
+these bears after meeting the aggressive illu 
+sionary bears of 101b or 101c, award them a 
+bonus 50 XP if they do not attack the bears at 
+first sight. 
+
+101b, 101c. Created by pixies, these illusions 
+are perfect copies of the black bears in 101a. The 
+
+
+Outer Forest 
+
+
+
+big difference is in their reaction to the PCs. 
+When the PCs approach, the bears attack fero 
+ciously, biting and clawing at the closest charac 
+ters. Remember that the pixies' purpose is to 
+frighten the PCs, not to kill them. If the PCs fig 
+ure out that they are facing an illusion, they may 
+look around for the source of it. Well-hidden, 
+and also invisible, are two pixies. If any member 
+of the party spots the pixies (10% chance each) 
+and tries to approach them, they waste no time 
+fleeing back toward their home (402). 
+
+102. Giant Porcupine 
+
+Porcupine, giant: AC 5; MV 6; HD 6; hp 32; 
+
+THACO 13; #AT 1; Dmg 2-8; SA shoot quills; 
+
+ALN; ML 16; XP 325 
+
+102a. This large creature is doing what it does 
+best-minding its own business. When the PCs 
+encounter the creature anywhere within its area, 
+the porcupine notes their presence with appar 
+ent disinterest. If the PCs don't approach, the 
+porcupine eventually waddles off into the 
+woods. If the PCs do approach, the porcupine 
+lets loose a few quills to discourage them from 
+coming nearer. If the PCs encounter this prickly 
+fellow after facing the images in 102b or 102c, 
+award them 50 bonus XP if they do not attack 
+this creature. 
+
+102b, 102c. In each of these areas is a replica of 
+the giant porcupine, but these images are cre 
+ated by pixies to frighten off innocent travelers 
+and meddlers like this party of adventurers. At 
+first sight, the sluggish porcupine image mean 
+ders closer to the PCs. After closing range a bit, 
+it lowers its head and charges, firing quills on 
+the run. The porcupine isn't trying to kill the 
+party, he just wants to scare them enough to 
+drive them out of the forest. If the PCs figure out 
+that this is an illusion and seek its source, they 
+may find a well-hidden and invisible pixie near 
+the scene. If spotted (10% chance), the pixie flees 
+toward his home (402). 
+
+
+103. Werebear 
+
+Werebear: AC 2; MV 9; HD 7+3; hp 32; THACO 
+13; #AT 3; Dmg 1-3/1-3/2-8; SA hug 2-16; AL 
+CG; ML 13; XP 700 
+
+103a. This creature has nothing against 
+humankind, but hasn't much use for it, either. 
+When the PCs encounter it anywhere within the 
+marked area, this lycanthrope assumes a defen 
+sive posture but does not attack. It maintains 
+this posture until the PCs leave. If the PCs stay 
+too long, the werebear eventually leaves the 
+area itself. Award the PCs 50 extra XP for stay 
+ing out of combat, or 100 extra if they've already 
+had to fight an illusory werebear. 
+
+Treasure: 8 gp, 25 pp, two blue quartz gems 
+worth 10 gp each, gold tiara inlaid with plat 
+inum worth 2,200 gp, scroll of protection from 
+lycanthropes, scrol l of protection from fire, scroll of 
+protection from poison, un labeled potion of delu 
+sion. 
+
+103b, 103c. These pixie-built horrors are exact 
+copies of the original. Their sole purpose is to 
+chase away the PCs. The pixie controlling this 
+illusion will do his best to injure the party mem 
+bers, but he is careful not to kill anyone. If the 
+PCs figure out this illusion and search for its 
+source, they may be able to find the invisible 
+pixie (10% chance), who is well-hidden but close 
+enough to monitor all the action. If discovered, 
+the pixie flees to his home (402). 
+
+104. Unicorns 
+
+Unicorns (4): AC 2; MV 24; HD 4+4; hp 24; 
+THACO 15; #AT 3; Dmg 1-6/1-6/1-12; SA 
+charge; AL CG; ML 14; XP 325 
+104a. These four unicorns are named Draylee, 
+Naylon, Frankon, and Naymidmerelda. They 
+have come to dominate this area of the forest (as 
+shown on the map). At one time, folk from out 
+side the woods often trampled the nearby region 
+of forest that is rich in herbs. A few pointed 
+lessons by the unicorns persuaded the intruders 
+
+
+5 
+
+
+
+to pay closer attention to the ecosystem, and 
+everything has been fine ever since. When the 
+PCs encounter them, the unicorns will be 
+friendly but firm in their message that the party 
+should stay off the unicorns' turf. If the PCs dis 
+regard these warnings, the unicorns will fight. 
+
+Treasure: potion of flying, potion of green dragon 
+control. 
+
+104b, 104c. There can be few things that cause 
+more panic than seeing one rogue unicorn bear 
+ing down on you at full gallop, much less four 
+of them. With a troublesome pixie holding the 
+imaginary reins, these mighty steeds can throw 
+a fright into any band of adventurers, or so the 
+pixies hope. The most difficult task may be 
+keeping the illusion convincing without killing 
+any of the PCs. If the players figure out that they 
+are facing an illusion, they may be able to spot 
+the pixie causing it, though she is hidden and 
+
+
+
+invisible. If seen (10% chance), she will flee to 
+her home (402). 
+
+105. Treants 
+
+Treants (8): AC 0; MV 12; HD 11; hp 64; THAC0 
+9; #AT 2; Dmg 4-24/4-24; SA control 1 or 2 
+trees; AL CG; ML 16; XP 6,500 
+105a. These eight treants have led a peaceful 
+existence, rarely bothered by any other crea 
+ture and never threatened. If the PCs pass by 
+this way, the treants will make their presence 
+known and then douse any torches the party 
+may be carrying. Otherwise, the treants place 
+themselves in a defensive formation and herd 
+the PCs away from their lair. As long as the 
+PCs remain friendly, the treants will be help 
+ful, though not eager for the party to hang 
+around. 
+
+
+6 
+
+
+
+
+
+Treasure: Two black onyx gems worth 100 gp 
+each, four amethysts worth 500 gp each, potion 
+of fire resistance (x2). 
+
+105b, 105c. As the PCs walk along a trail, they 
+are suddenly ambushed from both sides. These 
+illusionary treants will do their best to subdue 
+the party, but the pixie controlling them will 
+avoid mortal combat. His ultimate aim is to see 
+the PCs drag themselves away from this scene 
+and out of Whispering Widow Woods. If the 
+PCs see through the illusion, they might be able 
+to find the pixie (10% chance), once again hid 
+den and invisible. If he's seen, he'll make a 
+break for home (402). 
+
+106. Brownies 
+
+Brownies (12): AC 3; MV 12; HD 14; hp 3; 
+
+THAC0: 20; #AT 1; Dmg 1-3 or by weapon; SA 
+
+spells; AL LG; ML 11; XP 85 
+
+106a. This band of brownies has been known 
+to help many a traveler who found more trou 
+ble than he could handle in Whispering Widow 
+Woods. They are not only friendly with "large 
+folk" from outside the forest but with most all 
+the forest creatures as well. When the PCs 
+encounter the brownies anywhere within the 
+marked area, the creatures will be friendly as 
+usual. They know that the pixies are trying to 
+scare away "large folk" and they disapprove, 
+though they would never actually fight with 
+the pixies. 
+
+The PCs can find a great deal of help here. The 
+brownies willingly tell them what the pixies 
+have been doing, though the brownies don't 
+know why. The brownies can also act as guides, 
+taking the PCs directly to the pixies' home or to 
+most other lairs, avoiding the illusions and the 
+false trails. The brownies know nothing of 
+Barens or Gwellen. If confronted by pixies on 
+this journey, the brownie guides will quickly 
+disappear into the forest, leaving the PCs on 
+their own again. The leader of this band of 
+brownies is named Graham. 
+
+
+Treasure: 24 cp, 80 sp, 5 pp, black sapphire 
+worth 5,000 gp. 
+
+106b, 106c. Attacked by a pack of rabid 
+brownies? Who's going to believe that? Even 
+though the PCs may have heard stories about 
+attacks by brownies, the PCs will probably be 
+friendly when they encounter these. With a mis 
+chief-loving pixie orchestrating the brownies' 
+moves, the PCs won't be friendly for long. Such 
+an attack is bound to cause as much psychologi 
+cal damage as physical damage, for the PCs 
+must stop and wonder what sort of topsy-turvy 
+forest this must be. Just such disbelief may be 
+what allows the party to see through the illu 
+sion, in which case one of the party members 
+may spot the invisible pixie (10% chance) cavort 
+ing among his imaginary big brothers. The pixie 
+will not stay around long, however, heading for 
+home (402) as soon as the illusion is broken. 
+
+107. Sprites 
+
+Sprites (28): AC 6; MV 9/18; HD 1; hp 4; THAC0 
+
+19; #AT 1; Dmg by weapon; SA sleep arrows; 
+
+ALNG; ML 11; XP 210 
+
+107a. This band of 28 sprites once lived in 
+peace and happiness. "Large folk" from outside 
+the forest occasionally passed by, and the sprites 
+sometimes met other forest creatures, but their 
+existence was one of harmony with the world. 
+The recent upheaval by the pixies has caused 
+the sprites to be even more shy and withdrawn 
+than usual. They understand that the pixies are 
+the cause of the trouble, making even the nearby 
+unicorns grumpy and bringing armed bands 
+like this party of adventurers into the forest. The 
+sprites are very wary of the PCs, but if the party 
+can gain their confidence, they will place all the 
+blame on the pixies. They can give the PCs the 
+general location of the pixie colony, but they 
+know nothing more and are too withdrawn to 
+be of any more help. The leader of the band is 
+Mayella, but none of the other sprites are will 
+ing to give their names. 
+
+
+Outer Forest 
+
+
+
+Treasure: 4,000 sp, staff of the woodlands, gem of 
+insight. 
+
+107b, 107c. If the PCs have the bad luck of 
+happening onto one of the illusionary bands of 
+sprites, the pixie creating the image will execute 
+an ambush. The helpless party will find itself 
+the target of a myriad of tiny arrows flying from 
+underbrush teeming with sprites. The illusion 
+ary sprites transport the PCs back outside the 
+forest to wake and wonder at how they arrived. 
+If the PCs manage to avoid this barrage and 
+break the illusion, they have a chance to find the 
+pixie (10% chance), who once again is both hid 
+den and invisible. If spotted, she quickly flees 
+for home (402). 
+
+108. Pegasus 
+
+Pegasus: AC 6; MV 24/48; HD 4; hp 31; THAC0 
+17; #AT 3; Dmg 1-8/1-8/1-3; SA dive, rear 
+kick; ALCG;ML 11; XP 85 
+108a. This beautiful beast is somewhat curi 
+ous about the PCs and will study them from a 
+distance. If the PCs approach, the pegasus will 
+be skittish, flying off a bit to maintain its dis 
+tance. If attacked by neutral or good characters, 
+the pegasus will flee. If attacked by evil charac 
+ters, the pegasus will fight. 
+
+108b, 108c. These illusions of pegasi act very 
+aggressively as the pixies creating the illusions 
+attempt to frighten the party out of the woods. If 
+the PCs recognize this as strange behavior and 
+break the illusion, they may be able to spot the 
+three hidden and invisible pixies (10% chance 
+each), who retreat home (402) as soon as they 
+are spotted. 
+
+109. Traveler 
+
+Human (F0): AC 9; MV 12; hp 4; #AT 1; Dmg by 
+weapon; Str 11, Dex 13, Con 11, Int 8, Wis, 9, 
+Cha 11; AL NG; THAC0 20 
+This human is a short man with crudely cut 
+blond hair. His clothes are old and rumpled and 
+
+
+he wears no shoes. He carries a few silver pieces 
+in his pocket. The human's name and other 
+characteristics are unknown because of memory 
+loss. 
+
+At several places in Whispering Widow 
+Woods, the PCs may encounter a traveler who 
+has fallen victim to the pixies. The pixies have 
+used three of their favorite tricks, namely sleep, 
+confusion, and memory loss. The poor traveler sits 
+on a rock rubbing his sleepy eyes and scratching 
+his confused head. The appearance of the PCs 
+offers some hope, and he greets them enthusias 
+tically. Of course, he cannot remember how he 
+got this way or where he is from. 
+
+The only thing the PCs can do to help this 
+poor fellow is to use a remove curse spell to end 
+his confusion or a heal or limited wish to bring 
+back his memory. He is still pretty vague about 
+what happened to him. He did not see the invis 
+ible pixie. About all he can do is tell the PCs 
+where he is from (somewhere distant, because 
+he was not reported missing locally) and where 
+he was going. It matters little whether he sets 
+out alone again or asks to join the party, as he is 
+of little use for providing information or for 
+other purposes. 
+
+This encounter can provide the PCs with fur 
+ther hints about what they are up against and, 
+more importantly, to warn them about what 
+they might expect to happen if they venture off 
+alone. 
+
+110. Voices 
+
+Hexes containing the number 110, either indi 
+vidually or arranged in rows, indicate places, 
+usually along a trail, where a pixie calls out 
+from a distance, trying to beckon the PCs in an 
+adjacent hex to follow or, even better, to beckon 
+only one or two of the PCs to follow. 
+
+In all such locations, the pixie speaks in 
+Barens' voice and calls out the name Gwellen, 
+for the pixies certainly know of this longing and 
+suspect that somebody may be searching for 
+
+
+8 
+
+
+Outer Forest 
+
+
+
+Barens since he has been gone so long. The play 
+ers may not know the significance of the name 
+Gwellen, and their characters probably will not 
+recognize Barens' voice since they've never met 
+him. An unknown name, heard from afar, adds 
+to the romance of the mystery, and the players 
+should eventually figure out the connection. 
+
+If the PCs follow in a group, the pixie just 
+keeps leading them farther away, to the end of 
+the string of 110s. If only one or two PCs follow, 
+the pixie will look for an opportunity to circle 
+back and cause mischief, primarily with his 
+cause confusion touch. 
+
+Troubleshooting 
+
+The main things that can go wrong in the 
+outer forest is that the PCs might do too well or 
+too poorly. 
+
+It is highly probable that the PCs will learn 
+that some of their encounters are illusions. 
+They should also deduce that a single force is 
+causing the illusions to scare people out of the 
+forest. This is essential. If the PCs push ahead 
+without breaking an illusion and without 
+learning about the pixies through the other 
+clues, they are doomed to blunder about for 
+some time. In this case, it is probably best to 
+reposition encounter 215 (Fake Barens) in their 
+path. This should make them pause and think 
+about what's going on. 
+
+Another problem that could arise is if the 
+party has no way to detect invisibility. If the char 
+acters have the capability and simply don't use 
+it, that's fine because there's plenty of time to 
+find out about the pixies. If the PCs can never 
+see the pixies, however, they're going to have a 
+difficult time negotiating with them. Be aware 
+of the problem and be ready to drop the proper 
+item into a treasure hoard or give a ring of see 
+invisible to a wandering goblin or other likely 
+victim. 
+
+More problematic is what happens if the PCs 
+not only spot a pixie creating an illusion but 
+
+
+actually capture him or, worse, kill him. If the 
+PCs kill a pixie, they must make several quick 
+decisions correctly while they probably still 
+don't know what's going on. First of all, they 
+must conceal this act. They must dispose of the 
+body and proceed with the adventure and act as 
+if nothing happened. This is unreasonable to 
+expect. Once Ebron learns of the death, the best 
+the PCs can hope for is to rescue Barens from 
+certain death and declare the forest off limits for 
+the next decade or so. They would deserve some 
+credit for rescuing Barens, but any other XP 
+awards should certainly be lost because of the 
+problems they created. 
+
+Capturing a pixie is not quite as irredeemable 
+as killing one. The pixie will not cooperate with 
+the PCs, of course. Holding it captive may seem 
+to have no purpose, and it is always a danger 
+because of its powers. Releasing the pixie, how 
+ever, presents an even bigger problem. It will 
+return to Ebron long before the PCs ever get 
+there, and when Ebron learns of the PCs' actions, 
+he will figure out their motives and concentrate 
+all harassment powers directly against them 
+wherever they go. No longer content to create 
+illusions in the hopes of frightening mortal trav 
+elers, Ebron will order his band to take more 
+direct action against the PCs, using all their 
+powers, such as polymorph, sleep, and cause con 
+fusion. He will also make it impossible for 
+Gwellen or her allies to ever contact the PCs. If 
+the PCs persevere in spite of all this, Ebron will 
+still consider them adversaries during the final 
+negotiations. It would have been much better to 
+have kept the pixie captive, no matter how cruel 
+that may seem. 
+
+
+9 
+
+
+
+[ 
+
+
+Chapter Two: Diversions 
+
+
+i 
+
+
+The encounters in the first chapter gave the 
+party clues to the nature of the adventure and 
+perhaps what to do next, but most of the encoun 
+ters in this chapter are purely diversions. Most 
+are simply irrelevant to the plot, but some could 
+help clear things up for a confused party and 
+others could provide false leads to test a party 
+further. 
+
+The Dungeon Master should feel free to 
+change these locations during the adventure as 
+necessary to either increase the challenge for a 
+party that has been having too much good luck 
+or to provide clues or other help to a party that 
+seems hopelessly on the wrong track. This is 
+especially the case with encounters 215 and 216 
+(meeting either the real Barens or the false one). 
+
+201. Giant Weasels 
+
+Weasels, giant (8): AC 6; MV 15; HD 3+3; hp 17; 
+
+THACO 17; #AT 1; Dmg 2-12; SA blood drain; 
+
+AL N; ML 10; XP 85 
+
+This family of giant weasels usually sustains 
+itself by scouring the forest for small creatures. 
+But when food gets low, these weasels some 
+times prey on human travelers passing through 
+Whispering Widow Woods. Knowing this, the 
+pixies set a trap by creating voices to lure travel 
+ers off the trail and into the weasels' lair. Usu 
+ally the travelers are able to escape with their 
+lives and tell others about the voice. Sometimes 
+the weasels catch the humans unaware and 
+have a feast for a week. 
+
+When the PCs encounter the weasels, the 
+creatures automatically have a hostile reaction 
+and receive a -1 modifier to their Surprise roll. 
+They can hear the party coming and they stalk 
+their prey. 
+
+Since the voice that led the PCs here was the 
+creation of a pixie, the party will not be able to 
+find its source. The pixie is curious, however, 
+and waits around briefly to see the result of the 
+encounter with the weasels. If a PC can detect 
+invisible and specifically looks for someone or 
+
+
+something immediately after the weasel en 
+counter ends, he might (10% chance) catch a 
+glimpse of the pixie before it slips off to its home 
+(402). 
+
+202. Giant Spider 
+
+Spider, giant: AC 4; MV 3 (Web 12); HD 4+4; hp 
+
+26; THACO 17; #AT 1; Dmg 2-8; SA poison; AL 
+
+CE; ML 13; XP 325 
+
+This abomination has spun a beautiful web 
+between trees at ground level, and it sits high in 
+a tree ready to drop onto its prey. The spider 
+prefers to have its victim temporarily immobi 
+lized by the web, but it will also attack humans 
+and others who are smart enough to stay out of 
+the web. 
+
+Perhaps as a tactic but more likely by acci 
+dent, the spider has left its treasure pile only 
+partially concealed. The greedy traveler who 
+acts on impulse will find the spider's sticky 
+webbing clinging to everything in the pile. 
+
+This spider is not too intelligent, and it will 
+attack even an obviously superior force. 
+
+Treasure: 2,000 sp, set of six gold-leaf goblets 
+worth 100 gp each. 
+
+203. Giant Ticks 
+
+Ticks, giant (9): AC 3; MV 3; HD 3; hp 10; 
+
+THACO 16; #AT 1; Dmg 1-4; SA blood drain; 
+
+AL N; ML 9; XP 60 
+
+Waiting in low-hanging branches for any 
+warm-blooded creature to pass by are a cluster of 
+nine giant ticks. After dropping on its prey and 
+achieving its first hit, each tick drains 1-6 points 
+of blood until it reaches 10 (its own hit points), 
+which is its satiation point, and it drops off. 
+
+To detach a tick before it reaches its satiation 
+point, one must immerse it in water, burn it, or 
+kill it. Once a tick has begun to drain blood, its 
+victim has a 50% chance of contracting a fatal 
+disease. The disease is fatal within 2-8 days 
+unless a cure disease spell is used. 
+
+
+10 
+
+
+Diversions 
+
+
+
+Knowing the mindless ticks will drop onto 
+any passerby, the pixies use false voices to lure 
+"large folk" to this menace and, they hope, to 
+prove the forest is too dangerous and frighten 
+them into leaving. 
+
+204. Sylvan Elves 
+
+Elves, wood (29): AC 5; MV 12; HD 1+1; hp 5; 
+THACO 18; #AT 1; Dmg by weapon; SA +1 to 
+hit; AL CG; ML 13; XP 210 
+Tretorn, a 4th level fighter (Str 16, Dex 17, Con 
+11, Int 15, Wis 8, Cha 15), heads this band of 28 
+sylvan elves. He stands just over 5 feet tall, 
+which makes him unusually tall for an elf. He 
+has long brown hair which he neatly pulls back 
+and ties with colored string. His clothing is 
+always spotless and matched carefully. His 
+fussiness about his appearance is a source of 
+humor for his band of elves, though none would 
+dare mock him to his face. 
+
+Though Tretorn may initially seem pompous 
+and aloof, he is a trustworthy and loyal elf. If the 
+PCs converse with him long enough, they will 
+discover that Tretorn's manner is to compensate 
+for his insecurities. 
+
+Tretorn always carries Virtue, an intelligent 
+sword +3. Virtue's characteristics and abilities are 
+Int 17, AL CG, primary abilities to detect evil or 
+detect good in a 10> radius, to locate object in a 
+120> radius, and detect invisible objects in a 10> 
+radius, extraordinary power to cast one unique 
+spell (of the sword's choice and design) per 
+week, the special purpose of helping the under 
+dog, the ability to communicate telepathically 
+with its owner, the ability to speak lammasu, 
+and the ability to read magic. Virtue's ego of 18 
+makes a close contest in the case of a personality 
+conflict between the sword and Tretorn, but this 
+has not produced a problem between them for 
+many years. 
+
+Because Tretorn and Virtue have the same 
+alignment, they have never had widely diver 
+gent viewpoints or plans of action. Tretorn was 
+
+
+occasionally bothered, however, when Virtue 
+seemed to seek glory for itself and belittle Tre 
+torn, especially in front of his elven band. Virtue 
+resents personality conflicts when its special 
+purpose, helping the underdog, is at stake. And 
+so the two have come to an understanding that 
+when there is an issue of helping an underdog at 
+hand, Tretorn will become passive and let Virtue 
+hold sway without a contest. In return. Virtue 
+will help Tretorn stand tall before his subjects, 
+taking full credit for powers and achievements 
+he could not have aspired to without Virtue's 
+help. No one else knows about this, of course, 
+especially Tretorn's band. 
+
+The rest of the band consists of 1st level elves. 
+Three elves carry swords, one carries a sword 
+and spear, seven carry spears, one carries a 
+sword and a bow, and the other 15 carry bows. 
+In addition to the 28 adults, there are three elf 
+children, all younger than age 10. 
+
+The elves have befriended a pride of giant 
+lynxes (212) and a flock of giant owls (215). If 
+the elves ever feel threatened, they can summon 
+these allies on short notice. By the same token, 
+any party that has visited either the lynxes or 
+owls could never surprise the elves as those ani 
+mals act as an early warning for Tretorn's band. 
+Any party that has fought with the owls or 
+lynxes can expect an automatic hostile reception 
+upon encountering the elves. 
+
+During his wanderings and search for 
+Gwellen, Barens encountered these elves several 
+times. As kindred spirits of the forest, Barens 
+and Tretorn became good friends. The elves 
+admired Barens for his stubborn refusal to give 
+up his love in the face of the pixie harassment 
+campaign. As a matter of fact, Virtue readily rec 
+ognized Barens as the underdog when the pixies 
+unleashed all their tricks against him, and the 
+sword created one of its unique spells to help 
+him. With Tretorn smiling his approval. Virtue 
+touched Barens on each shoulder and conferred 
+upon him absolute immunity to pixie magic and 
+mischief. To help maintain the effectiveness of 
+
+
+11 
+
+
+
+
+the spell, Tretorn gave Barens a small charm in 
+the exact shape of Virtue. As long as Barens has 
+the charm and it remains intact, he will be pro 
+tected. He cannot transfer the effects of the 
+charm to anyone else because Virtue gave only 
+him the immunity. If he lets anyone know he 
+has the charm, its effectiveness immediately dis 
+appears. Barens has used this gift wisely (see 
+Barens's Cabin, 401, for details). 
+
+Unless the PCs have earned a more hostile 
+reaction, the elves will be friendly but cautious 
+toward them. Knowing of all the pixies' shenani 
+gans, the elves suspect the PCs may be some 
+kind of pixie trick. There are a few ways the PCs 
+might try to gain the elves' friendship. They 
+could try to persuade the elves that they have 
+Barens' best interests at heart, though the elves 
+will still suspect a pixie trick. The PCs could 
+overcome this with details about Jareb or details 
+
+
+about Barens' past, offering information that the 
+pixies wouldn't have. The PCs might also 
+describe an encounter with the pixies, though 
+they would have to be very persuasive (or pro 
+duce a captive pixie, for instance) to shake the 
+elves' suspicion. Probably the best thing the PCs 
+could do would be to disclose their mission but 
+profess ignorance of all the events of the forest 
+(the ignorance could be real, of course), such as 
+the pixies' scare campaign. In this case, the elves 
+would quickly recognize the PCs as underdogs 
+and try to help them. 
+
+Though the elves sympathize with Barens and 
+dislike what the pixies are doing, they would 
+not dare to oppose the pixies directly. If the PCs 
+can win the elves' confidence, Tretorn will tell 
+them what he knows of the situation, such as 
+Barens's and Gwellen's love, the pixies' harass 
+ment of Barens and their forbidding Gwellen to 
+
+
+12 
+
+
+
+
+Diversions 
+
+
+
+see him, and their campaign to scare other 
+"large folk" out of the forest. Tretorn will direct 
+the PCs to Barens's cabin, but he will not guide 
+them there and he will not mention Virtue's spe 
+cial gift to Barens. 
+
+Treasure: 10,000 gp, four ebony statuettes of 
+lammasu each worth 2,000 gp, potion of plant 
+control, potion of speed, potion of levitation, potion of 
+extra-healing, potion of animal control (2), scroll of 
+protection from elemental, scroll of protection from 
+dragon breath. 
+
+205. Satyrs 
+
+Satyrs (5): AC 5; MV 18; HD 5; hp 18; THAC0 
+
+15; #AT 1; Dmg 2-8 or by weapon; SA pipes; 
+
+AL N; ML 13; XP 475 
+
+This colony of five satyrs gets along with 
+most all other residents of Whispering Widow 
+Woods. Their fun-loving lifestyle is infectious, 
+and other creatures consider the satyrs either as 
+friends or as harmless ne'er-do-wells. The satyrs 
+have no natural enemies. 
+
+This group knows what's going on in the for 
+est, in a general way at least. They don't know 
+the particulars of the romance between Barens 
+and Gwellen, but they know something has the 
+pixies mighty upset. For their part, the satyrs 
+could not care less. They care only if they hear of 
+a threat to their friends the centaurs (213) or 
+their mates, the dryads (207). 
+
+The satyrs' response to any approach by the 
+PCs will be for the leader to play his pipes. If 
+there is an attractive female (Cha 15+) in the 
+party, he will play to charm her. Otherwise, his 
+action depends on the PCs' approach. If the 
+satyr thinks they're friendly, he'll try to put 
+them to sleep, then steal all their valuables. If the 
+satyr thinks the PCs are hostile, he'll try to make 
+his pipes cause fear and drive them away. 
+
+In any case, the PCs will find the satyrs to be 
+of little help, and if the PCs start trouble, they 
+could find themselves in trouble with most of 
+the other forest creatures as well. If the PCs 
+
+
+encounter the satyrs and avoid having combat 
+with them, award the party a bonus of 200 XP. 
+
+Treasure: Six tiger eye agates worth 10 gp 
+each, three topaz gems worth 500 gp each, pipes 
+of sounding, philter of love (10). 
+
+206. Leprechaun 
+
+Leprechaun: AC 8; MV 15; HD 1; hp 3; THAC0 
+
+20; #AT 0; Dmg Nil; SA spells; AL N; ML 11; 
+
+XP 135 
+
+This forest is full of enough mischief, but this 
+little guy is in the midst of it and doesn't seem to 
+care. This leprechaun, Rollin Dougherty, cares 
+nothing about Barens, Gwellen, and the pixies' 
+campaign to scare off the "large folk." All this 
+means to Rollin is fewer victims to rob. 
+
+The PCs will find Rollin perched up on a tree 
+limb, fast asleep and snoring. He is an old lep 
+rechaun. His hair underneath a round brown 
+hat is tinged with white. His raggedy brown 
+clothes are clean, however. A shiny gold belt cir 
+cles his waist and is only barely visible behind 
+the bag he clutches. He wears dirty black shoes. 
+Even in his sleep he appears to be tightly clutch 
+ing a knotted bag made of twine. Through the 
+holes in the bag the PCs can see glittering bits of 
+shiny gold. Rollin is not actually sleeping, but is 
+trying to lure the PCs into a trap. 
+
+If the PCs call out to the leprechaun to try to 
+wake him, Rollin opens one eye and peers at 
+them cautiously. At first he pretends to be a 
+pixie and offers his services in countering the 
+pixies. Rollin slowly works his way into the 
+party's confidence. 
+
+When he sees a good opportunity, Rollin lures 
+the party over to the tree where his trap has 
+been laid. Then he springs his rope trap and the 
+party is scooped up in a huge net. Rollin 
+snatches whatever he can of value, turns invisi 
+ble, and scampers off into the woods. 
+
+If the PCs try to sneak up on Rollin as he sup 
+posedly naps, they will be caught in the rope 
+trap immediately and robbed. They cannot sur- 
+
+
+13 
+
+
+Diversions 
+
+
+
+prise him in any way. If the PCs have no appro 
+priate magical items, escape from the rope trap 
+takes at least three rounds. 
+
+Rollin is no help to the party. He only causes 
+grief. He will do anything to prevent the PCs 
+from finding his lair if they somehow manage to 
+follow him. 
+
+Treasure: 5,000 gp, gold belt worth 500 gp. 
+
+207. Dryads 
+
+Dryads (3): AC 9; MV 12; HD 2; hp 9; THAC0 
+
+16; #AT 1; Dmg 1-4; SA charm; AL N; ML 12; 
+
+XP 475 
+
+These three maids live near each other and 
+may be sisters. They are usually most secretive 
+and would never be seen by a party of travel 
+ers. Lately, however, one of the three, named 
+Vitae, has come into the open and greeted sev 
+eral humans and demihumans passing nearby. 
+She tells them she knows all about what the 
+pixies are doing and she wants to help the trav 
+elers. 
+
+Vitae is clothed in a simple, fine white dress 
+that glimmers with a pearly sheen. Her long, 
+white hair cascades down her back and reaches 
+the hem of her dress which extends just below 
+her knees. She is quite beautiful and will 
+respond in a very friendly manner to anyone 
+with high Charisma (15+). 
+
+As the other two dryads try to keep Vitae 
+from becoming involved, she ignores their 
+pleas and offers aid to the party. All is not as it 
+seems, though. Vitae, like Gwellen, was quite 
+smitten by Barens as he passed one day. Barens, 
+however, was already in love with Gw'ellen, 
+and he resisted Vitae's charms effortlessly. 
+Incensed, she enlisted the aid of all the trees in 
+the forest to find out why and how Barens 
+eluded her. 
+
+Now Vitae comes forward to offer her aid to 
+passers-by in the hope that she can trick them 
+into helping her. She willingly tells everything 
+she knows about the romance between Barens 
+
+
+and Gwellen, but her solution to the problem is 
+much different from Ebron's. Vitae is plotting to 
+get rid of Gwellen or to destroy Barens's love for 
+her; either will do. She gives the party a com 
+plete description of Gwellen so they can kill her 
+or force her to give up Barens. Vitae stresses that 
+none of this is Barens's fault, so simply tying 
+him up and removing him from the forest is not 
+a good solution-at least not for Vitae. 
+
+Vitae describes Gwellen as being about 2 feet 
+tall. She usually wears a pale blue or pale green 
+dress that seems to be made of an almost weight 
+less material. Her long red hair is always 
+braided behind her and is tied with flower 
+stems. Around her neck she wears a fine gold 
+chain from which hangs a tiny heart charm. 
+Barens had given her the charm at their second 
+meeting and she has not taken it off since. How 
+ever, since her father discovered her involve 
+ment with Barens, the charm has somehow 
+cracked. Vitae has seen the charm, but does not 
+know its significance. 
+
+Although Gwellen is beautiful. Vitae natu 
+rally describes her as being quite plain. She 
+complains about the horrid color of Gwellen's 
+hair and criticizes the way she "ties it up so 
+funny with flowers and whatever else she finds 
+in the forest." 
+
+Treasure: 300 gp, 20 garnets worth 300 gp 
+each. 
+
+
+208. Ankheg 
+
+Ankheg: AC 2 (underside 4); MV 12; HD ld6+2; 
+hp 16; THAC0 16; #AT 1; Dmg 3-18 (crush) + 
+1-4 (acid); SA squirt acid; AL N; ML 9; XP 300 
+This horrid bug is simply lying in wait for its 
+next meal. Buried with only its antennae stick 
+ing above the earth, the ankheg is very difficult 
+to detect. As the innocent traveler passes over, 
+the ankheg bursts from its underground hiding 
+place to crush its victim in its powerful pincers. 
+Treasure: 3,000 sp. 
+
+
+14 
+
+
+Diversions 
+
+
+¦> 
+
+
+209. Giant Ants 
+
+Ants, giant (146): AC 3; MV 18; HD 2 (worker), 3 
+(warrior), 10 (queen); hp 8 (worker), 14 (war 
+rior), 47 (queen); THACO 16; #AT 1; Dmg 1-6 
+(worker), 2-8 (warrior), 0 (queen); SA poison 
+sting (warrior); AL N; ML 9; XP 15 (worker), 
+85 (warrior), 0 (queen) 
+
+As the party approaches this area, the PCs 
+notice unusual movement amid the underbrush. 
+Upon closer examination, they will find 20 
+worker ants going about their business of gath 
+ering food. There are four anthills in the immedi 
+ate area. There are 100 more workers, 25 warriors, 
+and the queen in the ants' tunnels below the 
+anthills. 
+
+If the party is reasonably careful, the PCs can 
+continue on their way without disturbing the 
+ants. The ants will fight, however, if combat- 
+minded PCs are determined to get their weap 
+ons bloody. 
+
+If the PCs manage to kill the queen, the other 
+ants become confused for six rounds and then 
+leave the nest. 
+
+Treasure: Six jasper gems worth 50 gp each, 
+potion labeled polymorph self (actually poison), 
+potion of diminution, potion of gaseous form. 
+
+210. Bombardier Beetles 
+
+Beetles, bombardier (6): AC 4; MV 9; HD 2+2; 
+hp 10; THACO 19; #AT 1; Dmg 2-12; SA acid 
+cloud; AL N, ML 13; XP 60 
+The party can smell these beetles before it sees 
+them. Six of these huge insects have chosen the 
+same parcel of forest to build their nests. Each 
+has accumulated a prodigious pile of waste in 
+which to lay its eggs. All seem intent on tasks 
+comprehensible only to other insects and seem 
+oblivious to the party of PCs marching forward 
+with noses held. The PCs can easily skirt the bee 
+tles' stomping ground and continue onward, but 
+they suffer a -2 penalty to their surprise rolls for 
+the next two hours because of the stench. 
+
+
+211. Giant Lynxes 
+
+Lynxes, giant (4): AC 6; MV 12; HD 2+2; hp 14; 
+
+THACO 19; #AT 3; Dmg 1-2/1-2/1-4; SA rear 
+
+claws 1-3 each; AL N; ML 9; XP 135 
+
+These four giant lynxes pose no threat to man, 
+unless that man appears to be a threat to their 
+friends, the sylvan elves (204). These intelligent 
+cats prey on small mammals in the area as they 
+act as the eyes and ears of the elves. 
+
+As the PCs approach, the lynxes watch cau 
+tiously and curiously, but from a distance. The 
+lynxes will not interfere with the PCs in any 
+way. Only if the PCs appear to be headed for the 
+elves will the cats race to warn their friends and 
+masters. 
+
+Only a truly determined party could force 
+combat with these cats, and only a very talented 
+party could befriend them to a point where they 
+would be of some use. If the PCs do manage to 
+find a way to fight with the lynxes, it severely 
+damages their chances to deal with the elves. 
+
+212. Centaurs 
+
+Centaurs (6): AC 5; MV 18; HD 4; hp 18; THACO 
+
+17; #AT 3; Dmg 1-6/1-6/by weapon; SA Nil; 
+
+AL CG; ML 13; XP 100 
+
+Six sylvan centaurs live in this part of Whis 
+pering Widow Woods. They are on especially 
+good terms with the satyrs (205) and the wood 
+elves (204). Four of them carry bows and two 
+carry lances. 
+
+When the PCs encounter them, the centaurs 
+are extremely cautious and not particularly 
+friendly. The centaurs inform the party that 
+humans aren't welcome in this part of the 
+woods. Though firm in their resolve to get rid of 
+the PCs, the centaurs will be civil, and they will 
+ingly give out bits of information if that means 
+the PCs will leave. 
+
+The PCs must be very polite and self-effacing 
+here if they expect to gain anything from this 
+encounter. If the PCs are the least bit aggressive 
+
+
+15 
+
+
+Diversions 
+
+
+
+or disagreeable, the centaurs won't hesitate to 
+give them a fight. 
+
+Treasure: 6 gp, three topaz gems worth 500 gp 
+each. 
+
+213. Giant Hornet 
+
+Hornet, giant: AC 2; MV 6/24; HD 5; lip 30; 
+THACO 15; #AT 1; Dmg 1-4; SA poison and 
+paralysis; AL N; ML 10; XP 325 
+This nasty insect buzzes through the forest 
+looking for its next victim. A careful party 
+should be able to hear its buzzing from 50 yards 
+(1 hex) away and steer clear of it. If the PCs are 
+foolish enough to investigate the buzzing, how 
+ever, they are likely to have a fight on their 
+hands because the hornet can fly much faster 
+than they can run away. 
+
+214. Giant Owls 
+
+Owls, giant (2): AC 6; MV 3/18; HD 4; lip 17; 
+THACO 17; #AT 3; Dmg 2-S/2-8/2-5; SA sur 
+prise; AL N; ML 12; XP 135 
+This mated pair of owls acts as a warning sys 
+tem for their friends, the elves (204). The owls 
+are adept at getting out of trouble, but the elves 
+would surely come to their aid if needed. 
+
+The owls will be friendly and curious, but 
+cautious toward the PCs. If the PCs are aggres 
+sive, the owls will simply fly away unless the 
+PCs threaten their nest, in which case they will 
+fight furiously. If the PCs win the owls' confi 
+dence, the owls will lead them to the elven band 
+at encounter 204. 
+
+Treasure: Three eggs, three egg-shaped 
+rhodochrosite gems worth 10 gp each, five egg- 
+shaped pieces of dark green jade worth 100 gp 
+each, potion of ventriloquism, unlabeled potion of 
+water breathing. 
+
+
+215. Fake Barens 
+
+Barens (F0): AC 8; MV 12; ITD 1; hp 4; THACO 
+
+20; #AT 1; Dmg 1-8 (double-bladed axe); SA 
+
+Nil; AL NG; ML 10; XP 15 
+
+At several locations in the forest, Ebroch, 
+Gwellen's brother, has polymorphed himself to 
+look exactly like Barens and imitate Barens's 
+voice perfectly. He can imitate Barens's manner 
+isms to some extent but totally lacks knowledge 
+of Barens's background and personality. Thus, 
+he looks, sounds, and even acts like Barens, but 
+would have no idea what Barens's father's 
+name is, for example. Ebroch hasn't told 
+Gwellen of his efforts to get rid of the PCs so she 
+can honestly tell her father she knows nothing 
+about it. 
+
+Barens is a handsome young man about 20 
+years old. He has shoulder-length brown hair 
+which he keeps out of his eyes by tucking it in a 
+cloth cap or headband that he ties around his 
+forehead. He wears a white shirt and brown 
+leather trousers. He has crude brown, leather 
+shoes that are scuffed. He carries an axe with 
+him not only to use in the forest, but to defend 
+himself against dangerous creatures. 
+
+When encountered by the PCs, the ersatz 
+Barens acts out his part to the best of Ebroch's 
+ability. He willingly tells the PCs his name is 
+Barens, but he acts cautiously toward them at 
+first. This is a ruse, of course, because Ebroch is 
+trying his best to gain the PCs' confidence. 
+
+This false Barens openly discusses his love for 
+Gwellen, admitting that she is the reason he has 
+been staying in the forest. He puts a false twist 
+on events, however, professing to be depressed 
+about the difficulties he and Gwellen face, such 
+as different cultures, different sizes, obstacles 
+placed by the rest of the pixies, and so forth. 
+What Ebroch is trying to do is get the PCs to 
+coax Barens out of the forest. As a result, the 
+search party would leave the forest thinking 
+they have succeeded in their mission because 
+they have Barens by their side. 
+
+
+16 
+
+
+
+17 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Diversions 
+
+
+
+
+If this all happens according to the pixie's 
+plan, this false Barens will accompany the PCs 
+all the way back to Jareb's manor. The only rea 
+son that this can work is because the PCs don't 
+know Barens personally. Ebroch knows he won't 
+be able to fool Barens's family for long, so after 
+initial greetings, Barens pleads fatigue and 
+excuses himself to take a nap before dinner. Not 
+even knowing the way to Barens's bedroom, the 
+pixie acts as soon as he is out of sight of the oth 
+ers. He quickly drops the Barens guise, changes 
+back to a pixie, becomes invisible, and heads 
+back for the forest. Ebroch hopes that Barens's 
+family won't go searching for him again, at least 
+not right away. 
+
+If the PCs have somehow already encoun 
+tered Gwellen, she will have told them about 
+the heart charm that Barens gave her. If she is 
+with them when they encounter the false Barens, 
+she will insist that he is an impostor. She has no 
+proof he is a fake, except that she insists that her 
+cracked heart charm would heal itself if she 
+found him again. Ebroch has not told Gwellen 
+of his plan to protect the real Barens and to help 
+her, and he will not admit that he is an impostor, 
+even to his sister. 
+
+The PCs may realize that Gwellen could help 
+them by testing Barens's knowledge of his 
+romance with the pixie. If they suspect that 
+something is odd about this Barens, Gwellen 
+will cooperate by asking him intimate details of 
+their relationship that only those two could 
+know. 
+
+216. Barens 
+
+Barens (FO): AC 8; MV 12; HD 1; hp 4; THACO 
+
+20; #AT 1; Dmg 1-8 (double-bladed axe); SA 
+
+Nil; AL NG; ML 10; XP 15 
+
+Barens spends most of his time searching for 
+Gwellen. Since Ebron has forbidden Gwellen 
+from seeing Barens, this means Barens spends 
+more and more time wandering through the for 
+est. When the PCs encounter the young man. 
+
+
+Barens will be friendly but cautious. See en 
+counter 215 for a description of Barens. 
+
+Barens is wary of yet another pixie trick 
+against him. He also has no intention of leaving 
+the forest without Gwellen, no matter whom his 
+father sends after him. With the charm of immu 
+nity to pixie magic given to him by the elves (204), 
+Barens isn't too worried even if the PCs are just 
+another pixie trick. Since he can't let the pixies 
+know he has this charm, he pretends to suc 
+cumb to every bit of pixie harassment. 
+
+If the PCs have already encountered Gwellen, 
+but she is not with them, telling Barens that they 
+know about the heart charm will certainly get 
+his attention. He will know when it was given to 
+Gwellen and what it looks like, obviously, and 
+the false Barens (Ebroch) will not. 
+
+If the PCs manage to convince Barens that 
+they are on his side, not just fulfilling a contract 
+for his father and certainly not pixie shills, he 
+will try to enlist their aid. But not here. "The 
+trees have eyes and ears," Barens warns the PCs, 
+putting a single finger to his lips and quickly 
+leading them away from this place. 
+
+Barens will take the PCs to his cabin (401), 
+where they can talk more openly and where 
+they can plan strategy. Barens knows the way to 
+get them there without incident. 
+
+
+18 
+
+
+Chapter Three: Inner Perils 
+
+
+Deep in the forest reside dark horrors that the 
+forest folk and others have avoided for decades. 
+More than mere diversions on the way to solv 
+ing the real plot, these creatures are here to pun 
+ish anyone with more muscles than brains. 
+
+301. Kobolds 
+
+Kobolds (250): AC 7; MV 6; HD M; hp 2; THACO 
+
+20; #AT 1; Dmg 1-4; SA Nil; AL LE; ML 8; XP 3 
+
+This tribe of 250 kobolds has lived in relative 
+peace in this part of the forest since driving most 
+other creatures away. They know this area of the 
+woods very well and patrol it frequently. 
+
+If the PCs arrive here along one of the trails, 
+kobold scouts certainly would have spotted 
+them long enough ahead of time for the main 
+body of kobolds to have prepared an excellent 
+ambush. Tf the PCs arrive here without using the 
+trails, the kobolds would still have spotted them 
+ahead of time and would be gathering more 
+kobolds as the PCs neared the kobold camp. By 
+the time the PCs reach here, kobolds will have 
+surrounded them but can no longer catch the 
+PCs by surprise. 
+
+Regardless of how the party arrives, the 
+kobolds wait for the best opportunity and then 
+attack, using sniping tactics with arrows and 
+slings in an attempt to damage the party. They 
+use their hiding places and superior numbers to 
+keep the PCs constantly surrounded. The 
+kobolds automatically attack when they think 
+they have an advantage. They will negotiate 
+with the party only if beaten badly or threat 
+ened with death. 
+
+Leading the kobolds is a chief and his kobold 
+honor guard consisting of four kobolds (AC 5, 
+HD 1+1, hp 7, Dmg 1-8) as well as 12 captains 
+(AC 6, HD 1-1, hp 4, Dmg 1-6). 
+
+Treasure: 40 cp, 10 sp, three bloodstone gems 
+worth 50 gp each. 
+
+
+302. Owlbears 
+
+Owlbears (5): AC 5; MV 12; HD 5+2; hp 29; 
+THACO 15; #AT 3; Dmg 1-6/1-6/2-12; SA 
+hug; AL N; ML 12 + special; XP 210 
+These five owlbears, two adults and three 
+babies, had grown used to being left alone in 
+their part of the forest. That was before the pix 
+ies started their scare campaign. Knowing about 
+the owlbears' foul disposition, the pixies created 
+one of their false trails leading directly to the 
+owlbears' lair. Since this happened, innocent 
+travelers and even other forest creatures have 
+been unlucky enough to find themselves facing 
+the owlbears. The owlbears have dealt with the 
+intruders effectively, but their disposition has 
+grown even worse with the bother. 
+
+The two adult owlbears will treat the PCs 
+just like any other intruder and will attack on 
+sight. Regardless of the owlbears' neutral align 
+ment, the PCs can do nothing to pacify the 
+beasts, and their only course of action is to try 
+to retreat with as little damage as possible. The 
+PCs have no reason to battle these creatures, so 
+award the party a bonus of 50 XP if they 
+encounter the owlbears but manage to leave 
+without a fight. 
+
+303. Whispering Widow 
+(Groaning Spirit) 
+
+Groaning Spirit: AC 0; MV 15; HD 7; hp 30; 
+THACO 13; #AT 1; Dmg 1-8; SA death wail; 
+AL CE; ML 13; XP 2,000 
+This is the location of the towering limestone 
+cliff with a shroud of black stone that is com 
+monly known as the Whispering Widow. It is 
+visible from outside the forest and is a landmark 
+from those occasional places where the canopy 
+opens wide enough to let some daylight reach 
+the forest floor. While the rock face itself 
+accounts for the "Widow" in the name, a horri 
+ble occupant of the hill's forested eastern slope 
+is responsible for the "Whispering." 
+
+
+19 
+
+
+Inner Perils 
+
+
+The rumors and legends common in the land 
+betray little about this groaning spirit. No one 
+outside the forest claims to have actually seen a 
+real Whispering Widow, other than the face on 
+the hill. Most of the rumors correctly identify 
+the Widow as an elf, but the rest of the rumors 
+are more fantasy than fact. The other accurate 
+parts of the rumors are that the Widow's "whis 
+pering," actually thought to be cries of grief, 
+have lured many to their doom. 
+
+Even the pixies want nothing to do with this 
+creature, and they also have not been so sadistic 
+as to create a false trail leading to the spirit's lair. 
+
+If the PCs are unfortunate enough to venture 
+within 100 yards (2 hexes) of the groaning spirit, 
+they will be able to hear its wail regardless of 
+wind direction. They can recognize the tone of 
+anguish and can distinguish it from the voices 
+in encounter 110. If the party has been unlucky 
+enough to have blundered onto the groaning 
+spirit's lair, they should be happy to escape with 
+their lives. 
+
+If they manage to fight and kill the spirit, the 
+PCs still get only half the XP because they 
+shouldn't have been here in the first place. 
+However, killing the Whispering Widow will 
+certainly make them local heroes. It will also 
+give them instant credibility with the wood 
+elves, pixies, Gwellen, Barens, or most other 
+occupants of the forest. 
+
+304. Will o'Wisp 
+
+Will o'Wisp: AC -8; MV 18; HD 9; hp 44; THACO 
+
+11; #AT 1; Dmg 2-16; SA electrical damage; AL 
+
+CE; ML 17; XP 1,500 
+
+A will o'wisp has taken up residence in this 
+area of forest because of the suitably large 
+expanse of quicksand, 30 feet by 50 feet. Hang 
+ing from the canopy of limbs above the quick 
+sand are the bags of treasure the will o'wisp has 
+recovered from its victims. The will o'wisp has 
+no use for this treasure except as bait for other 
+adventurers. 
+
+
+The pixies have created a false trail leading to 
+a spot not too distant from the will o'wisp's 
+haunt. The pixies didn't want to get any closer 
+because the will o'wisp is so devious and blood 
+thirsty. 
+
+When the PCs reach this area of forest, the 
+will o'wisp hovers just out of their reach, luring 
+them forward. The will o'wisp continues to lead 
+its victims toward the quicksand, fighting only 
+as necessary. 
+
+Treasure: 200 cp, 200 sp, 300 gp, 100 pp, five 
+jet gems worth 100 gp each, gem of seeing, mirror 
+of mental prowess, shield +3. 
+
+305. Green Dragon 
+
+Dragon, green (very old): AC -5; MV 9/30; HD 
+
+18; hp 96; THACO 2; #AT 3; Dmg 1-8/1-8/ 
+
+2-20; SA breath, spells; AL LE; ML 16; XP 
+
+6,500 
+
+Living in a cluster of hills cloaked in an eerie 
+green mist, this very old green dragon goes 
+wherever it wants, whenever it wants. It usually 
+stays close to home, however, to protect its trea 
+sure hoard. That is totally unnecessary, as every 
+forest creature knows about the dragon and 
+none would be foolish enough to try to pilfer its 
+hoard. 
+
+The dragon long ago cleared out its immedi 
+ate area of any other creatures. As part of their 
+scare campaign, the pixies created a false trail 
+leading to the dragon's lair, but they stopped 
+well short because they didn't want to deal with 
+this foul-tempered and powerful beast. 
+
+In addition to its dangerous chlorine breath 
+weapon, which causes 18d6+9 points of dam 
+age, the dragon radiates fear within 35 yards 
+and can cast a number of spells. Once each day 
+the dragon can use charm person, detect good, 
+entangle, ESP, gust of wind, hold person, plant 
+growth, slow, suggestion, warp wood, and water 
+breathing. 
+
+As the PCs encounter the green dragon, they 
+notice that its curiosity exceeds its hunger as it 
+
+
+20 
+
+
+Inner Perils 
+
+
+quickly begins to converse in common. An open 
+exchange of information seems fair to the 
+dragon, especially since it has no secrets and 
+sees no harm in giving information to creatures 
+whom it expects to be its next meal. 
+
+The dragon knows about all long-term resi 
+dents of this forest, and it does not hesitate to tell 
+the PCs the general location of any lair, including 
+the pixies'. The dragon knows nothing of Barens 
+or his cabin, since they are recent arrivals, and is 
+unaware of the pixies' harassment campaign. 
+The dragon will not divulge any information 
+about itself, its habits, or its hoard. 
+
+The dragon wants to question the PCs because 
+it is thirsty for information about the outside 
+world. The dragon first asks the PCs what they 
+are doing in the forest. It cares little about their 
+mission but is most interested in the fact that 
+they are mercenaries, attempting a task for hire. 
+This interests the dragon because it reasons that 
+their employer must be wealthy to be able to 
+hire them. The dragon asks repeated and 
+pointed questions about the PCs' employer, his 
+residence, and his riches. The dragon also asks 
+leading questions like, "Your employer must be 
+the richest man in the region, yes?" The dragon 
+is obviously trying to learn if there is an even 
+better target outside the forest. 
+
+The dragon will continue this conversation 
+until he thinks he has gleaned all the informa 
+tion he can from the PCs and has given them a 
+fair amount in return. Then it attacks without 
+warning. 
+
+Treasure: 20,000 sp, 10,000 pp, silver dinner 
+place settings for 64 people, including plates, 
+goblets, eating utensils, and all serving acces 
+sories-more than 500 pieces in all with a total 
+silver content exceeding 4,000 sp. 
+
+306. Choke Creeper 
+
+Plant, Carnivorous: AC 6 (vine), 5 (stalk); MV-; 
+
+HD 25; hp 150; THAC0 7; #AT 8 or more; Dmg 
+
+1-4; SA strangulation; AL N; ML 14; XP 9,000 
+
+
+This vine is 120 feet long, twisting back on 
+itself again and again. PCs unlucky enough to 
+wander within its grasp are in for the fight of 
+their lives. Its many branches each have 12 hp in 
+addition to the damage the main vine can sus 
+tain. The vine can make four attacks on each tar 
+get within its reach. 
+
+307. tttercap 
+
+Ettercap: AC 6; MV 12; HD 5; hp 20; THAC0 15; 
+
+#AT 3; Dmg 1-3/1-3/1-8; SA poison; AL NE; 
+
+ML 13; XP 475 
+
+Expecting to claim its victims one at a time, 
+this ettercap has set many snare-type traps in a 
+small area, and he sits up in the branches wait 
+ing for someone or something to set one off. The 
+creature is quite taken aback to see a whole 
+party of PCs heading his way. 
+
+Regardless of whether a PC sets off a trap or 
+one of them detects a trap without setting it off, 
+the ettercap is not so foolish as to attack the PCs 
+as long as they have numerous friends nearby, 
+and so the creature cowers behind whatever 
+foliage it can find. 
+
+If the PCs corner the ettercap, it will defend 
+itself. If the PCs decide not to bother, the etter 
+cap wheezes a sigh of relief and goes back to its 
+watching post to wait for better odds. 
+
+308. Obliviax 
+
+Obliviax: AC 10; MV Nil; HD '/; hp 2; THAC0 
+
+20; #AT 0; Dmg Nil; SA spells; AL NE; ML 9; 
+
+XP 15 
+
+If the PCs managed to protect their memories 
+from the scheming pixies, they now have 
+another problem to deal with. When the party 
+comes within 60 feet, the obliviax starts trying 
+to pluck people's memories. It goes after the 
+spellcasters first so it can use those spells to 
+defend itself. 
+
+
+21 
+
+
+
+
+Inner Perils 
+
+
+
+309. Giant Sundew 
+
+Plant, carnivorous: AC 7; MV 1; HD 8; hp 30; 
+THACO 12; #AT 6 per target; Dmg 1-3; SA suf 
+focating; AL N; ML 11; XP 1,000 
+The sticky, sweet sundew lashes out with its 
+tendrils at anyone within its reach. Though this 
+plant should not pose a serious threat for the 
+PCs, it is sure to be a bother. And if the PCs 
+decide that the sundew is protecting something, 
+they will find it a major bother to kill, all for 
+nothing. 
+
+310. Stirges 
+
+Stirges (24): AC 8; MV 3/18; HD 1+1; hp 5; 
+THACO 17; #AT 1; Dmg 1-3; SA blood drain; 
+ALN; ML 8; XP 85 
+
+This cluster of stirges has cleared almost all 
+the small mammals out of this area of forest. The 
+thirsty stirges will not hesitate to attack the 
+party. As the stirges can smell the PCs some dis 
+tance off, the encounter does not occur exactly at 
+the stirges' lair. If the PCs defeat the stirges and 
+go looking for treasure, they must spend consid 
+erable extra time to have any chance of finding 
+the lair (10% chance per hour). 
+
+Treasure: 2,000 gp, potion of flying, luand ofpar- 
+ahjzation with 54 charges, book with nothing 
+written on the cover (tome of clear thought). 
+
+311. Worgs 
+
+Worgs (8): AC 6; MV 18; HD 3+3; hp 16; THACO 
+17; #AT 1; Dmg 2-8; SA Nil; AL NE; ML 11; 
+XP 60 
+
+These worgs are relative newcomers to this 
+part of Whispering Widow Woods. They had 
+lived nearer the kobolds (301) but grew weary 
+of that sniveling band's attempts to befriend 
+and train the worgs, presumably to use as 
+mounts. These particular worgs are too inde 
+pendent and proud to serve as mounts for any 
+body, much less for kobolds. Tired of the 
+
+
+hassle, the worgs moved. 
+
+The worgs are intelligent enough not to attack 
+the PCs blindly. The worgs know they probably 
+could not win that battle, and so the worgs 
+shadow the party warily, attacking only if they 
+see a sign of weakness. 
+
+The worgs' speed and knowledge of the area 
+make it almost impossible for the PCs to corner 
+them or force them into a fight. 
+
+312. Firbolgs 
+
+Firbolgs (3): AC 2; MV 15; HD 13+7; hp 71; 
+THACO 9; #AT 1; Dmg 1-10+7; SA spells; AL 
+N; ML 16; XP 4,000 
+
+Other forest creatures leave these three fir 
+bolgs alone, and for good reason. The giant-kin 
+don't like strangers, and they are one of the 
+most formidable foes to be found. 
+
+If the PCs go far enough afield to reach this 
+part of the forest, they may be in for some seri 
+ous trouble. The firbolgs don't attack immedi 
+ately, but they do try to get the PCs to leave. 
+Any PCs who are this far off track may also 
+decide to stay and talk to the firbolgs a bit 
+longer. They'll see the firbolgs' attitude change 
+from friendly to firm to fatal. 
+
+Treasure: 2,000 gp, sapphire worth 1,000 gp. 
+
+313. Hangman Tree 
+
+Plant, carnivorous: AC 3/5 (appendages); MV 
+0; HD 6+1 hp/year; hp 142; THACO 7; #AT 3; 
+Dmg 1-3; SA swallow; AL N; ML 15; XP 700 
+If the PCs wander into this area, the best they 
+can hope for is to escape with little loss. The 
+hangman tree would like nothing better than a 
+few PCs as a change in diet from its usual kobold 
+fare. If the PCs do venture too close, the tree 
+attacks three of them simultaneously. 
+
+
+22 
+
+
+
+
+
+
+
+
+Inner Perils 
+
+
+314. Wolfwere 
+
+Wolfwere: AC 3; MV 15; HD 5+1; hp 22; THACO 
+
+15; #AT 2; Dmg 2-12/1-8 (double-bladed axe); 
+
+SA singing brings on lethargy; AL CE; ML 14; 
+
+XP 1,000 
+
+After all this way, finally the PCs have found 
+Barens, or so they think. Unfortunately for the 
+hapless party that has gotten this far, this isn't 
+Barens, or even a pixie polymorphed to look like 
+Barens. This wolfwere is much more sinister. 
+Seeing the party of humans and demihumans 
+approaching, the wolfwere assumes the form of 
+an attractive example of their kind, namely that 
+handsome young woodsman the wolfwere has 
+seen wandering about. 
+
+The wolfwere in this guise cannot fool the 
+party for long, but he doesn't need to. Upon see 
+ing the PCs and heading toward them, 'Barens' 
+breaks into song. This song is far from harmless, 
+however, as it causes lethargy (5-8 rounds) 
+among the PCs who fail their saving throws vs. 
+spells. 
+
+Just as the wolfwere reaches the PCs it 
+changes into a half-human, half-wolf form and 
+attacks with its mighty jaws as well as with the 
+axe it is carrying. The PCs have little choice but 
+to fight back. 
+
+Treasure: 5,000 cp, five amber gems worth 100 
+gp each, oil of disenchantment, potion of levitation, 
+potion of speed, scroll of protection from electricity. 
+
+315. Yellow Musk Creeper 
+
+Yellow Musk Creeper: AC 7; MV 0; HD 3; hp 
+
+14; THACO 17; #AT 8; Dmg special; SA gas; 
+
+AL N; ML 20; XP 325 
+
+The beautiful flowers on this plant may seem 
+out of place in the darkest reaches of the forest, 
+but not as out of place as any creature that ven 
+tures too close to them. Even in such a hostile 
+environment as much of Whispering Widow 
+Woods is, there are few things as mindlessly 
+destructive as the yellow musk creeper. 
+
+
+Any PCs who become yellow musk zombies 
+are out of commission for the rest of the adven 
+ture, even if their comrades rescue them from 
+the creeper's fatal attack. 
+
+Treasure: 5,000 cp, four moonstones worth 50 
+gp each, four amethysts worth 100 gp each. 
+
+316. Wizard 
+
+Wizard (Mil): AC 10; MV 12; hp 30 ; Str 9; Dex 
+
+14; Con 10; Int 15; Wis 13; Cha 12; THACO 20; 
+
+#AT by spell; Dmg by spell; SA spells; AL CG; 
+
+ML 12 
+
+Spells: shield, ride the wind, past life, hold person, 
+and locate creature 
+
+Fiona is a squat wizard with very large hands, 
+the only other body parts showing besides her 
+face. Her hair is the color of a crow's feathers 
+and hangs in straggly ringlets to her shoulders. 
+Her face is pleasant if expressionless, but when 
+she frowns or becomes angry, her face becomes 
+frightening and distorted. 
+
+She wears a flowing robe which changes color 
+as the sky changes color. Her feet are wrapped 
+in leather strips, but are seldom visible beneath 
+the long robe. 
+
+When the PCs encounter Fiona, she is outside 
+of what appears to be a small hut hidden by lots 
+of bushes and vegetation. Beside her crude 
+wooden door is a slice of tree trunk that appears 
+to be used as a stool. Strewn about the dirt are 
+several large bones. 
+
+Fiona is on her knees searching the ground for 
+something. Even if the PCs attempt to sneak up 
+on her, she will not be surprised. She claims her 
+hearing is far too good for anything to sneak up 
+on her. If the PCs approach her in a friendly 
+manner, she will chat amiably with them, all the 
+while searching through the bushes and on the 
+ground. She knows nothing of Barens or 
+Gwellen or even that the pixies are causing trou 
+ble for humans. However, she seems to be inter 
+ested and concerned that humans may be chased 
+away from the area. Fiona occasionally uses 
+
+
+23 
+
+
+
+
+
+24 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Inner Perils 
+
+
+
+humans in her experiments and a shortage of 
+them would hinder her research. 
+
+If the PCs ask what she is searching for, Fiona 
+tells them her spell book has fallen apart and the 
+pages have scattered in the wind. So far she has 
+only managed to find the pages containing just 
+four spells. She has lost 14 other spells and is a 
+bit distracted by her problem. One spell in par 
+ticular has her worried. She will explain if the 
+PCs ask. Something went terribly wrong with 
+the spell as she was casting it and now she must 
+figure out how to reverse it. 
+
+If the PCs approach her in a hostile manner or 
+try to attack, she casts a simple hold person so she 
+can convince them to help her. Of course, the 
+PCs really have no choice. If they refuse to help 
+her, she will not let them leave alive. The PCs 
+should receive no XP if they attack Fiona, for 
+doing so would be extremely foolish. 
+
+If the PCs have been friendly so far, Fiona 
+will invite them into her hut, opening the door 
+for them. The door and all windows are wizard 
+locked, so the PCs may have a hard time leav 
+ing. Once inside, Fiona becomes a bit hostile. 
+She demands that the PCs help her before they 
+may leave. Inside the dark, smoky hut, Fiona 
+leads the PCs to a stack of small cages covered 
+by a faded purple cloth. There inside the three 
+cages are two small men and a small woman, 
+no more than 2 feet tall. They are all wrapped in 
+small cloths since their clothing no longer fits 
+them. In their tiny voices, they plead for help 
+from the PCs. Behind the cages are three piles of 
+human bones, each pile resting in a shallow 
+basket. 
+
+Fiona explains that she was practicing a new 
+spell when things went terribly wrong. She 
+ended up with a pile of bones and three very 
+shapeless, small humans when she was fin 
+ished. As a stopgap measure, she "borrowed" 
+three pixie skeletons from the pixies' graveyard 
+and "installed" them in the humans until she 
+could straighten out the problem. Fiona would 
+like to return the borrowed pixie skeletons 
+
+
+"before the little gnats find them gone. Then I'll 
+never get rid of the little pests." She wants to 
+restore the humans to their normal size, but has 
+lost the papers her spell was written on. She will 
+let the PCs leave only if they can figure out how 
+to help. 
+
+The PCs can help in two ways which are very 
+simple if they take the time to figure it out. They 
+can go search for the missing pages in the bushes 
+and try to help Fiona figure out where she went 
+wrong. A PC with high Intelligence (at least 15) 
+should be able to help. 
+
+Observant PCs may notice a deep shelf in the 
+hut. The shelf is straining under the weight of 
+many large jars. Fiona explains the potions that 
+each jar contains ( potion of flying, potion of dragon 
+control, potion of growth, potion of animal control ), 
+but the one that would be the most useful is the 
+large jar containing many potions of growth. The 
+second option for the PCs might be to painstak 
+ingly fit the bones together for each small human 
+and apply a potion of growth to the humans. Then 
+Fiona could switch the bones and return the 
+pixie skeletons before the pixies discovered they 
+were missing. 
+
+Either option should prove successful for the 
+PCs. True to her word, Fiona lets the PCs leave 
+untouched. The humans, back to their usual 
+form, will not be strong enough yet to accom 
+pany the PCs, even though they are desperate to 
+leave. 
+
+The PCs could earn a few potions from Fiona 
+if they also agree to return the pixie skeletons to 
+the graveyard. They just have to make sure they 
+don't get caught with the bones by the pixies, or 
+they will be brought before the pixie council and 
+severely punished. 
+
+
+25 
+
+
+
+Chapter Four: Pixie Trouble 
+
+
+It is here that the PCs will be challenged the 
+most, and it is here where they will earn the XP 
+awards that will make their adventure a success 
+or failure. 
+
+
+401. Barens's Cabin 
+
+Barens (FO): AC 8; MV 12; HD 1; hp 4; Str 15; 
+
+Dex 13; Con 12; Int 8; Wis 7; Cha 17; THACO 
+
+20; #AT 1; Dmg 1-8 (double-bladed axe); SA 
+
+Nil; AL NG; ML 10; XP 15 
+
+From the outside, this cabin appears to be 
+well made. The logs have been carefully 
+matched and the gaps between them are packed 
+with mud. Flowering forest plants grow all 
+around the cabin except where a cobblestone 
+path leads to the door. The front of the cabin has 
+a slightly open door and two windows on each 
+side of the door. 
+
+If Barens has led the PCs here, he has them 
+follow him inside the cabin. He will leave the 
+door open and takes a seat facing the open door. 
+
+If the PCs have not already encountered 
+Barens, they will find him here at the cabin. See 
+encounters 215 and 216 for a description of 
+Barens. The Barens they encounter here will be 
+genuine, not a pixie trick. As soon as the PCs are 
+within 20 feet of the cabin, Barens appears at the 
+door. 
+
+Barens will greet them warily and does not let 
+the PCs enter the cabin until they have gained 
+his confidence and convinced him that they are 
+looking for the best solution for all involved. If 
+the PCs try to forcibly capture Barens, he will 
+fight to the best of his ability against such odds. 
+But it is not in the party's best interest to pro 
+duce a dead Barens, so they should avoid harm 
+ing him. 
+
+If Gwellen is with the party and she indicates 
+that the PCs are trustworthy, Barens will openly 
+discuss his plight with them. But the PCs must 
+keep close watch on Gwellen and Barens. If the 
+party is threatening in any way or attempts to 
+separate the two, Gwellen will become invisible 
+
+
+and try to cause confusion in the party. Any mem 
+ber of the party who fails a saving throw vs. 
+magic will be permanently confused (a remove 
+curse will remove the confusion). If some of the 
+party avoids the cause confusion spell, Gwellen 
+will summon a giant hornet to the area (use 
+encounter 213). If the PCs attack the hornet, they 
+will be kept busy for several rounds. Barens and 
+Gwellen will then flee into the forest and cannot 
+be found. Neither will return to the cabin. 
+
+If the PCs have gained Barens's trust, Barens 
+will explain his side of the story. He will motion 
+to everyone to follow him inside the cabin. 
+
+The inside of the cabin is as carefully detailed 
+as the outside. Barens has built a beautiful table 
+with two long benches which he offers to the 
+PCs to sit on. In addition to the chair that Barens 
+sits on is a carved wooden bed on the other side 
+of the cabin. It has a straw-filled mattress cov 
+ered by a big brown blanket. Barens built a small 
+fireplace along the back wall. From a crude 
+metal hook hangs a small cooking pot. There is a 
+small fire in the fireplace that produces little 
+smoke. The windows are uncovered, but have 
+shutters that Barens can close from the inside. 
+
+He started coming to Whispering Widow 
+Woods when he got frustrated with his father. 
+He would simply take long walks in the woods 
+to think and relax. On one of these walks he met 
+Gwellen, and they had a wonderful time talking 
+about their dictatorial fathers and generally 
+sharing each other's company. Neither realized 
+just how well they had hit it off until later. 
+
+Both unconsciously started returning to their 
+original meeting place. It was inevitable that 
+they would find each other again. When they 
+met for the second time, both knew it was no 
+accident. They found even more joy in each 
+other this time than the first. To show how he 
+cared for Gwellen, Barens gave her a small gold 
+heart on a fine chain for her to wear around her 
+neck. 
+
+After that, they began to schedule meetings, 
+each of them eagerly anticipating the next ren- 
+
+
+26 
+
+
+
+
+
+
+
+
+
+
+dezvous to take them away from the frustra 
+tions of home life. As the meetings became more 
+frequent, both fathers began to take notice. 
+
+Barens's father, Jareb, found more tasks to 
+keep the lad busy, too busy for what Jareb took 
+for juvenile daydreaming. Though he respected 
+his father, Barens was not about to stop seeing 
+Gwellen, and he continued to find ways to go to 
+the forest, becoming ever more defiant of his 
+father. Gwellen's father, Ebron, had an extensive 
+spy network and was much better informed 
+about what was going on. He wasn't about to let 
+his daughter become enthralled with a "stupid 
+human." He flatly forbade his daughter from 
+meeting with Barens. 
+
+Barens was heartbroken when Gwellen first 
+missed a scheduled rendezvous. He was angry 
+with her at first, but then he realized what must 
+have happened. Despite the considerable dan 
+gers of Whispering Widow Woods, Barens wan 
+dered the forest for days, calling out Gwellen's 
+name. 
+
+If Gwellen is with the party, she can explain 
+what happened to her father. A few of Ebron's 
+subjects had openly sympathized with the 
+romance of Gwellen's feelings. Many others felt 
+the same way but were afraid to speak out for 
+fear of angering Ebron. Included in this group 
+were Gwellen's mother, Lizbet, and Gwellen's 
+brother, Ebroch. Word of Barens's persistence 
+and willingness to brave the dangers of the for 
+est became known among Lizbet, Ebroch, and 
+other sympathizers. They conspired to help 
+Gwellen meet with Barens. 
+
+This situation continued for some weeks, with 
+Ebron thinking he had put a stop to the prob 
+lem. But Gwellen and Barens did manage a few 
+clandestine moments together now and then. It 
+was during this time that Barens, spending sev 
+eral days at a time away from home in the hopes 
+of meeting Gwellen, built this cabin in the 
+woods. Using his wood-cutting and building 
+skills helped diffuse the frustration he was feel 
+ing at not being able to meet with Gwellen. 
+
+
+Meanwhile, Ebron discovered that Gwellen 
+had been sneaking out and meeting with Barens. 
+He posted guards to watch her every minute of 
+every day to prevent another meeting from tak 
+ing place. He also began a harassment campaign 
+against Barens. It was also during this time that 
+Barens met up with the sylvan elves. 
+
+The elves took pity on Barens but dared not 
+oppose the pixies directly. As a gift, the elf 
+leader Tretorn had his powerful sword Virtue 
+bestow upon Barens the ability to resist all pixie 
+magic and mischief. He was also given a charm 
+in the shape of Virtue to help strengthen this 
+resistance. The only condition was that Barens 
+keep the charm a secret and never involve the 
+elves directly in the dispute. Barens readily 
+agreed. Since then, Barens has deceived the pix 
+ies by pretending to fall victim to their magic 
+even though he is immune. 
+
+Finally, in the last few days, Lizbet and her 
+allies have managed to slip Gwellen past 
+Ebron's guards a few times in an effort to talk to 
+Barens. Ebron and his loyalists have been so 
+busy casting illusions and tracking intruders 
+that they let Gwellen slip away. 
+
+It doesn't matter if the PCs find their way to 
+Barens's cabin or if he leads them there. Once 
+the PCs have gained his confidence the results 
+will be the same. Barens will probably refuse to 
+leave the forest without Gwellen. Barens is 
+happy to have the assistance of the PCs as long 
+as they are working for what he wants and that 
+is for he and Gwellen to be together. Barens will 
+talk freely with the PCs, keeping secret only the 
+charm he received from the elves. 
+
+402. Pixies 
+
+Pixies (49): AC 5; MV 6/12; HD 'A; hp 2; THACO 
+20 (16 with bows); #AT 1; Dmg by weapon; 
+SA spells; AL N; ML 11; XP 135 
+This has always been a thriving colony of 
+pixies. The rumors and true horrors of Whis 
+pering Widow Woods kept the curious away. 
+
+
+27 
+
+
+
+but the pixies were close enough to human civi 
+lization to be able to practice their mischief. 
+This colony numbers 40 pixies, headed by a 
+king, Ebron, and a high council of eight other 
+pixies. The high council is mostly advisory, but 
+since Ebron rules by consent, he would under 
+mine his own authority if he chose a course 
+opposed by the council. 
+
+Most of the pixies support Ebron's campaign 
+to keep Gwellen and Barens apart, either 
+because they agree that this is a mismatch or 
+because they simply defer to Ebron's authority. 
+There is a growing group of pixies who oppose 
+this campaign, either actively or secretly. The 
+two most important figures in this group are 
+Lizbet, Ebron's wife, and Ebroch, Ebron's son 
+and Gwellen's brother. Lizbet and Ebroch have 
+not dared to oppose Ebron openly, but they 
+have taken risks to help Gwellen escape her 
+house arrest and try to meet Barens. 
+
+Ebron's efforts to harass the "large folk" have 
+taken more and more pixies away from the 
+colony. This in turn has made it easier for 
+Gwellen to slip away and try to find Barens. 
+
+If and when the PCs arrive at the pixie colony, 
+they will be taken before Ebron and the high 
+council. To have reached here, the PCs have 
+earned some respect in the eyes of the pixies. If 
+the PCs don't know the story of Gwellen and 
+Barens or keep what they know to themselves, 
+the pixies will merely point out that the party is 
+in the wrong place, has no business here, and 
+should leave. As long as the PCs don't become 
+belligerent, the pixies will not attack them, but 
+the pixies will be unyielding and completely 
+unwilling to negotiate. 
+
+If the PCs know anything about the relation 
+ship between Gwellen and Barens, the pixie 
+leaders will be more inclined to talk, though the 
+PCs will still find them to be tough negotiators. 
+For this final parley between the pixies and the 
+PCs, go to the Resolution section at the end of 
+this chapter. 
+
+If the PCs know anything about Fiona 
+
+
+(encounter 316) and can tell the pixies about the 
+pixie skeletons, the pixie leaders will also be 
+much more inclined to talk. 
+
+403. Gwellen 
+
+Pixie: AC 5; MV 6/12; HD 'A; hp 2; THACO 20; 
+
+#AT 1; Dmg 1-4; SA spells; AL N; ML 11; XP 
+
+- 2,000 
+
+See encounter 207 for a description of 
+Gwellen. 
+
+If the PCs were to kill Gwellen, they probably 
+deserve worse than the -2,000 XP penalty indi 
+cated. This is probably the worst possible out 
+come of the adventure. 
+
+As the PCs are wandering through the woods 
+looking for Barens, they just might meet 
+Gwellen, who is also wandering about looking 
+for Barens. Meeting Gwellen could be a big 
+break for the PCs, so place a few more 403 hexes 
+on the map as other possible meeting sites, or 
+even one directly in the PCs' path, if the party 
+remains clueless about the point of this adven 
+ture. 
+
+The nature of the PCs' encounter with 
+Gwellen depends largely on how much the PCs 
+have learned to this point. If the PCs don't know 
+about the relationship between Gwellen and 
+Barens, they will probably be quite suspicious at 
+meeting a "friendly" pixie. If the PCs have 
+unraveled some or all of the story, they will rec 
+ognize how important Gwellen is and will treat 
+her accordingly. 
+
+Gwellen knows the location of Barens's cabin, 
+but she dares not go there alone because she 
+thinks her father has posted guards nearby who 
+would intercept her. 
+
+Gwellen is desperate and will seek help from 
+anybody. She will approach the PCs openly and 
+try to enlist their support. She will tell them the 
+whole story. The only part she doesn't know is 
+about the pixie-immunity charm Barens 
+received from the elves. 
+
+What Gwellen wants most is to be able to be 
+
+
+28 
+
+
+
+
+
+29 
+
+
+
+
+
+Pixie Trouble 
+
+
+with Barens whenever she desires. Her grandest 
+wish, which she has barely allowed herself to 
+dream, is to become human-size and marry 
+Barens. She knows that even if he were shrunk 
+down to her size, he would never be accepted 
+into the pixie colony. She also knows that her 
+father will probably never agree to any of these 
+things. 
+
+If the PCs talk with Gwellen and they then go 
+their separate ways, continue with the adven 
+ture as appropriate. If the PCs agree to help 
+Gwellen and she begins to travel with them, 
+decide if the time is right to refer to the Resolu 
+tion section. 
+
+Resolution 
+
+There are many ways the PCs can resolve this 
+adventure. Many of them are at least partially 
+unsatisfactory. 
+
+Abduct Barens 
+
+The easiest way to resolve the adventure is for 
+the PCs to seize Barens, tie him up, and return 
+him to his father. This is, after all, what the PCs 
+are paid to do. They could adopt this plan 
+whether they know anything of the romance or 
+not. If the PCs know too much about the situa 
+tion, however, some of the characters' personali 
+ties or alignments would make them balk at this 
+solution to the problem. 
+
+Award XP based on what is likely to happen 
+next. If Barens simply runs back to the woods, 
+the PCs get nothing and Jareb demands that 
+they finish the job or he will besmirch their 
+names throughout the land. If Barens needs to 
+be locked up or if the PCs figure out some mag 
+ical way to keep him out of the forest, they 
+deserve some XP but also may be penalized for 
+acting out of character or violating a charac 
+ter's alignment. This solution does stop the 
+pixies' mischief, however, and deserves some 
+award. 
+
+
+Leave Barens Behind 
+
+This may not seem like a possible resolution at 
+all. But it can be. Once the PCs meet Barens and 
+try to help him, they may see the situation as 
+hopeless. Barens, armed with the pixie-immunity 
+charm from the elves, would rather have the situ 
+ation continue as is than some of the other possi 
+ble resolutions. From his perspective, things are 
+better now than they were before he got the 
+charm, and he may not be overly trustful of the 
+PCs besides. If Barens can convince the PCs that 
+he really wants to stay and if the PCs see no other 
+solution, they may leave him behind. 
+
+This is unacceptable, of course. Jareb will 
+refuse payment and will do his best to dirty the 
+PCs' reputations. Not only that but the pixies' 
+harassment campaign continues. This solution 
+leaves a lot of dissatisfied customers and 
+deserves no award. 
+
+Abduct Gwellen 
+
+This solution is the same as persuading 
+Gwellen to leave the forest so she can be with 
+Barens. It probably wouldn't take much persua 
+sion to point out that Ebron will never change 
+his mind and Gwellen and Barens will never be 
+able to live together in peace unless they get 
+away from him. 
+
+If Gwellen leaves Whispering Widow Woods 
+but doesn't leave the area, Ebron will start a war 
+against the "large folk." He may be able to enlist 
+a number of other forest dwellers on his side, 
+considering the circumstances. This war would 
+be so destructive that it should cancel the PCs' 
+XP award. 
+
+If Gwellen and Barens run off together, leav 
+ing the area, at least those two will be happy. 
+Ebron will forever hate and distrust the "large 
+folk," and Jareb will have lost his son perma 
+nently. The PCs deserve some award, but they 
+will be discredited in this region and must move 
+on to find more work. 
+
+
+30 
+
+
+Pixie Trouble 
+
+
+Face Ebron Alone 
+
+After arriving at the pixies' court, the PCs can 
+attempt to talk sense into Ebron. Ebron's posi 
+tion is firm, however, so the PCs will certainly 
+find a tough time of it. Though the PCs have 
+earned some grudging respect from the pixies 
+for making it this far, Ebron may demand the 
+party fulfill a quest to show their worthiness to 
+even speak to him and the pixie council. Two 
+possible quests would be to kill the groaning 
+spirit (Whispering Widow, encounter 303) or the 
+green dragon (encounter 305). Ebron would 
+give the PCs explicit directions on how to find 
+their prey and perhaps even strategy tips, as the 
+pixies would be happy to rid the forest of either 
+menace. On the other hand, Ebron might come 
+up with a less strenuous quest. News of the PCs' 
+achievements will have arrived at the pixie 
+court before they do, and if the DM decides the 
+PCs have been bold, fought well and virtuously, 
+and improved the environment for the pixies, 
+Ebron can give the PCs a task that would be 
+beneficial to the pixies without being such an 
+arduous quest. These could be easy kills, such as 
+a giant spider (202), giant ticks (203), stirges 
+(310), worgs (311), or yellow musk creeper (315). 
+A bigger challenge would be a choke creeper 
+(306), ettercap (307), obliviax (308), giant sun 
+dew (309), hangman tree (313), or wolfwere 
+(314). 
+
+If the PCs earn the right to make their plea in 
+the case, Ebron will still be difficult to convince. 
+Any solution that Ebron sees as losing his 
+daughter is unacceptable. This includes acts that 
+he would consider turning her back on her pixie 
+heritage. 
+
+Because of the PCs' difficulty in negotiating 
+with Ebron without having Gwellen by their 
+side, the DM can give them a better chance by 
+having Ebron send them on a second mission, 
+that of finding Gwellen (as she has once again 
+slipped away). Because Ebron is more interested 
+in finding his daughter than in testing the PCs 
+
+
+this time around, he pledges the pixies' help in 
+finding her. This could prove invaluable to the 
+PCs because, as soon as they leave the pixie 
+council, Lizbet, Ebroch, or another of Gwellen's 
+allies can approach the PCs and guide them 
+directly to Gwellen. This connection allows 
+Gwellen and her allies to plan strategy with the 
+PCs before returning to Ebron's court. 
+
+Anything the PCs can arrange that leaves 
+Gwellen and Barens together deserves some XP 
+award, with the magnitude of the award deter 
+mined by the other effects of that particular 
+solution. If the PCs find a way to make every 
+body (Gwellen, Barens, Ebron, and Jareb) happy, 
+they deserve a major reward. This should come 
+in the form of a big XP bonus as well as gifts 
+from the pixies and from Jareb. 
+
+Face Ebron With Barens 
+
+If Barens accompanies the PCs to the pixies' 
+court, it will destroy any credibility the PCs 
+might have as neutral arbiters. The sight of 
+Barens angers Ebron and makes him even more 
+difficult to deal with. 
+
+Ebron might try some magic against Barens. 
+When this doesn't work because of the charm 
+Barens received from the elves, Ebron would 
+likely fly into a rage. 
+
+The only way the PCs might salvage this situ 
+ation is to pretend that Barens is their prisoner 
+and that they are trying to help the pixies in 
+order to end the scare campaign. This would 
+take some pretty fast talking on the part of the 
+PCs, as the pixies are not stupid. 
+
+Based on the actions of the PCs, the DM 
+should decide what action Ebron will take to 
+give the PCs a chance to salvage their position. 
+Depending on their attitude, manner, and state 
+ments, Ebron will assign a quest as described 
+when the PCs face Ebron alone. The difference is 
+that Ebron may first imprison Barens or may 
+instead assign the quest to Barens rather than 
+the PCs. In either case, it would be up to the PCs 
+
+
+31 
+
+
+
+Pixie Trouble 
+
+
+to gain Ebron's confidence, and his choice of 
+quest should be one of the more difficult ones 
+based on his negative reaction to Barens's pres 
+ence with the PCs. The DM should decide what 
+quest would be most appropriate based on the 
+players' actions and the circumstances. 
+
+Face Ebron With Gwellen 
+
+If the PCs approach the pixie king and council 
+in the company of Gwellen, it gives them instant 
+credibility, regardless of whether Barens is also 
+with them or not. The fact that Gwellen would 
+trust these "large folk" and would appear with 
+them in defiance of her parents is a sobering one 
+for Ebron. Though angry, he does not want to 
+drive his daughter away forever. And besides, 
+he thought she was safely tucked away under 
+house arrest. Clearly he didn't have the control 
+of the situation that he thought he had. 
+
+The sight of Gwellen with the PCs has another 
+important effect. It emboldens Lizbet, Ebroch, 
+and Gwellen's other sympathizers among the 
+pixies. They are still not ready to lead a palace 
+revolution, but they are much more ready to dis 
+agree with Ebron openly, to side with Gwellen 
+in the discussion, and to gently inform Ebron 
+that he can be pretty unreasonable at times. 
+
+Now here's some real hope for the PCs. They 
+can actually talk and negotiate on an even foot 
+ing with Ebron. All this hasn't changed his 
+views, however, and he still will not accept any 
+solution that means losing his daughter. The 
+PCs still have to really use their heads to come 
+up with a solution acceptable to everybody, but 
+at least they've got adversaries who are willing 
+to listen. 
+
+Unique Solutions 
+
+With such an open-ended adventure and no 
+"right" answer at the end, a particularly creative 
+party might come up with something totally 
+unexpected. 
+
+
+Perhaps the PCs trick Gwellen into drinking a 
+love potion and have a fine-looking pixie lad 
+nearby for her to cast her gaze upon when she 
+wakes up. Or do the opposite with Barens and a 
+human lass. Or both! 
+
+Maybe the PCs have found a way for Gwellen 
+and Barens to be together even though they are 
+still different sizes. One PC may get the bright 
+idea to pour a potion of diminution on Barens 
+while he's asleep. 
+
+Such creativity should be recognized and 
+rewarded, but don't forget to consider the other 
+effects of the solution. And be sure the players 
+are acting in character. Use the following rough 
+guidelines to determine the adventure's XP 
+award in addition to awards that have accumu 
+lated from one encounter to the next. 
+
+Special Awards 
+
+Any solution that leaves Gwellen and Barens 
+together deserves some award. 
+
+Any solution that returns Barens to Jareb 
+deserves some award, as that was the PCs' mis 
+sion. 
+
+Any solution that allows the pixies' harass 
+ment campaign to continue should receive only 
+half XP awards. 
+
+Any solution that doesn't return Barens to 
+Jareb should receive only half XP awards. 
+
+Any solution that starts a war between the 
+pixies and the "large folk" deserves no award or 
+a negative award based on the other circum 
+stances. 
+
+Any solution that pleases everyone deserves 
+at least 10,000 XP, and even more if the players 
+are particularly creative or role-played particu 
+larly well. 
+
+Any solution that allows Gwellen and Barens 
+to marry and live together happily as man and 
+wife deserves a bonus award of at least 10,000 
+XP. Remember, however, that Barens can never 
+be accepted into pixie society. 
+
+
+32 
+
+
+Whispering Widow Woods (Players' map) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/Advanced!_ 
+
+Duiw onsyafflns 
+
+
+Official Game Adventure 
+
+
+by Jim Musser 
+
+
+Whispering Widow Woods has always been 
+a frightening place. For generations the ru 
+mors, the strange noises, and the gloomy, 
+'Meu tangled undergrowth have scared off the 
+
+faint of heart. Recently, however. Whispering 
+a ^ Widow Woods has grown much more sinister. 
+
+I ^ \ Familiar voices speaking from thin air lure 
+
+if ^miflhl people to their doom; travelers emerge with 
+
+W tk no memory; the very trees are said to come to 
+
+* life and attack the unwary! Is this any place to 
+
+^ go, searching for a lost boy? 
+
+lip W V _ 
+
+Tales of Enchantment is an ADVANCED 
+. DUNGEONS & DRAGONS(r) adventure that em- 
+
+1 Wm.ri phasizes the mystery of this enigmatic 
+
+woods. But to solve the forest's puzzle, the heroes must first survive its 
+danger. 7 hies of Enchantment will test the heroes' wits as well as their 
+
+
+TSR, Inc. 
+POB 756 
+Lake Geneva 
+WI 53147 
+U.S.A. 
+
+
+TSR Ltd. 
+
+120 Church End 
+Cherry Hinton 
+Cambridge CB1 3LB 
+United Kingdom 
+
+
+ADVANCED DUNGEONS & DRAGONS is a registered trademark owned by TSR, Inc. 
+The TSR logo is a trademark owned by TSR, Inc. (r)1993 TSR, Inc. 
+
+All rights reserved. Printed in the U.S.A. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

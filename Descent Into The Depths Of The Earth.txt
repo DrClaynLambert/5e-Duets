@@ -1,0 +1,2228 @@
+Skip to main content
+ 
+Texts
+ 
+Video
+ 
+Audio
+ 
+Software
+ 
+Images
+Sign up for free
+Log in
+ Search metadata
+ Search text contents
+ Search TV news captions
+ Search radio transcripts
+ Search archived web sites
+Advanced Search
+About Blog Events Projects Help Donate  Contact Jobs Volunteer
+Full text of "Tsr 09019 1 E Adventure D 1 Descent Into The Depths Of The Earth ( 9 11)"
+See other formats
+Dungeon Module D1 
+Descent Into the Depths of the Earth 
+
+
+by Gary Gygax 
+
+
+This module contains background informalion, a large-scale referee's map with a matching partial map 
+for players, referee's notes, special 
+explorat ion and encounter pieces, a large map detailing a cavern area, encounter and map matrix keys, 
+and an additional section pertaining to a 
+unique new creature for use with this module and the game as a whole. A complete setting for play of 
+ADVANCED DUNGEONS & 
+DRAGONS is contained herein. This module can be played alone, as the first part of a series of three 
+modules (with SHRINE OF THE 
+K L'O-'TOA, 1)2, and I 'A L'LT OE THE DRO II , I)>), or as the fourth part of a continuing series of modules 
+which form a special 
+progressive campaign scenario (DUNGEON MODULES Gl, G2, (13,1)1,1)2,1)3, andQl, QUEEN OE THE 
+DEMON WEB 
+
+TITS, soon to be released). 
+
+If you have found this module and its companions exciting, stay tuned for more action from The Game 
+Wizards! 
+
+
+
+(c)1978, TSR Games 
+
+
+Printed in the U.K. 
+under licence from BY 
+TSR HOBBIES, INC. 
+
+
+
+femes B^oRksbop 
+
+1 Dalling Road 
+London W6 
+
+
+TSRD1 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LARGE SCALE MAP: 1 HEX = 1 MILE 
+
+
+
+Encounter Area Detailed in a Module of this Series' 
+
+Major Encounter Area as Described Above' 
+
+Encounter Area to be Designed by DM or in a Forthcoming Module' 
+Major Encounter Area as Described Above' 
+
+Waters of the Sunless Sea 
+Islands of the Sunless Sea 
+
+
+'not shown to scale 
+
+
+
+Primary Passage 
+Secondary Passage 
+Tertiary Passage 
+Secret (Tertiary) Passage 
+Underground River (80' to 240' wide) 
+
+
+Area Shaded is Shown on Players' Map 
+
+
+
+
+
+
+Dungeon Module D1 
+Descent Into the Depths of the Earth 
+
+by Gary Gygax 
+
+This module contains background information , a large-scale referee's map with a matching partial map 
+for players , referee's notes , special 
+exploration and encounter pieces , a large map detailing a cavern area , encounter and map matrix keys 
+, and an additional section pertaining to a 
+unique new creature for use with this module and the game as a whole. A complete setting for play of 
+ADVANCED DUNGEONS & 
+DRAGONS is contained herein. This module can be played alone , as the first part of a series of three 
+modules (with SHRINE OF THE 
+KUO-TOA , D2, and VAULT OF THE DROW, D3f or as the fourth part of a continuing series of modules 
+which form a special 
+progressive campaign scenario (DUNGEON MODULES GL G2 , G3, Dl, D2 , D3, and Qf QUEEN OF THE 
+DEMONWEB 
+
+BITS , soon to be released). 
+
+If you have found this module and its companions exciting , stay tuned for more action from The Game 
+Wizards! 
+
+
+(fiaraes l^oRksbop 
+
+1 Dalling Road 
+London W6 
+
+
+£ 
+
+
+(c)1978, TSR Games 
+
+
+Printed in the U.K. 
+under licence from 
+TSR HOBBIES, INC. 
+
+
+
+
+
+Advanced Dungeons A Dragons 
+
+Dungeon Module #D1 
+
+Descent Into the Depths of the Earth 
+
+Background: The final confrontation with the giant, King Snurre, 
+and the entry of mighty adventurers into the caverns under his 
+stronghold (DUNGEON MODULE G3, HALL OF THE FIRE GIANT 
+KING) discovered that Dark Elves, the Draw, had instigated the 
+giant alliance and its warfare upon mankind and its allied races. 
+Numbers of these evil elves fell before the onslaught of the party of 
+adventurers, but many of the important Drow fled away to the 
+northwest-the escape route a seemingly natural passage a full 
+30' wide extending endlessy under the earth. Investigation of this 
+area (cloaked by a steaming river of lava) revealed that the 
+passage ran due northwest, slowly descending ever deeper into 
+the bowels of the earth. A pair of hoists on either side of the river of 
+lava enable the members of the party to safely move supplies, 
+equipment, and even mules across the dangerous area without 
+any difficulties. Pursuit of these creatures is necessary, for unless 
+their location and strength are known, the Drow can continue to 
+strike where and whenever they like without fear of counterattack 
+or reprisal. Fortunately, the party discovered a map of the maze of 
+tunnels under the earth-hundreds of miles of passages, areas 
+shaded and marked with cryptic symbols, and what is most 
+probably the course of an underground river! But such an 
+expedition will certainly require the utmost thought and care in 
+planning and preparation. How many persons should comprise 
+the expedition? how will they be supplied and equipped? and 
+what of drinking water? Perhaps certain of the elvenfolk will help, 
+for the Drow besmirch and stain their race, and such aid- 
+whether in magical items, personnel, or both-might well prove 
+the difference between success and failure, life and death. For 
+who knows who or what will be encountered in this gloomy 
+underground world? How will the monstrous opponents sure to 
+be met there be dealt with and defeated? These questions and 
+more must be answered before the party sets forth on its DESCENT 
+INTO THE DEPTHS OF THE EARTH. 
+
+Unlike the expeditions against the giants, no compulsion is 
+placed upon adventurers to undertake this journey. While it is 
+voluntary, there is also possible co-operation from avenging elves 
+eager to wipe out the Drow. The going will be hard, interference of 
+unexpected sorts is likely, and the return journey could be a 
+nightmare if the party is incautious in its descent, seriously 
+weakened along the way, or hotly pursued on the way back. If the 
+goal is scores of leagues distant, the trip must be thought of as 
+going and returning both. The wise will not act rashly . . . 
+
+CAUTION: Those familiar with the previous modules in this scenario will be 
+aware that they are designed for play only by players of above-average ability 
+who have characters of high level - 9th or 10th minimum, counting multi- 
+classed characters as roughly equal to a single classed character two levels 
+higher than the multi-classed character's higher level (three levels if the 
+character is triple classed). Judging from test play, a relatively small party can 
+succeed only if this module is played alone or if they can return periodically to 
+some base in order to recover and regain spells and equipment. This is as true of 
+very powerful characters as it is of lesser ones . The module is designed for 
+characters of about 1 Oth level, with a party size of 7 to 9. If the players you 
+plan to have adventure herein are of lesser level, or they lack numbers or magic 
+items, there must be some "elven aid" available. Be sure to read this whole 
+module and the other two (SHRINE OF THE KUO-TOA and VA ULT 
+OF THE DROW) before deciding on how much the "elves" will volunteer. 
+Too much is as'bad as none at all, and both extremes are bad for game 
+enjoyment. 
+
+Start: The passageway from the caverns beneath the Hall of King 
+Snurre Iron Belly runs to the northwest, rough and twisting, from 12' 
+to 16' width for some 300 '. Then it suddenly widens to 30' and 
+more in places, obviously hewn, and goes almost perfectly 
+northwest, slowly sinking in gentle slopes and by natural terraces. 
+(Use the large-scale hex map of the whole underground 
+complex in conjunction with the piece showing the three widths 
+of passages for the initial and subsequent travel and exploration. 
+
+
+Also place the party near the center of a passage of the 
+appropriate width, turning the section as desired, whenever a 
+random encounter occurs.) You will note that the sample 
+sections show there are faults, spurs, splits, rubble, small cave 
+areas, sink holes, crevasses, columns, stalactites, and stalag 
+mites. Most areas are damp and dripping. There are occasional 
+pools, rivulets, even streams. The rock is of ail colors, although 
+grays, browns, and yellowish tan are most common. Parts of the 
+route are worked, but much of the tunnel will be natural passages, 
+caves, galleries, etc. The route always descends. Fortunately, the 
+darkness is not total, for there are sometimes patches of phos 
+phorescent lichens to light the way with a faint glow-almost like 
+faerie fire. There are also swarms of fire beetles now and again, 
+and their glowing abdomens shed sufficient light to see clearly. 
+Cave bats will flutter overhead periodically, huge ugly things 
+which have forsaken the clean air of the upper world for the foul 
+atmosphere of the subterranean. (Should the party ever remain 
+still and listen, they will note many strange sounds-twitterings, 
+squeakings, scrabblings. Various and sundry tiny noises will be 
+heard, noises which are disturbing despite their muted sound.) 
+Now and again a current of dank, cold air can be felt, moving 
+downwards and bearing a musty scent throughout the corridors 
+of this dismal underworld. 
+
+
+
+Notes For The Dungeon Master Only 
+
+Travel along the tunnels will be at a slow rate due to the slippery 
+and sometimes slanting floors. Footing is treacherous in places, 
+and the tiers to clamber down are sometimes nearly 3' from top to 
+bottom. If mules are taken, they will not slow progress at all, as 
+they are sure-footed and can negotiate the passageways with 
+relative ease. The rubble and detritus, natural projections, 
+protrusions, ledges, and stone "icicles" are more pronounced 
+and prove hazardous only in the secondary and tertiary tunnels 
+which are lesser traveled than the main arteries of the lightless 
+world. ASSUME THE MAXIMUM RATE OF TRAVEL IS 1 MILE (1 hex) PER 
+DAY PER 1" OF BASIC MOVEMENT RATE OF THE SLOWEST MEMBER OF 
+THE EXPEDITION, only if unnecessary delays and careful map 
+making are avoided. Reduce movement by 1 mile for every hour 
+of delay, and assume that careful mapping will slowthepartyto6 
+miles per day maximum. 
+
+You may have crevasses and sinkholes as often as is illustrated 
+with the tunnel pieces, or you may include such hazards every 
+mile or so. There is certainly a chance for a slip and fall into a 
+crevasse if proper care is not exercised by the party. Crevasses 
+are 110'-300' deep, so consider any fall as fatal if it is not 
+
+
+2 
+
+
+
+
+
+
+
+prevented in some way. Adventurers roped together, using poles 
+to hold onto, etc. are not likely to slip. Otherwise, consider there is 
+a 1 in 20 chance of slipping when trying to move around or 
+otherwise pass over a crevasse. Any such slip will precipitate a 
+fatal fall. Sink holes are 10'-80' deep. While there is no real chance 
+of slipping into them, if the party is running in haste or traveling 
+without light, treat sink holes as pits, with a 1 in 3 (1-2 on d6) 
+chance of falling in. Damage thus sustained is 1 d6 per 10'. 
+
+Ceiling height in the primary tunnels ranges from 20' to 50', the 
+average being about 35'. In the secondary passages the roof 
+overhead varies from 15' to 40' above the floor, with 25' being 
+usual. In the narrow tertiary tunnels the ceiling is from 8' to 25' high, 
+with an average of 15' or so. Where enlargements occur, the roof 
+will be near maximum height. In large caves or caverns, the 
+ceiling height will be 10' to 20' above normal maximum. Note that 
+in the huge cavern where the module concludes, the ceiling 
+height is 100', 150' and as high as 200' in the center of the western 
+cavern section. Before players find this place, however, there are 
+two encounter areas they must contend with. 
+
+The first encounter area is hex D3. It cannot be avoided. This Drow 
+"checkpoint" will be detailed fully hereafter. The second 
+encounter area can be avoided by taking a circuitous route of 
+secondary and tertiary passages. Hex Ml 2 is a secret advanced 
+post for lllithid (mind flayer) expansion in the area-a place the 
+Drow are aware of, and if the expedition kills the mind flayers and 
+prove their deed to any Drow they happen to meet, it is 90% 
+probable that the Dark Elves will be friendly with the party despite 
+any past conflicts, and if the adventurers express an interest, give 
+them a black madallion-the pass which will enable them to go 
+through Drow areas without undue questioning or molestation! 
+
+To reiterate some of the information contained in DUNGEON 
+MODULE G3, the Drow are (chaotic) evil elves, driven from the 
+upper world by the good elves. They bear undying enmity for all 
+surface dwellers in general and elvenkind in particular. They area 
+handsome race, but most depraved. The females are better 
+looking and generally more powerful than males. All Drow wear 
+specially woven black cloaks and soft black boots which make 
+them 75% likely to move silently and be able to hide in shadows, 
+even when observed, when in a dungeon or dungeon-like setting. 
+Any wearer of these garments gains this advantage if they are of 
+the Drow size and build-if larger or smaller, the garments will 
+necessarily have to be altered by a Drow tailor. Drow weapons 
+an,d armor are usually crafted from metal which is an adamantite 
+alloy. Although these items do not radiate any magic, they are 
+magical in effect. 
+
+All noted encounter areas will be handled by the DM with great 
+care. Antagonists of the party will react and act in organized 
+fashion-the Drow and lllithids with great cunning and clever 
+ness, the inhabitants of the terminal cavern encounter not quite 
+so intelligently, but with vigor and purpose. (This, of course, 
+excludes both the Drow watchers and the stupid creatures in the 
+place and applies to the trolls, bugbears, troglodytes, etc.) 
+
+There are separate tables for random encounters in the tunnels, 
+
+
+each table according to the category of the tunnel the party is 
+marching through or encamped in, and for wandering monster 
+encounters in the module termination area, "The Warrens of the 
+Troglodytes". These tables are given hereafter. Generally, one 
+check for a random encounter will be made for each mile of 
+tunnel traveled through, with one check per hour being made in 
+the terminal area, and one check per night being made when 
+the expedition encamps for a "night's" rest. The probabilities of 
+such an encounter vary according to the locale and are shown 
+on each table. 
+
+You will observe that only piece II is used for encounters listed 
+here. The other two pieces are simply added for use as desired 
+when random encounters with wandering monsters occur. They 
+can also be used for the other two modules in this series. If you 
+desire larger encounter pieces, feel free to draw up your own in 
+any manner which you believe superior, but be sure that such 
+pieces generally conform to the circumstances of the module or 
+encounter. 
+
+Referees should note the inclusion of the new creature, the 
+Jermlaine, a potentially dangerous nuisance monster which can 
+be used to interesting effect elsewhere as well. Full information 
+regarding the Dark Elves is given in DUNGEON MODULE G3. 
+
+Despite the difficulty of the two encounter areas prior to the 
+terminal one, this module is not as difficult and demanding as 
+was HALL OF THE FIRE GIANT KING, for example. Just as STEADING 
+OF THE HILL GIANT CHIEF prepared the players for the successively 
+greater challenges of the next two modules, DESCENT' introduces 
+players to a new environment and the hazards ahead in the 
+succeeding parts of the whole. There is plenty of danger, though, 
+and any party bent on self-destruction can accomplish the task 
+with relative ease. 
+
+As with any Dungeon Mastering, you must always be fair and as 
+unbiased as possible. Do not penalize the party if they take 
+sensible steps to insure a successful adventure, such as deciding 
+to take a number of pack mules to carry supplies and equip 
+ment-even an extra spell book. Neither help by suggestion or 
+inference nor hinder in any manner not called for. Managing a 
+party with mules can be trying for a referee, but it is probable that 
+these beasts will be slain at the first encounter area anyway. As 
+there is no practical way of establishing any sort of route camp to 
+safely store goods of any sort, the players will be presented with a 
+great problem in any event, for BEYOND THE FIRST ENCOUNTER 
+AREA TELEPORTATION OVER ANY DISTANCE GREATER THAN ONE- 
+HALF MILE WILL BE IMPOSSIBLE! INFORM ANY CHARACTERS WITH 
+THIS ABILITY THAT THEY CAN "FEEL MAGNETIC FORCES" WHICH THEY 
+KNOW WILL CERTAINLY PREVENT NORMAL TELEPORTATION. Thus, 
+short of the use of a wish, the party is committed to go and return 
+afoot. They may have to return to the surface after concluding this 
+module, or they may be able to press on, for the treasures along 
+the way are aimed at supplying them with the force necessary to 
+continue, and certain creatures have been placed in order that 
+they may offer assistance or succor. 
+
+Here are the bones of the adventure. You must breathe life into 
+this framework after you flesh it out. 
+
+
+
+3 
+
+
+RANDOM MONSTER TABLES FOR PASSAGES 
+
+Encounters occur as shown; check each hex (1 mile): 
+
+Primary Passage. 1 in 10 chance of encountering a monster 
+
+1. Drow patrol, males 
+
+2. giant slug (50%)/purple worm (50%) 
+
+3. 1-4 trolls with 9-16 troglodytes 
+
+4. 2-5 ghasts with 9-16 ghouls 
+
+5. rust monster (50%)/2-5 fire beetles (50%) 
+
+6. Drow merchants, small train 
+
+7. Drow patrol, females 
+
+8. beholder (50%)/2-5 fire beetles (50%) 
+
+9. Drow merchants, medium train 
+
+10. gas spore (50%)/2-5 fire beetles (50%) 
+
+11. 3-12 shadows (50%)/2-5 fire beetles (50%) 
+
+[12, gas spore (50%]f/2-5 fire beetles (50%) 
+
+13. 3-18 gargoyles (50%)/2-5 fire beetles (50%) 
+
+14. Drow patrol, mixed 
+
+15. yellow mold (33-1/3%)/brown mold (33-1/3%)/ 
+green lime (33-1/3%) 
+
+16. 19-24 bugbears with 25-30 slaves 
+
+17. Drow merchants, large train 
+
+18. 2-5 wererats with 1-2 lllithids 
+
+19. black pudding (33-1/3%)/ochre jelly (33-1/3%)/ 
+gray ooze (33-1/3%) 
+
+20. Drow patrol, mixed 
+
+
+
+Drow patrol: There are three types of Drow patrols, male, female, 
+and mixed. The composition of each type is: 
+
+
+Secondary Passage. 1 in 12 chance of encountering a monster 
+
+1. 5-8 shriekers 
+
+2. 2-5 giant spiders (66-2/3%)/1-4 phase spiders (33-1/3%) 
+
+3. Drow patrol, mixed 
+
+4. Drow merchants, small train 
+
+5. lurker above (50%)/2-5 fire beetles (50%) 
+
+6. 4-16 shadows (50%)/2-5 fire beetles (50%) 
+
+7. giant slug (50%)/2-5 fire beetles (50%) 
+
+8. 2 subterranean lizards (huge, +4 h.p. per die) 
+
+9. bulette (50%)/2-5 fire beetles (50%) 
+
+10. 5-20 piercers (50%)/2-5 fire beetles (50%) 
+
+11. rust monster (50%)/2-5 fire beetles (50%) 
+
+12. Drow patrol, mixed 
+
+13. 2-5 ghasts with 9-16 ghouls 
+
+14. 1-3-18 bugbears with 19-24 slaves 
+
+15. purple worm (50%)/2-5 fire beetles (50%) 
+
+16. 2-5 ropers (50%)/2-5 fire beetles (50%) 
+
+17. Drow merchants, medium train 
+
+18. Drow patrol, males 
+
+19. 2-8 wererats with 1-4 lllithids 
+
+20. 1-4 shriekers with 1-4 violet fungi 
+
+
+Tertiary Passage. 1 In 12 chance of encountering a monster 
+
+1. lurker above (50%)/2-5 fire beetles (50%) 
+
+2. 2-5 xorn (50%)/2-5 fire beetles (50%) 
+
+3. Drow patrol, mixed 
+
+4. 1-2 umber hulks (50%)/2-5 fire beetles (50%) 
+
+5. 15-30 jermlaine 
+
+6. rust monster (50%)/2-5 fire beetles (50%) 
+
+7. 5-20 piercers (50%)/2-5 fire beetles (50%) 
+
+8. green slime (50%)/2-5 fire beetles (50%) 
+
+9. 11-30 giant ants 
+
+10. 15-30 jermlaine 
+
+11. vampire (50%)/2-5 fire beetles (50%) 
+
+12. 2-5 lllithids 
+
+13. Drow merchants, small train 
+
+14. 5-20 piercers 
+
+15. slithering tracker (50%)/2-5 fire beetles (50%) 
+
+16. lich (50%)/13-30 jermlaine (50%) 
+
+17. 1-4 shambling mounds (50%)/2-8 shriekers (50%) 
+
+18. Drow patrol, males 
+
+19. 11-30 giant ants (50%)/2-5 fire beetles (50%) 
+
+20. trapper 
+
+
+Males: There will be 7-10 fighters of 2nd level (H.P.: 9 each; +1 
+chain mail, +1 buckler, +1 for 15 dexterity, for an overall AC of 
+1) with +1 dagger, +1 short sword, and hand crossbow (6" 
+maximum range) and 10 poisoned bolts (1-3 h.p. of 
+damage, save vs. poison at -4 or sleep for 3-12 turns). Each 
+can use the equivalent of a dancing lights, darkness, and 
+faerie fire spell (at 2nd level) once per day per spell. They will 
+be led by a 4th level fighter (H.P.: 18; +2 chain mail, +2 buckler, 
++2 for 16 dexterity, for an overall AC of -2) with +1 dagger, +1 
+short sword, atlatl and 3 poisoned javelins (9" range, 
++1/+2/+3 to hit at long, medium, and short range, 2-7 h.p. 
+damage plus poison as above). He is also able to use the 
+spells noted above. The patrol will be commanded by a 
+fighter/magic-user of 5th/5th level (H.P.: 23; +2 chain mail, +2 
+buckler, +3 for dexterity of 17, for an overall AC of -3) with +2 
+dagger and +2 short sword. He will have the following spells in 
+addition to those noted above: 
+
+First Level: comprehend languages, detect magic*, 
+magic missile (x2), sleep 
+
+Second Level: know alignment*, levitate', mirror image, 
+web 
+
+
+Third Level: fireball 
+
+
+'innate power of Drow over 4th level 
+
+Females: There will be 7-10 fighters of 3rd level (HP.: 15 each; 
++1 chain,+1 shield,+2for dexterity of 16,for an overallAC of 0). 
+They are armed as are males. Each can use the equivalent of 
+clairvoyance, dancing lights, darkness, detect lie, dispel 
+magic, faerie fire, and suggestion spells (at 3rd level) once 
+per day per spell. They will be led by a 5th level fighter (H.P.: 25; 
++2 chain mail, +2 buckler, +2 for dexterity of 16, for an overall 
+AC of -2) with +2 dagger, +2 short sword, atlatl and 3 
+poisoned javelins. She can use the spell powers noted above 
+plus detect magic, know alignment, and levitate. The patrol 
+commander will be a female cleric of 7th level (H.P.: 35; +3 
+chain mail, +3 buckler, +3 for dexterity of 17, for an overall AC 
+of -5) with +3 mace. She will have the following cleric spells in 
+addition to those powers noted for the 5th level commander: 
+
+First Level: cause light wounds, cure light wounds 
+(x2), fear 
+
+Second Level: hold person (x2), silence 15' radius 
+Third Level: cause blindness, prayer 
+
+
+Fourth Level: tongues 
+
+
+4 
+
+
+
+
+
+
+
+Mixed: Mixed patrols will always contain 2 2nd level male 
+fighters and a 4th level fighter with the same statistics as 
+shown above for a patrol of male Drow. With the Draw will be a 
+number of lesser (by Drow standards) creatures to bear the 
+brunt of any fighting. The type of creatures and number are as 
+follows: 
+
+PRIMARY PASSAGE: 
+
+
+Die 
+
+Creatures 
+
+1-3 
+
+11-16 bugbears (H.P.: 15 each) with ring mail 
+jacks and large shields (AC 3) and each armed 
+with heavy morning stars (+2 on damage) and 
+
+2 heavy spears. One will be a leader (HP.: 24) 
+attacking as a 4 hit dice monster and adding +1 
+to damage from all weapon hits he scores. 
+
+4-5 
+
+2 trolls and 11-16 troglodytes (HP.: 9 each) 
+armed with a stone battle axe and 3 javelins 
+each. One will be a leader with 3 hit dice (H.P.: 14) 
+and carry a sword and 3 javelins. 
+
+6 
+
+4 ghasts and 7-12 ghouls. 
+
+SECONDARY PASSAGE: 
+
+Die 
+
+Creatures 
+
+1 
+
+11-14 bugbears as above. 
+
+2-5 
+
+2 trolls and 11-16 troglodytes as above. 
+
+6 
+
+4 ghasts and 7-10 ghouls. 
+
+TERTIARY 
+
+PASSAGE: 
+
+Die 
+
+Creatures 
+
+1-3 
+
+2 trolls and 7-10 troglodytes as above. 
+
+4-6 
+
+4 ghasts and 5-8 ghouls. 
+
+
+Drow merchants: Each Drow merchant is male and a 
+cleric/fighter of 4th/4th level (HP.: 18; +3 chain mail, +3 
+buckler, +1 for dexterity of 15, for an overall AC of-3). Each is 
+armed with a +2 mace. They have the following spells: 
+
+
+Train 
+
+Size 
+
+Number of 
+Merchants 
+
+Guards and Level 
+
+Slave 
+
+Bearers 
+
+Pack 
+
+Lizards 
+
+sm. 
+
+1-2 
+
+2 2nd, 1 4th, plus 
+
+4 bugbears 
+
+5-8 
+
+1-2 
+
+med. 
+
+3-4 
+
+6 2nd, 2 4th, plus 
+
+8 bugbears 
+
+9-16 
+
+3-4 
+
+ig- 
+
+5-8 
+
+12 2nd, 3 4th, plus 
+16 bugbears 
+
+17-24 
+
+&9 
+
+
+Slave bearers: will be a mixture of captives. The exact mixture 
+can be determined as follows: 
+
+
+Die Roll 
+
+Race of Slave 
+
+1 
+
+bugbear 
+
+2 
+
+dwarf 
+
+3 
+
+elf 
+
+4-5 
+
+gnoll 
+
+6 
+
+goblin 
+
+7 
+
+half-elf 
+
+8-9 
+
+half-ore - - - 
+
+10-12 
+
+hobgoblin - 
+
+13-17 
+
+human - ~. 
+
+18-19 
+
+ore 
+
+20 
+
+troglodyte - 
+
+
+Bearers are always leg chained in files of up to 6. Bugbear 
+and troglodyte slaves are former servants who are enslaved 
+for disobedience, committing some error, etc. 
+
+Pack Lizards: These creatures are a breed of subterranean 
+lizard-slow, sturdy, strong, stupid, and not easily panicked. 
+The statistics on these creatures are: 
+
+ARMOR CLASS: 5 
+MOVE: 9" 
+
+HIT DICE: 6+6 
+
+NO. OF ATTACKS: 1 
+
+DAMAGE/ATTACK: 2-8 
+
+SIZE: L (15' long, broad backed) 
+
+These creatures seldom will attack anything unless harmed 
+first. Their loads are carried on special back harnesses. 
+
+
+First Level: cure light wounds (x2), detect magic 
+Second Level: hold person, speak with animals 
+
+In addition, they have the usual Dark Elven spell-like abilities 
+of dancing lights, darkness, and faerie fire once each per 
+day at 4th level of experience. 
+
+The size of the train determines the components. The guards 
+will conform to the same level of fighter found in a patrol of 
+male Drow, or mixed patrol with respect to bugbears. 
+
+
+
+Goods Carried: In addition to the normal (relatively 
+worthless) goods (cloth, leathers, wood, foodstuffs, wine, 
+etc.) typically found in a Drow merchants' train, there is a 
+chance that some valuable items will be carried. The chance 
+is 30% for a small, 45% for a medium, and 75% for a large train. 
+If valuable items are indicated, roll on the following table, 
+once for a small train, twice for a medium train, thrice for a 
+large train: 
+
+Dice Roll _ Treasure _ 
+
+01-45 110-300 silver ingots, 100 g.p. weight each 
+
+46-75 31-50 gold ingots, 100 g.p. weight each 
+
+76-80 5-10 platinum ingots, 100 g.p. weight each 
+
+81-83 2-5 mithril bars, 100 g.p. weight each* 
+
+84-85 1-4 adamantite bars, 100 g.p. weight each** 
+
+86-89 1-100 base 50 g.p. value gems 
+
+90-94 5-12 potions 
+
+95-98 1-4 scrolls 
+
+99 1 ring or rod/staff/wand 
+
+00 1 miscellaneous magic item 
+
+"value in the underworld only is 2,500 g.p./bar 
+* 'value in the underworld only is 4,000 g.p./bar 
+
+Drow Treasure: Unless stated otherwise, each Drow will have 
+1-4 p.p. per level of experience, 2-8 p.p. per level if multi- 
+classed. Each Drow merchant will have an equal number of 
+gold pieces as well, and 1-4100 g.p. base value gems. Each 
+Dark Elf above 4th level, as well as each merchant, will have 
+either a black metal medallion on a fine metal chain (75%) 
+
+
+5 
+
+
+or both a medallion and a special broach (25%). These pins 
+are always well hidden on the person of the merchant. Dice 
+for which particular broach type is possessed, all merchants 
+in a train having the same kind: 
+
+Die Roll Description of Broach ___ 
+
+1 blue enameled prism 
+
+2 white enameled morel mushroom 
+
+3 bronze coiled whip 
+
+4 silver crescent 
+
+5 tan enameled puffball mushroom 
+
+6 iron hook, black 
+
+7 russet enameled shelf fungi 
+
+8 brass chain links (3) 
+
+9 yellow enameled mushrooms (2) 
+
+10 pewter bars (4) 
+
+11 violet enameled urn 
+
+12 pink enameled horsetail mushroom 
+
+13 red enameled gem 
+
+14 lilac enameled star of 5 points 
+
+15 green enameled lozenge 
+
+16 white enameled bone 
+
+
+
+Special Note Regarding Draw Cloaks, Armor, and Weapons: All 
+
+of these items have special properties, although none of them 
+radiate any magic. The items are made under the conditions 
+particular to the strange homeland of the Draw, for this place has 
+unknown radiations which impart special properties to these 
+cloaks, armor and weapons. When such items are exposed to 
+direct sunlight a rotting process sets in. The process is absolutely 
+irreversible, and within 2 weeks cloaks will fall to shreds, while 
+armor and weapons become pitted and unusable. If items are 
+not exposed to sunlight, they will retain their magical properties 
+for 31-50 days before losing them, and if they are exposed to the 
+radiation of the Drow homeland 30 or so days, they will remain 
+potent. Items not spoiled by sunlight will eventually lose their 
+special properties if not exposed to the special radiation, but they 
+will remain serviceable as normal cloaks, armor, shields, swords, 
+maces, etc. 
+
+Drow sleep poison decays instantly in sunlight. Its power is lost 
+after about 60 days in any event, and the coating on the small 
+bolts and javelins must be periodically renewed with fresh 
+applications of the fungoid substance. The Dark Elves will often 
+have small barrels filled with several packets of this poison, each 
+sealed to insure the poisonous substance remains fresh for about 
+1 year. 
+
+Troll and troglodyte groups are Drow servants, usually 
+checking on something specific or going to report for service. 
+
+Ghast and Ghoul groups are Drow-connected. They report to 
+the female Drow nobles and serve the deily of the Drow. 
+
+Bugbear and slave groups are maintenance crews going 
+about their duties of clearing paths and passages blocked 
+by rockfalls or anything else. 
+
+Beholders are generally friendly with the lllithids and will aid 
+them. 
+
+Shadow groups are spies for the Drow, for they are the major 
+creations of the Drow deily. 
+
+Wererat and llllthid groups are exploring and observing, as 
+the latter wish to expand into this area despite Drow 
+resistance to this aim, although they do not wish any open 
+conflict at this time. 
+
+
+ENCOUNTER AREA D3 
+
+
+Use encounter piece II for this meeting, facing either end of the 
+piece in a southeast-northwest direction to conform to the 
+passageway. The area is south of the tunnel nexus. It is dimly 
+illuminated by phosphorescent lichens. 
+
+This is a Drow checkpoint with two separate patrol groups, males 
+to the left, females to the right. The males will have 2 pickets out on 
+duty to observe the passage in both directions. Despite rivalry, 
+each will co-operate fully with the other in an intelligent attack 
+and defense pattern. The two groups are detailed below. 
+
+
+Drow Male Contingent: There are 10 male fighters of 3rd level to 
+the southwest, 2 of whom are on guard duty and will report the 
+presence of any creatures moving along the passage. Other 
+than having 13 hit points each and AC 0 (because of 16 dexterity 
+each), they are the same as a male Drow patrol, i.e. +1 short 
+swords and +1 daggers and carrying hand crossbows and using 
+dancing lights, darkness, and faerie Are (at 3rd level) once per 
+day per spell, there are 2 4th level fighters as leaders (H.P.: 18; 
+AC-2) with +2 short sword, +2 dagger, and atlatl and 3 javeljnS. The 
+commander of the unit is a 6th level fighter (H.P.: 28; +3 chain mail, 
++3 buckler, +3 for dexterity of 17, for an overall AC of-3) armed with 
++2 dagger, +4 short sword, and hand crossbow with 10 poisoned 
+bolts. His liaison is a noble fighter/magic-user of 5th/7th level (H.P.: 
+33; +4 chain mail, +3 for dexterity of 17, for an overall AC of-2) with 
++2 dagger, +2 short sword, and a rope of entanglement, with a 
+hand crossbow and bolts hanging from his belt. His spells are: 
+
+First Level: detect magic*, magic missile <x2), sleep, 
+ventriloquism 
+
+Second Level: detect invisibility, know alignment*, levi 
+tate*, mirror image, ray of enfeeblement 
+
+
+Third Level: lightning bolt, slow 
+Fourth Level: ice storm 
+
+'innate power of Drow over 4th level and in 
+addition to dancing lights, darkness, and 
+faerie fire (at 7th level) 
+
+
+Drow Female Contingent: There are 8 female fighters of 2nd level 
+(H.P.: 10 each; +1 chain mail, +1 buckler, +2 for dexterity of 16, for 
+an overall AC of 0) armed with +1 dagger, +1 short sword, hand 
+crossbow and 10 poisoned bolts. They have 2 fighters of 3rd level 
+(H.P.: 15 each; AC 0) with +1 short sword, +1 dagger, atlatl and 3 
+javelins. Each fighter can use the following spell-like powers each 
+once per day: clainroyance, dancing lights, darkness, detect 
+lie, dispel qiagic, faerie fire, and suggestion. Two female clerics 
+are in command of this group, a 6th level (canon) subordinate to 
+a 9th level leader. 
+
+
+Canon: This 6th level cleric (H.P.: 30; +3 chain mail, +3 buckler, +1 
+for dexterity of 15, for an overall AC of -3) carries a +1 mace on her 
+belt for her major weapon is a short-handled staff sling. This j 
+weapon hurls missiles up to 9" distance (providing the ceiling 
+overhead is at least 30' high), minimum range 3". Probability of a 
+hit is normal for ranges out to 6", -2 thereafter. Misses with the 
+special glass globe missiles (explained hereafter) will be 
+calculated as hitting somewhere. Roll d8 and 3d6 (for determina 
+tion of the distance in feet the shot is off): 1 = long over, 2 - long 
+over right, 3 = wide right, 4 = short right, 5 = short, 6 = short left, 7 - 
+wide left, and 8 = long over left. She has 3 glass globes filled with a , 
+
+fluidwhich isaluminousirritantwhichvaporizestoformacloudof 
+
+10' diameter with a 12' height. Note: Hits upon perpendicular • 
+surfaces reduce the cloud to one-half normal diameter. 
+
+Creatures in this vapor cloud are covered with droplets which 
+make them shine and glow, thus causing a reduction of their j 
+armor from 1-4 places, as they are easier to hit. This effect lasts | 
+from 2-5 turns, or until the fluid is washed off. In addition, exposed ? 
+creatures must save versus poison at -4 on their dice rolls; those | 
+who fail are effectively blinded and out of action (scratching 
+
+
+6 
+
+
+
+
+furiously) for 7-10 melee rounds or until the eyes and body are 
+doused to cleanse them of the Irritant (1 round plus 1 round 
+recovery time in any event). She also has the following spells In 
+addition to those powers noted above for female Drow fighters: 
+
+First Level: cure light wounds (x3), curse, fear 
+
+Second Level: hold person, know alignment*, levitate*, 
+silence 15' radius, resist fire 
+
+Third Level: animate dead, cure disease, detect 
+magic* 
+
+•innate power of Drow over 4th level 
+
+
+black chain. Hidden at the bottom of one provision box is a bone 
+tube belonging to Vlondril. It is a scroll of 7 cleric spells: find traps, 
+neutralize poison (x2), tongues, cure critical wounds, heal, 
+stone tell. 
+
+If the commanders are slain and the bodies carefully searched, 
+the following small broaches will be discovered: on the male 
+magic-user, a small brass wand (inscribed in Drow runes, 
+ALEVAL); on the female curate a small blue-black mace inscribed 
+DESPANA; on the person of Vlondril (hidden in her hair) is a 
+golden spider pin with engraved runes which say in Drowic, 
+LOLTH, DEATH QUEEN MOTHER. 
+
+
+Evil High Priestess: This 9th level cleric (H.P.: 48; +4 chain mail, 
++3 buckler, +3 dexterity bonus, for an overall AC of -6) is armed 
+with a +4 mace and wears a special magical cloak under her 
+normal black hooded robe. This device is a lurker cloak. It 
+enables Vlondril, a special servant of the Fane, to assume the form 
+and locomotion of a lurker above once per day for up to 2 hours 
+time. Volation is at normal speed even though the cloak does 
+not cause its wearer to grow to the actual size of a lurker above; 
+size is about normal, i.e. 7' wing spread by 5W length in Vlondril's 
+case. In addition to those spell-like powers given above for the 
+female Drow fighters, Vlondril has the following spells available to 
+her: 
+
+
+First Level: 
+Second Level: 
+
+Third Level: 
+
+Fourth Level: 
+Fifth Level: 
+
+
+bless, cure light wounds (x2), protection 
+from good, fear (x2) 
+
+augury (x2), hold person (x2), know 
+alignment*, levitate*, silence 15* radius, 
+snake charm 
+
+continual darkness, cure disease, dispel 
+magic*, prayer, speak with dead 
+
+cure serious wounds, poison, tongues 
+cure critical wounds 
+
+
+•Innate power of Drow over 4th level 
+
+
+If for any reason the Drow are seriously threatened, she will 
+attempt to save herself by using her magical cloak to change 
+into a lurker above and fly off without notice or being noticed, for 
+she is charged with reporting to the Fane any significant event 
+which transpires after the fall of Snurre, i.e. the ruin of Eclavdra's 
+plans, for the latter is an opponent of the Fane. 
+
+Treasure: Each Drow has a small leather pouch on his or her 
+person. It will contain 1-4 platinum pieces per level of experience 
+(the higher in the case of dual class). The Drow above 4th level will 
+have 1 base 100 g.p. gem for each level above 4th contained in' 
+this purse. 
+
+
+The side caves contain only a few sparse items-sleeping silks, 
+several small boxes of provisions, and individual kits with eating 
+utensils, cup, etc. There are 2 black metal (adamantite alloy) 
+medallions bearing a likeness of a spider on one side and a 
+female Drow on the other. Each is suspended by a fine loop of 
+
+
+
+ENCOUNTER AREA Ml 2 
+
+
+Use encounter piece II, reversed, when this encounter occurs. This 
+area is the westernmost spy post of the lllithids, one which the 
+Drow are well aware of but do not care to deal with at this time 
+due to the recent reverses suffered. As will be usual throughout the 
+sunless world, phosphorescent lichens growing sparsely about 
+the passages and caves here make it possible for normal vision 
+to function at up to 10'. 
+
+There are 12 ratmen working with the mind flayers here. 4 wererats 
+are in the tunnel proper, 2 above the caves area, 2 below, about 
+60' from the center. These watchers are in rat form, and they will 
+scurry back to give warning if any creatures approach. These 
+creatures have +1 Drow swords (short)-baldrics and hangers 
+kept to either side of the passageway where their 8 fellows guard 2 
+lllithids-4 to one side, 4 to the other. Hit points are: wererats 17 
+each, mind flayers 43 and 38 respectively. 
+
+The stronger lllithid is near the cave pool with a bound Drow 
+merchant captive. The mind fiayer is questioning the Dark Elf 
+about the current alliances, power groups, and feuds between 
+the Drow clans and noble houses. If the lllithid gets any chance, 
+he will kill the Drow so no tales can be carried by him. 
+
+When the party is sighted, the ratmen will rush to warn their 
+masters and fellows, and the 12 wererats will then ambush the 
+party after 2 mind blasts are delivered-1 from each lllithid. The 
+weaker will survey the melee, using psionic domination upon any 
+character who approaches him, while the stronger returns to be 
+ready to do away with the "evidence". As soon as the battle goes 
+against their servants, the mind flayers will flee northwest, then 
+northeast to the secondary passage northwest, and then into the 
+secret tertiary adit to the northeast. 
+
+Treasure: The wererats nest in the caves opposite those which 
+contain the pool. In a small space-suitable for their rat size, but 
+which must be crawled into by even so small a creature as a 
+gnome-is a nest of animal skin, old cloth, bones, etc. Under this 
+is a dull olive cloak (which does not radiate magic but could be 
+valuable if trie party eventually attains module D3) which was 
+amongst the Drow merchant's possessions. Each ratman has a 
+gold ring set with a moonstone (value as jewelry, 400 g.p. each) 
+as indication of service to the lllithids. Each wererat also has 30 
+gold pieces. 
+
+On the other side, the mind flayers have encamped in the alcove 
+off the pool area. They have folding cots, a small table, 2 folding 
+stools, some utensils, and hampers for food. Each has a small 
+coffer of personal effects. Both coffers have poisoned needles in 
+their latches. One contains a healing potion, a 5,000 g.p. gem, 
+and 200 gold pieces. The other has a polymorph self potion, a 
+scarab of death, a small silver disc which is evidentally a broach 
+of some sort (Drow merchant clan, and useful in MODULE D3), 150 
+gold pieces, and 58 platinum pieces. 
+
+Hidden in a nook which is covered by a small boulder, is an iron 
+chest. In it are 300 ingots of copper (100 g.p. weight each) and 
+the same number of silver ingots.'These are used as bribes to 
+subvert Drow servants. The handle of the chest lid is actually an 
+iron scroll tube which contains a protection from undead scroll 
+inside, and hidden in an inner lining, a protection from demons 
+scroll. 
+
+
+7 
+
+
+
+
+KEY TO THE CAVERNS AND WARRENS 
+OF THE TROGLODYTES 
+
+
+Wandering Monsters: 
+
+Encounter occurs 1 in 12, check each turn: 
+
+
+Western Half 
+
+
+Eastern Half 
+
+
+1. Drow patrol, mixed 
+
+2. Drow merchants' 
+
+3. 2-8 gargoyles 
+
+4. 2-5 trolls 
+
+
+1. 7-18 troglodytes 
+
+2. 2-12 bugbears 
+
+3. 2-5 trolls 
+
+4. 7-18 troglodytes 
+
+
+' equal chances for small, medium, or large train 
+
+
+1. ENTRANCE TO THE GRAND CAVERN: The terraced ledges lead 
+down to the glistening floor of this huge cavern, the ceiling of 
+which drips with stalactites, the floor with stalagmites, and 
+here and there littered with broken stone-detritus and fallen 
+stalactites. Thick columns and great masses of rock stretch all 
+the way to the roof, with many protruding ledges and 
+indented shelves here and there. This room of the cavern is 
+200' to 300' wide, 200' long, and from 175' to 250' or more 
+high. The following letter designations should be noted: 
+
+B: There are 3 such positions. Each has 3 bugbear sentries 
+(H.P.: 15 each; ring mail jacks and large shields for AC 3) 
+armed with heavy morning stars (+2 on damage) and 2 
+heavy throwing spears. If an enemy/intruder is detected, 2 
+will attack while 1 goes to alert the others. 
+
+D: There are 4 such positions. Each has 1 Drow fighter of 2nd 
+level (H.P.: 8; +1 chain mail, +1 buckler, +1 for dexterity of 15, 
+for an overall AC of 1) armed with +1 short sword, +1 
+dagger, atlatl, and 3 javelins. If intruders are identified, the 
+sentry sighting them will cast dancing lights to show the 
+location and identity of the creatures. All are in positions 
+where they can see at least one other sentry, and the 
+others will be alerted. The sighting Drow fighter will report to 
+his superiors at location 6. (q.v.), while the other 3 move to 
+positions near the location where they can observe the 
+intruders. 
+
+2. SOUTH GALLERY: This passage is filled with mineral deposits 
+from dripping water, and it is also the home of 14 piercers 
+(H.P.: 4 with 4 hit dice have 19 h.p. each, 4 with 3 hit dice have 
+13 h.p. each, 3 with 2 hit dice have 9 h.p. each, and 3 with 1 hit 
+die have 5 h.p. each). They are near the middle of the place, 
+and 1-3 will drop on each creature passing beneath. There Is 
+no treasure. 
+
+3. GLITTERING CAVE: This small cave is only about 8' high, and Its 
+walls have many crystals which cause light to reflect and 
+refract. The protruding crystals have no worth, but there Is a 
+
+
+scattering of 121 base 10 g.p. crystal gems in the northern 
+quarter of the cave-seemingly pieces which dropped from 
+the walls. This is bdit for a trapper (H.P.: 73) with no treasure, as 
+the Drow recently took it. 
+
+4. SIDE CAVERN: This area has a high ceiling (90'), and many 
+ledges and shelves along the south, east, and north curve of 
+the cavern wall house 15 gargoyles (H.P.: 22 each) who perch 
+at 65' to 80' heights to swoop down on prey and attack from 
+behind. They will pursue northwards, where the roof of the 
+gallery is high, but they do not go eastwards. They have no 
+treasure. 
+
+5. SPUR CAVERN: A very large purple worm (H.P.: 118) has 
+recently moved into this place to lay her eggs, rest, and will 
+then leave. There are 6 eggs in the northeast finger of the 
+cavern, and they will hatch in 3 turns. The "proud mama" is 
+resting. There is no treasure inside the worm, but there are 8 of 
+her castings about the place, and the 6th contains 11 base 
+100 gold piece gems, and 4 vials of holy water. 
+
+6. CAVE: 14 Drow are located here to oversee any activities in the 
+cavern as a whole, as well as to aid merchants or scout for 
+invaders. 
+
+Males: 4 2nd level (H.P.: 9 each; AC 1) armed with +1 
+
+short sword, +1 dagger, and hand crossbow 
+with 10 bolts are under command of a 4th level 
+fighter (H.P.: 18; AC -2) armed with +2 short 
+sword, +1 dagger, and hand crossbow with 10 
+bolts. Each can cast dancing lights, dark 
+ness, and faerie fire. 
+
+Females: 8 3rd level (H.P.: 15 each; AC 0) armed with +1 
+
+short sword, +1 dagger, and half have hand 
+crossbows, the balance atlatl and 3 javelins. 
+They are under command of a 6th level (H.P.: 30; 
++2 chain mail, +2 buckler,+4 for dexterity of 18, 
+for an overall AC of -4) fighter who will yield their 
+charge to the male commander if the position 
+appears in jeopardy. She has +2 short sword, 
++2 dagger, and a death lance- a 10' spear 
+which discharges a negative force when it hits, 
+the force causing 3-12 hit points of damage in 
+addition to normal (spear or lance) damage, 
+and any opponent so struck must save versus 
+poison or lose 1-4 life energy levels. The lance 
+has 6 charges. This is the weapon she will take 
+with her when she goes to the Drow area to the 
+northwest to inform her superiors. Her mount is 
+a nightmare (H.P.: 32) stabled at the back of 
+the cave. Each female can cast clairvoyance, 
+dancing lights, darkness, defect lie, dispel 
+magic, faerie fire, and suggestion; the 
+commander can also use detect magic, 
+know alignment, and levitate. 
+
+
+8 
+
+
+
+
+
+Treasure: Each Drow carries a small leather bag or pouch in 
+which 1-4 p.p. per level of experience are kept. The female 
+commander will have 2 100 g.p. gems in addition to the 
+coins. Hidden on her person is a small pin of bronze, a night 
+mare's head with NOQUAR inscribed in Drowic on the reverse. 
+
+The males sleep in the southern cave below 6., the females in 
+
+6. proper. There is a bedroll of silks for each, and several boxes 
+of provisions in each cave. There are a few personal eating 
+and grooming items with each bedroll. There are some 
+strange straps (harness) and wooden racks in the males' 
+cave (gear for pack lizards), and long metal-hooked poles 
+(guiding ankuses for the creatures) stand nearby. Con 
+cealed under the dung and fungus bedding of the night 
+mare's stall is a lead-lined hollow in the stone floor. It has a 
+stone lid with a secret catch. Inside this cavity are 1,000 silver 
+pieces in a wooden chest, 1,000 gold pieces in 10 leather 
+bags, a belt which has 100 platinum pieces inside it, a pouch 
+with 20 base 100 g.p. gems, 2 pieces of 5,000 g.p. value 
+jewelry and a black metal chain and medallion (with 
+spider/drow female figures) in an ivory case worth 250 g.p., 
+and a leather case with 4 potions: healing, extra-healing, 
+polymorph self, poison (if mixed with wine in an iron cup it 
+gives the imbiber total poison resistance for 6 turns). The iron 
+cup is in a corner of the cavity. 
+
+7. SUNKEN CAVE: Two narrow flights of stair-like terraces lead 
+downward about 20' to debouch into a low ceilinged cave 
+which appears totally dark and deserted. This is an illusion, 
+for it is the lair of a lich (66 hit points) with a +3 ring of 
+protection (AC -3). This horrid creature normally rests on the 
+ledge at the southern tip of the place. It will maintain the 
+illusion and not attack any intruders unless they are using 
+magic spells of any sort or are obviously detecting magic. He 
+will then attack. The lich's spell level is 20; his spells are: 
+
+
+First Level: 
+Second Level: 
+Third Level: 
+Fourth Level: 
+Fifth Level: 
+Sixth Level: 
+Seventh Level: 
+Eighth Level: 
+Ninth Level: 
+
+
+burning hands, charm person, magic 
+missile (x2), ventriloquism 
+
+Invisibility, mirror image, ray of enfeeble- 
+ment, web (x2) 
+
+dispel magic, fireball, fly, lightning bolt, 
+phantasmal force 
+
+confusion, charm monster, dimension 
+door, fumble, polymorph other 
+
+cloudkill, cone of cold, hold monster, tele 
+port, wall of force 
+
+globe of invulnerability, invisible stalker, 
+repulsion, flesh to stone 
+
+limited wish, Mordenkainen's Sword, 
+reverse gravity 
+
+Bigby*$ Clenched Fist, Otto's Irresistible 
+Dance, monster summoning VI 
+
+time stop, power word kill 
+
+
+(To determine which spell the lich will use, pick the best 
+possible if he is in danger of being slain. Otherwise, roll dl 0 for 
+level, 0 equalling a second roll of d6 for spell level. When level 
+
+
+
+is found, roll a second die to determine which spell will be 
+used, if necessary, or select the MOST LOGICAL spell.) 
+
+Treasure: The lich, Asberdies, has cast 600 magic mouth 
+spells in various portions of his lair-walls, floor, ceiling, and 
+on stalacitites and stalagmites too. Therefore, magic 
+detection will show virtually everyplace in the cave as 
+radiating magic. The hollow where he lies is lined with silks 
+and velvet cloths, but no treasure. Just a few feet northwest is a 
+small ledge with a few broken stones. One of these has a 
+hollow spot into which is thrust a folded-up portable hole. The 
+hole contains a jeweled crown (80,000 g.p.), a gem-set orb 
+(50,000 g.p.), and a scepter likewise encrusted with precious 
+stones (65,000 g.p.) which were the lich's in life. They now bear 
+a curse upon anyone possessing them. The magic will turn 
+the individual or individuals into a wight after sickening and 
+dying. The curse can only be removed by a cleric of 20th level. 
+(The items will radiate both magic and evil if either or both are 
+detected for.) Also in the hole are 1,000 gold pieces, 10 gems 
+of 100 g.p. base value, a bag of dust of sneezing and 
+choking, a staff of striking, a potion of longevity, a scarab of 
+protection from evil clerics, and a scroll of 7 magic-user 
+spells (knock, tongues, minor globe of Invulnerability, wall 
+of ice, stone to flesh, charm plants, symbol (fear)). 
+
+8. SIDE CAVERN: This place is similarto cavern 4. It has dozens of 
+ledges and shelves at 70' or more above the cavern floor, and 
+these places are the roosts of 23 gargoyles (H.P.: 22 each). 
+These creatures greatly fear the Drow, and they will attack no 
+creature with a Drow or wearing Drow garb, but they will 
+attack any other creatures not so protected. They have no 
+treasure. 
+
+9. CAVERN STABLE: There are 6 pack lizards (H.P.: 33 each) 
+tethered here near a mound of fungus fodder. The creatures 
+are for use by merchants in need of their services. If anyone 
+attempts to unchain them, they will attack the individual 
+unless he or she carries a hooked goad which they recognize 
+as the sign of mastership over them. 
+
+10.-13. COMPLEX OF LOW CAVES: This is the temporary residence of a 
+pack of ghasts and ghouls on their way northwest to serve the 
+Drow. They do not wish to follow the broad and well-trafficked 
+primary passages, so they will take the one to the northeast 
+nearby as soon as the giant slug (14. below) moves on. The 
+pack consists of: 
+
+10. 32 ghouls (H.P.: 10 each) with 1-6 gold pieces each. 
+11.4 ghasts (H.P.: 19 each) with 7 base 100 g.p. gems. 
+
+12. 2 ghasts (H.P.: 24 each) with a sack containing 3 pieces 
+of jewelry worth 5,000, 3000, and 1,800 g.p. respectively, 
+and 2 tubes. One is a scroll of 3 cleric spells (cure light 
+wounds, tongues, conjure animals (3 brown bears with 
+28 h.p. each)). The other is a map showing the northeast 
+passage and the tertiary route which connects to the 
+primary northwest-southeast passage and encounter 
+area SI 7-T17: the map shows the latter passages only as 
+shown below. Draw this in for your players on their map. 
+
+13. 4 ghasts (H.P.: 20 each) with 300 g.p. and 18 base 10 g.p. 
+gems. 
+
+14. GIANT SLUG: (H.P.: 87) This monster blends into the niche it has 
+found beside the passageway northeast, where it initially 
+rested to digest a meal and then decided to stay because of 
+the excellent food su pply. (The Drow will soon get rid of it.) No 
+treasure. 
+
+15. 100' HIGH SHELF: 2 hieracosphinx (H.P.: 49, 43) are nested 
+here awaiting the return of their Drow mistress and master. 
+They will not attack unless some creature comes near them- 
+say 20' or so-and will come to a name command only. They 
+have no treasure, but one has a medallion with a staff of 
+copper set round with 8 perfectly matched emeralds (24,000 
+g.p. value) and the name EILSERVS in Drow characters 
+engraved on the reverse. 
+
+
+9 
+
+
+
+16.-18. TROLL CAVES: These places are filled with a noisome mess of 
+rotting carcasses, bones, sticks, excrement, pelts, etc. The 
+trolls dwelling in these areas have moved all of their treasure 
+to the tribe leader's lair at 32. 
+
+16. 10 trolls (HP.: 29 each)./ 
+
+17. 16 trolls (H.P.: 30 each).-/ 
+
+18. 18 trolls (HP.: 31 each)^ 
+
+Note: The stench of these caves is noticeable from 10' outside 
+each cave. 
+
+The trolls will move to support each other, the troglodytes, or 
+the bugbears if they become aware of attack through 
+information, noise, etc. 
+
+
+
+19.-23. CAVE WARREN: This complex of caves and connecting 
+passages serves as the lair of a large tribe of bugbears who 
+are in indirect service to the Drow. They have been equipped 
+with ring mail jacks and heavy, well-made morning stars (+2 
+damage when a hit is scored) by their Dark Elf masters. (Cf. B 
+above.) 
+
+/19. 8 bugbears (HP.: 15 each) with 11 g.p. each %* ¦<*¦* 
+t % 20. 8 bugbears (HP.: 16 each) with 14 g.p. each. 
+
+¦ \ 21. 8 bugbears (HP.: 17 each) with 12 g.p. each. ' 
+
+22. 12 bugbears (HP.: 18 each) with 19 g.p. each. i o ; 
+
+*2 - /23. 14 bugbears (HP.: 16 each) with 13 g.p. each. 
+
+24. HUGE CAVE: This is the den of 45 female bugbears (HP.: 9 
+
+& each; fight as 1 +1 hit die monsters) and 62 young (3 hit points 
+
+each, fight as Vi hit die monsters). There are 10 males here to 
+guard the females and offspring. Each male has 15 hit points. 
+Amidst the litter of bedding, food scraps, and junk is a chest 
+with 683 c.p., 397 s.p., and 155 g.p. 
+
+25. CHIEF'S DEN: Grubblik the chief (HP.: 30; chain shirt and large 
+shield for AC 1) is a huge creature who attacks as a 4 die 
+monster. With him is his son Bruzblid (HP.: 24; AC 2) who is a 
+leader. Grubblik does +4 hit points damage when hitting, 
+Bruzblid does +3. They have 2 females of large size (HP.: 14 
+each) who fight as males. Their treasure is in a large ir on box 
+with a lock (Bruzblid has the key). Inside are I^COOOi g.pXT 
+piece of jewelry worth 6,000 g.p., and a poisonous'spTder 
+which he feeds so to keep it there to bite anyone who places 
+a hand inside. The spider bites 5 in 6 from its position inside 
+the lid. Saving throw is at +2, but damage is 5-20 due to 
+sickness from the spider's poison. 
+
+/ 26. 12 bugbears (HP.: 15 each) with 15 g.p. each.*: ' 
+
+27. SUB-CHIEF'S CAVE: Ruddug (HP.: 25; chain shirt and large 
+shield for AC 1) is nearly as large as the chief. He fights as a 4 
+hit dice monster and does +3 on any damage scored. With 
+him are two personal guards, each with 22 hit points, scale 
+jacks and large shields (AC 2), and doing +3 hit points of 
+
+
+damage when a hit is scored upon an opponent. Ruddug 
+likes cloth, so his quarters are a mess of piles, bolts, and bales 
+of such material. Hidden on a high ledge behind a stone is a 
+a bag with 450 s.p., 139 g.p., 18 p.p., and 7 base value 50 g.p. 
+gems. 
+
+28.-30. These areas designate the warrens of the troglodytes. (See 
+also 36.-38. 8c T.) Here the tunnel ceilings are only about 6' 
+high, and the caves themselves not much more spacious. AJI 
+of these trogs are one tribe, and they work in co-operation 
+with the trolls and bugbears. The co-operation is demanded 
+by the Dark Elves, of course, but the inhabitants of the place 
+have found that they are all prospering through mutual aid, 
+so they now come willingly to each other's assistance. Nearly 
+everything used by the trogs is made of stone or fashioned 
+from bone. They have a few possessions of wood, leather, or 
+cloth, but such items are rare. 
+
+T. UNIT DEN: Each unit den holds a small amount of 
+troglodyte goods-valueless junk piled into a nest, and 
+/ no treasure-and a male, female, and 2 hatchling trogs 
+(HP.: 11,7,5, 2). Males have stone clubs, females fight as 
+1 +1 hit die monsters, and the young as Vi die monsters. 
+
+28. LONG CAVE: A trog gen of 36 young males is quartered 
+^ here. Each has 10 hit points and is armed with a metcl 
+
+battle axe and a metal-tipped javelin (+3 on "to hit" dice, 
+2-8 hit points of damage). There is no treasure. 
+
+29. GEN LEADERS: 4 large trogs (HP.: 17 each) who attack as 
+3 hit dice monsters are lodged in the forepart of the area, 
+while 2 huge ones (HP.: 22 each), the "elders", who 
+attack as 4 hit dice monsters, are housed in the 
+northernmost portion of the gallery. Each of these trogs 
+has a metal bardiche. Each leader wears a small 
+medallion of gold hammered into a likeness of a human 
+skull (value 20 g.p.). The 2 elders have small rough gems 
+(10 g.p. base value each) set into their devices. On the 
+shelf at the back of their area is a human skull sheathed 
+in gold (230 g.p.) with 2 2,000 g.p. garnets set in the eye 
+holes. There are 4 sheaves of 12 javelins each here also. 
+
+30. COMMUNAL CAVE: This place is normally empty of 
+activity except during tribal feasts, councils, or when the 
+males gather to attack. There are 8 immature females 
+(HP.: 6 each) here at all times to tend the area. 
+
+31. EASTERN CAVERN: This portion of the great cavern is filled with 
+fungi patches which the troglodytes tend. The fungi supplies 
+much of the food for the creatures which inhabit the place. 
+There are narrow paths wending between these fields of 
+mushrooms and other strange and gigantic growths. (The 
+fungi are fed with the refuse and offal, and the place is less 
+than fragrant.) A dim light from many of the phosphorescent 
+lichen growths reveals the strange shapes and blotched 
+,/colors of the fungi, and flame will show the colors as whites, 
+J grays, yellows, tans, browns, reds, oranges, pinks, mauves, 
+and violets. S positions indicate 1-4 shriekers, V positions are 
+1-4 violet fungi. Under the underlined patch of violet fungi (V) 
+is hidden a 10,000 g.p. gem and a jug of alchemy. 
+
+32.-35. TROLLS' DENS: The trolls live in relative peace with the 
+bugbears and trogs, as explained previously. They are 
+a rewarded with food and wealth by the Drow, and the 
+co-operation with the other inhabitants of the cavern has 
+" ° caused them to prosper greatly. 
+
+32. CHIEF'S DEN: The tribal chief (HP.: 49) and 5 lesser 
+trolls (HP.: 40 each) dwell here. The chief does +2 hit 
+points of damage whenever his attacks succeed, and his 
+consorts cause 1 additional point of damage when they 
+hit an opponent. At the back of the cave is a natural 
+hollow which is used as the repository for the tribal wealth: 
+1,300 c.p., 789 s.p., 2,011 g.p., 54 p.p., 38 gems of 10 g.p. 
+base value, 14 pieces of jewelry (1,000 g.p. each), a 
+potion of healing, and a bronze statuette-an idol of 
+some weird shark god-which is inlaid with ivory, coral, 
+
+
+10 
+
+
+
+and pearls (value 9,500 g.p. intact, 5,500 for precious 
+substances only). This latter object has a heretofore 
+undetected secret compartment in its head portion, and 
+therein rest a pair of lenses. These crystal devices do not 
+give off any dweomer, for they are not magical, and the 
+wearer will detect nothing when looking through them 
+unless he or she is in the VAULT OF THE DROW (MODULE 
+D3). 
+
+33. 8 trolls (HP. 28 each). Note: The smell of the monsters is 
+masked by the pungent reek of the fungi. 
+
+V 34. 10 trolls (HP.: 31 each). 
+
+35. 10 trolls (HP.: 26 each). 
+
+6.-30. Additional troglodyte warren areas. (Cf. 28-30 & T above.) 
+
+& T T. UNIT DEN: Each of these places exactly duplicates those 
+noted before, i.e. 1 male, 1 female, and 2 hatchling trogs 
+with no treasure. 
+
+36. GUARDS' QUARTERS: 4 trogs of large size (HP.: 17 each) 
+who attack as 3 hit dice monsters are here. Each is armed 
+
+/with metal battle axe and metal-tipped javelin (+3 "to 
+* hit", 2-8 hit points of damage). They relay information to 
+areas 37. and 38. 
+
+37. GUARDS' QUARTERS: 4 additional large trogs (H.P.: 16 
+, each) are located here. They are also 3 hit dice monsters 
+
+and armed as the guards at 36. 
+
+38. TROG CHIEF'S LAIR: tKi$ huge (HP.: 39) old trog attacks as 
+a 6 hit dice creature. He is armed with a bastard sword 
+(+2, no special abilities) and 4 metal-tipped javelins (2 of 
+which are normal +3 "to hit", 2-8 h.p. damage weapons, 
+and 2 are javelins of lightning, but he isn't aware of the 
+difference). Amidst the litter in the place are 27 100 g.p. 
+base value gems, a sack with 12 ingots of 100 g.p. weight 
+each-5 silver, 6 gold, 1 platinum-and 1 piece of 
+platinum jewelry set with 12 gems (2x1,000 g.p., 4 x 500 
+g.p., and 6 x 100 g.p.) which has a value of 7,500 g.p. 
+Hidden in a small cranny are 4 potions of plant control. 
+
+39. SIDE GALLERY: Stabled here (at A.) on chain tethers are 2 
+wyverns (HP.: 49,41) which the trog chief has raised from the 
+time they hatched from eggs taken by him. He rides the larger 
+one into battle, while the other fights alone beside its sibling. 
+
+' They will obey and follow the troglodyte chief, for they have a 
+strange mutual liking and communicate with each other. In 
+the southeastern spur (at B.) is a shelf of rock upon which rests 
+
+V a huge flail which the chief uses when mounted. When he 
+wields this weapon he has +2 chance to strike an opponent 
+and causes +3 h.p. damage, but only he can so employ it to 
+this effect. There is no treasure with these creatures. If they are 
+slain the chief will go absolutely mad with rage! 
+
+40. MAGIC POOL: This body of clear water has absolutely no 
+effect upon creatures who drink from it. In fact, it is often used 
+as a watering place by cavern inhabitants, although they 
+also use the stream that feeds it and other small collection 
+pools here and there throughout the cavern. Furthermore, the 
+pool does not speak or otherwise communicate in any 
+manner. It is quite broad, and some 8' deep (about 2' 
+contour) at its center. At this spot rest 89 gems of 10 g.p. base 
+value each. They are covered with a light layer of sand. If any 
+
+/ of these gems are removed from the pool for more than 1 turn, 
+,/ they will turn a like number of gems within a 30' radius into 
+stones of 1 g.p. value (quartz crystals). On the other hand, if 
+an individual tosses 1 -4 gems into the pool, he or she will find 
+that a like number of gems in his or her possession are of 
+better quality (flaws are cleared, so those gems are 
+automatically one category higher). As the effect is more 
+likely to cause 10 g.p. gems to become 50s, or 50 g.p. gems 
+to become 100s, the Draw merchant who knows the secret of 
+this pool usually tosses only 10 g.p. value gems into it. The 
+pool radiates a dim dweomer, but the gems which are in it do 
+not give off any magical aura. 
+
+
+FINAL NOTE TO DUNGEON MASTERS 
+
+If you are using this module as a part of the whole campaign, be 
+certain to keep a careful note of all that the party does. You can 
+do this by writing on the margin of this booklet. Any opponents 
+which escape attack by the party will give warning to their masters 
+or fellows if possible-particularly Drow and their more intelligent 
+servants. However, the chaotic nature of the Dark Elves precludes 
+the chance of organized search for the party, so at best the Drow 
+will be aware of intruders and more watchful and suspicious. 
+
+If the parly is moving on to the next module, cease play in this one 
+as soon as they pass into one of the northern tunnels, and begin 
+with the next package. 
+
+
+REGARDING THE URGE-SCALE HEX MAP OF THE UNDERWORLD 
+
+You will note that the players' version of the map shows only a 
+relatively narrow section of the whole area-that part which 
+pertains to this module and the other two in the set. As Dungeon 
+Master, you might wish to develop other material regarding the 
+encounter areas shown on your large-scale map. You can then 
+allow your players to explore passages which are off their map, 
+thus eventually completing their version; and, of course, having 
+many adventures along the way. You can place other Drow 
+enclaves, locate the realm of the mind flayers, expand the 
+underground sea and place the Kuo-Toan stronghold, etc. 
+
+SMALL SCALE ENCOUNTER PIECES AND PASSAGE MAPS 
+
+The widest passage is a section of Primary Tunnel, the next widest 
+is a Secondary Route section, the smallest is a Tertiary Passage, 
+regular or secret. These and the three encounter pieces can be 
+joined with other like map sections from the other modules in this 
+set if desired. 
+
+
+THIS ENDS THE FIRST PART OF 
+THE DESCENT INTO THE DEPTHS 
+
+
+
+
+11 
+
+
+
+
+
+
+
+JERMLAINE 
+
+
+FREQUENCY: Uncommon 
+NO. APPEARING: 12-48 
+ARMOR CLASS: 7 
+MOVE: 15" 
+
+HIT DICE: 1-4 hit points 
+% IN LAIR: Special 
+
+TREASURE TYPE: Per 10 individuals, O, Q; C, Q (x5), S, T in lair 
+
+NO. OF ATTACKS: 1 
+
+DAMAGE/ATTACK: 1-2 or 1-4 
+
+SPECIAL ATTACKS: See below 
+
+SPECIAL DEFENSES: See below 
+
+MAGICAL RESISTANCE: See below 
+
+INTELLIGENCE: Average (with Genius level cunning) 
+
+ALIGNMENT: Neutral evil (with slight lawful tendency) 
+
+SIZE: S(1'+ tall) 
+
+PSIONIC ABILITY: Nil 
+
+Attack/Defense Modes: Nil 
+
+Jermlaine, or jinxkins, sometimes known as bane-midges, dwell 
+in elaborate tunnel and den warrens beneath the ground-often 
+very deep beneath the surface. As they mix freely with rats of all 
+sorts, even the giant variety, they are often (75%) found in 
+company with such rodents and are 50% likely to be sharing an 
+integrated system of burrows, tunnels, and holes. (If jermlaine are 
+encountered, a percentile dice roll of 01-75 indicates that rats 
+(25%) or giant rats (50%) are with them. If the jermlaine are in their 
+lair, it is 50% probable that there will be connecting rat tunnels.) 
+This cohabitation extends to all forms of mutual co-operation 
+and defense. 
+
+These evil runts are cowardly and will attack only when it seems 
+probable that they can overwhelm victims without serious 
+opposition. Jinxkins thus waylay weakened and wounded parties 
+or single individuals who are unwary, asleep, etc. While strong 
+groups or alert adventurers will not be physically attacked, 
+jermlaine bands will certainly seek to cause them harm and 
+otherwise injure them out of sheer maliciousness. This injury to the 
+adventurers brings both material gain to the jermlaine and the 
+possibility of the eventual gain of new victims. (Attack methods of 
+these vicious mfdgets are explained later.) 
+
+Jermlaine are very fast, moving with a scuttling gait, very quiet, 
+and are masters of remaining unseen. On occasion, if a party or 
+individual suddenly becomes still and listens carefully, their 
+movement or twittering, squeaking speech can be detected. 
+
+It is 60% probable that bane-midges will be within 60' of their lair at 
+any time they are encountered, but the tunnels which give access 
+to such places are twisting mazes, and passage is impossible for 
+any creature larger than a gnome-even the latter having to 
+creep and crawl to get through, and of course this exposes the 
+
+
+intruder to attack. 
+
+Jermlaine typically arm themselves with needle-sharp darts which 
+they can hurl up to 12' and which cause 1-2 hit points of damage. 
+In addition to a dart, each minimus carries a pike-like weapon-a 
+1 W long wand of supple wood with a sharp metal tip. this 
+instrument is used as a spear or pike to inflict 1-4 hit points of 
+damage. Their favored attack method is ambush with pit or net, 
+however, taking victims alive. In little-used passages, these nasty 
+creatures will laboriously prepare pits covered by camouflaged 
+trapdoors, or string overhead nets entwined with silk from ttie 
+webs of giant spiders, and lay in wait for passing prey. In more 
+travelled ways, jermlaine will stretch thin but strong cords (often 
+woven of human hair) to trip the unwary. Victims not stunned by 
+the trap are pummeled senseless by bane-midges wielding 
+leathern clubs filled with sand or lead pellets, while others entwine 
+the prone creatures with ropes and cords. Note that beating with 
+the clubs has a 2% per blow cumulative chance to knock the 
+victim unconscious, but those protected by splint, banded, or 
+plate mail will not be so attacked. Well-armored victims who 
+cannot be bound fast will be attacked to kill-possibly with 
+flaming oil missiles or acid. Some victims will be devoured by the 
+jermlaine (or their rat friends), but most humans will be stripped 
+naked, shaved, and hauled out of the jinxkins' lair to lay trussed 
+and helpless in the passageway. The jermlaine will usually watch 
+such victims from a safe height, awaiting the "fun" of seeing some 
+passing monster come and devour the bound victims. 
+
+If alert creatures should happen to pause near a hidden group of 
+jermlaine, the spiteful things will steal forth and cut belts and 
+straps, packs and seams-typically one such vandalistic act per 
+jinxkin, for they act with haste in order to escape unnoticed and 
+unharmed. Their vandalism will usually be noticed only 1 -12 turns 
+later, when a weakened strap parts, a seam opens fully, etc. 
+Worse still, if packs and other goods are placed out where jinxkins 
+can reach them, these monstrous atomies will pollute the water, 
+sour the wine and turn it to vinegar, spoil food, desecrate holy 
+water, steal small items (gems, coins, garlic buds, herbs, etc.), 
+wedge daggers or swords so that they are difficultto draw quickly, 
+cut bow strings, blunt arrows, puncture oil flasks, and so on. If 
+more than 35 of these creatures are encountered, there will be 
+one very old and exceptionally evil one who has a very wicked 
+power; this individual bane-midge will be able to drain all 
+magical properties from any magical item (except an artifact or 
+relic) which he can handle for 1-4 rounds. 
+
+The gray-brown warty hide of jermlaine blends with earth and 
+stone, and they always dress in scraps and rags of the same 
+coloration so they can remain concealed from view. Coupled 
+with their ability to move quietly, the jinxkins are likely to surprise 
+opponents on a 1-5 out of 6, and they are 75% undetectable if 
+looked for or listened for unless the action is done suddenly so as 
+to catch them off guard. 
+
+Jermlaine speak their own tongue, their alignment language, 
+and can converse with rats of all sorts. 1 in 10 can speak the 
+common tongue, and the same probability exists with respect to 
+the languages of dwarves, gnomes, goblins, and ores. 
+
+Although they have weak eyes, and their infravision extends only 
+30', jermlaine have keen hearing and smell, so even invisible 
+creatures are 50% likely to be detected by them under normal 
+dungeon conditions. 
+
+Jermlaine speak their own tongue, their alignment language, 
+and can converse with rats of all sorts. 1 in 10 can speak the 
+common tongue, and the same probability exists with respect to 
+the language of dwarves, gnomes, goblins, and ores. 
+
+Description: Jinxkins look as if they were diminutive humans 
+wearing baggy clothing and ill-fitted leather helmets. Closer 
+inspection will show that the baggy "garments" are actually the 
+creatures' lumpy and many-folded skins, while the "head gear" 
+are in reality the pointed and evilly-visaged heads-all leathery 
+and smooth. The limbs of these creatures are knotty and bowed, 
+with hands and feet tipped with thick nails which are always filthy 
+but nimble. 
+
+
+12 
+
+
+
+
+
+
+
+
+
+
+
+
+
+JftSta 
+
+
+^BB 
+
+
+1IIJH 
+
+
+f w <i 
+
+
+ii 
+
+
+Vj ' 
+
+
+1BB1 
+
+!¦¦¦ 
+
+
+mmmw 
+
+
+1 BL IIJI 
+
+lUtMMB' UBIi, 
+
+mwwmnm. *mmm 
+m mir <"¦ 
+
+it yrB^ 
+
+
+lr 
+
+
+^"MIIill 
+
+
+ir ii 
+
+
+
+
+
+
+lb 
+
+IMlIliJDB^lKSII 
+
+
+w 
+
+I! 
+
+
+II 
+
+
+^HIL 
+
+XWMBBI 
+
+^ HMW 
+
+"r 
+
+,___l 
+
+
+lb bHi * 4m 
+
+III 11 
+
+i BNV 
+
+
+iVil 
+
+
+#¦¦¦" 
+
+
+
+
+^mik war 
+jrjKvmapi 
+iiiiiiL arnai 
+
+"IflEHOir 'MW 
+
+¦tfWWIMF ^Tk 
+
+ir" '" r*'H|r' w " 
+
+
+
+
+
+
+
+
+
+
+
+r tf'M 
+
+
+/A 
+
+
+
+
+f 'I 
+
+
+*/> 
+
+
+\Pi 
+
+
+< 11 ?* 
+
+
+Ik<u 
+
+
+V 
+
+¦m^TViV 
+
+i.r 
+
+
+<&&?/*•* 
+
+
+/**? 
+
+v\*Vt"' *">v "* c <>'**, 
+
+V4vIa s\%J 
+
+" §m w& : 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+This item is only one of the many popular aids for DUNGEONS & DRAGONS* produced by TSR Hobbies, 
+Inc. 
+
+
+Other D & D accessory items currently available include: 
+
+Dungeon Geomorphs, Set One (Basic Dungeon) .£1.50 
+
+Dungeon Geomorphs, Set Two (Caves & Caverns) .£1.50 
+
+Dungeon Geomorphs, Set Three (Lower Dungeon) .£1.50 
+
+Outdoor Geomorphs, Set One (Walled City) .£2.35 
+
+Monster & Treasure Assortment, Set One (Levels One to Three) .£1.50 
+
+Monster & Treasure Assortment, Set Two (Levels Four to Six) . £1.50 
+
+Monster & Treasure Assortment, Set Three (Levels Seven to Nine).£1.50 
+
+D & D Character Sheets Pad.£ 1.50 
+
+Dungeon Module B1 (In Search of the Unknown).£2.50 
+
+The entire selection of this series of Dungeon Modules for ADVANCED DUNGEONS & DRAGONS* is 
+comprised of the 
+following items now printed under licence from TSR Hobbies by Games Workshop: 
+
+Dungeon Module G 1 (Steading of the Hill Giant Chief) .£ 1.95 
+
+Dungeon Module G2 (Glacial Rift of the Frost Giant Jarl) .£ 1.95 
+
+Dungeon Module G3 (Hall of the Fire Giant King.£2.25 
+
+Dungeon Module D 1 (Descent into the Depths of the Earth) .£2.25 
+
+Dungeon Module D2 (Shrine of the Kuo-Toa) .£2.25 
+
+Dungeon Module D3 (Vault of the Drow) .£2.75 
+
+Dungeon Module SI (Tomb of Horrors) . £2.50 
+
+
+Other releases of additional items relating to D & D are planned for the future. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

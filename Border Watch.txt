@@ -1,0 +1,6257 @@
+Skip to main content
+ 
+Texts
+ 
+Video
+ 
+Audio
+ 
+Software
+ 
+Images
+Sign up for free
+Log in
+ Search metadata
+ Search text contents
+ Search TV news captions
+ Search radio transcripts
+ Search archived web sites
+Advanced Search
+About Blog Events Projects Help Donate  Contact Jobs Volunteer
+Full text of "Tsr 09406 WGM 1 Border Watch"
+See other formats
+WGM1 
+
+ACCESSORY 
+
+
+for 4-6 characters of levels 1-3 
+
+
+Advanced D un%eonsjy ragons 
+
+
+Border 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+One square = 10 feet 
+
+
+
+
+1 
+
+1 
+
+
+
+
+
+3 
+
+
+
+
+
+
+. 
+
+15 
+
+
+it 
+
+
+
+
+i 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Official Game 
+Adventure 
+
+
+Borderwatch 
+
+
+Credits: 
+
+
+Table of Contents 
+
+
+Design: Paul T. Riegel 
+Editing; Andrew Steven Harris 
+Cover Art: Paul Jaquays 
+Interior Art: Erie Hotz 
+Cartography: Chris Ferris 
+Production: Robert Repp 
+
+
+Introduction.. 
+
+Greatwall.. 
+
+Ambush!_...._ 
+
+Fort Disaster.....*.15 
+
+Behold Barduk.........18 
+
+The Cragson Mines.............26 
+
+The Secret Base..-. 29 
+
+
+TSR, Inc, TSR Ltd. 
+
+POP 756 120 Church End, Cherry Hinton 
+
+Lake Geneva Cambridge CB1 3LB 
+
+WI 53147 U.S.A. United Kingdom 
+
+Random House and its affiliate comps nies have worldwide distribution 
+rights iit die book trade for English language products of TSR, hie. Distrib 
+uted to the book and hobby trade in the United Kingdom by TSR Ltd. Dis 
+tributed to the toy and hobby trade by regional distributors. 
+
+ADVANCED DUNGEONS & DRAGONS, AD&D, WORLD OF GREYHAWK 
+and GREYHAWK are registered trademarks owned by TSR, liie. 
+
+DUNGEON MASTER, DM, and the TSR logo are trademarks owned by 
+TSR, hie. 
+
+Alt TSR characters, character names, and the distinctive likenesses 
+thereof are trademarks owned by TSR, Inc, 
+
+This material is protected under the copyright laws of Lite United States of 
+America, Any reproduction or other unauthorized use of the material or 
+artwork contained herein is prohibited without the express written con 
+sent of. TSR, Inc. 
+
+Copyright (c) 1993 TSR, Inc. All Rights Reserved- Printed in the U.S.A. 
+
+ISBN 1-56076-631-X 
+9406XXX1501 
+
+
+Thanks to the playtesters from the Wanna Play Role Playing 
+Gamers-they know who they are. Thanks also to Lisa Riegel, 
+Andrew Os ten burg, William Duffy, Edward Holzman, and Kerry 
+Cook. 
+
+Special thanks to Paul J. Hollingsworth and George R. Strayton. 
+
+
+00 to 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The war is over , . . but not for luz. 
+
+Behind his newly-conquered borders, luz plots 
+a scheme to strike at the very heart of Furyondy. 
+What starts out as a simple border watch assign 
+ment for the characters becomes an adventure of 
+war, espionage, and intrigue that may shake their 
+nation to its highest levels! 
+
+This adventure, designed for four to eight charac 
+ters of levels 1-3, takes place on the Furyondy-Iuz 
+border in the wake of the recent Greyhawk Wars. 
+The DUNGEON MASTER(tm) should familiarize play 
+ers with the current situation in Furyondy, luz, The 
+Shield Lands, and The Horned Soeiety, as detailed 
+in the From The Ashes boxed set. The PCs begin the 
+adventure at the citadel of Greatwall, sometime 
+during the month of Patchwall (October). 
+
+Great wall 
+
+The war has transformed Greatwall from a sim 
+ple farming village into a stronghold that stands 
+against the dread forces of luz. The citadel's 
+defenses have continued to expand during the 
+summer months, and now nearly a quarter of the 
+town's population of 3,900 belongs to the military. 
+
+The remaining populace labors 14 hours a day 
+in the fields, struggling to keep the stronghold 
+self-sufficient, hut finds that it cannot survive 
+without the traffic of the area merchants. Mer 
+chants who do make the trek find it extremely 
+profitable--usually receiving 300 percent of the 
+normal market price for their goods-but despite 
+the lure of such money, few take the risk. Great- 
+wall stands as one of the key barriers holding luzs 
+forces at bay, and the raiding parties which cross 
+the Veng River make regular commerce along the 
+trails impractical. 
+
+With a small civilian population, however, and lit 
+tle in the way of natural resources, Greatwall relies 
+more on such merchants than even Count Artur 
+Jakartai would like to admit. This means Jakartai 
+must find some way to convince the merchants that 
+trading with Greatwall can be both practical and 
+profitable-which is where the PCs come in. 
+
+The Mission 
+
+Jakartai needs the trade routes reestablished, 
+also has a second, secret mission for the PCs 
+to accomplish that not even they know about. The 
+count suspects (correctly) that luz is plotting a 
+new offensive, so he must fortify Greatwall quickly 
+
+
+before the Iuzian forces strike. To do that, how 
+ever, he must send a large amount of gold to 
+Willip, where officials there can provide Greatwall 
+with the supplies necessary to survive the Iuzian 
+attack and the upcoming winter. Jakartai cannot 
+send the gold in several small shipments-that 
+might take too long. He must also keep the ship 
+ment secret, since luz would certainly cross the 
+river and attack to seize that amount of gold. 
+
+The count, therefore, has decided to conceal 
+the shipment under the guise of another needed 
+mission (the trade route), and has chosen several 
+unknown adventurers (the PCs) to avoid appear 
+ing conspicuous. The trade route takes the party a 
+stone's throw away from the Iuzian border, where 
+JakartaFs enemy would never suspect he would 
+transport such important cargo. And, in the 
+meantime, Jakartai has sent out several other 
+"dummy" caravans, with more well-known adven 
+turers, to throw off suspicion, 
+
+Furthermore, because Jakartai suspects luz of 
+readying a surprise attack, he has sent a secret 
+agent, Jetero, to pose as a merchant in the cara 
+van and collect intelligence along the way. 
+Because the route skirts the Veng, Jetero will have 
+the opportunity to keep close track of the Iuzian 
+troop movements and report back to Jakartai 
+upon the mission's completion. 
+
+Thus, while the PCs may not realize it, they 
+hold the future of Greatwall-and perhaps all of 
+Furyondy-in their hands. 
+
+The Adventurers 
+
+The PCs do not currently lead a very exciting 
+life in Greatwall. Perhaps they grew up in town, 
+and saw it transformed from a small farming vil 
+lage into a war-forged stronghold. Perhaps they 
+became adventurers by fighting in the war, or per 
+haps they came to Greatwall as part of one of the 
+many merchant caravans that once passed 
+through to or from Willip. 
+
+By now, however, the PCs have had a chance to 
+explore all that Greatwall has to offer, which isn't 
+much. Individuals can join the local militia, work 
+the fields, or work as an artisan. If the PCs join 
+the militia, they will get the exciting task of stand 
+ing guard duty for eight hours a night without any 
+recognition for their diligence. There is no glory 
+in working the fields, and adventuring skills do 
+not usually lend themselves to artisanship. 
+
+The PCs have, however, managed to get some 
+
+
+Introduction 
+
+
+2 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+practical experience by helping to fend off a few of 
+the initial raids sent against the citadel in the 
+war's aftermath. Such border raids break the 
+monotony of citadel life, but are too erratic and 
+unspectacular to provide any ongoing excitement. 
+After one such minor expedition, as the PCs sit in 
+Great wall's only tavern, The Behir and Beholder, 
+that the real excitement finally begins. 
+
+
+Batlet, a small hamlet guarded by a border post 
+nicknamed Fort Disaster. The PCs soon find out 
+why it has earned its nickname--it is almost 
+always under attack. Indeed, another attempt to 
+break the fort comes during the PCs' stay, and the 
+PCs again see that their companion Jetero is more 
+than he seems. 
+
+The fourth leg of the trip takes the party mem 
+bers to the Crystal River, where they stumble 
+across a nighttime orcish caravan fording the 
+waters to head into Furyondy. Defeating the ores, 
+the PCs find the wagon filled with foodstuffs and 
+other supplies-a peculiar cargo for ores, who usu 
+ally simply take what they need by raiding. This bit 
+of information tips Jetero off to the fact that luz 
+must be building a secret stronghold inside of Fury 
+ondy itself, and he realizes he must warn Jakartai 
+as soon as possible. Reaching Barduk, Jetero 
+reveals himself to the PCs and asks them to take 
+his secret journal to a Ranger contact nearby, who 
+will bring the intelligence information to Jakartai. 
+
+The PCs meet Jetero's strange contact: A lizard- 
+man ranger, unnaturally intelligent for his race and 
+who has aligned himself with the side of good. The 
+lizard man lives in the woods near the Crystal River 
+with a female druid, guarding a group of Shield 
+Land refugee children whose families perished dur 
+ing the war. The PCs pass on their information to 
+the lizardman, and discover through conversation 
+that the sergeant at Greatwall has betrayed Fury 
+ondy. Realizing Jetero's life may be in jeopardy, the 
+PCs rush back to Barduk to warn him. 
+
+Back at Barduk, however, luz's forces have 
+sprung a surprise attack. The purpose of the 
+attack is not so much to damage Barduk as it is to 
+cover an assassination: that of Jetero. The PCs 
+return just in time to find the orcish raiders 
+retreat and Jetero die before their eyes. 
+
+An investigation by the PCs reveals Jetero's 
+killer, a drow agent for luz. The drow, under inter 
+rogation, confirms that luz has set up a secret 
+base within Furyondy, and barters his life in 
+exchange for its location, The PCs head to that 
+location and launch a strike against the strong 
+hold, aided by some of Barduk's men. After a 
+pitched battle with the humanoid leadership at 
+the secret base, the party breaks luz's plans, and 
+saves Furyondy from a deadly attack within. The 
+caravan continues on to Willip under protection 
+from Barduk's men, while the PCs return to 
+Greatwall, hailed as heroes. 
+
+
+Adventure Summary 
+
+
+Here is how the story will most likely unfold for 
+the adventurers: 
+
+The party, spending a quiet night in Greatwall, 
+suddenly finds itself brought before Captain Gill- 
+more, head of the Greatwall guard, Gillmore tells 
+them of his need for adventurers for an important 
+mission leaving at dawn-a caravan, leaving for 
+Willip, to bring crucial supplies to the border 
+posts along the Veng Riven The expedition will 
+then return and bring similar supplies to back to 
+Greatwall. 
+
+Unknown to Gillmore, however, there is a traitor 
+in his midst; his sergeant, Krayquer, has sold out to 
+luz, and as the sergeant briefs the PCs on their mis 
+sion he feeds them false information. Then Kray 
+quer tells the enemy forces that a Fury on di an 
+secret agent named Jetero will accompany the car 
+avan, and to lay plans to assassinate him. 
+
+The party, meanwhile, meets with the caravan's 
+merchants to discuss the trip, and then sets out 
+with them in the morning. The first leg of the trip 
+passes uneventfully, but during the second leg the 
+party finds a destroyed wagon train, similar to their 
+own. Investigating, they find the body of Jetero's 
+twin brother, a merchant named Jasmalus who 
+traveled this route, and whom Jetero impersonated 
+for this trip. Through misfortune, the orcish raiders 
+stumbled onto his brother's caravan first, and, 
+thinking his brother to be the secret agent, 
+attacked. The raiders realized their mistake when 
+they could not find the important government doc 
+uments the caravan should have carried, and so set 
+up traps to spring another ambush. 
+
+After defeating the ambush, the party heads to 
+Fort Belvor, named after Furyondy's ruler, which 
+sits across the Veng from one of Iuz's most power 
+ful strongholds, Molag, Here, the PCs begin to see 
+something of Jetero's true nature, as an orcish 
+catapult attack comes just as Jetero meets with 
+his secret agent contact. 
+
+From Belvor, the caravan heads to the village of 
+
+
+Introduction 
+
+
+
+
+
+
+
+
+
+
+
+
+greatwall 
+
+Read the following to the players: 
+
+
+You sit in The Behir and Beholder, the 
+only tavern in Greatwall, taking the chill off 
+the autumn night. Suddenly, the front door 
+bangs open and three Greatwall guards 
+enter. You recognize them as a sergeant and 
+two men-at-arms. As they approach you, 
+you see another three Greatwall guards 
+enter through the back door and head 
+toward your table* 
+
+As they arrive, the sergeant-a harsh-look- 
+ing human with a long scar on the left side of 
+his face-- turns to you with his finger pointed* 
+
+"You . . . and you . . . and you * , T He 
+identifies each of you in turn, then barks a 
+command: "Your presence is required by 
+the captain of the Greatwall guard. Gome 
+with me." 
+
+
+PCs who refuse or demand a further explana 
+tion are summarily arrested. If any resist, 
+remind the players that fighting the citadel 
+guard at a time of near-war might be considered 
+act of treason. If PCs persist, run a combat 
+in which the sergeant (a 6th-level fighter) and 
+five guards (4th-level fighters) attempt to sub 
+due them. In the miraculous possibility that 
+things go badly for the sergeant and his men, 
+have the citizens in the tavern continue to 
+fetch more city guard until the PCs relent. (Of 
+the PCs at this point will have some 
+explaining to do). 
+
+
+which Sergeant Kravquer has brought you 
+here," Gillmore begins, his deep voice res 
+onating throughout the vast chamber. "But 
+our time grows short. Please sit down and 
+relax, as I have something which I need to 
+discuss with you*" He claps his hands twice, 
+and two servers appear with jugs of wine 
+and begin serving you. Then he orders 
+everyone else besides you and Krayquer out 
+of the room. 
+
+When all have left, Gillmore begins. 
+
+"As you are aware, luz and his forces of 
+evil continue to pressure us, despite the 
+peace agreement* This jeopardizes Great- 
+walPs strategic position; we rely almost 
+entirely on outside sources for supplies, and 
+the violence has made the journey here too 
+unprofitable for most merchants. Even our 
+traditional trading partners in WiUip refuse 
+to take the risk. 
+
+"I need to prove to them they can make 
+the trip safely and profitably. This is where 
+you come in* 
+
+"1 wish you to escort a caravan of three 
+merchant wagons to Willip and back. The 
+caravan leaves tomorrow at dawn and must 
+return as quickly as possible, before winter 
+strikes* The wagons carry traditional trade 
+goods, to be exchanged for the food and sup 
+plies we will need to survive the oncoming 
+winter, luz's raids have occupied my forces 
+so completely that I must turn to you. 
+
+"You must use the old Grabford-Gritwall- 
+Willip trail to resupply the border posts and 
+to show the Willip merchants that it can 
+still be traveled safely* I understand this will 
+put you along the Veng River, a stone's 
+throw from the land of luz. Fear not-bor 
+der patrols guard the riverbanks from luz's 
+incursions, 
+
+"For your heroic service to Greatwall, I 
+will award you each 1,000 gold pieces upon 
+your return." He claps his hands again and 
+the sergeant re-enters with several sacks, 
+each containing 250 gp. "This additional 
+payment should be enough to cover what 
+ever expenses you might have before you 
+leave," He pauses again and looks at each of 
+you confidently. "Well, my friends . . . what 
+do you say?" 
+
+
+The sergeant escorts you, under guard, 
+into the main hall of Greatwall Keep itself, a 
+giant pillared room containing a massive, 
+wall-length hearth. A raging fire warms the 
+barren marble walls and floor, and illumi 
+nates a long and wide oaken table covered 
+with parchment and maps* 
+
+After about 10 minutes the guards snap 
+to attention as double doors at the end of 
+the hall swing open. In strides Gillmore, 
+}f the Greatwall guard, a well-built 
+man with a war-hardened face but a manner 
+more cordial than the sergeant who escorted 
+
+I must apologize for the manner in 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Qreatwall 
+
+
+Gillmore refuses to haggle over the price, 
+and seems offended at the very notion of per 
+sonal greed outweighing the need to save Great- 
+wall from luz. Should the PCs refuse the offer, 
+Gillmore jails them for treason and eventually 
+executes them unless they relent. Should they 
+agree, he concludes their business: 
+
+
+" Sergeant Krayquer here will brief you on 
+the mission. The merchant Malin, and two 
+trader comrades, shall meet you at the 
+citadel gates at dawn tomorrow. You may 
+meet them tonight at The Behir and 
+Beholder, if you wish." 
+
+
+Gillmore then departs, leaving Krayquer to 
+inform the party about the specifics of their 
+mission. Unknown to Gillmore, however, Kray 
+quer is secretly an agent who has sold his loy 
+alty to the forces of luz. In fact, Krayquer 
+picked the party members for this mission 
+specifically because he knew of their inexperi 
+ence and expects they will not survive to tell of 
+his treachery. 
+
+To guarantee that they do not, however, 
+Krayquer briefs the PCs with false information. 
+
+
+lie does not tell the party anything glaringly 
+untrue, but he does distort and mislead enough 
+to put the party in jeopardy. He gives incorrect 
+travel times between border posts, inappropri 
+ate terrain information and inaccurate descrip 
+tions of orcish raiding tactics. 
+
+He remains characteristically rude and unsa 
+vory during the briefing; this should (hopefully) 
+cement the information in players' minds 
+enough that they remember who told it to them 
+when things start going wrong. 
+
+Most importantly, however, Krayquer 
+instructs the PCs to kill any lizardmen on 
+sight. Krayquer knows of Jetero's secret con 
+tact in the woods, and that the lizardman has 
+nearly stumbled across his true allegiance sev 
+eral times. He suspects Jetero may attempt to 
+contact the lizardman along the way, and 
+doesn't want the PCs to make any connections 
+between what the lizardman says and his own 
+behavior. 
+
+If the PCs ask for an explanation, Krayquer 
+tells them luz uses lizardmen as spies who 
+travel unhindered beneath the waters of the 
+Veng. In reality, this isn't true; there are hardly 
+any lizardmen in the area at all. 
+
+Krayquer does give the PGs an accurate map 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jasmalus, 5tli-level Wizard: Str 8, Dex 12, Con 
+10, Int 18, Wis 12, Cha 14; hp 16; AC 10; 
+THACO 19; Dmg spells or by weapon (dagger); 
+AL NG. 
+
+Spells: magic missile , shield , sleep, stinking 
+cloud t web, fireball. 
+
+
+Jasmalus, a human in his mid-50s, stands a 
+full 6 ? 1" but weighs only 155 pounds, giving 
+him a frail and tired look. His solid white hair 
+tapers into a nicely-trimmed beard and mus 
+tache, but his clothing suggests a ragged beg 
+gar more than it does a well-groomed 
+merchant. This inconsistent appearance pro 
+vides a clue that Jasmalus is not what he 
+seems-in fact, he is not Jasmalus at all. He is 
+Jetero, Jasmalus's twin brother, who works as 
+a secret agent for the count. Jetero frequently 
+poses as his merchant brother to travel to dif 
+ferent areas without suspicion, as he plans to 
+do now. 
+
+Jetero (as Jasmalus) must guarantee the 
+safety of the gold, and collect intelligence on 
+luzian troop movements in an effort to deter 
+mine when Iuz will strike. Jakarta! suspects 
+that luz's border raids conceal a much larger 
+hidden agenda, and it is Jetero's task to uncover 
+it. 
+
+Neither Malin nor Emerald have had much 
+contact with Jasmalus over the years, so do not 
+suspect the ruse. 
+
+The PCs have the opportunity to discuss the 
+journey with the merchants, including any spe 
+cial preparations they might have to make. The 
+merchants will suggest the PCs use the gold 
+they received from Gillmore to buy horses, 
+even though the caravan travels slowly; the PCs 
+can command more of a deterrent presence 
+from horseback, and can deal with crisis more 
+effectively on horseback than if they rode up on 
+the wagons. 
+
+None of the merchants will engage in combat 
+unless absolutely necessary; they are poorly 
+armed and armored, and after all, that's why 
+Gillmore hired the PCs onto the journey. When 
+combat strikes, they will help the teamsters 
+control the horses, put out any wagon fires 
+started by flaming arrows (a favorite tactic of 
+the ores), and generally take cover inside, 
+under, or behind the wagons. 
+
+The ores, meanwhile, make little effort to 
+
+
+of their route. Show players the color map on 
+the outside gatefold of the module, and allow 
+them to reference it during the adventure. 
+
+
+Malm, 3rd-level Fighter: Str 13, Dex 10, Con 
+14, Int 12, Wis 15, Cha 16; hp 20; AC 10; 
+Til AGO 18; Dmg by weapon (dagger); AL LN. 
+
+Malin, a boisterous middle-aged man, stands 
+5'9" and weighs about 50 pounds more than he 
+should. His full brown beard and mustache 
+frame a fun-loving face, but grey has begun to 
+streak his chestnut-brown hair. Similarly, a 
+grumpy demeanor now occasionally colors his 
+regular exuberance, usually when he drinks too 
+much (like now). Once the dealmaking begins, 
+however, both grumpiness and exuberance van 
+ish, and Malin turns into as cutthroat a mer 
+chant as they come. 
+
+
+Emerald, 3rd4evel Thief: Str 8, Dex 15, Con 
+11, Int 17, Wis 14, Cha 18; hp 16; AC 10; 
+THACO 19; Dmg by weapon (dagger); AL CG. 
+Thief Abilities: PP 50%, OL 35%, F/RT 30%, MS 
+25%, HS 25%, HN 15%, CW 85%. 
+
+
+Emerald, a beautiful, poised, half-elven 
+female, stands only 5 r and weighs a mere 90 
+pounds. Her flowing, sandy-brown hair offsets 
+her piercing green eyes, and at only 24 years 
+old, she holds an unusual position of statute in 
+her community. She uses both her beauty and 
+her age to skillfully disarm her negotiating 
+opponents. She has traveled extensively with 
+Malin, who has become a bit of a father figure 
+to her. He tutors her in the art of dealmak 
+ing, and she keeps him from turning into a 
+grump. 
+
+
+fjreatwall 
+
+
+Contacting the Merchants 
+
+
+After meeting with Krayquer, players can 
+find the trio of merchants-Malin, Emerald, 
+and Jasmalus-at The Behir and Beholder. 
+The PCs recognize them as having entered the 
+bar for dinner shortly before the sergeant and 
+his men appeared. Malin and Emerald now 
+drink together at a table, while Jasmalus sits 
+in a corner booth by himself having a quiet 
+cup of tea. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+I 
+
+
+I 
+
+
+
+CjreatwaLL 
+
+
+attack the merchants; they're not entirely stu 
+pid, and know that the caravan guards pose the 
+true hazard. Once the guards are gone, the 
+teamsters and the weakling merchants become 
+easy pickings. 
+
+If the party appears in jeopardy, Jetero may 
+casts spells to aid them, but he will keep his 
+efforts concealed-perhaps casting from behind 
+a wagon, or when the PCs are too occupied by 
+combat to notice, Jasmalus is not known to 
+have any magical ability, and Jetero does not 
+want to raise any suspicions from Malin or 
+Emerald. 
+
+Occasionally on the trail, party members 
+may see Jasmalus making notes in a small 
+book, particularly when the trail winds near the 
+river. These notes are for Jakartai, constituting 
+Jetero's records of Iuzian troop movements and 
+similar observations, Jetero guards this book 
+closely, and would prefer to keep its existence 
+hidden entirely. Nevertheless, he recognizes 
+the impossibility of doing that when traveling 
+so closely with so many people for so long. 
+
+
+If any question him on it, he describes it as 
+his "personal diary" and asks that the inquisi 
+tive person respect his privacy. He will feign 
+offense at any further attempts to discover the 
+journal's contents. 
+
+He has also protected the book with two 
+magic mouth spells-one that shouts "Alarm!" 
+when the book is picked up by anyone other 
+than Jetero, and one that shouts "Alarm!" 
+when someone other than him opens it. 
+
+
+i 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mmbusfi! 
+
+
+Three wagons arrive at the citadel gates at 
+dawn. Each carries a teamster (driver) and one 
+of the merchants. The teamsters, rough-looking 
+men, appear as if they pulled their wagons 
+themselves rather than drove them. 
+
+Heavy tarps cover the wagon crates. The 
+merchants tell inquisitive characters the crates 
+contain general supplies, but they hold some 
+thing far more important: GreatwalTs collected 
+treasury of nearly 50,000 gp in gold and silver 
+bars, along with important government docu 
+ments about the citadel. The wagons do carry 
+some supplies, mostly to cover the more impor 
+tant shipment, and which the merchants will 
+sell along the way. 
+
+Disuse has allowed the early part of the old 
+trail to become overgrown recently, but deeply- 
+cut ruts, from the commerce that once flour 
+ished along the route, still mark it well enough. 
+Flat, open grassland dominates the first part of 
+the trail until the road winds eastward to follow 
+the Veng River. 
+
+
+Encounters on the Trail 
+
+
+The trail is a dangerous place; friendly 
+encounters are few and far between. Random 
+encounters are optional (particularly for a 
+beginning party). Dungeon Masters who want to 
+give their parties an extra challenge can check 
+for encounters as per page 101 of the 
+DUNGEON MASTER(tm) Guide (about one 
+encounter every three or four days). Use the 
+encounter tables in the From the Ashes boxed 
+set during the daytime, and use the following 
+table for nighttime encounters. 
+
+
+Id8 Roll Encounter 
+
+1 Wolves 
+
+2-3 Ore Raiding Party 
+
+4 Bandit Raiding Party 
+
+5 Goblins 
+
+6 Giant Badger 
+
+7 Fire Beetles 
+
+8 Destroyed Wagon 
+
+
+Wolves (1-6): These beasts attack only if they 
+
+Int Semi; AL N; AG 7; 
+THACG 19; #AT 1; Dmg 
+!; ML Avg (10); XP 65, 
+
+
+8 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+I 
+
+* 
+
+
+
+When the party nears the wagons, read the 
+following boxed text. 
+
+
+fXmhusfil 
+
+
+Once the cavalrymen depart, the DM should 
+convey a sense of vulnerability to the players; 
+the PCs now stand alone against the raiding ore 
+and hobgoblin hordes. Despite such tension, 
+the caravan reaches Mors ten without incident 
+(unless the DM chooses to roll for random 
+encounters) ? 
+
+Characters will have little chance to explore 
+Mors ten; they arrive in the evening and 
+be ready to leave again at first light. 
+
+
+Ore Raiding Party: The ores are on their way to 
+a raid (2d4+8 ores if before midnight) or on 
+their way back from a raid (ld6+5 ores if after 
+midnight). Ores: Int Avg; AL LE; AC 6; MV 9; 
+HD 1; hp 6; THACO 19; #AT 1; Dmg by weapon; 
+SA Nil; SD Nil; SZ M; ML Steady (12); XP 15, All 
+ore raiders carry a short bow. In addition, 50% 
+carry an axe and 50% carry a broad sword. 
+
+Bandit Raiding Party: The bandits are on their 
+way to a raid (ld6 + 6 bandits if before mid 
+night) or on their way back (ldS+4 bandits if 
+after midnight). Bandits: lnt Avg; AL CE; AC 7; 
+MV 9; HD 1; hp 5; THACO 20; Dmg by weapon; 
+SA Nil; SD Nil; SZ M; ML Avg (10); XP 15. All 
+bandits carry short bows and short swords. 
+
+
+Goblins ( 1 - 10 ): Goblins who have long plagued 
+the Veng River valley spot the caravan at it 
+travels along the riverbank. Goblins: hit Low; 
+AL LE; AC 6; MV 6; HD 1-1; hp 4; THACO 20; 
+#AT 1; Dmg by weapon; SA Nil; SD Nil; SZ 3; 
+ML Avg (10); XP 15, All goblins carry axes. 
+
+
+Giant Badgers (1-3): lnt Semi; AL N; AC 4; MV 
+6; HD 3; hp 14; THACO 17; #AT 3; Dmg 1-3/1- 
+3/1-6; SA Nil; SD Nil; SZ M ML Avg (8); XP 65. 
+
+
+Fire Beetles (3-12); Int Non; AL N; AC 4; MV 
+12; HD 1+2; hp 6; THACO 19; #AT 1; Dmg 2-8; 
+SA Nil; S13 Nil; SZ S; ML Steady (12); XP 35. 
+
+
+Destroyed Wagon: The PCs come upon the 
+charred remains of a cart and several ravaged 
+bodies. From the look of the corpses, it appears 
+that the attack took place only about a day ago. 
+The small farming family ventured onto the 
+trail to flee the increasing number of raids near 
+their town along the Iuzian border when a band 
+of hobgoblins fell upon them. 
+
+
+The Trip to Fort Belvor 
+
+
+Unease builds during the second leg of the 
+journey as the caravan begins to skirt the Veng 
+River, the only barrier that separates Furyondy 
+from several thousand bloodthirsty Iuzian 
+troops. The leg takes eight days, and 
+beginning of the last day both the teamsters 
+merchants have grown significantly nervous. 
+The teamsters push the wagons as fast as they 
+dare go, but they eventually push too much, and 
+a wagon throws a wheel in the late morning. 
+
+This takes more than four hours to fix, and 
+sets the caravan back considerably; Malm had 
+hoped to reach Fort Belvor by nightfall* Now 
+the caravan must either travel in darkness-far 
+too dangerous in this area-or find a safe 
+to camp. Still, Malm insists on pressing the car- 
+avail for as far as it can go before bedding down 
+for the night. 
+
+As they press on, reading the following. 
+
+
+The Trip to Morsten 
+
+
+The teamsters press the wagons at the fastest 
+possible, speed--about 15 miles a day-so the 
+merchants expect the journey to take a little 
+more than a month. The trip to Morsten should 
+take about six days. An escort of 10 Greatwall 
+cavalrymen accompanies the party for the first 
+half of the first day, but then turns back toward 
+the citadel, leaving the caravan on its own* 
+
+
+Tensions run high as dusk begins to fall, 
+and you plainly see fires burning in the dis 
+tance on Iuzian side of the riven Then you 
+slowly realize that one of the fires isn't from 
+across the river at all, but on the winding 
+trail up ahead. When the trail straightens 
+out, the source of the fire comes into view: a 
+burning wagon, on its side in the middle of 
+the road, part of an ambushed three-wagon 
+train. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+tXmbusfi! 
+
+
+
+You see that the middle of three wagons 
+lays overturned and virtually demolished on 
+the road. To the right lies the charred 
+wagon, still smoldering. To the left stands a 
+third wagon, apparently undamaged but 
+awash with blood. Large spots of blood also 
+dot the surrounding area, but you see no 
+signs of bodies anywhere. Cargo from the 
+three wagons lies ransacked arid scattered 
+across the roadway, but little appears taken. 
+You also note numerous crudely-fletched 
+arrows lying among the cargo, several 
+charred near their arrowheads. 
+
+
+simply read this to them as they poke through 
+the wreckage.) 
+
+
+Characters who scan the surrounding area 
+note several small copses of trees set apart from 
+the woodland beyond; in one of them they can 
+find the nine bodies of the caravan members 
+who died in the raid. 
+
+One of the bodies will provide some surprise: 
+It is Jasmalus, Jetero's twin, killed by a dagger 
+thrust in the back. Thieves immediately recog 
+nize the dagger as the mark of the Scarlet 
+Brotherhood, and easily note the poison com 
+partment concealed in the hilt-now empty. 
+
+The discovery shocks and upsets Jetero, but 
+he does not reveal his ruse; continuing to call 
+himself Jasmalus, Jetero gives his brother his 
+own name and describes him as a merchant 
+who also frequented this area. (The module, to 
+emphasize his double-role, will continue to 
+refer to the PCs' traveling companion as 
+"Jetero", but the DM should remember to call 
+him "Jasmalus" when speaking of him to the 
+players.) 
+
+The pretense is a difficult one for Jetero, but 
+he resolves to grieve privately later. As an agent 
+for Jakarta!, he long ago steeled himself to the 
+sorrows of war, and recognizes that the needs of 
+Furyondy supersede his own personal pain. 
+
+Still, he insists that the caravan's members 
+receive a proper burial, which will take several 
+hours. Malin appears reluctant but agrees, 
+resolving to spend the time sifting through the 
+caravan's cargo for anything of measurable 
+worth. 
+
+As the PCs begin to dig the graves, read to 
+them the following boxed text. (The PGs may 
+decide not to look for bodies; if that occurs, 
+
+
+You suddenly hear a loud "snap" come 
+from the woods nearby. Looking up, you see 
+an ore, spying oil you, appearing alarmed at 
+having mode such a noise. In a fit of panic, he 
+turns to run, and disappears into the woods. 
+
+
+This is a ploy intended to lure characters 
+away from the caravan. An ore raiding party 
+waits in ambush, with orders to kill Jetero. The 
+ores had originally attacked Jasmalus's caravan, 
+mistaking him for Jetero, who was delayed by 
+the thrown wheel. It was mere coincidence that 
+Jasmalus, an area merchant, carried a shipment 
+from Belvor to Mors ten at the same time that 
+Jetero traveled in the opposite direction. 
+
+The ores soon realized their mistake when 
+they could not locate the special government 
+documents Jetero's caravan carries. They now 
+lie in wait, the woodlands in the area nearby 
+trapped to capture and kill anyone going into 
+them. 
+
+Anyone following the ore on horseback has a 
+75% chance per round of tripping one of the 
+traps. Anyone pursuing on foot has a 50% chance 
+per round of tripping a trap. The area is infested 
+with these traps; anyone moving even a few feet 
+has a chance of stumbling across a new one. 
+
+The decoy ore, of course, knows where the 
+traps are laid, and tries to draw pursuers 
+directly into them; anyone on the verge of 
+reaching him has a 10% higher chance of trip 
+ping a trap that round. The DM can either pick 
+the trap or roll for it randomly (ld3): 
+
+Pit Trap: The ores have dug these 10-foot 
+wide, 5-foot-deep trenches to lame any horse 
+falling into them, Each pit also contains a bed 
+of sharpened spikes. Horses tumbling in suffer 
+Jd6+2 damage and have a 75% chance of falling 
+lame. Those on horseback must make a Riding 
+proficiency check or be thrown to the pit floor, 
+and those without the proficiency must make a 
+Dexterity check at -8. Those failing suffer 
+ld3 + l (horses, being larger, suffer more dam 
+age from the spikes). 
+
+Those simply walking across a pit trigger it 
+only 50% of the time, since the ores designed 
+them to collapse under a horse's weight. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+I 
+
+
+Net Trap: These nets xSpring up from under 
+neath a carpet of leaves whenever a hoof or foot 
+snags a tripwire. The nets usually catch only the 
+front end of the horse, causing it to rear up and 
+possibly throw the rider (the nets cannot actu 
+ally entrap an entire horse). Characters with the 
+Riding proficiency can control their horses on a 
+successful check, while those without the profi 
+ciency must make a Dexterity check at -8. Those 
+failing the check are thrown; those succeeding 
+remain mounted but must spend the next round 
+allowing the horse to regain its footing. Thrown 
+riders suffer ld6 falling damage. 
+
+Individuals on foot may be caught by a net 
+trap if they fail to make a Dexterity check at -4; 
+it takes three rounds to escape a net, during 
+which time attackers gain a -h4 to hit. 
+
+Log Traps: A log tied back and suspended 
+high enough so that when the horse triggers the 
+trap, the log swings down and hits the rider full 
+force. Victims suffer IdlO damage and must 
+make a Strength check at (MS) 10 to remain 
+mounted (falling inflicts ld4 damage). This trap 
+has no effect on unmounted characters; the 
+logs swing over their heads. 
+
+Once the traps have sprung, the ores attack. 
+Ore Group One leaps out of the woods in front 
+of the caravan and opens fire with shortbow, 
+using flaming arrows to set the wagons ablaze. 
+This slows their rate of fire to 1/round, but the 
+arrows inflict an extra point of damage against 
+people (ld6-tl) or force target objects to save 
+against fire (wagons are thick wood against nor 
+mal fire). Once all the wagons are ablaze, the 
+archers turn their attention to the party. A 
+wagon, once ablaze, becomes completely awash 
+in flames in ld4 rounds unless someone 
+attempts to control the fire (the merchants and 
+teamsters can do this automatically, though it 
+takes them ld6 rounds to put the fire out com 
+pletely). 
+
+Ore Group One (4): hit Avg; AL LE; AC 6; MV 
+9; HD 1; hp 6; THACO 19; #AT 1; Dmg by 
+weapon; SA Nil; SD Nil; SZ M; ML Steady (12); 
+XP 15. All wield short bows and hand axes. 
+
+One round after the archers launch their 
+first volley, Ore Groups Two and Three crash 
+onto the trail from the woods behind the cara 
+van. One group attacks from each side to cut off 
+retreat. The ores first attack any PCs who did 
+
+
+fXmhusfil 
+
+not pursue the lone ore into the woods; if all 
+PCs followed the ore, then both ambush groups 
+converge on Jetero. 
+
+Ore Groups Two & Three (4 each): Int Avg; AL 
+LE; AC 6; MV 9; HD 1; hp 6; THACO 19; #AT 1; 
+Dmg by weapon; SA Nil; SD Nil; SZ M; ML 
+Steady (12); XP 15. All wield broadswords. 
+
+The ores fight until their morale fails, then 
+flee through the trapped area of the woods. 
+
+The possibility exists, of course, that the PCs 
+do not attempt to pursue the lone ore. If this 
+occurs, the ores simply launch their ambush 
+attack but receive a -2 penalty to their morale 
+scores. 
+
+If the PCs capture any ores alive they may 
+interrogate them, but must speak orcish. The 
+ores will spout for a few minutes in racial pride 
+and false bravado, but they're just ambush 
+troops and not really courageous at all. After a 
+few minutes of threats from the PGs, the ores 
+will break down and beg for mercy, telling the 
+party all it wishes to know. They tell of orders 
+to attack a three-wagon caravan that was to 
+have passed by a few hours earlier, with a mer 
+chant resembling Jetero. When the caravan 
+they attacked did not have the proper govern 
+ment documents ("writin's;" the ores say), they 
+realized they had ambushed the wrong caravan 
+and set up for another attack. They do not 
+know who issued the order to attack, only that 
+an orog commander relayed it to them. 
+
+If questioned about the dagger, they say that 
+a human brought it to their orog leader several 
+days earlier (Sergeant Krayquer, actually). If 
+pressed for a description of the human, the ores 
+simply shrug and say that all humans look the 
+same. 
+
+The ores can also tell of the local raids, and a 
+bit about their nearby forces, but know nothing 
+of the secret base inside Fury on dy. 
+
+The party can set off at daybreak and reach 
+Fort Reiver well before noon. Five cavalrymen 
+from the fort meet the caravan five miles out 
+side the fort and escort it in. 
+
+Fort Belvor 
+
+Read the following to the players. 
+
+
+
+
+
+
+
+
+
+
+tZmbusfi! 
+
+
+
+
+
+
+As you approach the fort, you see it sits 
+directly across the Veng River from the 
+Horned Society capital of Molag, now under 
+luzian control- Tt is an old fort, with an 
+intact but deteriorating 3 O'-high curtain 
+wall surrounding the main compound. Two 
+towers on the curtain wall side face the 
+Veng River, while a massive gatehouse faces 
+the west. 
+
+You pass through an abandoned village 
+outside the stronghold; the people still 
+come here during the day to tend the fields 
+and graze their livestock, but all have left 
+the village for the safety of the fort. Many of 
+the buildings stand burned or battered: 
+damaged by the war, assaulted by raiders, or 
+cannibalized for their resources. 
+
+The cavalrymen escort you toward the 
+massive pair of banded wooden gates, 
+guarded by four halberdmen standing duty 
+outside. With the approach of the wagons, 
+the massive doors swing wide, and the cara- 
+van enters the fort itself. 
+
+
+Malm and Emerald set up shop almost imme 
+diately and begin to sell things to the citizenry. 
+Jetero helps with setup but later disappears, to 
+meet with his contact in Belvor. If questioned 
+later on his disappearance, he simply says he 
+went to visit an old friend, to tell him of his 
+brother "JeteroV death. In actuality, he met 
+with Mi kin us, head of the Belvor guard, to tell 
+him of the ambush on the road. He has deduced 
+that Greatwall must have a traitor in its midst, 
+since the ambushing ores knew of his presence. 
+
+As the PCs wander around the fort, read the 
+following. 
+
+
+Looking about the fort, you notice the 
+fort's garrison stands somewhat depleted 
+when compared to the troop presence in 
+Greatwall. Judging by the size of the fort, it 
+should hold more than 250 men, but has 
+only about half of that. You're also unable 
+to miss the signs of flame arrow attacks, 
+and the numerous water buckets strategi 
+cally positioned in anticipation of the next 
+attack. 
+
+
+'is) dJxtJMsur^ mjy Yj ,r 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SXmbusfi! 
+
+
+As you wander about, the inhabitants 
+of the fort recognize you as outsiders and del 
+uge you with questions of the outside world, it 
+becomes clear that they have little opportu 
+nity to stray far from the safety of the fort, and 
+that, at least for them, the war is still very real 
+
+
+The DM should roleplay with the players, as 
+locals bombard them with questions about this 
+hamlet and that hamlet, which ones survived 
+the war, and have they seen their 
+sister/brother/cousin from village so-and-so. A 
+bard will become especially popular here. 
+When the PCs have had enough of this, allow 
+them to explore the fort and resupply them 
+selves with anything they might need for the 
+next leg of the journey. 
+
+General supplies are limited (200% of PH 
+listed price, and nothing too unusual), but the 
+PCs can barter down to normal prices in 
+exchange for adequate news of the outside 
+world. The fort guard can replace arms and 
+armor (within reasonable limits) for free, and 
+clerics will also freely heal injured party mem 
+bers. Residents of the fort still consider this 
+wartime, and pitch in however they can. 
+
+The captain of the guard, Mikinus, meets the 
+PCs after they return to the caravan and offers 
+them drinks and dinner. He expresses his grati 
+tude for the supplies they have delivered and 
+says that he wants to discuss the orcish attacks 
+they've seen on the trail. 
+
+In actuality, however, he seeks to test if any 
+in the caravan have betrayed Furyondy, con 
+cerned about the information that Jetero has 
+passed to him. Read his opening discussion to 
+the players. 
+
+
+"Ores seem to have some kind of plan to 
+keep us pinned here, and they do a fine job 
+of it. They're also not alone-we've seen 
+more and more human bandit raids, proba 
+bly from the former Bandit Kingdoms. It's 
+strange, too, that we've seen so many ores- 
+this area used to be attacked mostly by hob 
+goblins, so I suppose that means luz is 
+moving his troops. They tell us the war is 
+over, but it sure doesn't seem that way from 
+here," 
+
+
+If the PCs talk at length with Mikinus about 
+the area-which he is happy to do, to pump 
+them for information-they can get more accu 
+rate Information about travel times, terrain, 
+and enemy tactics. The DM can use Mikinus to 
+contradict Sergeant Krayquer's information, 
+and thus give players more of a fighting chance 
+out on the trail, 
+
+Mikinus knows nothing of Krayquer, and if 
+asked about the difference in information, he 
+laughs and says, "That's what you get for listening 
+to a backfield sergeant who won't come close to 
+the fighting." He has trouble doubting the word of 
+a Furyondian soldier, however; more likely, he 
+secretly suspects the PCs have deliberately dis 
+torted the information for the merchants. 
+
+If asked about Itzardmen, Mikinus shakes his 
+head and says that he hasn't heard about any 
+sightings in the area at all. 
+
+After the PCs have retired, at around mid 
+night, read the following to the players. 
+
+
+What you hoped would be a quiet night 
+off the trail becomes a flurry of shouts and 
+the sounds of running guardsmen. As you 
+wake, you hear the sound of a fiery catapult 
+shot soar above the Veng river and crash 
+down in a loud explosion near the base of 
+the fort. The walls shudder from the impact, 
+and patches of plaster and dust fall from the 
+ceiling. You race to the window to see the 
+fiery shot tumble down into the river, which 
+extinguishes it in a sizzling hiss. 
+
+You note with relief that the shot failed to 
+breach the fort's wall, just in time to see 
+another fiery ball come hurtling over the 
+river. This one crests the wall and lands 
+inside the fortress courtyard, destroying a 
+small building and setting part of the wall 
+ablaze. Guardsmen race with buckets to 
+extinguish the flames, while others run to 
+man their posts and fortify the stronghold's 
+defenses. 
+
+
+Though this appears to be an emergency for 
+the fort, this actually occurs almost every 
+night, and the soldiers spend the large part of 
+the next day fixing the damage from the night 
+before, luz may one day launch a full-scale 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Stmbusfi! 
+
+
+intends only to keep the forces inside depleted 
+and occupied, while he foments other plans. 
+
+The attack continues for about an hour, with 
+another catapult shot coming every Id 10 
+rounds. None manage to damage the fortress 
+significantly, though the attack does keep the 
+stronghold's forces occupied. 
+
+During this attack, the PCs can discover 
+Jetero consulting with Mikinus in a corner near 
+the fort's walk The pair had hoped to meet in 
+secret, but now have been interrupted by the 
+ore attack. As a catapult shot sails overhead, 
+the flames illuminate the courtyard and the 
+PCs catch a glimpse of Jetero and Mikinus in a 
+heated exchange. 
+
+It is unlikely that PCs will be able to reach 
+the two before they part ways and disappear 
+into the fort, but if they do, they catch only bits 
+of a conversation drowned out by the chaos in 
+the fort. They hear Mikinus attempt to con 
+vince Jetero that the PCs are untrustworthy, 
+his suspicions fueled by the inaccurate infor 
+
+
+mation they spoke to him about, while Jetero 
+refuses, convinced of the PCs' loyalty by their 
+bravery in fighting on the trail. 
+
+If the PCs later question Jetero about the 
+meeting, he denies it, suggesting that they mis 
+took someone else for him during the tumult of 
+the attack. If the PCs actually catch the pair in 
+the act, Mikinus orders the pair back to their 
+rooms and Jetero explains that he only sought 
+the captain's attention to get a guard posted by 
+the wagon cargo. He denies that the conversa 
+tion related to the PCs, claiming that they must 
+have heard incorrectly among the din. 
+
+Characters might wish to help the soldiers 
+cope with the attack-putting out flames, tend 
+ing to the injured, or standing watch against an 
+ore raid. If they do, Mikinus J s opinion of them 
+changes considerably, and he outfits all of them 
+with fresh steel before their departure in the 
+morning. 
+
+At daybreak, the merchants cheek their 
+cargo (undamaged) and head out for Batlet. 
+
+
+y 
+
+
+14 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+I 
+
+
+
+( Tort 'Disaster 
+
+
+The trail turns southwest, with terrain of 
+rolling hills and small patches of trees. The trip 
+to Batlet takes eight days, and Mai in orders the 
+caravan to bypass Fendrelan to make up for 
+lost time. The DM can roll for encounters nor- 
+mally, or, if the PCs have fared well up to this 
+point, might insert the optional encounter 
+listed below. The attack occurs just after the 
+party has descended one hill into a small valley 
+and begins to climb another hill. 
+
+
+The Ambush 
+
+
+Three groups of ores, along with their lead 
+ers, have strategically positioned themselves in 
+the area. One group hides on the trail ahead, 
+just over the crest of the oncoming hill. Another 
+hides behind the hill the party has just 
+descended, having quietly allowed it to pass. A 
+third lurks in "turtled" positions along the trail, 
+ready to attack (a turtled position is one in 
+which an individual is buried with only a small 
+breathing tube to the surface). 
+
+The caravan spots ambush group #1 as it 
+appears on the crest of the hill in front of the 
+wagons. The ores rain flaming arrows down on 
+the caravan, with +1 to attack rolls because of 
+higher ground. After a round of arrow fire, 
+ambush group #2 appears on the hill behind 
+the caravan and charges downhill to attack (+2 
+to hit when they reach the caravan at the end 
+of the round). Ambush group #3 leaps up from 
+turtled positions at the beginning of round 3. 
+The archers in group #1 then cease their fire 
+and rush in to attack. 
+
+Ambush group #1 consists of the following: 
+Ores (4): Int Avg; AL LE; AC 6; MV 9; HD 1; hp 
+6; THACO 19; #AT 1; Ding by weapon; SA Nil; 
+SD Nil; SZ M; ML Steady (12); XP 15. All wield 
+shortbows and spears. 
+
+
+Orog (1): Int High; AL LE; AG 4; MV 6; HD 3; 
+hp 15; THACO 17; #AT 1; Dmg by weapon 
+(broad sword); SA +1 to damage; SD Nil; SZ M; 
+ML Elite (14); XP 65. 
+
+Ambush group #2 consists of the following: 
+Ores (4): Int Avg; AL LE; AC 6; MV 9; HD 1; hp 
+6; THACO 19; #AT 1; Dmg by weapon; SA Nil; 
+SD Nil; SZ M; ML Steady (12); XP 15. All wield 
+broadswords. 
+
+
+Orog (1): Int High; AL LE; AC 4; MV 6; TID 3 
+hp 15; THACO 17; #AT 1; Dmg by weapon 
+(broad sword); SA +1 to damage; SD Nil; SZ M; 
+ML Elite (14); XP 65. 
+
+
+Ambush group #3 consists of the following: 
+Ores (6): Int Avg; AL LE; AC 6; MV 9; IiD 1; 
+
+6; THACO 19; #AT 1; Dmg by weapon; SA Nil; 
+SD Nil; SZ M; ML Steady (12); XP 15. All wield 
+broadswords. 
+
+
+This is a simple ore border raid; they know 
+nothing of the caravan's contents, of Jetero, or 
+of the secret Iuzian base within Furyondy. 
+
+
+Fort Disaster 
+
+The caravan will stop in Fendrelan only 
+absolutely necessary; otherwise, it will head 
+straight on to Batlet, Read the following boxed 
+text to the players as the PCs approach, infor 
+mation which they see for themselves, or have 
+gained through conversations with Mikinus at 
+Fort Belvor or the merchants and teamsters on 
+the trail. 
+
+
+The village of Batlet consists of several 
+dozen small hovels scattered about sur 
+rounding a dilapidated fort, A small hamlet 
+of only 100 people, Batlet contains of mostly 
+farmers and fishermen, whose sole source 
+of protection is Border Post Three. The 
+locals, however, have a different name for it: 
+Fort Disaster. 
+
+Unlike Port Belvor-which officials con 
+structed to stand against The Horned Soci 
+ety capita! of Molag-the border posts were 
+only intended to staff a small garrison for 
+local defense and provide stopping-off 
+points for merchants traveling the Grab- 
+ford-Critwall-Willip trail. As such, officials 
+didn't give the posts names, and had to hap 
+hazardly convert them into military forts 
+when the war began. 
+
+Border Post Three is one such fort, and 
+leaves a great deal to be desired. It suffered 
+heavy damage during the war and has not 
+yet been repaired. The post's defenses con 
+sist of a 30Miigh tower, which has numer 
+ous chips and nicks covering its outside 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+r T ort r Disaster 
+
+
+
+wall Still, it shows no signs of obvious pene 
+tration points-yet. The fort's battlement 
+did not fare nearly as welL About half of it 
+now litters the ground around the tower. 
+You feel a sense of desperation about your 
+mission as you approach the ragged-looking 
+fort: If this is the best protection that Fury- 
+ondy can provide merchants along this 
+trade route, commerce has hit a new low 
+indeed. 
+
+
+Bloody Axe Inn 
+
+One square = 10 yards 
+
+
+Second Floor 
+
+
+Allow the players a few moments to react to 
+the scene, and perhaps have PCs talk to a few of 
+the villagers (who find it relatively funny that 
+they he planning on re-establishing a trade 
+route here). Then read them the following 
+boxed text. 
+
+
+First Floor 
+
+
+Three wide, well-worn stairs lead up to a 
+large, reinforced door which would bar the 
+entrance to the tower, though it now hangs 
+open and unguarded. As you enter, you see 
+a barren, filthy tower interior that appears 
+as If it hasn't been cleaned or straightened 
+in months. This is just one symptom of the 
+breakdown of morale and discipline among 
+the troops defending the border post. 
+
+Next to the tower stands the ruins of a 
+fortified stone house, with the second story 
+collapsed onto the first. The fort appears 
+capable of 65 men or so, but right now there 
+couldn't be more than 40 or so manning the 
+defenses. Somehow, despite it all, the fort 
+has managed to hold off the orcish offenses 
+and continue to make its stand. 
+
+
+tens). The DM should try to avoid running a 
+full-scale combat with the full roster of guards 
+and attackers; this would be far too cumber 
+some for most DMs. Better to pick a few of the 
+attacking creatures in relation to the PCs' abil 
+ity, and let the guards take care of the rest. Per 
+haps the PCs might take on a mix of ores and 
+orcish leaders, or perhaps they might all gang 
+up on the attacking force's ogre. Perhaps they 
+might join in with a contingent of guards in 
+fending off some of the bandits. The DM should 
+use his best discretion in determining what 
+kind of fight the PCs are capable of and the 
+players are interested in. 
+
+The attackers strike about an hour after mid 
+night, with three groups of 10 humanoids each 
+firing flaming arrows at the garrison as they row 
+across the Veng. Once reaching the shores, 
+they will launch a full-scale attack. Bandit 
+forces, meanwhile, wait just outside the tower, 
+ready to attack anyone who attempts to flee. 
+
+Humanoids fighting in this battle receive a -4 
+bonus to their morale rolls-Iuz has grown 
+impatient with the war band's failure to take 
+down such a decrepit fort, and has ordered 
+
+
+Despite the fort's decrepit condition, Malin 
+insists on stopping at the border post overnight, 
+since the only other alternative would be to 
+spend the night on the road. This proves to be 
+an unfortunate decision for the party, since 
+Iuz's forces decide to mount another offensive 
+that very night to break the fortress once and 
+for all. 
+
+The DM can simply describe the attack in 
+summary to the players, or allow the PCs to 
+engage in the fighting if they feel up to it 
+(remember, though, they're low-level charac- 
+
+
+rh H | 
+
+|1 J 
+
+1 1 j \ 
+
+
+Lj 
+
+-I 
+
+
+jar 
+
+Tal 
+
+bles 
+
+
+
+n n n r 
+
+LdJ 
+
+vj- 
+
+ZL 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+'Toil c Disaster 
+
+
+them to return victorious or not return at all, 
+TJhe DM should create the atmosphere for 
+the players of desperate battle anarchy during 
+the attack-this may indeed be Fort Disaster's 
+last stand! 
+
+
+Ores (24): hit Avg; AL LE; AC 6; MV 9; HD 1; 
+hp 6; THACO 19; #AT 1; Dmg by weapon; SA 
+Nil; SD Nil; SZ M; ML Steady (12); XP 15. All 
+wield shortbows and hand axes. 
+
+
+Ore Leaders (3): Int Avg; AL LE; AC 
+HD 2; hp 11; THACO 19; #AT 1; 
+weapon; SA +1 to damage; SD Nil; 
+Elite (14); XP 35. All wield broadswords 
+
+
+Grogs (2): Int High; AL LE; AC 4; MV 6; IID 3; 
+hp 15; THACO 17; #AT 1; Dmg by weapon; SA 
++ 1 to damage; SD Nil; SZ M; ML Elite (14); XP 
+65. Both wield broadswords. 
+
+
+Ogre (1): Int Low; AL CE; AC 5; MV 9; HD 4+1; 
+hp 21; THACO 17; #AT 1; Dmg 1-10; SA +2 to 
+damage; SD Nil; SZ L; ML Steady (12); XP 175. 
+
+
+Bandits (20): Int Avg; AL CE; AC 7; MV 12; HD 
+1(tm)1; hp 6; THACO 20; #AT 1; Dmg by weapon; 
+SA Nil; SD Nil; SZ M; ML Steady (12); XP 15. All 
+wield short bows and short swords. 
+
+
+The human bandits have no loyalty to luz, 
+and fight on the side of the ores only as a mat 
+ter of convenience, to profit from their raids. 
+Thus, they get no morale bonus, and are easy 
+to break if they find themselves overwhelmed. 
+
+When invasion hits, some of the populace 
+panic and run, only to be caught by the bandits 
+waiting outside. Most others simply hide in 
+their homes, hoping to escape the barrage of 
+flaming arrows. Some form a fire brigade to put 
+out any fires caused by the raid, A few pick up 
+weapons and fight as ragtag defenders when the 
+ores breach the compound. 
+
+The entire garrison turns out in five rounds, 
+starting with the 10 on watch and then six from 
+the tower each round as the combat progresses. 
+The humanoids breach the defenses on round 
+six, swarming into the courtyard and tower and 
+triggering a full-scale fortress defense. 
+
+
+Garrison Troops (40): Int Avg; AL LG; AC 
+MV 12; HD 1; hp 8; THACO 20; #AT 1; Dmg by 
+weapon; SA Nil; SD Nil; SZ M; ML Elite (14). 
+Those on watch wield short bows and long 
+swords. The rest wield only long swords. 
+
+
+Characters watching the tower during the 
+battle spot a mage on the top hurling spells 
+down against the invaders. Those passing a 
+Wisdom check think it looks like their mer 
+chant companion Jasmalus, but between the 
+darkness, the distance, and the confusion of 
+the battle they have difficulty saying for cer 
+tain, They will not find "Jasmalus" until 
+the battle, when they discover him hiding in his 
+room, allegedly taking shelter from the combat. 
+He denies participating in the battle, intent on 
+keeping his impersonation intact. 
+
+The DM should allow the guardsmen to even 
+tually drive off the invaders, unless the PCs do 
+something remarkably stupid that ends up acci 
+dentally aiding the ores. In that ease, allow the 
+PCs to flee with the caravan as the tower falls, 
+punching through a line of attacking bandits in 
+their escape. 
+
+After the attack, garrison soldiers pick up the 
+pieces from the battle, a racket which contin 
+ues well into the morning and prevents the PCs 
+from getting any real sleep-a fitting end 
+their stay at Fort Disaster. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+^Behold r Bardufi 
+
+The fourth leg of the trip takes eight more 
+days, taking the party across the Crystal River 
+and into the town of Barduk. The DM can roll 
+for random encounters during the trip, but no 
+set encounters occur until the party fords the 
+Crystal River. 
+
+When the PCs near the river, read the follow 
+ing to the players. 
+
+
+Recent rains have swollen the river, so the 
+humanoids are indeed too occupied with the 
+task of crossing the water to notice the party- 
+for once, the PCs can get the jump on the ores. 
+After the free round, the ores rush to attack, 
+possibly meeting the party in the middle of the 
+water. This should provide some dramatic com 
+bat, as the PCs clash with the surprised ores 
+under the night sky, the swollen river rushing 
+by them. 
+
+If the PCs do not charge to attack, the ores 
+take refuge behind their wagons (+6 to AC) and 
+pepper the party with flaming arrows. If the 
+PCs retreat, the ores do so as well, leaving the 
+pair of caravans in a Mexican standoff. The ores 
+can wait like this until sunrise, at which point 
+they must head back into hiding and try again 
+the next night. 
+
+The water is knee-deep and moves swiftly. 
+Anyone meleeing in the water does so at a -2 to 
+hit (archery is unaffected) and must make a 
+Dexterity check when struck, or fall into the 
+water. (Consider ores to have Dexterity 11 and 
+the orog to have Dexterity 13,) 
+
+Individuals who fall into the water lose all 
+Dexterity and shield bonuses to AC, while the 
+attackers receive an additional +2 bonus to 
+their THAGO. Individuals struck while fallen 
+
+
+slip further and become caught in the river cur 
+rent. This sweeps them downstream (60 feet 
+per round), inflicting ld4 points of additional 
+damage from swallowed water and jagged rocks. 
+
+A fallen individual may regain his footing at 
+any time by making a Dexterity check, though 
+this takes the entire round to do so. Individuals 
+swept away by the current make the check at 
+-2, or continue to hurtle downstream (taking 
+ld4 damage per round). 
+
+Individuals on horseback may fight in the 
+waters without penalty (the horses are strong 
+enough to ford the currents without problem), 
+but the ores will quickly recognize their disad 
+vantage and attempt to unseat the rider-usu 
+ally by killing the horse. Individuals thrown 
+from their horses for any reason are automati 
+cally swept downstream for ld4 damage (in 
+addition to the ld6 for falling off the horse). 
+
+Both horses and footmen move at A rate 
+when in the waters. 
+
+Ores (8): lot Avg; AL LE; AC 6; MV 9; HD 1; hp 
+6; TPIACO 19; #AT 1; Dmg by weapon; SA Nil; 
+
+
+Night has already fallen, but Malin insists 
+you press on until you reach the next 
+town-Barduk is just past the Crystal River, 
+and you can already hear the river now. As 
+the trail bends around a small hillock to 
+turn towards the river ford, you spot the 
+Crystal's dark, rushing waters. You also 
+spot-ores! A two-wagon train, led by the 
+humanoids, fords the river toward you and 
+into Furyondy. They seem to be too busy 
+crossing the river to see you yet. You have 
+surprise! 
+
+
+
+
+18 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TiefioLd ^Barduk 
+
+
+
+SD Nil; SZ M; ML Steady (12); XP 15. All wield 
+short bows and hand axes. 
+
+Ore Leaders (2): Int Avg; AL LE; AG 4; MV 9; 
+HD 2; hp 11; THAGO 19; #AT 1; Dmg by weapon 
++ 1; SD Nil; SZ M; ML Elite (14); XP 35. Both 
+wield broadswords. 
+
+Orog ( 1 ): Int High; AL LE; AC 4; MV 6; HD 3; 
+hp 21: THAGO 17; #AT 1; Dmg by weapon +1 
+(long sword); SA Nil; SD Nil; SZ M; ML Elite 
+(14); XP 175. 
+
+After the combat, players find the ore wagon 
+train (two wagons in all) filled with supplies, 
+including foodstuff, orcish weapons and armor, 
+and 1,000 gp worth of crudely-forged gold 
+ingots. Captured ores offer no explanation of 
+why they transported such supplies into Fury- 
+ondy; they would rather take a quick death now 
+than face what luz would have in store for them 
+for betraying his stronghold. 
+
+Still, the existence of the caravan heading 
+into Furyondy in the dead of night is enough to 
+tip Jetero off; he realizes that the troop move 
+ments he has tracked indicate a secret luzian 
+base within Furyondy itself. The wagon train, 
+filled with supplies, confirms its existence. 
+Presently he says nothing, but he resolves to 
+warn Jakarta! once the party reaches Barduk. 
+
+An hour later, Border Post Number Four comes 
+into view. Read the following to the players. 
+
+The post at Barduk consists of an earthen 
+wall surrounding a battered 30'-high tower, 
+with little else. A small town which has seen 
+better days surrounds the fort, but the village of 
+Barduk appears mostly deserted. 
+
+
+Two riders from the fort meet you on the 
+outskirts of town. They escort you through 
+the empty town and into the fort. As you 
+pass through the town, you notice most of 
+the buildings appear damaged, either from 
+physical attack or from fire. Most of Bar- 
+duk's barns, warehouses, and shops lie 
+demolished, while evidence of heavy ore 
+raids-arrows, rusted shields, and axes- 
+remain strewn about on the ground. 
+
+
+The Village of Barduk 
+
+Because major events in the adventure occur in 
+Barduk, the module describes the town in depth. 
+
+Barduk once prided itself as a prosperous 
+town, aided by its location near the fords over 
+the Veng and Crystal rivers. As Barduk grew, 
+officials established Border Post Number Four. 
+The tower had seen incalculable caravans pass, 
+prior to the war. 
+
+Barduk sits in a small valley between two 
+hills, with the fort atop the hill that overlooks 
+the Veng River, This gives the tower a com 
+manding view of all of the surrounding terri 
+tory. A nearly sheer cliff drops off from the 
+fort's outer wall facing the riverbank, giving it a 
+strong defensive posture. 
+
+
+Since the war, however, the town has 
+begun to disintegrate. Many of the town's 
+men became soldiers and did not survive 
+the war, and many families have moved 
+away to find work in Willip, Last winter 
+brought an epidemic to the town, which 
+additionally reduced its population, and 
+now the increase in orcish raids threatens 
+to shrink it even further. 
+
+But the plague, and the raids, have not 
+tapered only the town's population, they 
+have virtually decimated its militia. The 
+military compliment once stood at 65; now, 
+it stands at 12, Were it not for the orcish 
+war bands also contracting the plague, the 
+fort would have fallen long ago. 
+
+A Shield Lander named Captain Rildillian 
+heads the ragtag remnants of the border post, 
+all veterans of the recent war. The general 
+populace of Furyondy usually resents Shield 
+Land refugees, but residents here accept 
+them as fighters in the greater cause. Indeed, 
+they have to-were it not for the Shield Lan 
+ders, Barduk would have no militia at all. 
+
+By coincidence, the entire surviving gar 
+rison hails from the same town inside the 
+Shield Land, thus earning Border Post Num 
+ber Four the nickname "Fort Critwall"- 
+even though it lies 100 miles from that 
+captured city's border. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+^Behold 'Barduk 
+
+
+
+Fort Grit wall 
+
+As they reach the fort, read the following. 
+
+
+Morin, 4tli-level fighter: Str 18, Dex 11, Con 
+16, Int 12, Wis 8, Gha 8; THACO 15; hp 40; 
+Weapon battleaxe +1; AL LG. 
+
+Frakus mans the stables and cares for the 
+horses at the fort. 
+
+None at the stables realize Frakus is actually 
+a half-ore, and most simply think that he is an 
+exceptionally large human teenager whose par 
+ents perished during the war. His 14-year-old 
+frame stands 6' tall and weighs 220 pounds, 
+though he has the mind of a 7-year-old and 
+upsets easily when Morin is not around. 
+
+He possesses a natural affinity with animals, 
+is a particularly good groom, and locals treat 
+him with the proper amount of kindness and 
+respect. 
+
+Frakus: Str 17, Dcx 12, Con 14, Int 4, Wis 5, 
+Cha 4; THACO 20; Weapon axe; hp 12; AL NG. 
+
+The Bloody Axe Inn 
+
+Read the following boxed text when the play 
+ers reach the inn. 
+
+
+Behind the bar stands a 4 r 6" dwarf named 
+Borik. Borik, like Morin, is a holdover from the 
+war Bonks one goal in life is to run a great bar. 
+A warm and friendly bartender, he is also 
+versed in the classics of the Dwarven Kingdoms 
+and is not above acting as the bar's own bard. 
+
+He thrills at the chance to sing tales of hero- 
+
+
+The Smithy and Stables 
+
+
+When the players enter the smithy or sta 
+bles, read the following to them. 
+
+
+The smithy and stables stand one story 
+tall, 30 1 wide and 60' long, of simple wood 
+construction. Double-doors mark the main 
+entrances to both halves of the structure. 
+
+The smithy portion of the building con 
+sists of a hearth, an anvil, and a wide variety 
+of tools and tool-making equipment. Goal 
+and iron bins sit just inside the doors. 
+
+The stables consists of a small corral 
+holding the fifteen horses owned by the mil 
+itary. The horses roam their wooden pen 
+during the daytime, and at nighttime remain 
+in their stable stalls, 
+
+A mountain dwarf named Morin runs the 
+smithy, and spends virtually all of his time 
+
+
+An earthen wall, 20' tall, surrounds the 
+fort, apparently of new construction. The 
+wall slopes up to a 10-foot-wide top, with 
+randomly-placed spikes covering the outer 
+side of the wall. A 6'-deep, lQ r -wide trench 
+surrounds the wall, completely encircling 
+the fort save for the main avenue that leads 
+into its entrance. 
+
+You pass through the guarded entrance to 
+enter a small, open plaza. In addition to the 
+tower, the earthen wall circles a two-story 
+inn and a combination smithy and stables. 
+
+
+During the war, the post served as the 
+southern end of the border defenses against 
+The Horned Society. Prior to the war, It did 
+not share a common border with The 
+Horned Society, and so became the place 
+where Furyondy sent its least capable 
+troops. Thus, it was not well built, nor was it 
+maintained well with the little money it did 
+get. 
+
+
+working metal for the garrison of the fort. A 
+veteran of the war against luz, he broods a 
+bit too much now that he has lost his family. 
+
+He has, however, taken a mentally handi 
+capped teenager named Frakus under his 
+protection, so now Morin feels a compelling 
+reason to stay in Barduk rather than to 
+return to his underground homeland. 
+
+
+The Bloody Axe Tnn dominates the inte 
+rior of the fort. At one time, it laid claim as 
+the largest inn on the Grabford-Critwall- 
+Willip trail. The front of the building has 
+two large pane-glass windows, still intact, 
+with a well-used swinging wooden door 
+between them. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+%efiold f Barduk 
+
+
+well as a gaping 3-foot-wide hole about 15 feet 
+up the wall. 
+
+The door opens up into a chamber 30'x3Q'. A 
+large hearth dominates the far wall. An open 
+staircase to the right of the room ascends to the 
+upper floors. The rest of the wall is used for 
+racks to hold garrison weapons, hi the center of 
+the room is a table, 10 1 in diameter, surrounded 
+by 10 wooden chairs. 
+
+The second story contains another 30'x30' 
+room. This is the garrison's quarters. This is 
+filled with beds, but otherwise is identical to 
+the floor below. A handed wooden chest sits 
+under each bed, and extra blankets cover a 3'- 
+wide hole in the tower wall, keeping out the 
+chill air. 
+
+The third story holds another 30'x30' room, 
+and serves as the storage room for the fort. It 
+contains food, wine, weapons, and armor for 
+the fort's garrison. The provisions are the most 
+that could be gathered before the winter. 
+
+The top story holds the battlements of the 
+tower. Looking out from here, the PCs can both 
+of the fords under the fort's protection. It also 
+has a commanding view of the Shield Land ter 
+ritory on the far side of the Veng River. Fires, 
+inside the Shield Lands, can be seen in the dis 
+tance, even during the day. 
+
+The captain of the garrison is a Shield Lander 
+named RiIdi Ilian. Rildillian is a young soldier but 
+a veteran of hard fighting. lie wants nothing 
+more than to see his homeland free from the evil 
+of Iuz, Rildillian, 4th-level fighter: Str 16, Dex 
+12, Con 14, hit 12, Wis 4, Cha 12; TLIACO 15; hp 
+37; Weapon two-handed sword; AL NG. 
+
+The Secret Mission 
+
+As soon as the party reaches the Bloody Axe 
+Inn, Jetero tells the PCs he needs to talk to 
+them right away. He becomes uncharacteristi 
+cally aggressive, and insists that the PCs check 
+in quickly and head to his room right away. If 
+they appear reluctant, he notes that the cara 
+van appears to be in danger, and that he wishes 
+to meet with them to make new plans. 
+
+He leaves Malin and Emerald to set up for 
+business the next morning. Then he heads 
+upstairs with the party. Read the following to 
+the players. 
+
+
+ism and love, and, for a dwarf, has a fairly 
+melodic voice, 
+
+Rorik is a master brewer as well, as he makes 
+much of the beer and ale he serves in the bar. 
+He has set aside a portion of the storeroom as a 
+small brewery. 
+
+Borik, 3rd4evel fighter: Str 16, Dex 11, Con 
+17, Int 14, Wis 10, Cha 15; THACO 17; hp 25; 
+Weapon broadsword; AL CG. 
+
+
+A small office sits behind the counter at the 
+entrance of the inn. The office has a desk (usu 
+ally stacked high with parchments) and a large 
+strongbox with the inn's gold (about 1,000 gp) 
+beneath the desk. 
+
+The kitchen is well-kept and exceptionally 
+well-run by the cook, Squarin. The house spe 
+cialty is an exquisite lamb stew, but it is also 
+known for its pheasant when in season. A door 
+on the far side of the room leads to the store 
+room, and a door on the rear wall leads outside. 
+The only other door leads to Morin's sleeping 
+room. 
+
+Squarin is a human female with a command 
+ing presence in the kitchen. She demands 
+respect from the serving girls in the inn, and 
+gets it. 
+
+Squarin stands 5'4" and weighs 220 pounds. 
+She has short, dark brown hair and dark brown 
+eyes. She takes great pride in her food and in 
+its service. 
+
+The storeroom is divided into two sections, 
+the brewery and the storage area. The brewery 
+always has several large casks of beer and ale 
+aging. The storage area consists of supplies 
+needed to run the inn. 
+
+Upstairs is a long hallway with numerous 
+doors leading into the rooms of the inn. The 
+first room on tire right leads to the female staffs 
+quarters. The first door on the left leads to the 
+male staffs quarters. At the far end of the hall is 
+the room of Celini, a half-elf who plays a large 
+role in the later part of the adventure. The 
+room to the right of the staircase is used as 
+more storage space. 
+
+
+Tlie Tower 
+
+
+The tower stands 30 feet, tail and is made of 
+stone. The walls show signs of serious attack, 
+with large bits of bricks and mortar missing, as 
+
+
+21 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hedold ^Bardufi 
+
+
+
+
+
+
+
+Jasmalus seems to study each of you 
+intently as you enter the small room. Clos 
+ing the door behind him, he begins to speak. 
+
+"1 know how odd this must seem. 1 real-ize 
+Ido not present my friendliest face to the 
+world, but my privacy has its reasons. Never 
+theless, the death of my brother, and other 
+events on this trip, force me to reveal myself. 
+
+"I told you my brother's name was Jetero, 
+That was a lie. My brother's name was Jas 
+malus, and he was the merchant who trav 
+eled these routes. MY name is Jetero, and 1 
+am a special agent for Count Artur Jakartai. 
+The count sent me with this caravan, posing 
+as my brother, to secretly scout the border 
+and track Iuris troop movements." 
+
+He takes out the small book you have 
+seen him writing in during the course of the 
+journey. 
+
+"My information of these troop move 
+ments is contained in here. It points to one 
+invariable conclusion: that Iuz has manned 
+a secret humanoid base within Furyondy 
+itself. Moving troops and supplies in during 
+the dead of night, he has used these not.-so- 
+random border raids to cover his true 
+intent. The caravan we stumbled across a 
+few hours earlier could mean nothing else. 
+
+"A secret Iuzian base hidden within our 
+borders could spell doom for Furyondy. I 
+must warn Jakartai immediately and have 
+him pass word along to Beivor. To do this, I 
+must deliver this book. 
+
+"1 have a problem, however. Someone 
+has betrayed my position, someone within 
+the Furyondian command. The ores 
+attacked my brother's caravan because they 
+believed him to be me. Only a few knew of 
+my impersonation-it can only mean we 
+have a traitor in our midst. 
+
+"But it also means that I cannot deliver 
+this book myself. With the fate of Furyondy 
+at stake, I cannot endanger this information. 
+
+"I have contacted one of Jakartai's scouts 
+in the area, a trustworthy agent named 
+Jeremiah. You can find him at a safehouse 
+in the woods nearby. I will give you direc 
+tions there. He . . . well, you will know him 
+when you see him." 
+
+
+Jetero will answer any questions about the 
+rendezvous, but he emphasizes that the PCs 
+must be the ones to deliver the book-as mere 
+caravan guards, they are inconspicuous and 
+will attract little attention leaving the fort. 
+
+He refuses to give PCs a description of Jere 
+miah; the possibility still exists that they might 
+be captured, and he cannot risk compromising 
+the identity of such a valuable agent. 
+
+The party is to meet the contact on the 
+banks of the Crystal River. Jetero describes a 
+pair of flat rocks which lean against each other, 
+forming an inverted "V" shape at the river's 
+edge. The contact, he says, will meet them 
+there. 
+
+After the PCs depart, read the following to 
+them. 
+
+
+You travel for nearly an hour upon small 
+pathways through the brush near the river's 
+edge; though a roadway follows the river 
+southward, you know that many riverside 
+landmarks could not be spotted from the 
+road. Even without a clear path to travel on, 
+however, you travel steadily, if not rapidly, 
+to the meeting place. 
+
+Then, after nearly an hour of travel, you 
+spot two rocks forming an inverted "V" just 
+as Jetero had described. Then, as you scan 
+the brush for a pathway to the landmark on 
+the river's edge, you hear a rustling sound in 
+the brush to your left. 
+
+
+The noise comes from a small, freckle-faced 
+girl named Sarah Jean. Only six years old, 
+Sarah Jean has wandered away from her nearby 
+home to quickly become lost in the woods. She 
+obviously fears the strange PCs, but fears wan 
+dering alone in the woods even more. 
+
+Though the PCs do not realize it yet, Sarah 
+Jean is one of several Shield Land orphans 
+watched over by Jeremiah and his druid com 
+panion, Alexia. The children all lost their fami 
+lies in the war. Now the ranger and the druid 
+shelter them in a woodland cabin, away from 
+the violence that plagues the nearby border 
+towns. 
+
+Sarah Jean managed to wander off while 
+both adults discussed matters privately (actu 
+ally, the meeting with the PCs). Sarah Jean, of 
+
+
+22 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+course, knows nothing of the meeting, and sim 
+ply wants the PCs to help her find "Mr. Iggy" 
+and "The Leaf Lady," 
+
+Presuming the PGs are not hostile towards 
+hep she begins to talk with them, though, obvi 
+ously, her knowledge is limited to that of a six- 
+year-old. She cringes if the PGs carry any 
+exposed weapons around her; the horrors of 
+war have clearly marked this child, and the PGs 
+would do well to keep their weapons put away. 
+They might try to take her mind off her situa 
+tion by discussing things that she's interested 
+in-flowers and butterflies being particularly 
+appropriate-or simply try to help her find her 
+way back home. 
+
+Allow the players to roleplay with Sarah Jean 
+for a few minutes, and then read the following 
+boxed text to them. Read it to them immedi 
+ately if the PGs take any hostile action towards 
+her. 
+
+
+Give the players a moment to react, and then 
+have the lizardman growl in a low hiss, "Unhand 
+the girl, banditssss-sssshe issss under my pro- 
+tecssssion!" 
+
+Jeremiah will fire the arrow at anyone who 
+takes offensive action. If this occurs, however, 
+have Sarah Jean prevent full-blown combat by 
+shouting, "Mr, Iggy T " and running up to hug his 
+leg. 
+
+Jeremiah will drop his bow and lift her up, 
+confident the PGs will not strike him while he 
+is holding the child. He then replies, playfully, 
+"I told you to stop calling me that, you little 
+wanderling-my name is Jeremiah. TJ 
+
+This should allow the PCs and the ranger to 
+
+
+r Behold r Bardufi 
+
+
+dissolve any initial hostilities. Once they make 
+proper introductions, Jeremiah accepts Jetero's 
+book from them and then invites them back to 
+his cabin. If they accompany him, read the fol 
+lowing boxed text. 
+
+
+As Jeremiah reads the notebook, Alexia 
+introduces herself and offer the PG J s food and 
+drink. She answers any questions about Jere 
+miah, herself, or the children, and offers to heal 
+any PGs who are wounded. 
+
+During this time, the children also begin to 
+approach the PGs. The DM should try giving 
+each child a slightly different personality, using 
+the descriptions below as a guide. 
+
+
+The Cabin's Inhabitants 
+
+
+Jeremiah, 5th-level ranger (lizard man): Str 
+17, Dex 12, Gon 13, Int 16, Wis 12, Cha 9; AC 
+5; MV 6, 12 in water; HD 5; hp 31; #AT 1; Dmg 
+by weapon; THACO 15; Weapons sword, dagger; 
+ALNG. 
+
+
+Taking Sarah Jean's hand in his own, 
+Jeremiah leads you down an almost invisi 
+ble trail on the opposite side of the nearby 
+road. You soon come upon a log cabin, vir 
+tually unnoticeable behind a thorny wall of 
+brush. A narrow strip of land separates the 
+cabin from its camouflage. 
+
+Once inside, you see a small fire light the 
+cabin's interior from the hearth on the wall 
+opposite the door. Near the fireplace, a 
+woman in a light green gown smiles at Jere 
+miah, and then nods toward you. 
+
+Sarah Jean rushes off towards the woman, 
+but soon you see several other children 
+quickly pop their heads out of hiding. They 
+eye you cautiously for a moment, then head 
+over to the young girl to excitedly pepper 
+her with questions about you and her 
+adventure in the woods. 
+
+Jeremiah smiles at the children and then 
+motions you toward a few benches. "Ple- 
+asssse, take a ssssseat," he says. "I may 
+need to asssk you sssome quessstionsss 
+about thisssss. 77 Pie taps a finger on the 
+notebook, and then sits down to quickly 
+begin reading it. 
+
+
+Suddenly, a shadowed humanoid figure 
+crashes through the bushes, seemingly out 
+of nowhere. Its jagged teeth flash in the 
+moonlight as it sweeps away the brush with 
+a powerful swing of its thick, scaly tail. Mus 
+cles ripple beneath its reptilian skin, and a 
+loud hiss coats its forked tongue with glis 
+tening spit. Before you even realize it, the 
+creature has a bowstring pulled taut, a 
+gleaming arrowhead aimed at you at point 
+blank range. You have only a few seconds to 
+move, but the creature clearly has you dead 
+to rights. 
+
+
+23 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c .Befiold 'Banin k 
+
+
+decided to follow the path of warriors. They 
+idolize Jeremiah, and stare in awe at the PCs 1 
+gleaming weapons. The pair will gladly demon 
+strate their fighting prowess with a pair of 
+"dueling sticks" (dead tree branches) they 
+practices with. 
+
+Luke: This 8-year-old almost always has a 
+thoughtful look on his face. More than any of 
+the others, he seems to understand exactly 
+what the horrors the war have wrought. Though 
+terminally quiet, he's often found lurking near 
+other people's conversations, like a shadow-a 
+habit that's earned him the nickname among 
+the other children, "Luke the Spook." 
+
+Gregory, Game, and Heather: These three tod 
+dlers keep a fair distance between themselves 
+and the PCs, though proper urging may draw 
+them out. 
+
+Roleplay the children for as long as the play 
+ers seem interested, and then have Jeremiah 
+finish reading the book. Read the following 
+boxed text to the players. 
+
+
+If the players do not seem speculative, Jere 
+miah asks them to recount the events of the 
+mission for him. If players do not mention the 
+sergeant in their summary, the DM should have 
+Jeremiah ask them about the person who 
+briefed them on the mission, mixed in with 
+other unrelated questions. This should get 
+them thinking about Krayquer. 
+
+When the discussion does turn to Krayquer, 
+Jeremiah mentions that the sergeant occasion 
+ally runs missions to him, and thus he is famil 
+iar with the area. This might tip players off to 
+the fact that Krayquer should have known the 
+correct information that he improperly pre 
+sented to them during the briefing. 
+
+
+Jeremiah, an unnaturally intelligent lizard- 
+man, has aligned himself with the side of good* 
+He works for Count Jakarta! as a scout and spe 
+cial agent, using his ability to travel underwater 
+to infiltrate enemy defenses* 
+
+Jeremiah never quite fit in with liis fellow 
+lizardmen. He tended to care more deeply for 
+the land and creatures around him than for his 
+brethren and their aggressive activities. As the 
+Greyhawk Wars began, Jeremiah's tribe 
+expelled him-it would rather he died trying to 
+fend for himself than protect him when he 
+would not fully contribute to the tribe. During 
+the war, he learned to survive in the woods, and 
+spent many months secretly helping Furyondv 
+in its fight against the luzian forces. 
+
+Jeremiah's actions earned him many friends 
+by war's end. When one of them, the druid 
+Alexia, asked him to assist her in raising and 
+protecting young refugees from the Shield 
+Lands, he knew he had found a new home. 
+
+His actions in the war, and afterwards also, 
+brought Jeremiah to the attention of Jetero* In 
+the wake of the war, Jetero convinced Jeremiah 
+to aid him in keeping a close watch on the 
+forces of Iuz* He acts as border guard along this 
+section of the river, and using Alexia's pet 
+hawk, he informs Captain Rildillian at Fort 
+Grit wall of any orcish movements he may dis 
+cover* 
+
+
+Alexia, 3rd-level human druid: Str 12, Dex 12, 
+Con 11 , Tnt 12, Wis 14, Cha 16; hp 13; AC 8 
+(currently 10); Weapon staff; AL N* 
+
+
+Alexia, a strong-willed human druid, has a 
+deep platonic affection for Jeremiah. Though 
+she detests war, she gives him moral support in 
+his decision to work against the forces of Iuz. 
+Individuals, she knows, must each choose their 
+own way. 
+
+
+The Children 
+
+
+Sarah Jean: This freckle-faced 6-year-old loves 
+all things beautiful, and her reaction to the PCs 
+here will depend on their treatment of her dur 
+ing the previous encounter* 
+
+
+John and Mathew: These identical twins are 
+only 11 years old, hut both have already 
+
+
+"Unfortunately," Jeremiah says, closing 
+the book, "I believe Jetero'sss conclusionsss 
+are correct. I cannot think of any other 
+reassson for orcsess to take sssuppliesss 
+into Furyondv, other than to sssstock a 
+fortresssss within. 
+
+"And indeed, there ssseemsss to be a trai 
+tor in our ranksssss. Have you any idea who 
+it isssss?" 
+
+
+I 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c .Behold 'Barduk 
+
+
+
+
+These realizations should work to remind 
+players that Krayquer urged the PCs to kill 
+any llzardman on sight-an order he would 
+have never normally given knowing that 
+Jetero's caravan would be passing near Jere 
+miah's cabin. 
+
+Tills should be enough to allow the players to 
+determine the identity of the traitor. In the 
+event that they don't, have young Luke pipe in 
+with the following information at an appropri 
+ate moment. 
+
+
+Surprisingly, little Luke suddenly speaks 
+up, his quiet voice interrupting the loud dis 
+cussion, 
+
+"Mr Iggy 7 are you talking about the scar 
+faced man who meets with the pig men? I 
+saw him give them a book just like that/' he 
+says, pointing to Jetero's notebook. 
+
+"I know the pig-men is bad," he adds, 
+looking down at his shoes, "but I didn't 
+want to say nuthin 'cause I thought you 
+might get mad at my leaves dropping," 
+
+
+Luke, of course, means "eavesdropping," for 
+which Alexia often scolds him (though really he 
+just wants to be part of the conversation). 
+
+When questioned, Luke explains what he 
+saw: The last time the scar-faced man (Kray 
+quer) came to meet Jeremiah, Luke followed 
+him out of the house because he wanted to ask 
+questions about what it was like to live in a for 
+tress, Before Luke could catch up with him, 
+however, the boy saw Krayquer meet with three 
+ores and a "dark, pointy-eared boy" (a drew), 
+to give them the book. 
+
+This took place about two weeks after the 
+PCs left GreatwalL Though he didn't know it, 
+Luke bore witness to Krayquer delivering infor 
+mation about Jetero to the ores, and hiring a 
+dark elf to assassinate the secret agent when 
+the caravan reached Barduk, 
+
+If the players don't need any help in deduc 
+ing the traitor, let Luke chime in anyway to 
+confirm their suspicions. 
+
+Then have Jeremiah become apprehensive 
+and gather his things hurriedly. He urges the 
+PCs to do the same-he must get the book to 
+Jakarta!, and they must return to Barduk to 
+warn Jetero of Krayquer 
+
+
+Cragson Mines Office 
+
+One square = 10 feet 
+First Floor 
+
+
+Second Floor Attic 
+
+
+i j Trash Piles 
+
+
+Alexia will cast a brief spell over the 
+waterproof it, and then the group returns to 
+riverbank. 
+
+At the river's edge, Jeremiah tucks the book 
+into a beltpouch, and then bids the 
+farewell. He swims into the current, disappear 
+ing beneath the murky waters. 
+
+Using the rivers to hide his movements, 
+will take the Crystal up until it meets the Veng, 
+and then take the Yeng until he reaches Great- 
+wall. 
+
+
+i j Trash Piles 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Giant centipedes infest the remnants of the 
+bunks, and attack if disturbed or if the PCs 
+linger too long on the first floor. 
+
+Giant Centipedes (18): Int Non; AL N; AC 9; 
+MV 15; HD 1/4; hp 1; TIIACG 20; #AT 1; Dmg 
+Nil; SA Poison; SD Nil; SZ T; ML Unsteady (7); 
+XP 35. 
+
+
+The second story resembles the first except 
+that someone has piled the trash from the 
+bunks into the far corner of the room. Giant 
+rats have made their home in these former 
+bunks, and they attack PCs who become too 
+inquisitive. Otherwise, they simply stay con 
+tent to just hide in the junk. 
+
+Giant Rats (8): Int Animal; AL N; AC 7; MV 12; 
+HD 1/2; hp 3; THACO 20; #AT 1; Dmg; 1-3; SA 
+disease; SD Nil; SZ Tiny; ML Unsteady (6); XP 
+15. 
+
+
+3. Office 
+
+The only other multi-floor building in the 
+camp is the former work camp office, where the 
+mine's owner once lived. It stands three stories 
+tall, with some signs of recent repair. Single 
+doors lead into the building from the front and 
+the back. 
+
+The front door leads into the main office of 
+the mine, now barren except for several large 
+tables. The rear door leads into a private 
+kitchen, once used to fix meals for the owner of 
+the mine and his private guests. Some rotted 
+meat and blackened, rock-hard bread sit on a 
+large, heavy, food- preparation table (to have 
+been eaten by the three men in the processing 
+building). Another door leads from the kitchen 
+to the office, and an open staircase rises up 
+along the office's east wall. 
+
+Upstairs, a hallway leads to four rooms-a 
+library, a sitting room, a dining room and a pri 
+vate bedroom. The library contains empty 
+bookshelves, with a secret door in the corner, 
+opening up into a staircase that leads to the 
+attic. 
+
+Giant rats have infested the private dining 
+room, eating food left by the three men from 
+building #1. If the PCs enter, they attack. 
+
+Giant Rats (4): Int Animal; AL N; AC 7; MV 12; 
+HD 1/2; hp 3; THACO 20; #AT 1; Dmg 1-3; SA 
+disease; SD Nil; SZ Tiny; ML Unsteady (6); XP 
+15. 
+
+
+r rhe Grayson Mines 
+
+
+Humans founded the Cragson coal mines more 
+than 100 years ago. For more than 70 years it 
+served as the top producer of coal in Furyondy, 
+Then disasters struck: cave-ins, dry veins, 
+and rumors of hauntings after several acciden 
+tal deaths. Eventually, most of the workers left 
+out of superstition, and the mines became too 
+unprofitable to maintain. 
+
+The mines sit 10 miles southwest of Barduk 
+in an area of large hills. As the PCs approach, 
+they can spot the mine entrance at the base of 
+the hill and the mining camp's buildings scat 
+tered about the top. The entrance to the mine 
+appears sealed by a cave-in about 100 yards 
+into the shaft. Another entrance exists in one of 
+the buildings in the camp. Characters may 
+climb the hill from any direction. 
+
+
+1. Main Processing Building 
+
+The Main Processing Building stands three 
+tall. It has a pair of two-story-high dou 
+ble-doors at each end, though the doors hinges 
+have rusted and the wood has begun to rot. The 
+rest of the building appears in a similar state of 
+disrepair. 
+
+Inside, the players find a single large, open 
+room, three stories high. The room contains a 
+rock crushing machine, along with several ore 
+wagons. A large pile of raw ore still sits by the 
+machine, awaiting processing. 
+
+If the PCs investigate the raw ore, they 
+uncover the rotted bodies of three humans. 
+These men secretly worked the mine before the 
+ores came, bringing out small amounts of gold 
+ore. The three quarreled, began fighting, and 
+accidentally hit the lever that released the coal 
+ore from above. The coal buried them, killing 
+all three instantly. Players can still find one of 
+the bodies clutching a small leather purse, con 
+taining 250 gp worth of unworked gold ore. 
+
+
+2. Barracks 
+
+The barracks, one of the largest buildings in 
+the camp, stands two stories tall. Double-doors 
+to the south open up into the main chamber, as 
+does a side door to the east. 
+
+Inside, the PCs see a large open bay filling the 
+entire first floor. The room once house more 
+than 100 bunks, the remnants of which still lie 
+scattered about the bay. An open staircase rises 
+
+
+
+
+i 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The sitting room still contains several broken 
+and rotting chairs in the room. The bedroom, 
+once affluent, has fallen into similar disrepair. A 
+large pile of trash covers the corner of the floor, 
+while several sleeping rolls lie spread out in 
+another corner The PCs can also find some gen 
+eral adventuring supplies among the bedrolls. 
+
+The attic lies virtually empty, save for two 
+trash piles and 12 giant bats which enter and 
+exit through a broken section of the peaked roof. 
+Characters spot the bats immediately upon 
+entering the attic, but the animals do not attack 
+unless disturbed or the party makes a particu 
+larly loud noise. The trashpile furthest from the 
+staircase contains a secret cache. The mine's for 
+mer owner plastered it into the ceiling of his 
+attic for safekeeping, hut its weight eventually 
+caused a patch of roof to collapse and the cache 
+fell to the floor, covered in rubble, (This is the 
+hole through which the bats travel.) 
+
+The cache, in a small iron box, contains 750 
+gp worth of various uncut gems (turned up in 
+the mining), a wrought platinum ring with 150 
+gp, and a ring of protection +1. 
+
+Giant Bats (12): hit Animal; AL N; AC 8; MV 3 
+FI 18; HD 1/2; hp 2; THACO 20; #AT 1; Dmg 1-2; 
+SA Nil; SD Confusion; SZ M; ML Unsteady (5); 
+XP 35. 
+
+
+4, The Smelter 
+
+This stands as one of the larger single-story 
+buildings in the camp, and seems of more recent 
+construction than the surrounding buildings. 
+The entrance-wide enough to handle sizable 
+wagons- opens into a large single room with a 
+small smelting furnace in the center. Tools for 
+melting down ore into ingots sit neatly stacked 
+in one corner. Three empty triple-ingot molds lie 
+on the ground next to the furnace. 
+
+
+5. Mess Hall 
+
+This long, single-story building has three single 
+doors on the front and one leading out the back. 
+The front doors lead into the mess hall, where 
+four ores currently eat among the broken tables. 
+Ores (4): Tut Avg; AL LE; AC 6; MV 9; HD 1; hp 
+7; THACO 19; #AT 1; Dmg by weapon; SA Nil; 
+SD Nil; SZ M; ML Steady (13); XP 15. All wield 
+short swords. 
+
+The rear door leads into the main kitchen, 
+with an open doorway connecting the two 
+
+
+c Jfie Cracjson Mines 
+
+
+rooms. Individuals entering through the kitchen 
+can hear the ores eating in the main room, and 
+perhaps gain the advantage of surprise. 
+
+
+6. The Master Miner s House 
+
+This simple, single story building represents 
+the only stone building in the complex. Charac 
+ters may enter through a metal-banded wood 
+door, the building's only entryway. 
+
+The building once housed the master miner's 
+living quarters. Ores recognized it as a dwarfs 
+home, and ransacked the house in a particularly 
+disgusting fashion. That, however, has allowed 
+an ogre to feel right at home amid the offal and 
+disarray, and now he sleeps in the bedroom. 
+When PCs enter the main room, the ogre 
+emerges to see who has broken into "his" house. 
+Ogre (1): Int Low; AL CE; AC 5; MV 9; HD 4+1; 
+hp 20; THACO 17; #AT 1; Dmg: 1-10; SA +2 
+weapon damage; SD Nil; SZ L; ML Steady (12); 
+XP 175. 
+
+
+The ogre attacks unarmed, but has a 
+handed sword in the bedroom. 
+
+
+7, The Livery 
+
+This building shows signs of recent, minor 
+maintenance. An oversized set of double doors 
+leads in from the front. 
+
+Inside, the PCs find an anvil and a 
+set of blacksmith tools. Crudely-forged orcish 
+metalwork, such as spikes and wagon wheels, 
+lean against the wall near the anvil. 
+
+
+8, The Stables 
+
+This poorly-constructed building has large 
+double-doorways at both ends, though only one 
+set of doors still stands (the other set has come 
+unhinged and lies under a thin carpet of dirt on 
+the ground). The walls have numerous boards 
+missing, and slats of sunlight stream into the 
+musty stalls. 
+
+The ores have stabled six draft horses 
+along with three orcish wagons. 
+
+
+9. Storehouse 
+
+The storehouse, a single-story structure, has 
+two sets of double doors in front. Inside, the 
+PCs find a large open room with several 
+and many crates. The kegs contain orcish 
+(relatively rancid), and the crates hold several 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+l Tfie Cragson Mines 
+
+thousand arrows, all bearing the distinctive 
+fie tellings of the Shield Land. 
+
+
+10. Ore Storehouse 
+
+The ore storehouse is a large, flat-topped 
+building used to contain the ore while awaited 
+processing. Except for some coal dust, it is now 
+empty. 
+
+11. General Store 
+
+The general store consists of a building with 
+three single doors that each lead into a separate 
+room. At one time, the store supplied miners 
+with their living needs. It now stands filled with 
+rubbish. 
+
+Anyone opening the center door triggers a 
+crossbow trap set by the ores. It strikes with a 
+THACG of IS and inflicts ld6 damage. 
+
+12. Tavern 
+
+The tavern, a small, well-built building, has sin 
+gle doors in the front and back. Six ores currently 
+have a drunken card game within; the PCs auto 
+matically gain initiative the first round and gain a 
++2 on initiative the second round. The alcohol 
+has also tampered with their THACO scores, but 
+has improved their bravery (morale score). 
+
+Ores (6): Int Avg; AL LE; AC 6; MV 9; HD 1; hp 
+7; THACO 20; #AT 1; Dmg by weapon; SA Nil; 
+SD Nil; SZ M; ML Elite (15); XP 15. All wield 
+short swords. 
+
+These ores are the drivers of the wagons from 
+building #8, so they have only limited knowledge 
+of the underground operations. The ores drink 
+out of a keg of the rancid ale, and have 154 silver 
+pieces in various piles on the table. 
+
+13. Church 
+
+This building served as the church for the 
+miners. A large padlock and chain currently bars 
+the double-doors to the finely-built structure. 
+
+Players might suspect the chain is to keep peo 
+ple out, but in actuality it is meant to keep some 
+thing in-the skeletons that have risen in the 
+aftermath of the ores' desecration of the temple. 
+
+Should the PCs pick the lock and open the 
+door, or smash a window to gain entry, they 
+find themselves struck by a foul stench-one so 
+fierce it makes them retch unless they make a 
+Saving Throw vs. Poison at -4. Those failing the 
+
+
+save spend one round retching and suffer a -2 
+penalty to THACO for IdlO rounds. Characters 
+must cover their mouths and noses to enter. 
+
+Once inside, skeletons rise up from the rub 
+ble the next round and attack. Note that PCs 
+must keep their faces covered during the com 
+bat, or suffer the effects of the stench. 
+
+Skeletons (8): Int Non; AL N; AG 7; MV 12; HD 
+1; hp 6; THACO 19; #AT 1; Dmg by weapon; SA 
+Nil; SD spell immunities, half damage from 
+edged or piercing weapons; SZ M; ML Special; 
+XP 65. All wield long swords. 
+
+14. Chimney 
+
+This is the smallest building in the complex. 
+It could easily be mistaken for an outhouse. It 
+has one single door, which opens into a chim 
+ney extending into the mines below. (DMs 
+should be especially mindful of characters 
+bashing the door in; it could turn into a fatal fall 
+into the mineshaft.) The shaft is 7 feet wide and 
+extends downward, out of sight. A 200-foot-long 
+coil of rope sits lashed to a deeply-driven stake 
+just inside the doorway. 
+
+The luzian Plan 
+
+luz himself developed this plan to strike at 
+the heart of Furyondy and rekindle the war as 
+the humans attempt to rebuild. The plan is 
+deadly in its simplicity: First, he has ordered a 
+series of border strikes to draw attention and to 
+deplete the reserves of the border posts. In the 
+meantime, he has secretly established a human 
+oid base within Furyondy, using the raids as 
+diversions for secret shipments of cargo and for 
+the quiet movement of troops. 
+
+When the base stands ready, luz will step up 
+his border attacks and force Furyondy to move 
+most of its troops up to the front. Then, with the 
+inner regions of Furyondy vulnerable, luz's secret 
+base will strike, capturing undefended territory 
+and cutting off supply lines to the border troops. 
+
+The hordes of The Horned Society will then 
+swarm across the Veng, pinning down the bor 
+der troops. They eventually will join up with 
+the inner front, serving as reinforcements. 
+Then the united humanoid forces will sweep 
+overland, crushing Furyondy once and for all. 
+
+The PCs now enter luz's secret base itself, 
+perhaps the only hope that stands between 
+luz's plan and the final defeat of Furyondy. 
+
+
+28 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The chimney, an air duct for the former mine 
+below, widens and narrows during the 200-foot 
+descent but always remains passable enough for 
+large humans to fit through (ogres have a tight 
+squeeze). The chimney ends in a dead drop to 
+chamber #1. 
+
+Dwarven miners carved the rooms and passage 
+ways out of hard, solid rock. Ceilings run 10 feet 
+high unless specified otherwise, and PCs must 
+provide their own sources of light. 
+
+The ores in the complex represent Iuz J s better 
+troops, so have higher-than-usual morale scores. 
+
+The DM might wish to check for wandering 
+encounters in the mine if the party dawdles * 
+makes too much noise, or the players want a bit 
+more excitement. Check once per turn on ldlO; 
+encounters occur on a roll of 1. Use the following 
+chart to determine encounters: 
+
+
+ld8 Roll 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+
+Creature 
+Ore Party 
+Orog party 
+Ogre 
+
+Carrion Crawler 
+Giant Rats 
+Giant Centipedes 
+Camprats 
+Ore Leaders 
+
+
+Ores (4): Int Avg; AL LE; AC 6; MV 9; HD 1; hp 6; 
+THAC0 19: #AT 1; Dmg by weapon; SA Nil; SD Nil; 
+SZ M; ML Steady (13); XP 15. All wield 
+broadswords. 
+
+Grogs (2): Int High; AL LE; AC 4; MV 6; HD 3; hp 
+IS; Til AGO 17; #AT 1; Dmg by weapon; SA +1 to 
+damage; SD Nil; SZ M; ML Elite (14); XP 65. Both 
+wield long swords. 
+
+Ogre (1): hit Low; AL CE; AC 5; MV 9; HD 4+1; 
+hp 22; THACO 17; #AT 1 Dmg 1-10; SA +2 to 
+weapon damage; SD Nil; SZ L; ML Steady (12); XP 
+175. It fights unarmed. 
+
+Carrion Crawler (1): Int Non; AL X; AC 3/7; MV 
+12; HD 3+1; hp 19; THACO 17; #AT 4; Dmg 1-2; 
+SA paralysis; SD Nil; SZ L; ML Special; XP 270. 
+Four tentacles have been severed in skirmishes 
+with the ores, and the creature may only concen 
+trate its attacks on one target at a time. If encoun 
+tered, remove the creature from Chamber #8. If 
+slain in Chamber #8, remove it from the wander 
+ing encounters list and substitute a patrol of ores 
+(listed above). 
+
+
+'T fie Secret r Base 
+
+
+Giant Rats (18): Int Semi; AL NE; AC 7; MV 12; 
+HD 1/2; hp 3; TIiACO 20; #AT 1; Dmg 1-3; SA dis 
+ease; SD Nil; SZ T; ML Unsteady (5); XP 15. 
+Camprats (20): Int Animal; AL N; AC 6; MV 15; 
+HD 1/4; hp 1; THACO 20; #AT 1; Dmg 1; SA Nil; 
+SD Nil; SZ T; ML Unsteady (5); XP 7. 
+
+Giant Centipedes (22): Int Non: AL N; AC 9; MV 
+15; HD 1/4; hp 1; THACO 20; #AT 1; Dmg Nil; SA 
+poison; SD nil; SZ T; ML Unsteady (5); XP 35. 
+
+Ore Leaders (2): Int Avg; AL LE; AC 4; MV 9; HD 
+2; hp 12; THACO 17; #AT 1; Dmg by weapon; SA 
++1 to Damage; SD Nil; SZ M; ML Elite (14); XP 65. 
+Both wield long swords. 
+
+
+Chamber #2 
+
+The ores use tills 20-high chamber as their bar 
+racks. A single torch lights the room, sconced in 
+
+
+Chamber #1 
+
+This chamber, beneath the chimney, has a 15- 
+foot ceiling. Two ores stand guards here, using their 
+infravision in the pitch darkness. The ores attack 
+immediately once the first PC climbs down into the 
+chamber. This gives the ores automatic initiative 
+and allows them to attack without regard for the 
+PC s shield or Dexterity armor class bonuses. The 
+PC can avoid these penalties by simple dropping 
+down the last 15 feet, but this causes ld4 damage 
+(falling onto hard stone). 
+
+Other PCs can descend the last 15 feet safely 
+while the ores are engaged in combat. PCs will have 
+a difficult time attempting to aid in the combat 
+while hanging from the rope; somatic spellcasting 
+and archery are impossible, and this position makes 
+most other weapon attacks too unwieldy. Impress 
+upon players the exact precariousness of their char 
+acters situation - dangling from a thin rope in 
+pitch darkness, suspended 15 feet above a whirling 
+combat of clashing steel. 
+
+Ores (2): Int Avg; AL LE; AC 6; MV 9; HD 1; hp 7; 
+THACO 19; #AT 1; Dmg by weapon; SA Nil; SD Nil; 
+SZ M; ML Elite (14); XP 15. They wield long 
+swords and spears. 
+
+If the PCs engage the Chamber #1 ores in com 
+bat for more than two rounds, the ores in Cham 
+ber #2 send one of their number to investigate. 
+This ore arrives on round 5, and joins in the bat 
+tle. Should the ore not return to his comrades, the 
+remaining ores head to Chamber #1 and arrive in 
+round 10. (See Chamber #2 for details on these 
+ores.) 
+
+
+29 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c The Secret r Base 
+
+
+Chamber #6 
+
+This chamber houses the main barracks for the 
+ores, who currently sleep in their beds. Anyone 
+besides a thief who enters this room inadvertently 
+wakes one of the ores. The ore shouts a warning 
+to his comrades, who leap up naked from their 
+beds and grab weapons nearby, attacking at the 
+end of the round. Thieves who make successful 
+Move Silently rolls each round may slay the ores 
+as they sleep (one ore per round), but any failure 
+wakes one of the ores and triggers the combat. 
+Ores (12): Int Avg; AL LE; AC 10; MV 9; HD 1; hp 
+6; THACO 19; #AT 1; Drng by weapon; SA Nil; SD 
+Nil; SZ M; ML Steady (13); XP 15. All wield broad 
+swords. 
+
+The PCs find 220 gold pieces among the ores' 
+possessions. 
+
+
+Chamber #7 
+
+The ores have tethered their wolves here, and 
+put a slatted wooden gate across the entrance, fas 
+tened by a small padlock. The wolves start to bark 
+and howl if they catch scent of the PCs, a 50% 
+chance each round the PCs stay within 30 feet of 
+the chamber opening. The noise does not attract 
+any ores-none are nearby-but it should panic 
+the players enough to give them a bit of a scare. 
+
+If released, the wolves will attack the PCs, but 
+otherwise are helpless in their pen, (Characters get 
+no experience points for slaying helpless crea 
+tures.) Wolves (4): Int Semi; AL N; AC 7; MV 18; 
+HD 2+2; hp 18; THACO 19; #AT 1; Drng 2-5; SA Nil; 
+SD Nil; SZ S; ML Avg (11); XP 65. 
+
+
+Chamber #8 
+
+This 30-foot-high chamber contains the main 
+orcish food supply. A carrion crawler lurks amid 
+the boxes, tamed by the ores after several skir 
+mishes. PCs entering the chamber see a fresh slap 
+of meat near the entrance. The carrion crawler 
+attacks from behind one of the crates shortly after 
+the PCs enter. Roll normally for the monster's 
+chances to surprise the characters. 
+
+The carrion crawler has only four attacks, hav 
+ing lost half its tentacles in its fights with the ores. 
+It must concentrate all of its attacks on one oppo 
+nent. 
+
+Carrion Crawler (X): Int Non; AL N; AC 3/7; MV 
+12; HD 3+1; hp 19; THACO 17; #AT 4; Drng 1-2; 
+SA paralysis; SD Nil; SZ L; ML special; XP 270, 
+
+The crates contain various orcish delicacies 
+
+
+the south wall. The room contains six rough wood 
+bunks, a table, and four chairs. 
+
+The ores in this room may have gone to Cham 
+ber #1 during the combat there. If not, the PCs 
+catch these ores off guard and receive a free 
+round of attack. 
+
+Ores (6): Int Avg; AL LE; AC 7; MV 9; HD 1; hp 6; 
+THACO 19; #AT 1; Dmg by weapon; SA Nil; SD Nil; 
+SZ M; ML Steady (13); XP 15, All wield broadswords. 
+
+The ores have 40 gold coins of Shield Land 
+mintage and 240 gp worth of looted jewelry, scat 
+tered among the various hunks. 
+
+
+Chamber #5 
+
+This chamber stands 20 feet high and is lit by 
+two torches, one on the east wall and one on the 
+west. As the PCs round the second turn in the 
+approach tunnel, they hear an argument erupt 
+filled with loud, barking shouts. Those that speak 
+orcish recognize it as a fight over a card game. 
+Pour ores stand over a small table, yelling at and 
+pushing each other, while two more ores lie on 
+beds nearby. The argument has momentarily dis 
+tracted the ores, and attacking PCs can automati 
+cally gain initiative for the first round. 
+
+Ores (6): Int Avg; AL LE; AC 7; MV 9; HD 1; hp 5; 
+THACO 19; #AT 1; Dmg by weapon; SA Nil; SD Nil; 
+SZ M; ML Steady (13); XP 15. They wield 
+broadswords. 
+
+The PCs find 180 sp in the room, mostly on the 
+
+
+Chamber #3 
+
+The ores use this dark chamber for storage. 
+Crates and boxes fill the area, holding Shield Land 
+weapons and armor. Giant centipedes have 
+infested the crates; when PCs open one of the 
+boxes, Id 10 of the creatures attack. 
+
+Giant Centipedes (ldlO): Int Non; AL N; AC 9; MV 
+15; HD 1/4; hp 1; THACO 20; #AT 1; Dmg nil; SA 
+Poison; SD Nil; SZ T; ML Unsteady (5); XP 35. 
+
+
+Chamber #4 
+
+This 25-foot-high chamber houses the barracks 
+for the orogs. A single torch lights the chamber 
+from an alcove to the north. As soon as the PCs 
+enter, the orogs attack. 
+
+Orog (4): Int High; AL LE; AC 5; MV 6; HD 3; hp 
+18; THACO 17; #AT 1; Dmg by weapon; SA +1 to 
+damage; SD nil; SZ M; ML Elite (14); XP 65. They 
+wield long swords and carry 50 gp each. 
+
+
+i 
+
+
+30 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+'7 fie Secret c Base 
+
+
+nation reveals this as the chamber from which the 
+three humans found the gold ore, though the vein 
+is mostly spent now-an individual with the Min 
+ing proficiency can, if given time, extract about 
+100 gp worth of raw gold. 
+
+
+Chamber #12 
+
+This room contains the linchpin encounter of 
+the adventure, the Elders of the Orcish War Band, 
+Slaying these leaders will rout the orcish forces 
+inside the base and scatter them back across the 
+Veng. Four torches light the 15-foot-high cham 
+ber, one in each wall. The Elders have heard the 
+combat as PCs fought their way through Chamber 
+#13, and now stand ready to fight. These 
+humanoids represent the elite of luz's secret 
+forces in Furyondy, 
+
+Ore Leaders (4); Int Avg; AL LE; AC 4; MV 9; HD 
+2; hp 16; THACO 17; #AT 1; Dmg by weapon; SA 
++ 1 to weapon damage; SD Nil; SZ M; ML Elite 
+(14); XP 65, Both wield long swords, 
+
+Orogs (2): Int High; AL LE; AC 4; MV 6; HD 3; hp 
+24; THACO 16 (adjusted); #AT 1; Dmg by weapon; 
+SA +1 to weapon damage (not including magical 
+long sword); SD Nil; SZ M; ML Elite (14); XP 65. 
+Both wield long swords +1* 
+
+Ogre (1): Int Low; AL CE; AC 5; MV 9; HD 4+1; 
+hp 33; THACO 17; #AT 1 Dmg: 1-10; SA +2 to 
+weapon damage; SD Nil; SZ L; ML Steady (12); XP 
+175, It fights unarmed. 
+
+The PCs find maps detailing luz's war plans 
+spread on a table in the center of the room, as 
+well as 300 gp and two healing potions in a chest 
+in a corner. The maps detail the war plan 
+described at the beginning of the chapter. 
+
+When the ores discover the death of their lead 
+ers, their morale automatically fails and they 
+shout the news throughout the complex as they 
+attempt to flee. Of course, the possibility exists 
+that the PCs won't realize that the deaths of the 
+Elders will cause the remainder of the ores to bolt; 
+rangers will automatically know this, but give 
+other PCs an Intelligence check to make the obvi 
+ous deduction-they've fought enough ores by 
+now to know how they operate! 
+
+Of course, if the PCs don't make this realiza 
+tion, they might simply snatch luz's plans and 
+hightail it out of the complex-which, since the 
+ores will eventually stumble across their fallen 
+leaders, will do the trick too. 
+
+
+and foodstuffs (edible, but generally repulsive, to 
+non humanoids). In addition, the PCs find a crate 
+containing six potions of healing . 
+
+
+Chamber #9 
+
+This serves as an outpost station to prevent 
+entry into Chamber #10, The chamber, 30 feet 
+high, contains both ores and orogs in the guard 
+post. 
+
+Ores (6): Int Avg; AL LE; AC 6; MV 9; HD 1; hp 7; 
+THACO 19; #AT 1; Dmg by weapon; SA Nil; SD Nil; 
+SZ M; ML Steady (13); XP 15. All wield 
+broadswords. 
+
+Orogs (2); Int High; AL LE; AC 4; MV 6; HD 3; hp 
+15; THACO 17; #AT 1; Dmg by weapon; SA +1 to 
+damage; SD Nil; SZ M; ML Elite (14); XP 65. Both 
+wield long swords. 
+
+The passage to the south leads to the caved-in 
+mine entrance (impassable). The passage to the 
+north leads to the complex's payroll depository. 
+
+
+Chamber #10 
+
+This 25-foot-high chamber contains the payroll 
+depository for the war band. A wooden slatted 
+gate fastened with a small padlock covers its 
+entrance. The PCs can see numerous crates and 
+sacks through the gaps between the slats. 
+
+An ogre inside waits to attack any unauthorized 
+individuals in the chamber. It takes him only a 
+moment to realize this also includes the PCs. 
+Since he hides behind several large crates, roll his 
+chances for surprise normally. 
+
+Ogre (1): Int Low; AL CE; AC 5; MV 9; HD 4+1; 
+hp 22; THACO 17; #AT 1; Dmg 1-10; SA +2 to 
+weapon damage; SD Nil; SZ L; ML Steady (12); XP 
+175, 
+
+The various crates contain 2,000 gp, 8,000 sp, 
+and 12,000 ep, all of mixed mintage. A broad 
+sword +7 has been hidden underneath the crate 
+containing the copper pieces. Players will be 
+tempted to have the PCs take as much treasure as 
+they can possibly carry, but remind them about 
+encumbrance and the effects it could have on 
+their characters' combat abilities. If the players 
+seem greedy, be sure to have them specifically 
+account for the amount of weight their characters 
+carry. 
+
+
+Chamber #11 
+
+The ores had no particular use for this cham 
+ber, so left it empty and unguarded. Close exami- 
+
+
+31 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c T(ie Secret 'Base 
+
+
+
+
+
+Chamber #13 
+
+This chamber guards the war room of the War 
+Band Elders, and contains some of the best regu 
+lar ore troops in the complex. All have superior 
+morale scores. 
+
+Ores (8): lilt Avg; AL LE; AC 6; MV 9; HD 1; hp 8; 
+THACQ 19; #AT 1; Ding by weapon; SA Nil; SD Nil; 
+SZ M; ML Elite (14); XP 15. All wield long swords. 
+
+The noise of the fighting in this room alerts the 
+Elders, who prepare for battle. If the PCs some 
+how bypass these ores without battle, give them a 
++ 2 to initiative on the first round of combat 
+against the War Band Elders, 
+
+
+Chamber #14 
+
+This chamber also serves as barracks, and has 
+features identical to Chamber #2, including the 
+ores. These ores, however, arc too far away to 
+hear the combat in Chamber #1. The can PCs find 
+60 gp total at various bunks in the chamber. 
+
+
+Chamber #18 
+
+This chamber holds the main orcish armory. 
+Weapons and armor fill large crates, as well as 
+lying scattered about the 20-foot-high chamber. 
+Another padlocked, slatted gate blocks its 
+entrance. 
+
+Inside are enough arms and armor to equip a 
+small army. Most of the armor is heavy orcish 
+leather (treat as studded leather), designed for 
+hit-and-run ground skirmish troops. 
+
+
+Chamber # 16 
+
+This chamber is the base's main guard station, 
+safeguarding the entrance to the complex. This 
+means the ores here are ready for trouble; little 
+chance exists to surprise them. 
+
+Ores (6): Int Avg; AL LE; AC 6; MV 9; HD 1; hp 6; 
+THACO 19; #AT 1; Dmg by weapon; SA Nil; SD Nil; 
+SZ M; ML Steady (13); XP 15, All wield broad 
+swords. 
+
+Ore Leaders (2): Int Avg; AL LE; AC 4; MV 9; HD 
+2; hp 12; THACO 17; #AT 1; Dmg by weapon; SA 
++1 to damage; SD Nil; SZ M; ML Elite (14); XP 65, 
+Both wield long swords. 
+
+
+Chamber #17 
+
+Guard wolves inhabit this chamber, howling 
+when they catch the scent of nonhumanoids in 
+much the same manner as the wolves in Chamber 
+
+
+#7. Unlike those wolves, however, these howls 
+manage to alert the humanoids in Chamber #16, 
+The wolves have a 50% chance per round of catch 
+ing the scent of any nonhumanoid who passes 
+within 30 feet. 
+
+Again, the ores have penned in the wolves. The 
+wolves attack if PCs let them loose, but are other 
+wise helpless. Their chamber, unlit, stands only 4 
+feet high. 
+
+Wolves (3): Int Semi; AL N; AC 7; MV IS; HD 2+2; 
+hp 18; THACO 19; #AT 1; Dmg 2-5 SA Nil; SD Nil; 
+SZ S; ML Avg (11); XP 65. 
+
+The tunnel to the north leads out of the com 
+plex, to a secret entrance hidden in the nearby 
+woods. 
+
+
+Conclusion 
+
+
+The defeat of the Elders of the Orcish War Band 
+scatters the secret humanoid forces and destroys 
+Iuz's fledgling plan to conquer Fur yon dy. With 
+Iuz's war maps now in hand, Jakartai and Belvor 
+can anticipate his moves and prevent him from 
+fomenting a similar plan. Border posts along the 
+trade route are fortified, fully garrisoned, and 
+given adequate funds for their maintenance. 
+Jeremiah successfully delivers Jetero's book, 
+which provides ample evidence to convict 
+Sergeant Krayquer as a traitor, GilImore has him 
+interrogated until he talks, and then orders him 
+executed, 
+
+Malin and Emerald successfully make the jour 
+ney to Will ip and back again, delivering the ship 
+ment of gold and returning to Great wall in time to 
+stock it for the winter. Willip merchants still won't 
+travel the trade route for the time being - per 
+haps by the spring, when things have settle down 
+-'but, after all, Jakartai cant have everything. 
+
+As for the PCs, Jakartai gives them a hero's wel 
+come in Great wall, doubles their reward and 
+offers them positions with the Furyondian secret 
+forces. The DM can use this as a good starting 
+point for future adventures, or can devise other 
+rewards that provide equally opportune jumping- 
+off points. 
+
+And, of course, there is always the matter of 
+Iuz's revenge! The demi-power continues to 
+scheme, outraged that his brilliant plans have 
+been foiled by a group of rank amateurs. Next 
+time, he will make sure not to entrust his plans to 
+incompetents . . . Next time , . . 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c 
+
+rag; 
+
+SOI 
+
+n / 
+
+viin< 
+
+iS 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c 
+
+>ne sq 
+
+uart 
+
+¦ = 
+
+20 fe" 
+
+it 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+11 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+r 
+
+, i- \-A-r - 
+
+
+
+
+
+
+1 
+
+
+
+
+
+
+
+
+
+
+
+
+1 
+
+
+
+pL 
+
+
+
+
+
+
+
+
+
+1 
+
+
+2 
+
+J 
+
+
+
+
+
+
+
+
+Ji 
+
+2 
+
+
+
+
+
+
+
+
+
+
+1 
+
+L 
+
+¦d 
+
+
+J 
+
+
+
+
+
+
+
+
+
+
+
+
+| 
+
+
+¦CI3 
+
+Hi 
+
+M 
+
+
+
+
+
+
+
+
+
+
+
+
+10 
+
+
+
+
+
+
+
+
+F 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1 •- '1 . : 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1 J 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1 
+
+4 
+
+--- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[ 
+
+3 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+m 
+
+m 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+< 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+¦i. 
+
+j 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+i 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+WM -1 
+
+
+
+
+
+4 
+
+
+
+
+3 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+L 
+
+Li 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+| 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+i 
+
+IL 
+
+1 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1 
+
+
+" u 
+
+1 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+l 
+
+r 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+)>-{ 
+
+
+-7^// V^5z/ \ A f~^~ 
+
+rVVV )~a 
+
+A. y 
+
+AflflpA/S 
+
+
+
+kh/n/f f- '?i /-'" 7* rT.7y7 
+
+Ax- ¦ 
+
+¦3 HK V-( a )- 
+
+- jyp-- f >. 
+
+
+
+> /¥A. < 
+
+
+
+
+
+
+
+"Pf/ \ / ^ 
+
+/L yid/iM p / KP/l/ 
+vOx ;* / 
+
+iiichtnvC#. / 
+
+
+
+
+> "7" V;,-< 
+
+/ \ / j# // A /x )v-\ / if /V H gPV / 
+
+
+
+
+/ / [ 
+
+|y^c^ j | ^ 
+
+
+M 
+
+
+\ 
+
+Y7 T 
+
+
+// \_y \ / \ / v 
+
+i / / \ / \ / \ 
+
+
+\ / \_/ \ / \ /j 
+
+7\ / \ / \_/^g 
+
+
+
+^*^K?xVtHS)W' 17 r 
+
+x§)/£/h 
+
+idspor^W Q r 
+
+>&a/w<wt 
+
+
+/ -\>l 
+
+
+
+
+v 7 w , 
+
+
+" \ 7#a- 
+
+
+
+' ffijkti ¦'^ 5 *': j ; - - hJI. A / 
+
+
+
+
+
+\_/ Xz 
+
+j ,/y 1 7 JvaI 
+
+
+
+
+W&2| 
+
+.p/7x7y7\ 
+
+==X~aZTjvX 
+
+\ fs2\ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Si 
+
+m 
+
+J# 
+
+m 
+
+lg| 
+
+
+reatwall is in peril 
+
+
+not from the military forces of 
+Dll Iuz, but from lack of goods and supplies. Caravans 
+
+> from Willip have ceased thanks to increased dangers 
+
+on the Willip Critwall Grabford Trail. As the key fort 
+positioned to contain the Iuzian flood, Greatwall is a 
+strategic necessity. Its failure would mean a major 
+incursion along the border. 
+
+Your characters are hired to escort a caravan from Greatwall to 
+Willip; if its merchants are afraid to come to the fort, the fort will 
+go to them. This should be simple, cut and dried guard job. Right? 
+
+Of course not. There are many surprises in store for your little 
+caravan, and your characters will need to keep their wits about 
+them day and night in order to make it to the other end. Secret 
+plans are afoot, conspiracies are brewing, and nothing is as it 
+seems while on the Border Watch. 
+
+This module uses information presented in the From the 
+Ashes boxed set and the Iuz the Evil accessories. However, 
+ownership of these two products is not necessary to play this 
+module. 
+
+
+Advanced Dunffeons|^ragons 
+
+
+Border Watch 
+
+
+TSR, Inc. 
+POB 756 
+Lake Geneva 
+WI53147 
+G.S.A. 
+
+
+TSR Ltd. 
+120 Church End, 
+Cherry Hinton 
+Cambridge CB1 3LB 
+United Kingdom 
+
+
+
+
+ADVANCED DUNGEONS & DRAGONS and GREYHAWK are registered trademarks owned by TSR, 
+Inc. The TSR logo is a trademark owned by TSR, Inc. Copyright (r) 1993 TSR, Inc. AH Rights Reserved, 
+Printed in G.S.A. 
+
+
+781560"766315 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

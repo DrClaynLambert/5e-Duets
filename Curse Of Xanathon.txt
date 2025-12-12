@@ -1,0 +1,5542 @@
+Skip to main content
+ 
+Texts
+ 
+Video
+ 
+Audio
+ 
+Software
+ 
+Images
+Sign up for free
+Log in
+ Search metadata
+ Search text contents
+ Search TV news captions
+ Search radio transcripts
+ Search archived web sites
+Advanced Search
+About Blog Events Projects Help Donate  Contact Jobs Volunteer
+Full text of "Tsr 09056 X 3 Curse Of Xanathon"
+See other formats
+X3 
+
+
+Adventure Module For Character Levels 5-7 
+
+
+1 
+
+
+
+Expert Set Adventure Module 
+
+
+Curse of Xanathon 
+
+by Douglas Niles 
+
+
+
+The Curse of Xanathon combines town and wilderness adventuring in an exciting series of five 
+detective-type scenarios. This challenging adventure supplies eight pregenerated characters to 
+help you get into the game fast, plus a bonus section for further town adventures. 
+
+
+
+9056 DUNGEONS & DRAGONS is a registered trademark oumcd by TSK Hobbies, Inc 
+
+
+
+
+
+
+
+
+
+
+
+Dungeon Module X3 
+Curse of Xanathon 
+
+by Douglas Niles 
+
+AN ADVENTURE FOR CHARACTER LEVELS 5-7 
+
+
+
+(Whereas; Stephen, Duke of Rhoona has been acfing in a dangerously urtstabie manner; 
+
+And Whereas; The Duchy of Rhoona is ready to fall before the Forces of Evil; 
+
+h is hereby decreed fhaf a valiant and courageous party of adventurers musf learn the secret of the 
+Duke's insanity and free the city from the 
+yoke of chaos. 
+
+This module contains referee notes, background information , maps and expbradon keys intended for 
+use with the D&D(r) Expert Rules. Be 
+sure to look for other products from TSR t The Game Wizards! 
+
+
+This module is protected under the copyright taws of the United States of America. Any reproduction or 
+other use of the material contained herein is prohibited wilhout the express 
+
+written permission of TSR Hobbiesjnc, 
+
+Distributed to the book trade by Random House, Inc. and in Canada by Random House of Canada, Ltd. 
+Distributed in the United Kingdom by TSR Hobbies (UK). Ltd, Distributed to the 
+
+toy and bobby trade by regional distributors. 
+
+(r) 1982 TSR Hobbies, Inc. All Rights Reserved. 
+
+DUNGEONS & DRAGONS and D&D are registered trademarks owned by TSR Hobbies, Inc, 
+
+
+PRINTED !N USA 
+
+
+
+TlrfljirnflvVusiflj 
+
+' U l^hHaiw, 
+
+
+9056 
+
+
+
+
+
+DUNGEONS & DRAGONS(r) Expert Set 
+
+Dungeon Module X3 
+
+THE CURSE OF XANATHON 
+
+
+This module is for use with the DUNGEONS & DRAGONS(r) Expert Set, which continues 
+and expands the D&D(r) Basic rules. This module cannot be played without the D&D(r) Basic 
+and Expert rules. 
+
+
+INTRODUCTION 
+
+
+STOP! If you intend to be a player in this module, do not read any further- The following 
+information is for the DM only. Knowledge of the contents of the module will spoil the adventure 
+and excitement for the players, 
+
+NOTES FOR THE DUNGEON MASTER 
+
+The Curse of Xanathon is an unusual module, in that much of the players* actions will be in the 
+form of detective work, as they try to discover clues to the problem plaguing the town. Once 
+they have located these clues, they will have to decide on a proper course of action. If they make 
+wrong decisions, they could conceivably waste much time and obtain no results. You, as the 
+DM, will need a careful touch to keep the players on the right track without making solutions 
+and objectives too obvious. 
+
+Much information is included in the various scenarios, and astute players will no doubt be able 
+to determine the proper course of action at each stage of the adventure. If a group of players is 
+unfamiliar with this type of detective game, they may become frustrated or disinterested, The 
+DM is encouraged to offer additional dues whenever these would seem to be necessary. This 
+can be handled in a number of ways. For example, the High Priest of Forsetta, who moves 
+around in a beggar's disguise, is introduced in Scenario 1, The DM should feel free lo use this 
+character whenever necessary as a source of information and guidance to the party. He will 
+never join in any adventuring, however! Also, bartenders and tavern patrons thoughout the 
+town may also be used as informants, generally for a price (l-6gp). Rumors flow freely at these 
+public gathering places, and in addition to those included in the module, the DM may wish to 
+invent some rumors of his or her own. 
+
+Before beginning play, the DM should read the module carefully and become completely 
+familiar with it. The information that is boxed is to be read aloud to the players at the appropriate 
+time. The materia! that is not boxed is for the DM*s use only and should be revealed to the 
+players at the DM's discretion. 
+
+This module has been designed for a party of 5 to 8 characters of between the 5th and 7th levels 
+of experience. The party should contain at least 1 dwarf, 1 magic-user, 2 thieves and a goodly 
+number of fighters. The total of the party's experience levels should be 35-50, with a total of 46 
+being best. 
+
+During the adventures the DM should be careful to give the player characters a reasonable 
+chance for survival. He or she should try to be fair and impartial at all times. However, if the 
+players should persist in taking foolhardy risks or making unwise choices, the DM should make 
+it clear that the characters will perish unless their actions are more well thought-out. The 
+cooperation of everyone in the party will insure that the adventures will be fun and exciting for 
+all. 
+
+The DM should try to bring all the senses into play, ft not enough to simply describe what a 
+monster looks like to the player the DM should describe how it sounds, what it smells like, 
+etc. The same is true for room descriptions. The rooms are described only briefly in this module 
+but the DM should feel free to add additional details to make the players really see the room. 
+Enhancing the atmosphere will only add extra excitement to play of this module. 
+
+For the convenience of the DM, whenever a monster or NPC is described in the text, the game 
+statistics will be listed in parentheses in the following order: 
+
+Monster/NPC Name (Armor Class; Hit Dice or Class/Levei; hit points; Number of Attacks 
+per round; Damage per attack; Movement per turn (round); Save As: Class/Levei; Morale; 
+Alignment; and Abilities for NPCs, if necessary.) 
+
+The following abbreviations are used: 
+
+Armor Class =AC t Hit Dice =HD, Cleric =C, Dwarf =D t Magic-User=M, Thief =T, Level =# T hit 
+points -hp* Number of Attacks =#AT; Damage =D, Movement =MV, Save As =Save, Morale 
+=ML; Alignment =AL; Strength =S, Intelligence -I, Wisdom =W, Dexterity =D, Constitution 
+=C r Charisma =Ch. 
+
+C/ass/Leue/ is only used for NPCs while Hit Dice is used for all other monsters. Movement in a 
+game turn is three times the movement rate per round. 
+
+
+
+SCENARIO 1 Pg.8 
+
+SKULKING THROUGH 
+THE BARRACKS 
+
+
+
+SCENARIO 2 Pg.X3 
+
+THE TEMPLE OF CHAOS 
+
+
+
+SCENARIO 3 Pg.20 
+
+JOURNEY OF THE SHRINE 
+
+
+
+SCENARIO 4 Pg.25 
+
+DUEL WITH THE 
+HIGH PRIEST 
+
+
+
+SCENARIO 5 Pg.26 
+
+TO THE RESCUE! 
+
+
+2 
+
+
+
+
+
+BACKGROUND 
+
+
+For five generations the Dukes of Rhoona have ruled the 
+city of the same name with a just and respected hand. 
+Established as an outpost from which Eric Rhoona launched 
+his far ranging raiding and trading expeditions, the town 
+has grown to a population of several thousand in its cen 
+tury of existence. The duchy is part of the greater kingdom 
+of Vest land, and is allied with the Jarldom of Soderfjord 
+and the dwarves of Rock home. 
+
+
+Rhoona may easily be placed on continental Map M-l, 
+included with D&D(r) Module XI: isle of Dread. Find Wes 
+tland's capital of Norrvik, and locate the fjord next to it. 
+Simply follow the line of the fjord toward the mountains, 
+and place Rhoona inside the "V" where the fjord separates 
+into two channels. 
+
+Many steep, treacherous and hidden passes lead across 
+the mountains to Rockhome, and dwarven caravans often 
+cross these with loads of metalgoods and other dwarven 
+crafts. In fact, a sizeable number of dwarves live in Rhoona, 
+and are presently engaged in the construction of a mighty 
+palace for the current Duke, Stephen Rhoona, 
+
+
+Located on a sheltered fjord nearly 100 miles from the sea, 
+Rhoona has a bustling port from which ships sail to ail 
+corners of the known world. 
+
+
+HELD ANN FREEHOLDS 
+
+^ : 4 * * . ^ 1 
+
+
+OSTLAND 
+
+
+Ml ' 1 . 
+
+KHANATE 
+
+
+Norrvik @ 
+
+
+^Rhoona T > ^ i 
+A^SjKlNGDOlJf 
+A 7 * OF. VESTIjANI 
+
+
+Soderfjord 
+
+
+'SODERFJORD JARLDOM 
+
+U K" 
+
+
+YI am atm 
+
+
+Atasiyan 
+
+Desert 
+
+
+EMIRATE OF YLARUAM 
+
+
+Other passes in the rugged mountain range to the north' 
+west have recently been crossed by immigrants from the 
+Ethangar Khanate. The number of these nomads in Rhoo 
+na is small, but slowly growing. They are welcomed for the 
+fine horses and goats that they bring with them. 
+
+Sheep, goats, cows, and horses are all herded in the rugged 
+country around the town. Barley, rye, fish, milk, cheese, 
+and mutton are common foods here, and Rhoona is known 
+throughout Vesttand and beyond for its many fine brewer 
+ies. A number of taverns offer the traveller a chance to 
+sample the wide variety of fermented malt beverages 
+brewed here. Wine and brandy must be imported by ship, 
+and are therefore priced accordingly. 
+
+With the exception of the unfinished Ducal palace and 
+portions of the three temples, all of the buildings in Rhoona 
+are made of wood, with either wooden or sod roofs. They 
+
+
+are one story tall, unless otherwise mentioned, and all but 
+the largest will be one room. In the Old Town near the 
+waterfront, life is hard but happy, Many taverns may be 
+found here, and strangers will generally be greeted with a 
+friendly invitation to share an ale. 
+
+Two old temples, erected decades ago, stand in Rhoona in 
+tribute to a pair of the major gods of Vest land. The Temple 
+of the Lawful Order of Forsetta is the oldest, and most of 
+the citizens are members of this faith. The basic tenets 
+include a belief in the authority of the Duke and the convic 
+tion that good deeds done throughout a person's life will 
+result in great rewards after death. The Temple of the 
+Spuming Nooga is the home of a neutral order, comprised 
+mostly of fishermen and sailors. This faith is a less restric 
+tive one, believing that a person must strive against the 
+circumstances of his life to make the best of a short 
+existence. 
+
+
+3 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recently, a newer temple has been erected to Cretia, the 
+god of the Ethangarians. Although currently there is a 
+small number of people in Rhoona from the Ethangar 
+Khanate, they have erected a large and elaborate temple. 
+To most Rhoonians, this temple is a strange and myster 
+ious place, and little is known about the beliefs of the 
+faithful. 
+
+The Ducal Guard is responsible for maintaining order in 
+the community, as well as defending it from any outside 
+threats. This brutally effective force is led by Draco Storm- 
+sailer, whose very name inspires fear and awe in most 
+Rhoonians, Once Draco sailed to all parts of the world on 
+plundering expeditions, but now he has settled down to the 
+quiet life of garrison commander. He lives in the Ducal 
+Barracks, It is said that the Duke respects his judgement 
+above all other advisors. 
+
+Recently, the town has been thrown into an uproar by 
+several rather peculiar decrees that have originated from the 
+Duke's palace. Ten days before the start of this adventure, 
+the order was issued that all taxes must be paid in beer, not 
+money. Many kegs have been delivered to the palace, and 
+now it is very difficult to purchase even a small glass of beer 
+in the taverns of Rhoona. This has contributed to grumbling 
+and complaining among the thirsty populace, but people are 
+in such a fear of the Ducal Guard that no protest has been 
+made. 
+
+Three days ago, a second decree was issued, declaring that 
+horses ridden within the town boundaries must carry the 
+riders facing the mount's tail* Since only the very wealthy 
+ever ride in the town, this decree has resulted in some very 
+entertaining sights for pedestrians, as merchants and no 
+bles struggle to maintain balance and dignity in the awk 
+ward position. Even so, more rumors have been spread 
+regarding the odd nature of the last two ducal pronounce 
+ments. Many people are frightened by the thought that the 
+Duke is no longer rational. 
+
+
+RUMORS 
+
+At the start of play, the characters will be aware of two of the 
+common rumors that circulate through the town. Roll a d6 twice, 
+comparing the result to the RHOGN1AN RUMORS TABLE to 
+determine what these rumors are. If the second roll repeats the first, 
+roll again until a different result is obtained. 
+
+RHOONIAN RUMORS TABLE 
+DIE ROLL RUMOR 
+
+1 The Duke is suffering from an inherited form of insanity 
+that has afflicted his family for a century. This has never 
+been publicly disclosed since the sickness has never 
+before appeared so openly. 
+
+2 Draco Stormsailer has murdered the Duke and is issu 
+ing the decrees in his place. 
+
+3 The dwarves who are working on the palace plan to 
+steal as much of Rhoona'$ wealth as they can carry off 
+before returning to Rockhome. 
+
+4 The Duke has finally chosen a wife! The beer has been 
+collected for a gala surprise party that he is planning to 
+throw for the entire town, where he will announce his 
+forthcoming marriage. 
+
+5 The immigrants from the Ethangar Khanate are some 
+how behind everything. No one seems to know exactly 
+what they're up to, but they know it isn't good! 
+
+6 The gods are displeased with Rhoona.The affliction of 
+the Duke is just the beginning of the terrible things that 
+will be suffered by all the people of Rhoona, 
+
+
+The characters may learn tour other rumors simply by "asking 
+around," They will not hear more than one rumor from any single 
+source, but it should not take them long to hear the lot if they are 
+interested in doing so. The DM should improvise the four rumors, 
+making them as absurd as possible. None of the rumors should give 
+the players a clue to solving the mystery. 
+
+THE PROBLEM: 
+
+The problem afflicting Rhoona is a powerful curse that has been laid 
+upon the current Duke, Stephen Rhoona, by the High Priest of 
+Cretia, Xanathon. Because this curse has been inflicted with the aid 
+of that chaotic god, a remove curse spell is not sufficient to break it. 
+Only Xanathon has the antidote, and he will not part with it easily! In 
+fact, since Xanathon has been granted a special form of invulnerabil 
+ity by his god, the party will have to discover his weakness before 
+they have a chance of successfully confronting him, 
+
+Draco Stormsailer, the widely-feared captain of the guard, is a part 
+of the plot to undermine the Duke's authority. Xanathon has prom 
+ised the ambitious captain that he will have the title of Duke when 
+Stephen Rhoona has been deposed. Two or three of Draco's most 
+trusted lieutenants are aware of his subversion, but the entire Ducal 
+Guard will follow his orders unquestioningly, unless they are en 
+gaged in obvious treason. 
+
+Xanathon has no intention of fulfilling his promise to Draco. The 
+High Priest of Cretia is an emissary of the Ethangar Khanate, and as 
+such, he has been sent to pave the way for an invasion by those 
+people of the steppes. He expects the Duke's recent insane actions 
+to result in a civil war between the forces of the Duke and Draco. 
+The two sides will destroy themselves in a war and create a 
+power vacuum in Rhoona, When the fighting is over, Ethangarians 
+will sweep in and claim the land. 
+
+The Curse of Xanathon Module is broken into five steps, called 
+Scenarios. These Scenarios will be briefly introduced here in out 
+line form and are detailed later in the module. 
+
+Scenario 1- Skulking Through the Barracks: Search the bar 
+racks of the Ducal Guard, and learn of Draco and Xanathon's 
+treachery. 
+
+Scenario 2- The Temple of Chaos: Search the temple of Cretia, 
+and discover Xanathon p s weakness. Find map to the Shrine of 
+Cretia. 
+
+Scenario 3- Journey to the Shrine: Travel to the shrine, locate 
+and capture Xanathon's life force. 
+
+Scenario 4- Duel With the High Priest: Confront Xanathon and 
+obtain the antidote for the curse. 
+
+Scenario 5~ To The Rescue!: Defeat Draco and administer the 
+cure to the Duke, 
+
+
+KEY TO RHOONA: 
+
+Although each of the scenarios has a specific place where informa 
+tion must be gathered or actions taken, the players have the entire 
+town of Rhoona in which to adventure. Since they may wish to do 
+some exploring before taking on the Ducal Barracks, the town is 
+keyed before information concerning Scenario 1 is given, Any of 
+the town locations having a detailed key and map are not detailed in 
+this section. The DM should refer to MAP A for further detail. 
+Because of the size of the town, a fully detailed key is impossible. 
+These descriptions are intended as aids to help the DM in describing 
+these settings, but he or she may wish to add more detail if players 
+plan on spending much time in these areas. 
+
+The Ducal Guard is responsible for maintaining order in Rhoona. 
+Patrols circulate through the town regularly, but their frequency 
+varies depending on the area being patrolled. Check for these 
+guards on the DUCAL PATROL ENCOUNTER CHART by 
+rolling a d6. A roll of "6" indicates an encounter with a patrol. 
+
+
+4 
+
+
+
+
+
+
+
+
+
+DUCAL PATROL ENCOUNTER CHART 
+
+AREA FREQUENCY OF CHECKS SIZE OF PATROL 
+
+
+Old Town 
+Warehouses 
+Marketplaces 
+Middle Class District 
+Upper Gass District 
+
+
+Once per 3 turns 
+Once per 2 turns 
+Once per 2 turns 
+Once per 2 turns 
+Once per turn 
+
+
+11-16 (M6+10) 
+lM6(ldfrH0) 
+11-16 (Id6+T0) 
+5-8 (ld4+4) 
+
+5-8 (ld4H) 
+
+
+These patrols are composed primarily of 1st level fighters in leather 
+armor, carrying shields and shortswords (AC 6, hp 5, #AT 1, D L6, 
+MV 90/ ML 8). For every four 1st level guards, the fifth will be 3rd 
+level, with chain mail and a longsword (AC 4, hp 16, #AT l t D 1-8, 
+MV 60/ ML 9). If more than 10 guards are encountered, the 11th will 
+be an officer of 5th level, chain mail and longsword (AC 4, hp 29, ftAT 
+1, D 1-8, MV 60/ ML 11), The Ducal Guard will not harass citizens, 
+however, unless a patrol discovers laws being broken, 
+
+All areas of the town will be busy and crowded during the hours of 
+daylight, and this is true in the Old Town and Ethangarian sector at 
+night as well. Activity in the other parts of the town does not cease 
+after dark, but becomes much less hectic* Since a party will be 
+meeting persons at the rate of 10 or 20 per round, a random encoun 
+ter table is impractical Rather, the DM should study the descrip 
+tions of the areas and simply describe a typical "'crowd scene" to the 
+players. If they wish to accost an individual t then more details can be 
+given as the DM wishes. 
+
+
+A, OLD TOWN: These areas of Rhoona have existed nearly as 
+long as the town itself. Each is amaze of alleys, homes, taverns, and 
+small shops. The alleys are generally filled with rubble and the 
+buildings are dilapidated* The Ducal Guard rarely patrols these 
+areas, and thievery is common* Most of the people are friendly in a 
+rough sort of way, however* 
+
+The Old Town sections are marked on the Map of Rhoona (MAP 
+A) with an A, These areas are made up of wall-to-wall buildings, 
+except where the twisting lines designating alleys wind through 
+them. These alleys are generally about five feet wide, and cluttered 
+with various kinds of trash. The ? marks on the map represent 
+taverns, while the 0'$ are shops and stores. All of the other areas in 
+the Old Town are taken up by the many squalid residences that 
+house the buik of Rhoona's population. 
+
+The homes and shops of the Old Town are wooden structures, with 
+doors in front and back. Homes will be occupied by one family, with 
+occupancy ranging occasionally up to ten or twelve people! Taverns 
+are larger buildings, but also contain only a single large room. 
+Residences and taverns will have a large stone hearth in the center of 
+the room, and taverns have heavy wooden tables and simple bars, 
+behind which are stored many varieties of malt beverages: beer (light 
+and dark), ale, and mead. One sp will usually purchase a large glass 
+of the brew* Wine and brandy run as high as a gp per glass, and is 
+often watered. Of course, after the Duke's recent decree, beer is 
+almost nonexistent! 
+
+Shops, taverns, and stores will all be one room buildings that are 
+slightly larger than residences. There will be a space, somewhere in 
+the building, for the proprietor and his family to eat and sleep. Often, 
+a large fireplace will occupy the center of the room. Inventories will, 
+of necessity, be small* For a craftsman or trader, there is a base 50% 
+chance of a character finding what he or she looks for there. The DM 
+should modify this percentage at his or her discretion. He or she 
+should judge how common or rare the item being sought is likely to 
+be in a town like Rhoona. Common items will have greater than 50% 
+chance of being located, and rare items will have a lower than 50% 
+chance. (Example: At a tool shop, a common item such as a nail 
+might be found as often as 90% of the time, while a carpenter's plane 
+might only be located on a roll of 15% or less.) 
+
+In order to determine the name of a specific tavern, the DM should 
+roll a d20 and compare the result to the OLD TOWN TAVERN 
+TABLE, Once the tavern is named, the DM should make a notation 
+
+
+on the large town map (MAP A) on the inside cover of the module, 
+writing down the number of the specific tavern. Then, if the charac 
+ters return to that section of town several weeks or months later, the 
+DM will not have to remember the name of each tavern. 
+
+OLD TOWN TAVERN TABLE 
+DIE ROLL (420) TAVERN NAME _ 
+
+
+1 
+
+The Gobbling Gander 
+
+2 
+
+The Waltzing Dolphin 
+
+3 
+
+The Seafarer's Inn 
+
+4 
+
+The Sinking Ship 
+
+5 
+
+The Scarlet Sail 
+
+6 
+
+Buxom Bertha's Inn 
+
+7 
+
+The Rocky Point 
+
+8 
+
+The Quiet Cove 
+
+9 
+
+The Swampy Cellar 
+
+10 
+
+The Roving Eye 
+
+11 
+
+Delightful Dahlia's Inn 
+
+12 
+
+The Dungeon 
+
+13 
+
+The Inn of The Fair Winds 
+
+14 
+
+The Red Dragon Inn 
+
+15 
+
+The Eye of the Basilisk 
+
+16 
+
+The Stormy Port 
+
+17 
+
+The Icehouse 
+
+18 
+
+The Beached Whale 
+
+19 
+
+The Lucky Gull 
+
+20 
+
+The Blarney Chicken 
+
+
+A similar procedure is used to locate shops and tradesmen in the Old 
+Town. The OLD TOWN BUSINESS TABLE lists the types of 
+businesses that may be found in the Old Town* As characters move 
+through the alleys or avenues of this sector, the DM should roll d% 
+and compare the results to that table. It will be noted that each type 
+of business has been given a key letter. By placing the corresponding 
+letter in the circle for each shop or trader, the DM can keep a 
+permanent record of each specific business as it is located. (Note: If 
+the characters and DM wish to move quickly through the area, the 
+latter may simply assign businesses from the list to the areas that the 
+players pass, without rolling the dice.) 
+
+
+OLD TOWN BUSINESS TABLE 
+
+DICE 
+
+
+ROLL (d%) 
+
+BUSINESS 
+
+KEY LETTER 
+
+1-10 
+
+Brewery 
+
+A 
+
+IMS 
+
+Fish Market 
+
+B 
+
+16-20 
+
+Vegetable Market 
+
+C 
+
+21 
+
+Meat Market-Beef and Mutton 
+
+D 
+
+22-27 
+
+Blacksmith's Shop 
+
+E 
+
+28-35 
+
+Tailor's Shop 
+
+F 
+
+36-40 
+
+Cobbler's Shop 
+
+G 
+
+41-44 
+
+Icehouse 
+
+H 
+
+45-50 
+
+Dairy Goods Shop 
+
+I 
+
+51-58 
+
+Leatherworker's Shop 
+
+J 
+
+59-63 
+
+Lumber Store 
+
+K 
+
+64-70 
+
+Woodworking Tool Shop 
+
+L 
+
+71-78 
+
+Carpenter's Shop 
+
+M 
+
+79-85 
+
+Weaver's Shop 
+
+N 
+
+86-90 
+
+Ship Builder's Shop 
+
+O 
+
+91-93 
+
+Armorer's Shop 
+
+P 
+
+94-00 
+
+Nautical Supply Store 
+
+Q 
+
+Of course, the 
+
+: characters may choose to ask directions toward a 
+
+
+particular type of establishment. If they do this, the DM will have to 
+place the business before the players have actually come to it. If the 
+characters ask a tavern owner or other merchant for directions, the 
+directions will be accurate. If they stop a passerby or ask a tavern 
+patron, there is a 50% chance that the directions will be false. 
+
+
+5 
+
+
+
+If they have been given true directions, the DM should roll 3d6. The 
+result is the number of businesses that the party will have to pass 
+before arriving at the one they seek. The DM should then roll a d4 for 
+the direction they should travel in order to get to their destination. A 
+die roll of 1 is north; 2 is east; 3 is south, and 4 is west, [f false 
+directions were given, the DM should simply use the OLD TOWN 
+BUSINESS TABLE to describe what the group passes as it moves. 
+
+The amount of money in any building in the Old Town is likely to be 
+small, although (rarely!) a thieves' trove may be discovered to con 
+tain sizeable riches. In general, homes will have an amount of money 
+equal to d% (MOO) value of gp, although the money will be in small 
+coins. The money will be hidden in a jar, stuffed in a mattress or 
+stored under a floor board. Taverns and shops may have twice that 
+amount, but it will be locked in a stout wooden chest. 
+
+B. WAREHOUSES: The large buildings shown along the water 
+front are warehouses for goods that are imported and exported by 
+Rhoona's traders. Imports include cloth, wine, brandy, beans, corn, 
+dates, copper, and whale oil. Common exports are lumber, beer, 
+and wool. A warehouse with goods in it will be locked, and will have 
+2 12 1st level fighters as guards, depending on the value of the 
+merchandise (AC 6, hp 5, MV 90,' D 1-8, ML 8). 
+
+To determine the contents of a given warehouse, locate the number 
+of that warehouse on the DM's town map. Find the corresponding 
+number on the WAREHOUSE CONTENTS TABLE. (The figure 
+in parentheses is the cash value of the goods in the warehouse.) 
+
+
+WAREHOUSE CONTENTS TABLE 
+
+KEY LETTER _ CONTENTS 
+
+B1 I f GQG bales of Ylaruam silk (50,000 gp) 
+
+B2 Empty and run-down 
+
+B3 5,000 barrels of whale-oil (80,000 gp); lumber 
+(5,0000 gp) 
+
+B4 1,000 barrels of wine (50,000 gp); 10,000 barrels 
+of beer (100,00 gp) 
+
+B5 10,000 crates of dates, com, and beans 
+(100,000 gp) 
+
+B6 Empty 
+
+B7 20,000 bars of copper (20,000 gp) 
+
+B8 30,000 bales of wool (120,000 gp) 
+
+B9 Empty and rat-infested 
+
+B10 10,000 bottles of brandy (100,000 gp); 15 guards! 
+
+Bll Lumber (20,000 gp) 
+
+B12 Empty 
+
+B13 10,000 bales of Thyatian cotton (50,000 gp) 
+
+B14 5,000 bars of copper (5,000 gp); 10,000 bars of 
+
+bronze (20,000 gp); 10,000 bars of iron 
+(40,000 gp) 
+
+B15 4,000 barrels of whale-oil (66,000 gp) 
+
+
+C MARKETPLACES: These two squares are the scenes of 
+intensive bartering and bargaining on the weekly market day, when 
+farmers bring their goods info town and set up stalls in the plazas 
+around each marketplace. Live animals, fresh milk, fresh fish, and 
+occasionally apples and cherries will be available on this festive day. 
+Some craftsmen also take advantage of the crowds and peddle their 
+goods at the market. 
+
+Because of the bargaining that goes on, exact prices of goods will 
+have to be determined after considerable haggling between the DM 
+and the players. Use the prices listed on the MARKETPLACE 
+PRICE TABLE as a guideline. Generally, a merchant will begin by 
+asking 2-3 times the listed amount, but with successful wheeling and 
+dealing, it is often possible to get the price reduced to one-half the 
+figure on the table. 
+
+
+MARKETPLACE PRICE TABLE 
+ITEM AVERAGE COST 
+
+
+Cow, steer, or horse 100 gp 
+
+Goat, pig, or sheep 60 gp 
+
+Bushel of corn, beans, oats, etc. 10 gp 
+
+Bushel of fresh fruit 10 gp 
+
+1 large fish 1 gp 
+
+Quart of milk, or cheese cube 5 sp 
+
+l dozen eggs 5 sp 
+
+Bolt of silk 20 gp 
+
+Bolt of wool 5 gp 
+
+Leather tunic 10 gp 
+
+Leather boots 5 gp 
+
+Cold weather cloak 20 gp 
+
+
+D. THE TEMPLE OF THE SPUMING NOOGA: This is 
+the temple patronized by most of the seafaring folk of Rhoona. The 
+deity of the Spuming Nooga is pictured as a giant whale spouting a 
+great column of spray into the air. The alignment of the god and its 
+followers is extremely neutral, and believers tend to be very self- 
+reliant people. They are generally loyal citizens, paying taxes to the 
+Duke and mixing freely with the other citizens of Rhoona. The 
+temple is a simple wooden structure near the waterfront, with a large 
+central chamber and four smaller rooms in the comers. A 9th level 
+cleric, Grinnsven Yenson, presides here, with a half dozen 1st and 
+2nd level assistants. The trappings of the religion are simple, and 
+there is very little in the temple of value to an outsider. 
+
+E. THE TEMPLE OF FORSETTA: This is the lawful religion 
+to which about 3/4 of the citizens of Rhoona belong. Most of the 
+building is wooden, but the central sanctuary is made of stone. 
+Members of this sect believe very strongly in the authority of the 
+Duke, and above him, the King. They tend to be orderly citizens who 
+always pay taxes and will unfailingly obey the commands of the 
+Ducal Guard. (As long as they believe those commands were issued 
+by the Duke!) 
+
+One of the wings of the temple houses the clerics, of whom there are 
+many of lower levels, and one each of 6f h, 8th, 11th, and 14th level. 
+The other wing contains a meeting and dining hall, as well as many 
+small chambers where the clerics may privately counsel and console 
+the faithful Donations to the church are encouraged, and a rather 
+large trove of wealth has been established. It is stored in a secret 
+room of the sanctuary, and includes gold and silver pieces, and 
+valuable platters, candlesticks, pitchers, and other implements 
+crafted from fine metals and often inlaid with jewels. The total worth 
+of the trove is 25,000 gp. Stealing from it would obviously be a highly 
+chaotic act and one of the clerics would use a commune spell to 
+determine the culprit or culprits. Immediate, appropriate (and fatal!) 
+action will be taken against them. 
+
+F. BARRACKS OF THE DUCAL GUARD: See MAP B 
+and key under Scenario 1- Skulking Through The Barracks. 
+
+G. MIDDLE CLASS RESIDENCES: These areas, while just 
+as crowded and maze-like as the Old Town, contain slightly larger 
+dwellings. Nonetheless, the homes are still single room affairs, al 
+though it is likely that the husband and wife will have a small alcove in 
+which they sleep. Fewer shops can be found in these districts, since 
+the residents do most of their shopping at the marketplaces. The 
+Middle Class sections of Rhoona are marked with a G on the town 
+map. 
+
+As in the old town, taverns are marked with an ?. Reflecting the 
+slightly greater wealth of the customers, prices for a glass of beer wil! 
+range from 15 cp to 2 sp, and wine or brandy may be as high as 2 gp 
+per glass. There is a 50% chance that beer will be available even after 
+the Duke's order that all taxes be paid in that beverage. A generous 
+bribe (2- 12gp) will be necessary before the bartender will admit to 
+this, however, as it is usually reserved for regular customers. 
+
+
+6 
+
+
+
+The DM should roll a dl2 and compare the result to the MIDDLE 
+CLASS TAVERN TABLE in order to determine the name of a 
+specific tavern in the Middle Class Section. 
+
+MIDDLE CLASS TAVERN TABLE 
+DIE ROLL(dl2 ) TAVERN __ 
+
+1 The Crystal Girdle 
+
+2 The Inn of The Wandering Wench 
+
+3 The Sudsy Mug 
+
+4 The Inn of the Evening Star 
+
+5 Oly and Olga s Inn 
+
+6 The Slippery Seal 
+
+7 The Golden Dragon 
+
+8 The Peaceful Sea 
+
+9 The Grinning Goblin 
+
+10 The Inn of the Gleaming Glass 
+
+11 The Honest Traders Inn 
+
+12 The Elegant Eagle 
+
+
+Although there are not as many businesses in the Middle Class 
+district as in the Old Town, a few tradesmen and merchants have 
+established shops here. As with the Old Town, the DM should place 
+the key letter of a business in the circle marking that establishment 
+on the large town map. The following table lists the types of shops 
+that may be found here. 
+
+
+MIDDLE CLASS BUSINESSES TABLE 
+DIE 
+
+
+ROLL <d%> 
+
+TYPE OF BUSINESS 
+
+KEY LETTER 
+
+01-05 
+
+Horsetrader 
+
+A 
+
+06-12 
+
+Brewery 
+
+B 
+
+13-16 
+
+Blacksmith's Shop 
+
+C 
+
+17-20 
+
+Icehouse 
+
+D 
+
+21-25 
+
+Leatherworker's Shop 
+
+E 
+
+26-30 
+
+Carpenter's Shop 
+
+F 
+
+31-38 
+
+Jeweler's Shop 
+
+G 
+
+39-45 
+
+Stonemason's Shop 
+
+H 
+
+46-50 
+
+Wainwright's Shop 
+
+[ 
+
+51-55 
+
+Alchemist's Laboratory 
+
+J 
+
+56-62 
+
+Tailor's Shop 
+
+K 
+
+63-70 
+
+Cobbler's Shop 
+
+L 
+
+71-75 
+
+Armorer's Shop 
+
+M 
+
+76-80 
+
+Moneychanger 
+
+N 
+
+81-87 
+
+Dairyfood Store 
+
+O 
+
+88-91 
+
+Vegetable Market 
+
+P 
+
+92-96 
+
+Fish Mart 
+
+Q 
+
+97-00 
+
+Butcher's Shop 
+
+R 
+
+
+Since these buildings are larger than those in the Old Town, the 
+merchants can maintain better inventories. The DM should assume 
+a base 66% chance of the party locating the specific object for which 
+they are searching. As before, this is modified according to how 
+common or how rare the DM judges the item to be. 
+
+The standard of living is higher in the Middle Class district than in the 
+Old Town, so each building is likely to have a little more money in it. 
+The amount of wealth in a home will be 101-200 gp (d% + 100), but 
+there is a 75% chance that it will be locked in a sturdy wooden chest. 
+The businesses will have 200-1200 gp in them (2d6 x 100), The wealth 
+will certainly be locked inside of a metal strongbox. Moneychangers 
+and jewelers will have 1,000 to 6,000 gp extra available for emergem 
+ties. The extra funds will be hidden in a strongbox below a secret 
+trapdoor. 
+
+
+H. ETHANG ARIAN SECTOR: This area is populated by the 
+immigrants from the Ethangarian Khanate. These nomadic steppe 
+dwellers have established their own small community within the 
+town of Rhoona, centered around the huge Temple of Cretia. The 
+homes and shops of this area are arranged in a protective semi 
+circle, with a wide gateway leading to the front of the temple, Many 
+wagons and carts are kept near this gateway, and can be pulled 
+across it in a few minutes to create a well-protected fort. The few 
+twisting alleys leading through the Ethangarian community can be 
+similarly blocked. 
+
+The Ethangarians have brought herds of goats and horses over the 
+mountains which they have sold to the people of Rhoona for huge 
+profits. Thus, the standard of living in this sector is high, though it 
+varies considerably from house to house. The poorest people live on 
+the outer fringes of the sector, while the wealthiest members live on 
+the inside, fating the temple. Several shops and stores, also facing 
+the temple, can be found in the district, for the Ethangarians have a 
+fairly self-sufficient community. Blacksmiths, horse trainers, 
+butchers, leather workers, wain wrights, and a carpenter have shops 
+here, as well as several food merchants. The staple foods include 
+milk, cheese, mutton, goat, and bread. 
+
+
+I. DUCAL PALACE: See detailed key under Scenario 5-To 
+The Rescue! Please refer to MAP E for room locations and addi 
+tional information. 
+
+
+
+J. DWARVEN QUARTERS: These long, low buildings are the 
+barracks and shops of the dwarves who are living in Rhoona to work 
+on the Ducal Palace, A total of 55 of the stocky folk live here. Several 
+smithys, a silversmith, goldsmith, and stonemason's shop occupy 
+many of the buildings, with the rest being used as living, eating, and 
+drinking quarters. The dwarves are a skilled (and expensive!) labor 
+force, doing the work for great profit. Each week or two, a shipment 
+of gold is sent by caravan over the passes to Rockhome, so there is 
+never a large amount of treasure here. 
+
+The dwarves have managed to hide several dozen kegs of beer from 
+the Ducal Guard, and gather in one of the barracks every evening to 
+partake of the brew and grumble about the mismanagement of their 
+projects by their various human directors. They are strictly lawful in 
+alignment, but their loyalty is to their race and home nation of 
+Rockhome, rather than to the Duke, 
+
+K. UPPER CLASS RESIDENCES: These large walled build^ 
+ings are the homes of retired raiders and traders who were lucky or 
+skilled enough to make a respectable fortune during their active 
+careers. The houses vary from 7 18 rooms (2d6^6) and will contain 
+souvenirs from most parts of the world. The amount of treasure in 
+each home will vary from 3,000 to 18,000 gp (3d6 x 1,000). This will 
+include silver tableware, pictures, frames, candelabra, skins, cloth 
+objects (tapestries, garments, draperies), as well as coins and jewels. 
+Each residence will have a 1st level guard (AC 6, hp 5, #AT 1, D L6, 
+MV 90, ML 8} for each 1,000 gp of treasure on the premises, and 
+there is a 75% chance that L-4 guard dogs (treat as wolves) will be 
+patrolling the courtyard at night. Although only four of these resi 
+dences are shown on the map, several dozen more spread past the 
+town boundary and into the hills beyond. 
+
+
+7 
+
+
+
+
+
+THE ADVENTURES 
+
+
+
+SCENARIO 1: 
+
+SKULKING THROUGH THE 
+BARRACKS 
+
+
+DM Note: Give the players MAP F (found on Page 32 of this 
+module). As the DM, you will use MAP B (Ducal Barracks) and 
+MAP A (DM's Map). 
+
+To begin playing the module, the players should then select one of 
+the inn locations on MAP F (marked with an ?) in the Old Town as a 
+base of operations. The DM may choose any name from the list of 
+Old Town taverns, telling the players the name of the inn. Note: 
+More inns are marked on the DM's map than the players', since the 
+party can't be expected to be familiar with every tavern in the town. 
+
+The party may elect to stay at this inn, not only as a gathering place, 
+but as a "residence." Persons who stay overnight in the inns of 
+Rhoona generally do not retire at an early hour, since they must 
+sleep in the tavern's single room. These lodgings are cheap, how 
+ever, generally costing 1 gp per night. This fee includes supper and 
+breakfast. If an inn does not satisfy the party's need for privacy, they 
+may then rent a small building of their own. The fee will be 10 gp per 
+night for the entire one room hut, but no meals are included. Most of 
+the tavern owners either rent these places or they can direct the 
+group to someone who does. 
+
+Regardless of where the group chooses to stay, the adventure will 
+begin in a tavern. The following individuals will also be in whatever 
+inn the groups selects as a starting point: 
+
+* 3'18 sailors, merchants, and thieves 
+
+* One half of the above number of women 
+
+* A 4th level dwarf, (AC 3, hp 24, #AT 1, D1 8, MV 60/ ML 10 AL, 
+L) with battle axe and plate mail. 
+
+* A 14th level cleric, (AC 8, hp52, MV 120,'ML 11, AL L), wears a 
+tattered robe and appears to be a beggar. 
+
+The dwarf is Grimmvat Stonebreaker, a mason who has been work 
+ing on the Ducal Palace. His curiosity has brought him into the Old 
+Town. The cleric is Eric of Forsett, high priest of the Temple of 
+Forsetta, He is following the group of adventurers, since he has 
+knowledge that might help them in their mission. Eric would like to 
+see the Temple of Cretia destroyed, but his lawful religion prevents 
+him from taking direct action. He is limited to aiding the group with 
+advice and information. He may also use his restorative spells on the 
+party between scenarios, if the group is able to locate him. 
+
+Eric has the following spetis: 
+
+First Level: cure light wounds (x2); detect evil; detect magic; 
+light; protection from evil 
+
+Second Level: bless; find traps; know alignment; resist fire; 
+speak with animal 
+
+Third Level: continual light; cure disease; locate object; 
+remove curse; striking 
+
+Fourth Level: create water; cure serious wounds; neutralize 
+poison; profeetiort/eviJ 10' radius; speak with plants 
+
+Fifth Level: commune; create food; dispel evil; raise dead. 
+
+
+The present atmosphere in the tavern is quiet and solemn, since no 
+beer is available. Expensive wine can be purchased, but does not 
+satisfy these customers. Grimmvat will grumble irately about "hu 
+man mismanagement." A short time will pass, while throats get 
+drier, and Grimmvat grows more vocal as he grumbles, "Blasted 
+decrees! Where does the Duke get these harebrained ideas, any 
+way? If dwarves were in charge...." 
+
+Some of the other patrons will react nervously to this complaining, 
+but none of them will pick a fight with the sturdy dwarf. The players, 
+of course, may react in any way they please. 
+
+Soon, a commotion will be heard in the street, and a passerby will 
+stick his head through the tavern door and announce, "The Duke's 
+herald approaches! There must be a new decree!" Very near to the 
+tavern, the herald and a guard of ten soldiers will pause. The herald 
+will unroll a scroll and read loudly: 
+
+"Be it known to all that his Benign Munificence, Stephen, 
+Duke of Rhoona, has declared the following to be official 
+decree: 
+
+
+
+
+
+whcReas, the scheming. cpecdy, and cunninq 
+nauipe of the dwacvenfotk is known to all 
+
+wheoeas them shoot statuoes and Bcapded 
+appeaPAiices ape An af f com to the sensiBillties 
+of decent humans, 
+
+and wfaepeas. the citizens of Rhoona have 
+Already Bopne the insuLtinq ppesence of these 
+epeatupes f op too Iona, 
+
+it is h£p€By decreed that a state of war exists 
+Between the foul and copRupt domain of 
+pockhome and the vnrtuous and pelnapled 
+duchy of Rhoona 
+
+fuRthepmope, any dwapf found to Be within 
+the poundages of said duchy within one houp 
+of the oeadinq of this decpee will bc consideped 
+a danqepous camtinal susject to appest its 
+punishment shall b€ a pustic shaving of its face 
+and stpetchinq of its vile pepson upon the pack, 
+until such time as it has attained a mom human 
+statupej 
+
+such is the wopd of the duke of Rhoonar 
+
+
+
+
+
+A large crowd will have gathered to hear this pronouncement, but 
+reaction will be subdued. There is little sentiment in Rhoona for a 
+war against the powerful nation of Rockhome. After making the 
+decree, the herald and his escort will move up the street, and the 
+citizens will drift back to whatever they were doing. 
+
+
+8 
+
+
+
+"It S s Draco who's behind this, and you can mark my words!" The 
+exclamation from Grimmvat will be within hearing of the players, but 
+the dwarf is talking to no one in particular. "If it's war he wants, then 
+it's war he'll get. 'Foul and corrupt domain' indeed!" The dwarf will 
+work himself into a sputtering frenzy, and, after several more oaths 
+and declarations, will move off toward the dwarven community. His 
+anger is directed at the Duke and his guards, so a friendly approach 
+by characters will calm him somewhat. He will tell the party, if asked, 
+that the dwarves have noticed some strange occurrences at the 
+Ducal Barracks lately.,, "people that don't belong there coming and 
+going/ 1 He will repeat his assertion that Draco Stormsailer is some 
+how behind this strange declaration, and suggest that answers might 
+be learned at the barracks. 
+
+His conversation will be brief, as he needs to hurry to join the 
+dwarves that will be leaving shortly to carry the Duke's word to 
+Rockhome. "Shaving and stretching, huh? I'd like to see 'em try. 
+Give me thirty seconds with that confounded Duke...and you can 
+throw in Draco Stormsailer as well.,HI show both of 'em what it 
+means to tangle...." Grimmvat will be audible for several minutes as 
+he fumes and storms up the street. 
+
+If the characters take the dwarf's advice, they may proceed to the 
+barracks at any time to begin the search. If not, Eric of Forsett, who 
+has overheard the exchange, will approach quietly. "Wisdom may 
+hide behind a hairy face/'he will whisper as he exits the tavern. If this 
+due does not work, Eric will wait 24 hours before contacting the 
+group. "Seek your answers in the lair of the Draco!" will be his very 
+unsubtle due at this second meeting. 
+
+NOTE: The players should be allowed free access to the back 
+ground information at the beginning of this module. If they have 
+forgotten who Draco is or where he may be found, the DM should 
+reread the background information to refresh their memories. 
+
+The dwarves, meanwhile, will leave Rhoona and begin the trip to 
+Rockhome. It will take seven days for them to reach their capital, 
+another seven days to raise an army, and seven days to return with 
+an army to Rhoona. All reasonable citizens of Rhoona know that the 
+city's forces will have no chance against the powerful dwarven army, 
+and that the war must be prevented at all costs. The only hope of 
+doing this is to cure the Duke's insanity, at which time he will revoke 
+his decrees and, after explaining the curse to the approaching 
+dwarves, defuse the situation. 
+
+The Duke's decree will obviously create an awkward situation for 
+any dwarven player characters. Beginning an hour after the decree 
+has been made, any soldiers of the Ducal Guard who see a dwarf 
+inside the town will make an attempt to arrest him. An invisibility 
+spell is one obvious solution, but it will be difficult to keep the dwarf 
+invisible on a constant basis. If the group is walking down a street 
+with even a few other people on it, they may attempt to screen a 
+single dwarf with their bodies. The chances for succeeding in this by 
+having the other characters surround the dwarf in such a way that 
+the guards do not notice him is 10% per screening character. Exam 
+ple: If seven characters are gathered around a single dwarf on a 
+semi-crowded street, they would have a 70% chance of hiding a 
+dwarf from the eyes of the passing Ducal Guards. (7 characters x 
+10% = 70%), 
+
+KEY TO THE DUCAL BARRACKS 
+
+The barracks are surrounded by a 20' high wall, just inside of a 
+defensive ditch that is IQ' deep. A flimsy 4' wide catwalk runs around 
+the entire perimeter of the wall on the inside, but no guards will be 
+patrolling here. The gates are sturdy and double barred. They will be 
+closed at night, but any gate has a 66% chance of standing open 
+during the daylight hours. The Ducal Guard has grown complacent 
+and overconfident in their role as the Duke's enforcers, and as a 
+result they will not be expecting an attack. Doors to the buildings will 
+be barred unless otherwise noted, and a barred door has the effect of 
+adding 2 to a player's roll to "open doors/' Thus, if a character opens 
+doors on a 1,2, or 3 normally, he would need to roll a "T to open a 
+barred door. Note that a "1" will always open a door. 
+
+
+Servant and Guard Encounters 
+
+There is a chance of encountering either servants or guards while 
+the group is in the barracks courtyard. Roll a d6 each turn, with a "5" 
+indicating a servant encounter and a "6" indicating a guard 
+encounter. 
+
+Servant encounters will be with 14 individuals. Depending on the 
+area in the courtyard, these may be cooks, stableboys, serving 
+maids, weapon tenders, or laundrywomen. They will ignore the 
+party unless accosted, at which time there is a 25% chance that they 
+will cry an alarm, a 25% chance that they will aid the group by 
+answering questions, and a 50% chance that they will claim to know 
+nothing. 
+
+Guard encounters will be with 16 1st level soldiers (AC 6, hp 5, D 
+1-6, MV 90/ ML 8). They will approach the party and arrogantly 
+demand to know their business. If attacked, they will cal! for aid, and 
+have a 50% chance per round of being heard. If the cry for help is 
+heard, 20 1st level guards and 3 3rd level sergeants-at-arms (AC 6, 
+hp 16, ML 10) will arrive in four rounds. 
+
+The Ducal Guard totals some 120 soldiers and 25 officers, but 
+approximately 2/3 of these will be on duty in the town or palace at 
+any given time. Thus, the number of soldiers within the barracks 
+only represents about 1/3 of the Duke's entire force. 
+
+L SERVANTS* BUILDING, _ 
+
+This small, two story building is clean, but in need of repair. 
+
+It has a single door and no windows. 
+
+This is the home of several dozen of the garrison's servants. The 
+outer door is unlocked. Few servants will be here during the day, but 
+all of them will be present at night. As a group, they will be timid and 
+frightened. None will offer information in the presence of other 
+servants. There is nothing of value to the party here, save a few cp 
+and sp that individual servants may have managed to save from their 
+meager wages, 
+
+2. STABLE, _ 
+
+This large, weather-beaten structure looks much like a 
+barn. A set of double doors gives access to the east end of 
+the building, and the smell of animal manure hangs in the 
+air here. __ 
+
+The doors to this building are unlocked, Inside, six separate corrals 
+are fenced off, with a closed gate leading to each. Immediately inside 
+the doorway, to the left and right, are pens holding 10 dogs each (AC 
+7, HD 2+2, hp 10, #AT 1, D 16, MV 180' (60'), Save FI, ML 8). The 
+dogs will bark at intruders, but cannot get out of their pens. The 
+other pens hold 6 milk cows, 13 milk goats, 6 warhorses, 8 draft 
+horses, and 18 riding horses. During the day, 4 stableboys and a 
+houndmaster will be present. These servants will react to the party 
+as other servants; i.e, answer questions, sound alarm, or claim to 
+know nothing, based on a d% roll. 
+
+A raised loft contains saddles, bridles, and gear for all of the horses. 
+Much hay is piled in the loft, which can be reached by a ladder to 
+each side of the door, and milk buckets are also kept there. 
+
+3. CELLBLOCK. _ 
+
+This is a plain, stark room, barren of any amenities. Five 
+metal barred cells, a table, and a chair are the only objects 
+in the room. Two of the cells seem to be occupied, 
+
+The door from the outside leading to this room is barred and locked. 
+The two occupied cells each holds a badly injured and clean-shaven 
+dwarf. They have been stretched on the rack so severely that they 
+cannot move, but will swear vile oaths at any persons they see. 
+There is a 10% chance per round that these oaths will bring a 1st level 
+guard from the barracks to tell the dwarves to be quiet. 
+
+If these dwarves notice that the characters have a dwarf among the 
+group, they will cease their swearing. Because of their injuries, they 
+cannot even walk unaided, and so will be of no help to the characters 
+
+
+9 
+
+
+
+
+
+
+in a physical sense. If they are asked why they are in such a state, 
+they will explain that the Ducal Guard caught them as they were 
+attempting to leave the town, several hours after the decree banning 
+dwarves was announced. They will beg the party to give them 
+weapons, which they will conceal in their cells and use to attack the 
+guards as soon as they get the chance, 
+
+4. BARRACKS. _ 
+
+This immense room is filled with many rows of wooden 
+bunks. Many of these bunks have people sleeping on them, 
+and several men in the uniform of the ducal guard are 
+sitting on beds in different parts of the room. 
+
+This is the barracks of the Ducal Guard, Forty guards will be present 
+here, minus any that the party has disposed of since entering the 
+barracks compound. Of these, 75% will be 1st level (AC 6, hp 5, D 
+1-6* MV 90/ ML 8) and 25% 2nd level (hp II, ML 9). 120 bare wooden 
+bunks occupy most of the room, with a small chest at the foot of 
+each. These chests are unlocked, and only 10% of them contain 
+anything of value. In these cases, the "treasure" may range from 3-18 
+gp value, usually in cp or sp. The doors into the barracks room from 
+the courtyard will be barred, but those from other sections of the 
+building will open freely. 
+
+5. BARRACKS KITCHEN. 
+
+The door from the outside is unbarred. 
+
+The room contains several large day ovens, and some 
+stacks of pots and pans, A pair of dosed doors covers a 
+cabinet on one of the room's walls. 
+
+The kitchen contains everything necessary to produce those delec 
+table meals that are common to military life everywhere. Huge pots* 
+kettles, ladles, and ovens occupy most of the room* and a pantry 
+with crates of flour and dried meat covers one wall. It will be occu 
+pied by four cooks (hp 4, ML 6) from I hour before daylight until 
+dark. 
+
+6. MESS HALL. 
+
+The door to the courtyard is unbarred. 
+
+This large room contains many long tables with benches on 
+either side of them. A stairway at the end of the hallway 
+leads to an open, dark space above. 
+
+The mess hall is usually empty, but at mealtimes - morning, noon, 
+and evening - the room will ring with the noisy shouts of the dining 
+soldiers. The noise will be dearly audible to anyone approaching any 
+of the doors to the mess hall. 
+
+7. SERGEANTS-AT -ARMS' QUARTERS, 
+
+The door to this room is barred. 
+
+This room holds two large tables, a desk, and a dozen 
+chairs. It is unoccupied when the door is opened. _1 
+
+The sergeants who are off-duty are sleeping in room 8. They will hear 
+the doors smashed open, however, and in two rounds they will 
+enter* fully armed and armored. 
+
+8. SERGEANTS-AT-ARMS 1 BARRACKS. _ 
+
+Twelve wooden bunks with thin woolen mattresses are 
+placed around the perimeter of this room. Each has a chest 
+at its foot. 
+
+Four 3rd level fighters (AC 6, hp 16* D 1-8, MV 90/ ML 10) will be 
+sleeping here, until the door to room 7 is smashed. They will quickly 
+don leather armor and carry shields and bngswords into the fight, 
+entering room 7 two rounds after they hear the door smashed. Each 
+of the chests is locked* and contains 10-40 gp (ld4 x 10) worth of 
+treasure in gold and silver coins, 
+
+9- ARMORY. _ 
+
+This low building is very solidly constructed, and has no 
+windows* The door is made of iron* and is locked and 
+double barred. 
+
+
+Within the first room are eight 1st level soldiers* (AC 6, hp 5, D 1-6, 
+MV 90/ ML 8) one 3rd level, (AC 6, hp 17* D 18, ML 10), and a 5th 
+level officer ( AC 4, hp 28, D 1-8* ML 12), Note that while the officer is 
+alive, the other soldiers will not need to check morale. 
+
+The room contains several tables and benches as well as a desk that 
+is strewn with papers. The latter are the records listing each person 
+that has a weapon or item of armor checked out of the building. 
+Neatly stacked on one of the tables next to a set of crude bone dice 
+are 18 gp, 58 sp, and 40 cp. 
+
+The doors leading to rooms 10 and 11 are made of metal, and are 
+locked tightly. The keys to these doors are kept on a ring carried by 
+the officer on his belt. 
+
+10, WEAPON STORAGE ROOM. _ 
+
+Many orderly racks of weapons are placed around the 
+room, including swords, spears* bows* and arrows. 
+
+Although much of the rack space is empty* there are still: 31 cross 
+bows, 800 quarrels, 35 quivers, 62 shortswords* 11 bngswords, 33 
+pikes, and 80 spears stored in the room. None of the weapons is 
+magical. 
+
+11, ARMOR STORAGE ROOM, _ 
+
+This large room is mostly empty, but several racks of what 
+look like clothing are placed around the walls. In the center 
+of the room is a large pile of leather. 
+
+This room is used to store the garrison's armor. Hanging on a rack 
+on the far wall are 12 suits of leather armor, and 3 coats of chain mail 
+are near the door. Hanging against another wall are 21 shields* and 
+the center of the room is piled high with huge, bulky masses of 
+leather, A closer examination of the leather will reveal it to be 
+barding (horse armor). 
+
+12, UPPER FLOOR ENTRY ROOM. _ 
+
+A rickety stairway climbs from the courtyard to a barred 
+door leading to this room. The stairway from the mess hall 
+enters through a hatch in the floor which is currently open. 
+
+A thick trapdoor is hinged so as to be able to be closed 
+quickly over this hatch, and three metal bars are easily 
+slipped through a set of brackets to hold the trapdoor shut. 
+
+Since the trapdoor is stronger than the stairs leading to it, any 
+attempts to smash it open from below will simply cause the stairway 
+to collapse. The room is empty. Only the door to room 30 is locked. 
+
+13, OFFICERS' AND SPECIALISTS' MESS HALL. 
+
+This room has four tables and several dozen benches in it. 
+
+An open doorway at the far end leads to what is apparently 
+a cooking area. Each of the tables is covered with a white 
+doth. 
+
+The doorway at the far end of the room does indeed lead to a 
+kitchen, containing two small ovens, cooking utensils* a small pantry 
+with flour, fresh meat, ice, a keg of beer* and a chest with a silver set 
+of dishes worth 400 gp. The cloths over the tables are made of fine 
+linen, and are worth 30 gp apiece, 
+
+14, SERVANTS' QUARTERS. _ 
+
+The door leads to a short hallway. Two doors are along the 
+left-hand wall, and another door is at the far end. 
+
+The three rooms opening off this corridor are the homes of the 10 
+servants assigned to the officers and specialists. Each of the rooms 
+contains enough plain wooden bunks for the occupants, arid a plain 
+table with two straight-backed chairs, 
+
+Four unmarried female servants occupy the first room, four unmar 
+ried men are in the second* and an older married couple live in the 
+third. Their reactions to the party should be determined with the 
+usual procedure for barracks servants. (Refer to the Servant and 
+Guard Encounters in the first part of the KEY TO THE DUCAL 
+BARRACKS.) 
+
+
+10 
+
+
+
+
+
+
+
+
+
+
+
+
+
+NOTE ON THE SPECIALISTS 1 QUARTERS (Rooms 15-21): 
+
+Each of these rooms has one or two residents. They will be gone 
+(working) during the day, but present at night. Unlike servants, they 
+are loyal to the guards and will try to call an alarm if possible. 
+Specialists are * 4 0" level, with 4 hp, unless otherwise mentioned. 
+
+
+15, houndmaster s quarters. 
+
+
+
+The boatbuilder will not be found in this room, since he is staying at 
+the waterfront until the completion of his current project. 
+
+18. BLACKSMITH S QUARTERS_ 
+
+
+This room contains several broken swords on a desk, as 
+well as the usual bunk . 
+
+The smith specializes in weapons work, and plans to take the broken 
+swords to his shop just outside of the barracks for repairs. 
+
+19. MAGIC-USER'S QUARTERS. _ 
+
+In this room is a bed and a cluttered workbench. Some 
+vials of oddly colored liquids and many shallow dishes filled 
+with a wide variety of unidentifiable substances are on the 
+bench. 
+
+A 5th level magic-user dwells here {AC 8, hp 11, MV 120/ D 1-4, 
+ML 7). He carries a dagger upon his person, and his door is wizard 
+locked. A small lab with many vials and packets of mysterious 
+ingredients is at the far end of the room. The magic-user's spells are: 
+
+First Level; read magic; magic missile 
+
+Second Level: mirror image; wizard lock 
+
+Third Level: invisibility 
+
+
+
+[f he is in his room and someone attempts to smash the door, the 
+enchanter will make himself invisible if he has enough time. He will 
+then attempt to slip out the door and warn the fighter and thief from 
+rooms 20 and 21* The three will attempt to deal with the party 
+without calling for further aid. 
+
+Among the vials in the magic-user's lab are a potion of speed and a 
+potion of giant strength. The enchanter wears a ring of protec 
+tion + L He has a sack with 179 gp hidden under his bed. 
+
+20, WEAPONMASTER'S ROOM. _ 
+
+This room is similar to the others on the hallway, contain 
+ing a bed, desk, and chair. A burly fully-armed fighter is 
+standing in the center of the room. As the door opens, he 
+whirls to face the intruders and draws a gleaming long- 
+sword. 
+
+The resident of this room is fully armed and armored since he is 
+preparing for a training session with one of the officers. He is a 12th 
+level fighter (AC 1, hp 60, MV 60/ D 4-11 [ld8+3], ML 11) charged 
+with the combat education of the Duke's garrison. He wears plate 
+mail and carries a shield +1. His favorite weapon is his longsword 
++2. His room is bare except for his weapons and armor, and he 
+keeps his door barred. 
+
+
+21. THIEF'S ROOM* _ 
+
+A bed, desk, and chair are the only items of furniture in this 
+room. A swarthy, dark haired man with a long scar on one 
+cheek leaps to his feet and faces the door as it opens. His 
+hand goes to the hilt of a sword at his side, but he does not 
+draw it immediately. 
+
+The resident of this room is a 10th level thief (AC 5 [-2 dex. adjust 
+ment], hp 21, MV 90/ D 2-7 [ld6+l], ML 9, AL C) who serves the 
+Duke as a spy. He is Draco's partner in the plot to overthrow the 
+Duke. He will join the fighter and magic-user in fighting the party if 
+one of them asks him to. If surprised in his room* he will attempt to 
+talk his way out of the situation. He bears a shartsword +1 and 
+wears elven boots. He has a locked strongbox with 210 gp, 180 ep, 
+and a 500 gp ruby in it hidden under his bed. The lock contains a 
+poison needle trap, and the key is on a thong around his neck. 
+
+NOTE ON THE OFFICERS' QUARTERS (Rooms 22 - 28): 
+
+Since the duty times of these men vary, regardless of time of day, 
+only the rooms that mention a person will be occupied. The resi 
+dents of the others will be on duty or sleeping elsewhere, as many of 
+these higher ranking soldiers keep quarters in town. The walls of this 
+building are thick, so the officers will not have heard any commotion 
+below them or in the specialists' quarters. If one of the officers is 
+attacked in his quarters, however, he will shout an alarm that will 
+bring the other two fighters in the area to his aid. The doors to all of 
+the rooms in this section will be locked , and the keys will be with the 
+respective residents. 
+
+22. OFFICER'S ROOM. __ 
+
+There is a table, a chair, and bed in this room. A blanket on 
+the bed is pulled over a figure that appears to be a sleeping 
+person* A nearly empty wine bottle sits on the table, and a 
+strongbox rests at the foot of the bed. 
+
+A 5th level fighter (AC 9 [4], hp 26, MV 120' [60'], D 1-8, ML 11) is 
+sleeping in this room. The statistics in brackets represent his status 
+in chain mail armor, which he will don if given 2 rounds of warning. 
+The strongbox at the foot of his bed is locked, and contains an extra 
+suit of chain mail, a sack with 230 gp and 390 sp in it, and a woolen 
+cloak. 
+
+23. EMPTY OFFICER'S ROOM. _ 
+
+This room is bare, except for a blanket over a wooden bed, 
+a table, and a chair. 
+
+24. DOUBLE ROOM. _ 
+
+Two unmade beds, a table with two chairs, and a desk are 
+the furnishings in this room. 
+
+Under each of the beds is a locked footlocker. The first contains a 
+cloak, leather tunic, and small sack of jewels (25 gems worth 10 gp 
+apiece). The second locker holds a cloak, a suit of chain mail armor, 
+a mace, and has a false bottom (locate as a secret door). Beneath the 
+false bottom is a leather pouch containing 260 gp, 110 ep, and 345 sp. 
+
+25. CAPTAIN'S ROOM. __ 
+
+This room contains a desk and chair, a bed with several 
+blankets on it, and a large chest. A tall man is seated at the 
+desk, but quickly rises to his feet as the door opens. It will 
+be seen that he has been working on a carving of a long- 
+ship, and as a matter of fact a pile of woodshavings coats 
+the top of the desk. 
+
+This captain is a 6th level fighter (AC 9 [2], hp 30, MV 120' [60'], D 
+2-9, ML 11). His door is locked and barred, and if given 2 rounds, the 
+captain will put on his armor, changing his statistics to those in the 
+brackets. The chest is against the wall opposite the door, and is 
+locked. The key to the chest is hidden behind the captain's belt, and 
+the chest contains a woolen cloak, suit of leather armor, and small 
+wooden box containing a 200 gp diamond, 31 gp, and 7 pp. He fights 
+with a longsword +1. 
+
+
+11 
+
+
+
+
+
+
+
+
+
+
+
+
+
+26. CAPTAIN'S ROOM, _ 
+
+A neatly-made bed, desk, small chest, table, and chairs 
+occupy this room. Several papers are on the desk. 
+
+Most of the papers are requisition forms for various supplies, if the 
+players look closely, they will see that 500 suits of leather armor, 500 
+short swords, 150 crossbows, 3,000 quarrels, 200 shields, thousands 
+of gallons of milk and cheese, and tons of meat and flour have all 
+been ordered for the Ducal Guard. The bottom sheet on the pile is 
+an order, signed by Draco Stormsailer, authorizing the drafting of 
+600 men-at-arms from the city^s population. The chest is locked, and 
+contains a suit of plate mail, a longsword, an elven cloak, and a 
+shield. The cloak will appear normal unless a detect magic spell is 
+used. 
+
+27. COMMANDER'S ROOM. _ 
+
+A carefully made bed, a desk, a table and chair are the 
+furnishings of this room. A sturdy-looking warrior in plate 
+mail armor is seated at the table sharpening a sword. _ 
+
+The warrior is a 7th level fighter (AC 0, hp 40, MV 60/ D 3-10 [+2 
+strength bonus], ML 12). He is preparing for a practice session with 
+the fighting instructor in room 20. A rack holding 6 fine daggers is on 
+the desk. None of them is magical, but jeweled hilts, golden blades, 
+and exquisite craftsmanship make them worth the following: 750gp, 
+600 gp, 500 gp (x3), and 400 gp. A small chest is hidden under the bed 
+containing 2 cloaks, a suit of leather armor, a shortsword, and a 
+small sack holding 110 pp and 4 800 gp rubies. The fighter wears 
+plate mail +2, 
+
+28. HIGH COMMANDER'S ROOM, _ 
+
+This room is bare except for a neatly made bed, a desk, and 
+a chair. 
+
+An unlocked and empty chest is under the bed. This is the room of 
+the 9th level fighter who is Draco's chief lieutenant and fellow con 
+spirator. He stays at the room of his mistress in the town, and so 
+rarely uses this room. 
+
+29. PRACTICE ROOM. __ 
+
+This is a targe empty room. Many nicks and gouges have 
+been carved into the walls, 
+
+This chamber is used by the officers for weapons practice. Because 
+they use the room frequently, sounds of combat in the officers' 
+quarters will not seem unusual to the soldiers below. 
+
+30. DRACO'S RECEPTION CHAMBER. _ 
+
+This sparsely furnished room contains only a table, four 
+chairs, and two benches. A tapestry depicting a longship 
+riding out a stormy sea hangs on the outside wall. 
+
+
+This is the entry room to Draco Stormsailer's quarters. Both the 
+door from room 12 and the door into room 31 are locked. 
+
+31, PRIVATE DINING ROOM. _ 
+
+A long table with 14 ornate, straight backed chairs occu 
+pies the center of the room. Six soft armchairs are in the 
+corners, a buffet with a collection of fine silver and crystal 
+tableware stands against one wall, and a long trophy case is 
+opposite it. 
+
+The silver is worth 800 gp and the crystal 1,000 gp, but the latter is 
+extremely fragile and would be difficult to transport . The trophy case 
+contains prizes that Draco has seized, usually by force, from the far 
+corners of the world. Among them are five bottles of fine wine worth 
+200 gp apiece, four paintings worth 500gp each, and two exquisitely 
+crafted rugs, worth 500 gp apiece. 
+
+32. DRACO'S SERVANTS' QUARTERS. _ 
+
+The large room is a general kitchen and work area, with a 
+large pantry tucked into an alcove. A large table, an oven, 
+and a waterpump are placed around the room. 
+
+The pantry contains fine meats, breads, and cheeses. Three kegs of 
+beer are also stored in here, as well as a dozen bottles of wine, worth 
+20 gp apiece. The beer is literally priceless in thirsty Rhoona, but a 
+buyer may be difficult to locate, since tavern owners are afraid of the 
+Ducal Guard. If the player characters want to try to sell the beer to a 
+tavemkeeper, the DM should roll a d6 to determine the tavernkeep- 
+er's reaction. On a roll of 1-2, the tavernkeeper will buy the been On 
+a roll of 3-4, he will do nothing. On a roll of 5-6, he will alert the Ducal 
+Guard. 
+
+The two small rooms at the back of these quarters are the chambers 
+of the four servants, a married couple to each room. The servants 
+will have retreated here when strangers enter the apartment, since 
+they know that Draco is not at home. They will cower fearfully if 
+approached, and will furnish no information unless very heavy 
+handed or threatening steps are taken by the party. In any event, 
+they do not know about the secret room beyond Draco's bedroom. 
+
+33- OFFICE AND LIBRARY. _ 
+
+Two comfortable chairs, a desk with a simple wooden 
+chair, and two bookshelves are the furnishings of this 
+room. The desk is strewn with papers, and many books are 
+on the shelves. _ 
+
+The papers, upon examination, will be seen to be duplicates of those 
+in room 26. The bookshelves contain several volumes on boatbuild 
+ing and sailing, as well as a dusty history of Rhoona and a much 
+handled tome entitled: "The Escapades o) Draco Stormsailer- 
+Scourge of the Seas!" 
+
+
+12 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+34. TROPHY ROOM. _ 
+
+This unusual room has a lush layer of furs on the floor. 
+White and black bearskins, dire wolf hides, and the skins of 
+all of the great cats have been piled throughout the room. 
+Along one wall, posed so as to almost appear real, is the 
+skin and mounted head of a red dragon. Along the opposite 
+wall are mounted the heads of wild boars, a giant, several 
+dwarves, a displacer beast, owl bear, troll, unicorn, and 
+woolly rhinoce rous. _ 
+
+These trophies represent the remains of creatures that Draco has 
+slain throughout the world. Obviously, the garrison commander 
+takes a great deal of pleasure in killing things. The door at the far end 
+of the room is locked. 
+
+35. DRACO'S BEDROOM. _ 
+
+This large room contains a huge and richly quilted bed, a 
+table with four chairs, a number of tapestries, and a war* 
+drobe closet. On the table is a full bottle of wine and two 
+crystal goblets. The tapestries illustrate battle and sailing 
+scenes in great detail, and feature prominently the exploits 
+of a tall, black-bearded warrior with a "D" emblazoned on 
+the front of his tunic. 
+
+The wardrobe closet contains a suit of plate mail, leather armor, and 
+a dozen ornate robes. All of these are emblazoned with an elaborate 
+
+TD". 
+
+36. SECRET TREASURE ROOM. 
+
+The secret door to this room is further concealed by a tapestry. It is 
+opened by pushing in on a knot in the pineboard wall. 
+
+
+Three chests are stacked at one end of this narrow room, 
+and a small writing table and chair are at the far end. A 
+piece of pa rchment is on the table. _ 
+
+A letter written in an obscure code is on the table. Each of the chests 
+is locked, and the keys are with Draco in the palace. 
+
+The first chest contains a paralyzing gas that will affect everyone in 
+the treasure room for 2 12 hours, unless a thief successfully removes 
+the trap. Inside the chest is an ornate helmet. It is a Helm of 
+Reading Languages and Magic. The second chest contains many 
+coins: 1.060 gp, 1,300 sp, and 280 pp. The third chest holds gleaming 
+gems, worth 100 gp (xlO).BOgp (x2),50gp{x5),25gp(x8) and 10 gp 
+{*70). 
+
+If the Helm of Reading Languages and Magic is used to decipher 
+the coded letter, the followingjnay be read: __ _ 
+
+
+- l, My dear Draco, future Duke of Rhoona, 
+
+The wheels are well in motion now. The pronouncement of war 
+against the dwarves will be forthcoming shortly, and little resist .. 
+ance is apparent thus far from the populace. The slobbering idiot of 
+a Duke will have only a short time left to reign when he declares this 
+foolishness - I am sure you must agree that my curse is working 
+admirably! Be alert: the moment for you to move is near! 
+
+f Your faithful compatriot 
+
+Xanathon 
+High Priest of Cretia 
+
+
+
+
+SCENARIO 2: 
+
+THE TEMPLE OF CHAOS 
+
+
+
+DM Note: Use MAP C for this scenario. 
+
+The beginning of the second phase of the adventure will depend 
+greatly upon the group's behavior following the search of the bar 
+racks, The DM must keep careful track of the passage of time, since 
+the dwarven army is gathering while play is going on. The curse must 
+be removed before that army arrives or Rhoona stands a very good 
+chance of being sacked and burned. 
+
+The scenario as written here will assume that the party of advenlur 
+ers has returned to the inn where they started the game. If they go to 
+a different inn, very little modification will be required. If they return 
+to their rented room(s), they can hear the commotion in the street 
+announcing the herald's arrival, and will presumably move out to 
+hear the new decree. Eric of Forsett, still in his beggar disguise, 
+might talk to them in the crowd after the decree has been made. If 
+the group is relatively strong after the barracks adventure (i.e, they 
+still have most of their spells and hit points), they might wish to 
+proceed directly to the temple of Cretia. In this case, they could hear 
+the decrees in the streets along the way, and there would be no need 
+for Eric to contact them, since they will have already figured out that 
+their next objective is the temple. 
+
+Unless the group chooses to proceed directly to the temple, 24 
+hours will pass following their search of the barracks before the next 
+ducal decree is made. If this time requirement would place the 
+announcement in the middle of the night, then substitute 36 hours 
+for 24. 
+
+
+In any event, the herald will soon walk the streets again, calling out 
+the news of the Duke's latest inspiration. The announcement is as 
+follows: 
+
+
+
+"Be it known to all that Hs Benign Munificense, Dukfe 
+Stephen Rhoona, has declared the following to be official 
+decree: 
+
+wheceAS, tt is AppAeent to Alt wuft the most feeBle minded * 
+that the sun is the most illustrious of heavenly Bodies, 
+
+
+* 
+
+•• 
+
+t. 
+
+
+and whepeASr tt is of utmost impoRunce to mjunum the 
+goodwill of this most Blazing orb of flame duping the 
+coming strife, 
+
+it is hepefly decceed Urn the Burning of ill com&ustiflle 
+mate^iAls - to wit. wood. oil. cloth. peat, etc. etc, etc, -is 
+outlAwed duping the peoiod of die sun s Resting, lest we 
+tncuR the )eAlous wRAth of his most heAtful self! 
+
+the htxjps include chose rimes Between the suns touching 
+of the westepn hORizon And his elrniamq once Again into 
+the heavens of the ea so 
+
+
+such is the wood of the duke of flhoorur 
+
+
+£ 
+
+
+
+13 
+
+
+
+
+
+
+DUCAL BARRACKS 
+
+MAP B 
+
+
+1 square = 20 feet 
+
+
+
+
+1 square - 10 feet 2nd FLOOR 
+
+
+1982 TSR Hobbies* Inc. All Rights Reserved. 
+
+
+14 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TEMPLE OF CRETIA 
+
+MAP C 
+
+1 square = 10 feet 
+
+
+
+" l%2 TSR Hobbies, Inc. All Rights Reserved. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SHRINE OF CRETIA 
+
+MAP D 
+
+
+Window 
+
+
+Drapery 
+
+
+Column 
+
+
+Portcullis 
+
+
+Cell Door 
+
+
+LEVEL II 
+
+
+1982 TSR Hobbies, Inc. All Rights Reserved. 
+
+
+
+
+
+
+
+
+
+
+
+
+DUCAL PALACE 
+
+MAPE 
+
+
+1 square = 10 feet 
+
+
+
+-- 1 - 
+
+85 0. 88 ? r --~ 
+
+
+
+
+(O 
+
+
+86 
+
+
+•-L-¦ -f- •- 
+
+
+LEVEL I 
+
+
+
+95 
+
+
+
+103 -q-- flBPTf - ( ^>96 
+l ! r, 104: r I 
+
+
+05 -U 107 
+
+
+LEVEL II 
+
+
+| CA j Secret Door 
+|l _ ll Bookshelf 
+
+
+EEI 
+
+
+Column 
+
+Door 
+
+Bars 
+
+
+
+
+T3 
+
+
+f 
+
+9 
+
+L' 
+
+j-'i 
+
+
+
+
+a 
+
+[-J 
+
+
+|-f 
+
+K 7 i 
+
+- i 
+
+r 
+
+
+L 
+
+
+.. Bars 
+
+| | Table 
+
+
+ja "- Chair 
+
+m Bed 
+i 1 1 Display Case 
+
+
+i 
+
+l "(tm) 
+
+
+
+93 
+
+r if: 
+
+H 
+
+
+: 
+
+
+
+_ u _ 
+
+J 
+
+
+.11 
+
+
+
+
+
+
+95-p| 
+
+2- 
+
+
+
+
+94 
+
+i 
+
+h _ 
+
+A 
+
+i 
+
+
+it . 
+
+-" -- 
+
+
+r 
+
+
+
+
+
+I /p\ Trap Door 
+| in Floor 
+
+/^l Trap Doot 
+J in Ceiling 
+
+w\/wvi Drapery 
+
+
+6 1982 TSR Hobbies, Inc. All Rights Reserved. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+This decree will be received by most of the populace with a sort of 
+resigned indifference, as if they can no longer be surprised by the 
+Duke's follies. As before, the herald will have a sturdy group of 
+guardsmen with him, so none of the reactions will be blatantly 
+hostile. A few of the more intelligent or thoughtful citizens might 
+express grave misgivings as to the Duke's mental health, but these 
+will be whispered quietly, and party members will not overhear such 
+comments unless they are expressly eavesdropping. 
+
+Eric of Forsett, still disguised, will approach the group following this 
+announcement. He will mutter to them, "The curse of the Cretin 
+must be stemmed at its source, 1 ' then slowly shuffle away from the 
+party. If stopped by a character and asked for further information, 
+he will simply say, "You cannot stop the rain with a bucket on the 
+ground; you must go to the cloud that sheds it*" He will ignore all 
+further questions and walk away from the group* If pursued, he will 
+not acknowledge any statements or queries. 
+
+As before, the cleric will again allow 24 hours to pass. If the group has 
+not deciphered his advice in this time, he will again seek them out 
+and sternly admonish them, "The High Priest of Cretia is an evil 
+blight on our community, Seek him, and demand an accounting for 
+the Duke!" 
+
+Eric has already approached the Duke and attempted to use a 
+remove curse spell, unsuccessfully. He realizes that the power of 
+the god, Cretia, is involved here, and that only Xanathon holds the 
+key to a return to sanity in Hhoona. He is unsure of Xanathon's 
+motives, but understands that the very survival of Rhoona is at 
+stake* 
+
+KEY TO THE TEMPLE OF CRETIA 
+
+Many people, both Ethangarians and Rhoonians, pass through the 
+gateway into the community around the temple, so ¦ if the party acts 
+calmly and passively - they will not be noticed. Once inside the 
+Ethangarian sector, much activity will be visible at all times of day 
+and night. Again, if the group moves quietly toward the temple, they 
+will attract no attention* The Temple of Cretia is a massive stone 
+structure, and only three doorways are visible, all on the front wall. 
+All of these portals are made of sturdy wood, but only the one to the 
+group's left (outside of room 41) will be locked. 
+
+NOTE: A number of doors throughout the temple will be locked. 
+Unless a locked door leads to a person s quarters, Xanathon will be 
+the only person in the temple with the key* In the former case, of 
+course, each person has the key to his own room. 
+
+37. HALLOWED HALL. _ 
+
+The double doors lead into the main sanctuary of the 
+worshippers of Cretia. Massive stone columns support a 
+roof that is 20 1 above the floor, A raised dais, opposite the 
+doors, elevates a statue of the grotesque Cretia. The god is 
+pictured with a scowling human face upon the torso of a 
+gorilla, with four bear-like feet. Its eyes will glitter evilly with 
+reflected torchlight, as each of the columns holds a bracket 
+with a burning torch set in it. 
+
+Upon close examination, the eyes of the statue will be recognized as 
+two 20 gp gems. The doors to rooms 38 and 39 are locked, and ail of 
+their residents will be currently in them. The doors to either side of 
+the dais are unlocked. 
+
+38(a&b)* FIGHTERS' QUARTERS* 
+
+These two rooms are identical. Each has a locked door. 
+
+The room contains four wooden bunks, a table, and four 
+chairs. Four young men wearing chain mail and carrying 
+longswords will be seated at the table in each room. 
+
+The men in these rooms are 2nd level fighters (AC 4, hp 11, #AT I, D 
+T8, MV 60,' ML 10) who have been charged with the temple's 
+security. They wear chain mail and carry shields and longswords. 
+
+
+Their high morale is due to religious fervor. If intruded upon In either 
+room, the fighters will cry an alarm that will bring all eight fighters 
+and the eight clerics from rooms 39a -39d to do battle with the party. 
+Each fighter will carry a small purse on his belt containing l-6gp and 
+2-24 sp. 
+
+39(a-d), CLERICS f QUARTERS. 
+
+These four rooms all have locked doors. As with the fighters 1 rooms, 
+they are identical to each other. 
+
+The room contains two beds, a table, two chairs, an ivory 
+statue of Cretia, and a smaller table with several bottles of 
+cheap wine on it, as well as a pair of wine glasses* 
+
+Each room is the residence of a pair of 3rd level clerics (for a total of 
+eight: AC 4, hp 12, #AT 1, D T6. MV 60\ ML 10). Each cleric has a 
+cure light wounds spell and one other 1st level clerical spell. To 
+determine which other spell is useable by each cleric, the DM should 
+roll a d8 and compare the result to the spell list on page XI1 of the 
+D&D (r) Expert Rules. Note that some clerics might have two cure 
+light wounds spells. In battle, the clerics will tend to fight with their 
+heavy maces. None of the clerics has any monetary treasure. 
+
+40* GUESTS' PINING ROOM* _ 
+
+A long table covered with a satin tablecloth occupies the 
+center of the room, and eight fine wooden chairs are placed 
+around it. In one corner stands a cart with a crystal decam 
+ter and glasses on it. In another corner is a low table with 5 
+bottles of excellent wine and eight crystal goblets. A thick 
+purple drapery hangs around the outer wall of the room* 
+
+The tablecloth is worth 100 gp. The crystal decanter and glasses are 
+worth 300 gp, but are of course very fragile. The wine bottes and 
+goblets are worth 50 gp each* 
+
+In the 10' wide space between drapery and wall await 10 beserkers 
+(AC 7, HD 1+1, hp 6, MV 120\ #AT 1, D 18, AL N +2 on all "to hit" 
+rolls)* They are rabid followers of Cretia, and will attack any non- 
+Ethangarians entering the room and fight to the death! 
+
+41, OFFERING STORAGE ROOM* _ 
+
+This room contains many crates, bales, and kegs, all 
+stacked neatly in the corners and along the walls. 
+
+The door to this chamber is locked. This is the storage area that the 
+clerics of Cretia use to store the offerings of the faithful. In the room 
+are dozens of crates of grain, bales of wool, bundles of cloth, and 
+kegs of whale oil. 
+
+42* PRIVATE SANCTUARY* _ 
+
+There are eight pairs of wooden benches that face an altar 
+holding the grinning image of Cretia in this chamber. This 
+statue is smaller than the one in the Hallowed Hall. 
+
+The door to this room is unlocked. This is the area that the temple 
+residents use for worship services* The statue of Cretia has a pair of 
+2D0 gp gems as its eyes* 
+
+43- DINING HALL. _ 
+
+This is a room with four large tables in it* A pair of crude 
+benches flanks each table, and an open doorway leads to a 
+small kitchen beyond. Tin platters and colored glass mugs 
+are displayed on a shelf in the dining hall 
+
+The kitchen contains several large kettles and pots, and leads to a 
+pantry stocked with loaves of bread, salted meat, lard, and some 
+moldy cheese. 
+
+44* ACOLYTES' CELLS. _ 
+
+This room is divided into 14 separate cells. Each cell has a 
+heavy wooden door with a small, slitted opening in it. The 
+large chamber outside of the ceils contains only a long table 
+and 14 chairs. 
+
+
+18 
+
+
+
+
+
+
+
+
+
+
+Neither the outer door nor the cell doors will be locked. Each cell 
+contains only a pallet of straw, a torch and a cheap copper image of 
+Cretia (worth 5 gp). The cells are the chambers of 141st level clerics 
+(acolytesK AC 9* hp 3, D 1-4, ML 5}. They will be in their cells and 
+offer only token resistance to an attack. If trapped, they will use 
+torches as clubs, but each will stay within his cell instead of coming 
+to the aid of his fellows. If strangers enter this area, however, the 
+acolyte in cell 44a will exit through the secret door in order to warn 
+Xanathon. Note that, if warned, Xanathon will still await the party in 
+his chambers. 
+
+45. EXERCISE ROOM. _ 
+
+This is a large, open room. Four thick wooden columns 
+support the ceiling, and a small closet takes up one corner. 
+
+The room is bare, but the columns show many gashes and 
+dents. 
+
+The marks on the columns have been inflicted during the weapons 
+practice that often goes on in here. The closet contains several 
+wooden benches and a small well. A bucket on a rope and simple 
+winch hangover this well, and sweaty fighters and clerics come here 
+to douse themselves after working out. The water drawn from the 
+well is seawater from the fjord, and thus undrinkable. 
+
+46. CRYSTAL ROOM. _ 
+
+This oddly-shaped room has a door directly opposite the 
+one that was entered. Two large areas to the left and right 
+are not visible because of the small room that the second 
+door seems to enter. Directly to the left and right stands a 
+statue of Cretia, each carved out of some opaque crystal 
+line material. 
+
+The two visible statues and their two counterparts which cannot 
+immediately be seen are actually Living Crystal Statues (AC 4, HD 3, 
+hp 15, MV 90', #AT 2, D 1-6/1-6, Save F3, ML 11). They have been 
+commanded to attack anyone who enters the room unescorted by 
+Dervill the Treacherous (the mage who is in room 46b). 
+
+Demll's chamber is unlocked, and the wizard will hear his statues 
+begin combat in 46a, He will fling open the door and enter the fray, 
+casting spells at the party while his statues maneuver to prevent the 
+party from reaching him. If hard pressed, Dervill will shut the door 
+and cast his hold portal upon it. He will then teleport to Xana 
+thon's chamber. 
+
+Dervill the Treacherous: 9th level magic user, AC 7, hp 23, MV 120% 
+D 1-4, MV 120 s , ML 9. He wears a ring of protection +2 and is 
+armed with a dagger. 
+
+Derviirs spells are: 
+
+First Level: detect magic; hold portal; magic missile 
+
+Second Level: detect invisibility; ESP; web 
+
+Third Level: haste; protection from normal missiles; dispel 
+
+magic 
+
+Fourth Level: wizard eye; polymorph other 
+Fifth Level: teleport 
+
+Derviirs favorite offensive spell is the polymorph other, with the 
+recipient becoming a toad, salamander, or other loathsome crawling 
+thing. He will also cast haste upon the statues, or attempt to use his 
+web and magic missile spelts against the party. In his chamber is a 
+simple pallet upon which he sleeps, a table covered with scrawled 
+notes which, if deciphered, prove to be lists of spell components 
+(buzzard beaks, lizard gizzards, etc.), and a cluttered workbench, 
+Five vials are off to one side of the bench. These contain: poison; 
+and potions of gaseous form; healing; heroism; and polymorph 
+self. The other materials, dishes, and jars contain nothing of value to 
+the players. 
+
+47. SUPPLY ROOM. 
+
+This door is unlocked. 
+
+This is a crowded room that contains many rows of crates 
+and boxes. 
+
+
+These boxes contain grains, flour, dried beans, salted meat, cheese, 
+tools (hammers, nails, saws, prybars), lard, torches, rope, and sev 
+eral small statues of Cretia. 
+
+48. SEAROOM. _ 
+
+This room is very fancy, with an ornately tiled floor, four 
+slender stone columns, and plush draperies hanging over 
+all the walls except the one by the door. In the center of the 
+room is an oval pool of green seawater. The water surface 
+is still. 
+
+The door to this room is unlocked, but the residents of the temple 
+know better than to enter here. Lurking just beneath the water's 
+surface, in a position to observe people who enter the room, is a 
+lesser sea serpent (AC 5, HD 6, hp 28, MV 150', #AT 1, D 2-12, Save 
+F3, ML 8), It has been imprisoned in an undersea cave and is nearly 
+starved, so it will desperately attack anyone who comes within 20' of 
+the edge of the pool, it has no treasure. 
+
+49. WET GOODS STORAGE. _ 
+
+This room contains 20 kegs, all neatly stacked along the 
+walls. 
+
+The door to this chamber is locked. Fifteen of the kegs in here 
+contain wine, imported from the Ethangar Khanate and the Emirate 
+of Ylaruam. Most of these kegs are worth 75 gp, but two of them hold 
+very fine wine and are worth 500 gp. The other 5 kegs contain beer, 
+and have been stored here in spite of the ducal decree. They are for 
+local guests whom Xanathon occasionally entertains, 
+
+50. LIBRARY AND ARCHIVES. _ 
+
+In this room are many shelves of musty tomes and vol 
+umes, Three tables are in the room, with four chairs at 
+each. 
+
+The two doors to this room are locked. The books include many 
+volumes on the history of different Khans of Ethangar, and their 
+bloody conquests. Also included are books about the kingdoms of 
+Vestland and Gstland, and the Jarldom of Soderfjord. If characters 
+spend some time studying the books about the Ethangar Khanate 
+(written, of course, in Ethangarian), they will see that the culture has 
+a history of warlike rulers who embark on wholesale programs of 
+conquest. 
+
+The secret door will only be discovered if all of the books are 
+removed from the shelves that hide it. It may be opened by simply 
+lifting the empty shelves to flatten them against the wall. 
+
+51. HIGH PRIESTS ENTRY CHAMBER. 
+
+The door to this room is locked. 
+
+In this comfortable room, two low chairs are set around a 
+small table, and a small desk is against the walk The desk is 
+bare, but there is a bottle of wine and two glasses on the 
+table. _ 
+
+52. XANATHON'S DINING ROOM. _ 
+
+This is a richly furnished dining room. The table and chairs 
+are of gleaming dark wood, and have been skillfully crafted. 
+Several paintings hang on the walls, depicting waves of 
+grass below awesome mountain peaks. An exquisitely de 
+tailed tapestry hangs on the wall by the kitchen, picturing 
+masses of Ethangarian riders storming through the army of 
+some foe, and a crystal chandelier hangs over the table. 
+
+The chandelier is worth 1,000 gp; the tapestry is worth 500 gp, and 
+the paintings 500 gp, 300 gp, and 200 gp respectively. 
+
+53. KITCHEN. _ 
+
+This is a clean and welHumished cooking area. Several 
+wooden counters, brick oven, and a dosed pantry will be 
+visible here. 
+
+The kitchen is used by the acolytes who prepare Xanathon's elabo 
+rate meals. The china and silverware stored here is finely wrought 
+
+
+19 
+
+
+
+
+
+
+
+
+
+
+
+
+
+and very valuable (300 gp and 500 gp, respectively). In addition to me 
+usual dry goods (breads, floury and grains), the pantry boasts the 
+luxury of an icebox. Stored here among the slowly melting blocks of 
+ice* are slabs of fresh meat, fish fillets, and four bottles of excellent 
+wine. The wine is worth 75 gp per bottle. 
+
+54. XANATHON'S CHAMBER* _ 
+
+This room contains a large bed, a table and chairs, an open 
+closet, a colorful map on one wall, and a large, glass paned 
+window in the middle of the room's west wall. The drop 
+from the window to the ground outside is only 5\ and here 
+a narrow strip of shoreline runs along the fjord to the north 
+and south 
+
+The most striking feature in the room is the tall, gaunt, bald 
+man standing in the center . He is clad in a black robe, and 
+holds a gleaming black mace in his hand. He looks rather 
+frail but will laugh mockingly and snarl, "Poor miserable 
+fools!" as he slowly advances. 
+
+This, of course, is Xanathon (14th level cleric, AC 9, hp 39, MV 120\ 
+#AT 1, D 3-8, ML 12). 
+
+Xanathon's spells are; 
+
+First Level: cure light wounds; detect good (detect evil rev 
+ersed); detect magic; light; resist cold; cause fear (remove fear 
+
+reversed) 
+
+Second Level: find traps; hold person; resist fire; snake 
+charm; silence 15' radius 
+
+Third Level; continual light; growth of animals; locate object; 
+curse (remove curse reversed); striking 
+
+Fourth Level: cure serious wounds; create water; neutralize 
+poison; protect ion/e vit 10* radius; sticks to snakes 
+Fifth Level: commune; dispel evil; remove quest (quest rev 
+ersed); finger of death (raise dead reversed) 
+
+As mentioned earlier, Xanathon enjoys a particularly effective kind 
+of protection, thanks to Cretia. His life force has been removed from 
+his body and stored In a brilliant diamond, hidden away in the Shrine 
+of Cretia (see Scenario 3), As a result, he is immune to alt mind- 
+influencing spells (sleep, charm, etc,) as well as all types of damage. 
+Thus normal weapons, magical weapons, and damaging spells (fire 
+balls, lightning bolts, etc.) will have no effect on him. The only way 
+to cause him to become vulnerable is to bring the diamond contain 
+ing his "essence" to within 10* of Xanathon's body. 
+
+Of course, the players will know none of this. As they enter the 
+room, they will see Xanathon standing in the center. If Dervill has 
+teleported here, he will be standing behind his master, The map on 
+the wall depicts the trade route over the mountains from Ethangar to 
+Vestland, and next to it is a picture of a cave mouth in the side of a 
+high peak. The map has a red blot on it at the crest of the pass 
+separating the two countries. If it is examined carefully, the blot will 
+be recognized as the face of Cretia. 
+
+Xanathon delights in physical combat, and since he cannot be 
+injured, he will dose immediately to fight with his mace +2. The only 
+spell he will use is striking, which he will cast upon his mace, thus 
+causing it to do 4-14 (2d6+2) points of damage at each successful hit. 
+He will wade into the midst of the group, laughing like a maniac, and 
+single out one victim. He will belabor that unfortunate character 
+until he or she is dead, and then choose another victim. He will 
+ignore any attacks upon himself, and weapons that score hits will 
+
+
+
+DM Note: Use MAP D for this scenario. 
+
+The players may well be puzzled regarding where to proceed from 
+the Temple of Cretia. The DM should allow them to debate among 
+themselves for a time, since the clues have all been furnished in 
+
+
+puncture his skin, but no blood will flow and the "wounds" will dose 
+as soon as the weapon is withdrawn. 
+
+Dervill will cower at the far end of the room during this altercation. 
+He will use any spells that he has left to defend himself if any 
+characters come after him. Xanathon will ignore the magic-user, 
+even if Dervill is being killed. 
+
+As the characters realize that their weapons are having no effect, 
+Xanathon will laugh even louder. He will pause in his attacks and 
+gloat, "1 said you were fools, and now you know that 1 spoke the 
+truth- You cannot wound me, for my life does not reside in this body 
+you see before you! Rather... and here is a puzzle for your feeble 
+brains* Jt is deep in the earth and high in the sky at the same time!" 
+His laugh will ring with madness as he once more presses the attack. 
+
+At this point, the sensible group will begin to give some thought to 
+escape. The window mentioned earlier is a likely route, as it can 
+easily be broken. The characters can drop safely to the shore 
+outside of the temple, and Xanathon will not pursue them. 
+
+If they choose to retreat through the temple however, the High 
+Priest will pursue them mercilessly all the way to the outside doors. 
+He will sneer mockingly at the party in either circumstance, but will 
+not follow them outside of the temple. 
+
+The door to room 55 is constructed from the same stone as the rest 
+of the temple walls, and can be found as a normal secret door, The 
+group should not find it, however, during this scenario. It is doubtful, 
+of course, that the battle with Xanathon will provide a character with 
+the opportunity of locating this door in any event. A description of 
+room 55 is included here because the group may use it during 
+Scenario 4-Duel With the High Priest. 
+
+55, XANATHOINrS WORKSHOP, _ < 
+
+This large room is cluttered with many strange and myste- 
+rious objects. A large statue of Cretia occupies the center 
+of the chamber, and this statue has a large emerald for 
+each eye. A rack holding many small vials of white powder 
+is set against one wall. Many scrolls of parchment are 
+spread upon a table in a corner of the room, and a littered 
+workbench follows one wall. 
+
+Fifteen of the vials on the rack contain nothing but worthless chalk 
+dust. Two of them, however, contain a magical powder which, when 
+thrown in the eyes of a person afflicted with the Curse of Xanathon , 
+will remove the curse. 
+
+Most of the scrolls are covered with Xanathon ! s personal notes and 
+are meaningless to anyone but the High Priest. Three of them, 
+however, are clerical spell scrolls, and contain the following: 
+
+Scroll L cure serious wounds x2; cure light wounds x2 
+Scroll 2, cure disease; locate object 
+Scroll 3, commune; raise dead 
+
+A workbench is littered with various worthless materials. These are 
+things that Xanathon has used in creating potions and new spells. 
+There are no potions currently in the room, however. 
+
+A brass-bound, locked chest is in a comer of the room. It is trapped 
+with 6 spring-fired darts, some of which (roll a d6 to determine how 
+many) will strike a person picking the lock for 1-4 points of damage 
+apiece. Inside the chest are 380 pp, 700 gp, 1,000 ep, and a wand of 
+trap detection with 8 charges left, 
+
+SCENARIO 3: 
+
+JOURNEY OF THE SHRINE 
+
+Xanathon's chamber. Of course, a few reminders of exactly what 
+they saw there, and exactly what Xanathon said, may help them to 
+determine that they must seek out the Shrine of Cretia, at the top of 
+the mountain pass between VestJand and the Ethangar Khanate. 
+
+
+20 
+
+
+
+
+
+As the group passes from the Ethangarian sector back into the rest 
+of the town, they will notice the people they meet seem to be very 
+tense. They may even overhear some folks worrying out bud about 
+when the dwarven army will be arriving. Other concerns that might 
+be expressed ¦ within hearing of the party include the Duke s s state 
+of mind, and the fact that Draco is rumored to be spending all of his 
+time at the Duke's side. No one is enthusiastic about the idea of 
+Draco taking over the government if the Duke should die without an 
+heir. The party may also overhear some rumors, either in the street 
+or at a tavern or inn. One of these suggests that a massive dwarven 
+army is even now camped just over the hills south of Rhoona (false). 
+Another rumor is that the Duke is about to make another decree 
+(true). 
+
+Eric of Forsett will be waiting at the inn where he originally met the 
+group, if they wish to seek him out. He knows of the Shrine of Cretia 
+and can give a rough description of how to find it. Since it lies along 
+the only route from Vestland to Ethangar, it is not difficult to follow 
+the trail to the shrine. Once at the summit of the pass, about five 
+days travel from Rhoona, the players will have to locate the exact 
+entrance to the shrine. 
+
+If the characters spend a full day in town after their expedition in the 
+temple, they will hear the latest ducal decree. If not, they will have to 
+learn of it from rumors upon their return from the shrine. In any 
+event, with his usual escort the town herald will once again walk the 
+streets, announcing the following: 
+
+"Be it known to all that His Benign Munificense, Duke 
+
+Stephen Rhoona, has declared the following to be official 
+
+decree: 
+
+
+lh£ RlfttRS Of OtlOOFIA fTIUSt BC CApABle Of QUeAE L 
+
+mb h€GOic i>€€te in the imminent war, 
+
+ai>C> WheeeAS. the condition of thei r steeds is of utmost \ 
+impORtAnee to the success of the cavaIpv, 
+
+it is heResy deeeeed tiut All meat items m the town - to 
+wit Beeves, sheeps. atiO fishes - shAtl pe OeclAReO 
+house feedt 
+
+
+Any hurrun found to &e consuming sai d meAt or feeding 
+otheR thAn sAid meAt to his steed. shall know the wiiAth 
+of the dukei 
+
+such is the woed of the duke of Rhoona 
+
+
+THE JOURNEY TO THE SHRINE 
+
+This trip wilt take five days of travel time. There is no chance of the 
+group becoming lost if they follow the caravan trail, since many 
+herds of horses and sheep have been brought along the route. The 
+trail is a wide and muddy track. 
+
+The journey will begin with the group being ferried across the fjord 
+west of Rhoona. Any number of fishing boats will provide this 
+service, for a cost of 2-12 gp for the entire party. Once across, the 
+trail begins to climb the ridge west of the fjord. After two hours of 
+
+
+climbing, the group will reach the top, and from there they will follow 
+the wide, gentle ridgecrest to the west for two days. After this time, 
+the caravan trail will veer from the ridge into a valley leading to the 
+northwest. It follows this valley, climbing gently, for two more days. 
+The fifth and final day of the journey will be spent climbing the steep 
+approach to the pass. 
+
+The first four days of travel will be through thick evergreen forests, 
+where the group may walk three abreast. The final day will be spent 
+on an open and rocky slope, The trail on this last day is steep and 
+treacherous, with many switchbacks, where the party must move 
+single file. It is important to keep these specific terrain factors in 
+mind if wandering monsters are encountered. The DM should check 
+for these once each day and each night by rolling a d6. A result of **6" 
+indicates an encounter. Roll another d6 to determine which of these 
+delightful travelling companions is encountered: 
+
+HILLS OF VESTLAND 
+WANDERING MONSTER CHART 
+
+DIE ROLL _ WANDERING MONSTER 
+
+1. Hill Giant: AC 4, HD 8, hp 38, MV 120% #AT 1, D 246, 
+
+Save F8, ML 8. 
+
+2. Trolls: (2) AC 4, HD 6+3, hp 30, MV 120\ #AT 2 
+
+claws/1 bite, D 1-6/1-6/1-10, Save F6, ML 10 
+regenerates 3 hp per round. 
+
+3. Ogres: (3) AC 5, HD 4+1, hp 18, MV 90% #AT 1, D 
+
+1-10, Save F4, ML 10, 850 gp in sack. 
+
+4. Panthers: (2) AC 4" HD 4, hp 19, MV 210% #AT 2 
+
+claws/1 bite, D 14/1-4/1-8, Save F2, ML 8. 
+
+5. Grizzly Bear: AC 6, HD 5, hp 25, MV 120', #AT 2 claws/1 
+
+bite, D 14/1 4/1-8, Save F2, ML 8. 
+
+6. Rock Baboons: (8) AC 6, HD 2, hp 10, MV 120', #AT 1 club/1 
+
+bite, D 1-6/1-3, Save F2, ML 8. 
+
+The summit of the pass will provide the characters with a magnifi 
+cent vista. The plains of the Ethangar Khanate are visible, nearly 50 
+miles away, lo the north. Southward, the mighty peaks of Rockhome 
+thrust into the sky, A narrow* jagged, and rocky ridge extends to the 
+right and left of the pass, while the caravan track follows the valley 
+down the far side. Two treacherous trails, perched on a knife edge of 
+broken rock, follow the ridges to the left and right. Travelling along 
+either of these trails must be done in single file. 
+
+If the players follow the caravan track northward, they will have no 
+more wandering monster encounters as they hike to the Khanate, 
+which will take them three days. Hopefully, they will realize that this 
+is the wrong route before then. The trails to the east and west each 
+run for one hour of travel time before ending in a cave mouth, 
+
+EAST CAVE: This is a yawning black hole in the side of a 
+towering mountain. The cave is 50 s wide and 20' tall, extending into 
+the rock for 150L Al ihe far end, perched atop a pile of glittering 
+coins, is chimera (AC 4, HD 9, hp 48 ,M 120', #AT 2 claws/3 heads + 
+breath, D L3/1-3/2-8/2-8/3-12+3-18 from fire. Save F9, ML 9). One of 
+the chimera's heads will always be awake, so it cannot be surprised. 
+At the sight of intruders, it will roar belligerently. If the party retreats, 
+the monster will not pursue them. If the characters halt or continue 
+to advance, however, it will charge. It has a 50% chance of using its 
+breath weapon. 
+
+The chimera rests upon a pile containing 2,000 gp, 5,000 sp, and four 
+beautiful pieces of jewelry, worth 500 gp apiece. Also buried among 
+the coins is a longsword +2, with the ability to charm person three 
+times per week. The cave ends in the lair of the chimera. If the party 
+has followed the trail to Ihis cave on the same day that they climbed 
+the pass (i.e. immediately after reaching the summit), it will be too 
+dark for them to return along the ridgetop. They must wait until the 
+following morning to investigate the west trail. 
+
+
+21 
+
+
+
+
+22 
+
+
+
+
+
+
+
+
+
+
+
+KEY TO THE SHRINE OF CRETIA 
+
+The trail to the west approaches a small cave mouth in the side of a 
+thin, sharp peak. As the group draws to within 300' of this cave, a 
+manticore (AC 4, HD 6+1, hp 29, MV 120' (flying 180'), # AT 2 claws/1 
+bite or tail spikes, D 1-4/14/2-8or 1-6per spike. Save F6, ML 9) will 
+soar from a rocky ledge 100* over the cave mouth. The monster will 
+make four passes over the group, 100'above them, shooting all of its 
+tail spikes, It will then land between the characters and the cave 
+mouth to melee. 
+
+Once the group has disposed of the manticore, they will be able to 
+approach and enter the cave* It is smaller than the east cave 120' wide 
+and 10 T high, After 3Q\ it narrows further to a square corridor that is 
+obviously man-made. This corridor is 10 1 wide and 10* tall. The party 
+may now enter the Shrine of Cretia! 
+
+56 ENTRY CHAMBER. _ 
+
+This large circular room has a statue of the grotesque 
+Cretia in the center. Two greenish gems glitter in the 
+statue*s eyesockets. The entire floor of the room is co 
+vered with a 12" thick layer of grass. 
+
+Each of the gems in the statue's eyesockets is worth 50 gp. The grass 
+on the floor of the chamber has been brought all the way from 
+Ethangar to remind the visitors to the shrine of the waving plains of 
+their homeland. 
+
+57(a&b). GRAIN STORAGE, _ 
+
+The walls of this room are lined with huge bins that take up 
+most of the floor space, allowing only a small area on which 
+the characters may walk. 
+
+The door to each of these rooms is unlocked and opens outward. In 
+57a, the bins are filled to the ceiling with yellow grain. In 57b, only a 
+third of the bins have grain in them, and these are only half full. 
+
+58. WINE STORAGE. _ 
+
+In this room, several dozen small casks are stored on a 
+series of racks around the walls. 
+
+The door to this room is locked, and the key is held by one of the 
+clerics in 60a* There are 4$casks in the room, and they all contain a 
+common grade of Ethangarian wine, and are worth 50 gp apiece to 
+anyone ambitious enough to try and transport them to civilization. 
+
+59. STILL ROOM, _ 
+
+This room contains several large tubs, two huge, tightly- 
+lidded vats, and a cluttered workbench* A sickly sweet 
+odor fills the air in here. 
+
+The door to this room is locked, and the key is kept by the cleric 
+mentioned above. It is 66% likely that anyone pausing outside the 
+door of the room will notice a strong odor. This is because the room 
+is the fermenting and distilling room for the shrine. The tubs hold 
+squashed grapes, and are the source of the odor; while the vats 
+contain liquid in more advanced stages of fermentation. 
+
+On the bench are a number of piles of herbs and some large bottles 
+of liquids, ranging from a thick, blue syrup, to a watery reddish brew, 
+There are 4 small bottles behind the larger ones. The latter contain 1 
+dose of healing potion apiece. 
+
+60{a&b)* CLERICS 1 QUARTERS* _ 
+
+These rooms are very simply furnished* Two beds, a desk, 
+two chairs, and a small, worthless statue of Cretia are the 
+only visible features, aside from the two humans in plate 
+mail that are charging the opened door with up-raised 
+maces and yelling in a bloodthirsty manner. 
+
+Both rooms 60a and 60b are the residences of two 5th level clerics 
+(AC 2, hp 20, MV 60', D 1-6, ML 10, AL C). Because one the clerics 
+had a dream warning him of a battle, they are fully armed and 
+armored. They wear plate mail and carry shields and maces* One of 
+the clerics in 60a carries a ring of keys and a mace +1 vs. lawful 
+
+
+creatures; - 1 vs. chaotic* Of course, he does 2-7 points of damage 
+per hit. 
+
+Each of the clerics has the following spells available: 
+
+First Level: cause light wounds (cure light wounds reversed); 
+cause fear (remove fear reversed) 
+
+Second Level: blight (bless reversed); hold person 
+
+Under the mattress of one of the beds in 60a is a clerical scroll with a 
+speak with animals spell. None of the clerics has any money. 
+
+6L PORTCULLIS TRAP* 
+
+The secret doors from 60b and the corridor open into a tiny winch- 
+room, which contains the mechanism for raising the portcullis after it 
+has trapped a victim. The trap is sprung if anyone attempts to open 
+the false door at the end of the corridor* The u door" will pull easily 
+away from the wall, but cold stone is all that lies beyond. 
+
+The door opens easily* The leading characters see a solid 
+stone wall behind it, and the entire party hears a resound 
+ing dang as a sturdy portcullis crashes to the floor behind 
+them, 
+
+The portcullis will crash down the instant that the door is moved. 
+Anyone standing directly under it (in the DM's judgement) must 
+save vs. Dexterity (i,e. roll his or her dexterity or less on a d2Q) or be 
+struck by the falling bars for 2-12 points of damage, and become 
+pinned under the apparatus* If a character succeeds in avoiding the 
+trap, roll a d6. A result of 1-3 indicates that they end up inside the 
+trap, while a 4-6 means that they have escaped* Of course, anyone 
+between the portcullis and the false door is trapped. 
+
+The bars may be lifted automatically with a combined strength of 44, 
+but only three people may attempt this from any one side of the 
+portcullis. Thus, if two people are caught in the trap and four are out 
+in the corridor, both of the former but only three of the latter could 
+attempt to raise it. A person trapped under the portcullis may not 
+participate in the raising attempt. 
+
+62(a-c)* FIGHTERS* QUARTERS* 
+
+These three rooms are the residences of the small garrison of 
+fighters that lives in the shrine. These fighters have been warned of 
+the cleric's dream, and so are also prepared for battle. Each of their 
+doors has been crudely blocked by a chair, and must be opened as if 
+stuck. One round after any of the doors is smashed, the fighters 
+from the other two rooms will rush to investigate. The morale of all of 
+the fighters is equal to that of the highest level fighter that is still alive. 
+62a. _ 
+
+The only furnishings in this room are 6 bunks, 6 chairs, and 
+a table. 
+
+This chamber is garrisoned by 6 1st level fighters (AC 4, hp 4, MV 
+60', D 1-8, ML 8). The fighters are armed with longswords, and 
+protected by chain mail armor and shields. On the table in this room 
+are a set of crude bone dice, 21 gp, 24 ep, and 56 sp. 
+
+62b. _ 
+
+This room is furnished exactly as 62a. 
+
+In this room may be found 6 2nd level fighters (AC 4, hp 4, MV 60', D 
+1-8, ML 8). The fighters are armed with longswords, and protected 
+by chain mail armor and shields. On the table in this room are a set of 
+crude bone dice, 21 gp, 24 ep, and 56 sp. 
+
+62c. _ 
+
+This room contains three beds, a table, and three comfor 
+table chairs. 
+
+The garrison of this room is three 4th level fighters (AC 2 (or 1), hp 
+20, MV 60\ D 1-8, ML 11). These stalwart warriors wear plate mail 
+and carry shields and longswords. One of them has a shield +1. 
+They were passing the time by gambling, and have dice and coins 
+spread across the table. The total is 97 gp, 105 ep, and 120 sp. 
+Hidden beneath one of the mattresses is a pouch containing 5 iOOgp 
+gems. 
+
+
+23 
+
+
+
+
+
+
+
+
+
+
+63. EMPTY ROOM, 
+
+
+
+In reality, both the mg and the statue are illusions. They conceal a 
+gaping pit that drops 30' to a prison cell in the second level. Any 
+character falling into it will take 3d6 of damage (3-18 points)* Since 
+the illusion has been created by the god, Cretia, no saving throw is 
+allowed characters viewing it (Le. they are always fooled). The first 
+touch will dispel the illusion, however, so if a character prods the rug 
+with a sword or spear, the trap will be revealed for what it is, 
+
+65. CORRIDOR OF ETERNAL RETURNS. 
+
+The purpose of this corridor is to prevent the uninitiated (or uninvit 
+ed!) from discovering the entrance to the second level. Its function is 
+to cause any individual or group who enters the corridor to return 
+the way they came, without knowing that their bearings have been 
+reversed. 
+
+Since this system has been rigged with a teleport spell by Cretia, no 
+saving throws are allowed. As soon as a person or group comes 
+around the corner at 65a, heading south, they are immediately 
+teleported to the corner at 65b, heading north. They will have no 
+knowledge of the teleportation; in other words, they will believe that 
+they are still moving southward, approaching a right angle to the 
+east. 
+
+In order to reach the second level, a group must pass the corner at 
+65a, where of course they will be teleported. After this, they must 
+reverse their direction somewhere in the corridor between 65a and 
+64b, They may then proceed around the corner at 65b and walk 
+down the stairs. 
+
+It is quite likely that the party will not discover this effect the first time 
+through the level, and will proceed merrily out of the corridor, 
+convinced that they are mapping a whole new section of the first 
+level. As things start to seem familiar, the DM is advised to let the 
+group try to figure out what has happened through inferences rather 
+than direct statements. For example: The DM shouldn't say/This is 
+the wine storage room, again." He or she should simply describe it 
+and let the group draw their own conclusions. The DM should only 
+give broad dues if the group is becoming frustrated or bored. 
+
+66. HALL OF STATUES. _ 
+
+This room is lined along two walls with a series of 10' tall 
+statues of an Et hangar ian warrior. The heads of the statues 
+reach the ceiling, and they do in fact serve as columns. The 
+statues are plain, unadorned granite. 
+
+67. DEN OF ZOMBIES. _ 
+
+Twenty raised stone platforms line the walls of this room. 
+
+10 to either side. Upon each platform lies a moldering 
+corpse . 
+
+These corpses have been placed here by Xanathon himself . He has 
+used a potent spell with the aid of his chaotic god to affect them, and 
+ail 20 of these will become animated if a living creature enters the 
+room. (Zombies: AC 8, HD 2, hp9, MV 120\#AT l t D 1-8, Save FI. 
+ML 12). They will attack and pursue the party until they have all been 
+turned by a cleric or destroyed* 
+
+68. CAVES OF THE CARRION CRAWLERS. _ 
+
+This is a dingy network of damp stone caverns. Water 
+drips and trickles down the walls, and shiny patches of 
+green moss are visible in many places. 
+
+
+This area is the lair of 3 carrion crawlers (AC 7. HD 3+1. hp 14. MV 
+220', #AT 8 tentacles, D paralysis, Save F2. ML 9). Two of these 
+loathsome creatures dwell in 68d, and one will be in 68c. They will 
+sense living creatures as soon as the party draws even with rooms 
+68b and 68d, and will immediately rush forward to attack. Each of 
+the chambers in this area is filled with moldering skeletons, A very 
+dose examination of these bones is 50% likely to reveal them as 
+human and dwarf remains. There is nothing of value in any of the 
+caves. 
+
+69. LARGE CAVE* _ 
+
+This is a large, apparently empty cave. Much moisture is 
+present here, dripping down the walls and collecting in 
+shallow pools on the floor. 
+
+This area is unremarkable except for the alcove (69a), in which is a 
+well. An axle, rope, and bucket are suspended above the well, and 
+the water level is 20' below the floor. The water is cold, clear, and 
+refreshing, 
+
+70. MUMMY'S TOMB. 
+
+There is a large stone door blocking access to this room. It is stuck, 
+and because it is so heavy, il opens at 1, compared to a normal 
+"open doors" roll. 
+
+This cavern is very large, and has a coating of dust on the 
+floor about 1" thick , At the far end is a large block of stone* 
+
+The bloc k of stone is actually t he tomb of a mummy (AC 3, HD 5+1 1 
+MV 60\ #AT 1. D M2 + disease, Save F5, ML 12). 
+
+The mummy will sense a disturbance if the door to the cave is 
+opened, and will slowly awaken. Two rounds after the door has been 
+forced, it will push the cap off of its tomb and sit up. One round later, 
+it will climb out of the tomb and begin to approach the intruders. 
+The inside of the tomb is lined with gold and jewels. The mummy is 
+resting upon a "bed" of 2,000 gp t and 50 25 gp gems are set into the 
+sides of the crypt. Buried in the gold coins is a wand of fireballs, 
+with 6 charges left. 
+
+7L ALTAR OF CRETIA. _ 
+
+This large, irregularly-shaped room has three statues in it; 
+one in each of the alcoves at the southern end. The statue 
+in the middle bears the hideous likeness of Cretia, while 
+those to the sides are smaller, and bear horns, daws, and 
+wings* _ 
+
+The two small statues are actually gargoyles (AC 5, HD 4, hp 17, 
+MV 90', #AT2claw/lbite/l horn, D L3/1-3/1-6/14, Save F8.ML 11, 
+can only be hit by magical weapons). The gargoyles will wait until the 
+party has advanced well into the room before breaking their stance 
+ol immobility. If the party does not enter the room, however, the 
+gargoyles will wait until they have passed the entrance and then 
+pursue and attack. 
+
+72, HALL OF THE STONE COLUMNS. _ 
+
+This room is much like the room at the foot of the stairway 
+descending from the shrine's first level (66). ft is lined with 
+10' tall statues of warriors which serve as columns to 
+support the ceiling. 
+
+73(a&b). OGRES' DEN, 
+
+These two rooms are the prison cells of 6 ogres that have been 
+captured by the Ethangarians. Each room has a stout wooden door, 
+barred on the outside. At present, I ogre will be in 73a and the other 
+five are in 73b. 
+
+A short hallway leads into a small, square room. A couple 
+of shabby wooden benches are visible, along with a pallet of , 
+
+straw on the floor* Suddenly, a bellow of rage is heard! 
+
+The ogres (AC 5, HD 4+11, hp 19, MV 9Q\ tfAT 1, D 1-10, Save F4, 
+ML 10) will attack using wooden dubs that have been broken off 
+from chair and table legs. They will fight savagely if either of the 
+doors is opened, for they desperately want to escape this place. 
+They have no treasure here. 
+
+
+24 
+
+
+
+
+
+
+
+
+
+
+
+
+
+74. PRISON CELL, 
+
+This room has a metal door in each wall. Each door is not only 
+locked, but held with two metai bars on the outside. _ 
+
+This large, square room has a metal door set into the 
+middle of each side, A circular hole about 30* in diameter 
+leads upward from the middle of the ceiling into the dark' 
+ness above. The ceiling is 15* above the floor. 
+
+The overhang around the trap (see room 64) is such that a thief will 
+not be able to climb the walls and escape. In fact, unless characters 
+can fly or levitate, escape is virtually impossible without outside aid. 
+
+75. LAIR OF THE HYPNOSNAKE. 
+
+As the party advances around a corner to the right, a 
+snake dike horror slithers into the hall immediately before 
+them. Its eyes seem to whirl in a hypnotic pattern and the 
+characters m the front rank can feel themselves getting 
+dizzy. 
+
+This alcove off of the corridor is the lair of the hypnosnake. (For 
+more details, see New Monster Section on Page 30), This giant 
+reptile will slither forward as soon as it becomes aware of movement 
+in the corridor. It will enter the corridor at the same time as the party 
+draws even with the entrance to its alcove. 
+
+The hypnosnake will immediately stare into the eyes of the nearest 
+character, causing him or her to save vs. Paralysis or fall asleep, ff 
+the party attacks, the hypnosnake will curl its tail around to slash 
+while it attempts to make eye contact with another player. It will 
+continue to attack with tail and gaze until killed or the party flees, 
+unless the characters attempt to fight it without looking at it. In this 
+case, it will use its bite and tail for combat. 
+
+If the characters flee, leaving any of their number asleep on Lhe floor, 
+the hypnosnake will immediately begin to devour one of the sleeping 
+individuals. This will take six rounds, and the snake will do 1-6 points 
+of damage per round of the sleeping individual that it is swallowing. 
+Once swallowed, the unfortunate character will continue to take 1-6 
+points of damage per round until dead, After six hours, the body will 
+be digested and unrecoverable. 
+
+The hypnosnake has a very efficient digestive system, and manages 
+to consume virtually everything that it swallows. Several of its pre 
+vious victims were very well-armed and carrying much wealth and 
+many magic items, but because of the highly corrosive acids inside 
+the snake, even the gold and jewels have been consumed. One item 
+has escaped the snake's maw, however, and has rolled into the 
+south end of the alcove where it lies in the shadows This is a mace 
++2, +4 vs. undead. 
+
+76. HAUNTED CHAMBER. 
+
+The door to this chamber is stuck. 
+
+As the door is forced, the party is immediately assailed by a 
+terrible wailing, as if a thousand souls are crying in eternal 
+torment. 
+
+Characters must save vs. Fear, or they will refuse to enter the room 
+for 1-4 turns. If at least one member of the party makes a saving 
+throw, however, that person will eventually be able to persuade his 
+comrades to advance. If all characters fail their saves, then two 
+hours must pass before they may try again. The wailing is otherwise 
+quite harmless, 
+
+SCENARIO 4 
+
+DUEL WITH THE HIGH PRIEST 
+
+The objective of this scenario is to obtain the antidote for the curse 
+from Xanathon. Obviously, the fact that the party has captured his 
+"life force" in the form of the diamond will have to be communicated 
+to him, and then a meeting be tween the High Priest and the party will 
+
+
+77. WIGHTS CHAMBER. _ 
+
+As the door is opened, a hideous figure lurches out of the 
+darkness. It seems to be surrounded by an aura of icy cold 
+as it reaches forward with a claw-like hand. 
+
+This horrible undead monster (AC 5, HD 3, hp 15, MV 90', #AT 1, D 
+drain 1 level, Save F3, M12, silver or magical weapons needed to hit) 
+will lurk behind the door to this chamber when it is alerted by the 
+wailing in room 76, It will attack as soon as the door to its room is 
+opened, fighting until destroyed or turned. 
+
+78. SPECTRE S VAULT. _ 
+
+This chamber is lit with a pulsating, eerie light that seems to 
+be emanating from a giant gem. The gem is on a chain 
+looped over a huge stone throne, and seated in this throne 
+is a shadowy image of pure evil. It rises with with menacing 
+slowness,.. 
+
+This creature is a spectre (AC 2, HD 6, hp 27, MV 150', #AT 1 
+special, D IS drain 2 levels, Save F6, ML 11, magical weapons 
+needed to hit). Suddenly, it will hurl itself at the party to do battle. It 
+will fight until it is destroyed. 
+
+The spectre's vault is filled with riches, Many coins lie along the sides 
+of the chamber, and several leather items and bottles are also visible. 
+The treasure equals 210 pp, 1,500 gp, 13,000 sp, gems worth 500 gp, 
+lOOgpfxS), 50 gp (x7),and 10 gp {x 15), a bag of holdings pair of 
+elven boots, a ring of spell turning with 3 charges left, and potions 
+of speed and flying. 
+
+Draped on a thin golden chain over the throne is a huge diamond 
+that seems to pulse with an evil light. If a character stares at the jewel 
+for several rounds, he will begin to feel vaguely dizzy and confused. 
+The effect disappears when the person no longer looks at the 
+diamond, but it may prove rather frightening. However, the effect is 
+harmless. Contained in this diamond is Xanathon's "essence/' !t is 
+quite indestructable in its present form, but if the diamond is taken 
+back to Rhoona and brought near to the High Priest of Cretia, it will 
+render Xanathon as mortal as any other man! 
+
+RETURN TO RHOONA 
+
+The return trip to the town is simply a repeat of the five day trek to 
+the shrine. Wandering monster checks can be made in the same 
+fashion. If, however, the group has been sorely damaged by the 
+expedition to the shrine, the DM may wish to forego any encounters 
+on this leg of the journey; If some encounters are desired, the list at 
+the beginning of Scenario 3 may be used. In case many of those 
+monsters have been killed, several more wandering monsters are 
+included here to be substituted as the DM wishes; 
+
+ADDITIONAL HILLS OF VESTLAND 
+WANDERING MONSTERS 
+DIE ROLL WANDERING MONSTER 
+
+1. Owl Bears: (2) AC 5, HD 5, hp 24, MV 120\ #AT 2 claw/1 
+
+bite, D 18, Save F3, ML 9. 
+
+2. Dire Wolves: (3) AC 6, HD 4+1, hp 19, MV 150/ #AT 1, D 
+
+2-8, Save F2 t ML a 
+
+3. Giant Weasels: (2) AC 7, HD 4+4, hp 22, MV 150/ #AT 1 + 
+
+blood drain, D 2-8, Save F3, ML 8. 
+
+
+
+have to take place. The group may make another foray into the 
+Temple of Cretia for this meeting, or they may attempt to arrange a 
+meeting with Xanathon at an outside location. 
+
+
+25 
+
+
+
+
+
+
+As the party returns to Rhoona, they will find the community in an 
+uproar. Only the DM knows exactly how long it will be before the 
+dwarven army arrives, but the population fears that it will be soon. 
+The Duke has not been heard from since the decree announcing 
+that horses must eat meat, and Draco has not been seen for quite 
+awhile either. These two facts are common knowledge in the town, 
+but obviously the characters will have to inquire of someone to learn 
+of occurrences (or lack thereof) while they were gone. 
+
+Most of the few horses in the town will be looking very weak, as a 
+result of having no digestible food. It must be assumed that those 
+horses that look healthy have been fed grain on the sly. The 
+characters might recall seeing the orders for a mustering of a 
+large militia, but they do not know that Draco has cancelled this 
+directive. He is planning to step into the Duke's shoes when the 
+dwarven attack becomes imminent, negotiate a peace, and thus 
+become a hero. 
+
+As usual, Eric of Forsett may be found in the tavern where the 
+adventure began. He will react with obvious relief if he sees that the 
+party has returned safely from the shrine. He does not know the 
+specific workings of the spell that keeps Xanathon's life force stored 
+in the indestructible diamond, but he has some theories that he will 
+discuss with the group. 
+
+He will suspect that Xanathon's invulnerability depends upon the 
+jewel being kept far away from his person. His advice will be to use 
+the jewel as a bargaining agent to get Xanathon to revoke the curse. 
+He will urge that Xanathon be prevented from regaining possession 
+of the jewel. Remember that Cretia and Forseitaare in direct oppo 
+sition of alignment, and that Eric would like to see the Temple of 
+Cretia destroyed* Eric will also caution the group that Xanathon is 
+not to be trusted. 
+
+If the party elects to meet Xanathon outside of the temple, they must 
+select a location and communicate this to the High Priest. A written 
+message delivered to a cleric or fighter in the temple will be certain to 
+reach Xanathon. If the message is given to any other Ethangarian, a 
+fee of 10-40 gp will be asked, and the message has a 50% chance of 
+being delivered. Xanathon will only respond if he is convinced that 
+the party has indeed captured the diamond. He may be convinced if 
+a slightly detailed account of where the gem was found is included in 
+the note. 
+
+
+
+Assuming that the characters have survived the adventure thus far, 
+and successfully completed their objectives in the first four scenari 
+os, they have merely to find the Duke and throw the powder in his 
+eyes to free him from the curse. The logical place to do this, of 
+course, is the Ducal Palace. 
+
+DM Note: It is not necessary for all the powder to be thrown in the 
+Duke's eyes to remove the curse. Therefore, if the players elect to 
+sprinkle the powder over the Duke (or some such similar action), the 
+curse would be removed if even only a little of the antidote got into 
+his eyes. 
+
+
+KEY TO THE DUCAL PALACE 
+
+DM Note: Use MAP E for this scenario. 
+
+This huge stone structure is surrounded by an unfinished stone wall, 
+20' in height* Eight squat towers, 30' high, have been completed, but 
+they are unguarded. A huge pool, with a line of eight fountains down 
+the center, dominates the south side of the palace, and a look at it 
+will explain why the Duke ordered taxes to be paid in beer* Each 
+fountain spouts a stream of the foaming brew! A wide porch is 
+
+
+Assuming that Xanathon realizes that the group does indeed pos 
+sess his life force, the High Priest will show up for the meeting, alone. 
+He will bring two vials with him in a small sack: one vial containing 
+worthless chalk dust and the other the identical white powder that is 
+actually the antidote for the curse. He will first attempt to bargain 
+with the dust, trying to arrange an exchange for the jewel If the 
+group is shrewd enough to use a detect magic or commune spell, 
+this ruse will be easily detected. Only if this first attempt fails will he 
+offer the genuine antidote. 
+
+If the diamond is dangled from its chain within 10' of the High Priest, 
+it will tend to pull toward him. Whenever the gem is this close to him, 
+Xanathon can be wounded. At the first successful hit upon the 
+cleric, no damage will be done, but the light will blink out of the 
+diamond and the stone becomes a mere 2,000 gp gem. Now Xana 
+thon may be struck and damaged as any other cleric, and if melee 
+begins he will fight with every spell available to him (see Scenario 2), 
+as well as his mace +2. 
+
+If the group decides to seek the High Priest out m his temple, they 
+will find that a few changes have been made since they last visited it. 
+Any clerics and the magic-user that might have been killed by the 
+group will not have been replaced, but rooms 38a, 38b, and 39a-d 
+will all have been regarrisoned with four 1st level fighters per room 
+(24 total, AC 4, hp 5, MV 60\ D 1 -8, ML 9). Whichever secret door 
+the party used to gain access to Xanathon's chambers will have been 
+bricked and mortared shut. 
+
+As in an outside meeting, if the group attempts to negotiate with 
+Xanathon for the antidote, he will offer worthless dust first, and only 
+come across with the true antidote if he sees no other way to regain 
+his jewel. If it is at all possible, he will endeavor to prevent the group 
+from seeing the secret door to room 55, which he will have to use to 
+get the antidote. He will try to accomplish this by holding the meeting 
+in the dining room. 
+
+Because of his vulnerability when the jewel is near him, Xanathon 
+will attempt to negotiate his way out of this confrontation, and will 
+only fight if absolutely pressed* If he somehow escapes the party's 
+wrath after the exchange has been made, he will dispatch 12 1st level 
+fighters within the hour to carry the jewel back to Ethangar. As soon 
+as the diamond is safely out of the city, he will attempt to find the 
+group and slay them all. If this battle should take place, he will use 
+spells and weapons as ruthlessly as possible. 
+
+SCENARIO 5 
+
+TO THE RESCUE! 
+
+
+indented into the front of the palace. The whole place appears 
+deserted. 
+
+79, PORCH. _ 
+
+This wide area is shaded by an overhang of the second 
+floor, supported by ten massive columns* The doors to the 
+entry room are a pair of huge, wooden slabs, carved with a 
+skillfully wrought image of the Rhoonian crest: a longship, 
+sail spread wide and running before a stiff breeze. 
+
+The doors to the palace are locked, but not barred. At either side of 
+the porch is a secret door leading to a guardroom. Although the 
+party has seen no one on the palace grounds, the guards will have 
+been watching their approach through narrow slits in the stone wall, 
+and have prepared an ambush. When all of the characters are on the 
+porch, or if any one character tries to open the front doors, both of 
+these secret doors will fly open and the guards will leap to the attack. 
+
+From room 82 come 61st level guards (AC 6, hp 5, D 1-8, MV 9" ML 
+10) and two 3rd level sergeants-at-arms (AC 6, hp 16, D1-8, MV 90, ' 
+ML 10). Three of the 1st level fighters are armed with crossbows as 
+well as short swords, and move off of the porch to attempt to shoot at 
+the party . From room 87 come 4 1st level guards* 2 3rd level ser- 
+
+
+26 
+
+
+
+
+
+
+
+
+geants, and a 5th level officer (AC 4 T hp 28, D 1-8, ML 12), Three of 
+these 1st level fighters are also armed with crossbows, and will move 
+down to get clear shots. The rest of the fighters will attempt to melee 
+with their long and short swords. None of the fighters carries any 
+treasures. 
+
+
+80. DUCAL ENTRY ROOM. 
+
+
+This huge room is bare, except for eight stone columns and 
+dozens of tapestries portraying seafaring scenes. All of the 
+walls of the room, except the front door and two side 
+doorways* are covered by these hangings, and many dif 
+ferent situations (battles, clear sailing, stormy weather) are 
+depicted. 
+
+The tapestries are quite valuable, but of course no lawful character 
+would even consider stealing from the legally appointed Duke. 
+(Although, perhaps the DM may have to gently inform them that 
+they would never think of it!) 
+
+81. BALLROOM. 
+
+This large area has a ceiling that extends upward for 30 s , 
+instead of the usual 15'. The columns here are the same 
+finely crafted but simple supports that were found on the 
+porch and in the entry room. A curtained alcove extends 
+slightly over the floor of the ballroom from the second 
+floor. 
+
+The alcove is the area in which musicians played during the elegant 
+balls that the Duke used to hold. The ballroom is currently empty. 
+
+82. GUARDROOM. 
+
+This simple room is bare, except for some plain wooden 
+benches along the walls. A ladder leads to a trapdoor in the 
+ceiling. 
+
+Since several iron bars have been used to bolt the trapdoor from 
+above, it will be virtually impossible to break open from below, The 
+trapdoor is made of thick wooden planks, banded with iron, and may 
+only be destroyed by a disintegrate spell. 
+
+83. STORAGE ROOM. 
+
+This chamber is stacked high with long wooden tables and 
+expensive, straight-backed chairs. 
+
+There are 20 tables and 200 chairs in the room. This is the furniture 
+that is used in the ballroom for the Duke's formal dinner parties. 
+
+84. KITCHEN. 
+
+This huge cooking area contains many ovens, several large 
+tables T some cupboards, a large pantry, and several c best s. 
+
+The chests are locked, and hold 100 place settings of fine china and 
+silver, as well as some ornate serving dishes. The value of these 
+items totals 5,000 gp. The cupboards hold all manner of pots, pans, 
+and utensils; while in the pantry are many loaves of reasonably fresh 
+bread and cheese, bins of grain and butter, and an icebox containing 
+fresh beef, mutton, milk, and fish. 
+
+85. HALLWAY, 
+
+This wide passageway has two dosed doors leading off it, 
+and a wide stairway leading to the second floor, A suit of 
+plate mail and a pair of crossed swords hang to either side 
+of one of the doors. 
+
+The plate mail and swords are non-magical. Both of the doors in the 
+hallway are unlocked. 
+
+86(a-h). SERVANTS' QUARTERS. 
+
+This long hallway has seven doors on the right hand wall, 
+and one to the left. At the far end it turns to the right. 
+
+
+The eight rooms in this area are the quarters for the palace servants. 
+Rooms a-d are occupied by 1 married couple in each room. Room e 
+is the quarters of the butler and chief servant, a bachelor, while 
+
+
+rooms f and g are the quarters of the unmarried male and female 
+servants, respectively. Room h is the dining area for all of the 
+servants, and has a tiny cooking area attached. 
+
+As they will be certain to notice combat on the front porch, all of the 
+servants will have taken refuge in room 86h if such a fight has 
+occurred. Four of the young men have armed themselves with 
+kitchen knives and pitchforks, but will only fight if it appears that the 
+intruders are planning to slaughter the servants. (There are 16 of 
+them in the room.) The young men will fight at 0 level, (AC 9, hp 4, 
+D 14). Their morale level will be 12 if they are fighting for their lives. 
+
+[f the servants are approached in a friendly manner, they will be 
+willing to answer a few questions. As a group, they are very loyal to 
+the Duke, but none of them will have seen their leader in over a 
+month. Since they universally hate Draco Stormsailer, and they 
+suspect him of treachery, they will not hesitate to inform on him. 
+
+They know that Draco and at least one of his henchmen is upstairs 
+with the Duke. All food and drink that is sent to the Duke has been 
+given to Draco, who presumably passes it on to him. None of the 
+servants can confirm that Stephen Rhoona is alive, however. They 
+do hear some strange noises coming from his quarters at odd times, 
+but these noises are more like animal sounds than human. 
+
+The servants bedrooms are simply furnished, containing only beds, 
+plain wooden chairs, and unlocked chests with a few ragged gar 
+ments in them. Rooms a-e have one bed, room f has two, and room 
+g has four. 
+
+87. GUARDROOM. __ 
+
+This room is much like the other guardroom (room 82), 
+containing only some simple wooden benches and the 
+door to the corridor. _ 
+
+The secret trapdoor to the porch may be opened by pushing out 
+ward on it. It is a one-way door, however, and cannot be used to gain 
+access to the palace from the outside, 
+
+88. SITTING ROOM. _ 
+
+This room is decorated with several tapestries showing 
+rustic farm and hill scenes. Four stone columns support 
+the ceiling, and eight soft chairs and a couch are set in the 
+corners of the room. Three low tables are also in here, one 
+next to each of the sitting areas. A thick carpet covers the 
+floor. 
+
+The door leading into the museum (room 89) is locked, as is the door 
+to the training room (90). 
+
+89. DUCAL MUSEUM, 
+
+!n this elegant chamber, three neat rows of slender co* 
+lumns dominate the center of the room. Along the walls are 
+a series of glass-topped trophy cases, displaying treasures 
+and unique items horn around the world. 
+
+The glass cases are divided into 12 separate areas. Each of these is 
+trapped with poison gas that will be released if the glass is broken or 
+the lock picked without a proper key. 
+
+If a thief rolls successfully to "find traps," he will learn that the trap 
+exists, but will still be unable to remove it, since it is inside the case. If 
+the poison gas is released, all characters within 10' of the case must 
+save vs. Poison or die. Characters between 10* and 20' away must 
+also save, but will get a bonus of 4 added to their saving throws. The 
+gas will diffuse in 2*12 rounds. 
+
+The cases contain a number a different items, all of excellent quality. 
+Candlesticks of gold and platinum , rugs, goblets, tapestries, jeweled 
+daggers, unusual farming and seafaring tools, weird bottles, and rare 
+coins are all attractively arrayed in the displays. The total worth of 
+the objects is 30,000 gp, but, of course, lawful characters will not 
+disturb the treasures. If a neutral thief should happen to lag behind, 
+breaking the cases when the rest of the party has left* the poison gas 
+might make him regret his greed,... 
+
+
+27 
+
+
+
+
+
+
+
+
+
+
+
+90- TRAINING ROOM. _ 
+
+Within this room is a collection of whips* straps, and 
+chains; all neatly stacked on two wall racks- 
+
+The Duke used these tools in his hobby of displacer beast training, 
+but there is no clue in the room to suggest that they are not torture 
+devices to be used on prisoners. The secret door will be discovered 
+on the usual roll. Neither the regular door nor the secret one into 
+room 91 is locked. 
+
+91. DISPLACER BEASTS' CAGE. _ 
+
+This room is divided by a series of iron bars into a small and 
+a large area. In the large area are two giant panther-like 
+creatures that advance, snarling, as soon as the door is 
+opened. A pair of long tentacles grows from the shoulders 
+of each of these creatures. 
+
+The obvious door represents the Duke's idea of a practical joke, 
+since anyone who passes through It will find himself in the cage with 
+the 2 displacer beasts (AC 4, HD 6, MV 150\ AT 2 tentacles, 
+D 2-8/2-8, Save F6, ML8 t attacking creatures must subtract 2 from 
+all (t to hit" rolls). 
+
+The monsters are hungry and angry, so they will attack any creature 
+that they can reach. If characters go through the secret door and 
+stay close to the wall, the displacer beasts will not be able to reach 
+them. The door to the cage is held with a simple latch that anyone 
+who wishes to may open (no roll necessary). 
+
+92. UPPER HALLWAY. _ 
+
+This wide hallway gives access to most of the second floor. 
+
+Four slender columns stand at the comers of the opening 
+of the stairway from the first level. 
+
+93. DUCAL LIBRARY. _ 
+
+Several tables and chairs are placed about this room, and 
+the walls are lined with bookshelves. A soft carpet is on the 
+floor, and the atmosphere is one of plush luxury mixed with 
+homey comfort. 
+
+This library contains more books than could be found throughout 
+the rest of Rhoona. The Duke's family has collected the precious 
+volumes from all over the world, although - unlike Draco Stormsailer 
+¦ the Dukes of Rhoona usually paid in coin or goods for the items that 
+they brought back from their expeditions. 
+
+The Duke used to enjoy reading and would often spend hours here. 
+The books on the shelves include histories and geographies of the 
+lands throughout the southeastern portion of the continent, manu 
+als describing the techniques of all of the crafts practiced in Rhoona 
+of the line of Rhoona and the kingdom of Vestland, studies of all of 
+the different races, and many other volumes that at one time or 
+another caught the fancy of the Duke of Rhoona. 
+
+94. PRACTICE ROOM. _ 
+
+This is a large, nearly empty room. Four unadorned stone 
+columns support the ceiling, and these show signs of chip' 
+ping and hacking. 
+
+The room was used by the Duke and his officers for weapons and 
+hand-to-hand combat practice. It has not been used for several 
+months, and a thin coat of dust is on the floor. 
+
+95. DUCAL WEAPONS ROOM. _ 
+
+A rack at one end of this room holds six rather battered 
+swords, two hand axes, and four dented shields. At the 
+opposite end of the room is a locked, glass-topped case 
+similar to those in the museum. 
+
+The rack holds the weapons that were used for practice by the Duke 
+and his guests. The display case is trapped with enough poison gas 
+to fill the entire room. If the trap is sprung, all characters present 
+must make a save vs. Poison or die. Even if a thief picks the lock, the 
+
+
+gas will be released, since only the proper key will open the case 
+safely. The key is currently stuffed into the mattress of the Duke's 
+bed. The gas will linger in the room for 242 rounds. 
+
+In this display case are the ancestral weapons and armor of the Duke 
+of Rhoona. A glistening silver suit of plate mail +2, and a shield +2, 
+which bears the Rhoonian crest are stretchedaeross a thick cushion 
+of blue velvet. Laid across this potent protection is the ducal long- 
+sword +3. This magnificent weapon is known as "Justifier," and has 
+the special purpose of defeating chaos. A successful hit with the 
+sword upon a chaotic opponent will paralyze that opponent unless 
+the victim saves vs. Spells. Furthermore, in the hands of a creature 
+of chaotic alignment, the sword functions as a cursed sword -3! 
+
+Although the DM will no doubt have reminded the players that lawful 
+characters would never steal from their leader, the temptation of 
+some of these powerful items may prove irresistible for some play 
+ers. The DM should immediately change the alignment of any 
+lawful characters who steal from the Duke to chaotic. 
+
+96. LADIES 1 WITHDRAWING ROOM. _ 
+
+In this small sitting room, several pleasantly soft chairsand 
+some small tables are placed tastefully about the room. 
+
+Two tapestries, both depicting peaceful woodland scenes, 
+decorate the walls. An elegant crystal chandelier hangs in 
+the center of the room. 
+
+This is the room where the Duke's lady entertained female guests 
+while the Duke attended to matters of state or war, A thin layer of 
+dust will be visible if the room is scrutinized, since it hasn't been used 
+for a few months. 
+
+
+97. DRESSING ROOM. 
+
+
+
+This was formerly the bedroom of Lady Merete Hollowan, the 
+Duke's consort. The lady met a rather unpleasant fate at the hands 
+of Draco Stormsailer after the curse was placed upon the Duke. She 
+is now residing at the bottom of the fjord. If the quilt on the floor is 
+examined carefully, bloodstains will be visible on the bottom. 
+
+The secret door leading to Draco's room can be discovered with the 
+usual roll. A hidden catch at the edge of the door needs to be pushed 
+in order to release it. If released, the door swings silently open to 
+allow access to the ducal chamber. 
+
+100. MINSTRELS' QUARTERS. _ 
+
+Tliis chamber contains only four beds, four straight chairs, 
+and six music stands. 
+
+This room used to be the practice and sleeping area for the four 
+musicians that the Duke kept in the palace. As with Lady Merete, 
+their presence was no longer desired after the Duke became cursed. 
+They may also be found at the bottom of the fjord. All of the 
+minstrels' belongings have been removed, although a smashed lute 
+lies under one of the beds. 
+
+
+28 
+
+
+
+
+
+
+
+
+
+
+
+
+
+101. MINSTRELS 1 GALLERY. _ 
+
+This curtained room projects slightly over the ballroom 
+below. Four straight-backed chairs and four music stands 
+are the only things to be seen in here now. 
+
+102. PRIVATE DINING ROOM, _ 
+
+Three gorgeous crystal chandeliers hang from the ceiling in 
+this room. A beautiful, dark wood table, polished to a 
+mirror like sheen, occupies the center of the room, and 
+twelve chairs are placed around it. Four stone columns, 
+one near each comer, support the ceiling. 
+
+The Duke used this room to entertain small groups of intimate 
+friends at informal dinner parties. The door to room 103 is locked. 
+
+103. DUCAL SITTING ROOM. _ 
+
+This comfortably furnished room is the height of royal 
+luxury. A dozen soft chairs are placed around the room, 
+and a small gaming table with four chairs is in the middle. A 
+plush carpet covers the floor, and three chandeliers hang 
+from the ceiling. An ornate tapestry hangs across one wall 
+of the room, depicting an earlier Duke of Rhoona's victory 
+over a tribe of hill giants many years ago. The bards still 
+sing of that Duke's victory. 
+
+Behind the tapestry is a secret door leading to the ducal treasure 
+room. If the tapestry is moved, the door must still be discovered with 
+the usual rolls to detect a secret door. If the tapestry is not moved, 
+there is no chance of finding the door. The door may be opened by 
+rotating the middle chandelier clockwise through three full revolu 
+tions, The door is a solid stone slab, engineered by the most skilled 
+dwarven stonemasons available, so it cannot be smashed open. 
+
+104. DUCAL TREASURY. _ 
+
+This secret room contains five large chests, each secured 
+with a sturdy lock. 
+
+The contents of the chests are the proceeds of the taxes and plunder 
+that the Dukes of Rhoona have acquired throughout the past cem 
+tury + Fortunately, Draco does not know of its existence, or little of 
+value would still remain here. As it now stands, however, the trea 
+sure chests will again prove a temptation to a lawful character's 
+alignment. 
+
+All of the chests are locked, but none are trapped, since the Duke 
+considered the treasure room virtually invulnerable. The contents of 
+the chests have been neatly organized, one type of treasure per 
+chest, as follows: 
+
+Chest 1 - 9,080 gp 
+Chest 2 - 12,330 sp 
+Chest 3 - 4,610 pp 
+Chest 4 ¦ 11,850 ep 
+
+Chest 5 - 1000 gems, total worth 40,000 gp 
+
+105. DUCAL DRESSING ROOM. 
+
+As the group approaches the door, it is bashed open from 
+the other side. Before any of the characters can react a 
+huge, bull-like figure of a man charges into the room, 
+bellowing a battle cry. His black beard is parted by a 
+wicked slash of a mouth, and an evil gleam is in his eyes. As 
+he charges the party with upraised sword, a scarlet "D" 
+can be seen emblazoned on his chain mail! 
+
+Draco and his two henchmen have been planning an ambush ever 
+since the guards informed them that the party was approaching the 
+palace. The attack on the porch was simply a delaying action. 
+
+These are the statistics for Draco and his henchmen: 
+
+Draco: 14th level fighter, AC 2, hp 75, MV 60', D 4-11 (ld8+3), ML 
+12, chain mail, shield +2, and longsword +1, strength bonus of 2. 
+
+
+Captain: 9th level fighter, AC 0, hp 50, MV 60\ D 340 (ld8+2), ML 
+12, plate mail +2, shield, and longsword, strength bonus of 2 + 
+
+Lieutenant: 6th level fighter, AC 2, hp30, MV 60\ D 2 9 (ld8+l), ML 
+12, plate mail, shield, and longsword +i. 
+
+Draco has drilled a small hole in the door to the dressing room, and 
+will be spying on the group through it. When he sees someone 
+approach the door, he will fling it outward and attack. A roll of 1 or 2 
+on a d6 indicates that the party is surprised and Draco automatically 
+gets the first attack. If there is no surprise, initiative is rolled for 
+normally. Draco will carry himself forward with the momentum of his 
+charge, allowing his two companions to enter room 103 right behind 
+him. The two will take up defensive positions on their leader's flank. 
+
+All three of them realize ihat they must win this battle or their plot 
+will be destroyed. They will fight to the death. 
+
+The dressing room is a plainly finished room with a pair of closets 
+and a small chair in it. The closets are filled with various ducal robes 
+and garments, and the chair was used by His Excellency, the Duke, 
+when his servants were tying his shoes. The secret door to room 106 
+has been left slightly ajar, and may be noticed on a +1 chance. 
+
+106. PALACE BARRACKS. 
+
+This room has a dozen simple wooden bunks and several 
+benches in it. A leather cloak and a pair of boots lie on the 
+floor, but nothing of any real value is in here. 
+
+This room was the sleeping chamber for the guards that were 
+assigned permanent duty in the palace. 
+
+107. DUCAL BOUDOIR. 
+
+This large room is messy and dirty. The door to the bathing 
+room stands open, but the tub looks as if it has not been 
+used for some time. A bare writing table is against the wall 
+and an overturned chair is next to it. The bed is against the 
+south wall. A bedraggled figure is visible on the huge bed. 
+
+He is not confined in any way, but will pull the blankets up 
+around his chin and watch the group's approach with wide, 
+staring eyes. As the characters near the bed, he will begin 
+to growl and bark like a dog. 
+
+The man is Stephen, Duke of Rhoona, His formerly robust appear 
+ance is gone, and he is now thin and pale. His hair shoots away from 
+his head in all directions, and his eyes are bloodshot, A trickle of 
+drool runs into his tangled beard. The Duke will cower in bed, 
+making no move to flee or defend himself as the characters ap 
+proach. The antidote for the cure will work as soon as it Is thrown in 
+his eyes, but any other use of the powder will have no effect. When 
+the Duke is cured, he will have full memories of all of his actions while 
+he was cursed. His bearing will grow proud again, and he will ask for 
+a few minutes to clean up before talking to the party. 
+
+If the characters leave the room, the Duke will take 3 turns to wash, 
+brush his hair and beard, and dress according to his rank. When he 
+emerges, no sign of his unpleasant ordeal will be visible. He will ask 
+for details of the party's adventure, and after learning of the events 
+that have transpired, will offer each loyal character a 2,000 gp reward 
+as "an inadequate token" of his gratitude. 
+
+Depending on how many days have passed since the expulsion of 
+the dwarves, he will quickly prepare to ride to Rock home and 
+attempt to turn back the approaching army with an honest apology 
+and explanation, sweetened with an offer of gold to make amends for 
+the inconveniences suffered by the dwarves. Since the dwarves are 
+not exceptionally interested in the destruction and plunder of their 
+former ally, they will grudgingly accept the Duke's offer. 
+
+Draco's head will be placed on display before the Ducal Barracks, 
+and the story of the curse and the party of adventurers who saved 
+the day will be spread rapidly throughout the town. When the Duke 
+returns from pacifying the dwarves, he will throw an elaborate 
+banquet for the characters. 
+
+
+29 
+
+
+
+
+
+
+
+After the banquet, life will begin to return to normal in Rhoona. 
+Within a week, the breweries will have produced enough beer for it 
+to become available in the taverns again. The price will be doubled 
+for two or three weeks, however, until supplies can be built up. ft will 
+be understandable if the characters wish to spend some time cele 
+
+
+brating, and indeed, they will be accorded the status of heroes for a 
+time. 
+
+Adventurers being what they are, however, the life of social gather 
+ings and parties will soon become tedious. Once more, the breeze 
+will whisper of far-off, exotic lands...of evil that must be defeated 
+...and treasure that cries to be found.... 
+
+
+FURTHER ADVENTURING IN RHOONA 
+
+
+If the group decides to stay in Rhoona, a number of things can occur 
+in the town or nearby countryside that will provide activity and 
+challenges for the adventurers. The map of the town may be used 
+further, but of course, places (shops and taverns) that have been 
+marked should remain in their original locations. In this way, if the 
+characters desire, they can get to know the town very well. 
+
+These suggestions for other adventures will obviously require some 
+DM preparation. Each of these scenarios could be expanded to fill 
+an entire evening of playing time, or could be used as short, one or 
+two encounter adventures that would be playable in an hour. 
+
+
+A. THE BAND OF MASTER THIEVES: This is a group of 
+five or six high level thieves who operate out of a shack in the Old 
+Town. They will attempt to steal anything that they can get their 
+hands on. If they hear rumors of the rich rewards given to the 
+characters who saved the Duke from the evil curse, their curiosity 
+will be aroused. 
+
+They will locate the group, and probably attempt to create some 
+kind of diversion while several of the thieves rob the party of every 
+thing they can carry away. Most of the residents of the Old Town 
+fear this group, so information regarding its lair and hangouts will be 
+difficult (expensive) to come by. It is rumored that a network of 
+tunnels and rooms extends through the ground underneath the 
+thieves* shack. 
+
+B. THE SLAVERS 1 WAREHOUSE: The disappearance of a 
+number of children and young adults from Rhoona will cause worry 
+and dismay among the populace. The party must figure out that they 
+
+
+are being kidnapped by a band of slavers. The youths are smuggled 
+aboard ships in the middle of the night and taken to the barbaric 
+reaches of the far corners of the world. 
+
+The slavers 1 headquarters is a warehouse on the waterfront. Mun 
+dane items such as lumber and tools are stored here, but a secret 
+room serves as a prison until the next slave ship sails. A sturdy band 
+of high level fighters, with magic user, thief, and clerics to support 
+them, is behind this wicked scheme. 
+
+C RAIDING RED DRAGON: An old and evil fire-breathing 
+dragon finds a comfortable cave in which to lair. The problem: The 
+cave overlooks the fjord between Rhoona and Norrvik, and the 
+dragon enjoys plundering cargoes and burning boats. If the charac- 
+ters are especially courageous, they may wish to plan an expedition 
+against this fierce lizard, motivated by the pile of treasure that it is 
+bound to have accumulated. 
+
+The expedition could include a wilderness adventure as the group 
+battles various wandering monsters on the way to the dragon's lair. If 
+any characters are fortunate enough to survive this jaunt, it may be 
+assumed that they will return wealthier than before! 
+
+Numerous situations could be created with Rhoona as a base of 
+operations: hill giant, ogre, or troll bands that could begin to harass 
+the outlying farms; plots in the town against the legal authority of the 
+Duke, etc. !f the DM wishes to allow it, the characters may even 
+purchase a boat or ship in Rhoona and launch some exploring 
+expeditions of their own. 
+
+As with any other D&D (r) game situation, the only boundaries are 
+the limits of your imagination! 
+
+
+
+
+NEW MONSTER 
+
+
+Armor Class: 4 HYPNOSNAKE 
+
+Hit Dice: 8* 
+
+Move: 90' {30') 
+
+Attacks: 1 bite or 1 gaze; 1 tail 
+Damage: 1-8 or sleep; 1-10 
+
+No. Appearing: 1 
+Save As: Magic user 5 
+Morale: 9 
+Treasure Type: D 
+Alignment: Chaotic 
+
+The hypnosnake is a semi-intelligent reptile that attempts to hypno 
+tize its prey before devouring it. This hideous serpent is a red and 
+green striped reptile that may grow up to 20 feet in length. Its eyes 
+are a whirling blend of all the colors of the rainbow. 
+
+
+To hypnotize its prey, the hyposnake stares into the eyes of a 
+potential victim while swaying in a rhythmical fashion. The victim 
+must save vs. Paralysis, or instantly fall asleep. The next round, the 
+hypnosnake may seek out another victim and attempt to hypnotize 
+again. 
+
+A character who is surprised by the hypnosnake automatically 
+meets its gaze. Characters who are in hand-to-hand combat with it 
+will meet its gaze unless they state that they are looking away. In the 
+latter case, the character attacks at -4 and the hypnosnake at 2 on all 
+"to hit" rolls. If the hypnosnake watches itself in a mirror for a full 
+round, it must make a save vs. Paralysis or fall asleep. 
+
+The hypnosnake can also lash out with its barbed tail for 1-10 points 
+of damage, or bite for 1-8, Note that, if it chooses to bite, it cannot 
+attempt to hypnotize that same round. 
+
+
+CREDITS 
+
+DESIGN: DOUGLAS NILES 
+
+DEVELOPMENT: DOUGLAS NILES AND ALLEN HAMMACK 
+EDITING: DEBORAH CAMPBELL RITCHIE 
+
+
+30 
+
+
+
+
+
+
+
+PREGENERATED CHARACTER LIST 
+
+All pregenerated characters are of Lawful Alignment, except for the thief (Quillan), who is neutral. 
+
+
+NAME _ CLASS/LEVEL HITFTS. STR INT. WIS. DEX, CON. CHA. 
+
+
+Ariel 
+
+
+cteric/7 23 13 
+
+9 14 
+
+8 
+
+10 
+
+11 
+
+Clyde]] 
+
+
+dwarf/6 40 16 
+
+7 9 
+
+10 
+
+14 
+
+3 
+
+Annelise 
+
+elf/5 18 13 
+
+12 8 
+
+14 
+
+9 
+
+11 
+
+Kimbra 
+
+
+magic-user/6 13 7 
+
+15 11 
+
+12 
+
+9 
+
+10 
+
+Barthel 
+
+
+halfling/5 22 11 
+
+9 8 
+
+16 
+
+11 
+
+12 
+
+Lamar 
+
+
+fighter/6 30 14 
+
+10 9 
+
+11 
+
+9 
+
+12 
+
+Quillan 
+
+
+thief/5 12 10 
+
+11 8 
+
+15 
+
+10 
+
+10 
+
+Raynor 
+
+
+fighter/6 28 15 
+
+7 13 
+
+10 
+
+13 
+
+3 
+
+
+
+CHARACTERS BONUSES AND PENALTIES 
+
+
+
+
+NAME 
+
+
+STRENGTH 
+
+SAVING THROW 
+
+MISSILE FIRE 
+
+
+Ariel 
+
+
++1 
+
++ 1 
+
+
+-1 
+
+
+Clydeli 
+
+
++2 
+
+0 
+
+
+0 
+
+
+Annelise 
+
+
++1 
+
+0 
+
+
++ 1 
+
+
+Kimbra 
+
+
+-1 
+
+0 
+
+
+0 
+
+
+Barthel 
+
+
+0 
+
+0 
+
+
++2 
+
+
+Lamar 
+
+
++1 
+
+0 
+
+
+0 
+
+
+Quillan 
+
+
+0 
+
+0 
+
+
++1 
+
+
+Raynor 
+
+
++1 
+
++1 
+
+
+0 
+
+
+
+
+CHARACTER SPELLS 
+
+
+
+
+Ariel: 
+
+First Level: 
+
+cure light wounds; detect magic 
+
+
+
+
+
+
+Second Level: 
+
+find trap; silence 15' radius 
+
+
+
+
+
+
+Third Level: 
+
+striking 
+
+
+
+
+
+
+Fourth Level: 
+
+cure serious wounds 
+
+
+
+
+
+Annelise: 
+
+
+
+
+
+
+
+First Level: 
+
+sleep; magic missile 
+
+
+
+
+
+
+Second Level: 
+
+invisibility; knock 
+
+
+
+
+
+
+Third Level: 
+
+haste 
+
+
+
+
+
+Kimbra: 
+
+First Level: 
+
+detect magic; charm person 
+
+
+
+
+
+
+Second Level: 
+
+web; ESP 
+
+
+
+
+
+
+Third Level: 
+
+fireball; fly 
+
+
+
+
+
+
+
+QUILLAN'S THIEF ABILITIES 
+
+
+
+
+
+OPEN 
+
+REMOVE PICK MOVE 
+
+CLIMB 
+
+HIDE IN 
+
+HEAR 
+
+
+
+LOCKS 
+
+TRAPS POCKETS SILENTLY 
+
+WALLS SHADOWS 
+
+NOISE 
+
+
+
+35% 30% 40% 40% 91% 30% 1-3 
+
+Because these are mid-level characters, it is assumed that they have collected a few possessions and 
+treasures from previous adventuring. If the 
+pre-generated characters are used, the DM may allow each character to roll a d6, Mutiply this figure 
+times 100 to get the amount of gold pieces 
+carried by that character. 
+
+In addition, the group possesses the following items. The players should roll percentile dice to 
+determine the choice of the items. The player with 
+the highest roll gets the first choice, and so on, until all of the items have been distributed. 
+
+PREGENERATED CHARACTER POSSESSIONS 
+
+Longs word +1 
+Longs word +1 
+Shortsword +1 
+Shield +2 
+Shield +1 
+Shield +1 
+Plate Mail +1 
+Plate Mail +1 
+Leather Armor +1 
+Ring of Protection +2 
+
+Wand of Magic Detection (2-40 charges, rolled on 2d2G by the DM, privately) 
+
+
+31 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1 square 
+
+
+* I9S2 TSR Hobbies, lot All Rights Reserved. 
+
+
+
+
+
+
+q 
+
+
+
+
+iR 
+
+\ 
+
+
+or* 
+
+UH 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Expert Set Adventure Module 
+
+
+Curse of Xanathon 
+
+by Douglas Miles 
+
+
+Something is rotten in Rhoona,.. 
+
+When the grotesque god, Cretia, casts his ugly shad 
+ow over the town, strange things start happening. 
+First, Duke Stephen vanishes. Then bizarre procla 
+mations begin coming out of the Ducal Palace- 
+dwarves are outlawed... taxes must be paid in beer- 
+horses must be ridden backwards. Soon the entire 
+town is in an uproar and a dwarven army is marching 
+on Rhoona. This is the situation when you and your 
+party of valiant adventurers arrive in the suffering 
+town. 
+
+There you find. -. 
+
+*A ragged beggar who prowls the streets offering 
+cryptic advice. 
+
+*A mysterious black-garbed cleric planning trea 
+chery. 
+
+*A trusted soldier plotting his master's overthrow. 
+
+*A sinister jewel casting its evil emanations over the 
+town. 
+
+You and your party are Rhoona's only hope. Only 
+YOU can unravel the dark mystery that plagues the 
+town and save Rhoona from... the Curse of Xanathon. 
+
+
+This module is lor use with the DUNGEONS & DRAGONS- 
+Expert Set, which continues and expands the D&D# Basic 
+rules. This module cannot be played without the D&D # Basic 
+and Expert rules produced by T3R Hobbies, Inc, 
+
+
+s 1982 TSR Hobbies, Inc All Righis Reserved Printed in U S A 
+
+
+TSR HobbteSh, Inc 
+
+TSR Hobbitf* (UK) Ltd 
+
+
+t hr Mill, H.mhnutrr Htuirl 
+
+Lakt fc a. 
+
+L'ambiidgv CBMAl> 
+
+Wi 5JN? 
+
+L niied Kinqdom 
+
+
+ISBN 0-935696-56*3 
+394-53069-1TSR0550 
+
+
+
+
+
+
+
+
+
+

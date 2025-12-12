@@ -1,0 +1,6317 @@
+Skip to main content
+ 
+Texts
+ 
+Video
+ 
+Audio
+ 
+Software
+ 
+Images
+Sign up for free
+Log in
+ Search metadata
+ Search text contents
+ Search TV news captions
+ Search radio transcripts
+ Search archived web sites
+Advanced Search
+About Blog Events Projects Help Donate  Contact Jobs Volunteer
+Full text of "Tsr 06061 R 2 The Investigation Of Hydell ( Level 5 7)"
+See other formats
+the investigation op hy6ell 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MlSl! 
+
+
+
+- 
+
+
+j1 
+
+48 
+
+
+1 ; 1 
+
+
+
+
+
+43 
+
+
+
+
+
+
+i 
+
+
+
+
+
+32 
+
+
+
+
+
+
+30 
+
+
+
+1 1_ 
+
+
+¦ ¦ I 1 m 
+
+
+o a o o 1 
+
+
+f 
+
+
+S 
+
+
+
+0 
+
+1 
+
+
+
+
+
+
+
+
+47 
+
+
+T_i 
+
+
+
+
+
+
+s ; 
+
+¦ 
+
+
+¦ 
+
+
+46 
+
+
+
+? 
+
+
+
+
+
+n 
+
+lJ 
+
+42 
+
+1 
+
+
+¦:! 
+
+M 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+the investigation of hybeLL 
+
+By Frank Mentzer 
+
+An RPGA(tm) AD&D(tm) Module for 5 Characters, Levels 5/5 
+
+
+Slinks are clean, well cared for, happy, obedient semi-humans. Why are they content to be slaves? They 
+are 
+protected by law, owned by many a wealthy merchant, and even have church approval. So why is high 
+cleric 
+MacKurian suspicious? Can you sneak into the old ruin and find out what slinks really are, and where 
+they're coming 
+from? 
+
+This is the second of the RPGA series of AD&D modules. Each RPGA module has been used at an official 
+GEN CON(r) 
+tournament and has been designed to provide maximum entertainment. THE INVESTIGATION OF 
+HYDELL is usable 
+in campaign or tournament play, and may be scored by points or using the RPGA Tournament system. 
+This adventure 
+is designed for a balanced party of 5-8 characters of levels 5-7, and 5 tournament characters are 
+provided, along with 
+general and detail maps, scenario and character background information, and detailed encounter 
+descriptions for the 
+DM. 
+
+
+This prod net is protected tinder the copyright laws ol the United States ol America. Any reproduction 
+orolher unauthorind use at the material or artwork contained herein ie prohibited without the wn hen 
+consent ol 
+
+TSR Hobbies, Ing. 
+
+ADVANCED DUNGEONS & DRAGONS is a registered trademark owned by TSR Hobbies, lnc + 
+
+GEN CON(r) and RPGA(tm) are service marks owned by TSR Hobbies, Inc. 
+
+The designation "TM ,> is used to refer to other trademarks owned by TSR Hobbies. Inc, 
+
+(r) 1982 TSR Hobbies, tec. Alt Rights Reserved, 
+
+RPGA(tm) DIVISION OF TSR HOBBIES, INC. 
+
+
+Printed in U.S.A. 
+ISBN 0-935676-97-0 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hydell, Part 1 
+
+
+BACKGROUND 
+
+
+Your group of adventurers knows each other welt; 
+you have been exploring near-by dungeons for over a 
+year. But during that time, a strange thing has hap 
+pened in your home town of Nimbortan: slavery has 
+reappeared, after being banished for over a century. 
+
+Concerned about the possible inroads of evil in your 
+community, you have consulted the town rulers about 
+this phenomenon' only to find that many of them (the 
+good, the lawful, and the neutral alike!) have slaves 
+themselves. They have repeatedly assured you that all 
+is well, and offer the slaves themselves as evidence: 
+they are clean, well cared for, happy, obedient, and 
+only semi-human. The owners call them Slinks. 
+
+This apparently new race does not speak; they only 
+grunt a bit as they go about their tasks. Local pranks 
+ters have done their work on the slinks, only to find 
+their efforts ignored; the slinks submit to any indignity, 
+and merely get up afterwards to continue their chores. 
+Occasionally one is beaten badly enough to merely lie 
+on the ground, apparently paralyzed; the constables, 
+or sometimes the owner, soon come and take it away. 
+
+Pressured by the wealthy owners of the slinks, the 
+church fathers have issued formal proclamations pro 
+tecting the slinks from harm. Woe be to anyone abus 
+ing a slink; a heavy fine and imprisonment is the least to 
+be expected if the offender is caught. 
+
+No harm has come because of these creatures; in 
+deed, the town is doing better than ever. The slinks are 
+never used for common labor, only for routine chores 
+and personal services, and only for their individual 
+masters. No slink has ever committed a crime; they are 
+
+
+
+totally inoffensive creatures, apparently quite happy 
+with what they do. But there are some who still have 
+their doubts. 
+
+Clerics have ail been warned to leave the slinks com 
+pletely alone. The slinks are known to be magical; one 
+of the proclamations forbids the casting of dispel 
+magic spells on them. Their owners have paid dearly 
+for them: from 5,000 gp for the small ones to 50,000 gp 
+for the large. 
+
+You were summoned one dark night to the home of 
+the high cleric MacKurian to discuss the problem. He 
+confessed that the stronger the owners' assurances 
+became, the more doubts he had. "No living being 
+would willingly submit itself to slavery!" he argues. 
+"Their magical nature and mysterious origins indicate 
+that something dangerous is afoot. And where are the 
+slinks coming from?" 
+
+He and several other concerned prominent citizens 
+("all Lawful and Good", he mentions) have reluctantly 
+banded together secretly to find the root of the prob 
+lem. They have found that a prospective slink buyer 
+leaves a message with a known person, and is then 
+escorted to an old castle about 5 miles away. Down 
+stairs, the slinks are displayed, prices are discussed, 
+and (more often than not) the buyer proudly returns 
+with a personal slink servant. The complex is clean, 
+well run, heavily guarded, and apparently a normal 
+business operation. It is more than just the innocent 
+appearing first level; there is something below. 
+
+Your group has been offered a reward of 10,000 gp 
+per person, plus the right to keep any treasure and 
+magic items found, if you will sneak into the complex, 
+find out what is going on, and shut down operations. 
+Your identities will be kept secret, as the power of the 
+slink owners could destroy you it you are successful in 
+this. 
+
+The rich reward for your adventuring skills has con 
+vinced you to take the offer. After equipping yourselves 
+as best you can, you have set out one morning, headed 
+towards the old castle. 
+
+YOUR OBJECTIVE: In the first round of this tourna 
+ment, you are trying to penetrate the complex without 
+raising an alarm, collecting as much treasure as possi 
+ble along the way. Play ends when any party member 
+descends the stairs to the lower levels. 
+
+SCORING: You will gain score for treasure and magic 
+items found and kept, plus bonus scores for (a) each 
+party member surviving, and (b) any party member 
+going down the stairs within the time limit. Magic items 
+(such as potions) found may be used without loss of 
+score. 
+
+
+2 
+
+
+
+
+
+Hydell, Part 1 
+
+
+Notes For The DM 
+
+
+PREPARATION: Read the module, paying particular 
+attention to areas HI-3 and #18. When the players are 
+assembled, hand out the character sheets and allow 
+the players to select one each; give them exactly 5 
+minutes to review and compare them, placing no other 
+restrictions on them. The players may refer to any and 
+all AD&D(tm) materials and books before the adventure 
+begins, but only the PLAYERS HANDBOOK during the 
+adventure. Do not assist the players In any way, and do 
+not look up things for them. 
+
+When the 5 minutes are up, give the BACKGROUND 
+sheets to a volunteer, to read it aloud to the rest of the 
+players. After they read it, give them exactly 5 minutes 
+to review it, answering any questions to the best of your 
+ability. Make sure they understand the scoring being 
+used, answer any last minute questions, and then be 
+gin the scenario, noting the time when you do so. 
+
+TIME: The players have up to 3 hours (EXACTLY, un 
+less an extension is granted by the Tournament Direc 
+tor) to find and descend the stairs to the next level, at 
+which point play ends. They may achieve their objec 
+tive in less time, and may wander about the dungeon 
+until that limit; but in any event, PLAY ENDS WHEN 
+THEY GO DOWN THE STAIRS or at the end of 3 hours, 
+whichever occurs sooner. Be sure the.players under 
+stand this point. 
+
+OBJECTIVES: The party is trying to (1) accumulate as 
+much treasure and magic as possible, and (2) get down 
+the stairs to level 2. 
+
+PROCEDURES: Players should roll their own "to hit" 
+rolls, damage, saving throws, surprise, and party initia 
+tive (1 initiative roll per round, for the whole party). 
+They will keep track of their own hit points, items pos 
+sessed, spells carried and cast, and so forth. The DM 
+will also keep track of spells cast and magical items & 
+charges used, and will make all necessary rolls for the 
+NPCsand monsters. Any player caught cheating in any 
+manner will cause the entire team to be disqualified. 
+
+SCORING: Use the treasure reference, circle or under 
+line all items found. The party will get 1 point per tgp 
+worth of treasure found, using DMG values forali mag 
+ic items, as noted on the Tournament Scoring Sheet. 
+Non-magical swords, armor, and standard supplies are 
+NOT counted for score. The party may use up the items 
+found without losing points acquired thereby (potions, 
+for example), but must otherwise carry the items and 
+treasure until the end of the round to count them as 
+score; items and treasure "stashed" somewhere are 
+NOT counted as kept. If the party is captured, all items 
+
+
+and treasures are removed and not counted for score. 
+
+In addition, the party gets 1,000 points per party 
+member surviving at the end of the round, plus a 1,000 
+point bonus for any member finding and descending 
+the stairs down to level 2. 
+
+DEBRIEFING: At the end of the round, fill out the DM 
+SUMMARY sheet for the reference of the Tournament 
+Director. Hand out one PLAYER SUMMARY sheet to 
+each player, and collect them after they are filled out; 
+put all the materials in the envelope, and turn in the 
+complete package of the PLAYER SUMMARIES, the 
+DM SUMMARY, and the TOURNAMENT SCORING 
+sheet, making sure that the team number and DM's 
+name are filled in on theoutsideof the envelope. 
+
+
+DM's SUMMARY OFTHE SCENARIO BACKGROUND 
+
+
+The 13th level illusionist Dutch has teamed up with 
+the 7th level cleric Parlee in creating "good" slavery. 
+They have hired a squad of fighters from local towns to 
+act as guards, and have cleaned out an old dungeon, 
+adapting it to their purposes. 
+
+Parlee casts an animate dead spell on the bodies of 
+human, demi-human and humanoid two-legged crea 
+tures, turning them into zombies. Dutch casts a per 
+manent Illusion on each, giving the appearance of a 
+clean, neat, well-cared-for obedient semi-human slave. 
+These useful creatures are known locally as "slinks". 
+They are sold for 1,000-3,000 gp per hit point, and they 
+are perfect slaves, requiring no care nor sleep. 
+
+Together, the partners have discovered how to make 
+amulets of control which affect the slinks. If a person is 
+visibly wearing the same symbol as that on a slink's 
+amulet, that person can command that slink. The 
+amulet also modifies the effects of a cleric's Turning 
+ability on these specially treated zombies; 
+
+If Turned, a slink will merely stand paralyzed for 2d4 
+rounds, after which the paralysis wears off. 
+
+These amulets are not normally visible, being hidden 
+under the illusion. All slinks in the complex are wearing 
+amulets marked with the symbol of the complex. 
+
+During a tournament, any attempts at dispelling a 
+slink's permanent Illusion will have no effect. The ac 
+tual AD&D(tm) chance for success, for a character of 7th 
+level, is 38%. 
+
+Note that killing a slink does not destroy the illusion; 
+the dead slink will look paralyzed but alive. Thus, 
+another animate dead spell will "cure the paralysis", 
+reanimating the zombie and restoring all hit points lost. 
+
+
+3 
+
+
+Hydefl, Part 1 
+
+
+SLINKS: AC:8, MV:6, HD:2, #AT:1. D:d8, N. Med; un 
+dead, and therefore immune to sleep, charm, and hold 
+spells. Available in small {hp 2-6), medium (hp 7-11), 
+and large (hp 12-16) sizes. Turnable as zombies, with 
+resulting paralysis instead of destruction or running, 
+due to the amulet worn. Aslink will obey any command 
+given by the wearer of the same symbol as that worn by 
+the slink; thus, those in the complex will obey any of the 
+guards. 
+
+GUARDS: All guards are hired, and come from nearby 
+towns. They will surrender if things go badly against 
+them, but will hold off until one or two are dead, as they 
+have been working here for about a year and are well 
+treated and paid. None of them know much about the 
+complex, other than the fact that visitors come and go, 
+sometimes leaving with a slink. They do know that the 
+slinks are valuable, and will not endanger them need 
+lessly. Each guard wears the same outfit (plate & 
+shield), emblazoned with the symbol of the complex: 
+
+
+
+DISBELIEF: Any character may attempt to disbelieve 
+what is happening at any time. The attempt will take the 
+entire round; no movement, spells, combat, or any 
+thing else is possible during this action. The DM rolls, 
+then announces that the character still believes It (un 
+less specified otherwise in the encounter description). 
+If the disbelieved thing is actually real, the character 
+automatically fails any saving throwsapplicable. 
+
+DOORS: All normal doors are wood with metal rein 
+forcements, 8' high, 4' wide, and locked. If two thieves 
+consecutively try to open a lock, the lock will be picked; 
+otherwise roll normally. An unlocked door may be 
+opened easily and quietly (unless the description 
+states otherwise). A locked door may be forced nor 
+mally, the DM rolling the "open doors" chance. 
+
+SECRET DOORS: No secret doors may be found "in 
+passing". If an elf or half-elf looks fora secret door in an 
+area where one exists, the secret door will be found (no 
+roll necessary). Other characters have normal chances, 
+as given on the character guide, and the DM always 
+rolls for the attempt. 
+
+LIGHT: Unless noted otherwise (such as in area #11), 
+all rooms and corridors are lit by torches in sconces, 
+about 30' apart. 
+
+
+Standard Abbreviations (used throughout) 
+
+
+Money: 
+
+cp copper pieces 
+
+sp silver pieces 
+
+ep electrum pieces 
+
+gp gold pieces 
+
+pp platinum pieces 
+
+
+Gems: Roman numerals 
+
+X lOgp value 
+
+L 50gp value 
+
+C lOOgp value 
+
+D 500gp value 
+
+M 1,000gp value 
+
+
+General: 
+
+
+Spells: 
+
+
+Size: 
+
+
+N, CE, etc. 
+
+Alignment 
+
+C 
+
+casting time 
+
+AC 
+
+Armor Class 
+
+R 
+
+range 
+
+M 
+
+Movement rate 
+
+DR 
+
+duration 
+
+HD 
+
+Hit dice 
+
+s 
+
+segments 
+
+hp 
+
+hit points 
+
+r 
+
+rounds 
+
+#AT 
+
+D 
+
+Number of Attacks 
+
+Damage 
+
+T 
+
+turns 
+
+MR 
+
+STS 
+
+Magic Resistance (for an 11th level 
+saving throw vs. spells (on d20) 
+
+caster) 
+
+
+THACO 
+
+roll (on d20) needed to hit AC 0. NOTE: this always includes strength 
+bonuses "to hit", but never magical bonuses. 
+
+THAC5 
+
+"THACO" but for AC 5, as certain classes (particularly magic-users) have 
+poor chances to hit. 
+
+Sm 
+
+Small Med Medium Lg 
+
+Large 
+
+
+
+4 
+
+
+
+
+
+Hydell, Part 1 
+
+
+START 
+
+
+The party will have no encounters on the way to the 
+dungeon. As they top a hill, heading northeast, the 
+castle will be seen in the distance. One large pair of 
+double doors is visible in the middle of the south wall; 
+no other doors can be seen during the approach. There 
+is a normal door in the adjacent east wall, easily seen if 
+the party reconnoiters. 
+
+The outer walls measure 350' long by 230' wide, and 
+are 80' high; they are 10' thick. There are no towers. 
+Inside, there is a huge bar fastening the large (5' thick, 
+20' high) double doors shut, which cannot even be 
+lifted by the characters; however, a knock spell wilt 
+cause it to fall on the ground, after which the doors may 
+
+
+be opened easily. 
+
+The small eastern outer door is locked, and the latch 
+is trapped with a glyph of warding {14 points of electri 
+cal damage, save vs. spells for 7), but will open easily 
+after the lock is picked. If any character casts a dispel 
+magic on the glyph, it will be dispelled without explod 
+ing (no roll necessary). Remember that if two thieves 
+try to pick the lock, the lock will open automatically; 
+but any attempt at picking the lock will trigger the 
+glyph. The inner door is locked but not trapped. 
+
+A clean, mown grassy area is atl that fills the shell of 
+the castle. Five normal doors are visible, one in each 
+corner of the rectangular area and the one in the east 
+wall. All are locked, but none aretrapped. They all lead 
+to a five foot length of 10' square corridor, at which 
+point a spiral staircase, cut out of the rock foundation, 
+leads to the first level. 
+
+
+
+5 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+p 
+
+
+Hydell, Part 1 
+
+
+KEY TO LEVEL 1 
+
+
+1. WELCOME: The 10' square corridor goes as far as 
+the party can see. When a living creature reaches 
+point A, 50' from the base of the stairs, a programmed 
+Illusion (described hereafter) is triggered; it will last 
+for 13 rounds. START COUNTING ROUNDS! 
+
+At the end of each paragraph marked with an 
+asterisk (*), the DM should check for the party's ac 
+tions. The "devil's" Armor Class and Magic Resist 
+ance are included so you can fooi the party effective 
+ly. Also see DM NOTES FOR THIS ENCOUNTER at 
+the end of #2 (hereafter). 
+
+The Illusion: A 30' long section of wall ahead glows 
+briefly and disintegrates into dust. The sounds of 
+battle are heard within: swords clashing, bows twang 
+ing, shouts, and so forth.* 
+
+(If anyone is brave enough to approach and look 
+into the newly exposed area just after the wall disinte 
+grates, go to room #2 hereafter. Otherwise, continue) 
+Suddenly an explosion is heard, and a burst of 
+flame blossoms into the corridor, scorching the wall 
+opposite the opening. The sounds of battle die down, 
+but continue, something is roaring.* 
+
+Four human archers, their full plate armor burnt 
+and torn, back out into the corridor, firing at some 
+thing as they go. They glance at the party, but con 
+tinue their desperate fight; however, another burst of 
+fire envelopes them [and possibly party members, if 
+any are at that point, for 13 points of damage; save vs. 
+spells for 7 points], and they go down in flames.* 
+There is a brief lull, deadly quiet; approaching 
+footsteps are heard.* 
+
+A 9* tall, red, devilish figure [horned devil: AC:-5, 
+MR: 50%] steps into the corridor, looking at the 
+bodies. It looks up and sees your party, and starts 
+toward you, grinning in anticipation of more car 
+nage.* 
+
+2. CLOSEUP: You see a 30' square room, bounded on 
+the east and west sides by north-south corridors (like 
+the one you are in). Stone barriers, each 10' long, 3' 
+high, and 2' wide, extend from the north and south 
+walls halfway into the room, leaving a 10' wide gap in 
+the middle. A door is in the middle of the far wall. 
+
+Another adventurous party has apparently run 
+afoul of the 9' tall, red devilish figure [horned devil] in 
+this room; most members of the ill-fated party - all 
+their spell casters, at least - now lie dead in various 
+parts of the room. A glowing gem on the floor, appar 
+ently the recipient of a continual light spell, illumi 
+nates the area all too well. 
+
+Four fighters are crouched behind the stone bar 
+riers, firing their bows at the devil, as it delivers a fatal 
+blow to the last survivor in its immediate vicinity. As 
+two arrows strike it, the devil roars and gestures; a 
+
+
+
+burst of flame erupts from its fingertips, blasting all 
+the archers [as well as the observing party members; 
+see # 1, above, hr details ]. 
+
+
+The door opposite opens, and three more fight 
+ers rush out, their crossbows at ready. [See area #3, be 
+low. If these guardsmen can see any party members 
+
+- and give the players an opportunity to duck or hide 
+
+- they will fire the crossbows at them repeatedly until 
+engaged. If the party members refreaf, the guards 
+men will wait until the illusion is over before ad 
+vancing.] 
+
+The archers pause; they rise, still firing, and back 
+out of the room through the disintegrated wall. They 
+fall dead from another blast of fire in the next round. 
+
+
+DM Notes For This Encounter 
+
+The devil will move to engage the party. It will only 
+proceed, however, to the limit of the illusion: point B, 
+10' from the base of the stairs. If allowed to attack, the 
+devil will not manage to hit anyone, though it will realis 
+tically roar and swing with gusto. Remember that the 
+illusion will end 13 rounds after the initial triggering, 
+but unless someone's counting, only a vague idea of 
+the duration ["over a turn"] will be obtained. The ''dev 
+il" will disappear after 12 rounds, in a cloud of smoke; 
+the other elements of the illusion will disappears round 
+later. 
+
+DISBELIEF: Characters will not be able to successfully 
+disbelieve the illusion until someone casts a spell with 
+visible effect at the devil (such as a web), or hits the 
+devil with a weapon or missile. In either case, the devil 
+will be seen to walk through the magic effect, or the 
+blow will have no effect; a player announcing a disbe 
+lief attempt thereafter will automatically disbelieve 
+successfully, becoming immune to any damage from 
+the illusion. 
+
+NOTE that the three guards from the guardroom (area 
+#3, below) will support with crossbow fire if real intrud 
+ers are sighted. They will keep up missile fire until 
+engaged. If the party retreats out of theirsight, they will 
+nof follow until the illusion is over, if two of them are 
+
+
+a 
+
+
+Hydell, Part 1 
+
+
+slain, the third will surrender and cooperate. {See 
+GUARDS, page 4.) 
+
+3. WARNINGS: On the wall of the corridor, about 4' up, 
+there is a sign to each side of the 30' gap where the 
+entry illusion occurs. Written in common for visitors 
+and to remind new guards, it reads: 
+
+DO NOT ENTER AREA AHEAD ON (*) 
+DANGER - DEATH - ILLUSIONS 
+STAY IN CORRIDOR 
+
+(*) The sign specifies right or left, as applicable. 
+
+4. GUARDROOM: Three guards are stationed here; all 
+are familiar with the illusion, and will take no damage 
+from it. They have specific instructions to inspect area 
+#1 and the entry corridor about 5 minutes after the 
+first noises are heard. They are to slay all intruders 
+BUT take prisoners if convenient, lock items and 
+persons found into this guardroom, and then report 
+the situation to the nearest Jailor (room #7). 
+
+GUARDS: Human Fighters, Level 2, AC:2 (plate 
+& shield), hp:16,14,12, THAC0:20, STs:17, N; 
+armed each with cocked heavy crossbow (d4+1, 
+automatic initiative), halberd (dIO), and long- 
+sword (d8). They usually each fire one shot at a 
+spell caster (if identifiable as such) and then 
+drop the crossbow, drawing the halberd for 
+melee. Each possesses 20gp worth of various 
+coins, and one has a key to the guardroom. 
+
+The guardroom is 30' square, and contains a ta 
+ble and 3 chairs (all wooden), a cot, and a weapons 
+rack with 3 extra longswords, 2 pole arms, and 1 
+dagger (none magical). There is a potion of healing 
+hidden under the mattress of the cot. 
+
+
+
+5. CELLS: Each of these doors is heavy and thick, with 
+exceptionally large, tough locks and small barred 
+windows. All are dark and dingy; the residents are as 
+follows: 
+
+a. 2 halflings, male and female, hp 6, 3 
+
+b. 2 dwarf males, hp 11, 5 
+
+c. 1 human male, hp 4 
+
+d. empty 
+
+All residents are stupefied from their long impri 
+sonment, and can be of absolutely no help to the party. 
+Each has a movement rate of 1" and, if forced to move 
+around, a 50% chance per round of collapsing and 
+passing out. In short, they will hamper the party if 
+rescued. 
+
+6. CELLS: As #5, above; residents are: 
+
+a. 1 dwarf female, hp 10 
+
+b. empty 
+
+c. 2 human females, hp 5, 4 
+
+d. 1 halfling male, hp 6 
+
+7. JAILOR: This man [Fighter Level 3, AC:1 (plate & 
+shield), Dex 15, hp:25, THAC0:18, STs:16, LE] is the 
+supervisor of the entry guards as well as the keeper of 
+the prisoners in the cells (#5 or #6 above); he reports 
+to the Captain (room #18). He is accompanied by 2 
+slinks (see below). The door to his office is identical to 
+those of the cells. 
+
+Four heavy crossbows hang in the office near the 
+door. When the entrance illusion is triggered, he will 
+hear the noise, and will keep an eye on the hallway. If 
+any visible intruders enter the corridor, he will cock 
+and load all the crossbows. If an intruder approaches, 
+he will fire 2 crossbow bolts per round (since they are 
+readied) at visible magic-users or clerics; otherwise, 
+he will hold his fire until someone peers through the 
+slot in the door. 
+
+If he is ready with a crossbow and someone is 
+stupid enough to peer in, he gains +10on his chances 
+to hit for that shot, and inflicts quintuple the normal 
+amount of damage (therefore 5d4+5) with it. 
+
+Attempts at return fire will miss the Jailor unless 
+madewithin 10' ofthedoor, and then mustbe madeat 
+AC -8 due to cover. He is vulnerable to spells, espe 
+cially those with visual effects, as he is watching the 
+corridor carefully; but he is not a visible target for 
+spells (such as magic missile) unless the caster peers 
+through the slot in the door. If someone nears the 
+door with a missile weapon, he will close the window 
+and take cover behind his desk. If wounded, and if he 
+has the chance, he will drink his potion of extra heal 
+ing in his desk. 
+
+He has 2 slinks with him as slaves (AC:8, MV:6, HD:2, 
+hp:11, 8, #AT:1, D:d8, N, Med; see description 
+on page 4). 
+
+The Jailor carries 50gp worth of coins but no 
+other valuables. His unlocked, untrapped desk holds 
+notes on the guard changes (every 4 hours); keys for 
+
+
+7 
+
+
+Hydell, Part 1 
+
+
+the cells, this room, and the guardroom (#3); and one 
+potion o/extra healing (unless he has used it during 
+the encounter). It also contains an old scroll case, in 
+which he keeps a piece of parchment inscribed with 
+his favorite dirty limericks. The case also contains 
+one Cgem, which is stuck in the bottom; it can be 
+easily seen by looking in, however, after the parch 
+ment is removed, and will fall out with a bit of shaking. 
+
+8. MYSTERY: A 10' diameter round black pillar stands 
+in the center of this octagonal room. The surface of 
+the pillar seems to be made of snakes, of all shapes 
+and sizes. Nobody knows what the pillar means or 
+what it was once used for; it is harmless and non- 
+magical. 
+
+9. UNUSED ROOM: The doors to this 30' square room 
+are not locked. The floor is dusty, and a path leads 
+from the entrance to the door directly opposite. The 
+door is old and rusty; if opened (an "open doors" roll 
+is necessaryjthe opener will be surprised by 2 huge 
+spiders [AC:6, MV; 18, HD:2+2, hp:15,11, #AT:1, D:d6 
+& poison (+1 onsave),THAC0:16,STs:17, N,Sm] who 
+will jump out and get one free attack. 
+
+The false door on the wall opposite the oneto the 
+spider lair is an old trap. It can be detected as one 
+normally, either by thief or spell. It will open easily, 
+but arrows will flyout to strike the opener: the number 
+striking is equal to the AC of the opener not counting 
+dexterity or shield (for example, if an AC 6thief opens 
+it, 8 will hit). As the trap is old and weakened, howev 
+er, each arrow will only do 1 point of damage. 
+
+10. SPIDER LAIR: Through the open door, the party 
+can only see solid web with tunnels In it. There are 3 
+more huge spiders [hp:9,13,16] in the web, which will 
+only attack if a party member falls. If so, they will 
+eagerly swarm out and will all attack one other victim 
+(a "3 on 1" tactic). 
+
+The web can only be removed by fire, but if burnt 
+away, this old 10' cubical room will be seen to be 
+empty except for 6 small dead young spiders [hp 1@, 
+will never attack], a useless rusted mace, a few bones, 
+and a sack (which will be burning if the web is burnt 
+away). Fast action here can save some or all of the 
+contents of the bag: if anyone had water at ready 
+before the web was burnt, all will be saved; otherwise 
+only the coins and gems will remain. 
+
+In the bag are 20cp, lOsp, 8ep, 4gp, 2Lgems, and 
+[if not burned up] a cleric's scroll (loose, not in a scroll 
+case) of neutralize poison and cure critical wounds. 
+
+11. HIDDEN DANGERS: This room and nearby 
+corridors are not lit by the usual torches, though 
+empty sconces line the halls. There are 3 shadows 
+[MV:12, HD:3+3, hp:25, 21, 17, #AT:1, D:d4+1 plus 
+strength drain (1 point per touch, lasts 2d4 turns), 
+THAC0:16, STs:16, CE, Med; 90% invisible unless 
+
+
+light used, in which case they will retreat to #12, be 
+low] lurking herein, which will not bother anyone 
+wearing the symbol of the complex OR anyone es 
+corted by such an authorized person. They are in the 
+service of the cleric Parlee (L7 Cleric, in dungeon 
+level 2). 
+
+12. SHADOW LAIR: The door to this room is locked, 
+trapped with darts (for 6 points of damage) and a 
+magical glyph of warding (14 points electrical dam 
+age, save vs. spells for 7 points). The shadows have 
+accumulated 200gp and 100pp. which lie scattered, 
+untrapped, and unguarded on the floor of the room. 
+
+13. REMAINS: This musty, long-unused room holds 
+the scant remains of a few unidentifiable creatures. 
+Hidden under the refuse, a potion of healing is left, 
+along with 2 Cgems. 
+
+14. WARMUP: Three guards [12 Fighters, AC:2 (plate & 
+shield), hp:17, 14, 11, THACO:20, STS:17, N; long- 
+sword, dagger] are playing cards here, sitting around 
+a table. They are supposed to go on duty in the guard- 
+room (#4) in 20 minutes. They each have 20gp in 
+coins, one has a key to the guardroom, and the other 
+has a potion of healing. 
+
+15. ARMORY: Normal weapons of all types are stored 
+here for the use of the guards. In a locked cabinet at 
+the rear are 5 magical arrows +1. The captain has the 
+only key, but the cabinet may be forced open with an 
+"open doors" roll (but with a +1 penalty on the roll). 
+
+16. SHOWCASE: This area is where prospective buy 
+ers are brought to examine slinks and negotiate pur 
+chases. Several are on display, but only a nominal 
+guard is posted, as no visitors are expected today. 
+Each room has 4 padded chairs, sconces with lit 
+torches in them, and a small platform V high and 4' 
+square (for displaying the slinks). If attacked, guards 
+will cry for help (automatically heard by the other 
+guards in the area) but will not command the slinks to 
+attack unless 2 or more guards have died (the slinks 
+are quite valuable). All the guards expect to be re 
+lieved in 2 hours. 
+
+16a. There are two long purple sofas, 3 chairs and a 
+table (all wooden) in this 30' x 35' lounge. A cheap 
+chandelier hangs from the center of the 20' high ceil 
+ing. The chandelier is bulky, fragile, and worth about 
+20gp, but 6 Cgems are among the worthless ones 
+decorating it. There are 30gp worth of assorted coins 
+under the cushions of the sofas. No one is around. 
+
+16b. A single guard [LI Ftr, AC:2 (plate & shield), 
+hp:9, THAC0:20, STs:17, longsword & dagger] sits 
+dozing on a chair around the corner, not visible from 
+the door. He is dozing unless the party makes exces- 
+
+
+Hydell, Part 1 
+
+
+sive noise while approaching {such as forcing the 
+door). He has I5gp worth of coins in one pocket, and 
+1 Cgem set into the hilt of his sword. 
+
+Two small slinks [AC:8, MV:6, HD:2, hp:6, 4, 
+THAC0:16, STs:17, N, Med] sit at his feet, also out of 
+sight of the doorway. 
+
+16c. Empty except for the standard items (see #16, 
+above). 
+
+16d. Two guards [L2 Ftrs, AC:1 {plate & shield, Dex 
+15), hp:25, 18, THACO:20, STs:17, N; longsword, 
+longbow, dagger] are here guarding 5 medium slinks 
+[AC:8, MV:6, HD:2, hp:7, 8, 9, 10, 11, #AT:1, D:d8, 
+THAC0:16, STs:17, N, Med], Each guard has 40gp 
+worth of coins, and one has a Cgem. The guards will 
+fight to the death, if necessary, but know little about 
+the complex. 
+
+16e. Two guards [L2 Ftrs, as #16d above in all re 
+spects] are here guarding 4 large slinks [AC:8, MV:6, 
+HD:2, hp:12, 13, 14, 15, #AT:1, D:d8, THACQ:16, 
+STs:17, N, Med], Each guard has 50gp worth of coins 
+and 3 Lgems. 
+
+17. ALARM: Each of the doors to this room has a mov 
+able sliding window in the center, 4" high and 8" long. 
+The room is 20' high and lit, as normal, by torches in 
+sconces. There are 4 shriekers here (AC:7, MV:1, 
+hp:15@), one in each corner of this 30' square room. 
+They will scream if there is movement within 10' or if 
+they hear the screams of another shrieker; they ignore 
+light and the opening of doors. They may be quieted if 
+the proper command ("shaddap," known to all the 
+guards) is spoken. If attacked, they will try to flee, and 
+will not stop screaming until slain. 
+
+The shrieker noise is a common occurence in the 
+area, and the near-by guards (room #18, below) will 
+ignore it unless it continues for 3 rounds or more. If it 
+continues, the Adjutant will open the slot in the door 
+to see what is going on. 
+
+18. OFFICE: Read this description thoroughly before 
+starting. If the door to this room is tried, start counting 
+rounds. 
+
+The door to the room is locked; the handle is 
+trapped with a poisoned sliver (save vs. poison or 
+die!), which can be easily and silently found and re 
+moved (no rolls necessary, if they look for traps). 
+
+The Captain and his Adjutant are sitting at the 
+desk, talking about the torture of the prisoners in the 
+cells (their conversation can be heard by someone 
+listening at the door). If not alerted by the shriekers 
+(see #17, above), they will be alerted by any attempts 
+at opening the door or picking the lock. The Captain's 
+pet giant badger is asleep in the northeast corner. The 
+locked weapon racks on the east and west walls each 
+contain 1 magical [+1 ] glowing longsword, 3 nonmag- 
+
+
+ical longswords, and 4 heavy crossbows with quarrels. 
+
+If they are alerted, the Adjutant will secure a 
+heavy bar (on the wall in the north alcove) in place 
+across the door, while the Captain wakes the badger 
+and gets his wand of paralyzation from the desk. They 
+will then cock and load all 8 crossbows, stacking them 
+near the door. 
+
+They will be ready with the wand in 1 round; with 
+the wand and two crossbows in 2 rounds; and will 
+ready 2 more crossbows per round thereafter. 
+
+While barred, the door cannot be opened except 
+by a knock spell or the combined efforts of 2 or more 
+characters with super strength (18/01 or greater). The 
+spell will open it immediately; forcing it will take 2 
+rounds. 
+
+If the party tries to force the door, the two ene 
+mies will then reopen the slot and fire; if not disturbed, 
+they will continue loading crossbows until all are 
+ready, and then open the slot, They will both fire at the 
+same target, and at a magic-user first. The Captain 
+will then alternate rounds, using a s pell (as given 
+under CAPTAIN, below), then the wand, then a spell, 
+etc. (Note that quietly removing the trap and then 
+using a knock spell will catch them without cross 
+bows, but the Captain will go for his wand in the first 
+round. In this case, the Adjutant will engage the party 
+to defend his Captain, using his +1 halberd. 
+
+CAPTAIN: 1/2 Elf Ftr/MU L4/4, AC:-1 (plate & shield 
+both +1, Dex 15), hp:26, THAC0:18/17 (missile/ 
+melee; Str 17 for +1/+1), STs:12, LN, Med; 30% resis 
+tant to sleep & charm; wand paralyzation 12 charges, 
+longsword +2, dagger +1. 
+
+Spells: LI: detect magic (CIs, R6, DR8r) 
+
+magic missile (CIs, R10,2 @ d4+1) 
+sleep (CIs, R7, DR20r) 
+unseen servant (CIs, R3, DR10T) 
+L2: scare (C2s, R1, DR3 d4r) 
+web (C2s, R2, DR8T) 
+
+STRATEGY: Spells will be cast in this order, for as 
+long as possible, alternating with shots from the 
+wand: web, scare, magic missile, sleep. He will use 
+them to his best advantage; if the web catches the 
+party, he will use the wand until they all seem to be 
+paralyzed. 
+
+ADJUTANT: Human Ftr L3, AC:0 (plate, +1 shield, 
+Dex 15), hp:25, THAC0:18/16 (missile/melee; 
+Str 18/80 for +2/+4), STs:16, LN, Med; halberd +1, 
+shortsword +1. 
+
+The giant badger (AC:4, MV:6, HD:3, hp:19, #AT:3, 
+D:d3/d3/d6, THAC0:16, STs: 16, N, Med), once arou 
+sed, will attack anyone entering the room except a 
+guard. If its keepers are slain, it can be quieted down 
+by a gnome (speak with burrowing mammals), and 
+will want to join the party! It misses its outdoor home, 
+and will fight for and obey the gnome, hoping to 
+eventually get out. 
+
+
+9 
+
+
+Hydell, Part 1 
+
+
+There is a 4' tall straw basket behind the desk; it 
+contains a green gooey substance {easily mistakable 
+for green slime) which is food for the shambling 
+mound {#20, below). 
+
+In the Captain's desk are: potions of extra healing, 
+healing, heroism, plant control; 72pp, and 1 Cgem. 
+The desk also contains keys for all the doors on this 
+level, each clearly marked, and extensive notes on 
+guard changes, pay records, the size of the guard (14 
+members), thesize of the dungeon (3 levels), referen 
+ces to "the cleric Parlee" and "the boss'', who is ap 
+parently an illusionist. [More details on the informa 
+tion are given in the preface to the key to the lower 
+levels in round two of the tournament]. 
+
+19. STAIRS: The door to these descending stairs Is 
+securely triple-locked [and cannot be picked, in a 
+tournament]. The Captain (room #18, above) has a 
+key. 
+
+20. REINFORCEMENT: The Captain's "ace in the 
+hole", used when the complex is seriously invaded 
+(and, luckily, which he hasn't had warning enough to 
+release, this time) is the shambling mound kept in this 
+room. It is very friendly to the cleric Parlee and the 
+boss, and will obey the Captain's commands. 
+
+The shambling mound [AC:0, MV:6, HD:8, hp:35, 
+#AT:2. D:2d8/2d8,THAC0:12, STs:13, N, Lg; immune 
+to fire, 1/2 damage from cold and from all blows, 2 
+hits = strangle in 2d4r, 1/2 damage from cold and 
+from all blows, lightning causes 1HD growth] is 
+cooperating with the residents of the complex as 
+long as it is fed and allowed to collect treasure. It has 
+3,000cp, 1,000ep, 2 Dgems, a potion of fire resist - 
+ance, and a scroll of 4 magic-user spells (written at 
+9th level ability): sleep, magic missile, clairvoyance, 
+conjure earth elemental. 
+
+It cannot be seen through the slot in the door. If 
+the door is opened, it will shamble towards the open 
+er, expecting to be fed. If not fed immediately, it will 
+fly into a rage and attack. It will batter through the 
+door in 2 rounds unless it has been relocked. 
+
+If released, It will wander through the first level 
+and attack anyone encountered until it is fed; or if it 
+kills and eats any 3 persons, it will return to its lair. 
+
+
+Here Ends Part 1 
+of The Investigation of Hydell 
+
+
+THE INVESTIGATION OF HYDELL, 
+PART 2 
+
+BACKGROUND: After penetrating the illusions and 
+guards of the complex (seethe BACKGROUND of Part 
+1), your intrepid adventurers have seized the office of 
+the Captain of the Guard after a tough fight. The rest of 
+the complex has apparently not been alerted; the Cap 
+tain's shambling mound has been destroyed. 
+
+Many of you now have magical weapons and potions 
+to help you to continue the investigation. Keys and 
+records of the complex have been found in the Cap 
+tain's desk, along with a partial map of the next level. 
+
+The map shows the locations of the chapel, barracks, 
+and a few other areas. With its help, you should be able 
+to avoid the guards and get right to the heart of the 
+complex. It seems that a high level Illusionist is running 
+things, with the aid of his apprentice and acleric known 
+as Parlee. The entire operation can be shut down if 
+those three characters are captured or eliminated. In 
+summary (some of the following you may already 
+know): 
+
+Your Cleric can paralyze the slinks by Turning them. 
+You can command the slinks if you are wearing the 
+symbol of the complex; conflicting orders cause the 
+slink to be paralyzed (as if Turned). 
+
+The leaders of the complex are very probably Evil. 
+Most of the Guards are Neutral. 
+
+You must "walk the true path" to get into the chapel, 
+according to the Guards. 
+
+The Boss has a pet animal (a large cat) and an 
+Apprentice. 
+
+YOUR OBJECTIVE: Capture or slay the boss, his ap 
+prentice, and the cleric Parlee. 
+
+SCORING: You will earn points for treasure found and 
+kept, magic items found (whether used or not), and 
+bonus scores for achieving each part of the objective. 
+
+NOTES FOR THE DM 
+
+
+The same notations and procedures are used as in 
+part 1. Please refer to the DM NOTES for that section 
+for the background and operations of the complex as 
+well as details for DISBELIEVING and other procedures. 
+
+The complex is always occupied, and serves the 
+complete needs of the inhabitants. Barracks, residen 
+ces, storage areas, and a chapel are herein. In part 2 of 
+this tournament, the players explore Levels 2 and 3, 
+hopefully avoiding the guards and striking quickly at 
+the cleric Parlee (#43-47), the apprentice illusionist 
+Tuke (#22), and Dutch, the boss himself (#59). 
+
+
+10 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+,r 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- - 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+* 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+J=L 
+
+, i 
+
+:el 
+
+r=L 
+
+fi 
+
+a 
+
+LJ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+i r 
+
+
+1_r 
+
+
+i i- 
+
+
+
+
+
+
+
+J - y 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1 
+
+
+
+
+
+
+C 
+
+3 
+
+
+
+tr 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3 
+
+
+s 
+
+
+
+
+
+
+--] 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.pL 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+| 
+
+'c 
+
+i c 
+
+! c 
+
+] 
+
+
+t _r 
+
+-fTL 
+
+
+l r~ 
+
+
+
+1 J' 
+
+C 
+
+] 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+U-T 
+
+
+
+
+
+j - 
+
+l 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+¦R. 
+
+
+
+
+
+
+-G- 
+
+
+
+
+JG 
+
+
+
+
+1 
+
+L r 
+
+i 
+
+r 
+
+£ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{ - 1 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ZD 
+
+
+n 
+
+3 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+¦ -i 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Q 
+
+
+
+
+
+t-4 
+
+
+LOj 
+
+ini 
+
+LDj 
+
+in r 
+
+M 
+
+\ 
+
+
+
+-r 
+
+b 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+L 
+
+3 1 
+
+P UL 
+
+- rmt 
+
+u* 
+
+t£L 
+
+P UL 
+
+u* 1 
+
+r 
+
+1., 
+
+
+o 
+
+r 
+
+"i 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c 
+
+3_i| 
+
+Mil 
+
+Jli 
+
+fcOI 
+
+
+in r 
+
+riii 
+
+A 
+
+I' 
+
+
+
+~E; 
+
+r -i 
+
+3- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+f ul\ 
+
+U 11 
+
+'Ll L 
+
+Li* 
+
+f ui 
+
+
+/ 
+
+
+
+
+tr 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-M 
+
+
+
+
+
+
+
+
+u 
+
+• i 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ti 
+
+4 
+
+yt 
+
+4 
+
+
+9> 
+
+t'A 
+
+L'F 
+
+
+
+
+
+
+w 
+
+U 
+
+, 1 
+
+
+
+
+
+
+S = 
+
+Stc 
+
+>rac 
+
+je 
+
+
+
+
+
+0 
+
+ne 
+
+Sqi 
+
+ja^ 
+
+e = 
+
+10 
+
+Fee 
+
+t 
+
+
+
+
+
+x 
+
+:$v* 
+
+
+VC 
+
+) 
+
+
+
+
+
+Gf Gi 
+
+iarr 
+
+Js 
+
+
+
+
+11 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hydell, Part 2 
+
+
+DEFENSES: If the party lets guards or other personnel 
+get away, word will reach Dutch or Parlee of the attack. 
+They will unite in full battle regalia, accompanied by 10 
+guards and 10 large slinks, and find and attack the 
+party. If this occurs, just do your best; it should not 
+happen in normal tournament play. If it does, examine 
+the descriptions of Parlee and Dutch carefully, so as to 
+be familiar with their items and spells. 
+
+ILLUSIONARY SCRIPT: There are various places in 
+the complex where key words are written using the 3rd 
+level llluslonary scripts pel I. This can be designated for 
+a certain reader, class, or whatever (specified in each 
+case); if any other being reads the script, he or she is 
+confused for a base 5-20 TURNS (TJ in the tourna 
+ment) MINUS his or her level (hit dice). This will delay 
+the party, but in most cases a room near-by may be 
+used as a hiding place until the character recovers. A 
+dispel magic will automatically remove this effect. 
+Thus, a 5th level unauthorized reader will be confused 
+for 6turns. While confused, the player should roll 1d10 
+each ROUND (unless 1 is rolled; see below) and role- 
+play the results as given hereafter: 
+
+1 Wander away (unless prevented) for 1 turn 
+2-6 Stand confused for 1 round 
+7-0 Attack the nearest creature for 1 round 
+
+The player should be informed of these effects, as the 
+character musf act accordingly; and it speeds play if 
+the player rolls. The party may wish to wait until the 
+effect passes; if they do so in a corridor, they will be 
+discovered by 3 guards, who will flee to inform Parlee 
+or Dutch. If the party finds a room to wait in, no encoun 
+ters will occur (other than that for the room used). 
+
+KEY TO LEVEL 2 
+
+21. STORAGE ROOM: This is a typical storage room. 
+Rations, water, and miscellaneous items are stored 
+here; there are no weapons, armor, nor valuables. 
+
+22. LAIR: The door is locked, if it is opened by other 
+than an illusionist, a programmed illusion immediate 
+ly appears (and lasts for 13r) of a 10' square corridor, 
+30' long and ending in a door. This illusory door 
+cannot be opened. 
+
+This lair is the room of Tuke, the aide to Dutch 
+(the boss). If the illusion begins, he will watch the 
+party proceed up the illusory corridor (as if one-way 
+glass from his side). In preparation, he will cast a blur 
+spell [AC -4/-2, ST +1] and will have his bodyguards 
+get ready to attack the party while he moves to be near 
+the real door. 
+
+On cue, the guards will attack by first shooting 
+arrows (automatic hits on the 2 rear characters for 
+3hp @) and then engage the middle of the party 
+
+
+(charging through the illusory walls to do so). Tuke 
+will then cast a wall of fog so they can escape. When 
+the fog is cast, all within the room attack at -4 (as if 
+blinded), and the guards can easily disengage and 
+run if they are still alive. However, the party can then 
+easily catch them in the corridor if they act fast (guard 
+movement rate = 6"). Unless slain, Tuke will oast Invis 
+ibility and get away to warn Dutch (not Parlee). 
+TUKE: IL L6 AC:0 (Bracers ACS, Cloak +2, Dex 
+18), hp:19, THAC0:18, STs:10, LE. 
+
+Spells: 
+
+color spray (CIs, R6) 
+audible glamer (C5s, R12, DR18r) 
+phantasmal force (CIs, R12,10"sq) 
+wall of fog (CIs, R3, DR6r+2d4r) 
+blur (C2s, DR9r) 
+invisibility ( x2, C2s) 
+non-detection (C3s, DR6T) 
+
+GUARDS: L2 Ftrs, AC:1 (plate, +1 shield @), hp:18, 
+16, THAC0:16, STs:17, N. 
+
+23. STORAGE: As #21, above. 
+
+24. REVERSAL: This series of 20' long corridors is 
+magical and bounded by stone doors at each end. 
+Only one door will open at a time, even to a knock 
+spell. If a door is held open, the next will not open until 
+the first is closed. Users must go east to exit west, and 
+go west to exit east (displacement occurs at door 
+way). The guards do not generally know of this area, 
+except for Tuke's bodyguards. The DM should take 
+care to keep track of where the users are! 
+
+25. EMPTY ROOM. 
+
+26. CELLS: Similar to those on the first level, these cells 
+contain humanoids who will only slow the party 
+down if rescued, except for "F" (hereafter). The 
+residents are: 
+
+A. 2 halflings, both males, hp 5,4 
+
+B. Empty 
+
+C. Human male, hp 8 
+
+D. 2 dwarves, both female, hp 9, 8 
+
+E. Empty 
+
+F. 1/2 elf male: This cleric/fighter/magic-user is as 
+dirty and worn as the rest, and will only groan at first. 
+However, if the party offers to cure his damage, he will 
+reveal that he is in fairly good shape (hp:16) and will 
+offer his services. He still knows the spells cure light 
+wounds (x3), slow poison, and magic missile, and 
+remembers but needs components for enlarge, sleep, and 
+Invisibility. If loaned the components, he will want to 
+become invisible after helping the party and try to 
+make his own escape. 
+
+27. BARRACKS: Bunks and armoiresfor4menare in 
+this sparsely furnished room. There are no locks nor 
+valuables. 
+
+
+12 
+
+
+Hydell, Part 2 
+
+
+28. LOCKERS: Five metal boxes, each 5' tall and 4' 
+wide, are attached to each other to form a row along 
+the west wall of this room. Their faces are numbered 
+1-5, and all have locks hanging from the handles. #1-4 
+are used by the guardsmen residing in #27; each con 
+tains 20sp, 18ep, 30gp, 12pp, and ICgem [total 200gp 
+value], signed employment contracts and other im 
+portant documents, and full dress and battle outfits. 
+
+Locker #5, the farthest to the north, looks the 
+same as the others but has not been opened for some 
+time, and its lock is too rusted to pick. It can be broken 
+open by "open doors", but with +1 penalty to the roll. 
+Within is an old sack with "3 Mgems" (2 Mgems and a 
+red loan stone for +1 Dex), 48gp, and 40sp. 
+
+29. LOCKERS: As #28, above, but numbered 6-10 and 
+used by the residents of #30, below. Locker #10, the 
+farthest to the south, contains a potion of polymorph 
+and a wand of lightning (3 charges; the command 
+word for the shock function [IdIO] is inscribed on it, 
+and will cause it to glow and sizzle with the charge; 
+the other command word is long lost). 
+
+
+the barracks area. Sergeant Wiggins [L4 Ftr, AC:4 
+(chainmail +1), hp:30, THAC0:17 (longsword +1), 
+STs:16, N] will foolishly fight to the death if attacked, 
+His room is nicely furnished but littered with his mem 
+orabilia of old campaigns. Hidden in a cigar case are3 
+Cgems, and one of his 30 medals in a display case is 
+fashioned of pure platinum (500gp value); a potion of 
+extra healing is behind some books on a shelf. 
+
+33. STOCKPILE: The door is locked. This room ischilly 
+and smells slightly odd. The corpses of 20 
+humanoids (all the various character races plus 1 
+ogre) are laid out here neatly in 5 rows of 4. Each is 
+atop a stone block 4' high, 4' wide, and 8' long. These 
+"blocks" are hollow, containing brown mold 
+colonies. If touched, the cold blocks will do 2d8 points 
+of damage (save vs. death for 1/2 damage, including 
+Dexterity reaction bonus) to the intruder. The bodies 
+show the wounds of death but are well preserved in 
+this environment. 
+
+33a. STAIRS: The secret door here leads to the narrow 
+stairs down to Dungeon Level Three. 
+
+
+30. BARRACKS: Bunks and armoires for 4 men are in 
+this sparsely furnished room. There are no locks nor 
+valuables. 
+
+31. BARRACKS: There are beds, chests, and armoires 
+for 10 men in this large, stark room, but only 6 current 
+ly reside (as can be seen if the beds are inspected). 
+There are no valuables other than in the chests, which 
+each contain various items (similar to the lockers, 
+above) plus 200 misc. coin, total lOOgp value apiece. 
+
+32. SERGEANT: This champion of blind obedience in 
+the guard corps is old and fat, and wilt be surprised if 
+encountered. His job is to train recruits and supervise 
+
+
+34. ROGUES: Two slinks have overcome theircontrols 
+and have hidden in this forgotten labyrinth. They have 
+evolved (somehow) into ghouls (AC:6, HD:2, hp:15, 
+12, #AT:3, D:d3/d3/d4 + paralysis, THAC0:16, 
+STs:17, CE, Med), dining on the "cold cuts" nearby. 
+They have accumulated a modest treasure, 
+hidden in #35 (below). 
+
+35. LAIR: The floor of this musty old closet is strewn 
+with 400sp, 480gp, and 5 Cgems (total value 1,000gp). 
+A small black 2" cube is under the trash in one corner, 
+and easily overlooked; it does not radiate magic. 
+However, in a 1" cubic hole in the center of this heavy 
+lead box rests a cube of force. 
+
+
+
+13 
+
+
+
+
+Hydell, Part 2 
+
+
+36. ANTECHAMBER: This is the 20' high entry hall (20' 
+x 50') for the religious center of the complex. There 
+are green circles painted on the floor, leading a 
+curved path to the large double doors to the south. 
+There are small writings to the left of each of the 
+normal doors, on the north and east walls. They are 
+readable 10' away, but are illusionary scripts under- 
+standable by illusionists only (others reading are con 
+fused, as the spell; see DM NOTES). Each says but a 
+single word; they are actually the passwords for the 
+glyphs of warding placed in front of each door 
+(glyphs of blindness, save vs. spells negates). 
+
+37. CHAPEL: The two large entry doors each have 
+locks inset below the handles, and the cleric Parlee 
+has the keys. They can be forced by a normal "open 
+doors" roll, but this will make a lot of noise and cer 
+tainly attract Parlee and her minions. This large 20' 
+high chapel has pews, pillars, and altar of stone. The 
+line of green circles splits 3 ways inside the doors, the 
+paths leading up the center aisle and to each side and 
+meeting in front of the altar. As worshippers proceed 
+along the paths, they murmur certain "sacred chants" 
+- actually the words for passing the glyphs of ward 
+ing, as indicated by the outlined shaded areas at the 
+foot of each aisle, in each corner of the room, and 
+between each pair of pillars. (See map key for the 
+effects of the glyphs). 
+
+There is nothing in the room of any value, but a 
+search will show that the altar is bloodstained and 
+unholy (evilly aligned). The two normal doors on the 
+south wall, to each side of the altar, are not locked and 
+lead to small storage areas. 
+
+38. STORAGE: This chapel storage room has dozens 
+of packages of incense, ornate robes and candles, 
+normal books, and other items. All of the 400 candles 
+radiate magic, and one of them (identical in appear 
+ance) is actually a wand of magic missiles, 40 charges, 
+with the command word inscribed upon it. (If a defect 
+magic, is used, the caster can pick out the wand, a 
+stronger source of magic, in 4 rounds; but a cursory 
+examination will reveal only numerous magical boxes. 
+
+39. STORAGE: This area is the same as #38, above, 
+except for the wand. It also contains padded boxes of 
+vials full of holy and unholy water (24 of each). 
+
+40. RESIDENCE: The new apprentice to the boss, Slad, 
+has moved in here temporarily. It looks like a normal 
+barracks but for only 1 person. Hidden in a shoe, 
+among ordinary clothes, is a bag containing 4 Mgems. 
+There are various illusionist spell components in a 
+drawer. 
+
+41. LOUNGE: This plush 30' square room has a table 
+and chairs, 2 couches, a cupboard, and 4 small tables 
+each with an oil lamp. The cupboard contains wine, 
+
+
+serving glasses, 2 decks of cards, and a locked small 
+chest containing lOOcp, 90sp, 50ep, 50gp, and 4pp 
+(total value lOOgp); there are 50gp under the cushions 
+of the couches. The normal door is locked, but the 2 
+secret doors are not. 
+
+42. DEN: A small shrine (east wall) dominates this 
+plush room, which also contains shelves lined with 
+normal books (north wall), a plush chair, and a small 
+table with an oil tamp. A cupboard near the shrine 
+contains religious paraphenalia of no value. 
+
+43. BEDROOM: The cleric Parlee sleeps here but is 
+currently out. A canopy bed, dressing table and mir 
+ror, and large wardrobe indicate that Parlee is female. 
+A long reinforced chest under the bed is locked and 
+guarded by a glyph of warding (electricity, 14 points) 
+and contains a staff of curing (16 charges, no com 
+mand word noted) and several scroll cases. Each case 
+holds a scroll of 1 spell, and the spells are protection 
+from good, sanctuary, hold person, slow poison, ani 
+mate dead, glyph of warding, curse, and neufra//ze 
+poison. There is also a smalt bag with 20 Cgems. 
+
+44. HALL: Four of Parlee's pets, two shriekers ("S", 
+AC:7, HD:3, hp:13@) and two shrieker-like violet 
+fungi ["F", AC:7, HD:3, hp:13@, #AT:2, D:Rot (save 
+vs. poison negates), THAC0:16, STs:17, N, Sm] are 
+stationed at the points indicated on the map. if 
+alarmed, the shriekers' noises will warn Parlee and 
+Slad (in #47, hereafter). If approached, the shriekers 
+will not flee and the violet fungi will attack. 
+
+
+
+45. RESERVES: The door is not locked. This bare room 
+contains nothing but a reserve guard of 36 skeletons 
+(AC:7, MV:12, HD:1, hp:4@, #AT:1, D:d6, N, Med; 1/2 
+damage from edged weapons) animated by and loyal 
+to Parlee, waiting at ready. They will attack anyone 
+who opens the door (unless it is Parlee) and/or obey 
+Parlee's commands. 
+
+46. SECONDS: The door is not locked. This bare room 
+is dark, covered by 2 continual darkness spells cen 
+tered at different points. There are 8 shadows (AC:7, 
+MV:12, HD:33, hp:17@, #AT:1, D:d4+1 & strength 
+drain, THAC0:16, STs:16, CE, Med; undetectable in 
+darkness) lurking herein, loyal to Parlee. They will 
+mass near the door if it is opened, attacking the first 
+person in by surprise (+4 to hit). They have no 
+treasure. 
+
+
+QOQ<pO{)Q(p OQQO o 0000 0000000 6 qoo oo ooo oo oooo oooooo o 
+
+
+DM's Temple Detail 
+
+
+SCALE 
+
+
+
+DOUBLE DOORS 
+
+
+-INpNESS-r- 
+
+
+One Square = 7>k Feet 
+4 Squares = 10' 
+
+
+ooooo 
+
+
+Pillar 
+
+
+Path 
+
+
+Pew 
+
+
+Glyph 
+
+
+(tm) (tm) Door 
+
+
+Altar 
+
+
+15 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hydell, Part 2 
+
+
+47, STORAGE: There are food, water, and misc. reli 
+gious items stored in this large room. A golden bell on 
+a shelf (value 25gp) has just been retrieved by Parlee, 
+who is here arguing with Slad the Trickster about 
+employee training costs. If alerted, they will peek out 
+the door first and take appropriate actions, throwing 
+spells if the party is busy killing shriekers. Two slinks 
+accompany them. 
+
+SLAD: IL L3, AC:6, hp:12, STs: 12, LE; Dex 17, Cloak +2, 
+dagger +1 (THAC5:16), 3 Dgems. 
+
+Spells: 
+
+audible glamer (C5s, R9, DR9r) 
+phantasmal force (CIs, R9, 7 sq") 
+blur (C2s, DR6r, new AC 2/4, ST+1) 
+
+PARLEE: Cl L7, AC:5, hp:55, THAC0:16, STs:9, LE; 
+studded leather +1, Dex 15; mace +1, ring plant con 
+trol, potions of diminuation, extra healing, Invisibility, 
+polymorph self. 
+
+Spells: 
+
+command (CIs, R1, DRIr) 
+
+cure light wounds (x2, C5s, 1d8) 
+
+sanctuary (C4s, DR9r) 
+
+hold person (C5s, R6, DRIIr) 
+
+resist fire (C5s, DR7T) 
+
+silence 15T (C5s, R12, DR14r) 
+
+slow poison (CIs, DR42T) 
+
+speak with animals (C5s, R3, DR14r) 
+
+animate dead (Cl r, R1) 
+
+dispel magic (C6s, R6) 
+
+prayer (C6s, R6, DR7r) 
+
+tongues (C7s, DRIOr) 
+
+SLINKS {2}: AC:8, hp:12@, #AT:1, D:d8; N 
+
+STRATEGY: If alerted and if the party is unaware of 
+their presence, Slad will put up the audible glamer of 
+guards coming from the south, followed by a phantas~ 
+mal force of the door opening and 6 guards loosing a 
+volley of 6 arrows (4 hitting) and then engaging with 
+swords. Parlee will cast a hold person at 2 party fight 
+ers during the battle. The two will then gather stored oil 
+and have it ready. If their presence is discovered, Slad 
+will first cast a blur. Parlee will pour oil over Slad, cast a 
+resist fire on him, and ignite the robes. He will try to 
+make a run for it, doing 6 hp of damage to anyone he 
+runs into (save vs. breath for V6 damage, no save if 
+grappling), the fire lasting 5 rounds and leaving him 
+naked. If he escapes, he will run downstairs to warn 
+Dutch. Parlee will drink her potion of polymorph self 
+and hide in #48 (below), changing form as often as 
+advisable for the healing benefits (d12) involved. 
+
+If surprised, they will have the slinks engage to allow 
+them to cast blur and prayer, and Slad will engage 
+before Parlee does (surrendering quickly). Parlee will 
+fight until below lOhp, and then surrender. She will not 
+reveal the existence of #48 (below) or its contents. 
+
+48. HOARD: There are 3 continual darkness spells 
+centered at the points indicated. Within the room are 10 
+
+
+skeletons and 10 zombies, loyal to Parlee, who will not 
+leave the room. They will attack anyone entering un 
+less a bell is ringing in the room, in which case they will 
+merely wander around. 
+
+Skeletons: AC:7, MV: 12", HD:1. hp:5@, #AT:1. D:d6, 
+THAC0:18, STs:17 
+
+Zombies: AC:8, MV:6", HD:2, hp;10@, #AT:1, D:d8, 
+THAC0:16, STs:17 
+
+There are 6 large locked chests along the west and 
+south walls of the room. Each is trapped with a glyph 
+of warding (14 points of electrical damage). They 
+contain: 
+
+A. 5,000gp, potions fire resistance, extra healing, 
+poison 
+
+B. 5,000sp, elven cloak*, cursed scroll (3 INT) 
+
+C. 5,000ep, eyes of petrification, hand axe +2* 
+
+D. 5,000cp, scroll protection from undead, horn of 
+bubbles 
+
+E. S.OOOcp, scroll protection from magic, potions 
+longevity, love philter 
+
+F. 5,000gp, ring contrariness/levitation, necklace 
+strangulation 
+
+•The cloak and axe each have glyphs of fear upon 
+them. 
+
+49. PET: This door is always locked, and has an extra 
+(hidden) lock above the handle (automatically found 
+if Find Traps is attempted on the door, not just the 
+lock). The lower (normal) lock operates the door, but 
+the upper lock, if picked, allows the entire 10' square 
+section of wall to pivot as a door. 
+
+The room contains Parlee's pet hydra, Lazi (AC:5, 
+M:9, HD:7, hp:56: 8 per head; #AT:7, D:d8@, 
+THACO:13, STs:16, N, Lg) but no apparent treasure. 
+Parlee cleans the room of valuables regularly, but 
+unknown even to her, there is a medium sized wooden 
+chest hidden in a hole in the center of the ceiling, held 
+in place by easily movable slats. The hole, chest, and 
+slats are hidden by a large lurker above, the size of the 
+ceiling, which is dead and somehow stuck to it. It may 
+(1 in 6 chance) be noticed as a lurker, but the fact of its 
+demise may go unnoticed. It does not radiate heat, 
+however, and if examined with all nearby heat sour 
+ces extinguished, infravision will show that it is dead. 
+
+The chest, when examined closely, will be found to 
+be sealed carefully with silvered wax. It contains a 
+continual darkness gem, a ring of spell turning, a 
+wand of Illumination (70 charges, with command 
+words on a scrap of parchment), and one trapped 
+wraith (AC:4, MV:12/24, HD:5+3, hp:30, #AT:1, D:d61 
+level drain, THAC0:15, STs:14, LE, Med). The wraith 
+will get 1 surprise attack on any character manually 
+opening the chest. If a knock spell is used from a 
+distance, for example, no surprise will occur. The 
+wraith will attack a cleric before another class should 
+a choice become available. 
+
+END OF LEVEL TWO. 
+
+
+16 
+
+
+LEVEL 3 
+
+
+O 
+
+o 
+
+Q 
+
+
+CO 
+
+
+*- ft) 3 
+<1> ^ TJ O 
+*- O tj H 
+
+o o -- ir 
+Oq X ° 
+C0 Q 0- 
+
+
+CO 
+
+'5 
+
+55 
+
+
+CO 
+
+ft) 
+
+
+§ (r) § O 
+
+2c 
+
+
+
+
+
+
+
+Scale: 1 square = 10 feet 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hydell, Part 2 
+
+
+KEY TO LEVEL THREE 
+
+
+50. LOUNGE: This lounge at the foot of the steps is 
+similar to the others found in the complex, having 4 
+small tables and lamps, a large table and chairs, 2 
+couches, and a small wine cabinet. There are 30gp 
+under the cushions of the couches. 
+
+51. LABORATORY: There are stools, workbenches, 
+bubbling experiments in progress, a burning 
+fireplace, numerous large volumes of alchemy and 
+magic (all are non-magical), and hundreds of arcane 
+bits and pieces (skulls, strange rocks, etc.) all about 
+this cluttered lab. An illusionist can identify most of 
+the devices and items; nothing is of great value, al 
+though a potion of gaseous form is finished and in a 
+beaker near various poisonous liquids. 
+
+52. TRAP: The room is empty. If the secret door is 
+touched, the 3 hidden portcullises drop and a 
+programmed Illusion begins, of a hostile, huge, an 
+cient red dragon barging through one shaky wall, 
+which will breathe at anyone looking at it. 
+
+If the players are expecting an illusion and say that 
+they are disbelieving, their saving throw may be made 
+with a +6 bonus to the roll. Note that the "ancient 
+huge" creature has an illusory 88hp, and has quite 
+normal breath weapon capacities. 
+
+This trap is to screen Dutch's escape should he 
+need to exit hastily in this direction. 
+
+53. CACHE: A V diameter circle on the north wall, 
+nearly invisible, is a secret door protecting a niche 
+containing 4 diamonds, each worth 5,000 gp. This is 
+Dutch's escape money; if in flight, he will grab it on 
+the way out if at all possible. 
+
+54. EXIT:This rough tunnel is an escape route, leading 
+500' to a hidden hatch in the woods near the complex. 
+
+55. GUARDIAN: The northeast 20' square area is mag 
+ical; it is a hallucinatory terrain covering a 10' deep pit 
+with poison spikes on the bottom. The character(s) 
+stepping on the area dispels the hallucination, and 
+may save vs. wands to avoid falling in; otherwise, the 
+number of spikes which strike is equal to the AC of the 
+victim without shield or dexterity bonuses. Each hit 
+does 3 points of damage and requires a separate save 
+vs. poison (or die). 
+
+The guardian, a fire giant skeleton, normally 
+stays in the pit. If the terrain is dispelled, it will rise up 
+and strike at any within 10' of its pit (it is 13' tall) with a 
+huge club. The skeleton (AC:5, HD:6, hp:40, #AT:1, 
+D:3d6) may be Turned as if a ghast] it has no treasure. 
+
+56. HORDE: A permanent Illusion of walls makes this 
+room seem to be 20' square; this area contains 2 large 
+locked chests. Each is trapped with a glyph of ward- 
+Ing (14 points electrical damage) and each contains 5,OOOsp 
+and 2 potions of poison. The illusory walls will func 
+tion in ail ways as real ones, unless they are detected 
+as illusions and then disbelieved. 
+
+The room is actually bigger, and 3 large chests 
+are at the north end. They are each locked, trapped 
+
+
+with the same glyphs but with the password written in 
+llluslonary script (readable by illusionists only; see 
+DM NOTESJon the lid of the center one. They each 
+contain 5,000gp and: 
+
+A. 20 Cgems, potions of extra healing & gaseous 
+form; one cursed scroll: cloudklll (MU spell) 
+fills the area. 
+
+B. 20 Dgems, potions of polymorph self & speed; 
+bracers of defenselessness (AC 12) 
+
+C. 20 Cgems, potions of extra healing & poison; 
+robe of useful items 
+
+57. DEN: This richly furnished room is quite comfortable 
+but contains no valuable items. 
+
+58. INTRUDER ALARM: Although this room is empty, 
+anyone opening the door triggers anotherprogrammed 
+Illusion. The room appears to be a plush bedroom; a 
+middle-aged man is in bed with his wife, and awakens 
+to the opening door, pulls a wand out from under a 
+pillow as his wife screams, and shoots fireballs at the 
+intruders (for30 points each, save for 15). The il lusory 
+characters will react normally to attacks (bleeding, 
+etc.) but will continue screaming and shooting for the 
+duration of the illusion (13 rounds). 
+
+The noise will alert Dutch (hereafter) to make his 
+escape. 
+
+59. THE BOSS: This is the study of Dutch the Illusionist. 
+He lives alone, but is never without his pet jaguar 
+(AC:6,MV;15, HD:41, hp:25, #AT:32, D:d3/d3/d8+rear 
+d4+1@ if front 2 hit, THAC0:15, STs:16, N, Lg). Both 
+are awake, and if alerted, Dutch (with his valu- 
+ables)and his pet will escape through a secret door, 
+heading north. 
+
+DUTCH: II LI3, ACM, hp:50, THAC0:16, STs:8, LE; 
+Dex 18, bracers of defense AC4, ring of protection +2, 
+cloak of protection +2, brooch of shielding (40hp 
+charges), elven boots, wand of frost (52 charges), 
+dagger +2/3 vs. small. 
+
+To properly run Dutch, use the character sheet pro 
+vided. If summoned bySlad, ParleeorTuke.hewillgo 
+totheiraidandwill usehisspellsand items to the best 
+of his ability. 
+
+60. BEDROOM: This richly furnished but unremarkable 
+bedroom contains nothing of great value. 
+
+61. TUNNEL: This old musty tunnel is rarely used. In 
+this first cave, a killer mimic (AC:7, MV:3, HD:9, hp:50, 
+#AT:1, D:3d4, N, Lg; sticks to victim) is surviving by 
+eating whatever wanders in. It has no treasure. 
+
+62. DANGER: Through an odd symbiosis, a colony of 
+brown mold (AC:9, D:4d8, grows + drains heat within 
+5') is living here in a pile of brown pudding (AC6, 
+MV:6, HD:1Q, hp:65, #AT:1, D:3d8, N, Lg; immune to 
+all but fire, dissolves wood & metal). They also eat 
+whatever wanders in, but one small diamond (25,000gp 
+value) remains. 
+
+HERE ENDS THE INVESTIGATION 
+
+
+19 
+
+
+DUTCH 
+
+
+
+on 
+
+
+
+NOT A PLAYER CHARACTER 
+
+
+NPC ILLUSIONIST Dutch L 13 AC-4 hp 50 Align LE 
+
+
+s 
+
+13 
+
+Carry +10#wt, Bars/gates 4% 
+
+Bracers AC 4 
+
+1 
+
+17 
+
+
+Cloak+2, ring+2 
+
+w 
+
+12 
+
+
+AC rear: 0 
+
+D 
+
+18 
+
++3 Missile bonus, -4 defense bonus 
+
+
+Co 
+
+16 
+
+SS 80% / Res 85% 
+
+
+Ch 
+
+18 
+
++35% reactions 
+
+
+
+Saving Throws: 
+
+Poison/Death 
+
+7 
+
+Petrification 
+
+5 
+
+Rods, etc. 
+
+3 
+
+Breath 
+
+7 
+
+Spells 
+
+4 
+
++4 bonus (ring & cloak) included 
+
+
+Potions: Extra Healing, Polymorph Self 
+
+
+Other Magic Items: 
+
+Ring +2, cloak +2, brooch of shielding: 40hp chg, 
+elven boots, wand of frost: 52 chg 
+
+
+PET: Jaguar (AC:6, MV:15", HD:4+1, hp:25, #AT:3+2, 
+D:d3/d3/d8 plus 2 rear if front claws both hit, for 
+d4+1/d4+1, THAC0:16, STs:17 
+
+
+TO HIT: Strength and Dexterity adjusts included. 
+Adjust for magic and situation bonuses/penaities. 
+
+
+SPELLS: 
+
+Change self (CIs, DR32r) 
+
+Color spray (CIs, R13) 
+
+Detect invis. (CIs, R13, DR 65r) 
+Hypnotism (CIs R3, DR14r) 
+
+Wall of Fog (CIs R3,DR18r) 
+
+Blur (C2s, DR16r) 
+
+Detect Magic £C2s, R6, DR 26r) 
+Improved Ph. Fc. (C2s, R19, +2r) 
+Invisibility (C2s) 
+
+Misdirection (C2s, R3, DR 13r) 
+
+Halluc. Terr. (C5r, R15) 
+Non-detection (C3s, DR 13T) 
+Paralysis (C3s, R13,2"sq/13HD) 
+Spectral Fc. (C3s, R19, +3r) 
+
+Emotion (C4s, R13) 
+
+Improved Invis. (C4s, DR17r) 
+
+Ph. Killer (C4s, R6.5, DR13r) 
+
+Project image (C5s, R6Vi) 
+Shadow Magic (C5s, R18) 
+
+Program llius. (C6s, R13) 
+
+Shades (C6s, R3", DR13r, 60%; 
+earth elemental or cloud giant.) 
+
+
+AC 10 987 654321 0 AC 
+
+Hand: 67 8 9 10 11 12 13 14 15 16 
+
+Missile: 3 4 5 6 7 8 9 10 11 12 13 
+
+
+WEAPONRY: 
+
+Weapons: 3 proficient, -5 NPP 
+Proficient: dart, staff, dagger 
+Weapons carried: 
+
++1 dagger, +2 vs. small, d4/d3 
+
+Darts (12), fire rate 3, ranges 1%"/3'74%" 
+
+Staff, D6/D6 
+
+
+Human 
+
+
+21 
+
+
+
+
+CHARACTER GUIDE 
+
+
+- 
+
+
+
+CLASS 
+
+CL/FTR 
+
+CL/RNGR 
+
+FTR/ILL 
+
+FTR/TH 
+
+FTR/M-U/TH 
+
+LEVEL 
+
+5/5 
+
+5/5 
+
+5/5 
+
+5/5 
+
+5/5/5 
+
+NAME 
+
+Para nor 
+
+Clarke 
+
+Morpeth 
+
+Bigelow 
+
+Ren 
+
+
+Moonbeam 
+
+Storm wind 
+
+Gravel 
+
+Tenpennv 
+
+Greener 
+
+
+Alignment 
+
+CG 
+
+LG 
+
+LN 
+
+N 
+
+NG 
+
+Alignment 
+
+Race 
+
+Vz Elf 
+
+V4 Elf 
+
+Gnome 
+
+Halfling 
+
+Elf 
+
+Race 
+
+hp 
+
+45 
+
+50 
+
+30 
+
+35 
+
+30 
+
+hp 
+
+AC 
+
+2 
+
+2 
+
+0 
+
+5 
+
+1 
+
+AC 
+
+Hear Noise 
+
+2 
+
+2 
+
+4 
+
+3 
+
+3 
+
+1d20 
+
+ST vs Spell (+Wi$ adj) 
+
+14 (+4) 
+
+14 (+1) 
+
+10 (-1) 
+
+10 
+
+12 
+
+
+Doors 
+
+3 
+
+4 
+
+2 
+
+3 
+
+2 
+
+
+Secret Doors 
+
+2 
+
+2 
+
+0 
+
+0 
+
+2 
+
+1d6 
+
+Surprised 
+
+2 
+
+1 
+
+2 
+
+2 
+
+2 
+
+
+Strength 
+
+18/40 
+
+18/81 
+
+14 
+
+16 
+
+15 
+
+S 
+
+Intelligence 
+
+9 
+
+13 
+
+15 
+
+6 
+
+18 
+
+1 
+
+Wisdom 
+
+18 
+
+15 
+
+6 
+
+9 
+
+12 
+
+w 
+
+Dexterity 
+
+9 
+
+12 
+
+18 
+
+17 
+
+15 
+
+D 
+
+Constitution 
+
+15 
+
+18 
+
+9 
+
+12 
+
+7 
+
+Co 
+
+Charisma 
+
+14 
+
+6 
+
+12 
+
+16 
+
+9 
+
+Ch 
+
+Potions 
+
+Healing 
+
+Healing 
+
+Healing 
+
+Healing 
+
+Healing 
+
+
+
+Fire Res 
+
+Climbing 
+
+Speed 
+
+Poly S 
+
+Flying 
+
+
+Scrolls 
+
+Cure Dis 
+
+Res Fire 
+
+Invis 10' 
+
+P/Devils 
+
+Mag Miss 
+
+
+
+Raise D Cure Serious Knock 
+
+Wounds 
+
+
+OTHER NOTES 
+
+
+Change S 
+Color Sp 
+Det Invis 
+Wall Fog 
+
+Impr PhF 
+Invis 
+
+Spect Fc 
+
+
+PP 
+
+60 
+
+OL 
+
+57 
+
+FT 
+
+45 
+
+MS 
+
+55 
+
+HS 
+
+51 
+
+HN 
+
+25 
+
+CW 
+
+75 
+
+RL 
+
+20 
+
+
+Command 
+Cure LW 
+Cure LW 
+Cure LW 
+Det Magic 
+
+
+Augury 
+Find Tps 
+Hold Pers 
+Res Fire 
+
+
+Slow Poison 
+
+
+Cure 
+
+
+Bless 
+Cure LW 
+Cure LW 
+Cure LW 
+Cure LW 
+
+
+Augury 
+Hold Pers 
+Silence 15'r 
+Speak With 
+Animals 
+
+
+PP 
+
+55 
+
+OL 
+
+37 
+
+FT 
+
+40 
+
+MS 
+
+45 
+
+HS 
+
+41 
+
+HN 
+
+25 
+
+CW 
+
+90 
+
+RL 
+
+25 
+
+
+Mag Miss 
+Read Mag 
+Sleep 
+Sleep 
+Invis 
+
+
+22 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hydell, Part 1 
+
+
+Tournament Scoring Sheet 
+
+
+Team Number. 
+
+
+poasMsfon oHh^^rty^o count l forKjore i n NOTate8h l 0d nem ^ er ' ha ' ^ i,emS MUST be el,her used "P 
+° r 
+
+Encounter 
+
+Number Items 
+
+4. 
+
+
+the 
+
+
+10. 
+
+
+12 . 
+
+13. 
+
+14. 
+
+15. 
+16 a. 
+
+16b. 
+
+16d. 
+
+16e. 
+
+18. 
+
+
+GUARDROOM 
+
+Guards 
+
+JAILOR: 
+
+
+SPIDERS: 
+
+
+SHADOWS: 
+
+REMAINS: 
+
+WARMUP: 
+
+Guards: 
+
+ARMORY: 
+
+DISPLAY: 
+
+Guard: 
+
+Guards: 
+
+Guards: 
+
+OFFICE: 
+
+Captain: 
+
+Adjutant: 
+
+Desk: 
+
+
+19. 
+
+20 . 
+
+
+STAIRS: 
+
+SHAMBLER: 
+
+
+: potion healing 
+: 60 gp 
+
+: potion extra healing 
+50 gp 
+
+1 C gem 
+: 200 op 
+
+20 sp 
+8 ep 
+4gp 
+
+2 L gems 
+scroll 2 spells 
+200 gp 
+
+60 pp 
+
+potion healing 
+2 C gems 
+potion healing 
+60 gp 
+
+arrows +1 (5) 
+chandelier 
+6 C gems 
+30 gp 
+15 gp 
+1 C gem 
+80 gp 
+1 C gem 
+100 gp 
+6 L gems 
+longsword +1 
+longsword +1 
+longsword +2 
+dagger +1 
+
+wand of paralyzation 
+shortsword +1 
+halberd +1 
+potion extra healing 
+potion healing 
+potion heroism 
+potion plant control 
+72 pp 
+1 C gem 
+If descended 
+3,000 cp 
+1,000 ep 
+
+potion fire resistance 
+scroll 4 spells 
+
+
+Possible 
+
+Actual 
+
+
+
+Points 
+
+Points 
+
+Maximum 
+
+Points 
+
+400 
+
+
+
+
+60 
+
+
+#4 max: 
+
+460 
+
+800 
+
+
+
+50 
+
+
+
+
+100 
+
+
+#7 max: 
+
+950 
+
+
+1 
+1 
+4 
+4 
+
+100 
+
+2,700 
+
+200 
+
+300 
+
+400 
+
+200 
+
+400 
+
+60 
+
+600 
+
+20 
+
+600 
+
+30 
+
+15 
+
+100 
+
+80 
+
+100 
+
+100 
+
+300 
+
+2,000 
+
+2,000 
+
+4,000 
+
+500 
+
+5,000 
+
+2,000 
+
+2,500 
+
+800 
+
+400 
+
+500 
+
+300 
+
+360 
+
+100 
+
+1,000 
+
+15 
+
+500 
+
+400 
+
+3,000 
+
+
+#10 max: 2,810 
+#12 max: 500 
+#13 max: 
+
+
+#14 max: 
+#15 max: 
+
+
+600 
+
+460 
+
+600 
+
+
+#16 max: 1,345 
+
+
+#18 max:20,460 
+#19 max: 1,000 
+
+
+#20 max; 3,915 
+
+
+Team's treasure points: 
+plus 1,000 points per survivor: 
+
+Team's total points: 
+
+
+23 
+
+
+
+
+
+
+Hydell, Part 2 
+
+
+Tournament Scoring Sheet Team Number 
+
+
+Please note the fate of each of the following (captured, slain, escaped...): 
+
+IL3 Slad_IL7 Tuke--CL7 Parlee-IL13 Dutch- 
+
+For ties, note the total playing time here:.hours.minutes 
+
+List all treasures found, and their total value, (don't include magic item values; we'll do that). Remember 
+that the items 
+MUST be either used up or in the possession of the party to count for score, NOT stashed. 
+
+
+Non-Magicai Treasures: 
+
+
+gp value 
+
+
+Magical Treasures: 
+
+
+gp value 
+
+
+24 
+
+
+
+
+
+
+
+
+
+CLERIC/FIGHTER Paranor Moonbeam L5/5 AC 2 hp 45 Align CG VSEIf 
+
+
+S 18/40 +1 to hit, +3 Damage; +10Q#wt, Bars/gates 20% 
+
+i g 
+
+W 18 +4 ST vs Mental Attacks 
+
+D 9 
+
+Co 15 +1 hp/die, SS 91% / Res 94% 
+
+Ch 14 +10% reactions 
+
+
+Plate & Shield 
+AC rear: 3 
+
+
+LANGUAGES: Common, elvish, gnoll, gnome, goblin, 
+halfling, hobgoblin, orcish. 
+
+
+Saving Throws 
+
+(d20) 
+
+Poison/Death 
+
+9 
+
+Petrification 
+
+12 
+
+Rods, etc. 
+
+13 
+
+Breath 
+
+13 
+
+Spells 
+
+14 
+
+Note +4 wisdom bonus 
+
+Resist sleep/charm 30% 
+
+
+Turn Undead (d20/d12) 
+
+T Skeleton, Zombie, 
+Ghoul 
+
+7 Shadow 
+
+10 Wight 16 Wraith 
+
+13 Ghast 20 Mummy 
+
+
+Abilities 
+
+Secret doors 2/6 or 1/6 
+Infravision 60' 
+
+
+SPELLS: 
+
+Command (CIs, R1", DR 1r) 
+
+Cure LW (C5s) 1d8 
+Cure LW (C5s) 1d8 
+Cure LW (C5s) 1d8 
+Detect Magic (Clr, R3", DR IT) 
+
+Augury (C2r, 75%) 
+
+Find Traps (C5s, R3", DR 3T) 
+
+Hold Person (C5s, R6", DR 9r) 
+
+Resist Fire (C5s, DR 5T) 
+
+Slow Poison (CIs, DR 30T) 
+
+Cure Disease (C1T) 
+
+Prayer (C6s, R6", DR 5r) 
+
+POTIONS: Healing, Fire Resistance 
+
+OTHER MAGIC ITEMS: 
+
+Scroll: Cure Disease, Raise Dead 
+1 gem with Continual Light 
+
+TO HIT:Strength and Dexterity adjusts included. 
+
+Adjust for magic and situation bonuses/penalties. 
+
+AC 10 987 654321 0 AC 
+
+Hand: 56 7 8 9 10 11 12 13 14 15 
+
+Device: 6 7 8 9 10 11 12 13 14 15 16 
+
+Jl 
+
+WEAPONRY: 
+
+Weapons: 8 proficient, -2 NPP 
+
+Proficient: Longbow, Flail, Halberd, Hammer, 
+
+Mace, Spetum, Longsword, Two-handed sword 
+Weapons carried: 
+
+Longbow, fire rate 2, ranges 7/14/21, d6/d6 
+
+Halberd, d10/2d6 
+
+Mace, d6+1/d6 
+
+Longsword, d8/d12 
+
+Two-handed sword, dl2/3d6 
+
+NORMAL EQUIPMENT:_ 
+
+
+The wise but unpredictable Paranor is a good fighter, 
+and often reminds companions of that fact. Heavily 
+armed for battle, Paranor prefers to "fight first and cure 
+later," to the occasional dismay of others. Cautioned 
+by Clarke about the delicacy of the mission, Paranor 
+will try to remain calm, but is sure to be in the thick of 
+any fray. 
+
+
+
+25 
+
+
+
+
+
+
+
+
+
+
+
+CLERIC/RANGER 
+
+
+Clarke Stormwind 
+
+
+hp 50 
+
+
+Align LG 
+
+
+V& Elf 
+
+
+L 5/5 AC 2 
+
+
+s 
+
+18/81 
+
++2 to hit, +4 Damage; +150#wt, Bars/gates 30% 
+
+1 
+
+13 
+
+
+w 
+
+15 
+
++1 ST vs Mental Attacks 
+
+D 
+
+12 
+
+
+Co 
+
+18 
+
++2/+4 hp/die; SS 99% / Res 100% 
+
+Ch 
+
+6 
+
+-10% Reactions 
+
+
+Saving Throws 
+
+(d20) 
+
+
+Turn Undead (d20/d12) 
+
+Poison/Death' 
+
+9 
+
+
+T Skeleton, Zombie, 
+
+Petrification 
+
+12 
+
+
+Ghoul 
+
+Rods, etc. 
+
+13 
+
+
+7 Shadow 
+
+Breath 
+
+13 
+
+
+10 Wight 16 Wraith 
+
+Spells 
+
+14 
+
+
+13Ghast 20 Mummy 
+
+Note: +1 wisdom bonus 
+
+
+
+Plate & Shield 
+AC Rear: 3 
+
+
+LANGUAGES: Common, elvish, gnoll, gnome, goblin, 
+halfling, hobgoblin, orcish 
+
+
+Abilities 
+
+Surprise 4/6, surprised 1/6 
+Secret doors 2/6 or 1/6 
+Infravision 30' 
+
+
+SPELLS: 
+
+Bless (Clr, R6", DR 6r) 
+
+Cure LW (C5s) d8 
+Cure LW (C5s) d8 
+Cure LW (C5s) d8 
+Cure LW (C5s) d8 
+Augury {C2r, 75%) 
+
+Hold Person (C5s, R6", DR 9r) 
+Silence 15'r {C5s, R12", DR lOr) 
+Speak w Animals (C5s, R3", DR 10r) 
+Dispel Magic (C6s, R6") 
+
+Remove Curse (C6s) 
+
+
+POTIONS: Healing, Climbing 
+
+
+OTHER MAGIC ITEMS: 
+
+Scroll: Resist Fire, Cure Serious Wounds 
+1 gem with Continual Light 
+
+
+TO HIT: Strength and Dexterity adjusts included. 
+
+Adjust for magic and situation bonuses/penalties. 
+
+AC 10 987 654321 0 AC 
+
+Hand: 4567 8 9 10 11 12 13 14 
+
+Device: 6 7 8 9 10 11 12 13 14 15 16 
+
+
+WEAPONRY 
+
+Weapons: 7 proficient, -2 NPP 
+Proficient: Longbow, Flail, Hammer, Staff, Longsword, 
+Two-handed Sword, Trident 
+
+Weapons carried: 
+
+Hammer, fire rate 1, ranges 1/2/3, d4+1/d4 
+Longsword, d8/d12 
+Two-handed sword, d12/3d6 
+
+
+NORMAL EQUIPMENT: 
+
+
+Clarke is a famous fighter, trusted cleric, and sturdy 
+companion in tight spots. He has few friends, as he 
+picks on the faults of others too much, but with the best 
+intentions. An exceptional character, Clarke ever seeks 
+to prove his worth, failing to realize that his lack of 
+friends is not a judgement of his abilities. 
+
+
+
+ne 
+
+
+
+
+
+
+
+
+
+FIGHTER/ILLUSIONIST Morpeth Gravel L 5/5 AC 0 hp 30 Align LN Gnome 
+
+
+S 
+
+13 
+
+Carry +10#wt, Bars/gates 4% 
+
+1 
+
+15 
+
+w 
+
+6 
+
+-1 ST vs Mental Attacks 
+
+D 
+
+18 
+
++3 Missile bonus, -4 Defense bonus 
+
+Co 
+
+9 
+
+SS 65% / Res 70% 
+
+Ch 
+
+12 
+
+
+
+Ring Mail +1, shield 
+AC rear: 6 
+
+
+Saving Throws 
+
+Poison/Death 
+
+11 
+
+Petrification 
+
+12 
+
+Rods, etc. 
+
+9* 
+
+Breath 
+
+13 
+
+Spells 
+
+10* 
+
+*+2 Race/Con bonus included 
+
+Note -1 wisdom penalty 
+
+
+LANGUAGES: Common, dwarvish, gnome, goblin, 
+half ling, kobold, and burrowing mammal 
+
+
+Abilities: 
+
+Infravision 60' 
+
+Detect slope 8, unsafe floor 7, 
+depth 6, direction 5 (on 1 dl0) 
+
+SPELLS: 
+
+Change Self (CIs, DR 17r) 
+
+Color Spray {CIs, R 5") 
+
+Det. Invisibility (CIs, R5'', DR 25r) 
+
+Wall of Fog (CIs, R3", DR 5+2d4r) 
+
+Improved Phantasmal Force (C2s, R11", Area 21 sq. ") 
+Invisibility (C2s) 
+
+Spectral Force (C3s, R11", Area 21 sq.'') 
+
+POTIONS: Healing, Speed 
+
+OTHER MAGIC ITEMS: 
+
+Scroll: Invisibility 10' r 
+
+TO HIT: Strength and Dexterity adjusts included. 
+
+Adjust for magic and situation bonuses/penalties. 
+
+AC 10 9 6 7 6 5 4 3 2 1 0 AC 
+
+Hand: 67 8 9 10 11 12 13 14 15 16 
+
+Device: 3 4 5 6 7 8 9 10 11 12 13 
+
+Note: +1 bonus to hit kobold & gnoll; 
+
+-4 defense AC bonus v$. bugbear, giant gnoll, ogre, troll. 
+
+WEAPONRY 
+
+Weapons: 6 proficient, -2 NPP 
+
+Proficient: Battle axe, shortbow, dagger, dart, sling, short- 
+sword 
+Weapons carried: 
+
+Shortsword, d6/d8 
+
+Shortbow, fire rate 2, ranges 5/10/15, d6/d6 
+Dagger, d4/d3 
+
+9 Darts, fire rate 3, ranges 1 1/2'73'74 1/2", d3/d2 
+Sling (& bullets), fire rate 1, ranges 5/10/20, d4+1/d6+1 
+
+NORMAL EQUIPMENT:_ 
+
+
+A leader of the gnomish Gravel clan, Morpeth's black 
+humor usually smoothes his rare disagreements with 
+friends. Though not Good, he can be counted on in a 
+pinch, and often alternates between spells and ranged 
+weapons during difficult battles. He has falsely affect 
+ed a "cute little gnome" image where convenient, with 
+several past successes. 
+
+
+
+27 
+
+
+
+
+
+
+
+
+
+
+
+
+FIGHTER/THIEF Bigelow Tenpenny L5/5 AC 4 hp35 Align N Halfling 
+
+
+s 
+
+1 
+
+16 
+
+6 
+
+9 
+
++1 Damage: Carry +35#wt.; Bars/gates 10% 
+
+W 
+
+
+D 
+
+17 
+
++2 Missile bonus, -3 Defense bonus 
+
+Co 
+
+12 
+
+SS 80% / Res 85% 
+
+Ch 
+
+16 
+
++25% Reactions 
+
+
+Saving Throws 
+
+
+Poison/Death 
+
+7* 
+
+Petrification 
+
+10 
+
+Rods, etc. 
+
+8* 
+
+Breath 
+
+12 
+
+Spells 
+
+9* 
+
+*+3 Race/Con bonus included; 
+
+Ring +1 included in all. 
+
+
+Abilities 
+
+If alone, surprise 4/6 
+
+
+Leather Armor 
+AC Rear: 8 
+
+
+Thief Percentages 
+
+Pick Pockets 60 
+
+Open Locks 57 
+
+Find/Rem Traps 45 
+
+Move Silently 55 
+
+Hide in Shadow ' 51 
+
+Hear Noise 25 
+
+Climb Walls . 75 
+
+Read languages 20 
+
+LANGUAGES: Common, dwarvish, elvish, 
+gnome, goblin, halfling, orcish 
+
+
+POTIONS: Healing, Polymorph Self 
+
+
+OTHER MAGIC ITEMS: 
+
+Ring of Protection +1; 
+
+SCROLL: Protection From Devils 
+
+
+The strong, dextrous Bigelow is not known for his 
+brains. He prefers elven companions, but dislikes the 
+ranger, Clarke, although the necessary trust is there. 
+Bigelow purchased his special scroll after receiving a 
+tip from his guild about the Hydell complex, and often 
+voices second thoughts about the party's mission. 
+
+
+TO HIT: Strength and Dexterity adjusts included. 
+
+Adjust for magic and situation bonuses/penalties. 
+
+AC 10 9 8 7 654321 0 AC 
+
+Hand: 67 8 9 10 11 12 13 14 15 16 
+
+Device: 4 5 6 7 8 9 10 11 12 13 14 
+
+NOTE: add only +1 to ''hand" roll for Backstabbing 
+(Thief hits at -3, but +4 for surprise/rear) 
+
+
+WEAPONRY 
+
+
+Weapons: 8 proficient, -2 NPP 
+Proficient: Battle Axe, Light Crossbow, 
+Shortbow, Dagger, Dart, Sling, Spear. 
+
+
+Weapons Carried: 
+
+Battle axe, d8/d8 
+Dagger, d4/d3 
+
+9 Darts, fire rate 3, ranges 1 1/2"/3"/4 1/2", d3/d2 
+Sling (& bullets), fire rate 1, ranges 5/10/20, d4+1/d6t1 
+Shortsword, d6/d8 
+
+
+NORMAL EQUIPMENT: 
+
+
+
+
+
+
+
+
+
+
+
+
+FIGHTER/MAGIC-USER/THIEF 
+
+
+Ren Greener 
+
+
+L 5/5 
+
+
+AC 1 
+
+
+hp 30 Align NG Elf 
+
+
+S 
+
+10 
+
+Bars/gates 2% 
+
+1 
+
+18 
+
+
+w 
+
+12 
+
+
+D 
+
+15 
+
+-1 Defense bonus 
+
+Co 
+
+7 
+
+SS 55% / Res 60% 
+
+Ch 
+
+9 
+
+
+
+Saving Throws 
+
+Poison/Death 
+
+12 
+
+Petrification 
+
+11 
+
+Rods, etc. 
+
+11 
+
+Breath 
+
+15 
+
+Spells 
+
+12 
+
+Resist sleep, charm 90% 
+
+
+Abilities: 
+
+Infravision 60' 
+
+Secret doors 2/6 
+If alone, surprise 4/6 
+
+SpellSU ¦ 
+
+Magic Missile {CIs, Hit") 
+
+Read Magic (Cl r, DR 10r) 
+
+Sleep (CIs, R8", DR 25r) 
+
+Sleep (CIs, R8", DR 25r) 
+
+Invisibility (C2s) 
+
+Web (C2s, R2.5", DR 10T) 
+
+Dispel Magic (C3s, R12") 
+
+POTIONS: Healing, Flying 
+
+OTHER MAGIC ITEMS: 
+
+1 gem with Continual Light 
+Scroll: Magic Missile, Knock 
+
+TO HIT: Strength and Dexterity adjusts included. 
+
+Adjust for magic and situation bonuses/penalties. 
+
+AC 10 9876 543210 AC 
+
+Roll: 4 5 6 7 8 9 10 11 12 13 14 
+
+Note: Add +1 when using longsword or longbow (elf) 
+Note: Add only +1 when backstabbing. 
+
+(Thief hits at -3, but +4 surprise/rear) 
+
+WEAPONRY 
+
+Weapons: 9 proficient, -2 NPP 
+Proficient: Longbow, Light Crossbow, Dagger, Dart, 
+Halberd, Lance, Sling, Longsword, Two-handed Sword 
+
+Weapons carried: 
+
+- Longsword, d8/d12 
+
+Longbow, fire rate 2, ranges 7/14/21, d6/d6 
+Dagger, d4/d3 
+
+Sling (& bullets), fire rate 1, ranges 5/10/20, d4+1/d4 
+NORMAL EQUIPMENT:_ 
+
+
+THIEF Percentages 
+
+
+Pick Pockets 55 
+
+Open Locks 37 
+
+Find/Rem Traps 40 
+
+Move Silently 45 
+
+Hide in Shadow 41 
+
+Hear Noise 25 
+
+Climb Walls 90 
+
+Read Languages 25 
+
+
+Bracers AC 2 
+AC rear: 2 
+
+
+LANGUAGES: Common, Elvish, Gnomish, Gnolt, 
+Goblin, Halfling, Hobgoblin, Orcish 
+
+
+Ren is the ninth child in a rich deepwoods family, all of 
+whom are known as "Ren" to outsiders. An "average 
+elf", Ren's strengths come from a wide range of skills 
+learned over the years. Ren gets along with most char 
+acters, and is known to be an active and versatile com 
+panion, traveling very light for added stealth and 
+mobility. 
+
+
+
+29 
+
+
+
+
+
+
+
+
+
+
+
+
+DM SUMMARY 
+
+
+Your name:----- 
+
+About the Adventure: 
+
+1. Did you enjoy running this adventure:- 
+
+2. What did you like most about it?- 
+
+3. What did you like least about it?-- 
+
+4. Was there anything unreasonable?--- 
+
+5. Was there anything unfair?- 
+
+6. Did you like the scoring system used? Why, or why not? 
+
+
+Team number. 
+
+
+About your Players: 
+
+Please name the player that fits each of these categories as best you can; one runner-up may be 
+mentioned. "None" is 
+an acceptable answer, but try not to weasel out like that. And give names, please. 
+
+
+Most argumentative: 
+
+Best knowledge of rules: 
+
+Most leadership: 
+
+Played closest to alignment: 
+
+Highest quality of general role playing: 
+
+And finally, in choosing the best 3 players overall, give: 
+
+your choices 
+
+
+THEIR CHOICES 
+
+
+THANK YOU! 
+
+30 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PLAYER SUMMARY 
+
+
+Your Name:- Team Number: 
+
+About the Adventure: 
+
+1. Did you enjoy running this adventure:_ 
+
+2. What did you like most about it?_ 
+
+
+3. What did you like least about it? 
+
+
+4. Was there anything unreasonable? 
+
+
+5. Was there anything unfair?_ 
+
+6. Did you like the scoring system used?_ 
+
+7. Do you have any suggestions about anything? 
+
+
+About your Dungeon Master: * 
+
+Please answer the next questions #1-3 with one of the following answers: Excellent, Good, Average, 
+Below average, 
+Poor. 
+
+How would you rate your DM's knowledge of: 
+
+1. the module used? _ 
+
+2. the game rules? . _ 
+
+How would you rate your DM overall? 
+
+3. _ 
+
+4. Name one thing that you know your DM did wrong;_ 
+
+
+5. Talk with your teammates, and pick the best 3 players in your group. Tell your DM, and he will write 
+them down along 
+with his choices. 
+
+
+THANK YOU! 
+
+31 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+¦ : 
+
+f '• A ^ : = 
+
+
+¦ . .. . •¦¦-¦!' ¦ 
+
+, - . 
+
+SiAft ? 1 C71 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

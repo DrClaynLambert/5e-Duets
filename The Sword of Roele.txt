@@ -1,0 +1,6578 @@
+Skip to main content
+ 
+Texts
+ 
+Video
+ 
+Audio
+ 
+Software
+ 
+Images
+Sign up for free
+Log in
+ Search metadata
+ Search text contents
+ Search TV news captions
+ Search radio transcripts
+ Search archived web sites
+Advanced Search
+About Blog Events Projects Help Donate  Contact Jobs Volunteer
+Full text of "Tsr 03118 Birthright Adventure The Sword Of Roele"
+See other formats
+-- 
+
+
+FiciAi. Game Adventi; 
+
+
+levels 5-8 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+the sword of roele 
+
+
+
+a birthright(tm) adventure 
+for characters levels 5-10 
+credits 
+
+
+Written by Wolfgang Baur 
+Edited by Anne Gray McCready 
+Creative Direction by Karen S* Boomgarden 
+Art Coordination by Robert j. Galica 
+Cover Art by .Albert Slark 
+Interior Art by Nick Choles 
+Page Backgrounds and Frames by Dee Barnett 
+Cartography by David C. Sutherland III 
+Typography by Nancy J, Kerkstra 
+Production by Dee Barnett and Shan Ren 
+Preproduction Editing by Doug Stewart 
+
+
+Thanks to Karen S. Boomgarden, David "Zeb M Cook, 
+Michelle Carter, Dave Gross * Jeff Grubb, 
+Roger Moorei Shelly Nichols, 
+
+Jonathan Tweet, and Barbara Young for all 
+their support and encouragement. 
+
+
+Lake Geneva 
+W] 53147 
+U.5.A. 
+
+
+TSR, Inc. 
+
+201 Sheridan Springs Road 
+
+
+
+Cambridge CBI 3LB 
+United Kingdom 
+
+
+120 Church End 
+Cherry Hinton 
+
+
+TSR Ltd. 
+
+
+311SXXX1901 
+ISBN 0-7369-0374-0 
+
+
+AD&D, Advanced Dungeons & Dragons, and Dungeon Master are registered trademarks owned by TSR, 
+Inc, 
+Birthright and the TSR logo arc trademarks owned bv TSR, Inc. 
+
+All TSR characters, character names, and the distinctive likenesses thereof are trademarks owned by 
+TSR, [nc. 
+(c)1996 TSR, Inc. AU Rights Reserved. Made in the U.S.A, 
+
+
+Random House and its affiliate companies have worldwide distribution rights* in the book trade for 
+English language products of TSR, Inc, 
+Distributed to the toy and hobby trade by regional distributors. Distributed to the book and hobby trade 
+in the United Kingdom by TSR 
+Ltd. This material is protected under the copyright laws of the United States oi America. Any 
+reproduction or unauthorized use of the 
+material conta ined herein is prohibited without the express written consent of TSR, Inc. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+table of contents 
+
+
+' j£f '.#¦ 
+
+
+f 
+
+
+Introduction.3 
+
+Background.3 
+
+The Madness of the Chimera ...... 3 
+
+The Three Brother Mages.3 
+
+The Monkey King.4 
+
+The Order of the Sun.5 
+
+Starting the Adventure.6 
+
+The Astrologer. 6 
+
+The Bard. 7 
+
+Audience with the Chimera ....... 7 
+
+Travel to the Chimaeron..8 
+
+Transporting Troops.8 
+
+The Chimaeron.9 
+
+The Council of Leaders ..9 
+
+Luandar, Lyssan. Hamein, 
+
+and Mhowe.9 
+
+Cypress Valley Encounter Table ... 10 
+The Gnoll Raiders. 13 
+
+Into Cypress Valley.. 14 
+
+The Lizard King.14 
+
+
+The Apes and the Bird Maiden, ... 17 
+
+
+The Towers of the Three Brothers. . , 19 
+
+
+The Ivory Tower.19 
+
+The Cypress Tower.22 
+
+The Oak Tower..24 
+
+The Great Tomb of the Order 
+
+of the Sun....26 
+
+The Architect. 26 
+
+The Riverbank. 26 
+
+The Temple Ruins...27 
+
+The Tower of the Eye.28 
+
+The Sleeper s Gate.29 
+
+The Lesser Chambers.30 
+
+The Upper Chambers.,49 
+
+Concluding the Adventure ..60 
+
+Further Adventures. 60 
+
+The Spells of the Chimaeron.61 
+
+Spells of Reason.62 
+
+The Monkey King. 63 
+
+Mahogany Constrictor. 64 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+introduction 
+
+T he Sword of Roele is a Birthright"' 
+adventure designed for 3-6 player 
+characters (PCs) of levels 5-8 
+(about 30 total levels). One of the PCs 
+should be a regent in Anuire or Khinasi, 
+and-because of the large numbers of 
+undead encountered-a priest character is 
+required to successfully complete the 
+adventure. Because of the adventure's 
+many traps, a thief character is indispens 
+able. The action takes place in the lands 
+between Anuire and the Khinasi, near 
+Coeranys. Elinie, Osoerde, Baruk-Azhik, 
+the Rohrmarch, the Harrowmarsh (the 
+Hydra's swamp), Sendoure, and Binsada. 
+Note: Abbreviations used in this book are 
+PHB for Player's Handbook and DMG for 
+the Dungeon Master* Guide. 
+
+background 
+
+T he Sword of Roele involves three 
+major sets of characters in addition 
+to the PCs; the Chimera, the Three 
+Brother Mages, and the Monkey King. 
+
+The Chimera is too powerful for 5th to 
+8th level parties to defeat. Her role is as a 
+patron, bribing and cajoling the PCs into 
+solving her problem in the adventure. 
+
+The Three Brother Mages are the 
+Chimera's opponents, but not necessarily 
+the PCs' allies. If the PCs approach them 
+diplomatically, the Brothers might become 
+allies, but they might just as easily become 
+enemies-it's up to the PCs, The Three 
+Brother Mages seek to defeat the Chimera 
+and use her sources, but only as a means 
+to a larger end. 
+
+The Monkey King is an animal ford 
+with a flair for mischief. He drags the PCs 
+into a political mess, but those who prove 
+themselves worthy will be richly rewarded. 
+
+
+the madness of 
+the chimera 
+
+M any years ago, the Chimera 
+found immortality. Ever since, 
+she has been slowly consumed 
+bv madness. Her madness affects the 
+action. She believes she is destined to 
+assume the Iron Throne, and she tries to 
+use the PCs to get there. 
+
+The Chimera likes to flaunt her power 
+over death by asking her few visitors to 
+answer one question truthfully: "Do you 
+want to live forever?" Of course, no matter 
+the answer, she simply laughs, since she 
+has no intention of sharing her secret. She 
+expects to hear "Yes'*-those who say 
+"No" must explain themselves. 
+
+The Chimera believes that the Three 
+Brothers are after earthly power. She 
+thinks (incorrectly) they are searching for 
+the resting place of the Sword of Roele, the 
+blade that Michael Roele used when he 
+fought the Gorgon. In fact, the sword is 
+one of the Gorgon's favorite trophies and 
+is kept deep within his realm s most secure 
+treasuries-so deep, that most of the out 
+side world has forgotten its true location. 
+Though the Monkey King stole it, the 
+Three Brothers don't think it is nearby. 
+Even the Gorgon doesn't immediately 
+notice its loss. 
+
+the three 
+brother ma<rcs ~ 
+
+f|"^ he Chimera has allowed the 
+Three Brother Mages to tap 
+-M_ her sources and yet live 
+because she is curious about 
+them. Of all the people she has 
+ever met. the Three Brothers 
+are the only ones who * 
+have ever scorned her 
+boasts of immortality. 
+
+
+
+
+
+The Brothers seek an earthly entrance 
+to the realm of the gods, a gate into the 
+Paradise of Souls. They believe they can 
+ascend bodily into the heavens through a 
+gate buried deep underground in an 
+ancient tomb, thus avoiding immortality, 
+to leave behind the trouble of Cerilia and 
+live forever in a better world. 
+
+The Three Brother Mages know a gate 
+to paradise once existed in the central 
+chamber of the Tomb of the Order of the 
+Sun. They know the order was an ancient 
+Khinasi company of knights, and they 
+think the tomb is along the Qatil River, in 
+the swamps, at the site of some ancient 
+Masetian ruins (see The Lizard King). In 
+fact, the tomb is not far from the cypress 
+swamps at the mouth of the Qatil River, 
+near a ruined temple of the order. 
+
+Other great treasures are also 
+buried in the tomb, though good 
+PCs (especially paladins) might 
+feel some alignment restric 
+tions that prevent them 
+from plundering the 
+graves of good- 
+aligned creatures. 
+
+
+DM Note: Make clear your interpreta 
+tion of the alignment restrictions atten 
+dant on grave-robbing before the PCs 
+take any action that might cause a change 
+in alignment. 
+
+the monkey kin<£ 
+
+T he Monkey King is a force for 
+chaos-always a trickster, never a 
+ruler, but willing to take any chal 
+lenge as long as it holds a hint of novelty 
+or amusement. 
+
+The Monkey King plans to use all the 
+regents in this adventure for his amuse 
+ment, although he sees most creatures as 
+his pawns, not his equals. His goal isn't 
+power or wealth, just a good laugh at 
+everyone else's expense. 
+
+It all began when the Monkey King was 
+watching the Three Brother Mages through 
+the eyes of Fitnat, the monkey familiar of 
+the youngest brother, Rassan. Rassan was 
+bragging to his brothers that the Sword of 
+Roeie was the perfect device to trick the 
+Chimera. They mentioned that they knew 
+where it was, and told a few friends they 
+were mounting an expedition to recover it 
+so the Chimera would stop bothering them 
+about their real plans. They gave the 
+
+
+4 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chimera some clues as to where it was "hid 
+den," since she might send some of her 
+henchmen there to recover it for her. They 
+thought the relic of Roele was all they 
+needed to drive the Chimera over the brink 
+into complete, howling madness, making 
+their lives and their control over her sources 
+in the Chimaeron easier. 
+
+The Monkey King knows the Three 
+Brothers are searching for a gate to the 
+outer planes and he wants to return to the 
+Beastlands. He suspects that gates to these 
+places exist in the Great Tomb of the Order 
+of the Sun, but he would rather construct 
+an elaborate scheme to find them without 
+doing any actual work, and that's what he 
+has done by stealing the Sword of Roele. He 
+hopes the PCs do all the drudgery, prefer 
+ably in some entertaining way. 
+
+The Monkey King has placed the sword in 
+the Chamber of the Ark-Royal (Area 53). 
+
+the order of 
+the sun 
+
+I n the years -429 to -2 11 MR, the 
+Basarji, the people who later became 
+the Khinasi, were still largely free of 
+Anuirean rule. Their gods, especially 
+Avani, goddess of the sun and of reason, 
+were widely worshipped, and their traders 
+ranged far and wide. In the centuries after 
+the disastrous battle at Deismaar, the 
+Basarji had recovered and even prospered. 
+But slowly, the awnsheghfien asserted 
+their power in the lands between the iso 
+lated city-states of the Sun Coast. 
+
+To confront the awnsheghlien and pro 
+tect the people of the Sun Coast, the priests 
+of Avani in the lands of Binsada, on the 
+Gulf of Coeranvs, founded an order of 
+knighthood unique in Khinasi history. The 
+Clerics of the Gulf were a frontier offshoot 
+of the Great Scholars of Avani's Library. 
+The knights they trained were holy war 
+riors, male and female paladins who learned 
+the art of taming both griffons and hip- 
+pogriffs. The order soon achieved 
+
+
+military, political, and spiritual might. It 
+was variously known as the Order of the 
+Sun, Avani's Order, or the Knights of the 
+Eternal Sun. The order was always on the 
+side of justice, tolerance, and reason, which 
+won it fanatical admirers among the com 
+mon people and grudging respect among 
+the most jaded rulers. 
+
+The citadel called the Spires of the Sun 
+was the order's greatest stronghold. It 
+was located in the city of Djafra, but most 
+of its outposts were in the Iron Peaks, 
+along the Tarvanian Hills, near the Rain 
+Serpent Mountains, and elsewhere among 
+the mountains. 
+
+But the order was doomed to collapse. 
+The elite force of adventurer-knights 
+could not withstand the organized forces 
+of the Anuirean Empire. The order's strug 
+gle against the awnsheghlien suddenly 
+became a war on two fronts, against both 
+awnshegh and Anuirean. The ranks 
+thinned, then vanished entirely when the 
+last company of knights in the order 
+fought in the great Battle of Asarwe 
+against the Emperor Alandalae. The battle 
+was won and Alandalae was killed by el- 
+Arrasi after the order's final charge, but 
+the ranks of knighthood were almost 
+entirely destroyed, for Alandalae's honor 
+guard exacted a heavy price as vengeance 
+for their master's death. Later attempts to 
+reestablish the order failed. 
+
+Now all that remains of the Order of 
+the Sun are the fortresses, temples, and 
+tombs that it built. Most of these have 
+been reclaimed by the priests of Avani and 
+expanded into libraries, universities, and 
+centers of learning, but a 
+few have been entirely 
+
+abandoned. \\ // - j 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+!r 
+
+& 
+
+
+
+I f one of the PCs has a domain near 
+the Chimaeron, getting them 
+involved is easy. The conflict 
+between the Brothers and the Chimera 
+is a threat to the region and threatens 
+the regent PCs. and if the PCs do not 
+
+starting - the 
+adventure 
+
+
+meet with the Chimera, she declares war 
+on them. It should make the PCs open 
+to an offer from the Three Brother 
+Mages (see The Astrologer). 
+
+If the PCs are regents or scions in a dis 
+tant region of Anuire or the Cities of the 
+Sun. the Monkey King chooses the party 
+to help. 
+
+the astrologer 
+
+f or a Khinasi ruler, having a court 
+astrologer is a mark of status and eru 
+dition. For an Anutrean, a visit from a 
+learned scholar may be rare. If the regent 
+chooses to speak to the astrologer in his 
+audience chamber, read the following: 
+
+A small, elderly man in ragged robes 
+and a brightly-colored vest shuffles 
+slowly into your audience chamber. He 
+has long arms, short legs, and ears 
+that stick out from his balding 
+head. "Your Majesty, I 
+have important tidings 
+for you. but in 
+exchange / ask a 
+gift you do 
+not have. 
+
+
+
+6 
+
+
+I 
+
+
+I 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Grant me two stars running with blood 
+and I will tell you bow to confound an 
+awmhegk and three wizards at the same 
+time, and perhaps even gain a fragment 
+of the Iron Throne. " 
+
+If the PC regent doesn't agree, the 
+astrologer says nothing more and leaves 
+the court the next day. If the PC agrees to 
+the astrologer's mysterious terms (he does 
+not explain what he means by "stars run 
+ning with blood"), read: 
+
+" A comet of blue and purple has 
+recently appeared among the stars, sig 
+nalling great changes in the days to 
+come. The horoscope I have cast for you 
+shows that art awnshegh threatens the 
+stability of Cerilia. Perhaps there will 
+be more war between the Khinasi and 
+the Anuirean Empire." 
+
+The astrologer is the Monkey King in 
+disguise, for he has taken an interest in 
+the Chimera s madness, and comes to pay 
+the PCs a call to lure them into his little 
+schemes. To entice the PCs to make this 
+trip, he offers them the key to the Trea 
+sure Chamber (Area 21), which he gives 
+to the PCs if they agree to visit the 
+Chimera. He does not tell the PCs the 
+purpose of the key. 
+
+If the PCs refuse, he goes to the 
+Chimera herself and cajoles her into ask 
+ing for an audience with the PCs. 
+
+the bard 
+
+I f the PCs dismiss or ignore the astrol 
+oger, a minstrel named Stella the 
+Golden comes to visit them. She 
+serves the Three Brothers, who say the 
+Chimera will soon attempt to claim the 
+Sword of Roele , and they need help to get 
+it first. They don't want it themselves, but 
+are willing to let the PC regent take it. 
+They say they have chosen him for his 
+sterling reputation, courage, and heroism. 
+
+In fact, the Brothers planted the rumors 
+about the Sword of Roele in the Chimera's 
+
+
+court (the Council of Leaders) them 
+selves. They want the PCs to open the 
+tomb for their own reasons (explained in 
+The Three Brother Mages). 
+
+audience with 
+the chimera 
+
+I I the astronomer and the bard both 
+fail to convince the PC regent to 
+leave his realm and seek out adven 
+ture, the Chimera requests an audience 
+with the regent. 
+
+If the regent refuses to see the Chimera, 
+he has made a powerful enemy, and might 
+suffer several hostile Agitate and even 
+Contest Holding actions. If he seeks to 
+kill the Chimera, it becomes clear that the 
+Chimera sent a projected image in her 
+stead. However, any fight can kill many of 
+the regent's retainers, courtiers, and men- 
+at-arms. If the regent agrees to see her 
+and treats her nobly, read: 
+
+The Chimera is a half-elf woman with a 
+frighteningly calm demeanor-the calm of 
+barely contained madness. She approaches 
+the throne, nods her head as one ruler to 
+another, and speaks in a smooth, slow voice. 
+"The sun sets, the moons wander, and the stars 
+fade, l alone endure ." The Chitnera cuts her 
+self with a small knife. The blood drips onto 
+the flagstones, then the cut heals itself, 
+
+"Yet immortality alone is not always 
+enough. My lands, the Chimaeron, have 
+long been plagued by outlaws, bandits, and 
+renegades fleeing justice. Three of the great 
+est thieves of all Cerilia now seek to hide 
+themselves. They have towers in two of 
+my cities, without my permission or the 
+consent of my vassals, the Council 
+of Leaders. I want you to destroy 
+these three. In exchange, 1 
+offer you the location of 
+the treasure they brag 
+about: the sword of 
+Michael Roele, 
+
+
+7 
+
+
+fast emperor of Anuire. 
+
+"My own militia has proven itself incompe 
+tent in capturing these thieves. I rarely ask aid 
+of others, but when I do, I reward faithful 
+assistance very well, and I mercilessly punish 
+those who oppose me. Do not refuse me." 
+
+
+The Chimera speaks through her magi 
+cal projected image. 
+
+In exchange for destroying the Broth 
+ers, she offers something that she doesn't 
+have-the location of the Sword of Roele. If 
+that isn't enough, she reminds the regent 
+that if the PCs find out what the Three 
+Brothers are searching for, she might form 
+an alliance with the PCs' kingdom. Hating 
+an awnshegh to call on should make any 
+regent sleep more soundly. 
+
+
+
+travel to the 
+chimaeron 
+
+
+etting to the Chimaeron is no prob- 
+fl lent if the PCs are not taking an 
+army with them. The astrologer 
+tells the regent that the "two bloody 
+stars" (the Sword of Roele and its two 
+gems) are "hidden in the remains of the 
+Sun." Bv this cryptic clue, he attempts to 
+point the adventurers toward the Order of 
+the Sun. 
+
+
+
+
+
+transporting 
+
+troops 
+
+T aking troops through intervening 
+kingdoms can be done with the 
+permission of the ruler in question. 
+Otherwise, a declaration of war is required 
+first. Getting permission requires a suc 
+cessful Diplomacy domain 
+action with each regent 
+on the path between 
+the PC's kingdom 
+
+
+
+
+' < (tm) 
+
+
+and the Chimaeron. A seafaring kingdom 
+can. of course, debark troops to the Chi 
+maeron by sea, arriving in the ports of 
+Hamein, Mhowe. or Luandar. One of the 
+towers of the Three Brothers stands in 
+Hamein. In Mhowe, the barflies and gos 
+sips tell tales of threats from the Harrow- 
+marsh and the better-in formed members 
+of the Chimera's militia know about the 
+Bird Maiden of the Iron Peaks, who has 
+been unusually active to the west of late 
+(see The Apes and the Bird Maiden). In 
+the port of Luandar, tales circulate that 
+the Chimera is planning something in the 
+delta swamps, that travelers are missing 
+between Luandar and Lyssan, and that 
+there are bandits operating along the 
+Qatil River. 
+
+If the PCs do not want to transport 
+troops the traditional way, the Monkey 
+King (in his astrologer disguise) can use 
+his teleport ability to bring 1 unit. How 
+ever, he refuses to teleport more than 1 
+unit and he charges a hefty price for his 
+services, demanding a favor "to be named 
+later," If the PCs agree, the Monkey King 
+might call in this favor later to claim the 
+SwortPof Roele (see Concluding the Adven 
+ture) or to claim another rich treasure 
+(such as being invested in one of the PC's 
+guild holdings as a vassal). 
+
+The Chimera can magically transport 
+as many as 13 units a distance of 1 
+province, 6 units as far as 2 provinces. 3 
+units as far as 4 provinces. 2 units as far 
+as 6 provinces, and 1 unit as far as 13 
+provinces away. Any unit so transported 
+arrives in the city of Lyssan. avoiding 
+intervening kingdoms entirely. But to 
+cast the spell the Chimera must have a 
+source (0) and a ley line to the province 
+in which the units start. 
+
+
+8 
+
+
+T s 
+
+a 
+
+
+ie lands ruled by the 
+Chimera are called the 
+C himaeron, They extend 
+from the Gulf of Coeranys to 
+the dwarven realm of Baruk-Azhik, cover 
+ing most of the hills and mountains between 
+Rohrmarch and the kingdom of Coeranys. 
+The region is a safe haven for scoundrels 
+and outlaws from both the Khinasi and 
+Anuirean homelands. 
+
+The Chimaeron is nominally ruled by 
+the Chimera, but in practice she has ceded 
+control to a group of terrified, but loyal 
+vassals called the Council of Leaders. The 
+leaders know nothing of her plans, but 
+they are aware of her rivalry and interest in 
+the Three Brothers. The PCs may meet 
+members of the council in Lvssan, Careine 
+City, Ruorkhe, Luandar, Broken Hill, 
+Barniere, or Mhowe. However, an audi 
+ence with the Chimera's vassals might not 
+help as much as the PCs hope. 
+
+the council of 
+leaders 
+
+T he council knows almost nothing 
+about the Chimera's plans. They 
+hear from her only when she has 
+orders for them to carry out. If the PCs 
+claim to be her agents, they are treated 
+with fawning politeness by the council 
+members. If not, they must bribe their 
+way past unscrupulous outlaws, petty 
+bureaucrats, and stern honor guards 
+before they can speak with any council 
+member. See the Blood Enemies 
+Birthright Accessory' for more details of 
+the council's operation, and for a war card 
+representing a typical unit of the 
+Chimera's constabulary. 
+
+
+the 
+chimaeron 
+
+
+Though the council knows little about the 
+Chimera, it does know that the Three 
+Brothers seek to expand the realms of the 
+Anuirean Empire-particularly Coeranys- 
+into the old Khinasi colonies of Anuire, 
+claiming rich trading ports 
+and trade routes. They 
+view the Brothers as 
+a threat to 
+their already- 
+tenuous rule. 
+However, 
+
+they are understandably reluctant to men 
+tion this to Anuirean rulers, since the 
+council members themselves stand to ben 
+efit from Khinasi control of the western 
+lands. They also are reluctant to mention 
+this to any Khinasi rulers who come call 
+ing. After all, it might be a test of loyalty 
+by a PC ally of either the Chimera or the 
+Brothers. Charm spells, thought reading 
+magic, or lavish bribes might convince 
+them to share information. Otherwise, the 
+leaders babble courteously and keep their 
+thoughts to themselves. 
+
+luandar, lyssan, 
+fiamein, and 
+
+
+mhowe 
+
+
+T hese four towns are those the PCs 
+are most likely to visit in the Chi 
+maeron. Other towns in the region 
+are described in Blood Enemies. 
+
+Luandar is no more than a 
+village, ruled by a 
+paranoid Rjurik 
+rogue named 
+Otslof. 
+
+
+V 
+
+
+cypress valley encounter table 
+
+Roll Id 100 each day the party spends in the valley searching for the tomb. 
+
+1-20 No encounter. 
+
+21-30 Terrain impassable. Party must retreat to hex they left and choose another 
+direction. 
+
+31-35 Reptile raiders: Lizardman raiding party mounted on giant minotaur lizards; 
+thev will accept offerings of food or bribes of glittering gold or gems. 
+
+Lizardmen <ldl2): AC 5; MV 6, Sw 12: HD 2+1; hp 17, 15, 14, 13, 12, 
+ll(x2), 8(x2), 7(x2), 6; THACO 19; #AT 3; Drug Id2/ld2/ld8 
+(claw/claw/bite); SZ M (7* tall); ML elite (14); Int low (5-7); AL N; XP 65. 
+
+Giant minotaur lizard (ldl2): AC 5; MV 6; HD 8; hp 43, 41, 39, 37, 
+36(x3), 35(x2), 34, 31, 30; THACO 13; #AT 3; Dmg 2d6/2d6/3d6 
+(claw/claw/bite); SA caught in jaws for 3d6 hp damage each round on a nat 
+ural 20; SZ L; ML average (10); Int animal (1); AL N; XP 975. 
+
+36-40 Gnoll raiding party: This silent tribe raids at night, seeking prisoners and 
+plunder to take back to their camp west of the river. The gnolls are low on 
+supplies and could be bribed with food, or they might take supplies by force. 
+
+Gnoll foragers (20): AC 5; MV 9; HD 2; hp 14{x2), 13(x2), 11, 10, 
+
+9{x4), 8(x3), 6(x4), 4{x2). 3; THACO 19; #AT 1: Dmg 2d4 (battle axe); SZ L 
+(7'+ tall); ML steady (11); Int low (5-7); AL CE; XP 35(x20). 
+
+41-45 Swarm of dragonflies: A swarm of hunting dragonflies passes by the party 
+for ld3 rounds. The dragonflies do not attack the PCs unless they are 
+attacked. Then the dragonflies seek to draw blood once and retreat if the 
+fight is not going well for them. If they are undisturbed, the swarm passes 
+peacefully. 
+
+Dragonflies, giant (insect) (ld6): AC 3 (-1 vs. missiles); MV 3. FI 36 
+(B); HD 7; hp 35, 32, 30(x2), 28, 27; THACO 13; #AT 1; Dmg 3d4; SA 
+scoops size S creatures up into midair; SD -3 bonus to initiative, +4 to AC 
+against missile weapons; SZ M; ML unsteady (5-7); Int animal (1); AL N: 
+
+XP 1,400. 
+
+46-50 Cat people: Tabaxt raid both the plains and the forests: they avoid hills and 
+mountains. They carry no treasure, only their tools and their kills. 
+
+Tabaxi (8): AC 6; MV 15; HD 2; hp 15. 13, 12, 11, 9, 7, 6, 4; THACO 19: 
+#AT 3; Dmg Id3/ld3/ld3 (claw/claw/bite) or ld8 (obsidian-studded club); 
+
+SA if both forepaws hit, rake for Id4+l/ld4+l; SD surprise, surprised only 
+on a 1; SZ M (6' to 7' tall); ML steady (11-12); Int average to high (8-14); 
+AL CN; XP 420 each. 
+
+51-54 Grippli tribe: A grippli tribe lives in the treetops. If the PCs are wearing 
+
+brightly colored clothing or if they are airborne, the grippli try to attract their 
+attention. They want to trade for the bright clothing of the PCs. Several of 
+the grippli speak Common and the language of the lizard men. 
+
+Grippli (10): AC 9; MV 9, Lp 15; HD 1 + 1; hp 9(x2), 8(x2), 7(x3), 6, 4, 
+
+3; THACO 19; #AT 1; Dmg ld4 (darts or dagger); SZ S (2' tall); ML average 
+(8-10); Int very to high (11-14); AL N; XP 65. 
+
+55 Grippli scout: This grippli is named Croaker, and she is a stray from the 
+
+tribe. She is terrified; sne must bring back a kill or something stolen from the 
+tribe's enemies, the lizardmen, in order to be accepted into the tribe as an 
+adult. If the PCs offer Croaker something of the kind, she will serve as a 
+guide and henchman for the remainder of the adventure. 
+
+Grippli (1): AC 9; MV 9. Lp 15; HD 1+1; hp 9; THACO 19; #AT 1; Dmg 
+ld4 (darts or dagger); SZ S (2' tall); ML average (8-10); Int very to high 
+(11-14); ALN;XP 65. 
+
+
+10 
+
+
+
+56-59 Muckdwellers: These muckdwellers are stealthy, cowardly creatures that only 
+come out at night. Thev attempt to steal rations or small animals from the PCs' 
+camp, but will fight only to defend themselves-they much prefer to run away into 
+the underbrush or the nearest body of water if faced with anv serious opposition. 
+
+Muckdwellers (20): AC 6; MV 3, Sw 12; HD A; hp 4(x4), 3(x9), 2(x3), 
+I(x4);THAC0 20; #AT 1; Dmg ld2 (bite); SA water jet blinds; SZ T (1' tall); 
+ML average (10); Int average (9); AL LE; XP 15 each. 
+
+60-65 Crocodiles: The crocodiles sun themselves along the waterways by day, or 
+lurk in the shallows near a ford through a stream. 
+
+Crocodiles, normal (14): AC 5: MV 6, Sw 12; HD 3; hp 23, 21. 20. 18, 
+
+17, 15(x3), 14, 12, 10(x2). 9. 8: THAC0 17; #AT 2; Dmg 2d4/ldl2; SA sur 
+prise; SZ L. (8'-15' long): ML average (9); Int animal (1); AL N; XP 65. 
+
+66-75 Huge snake (1): AC 4; MV 12; HD 4+4; hp 26; THAC0 15; #AT 3; Dmg 
+
+Id8/ld8/ld3: SA poison sting (save or suffer Type F poison); SZ M (4' long); 
+ML average (9); Int non (0); AL N; XP 420. 
+
+76-80 Greater basilisk: This well-fed monstrosity has several wooden goblin spears 
+stuck in its scaly hide, festering in their wounds. Anyone able to heal the 
+basilisk gains its gratitude and devotion. It will follow' the healer around for 
+ld4 weeks as a pet, asking only for food in exchange for its protection. 
+
+Greater basilisk (1): AC 2j MV 6; HD 10; hp 47; THAC0 11; #AT 3; 
+Dmg Id6/ldb/2d8; SA poison claws, poison breath; SZ L (12' long); ML 
+champion (16); Int low (5-7); AL N: XP 7,000. 
+
+81-84 Displacer beasts: These beasts are magically charmed pets of the Chimeras, 
+sent to track the Brothers. They will wait until the party has established a 
+camp, then attack when the fire fades, or when only a single party member 
+stands watch. Thev gain +3 to their surprise roll. 
+
+Displacer beasts (ld3): AC 4: MV 15: HD 6; hp 37, 30, 26; THAC0 15; 
+#AT 2; Dmg 2d4/2d4 (first attack always misses); SD -2 to opponent's attack 
+roll, save as 12th-level fighters with +2 to roll; SZ L (S'-12' long); ML elite 
+(14); Int semi (2-4); AL N: XP 975. 
+
+85 Rhinoceros beetle (beetle, giant) (1): AC 2; MV 6; HD 12; hp 54: THAC0 
+9; #AT 2; Dmg 3d6/2d8; SZ L (12' long); ML elite (14); Int non (0); AL N; 
+XP 4,000. 
+
+86-90 Scavenging trolls; These creature live in a mud and stick den in the swamps, 
+
+but range up to an hour's walk from the swamp or river to find larger game than 
+the river provides. They are too slow to do more than strike from ambush and 
+hope to take down prey quickly. If their quarry runs, they do not pursue. 
+
+Freshwater trolls (ld6): AC 3; MV 3, Sw 15; HD 5+5; hp 26, 25, 24, 22, 
+20. 15; THAC0 15: #AT3; Dmg Id4+l/ld4+l/3d4 (ckw/claw/bite); SD 
+regeneration; SZ M (7'); ML elite (14); Int low' (5-7); AL CE; XP 650 each. 
+
+91-95 Giant albino water spiders (spider) (Id 10): AC 5; MV 15; HD 3+3; hp 
+
+22(x2), 21, 19, 17, 16, 15, 12(x2), 11; THAC0 17; #AT 1; Dmg ld4 (bite); SA 
+poison; SZ M (T diameter); ML elite (13); Int semi (2-4); AL N: XP 420 each. 
+
+DM Note: Water spiders hunt prey without webs, then take it back to 
+their underwater dens filled with air bubbles. Their speed allows them to 
+grab prev before other creatures can defend, especially at night. The lizard- 
+men and muckdwellers fear them, but grippli are safe from them in their 
+treetop villages. 
+
+96-00 Terror in the trees: This serpent tries to take one of the party's mounts or a 
+lone sentry. It will not confront a large party, preferring to hide (if it is sur 
+prised, the party has found it napping in the sun). 
+
+Mahogany constrictor: (1): AC 3; MV 6, Cl 8; HD 4+3; hp 28; THAC0 
+15; #AT 2; Dmg 3d6+venom; SA constriction, poison, displacement; SD sur 
+prised on roll ol 1. displacement; SZ H (2T long); ML elite (13); Int low 
+(8-10); AL NE; XP 1,400. 
+
+
+11 
+
+
+
+
+1 Deep 
+Shadow 
+
+
+ORKHE 
+
+
+Careine \ 
+•£** City \ 
+
+
+COERANYS 
+
+
+\Hamien 
+
+
+Ruorvan 
+
+
+Broken Hill 
+
+
+Mhowi 
+
+
+GULF OF COERANYS 
+
+
+Water fiord 
+Youghai. Harrq 
+
+
+
+
+[* KIERGARD 
+
+[U J V 
+
+, > BARUK-AZHIK \ H 
+
+" v a*/^ t 
+
+^KHURINUC 
+
+
+^ i Barn f ere! 
+
+^{^ROHRMARCH 
+
+Luan dar j| I o. *V * ^ 
+
+
+| KiHlBL 
+
+
+Tory^S 
+
+
+,jk 
+
+
+' 
+
+
+A r £-J V^ESTPOR 
+
+
+Miles 
+
+
+12 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tt is a port town, but not a rich one. Its 
+citizens are pirates and assassins. The 
+streets are dirty, urchins roam the fields 
+and docks, and little of value passes 
+through the port. 
+
+Lyssan, the capital of the Chimaeron, is 
+the seat of government for the Council of 
+Leaders. The town's stone and wood 
+houses are built on a mountain plateau. 
+Its terraced fields are spread out on the 
+plateau and below. Most of the town's 
+money comes from metalwork, mining, 
+and the arms trade. 
+
+The council meets in a large tower near 
+the eastern cliff. The mayor is Yuri 
+Khavlor, a Vos druid who lost his faith in 
+Erik when his only daughter was slain by a 
+wild boar in the forests. He has since 
+gained a love for gold and is rather blunt 
+in his requests for bribes. 
+
+Hamein is the port for the Chimaeron 
+and lies across the river from Kiedel. The 
+town's mayor is Lord Myonos. Hamein is 
+a bargaining chip for the Chimaeron 
+because its side of the river controls the 
+better harbor, Kiedel constantly silts up 
+and the city, the capital of the Rohrmarch, 
+is built on bug-infested swampland. Lord 
+Myonos controls the ferrymen between 
+the two cities, siphoning profits from 
+their honest work and making the trip 
+unaffordable for the masses and smaller 
+merchants. A "popular uprising" bv 
+Rohrmarch is alw'ays a danger, but so far 
+Lord Myonos has given his neighbors no 
+excuse for war. 
+
+Mhow r e is the richest port and the best- 
+kept city because of its distance from its 
+overlord. Ruled by the self-proclaimed 
+"Prince" Denerik, the city thrives on trade 
+and smuggling that he controls. He is an 
+expert in poisons and plots against the 
+other members of the council, and will 
+gladly help the PCs against the Chimera. 
+
+
+the vnoll 
+raiders 
+
+T he Chimera's lands are beset by a 
+band of gnolls that is raiding com 
+merce. sacking small villages, and 
+plundering the countryside. If the PCs 
+have transported their own troops here, 
+the Chimera or the Brothers may ask 
+them to defeat the gnolls to prove their 
+worthiness, as a test of loyalty, or as a wild 
+goose chase. ("You know, I've heard 
+rumors that the gnoll leader has a power 
+ful shining blade . . .") 
+
+The gnolls leave an obvious trail. When 
+the PC troops catch up with the raiders, 
+use a number of Gnoll Marauder and 
+Gnoll Infantry war cards (#73, #74, #75) 
+from the Birthright boxed set equal to 
+the number of PC troops to represent 
+the gnolls, and fight the battle normally. 
+Use the Sphinx's Gnoll Marauders cards 
+from the Blood Enemies Accessory if 
+more cards are needed (#BE20 and 
+#BE2i). If the PCs win, they are 
+acclaimed as heroes and can gather 2 GB 
+of plunder from the gnolls' baggage train. 
+If they lose, their army is scattered and 
+routed in a foreign land. 
+
+When the PCs return to their patron, 
+they will have passed the test. They are 
+immediately given another rumor (legiti 
+mate) to investigate: "Oh, you didn't find 
+the blade? My spies assured me it was 
+there. Well, there is another tale making 
+the rounds that the true resting 
+place is an ancient tomb 
+somewhere in the 
+Cypress Valley." 
+
+
+
+
+T o avoid any risks, the Brothers want 
+the PCs to travel the length of the 
+Qatil River to find and open the 
+tomb of the order. As far as they are con 
+cerned, the story about the Sword of Roele is 
+false. They can't go themselves because they 
+can't reveal their true goal to the Chimera. 
+
+The Chimera wants the PCs to go to 
+the Cypress River valley to find out what 
+
+the Three Brothers 
+are up to, and she 
+correctly suspects 
+§ that the troop move 
+ments in Kiergard 
+indicate that some 
+thing is amiss in the 
+Gorgon's realm (per 
+haps he has discov 
+ered that the sword 
+is missing). She 
+knows of the ancient 
+tomb, and she lies to 
+the PCs, offering them the Sword of Roele 
+in exchange for information about what 
+lies at the heart of the tomb. Until now. 
+she and her agents have been kept aw r ay 
+from the tomb. Of course, that only sharp 
+ens her curiosity. 
+
+The valley is home to a surprising 
+number of schemers who thrive in the 
+lawless territory in sparsely-populated 
+Coeranvs, near both the Anuirean and 
+Khinasi kingdoms. 
+
+
+into 
+cupress 
+
+valley 
+
+
+\ the lizard kin<y 
+
+The most powerful of the area's petty lords 
+is Sorminor. the Lizard King who unified 
+the reptilian swampdwellers. He 
+seeks to build a great city at the 
+mouth of the river. He has 
+commanded his followers 
+to build the city using 
+stones from the 
+mins of a prior 
+settlement, an 
+ancient 
+Masetian 
+
+
+
+
+
+
+14 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+colony that failed long ago. The Lizard King 
+and his followers live at the spot marked "L" 
+on the Cypress Valley map. 
+
+The colony was just a small trading out 
+post, What remains are not wooden huts 
+or palisades, but heaped mounds of earth 
+and the great stone serpent built by the 
+Masetians. The 550-foot long stone ser 
+pent has been somewhat eroded, undercut 
+by its proximity to the river. All the terrain 
+between the mounds and the serpent is 
+swampy and waterlogged with occasional 
+pools of standing water as deep as 12 feet. 
+
+Sorminor the Lizard King (lizard 
+man): AC 3; MV 9. Sw 15; HD 8; hp 
+43; THACO 13; #AT 1; Drag 3d6+2 
+(great trident); SA skewer; SZ L (8' 
+tall); ML (16); Int average (9); AL 
+CE; XP 975. 
+
+Skewers opponent for double dam 
+age (minimum 15 hp damage) when 
+ever the attack roll succeeds by 5 or 
+more over the score needed to hit. 
+
+Lizard man honor guard (4): AC 5; 
+
+MV 6, Sw 12; HD 2 + 1; hp 17 (x4); 
+THACO 19; #AT 3; Dmg Id2/ld2/ 
+ld8 (daw/claw/bite); SZ M (7' tall); ML 
+elite (14): Int low (5-7); AL N; XP 65. 
+
+Though Sorminor does most of the 
+thinking for the tribe, he delegates some 
+duties to the war leader. Katinnos. Katin- 
+nos leads the hunts and patrols and 
+watches the muckdwellers. Katinnos, 
+Sorminor, and the honor guard warriors 
+all live on the large western mound. 
+
+Katinnos, lizard man war leader 
+(1): AC 5: MV 6. Sw 12; HD 6; hp 
+24; THACO 15; #AT 3; Dmg ld2/ 
+Id2/ld8 (claw/claw/bite); SZ M (7' 
+tall); ML elite (14); Int low (5-7); AL 
+N; XP 270. 
+
+The Lizard King and his w r ar leader 
+sometimes consult with the tribe's shaman 
+and his two assistants, usually for divina- 
+tory or healing spells. The tribe's spiritual 
+leaders live on the smallest of the site's 
+three mounds, in a lean-to built up against 
+a dead oak tree. 
+
+
+Bristliss, lizard man shaman (1): 
+
+AC 5; MV 6, Sw 12; HD 5; hp 24; 
+THACO 15; #AT3;Dmg Id2/ld2/ld8 
+(daw/claw/bite); SA spells; SZ M (7' 
+tall); ML elite (14); Int low (5-7); AL 
+N; XP 650. 
+
+Spells: cure light wounds, entangle, 
+light; aid, heat metal ; prayer. 
+
+Lizard man undershamans (2): AC 
+5; MV 6, Sw 12; HD 3; hp 18. 9; 
+THACO 17; #AT 3; Dmg Id2/ld2/ld8 
+(claw/claw/hite); SA spells; SZ M (7' 
+tall); ML elite (14); Int low (5-7); AL 
+N; XP 175. 
+
+Spells: cure light wounds, entangle; 
+aid. 
+
+The tribe's warriors are suspicious of 
+Katinnos, for he sometimes questions the 
+orders of Sorminor, whom they regard 
+with awe. The warriors live on the second 
+large mound and share the space with the 
+tribe's lizard mounts. 
+
+Sorminor is responsible for the expedi 
+tion into the Iron Peaks that brought the 
+tribe four giant minotaur lizard eggs, a 
+type of lizard that normally doesn't live in 
+swamps. The eggs were hatched and the 
+lizards were trained to serve the tribe as 
+mounts. The warriors consider tending 
+them an honor. When riding minotaur 
+lizards into battle the lizardmen gain all 
+the usual benefits of mounted cavalry (+1 
+bonus to hit, +1 bonus to AC). 
+
+Lizard man warriors (36): AC 5; 
+MV 6. Sw 12; HD 2+2; hp 15, 14(x3). 
+13(x4), 12(x5), ll(x4), 10{x4), 9, 
+8(x6), 7(x2), 6, 5(x2), 4(x2), 3; 
+THACO 19; #AT 3; Dmg Id2/ld2/ 
+ld8 (daw/claw/bite); SZ M (7' 
+tall); ML elite (14); Int low 
+(5-7); AL N; XP 65 each. 
+
+
+15 
+
+
+
+City of the Lizard King 
+
+
+to * Muckdwellers 
+
+
+POOLS OF SWAM PWATER 
+
+
+Stone Serpent^-• 
+
+1 ,Yl -U> < 0 > 
+
+
+Ml. .514 
+
+chief;,. 
+
+
+King and 
+
+
+,1/ OLD DEAD TREE 
+
+
+STONEWORK 
+* J DESTROYED. 
+
+
+^CUT BY RIVE 
+
+W ( 
+
+River , 
+
+
+16 
+
+
+
+
+
+
+
+
+
+
+
+
+Giant minotaur lizards (4): AC 5; 
+
+MV 6; HD 8; hp 41, 32. 25, 24; 
+THACO 13; #AT 3; Dmg 2d6/2d6/ 
+3 d6 (claw/claw/bite); SA caught in 
+jaws for 3d6 each round on a natural 
+20 ; SZ H (40' long); ML average (10); 
+
+Int animal (1); AL N; XP 975 each. 
+
+The lizard men both protect and enslave 
+many tiny muckdwellers that live along the 
+river. Though they are not brave, the muck- 
+dwellers make small guerilla attacks against 
+hostile parties within the tribe's camp, then 
+quickly withdraw. If the lizard men are los 
+ing the battle, the muckdwellers are the 
+first to flee. The muckdwellers live along 
+the length of the stone serpent, in small 
+holes and burrows near the waterline. 
+
+Muckdwellers (20): AC 6; MV 3, Sw 
+12; HD hp 4(x4), 3(x9). 2(x3), 
+l(x4): THACO 20; #AT 1; Dmg ld2 
+(bite); SA water jet blinds; SZ T (T 
+tall); ML average (10); Int average 
+(9); AL LE; XP 15 each. 
+
+The tribe is still excavating the ruins 
+and learning to build with stone. Their 
+treasure is 600 ep and four 100-gp pearls. 
+
+the apes and the 
+bird maiden 
+
+Living among the hills east of the valley is 
+a bird maiden named Jamila al-Hamam. 
+She is the patron and mentor of a small 
+tribe of carnivorous apes who are her fol 
+lowers and loyal servants. Her nestlike 
+cliff dwelling is at the spot marked "B" on 
+the Cypress Valley map. The apes roam 
+the forest west of there, occasionally 
+going south to the area of the tomb. 
+
+
+
+
+
+17 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+f /r 
+
+
+Cypress Valley 
+
+
+
+
+* Iron ^ 
+
+i * Peaks 
+
+± ?7 <W" <U iW 
+
+
+<V 
+
+
+*p £ 
+
+,'f 
+
+>* 
+
+
+COERANYS 
+
+N 
+
+
+
+
+v c^r 
+
+
+B = Bird Maiden 
+C = Cypress Tower 
+L = Lizard King 
+X = Temple Ruins 
+
+
+1 MILE 
+
+
+Lyssan 
+
+
+ST 
+
+Luandar 
+
+
+
+
+
+
+
+
+
+
+
+Jamila al-Hamam (swanmay): AC 
+7; MV 15 or 3, FI 36 (C>; HD 7; hp 
+59; THACO 16; #AT 2 or 1; Dmg 
+l/ld3 (peck/claw) or Id6/ld6 
+(arrows) or Id3/ld3/ld3 (darts); SA 
+spells; SD +2 or better weapon to hit; 
+SW token required to change form, 
+destroying veil destrovs bird maiden; 
+MR 35%; SZ M; ML elite (13): Int 
+exceptional (15); AL LN; XP 3,000. 
+
+Jamila al-Hamam can assume the 
+form of a dove if she has her veil of 
+feathers. She casts spells from the 
+All, Animal, Divination, Elemental, 
+Healing, Plant, and Weather spheres, 
+minor from Creation. Protection, and 
+Sun spheres. 
+
+S 10, D 10. C 18.1 15, W 13, Ch 11. 
+Personality; Learned, patient, sees 
+through lies and evasions. 
+
+Special Equipment; short how +1, 10 
+arrows, ring of invisibility, potion of 
+extra-healing. 
+
+Spells (4/3/2/1): 1st -cure light 
+wounds, entangle, faerie fire, sanctuary ; 
+2 nd -heat metal, slow poison, warp 
+wood ; 3rd -call lightning, continual 
+light; 4th- divination. 
+
+
+If the PCs ask al-Hamam to aid them in 
+their search for the Great Tomb, she 
+offers to learn what she can with her div 
+ination spell in exchange for a hefty offer 
+ing to her friends the apes (a horse, two 
+mules, or three boars as a minimum). She 
+learns that they must "go to the tower of 
+the eye and speak to the stones." 
+
+Al-Hamam's adopted tribe is a group of 
+:arnivorous apes, led by a gray-backed 
+male named Grushtor. 
+
+Grushtor, carnivorous apes (5): AC 
+6 ; MV 12, 9 in trees; HD 5; hp 34, 
+27, 26, 25, 21; THACO 15; #AT 3: 
+Dmg Id4/ld4/ld8; SA +2 to surprise 
+roll; SZ L (7'+); ML steady (12): Int 
+low (5-7); AL N; XP 175. 
+
+
+The carnivorous apes are excellent 
+stalkers in the forest, and the Monkey 
+King has used them to help him find what 
+he needs and to help him observe the 
+Brothers, the Chimera, and the PCs. 
+
+the towers of 
+the three 
+brothers 
+
+T he Three Brothers have towers in 
+Hamein and Mhowe in the Chi- 
+maeron, and one in the province of 
+Misti I in the kingdom of Coeranvs (where 
+they have most of their holdings). They 
+hope to seize another source in the Hvdra s 
+swamp or the mountains of Baruk-Azhik, 
+hut the Chimera has kept them too busy 
+defending what they have to contemplate 
+any further expansion. The provinces 
+where they control sources are listed here. 
+The first four are all in Coeranys. 
+
+
+Sources 
+
+Province Source 
+
+Deepshadow (3/2) TBM (2) 
+Duomil (2/3) TBM (3) 
+
+Mistil (2/3) TBM (3) 
+
+Ranien (2/3) TBM (3) 
+
+Hamein (1/5) TBM (4) 
+
+Mhowe (2/4) TBM (4) 
+
+
+the ivory tower 
+
+The Ivory Tower is the home of the eldest 
+brother, Meganno the Sorcerer. It stands 
+at the southern tip of the Chimaeron in 
+the city of Mhowe, the capital of the 
+province of Mhowe, a seaport and j 
+shipment point for smugglers from 
+both east and west. The tower is 
+20 feet in diameter, 60 feet 
+high, and has four floors. 
+
+The tower is made , 
+of cream-colored 
+bricks. The win 
+dows look like 
+dark caves set 
+in the face 
+
+
+19 
+
+
+
+1st Floor 
+
+
+1st Floor 
+
+
+River 
+
+
+Dining 
+
+
+Dock 
+
+
+Wizard 
+
+Locked 
+
+
+2nd Floor 
+
+
+Current 
+
+
+Kitchen 
+
+
+Down 
+
+
+Rowena's 
+
+Rooms 
+
+
+2nd Floor 
+
+
+Down 
+
+
+The Ivory 
+Tower (Mhowe) 
+
+
+The Ebony 
+I Tower 
+I (Hamein) 
+
+
+3rd Floor 
+
+Jatim's Rooms 
+
+
+To Roof 
+
+
+?T 3rd Floor 
+^Avicerra's Room 
+
+Rajnblossom's Room 
+
+
+Down 
+
+
+4th F loo ^ 
+
+Meganno's Room and Lab 
+
+
+Rassan's 
+
+
+2nd Floor 
+
+
+Garfong's Room 
+
+
+Room 
+
+
+3rd Floor 
+
+
+Kitchen 
+
+
+Rassan's 
+
+
+Library 
+
+
+Salon 
+
+
+4th Floor 
+
+
+The Cypress Tower 
+(near Tomb) 
+
+
+1st Floor 
+
+
+Storage 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+of the light stone. Meganno has two 
+young female apprentices and a unit of 
+men-at-arms on the tower grounds (use 
+Anuirean infantry card, BR#17), 
+
+Meganno the Sorcerer (MKh: W12; 
+Ma, minor, 15; N): AC 6 ( bracers of 
+protection AC 7, Dexterity); MV 12: 
+hp 47; THACO 17 (15 with staff); 
+#AT 1: Dmg ld6+2 {staff of striking) 
+or 2d6+4 {staff of striking using 1/2/3 
+charges) or bv spell; S Z M: ML elite 
+(14); XP 7,000. 
+
+Blood Ability" Iron Will. 
+
+Physical Appearance: With their 
+dark hair and olive skin, the Three 
+Brother Mages are obviously Khinasi. 
+
+S 12, D 15, C 15.1 17, W 14, Ch 12. 
+Personality: Forceful and diplo 
+matic. He moves pragmatically 
+rather than rashlv. 
+
+Spellbook (4/4/4/4/4/1): 1st- 
+cantrip*, comprehend languages, iden 
+tify, magic missile*, read magic, shock 
+ing grasp*, spider climb*; 2nd-con 
+tinual light*, darkness 15' radius *, 
+ESP, fang of the adder (t), knock, 
+invisibility, mirror image*, rope trick, 
+spectral hand*, stinking cloud; 3rd- 
+armor inversion (t)*, haste*, lightning 
+bolt*, wraith form*; 4th- enervation *, 
+fire shield*, ice storm*, impotence (t), 
+stoncskin*, true darkness (t); 5th- 
+cloudkill*, cone of cold*, teleport*, 
+vuhierability, wall of stone*; 6th- 
+nemesis, (t)* Tenser's transformation, 
+wall of swords (t), wall of shadows (t). 
+Realm Spellbook: alchemy, forge ley 
+line, summon monsters, transport. 
+
+* Favored spell, (t) new spell, 
+
+Meganno keeps the Brother's treasury', 
+a total of 10 GB. hidden in a portable hole 
+which he keeps folded up and neatly 
+tucked into a scroll tube that hangs from 
+his belt at all times. The tube is protected 
+by an alarm spell. 
+
+Meganno s two apprentices couldn't be 
+
+
+more different. One is a red-haired, half- 
+Vos wild woman from the north, the other 
+a serious, cultured Khinasi follower of 
+Ayani who trained at the university of 
+Ajami. They both have similar levels of 
+skill, both young mages just beginning to 
+master the art of magic. 
+
+Rowena (FVs; M2; NE): AC 10: MV 
+12; hp 7; THACO 20 (19 with 
+Strength bonus): #AT 1; Dmg Id6+1 
+(staff) or by spell; SZ M; ML average 
+(10); XP 65. 
+
+S 16, D 12, C 13,114, W 11, Ch 11. 
+Personality: A free spirit with little 
+concern for others. 
+
+Spells (2): 1st- magic missile, spider 
+climb. Carries a scroll containing wall 
+of swords, 
+
+Jatim (FKh; M2; LN): AC 6 (Dex 
+terity): MV 12; hp 5; THACO 20; 
+#AT 1; Dmg ld6 (staff) or by spell; 
+
+SZ M: ML average (10); XP 65. 
+
+S 11, D 18, C 14.116, W 11, Ch 13. 
+Personality: Studious, passionate 
+about learning. 
+
+Spells (2): 1st- comprehend lan 
+guages, identify. Carries a scroll of wall 
+of shadows. 
+
+The Ebony Tower 
+
+The Ebony Tower is the home of the middle 
+brother, Avicerra the Wise. It stands in the 
+province of Hamein, just across the Khurin- 
+bym River from the city of Kiedel, capital of 
+Rohrmarch. Avicerra's tower is constantly 
+patrolled by a pack of baboons. These ani 
+mals have been traditionally used 
+as guard or policing animals, 
+much as dogs are used among 
+the Anuireans. 
+
+The black stone tower 
+has three stories, and 
+the baboons con 
+trol the lower 
+two. The front 
+
+
+
+
+
+
+
+21 
+
+
+doors are permanently wizard-locked, hut 
+the doors onto the docks are not. Avicerra 
+rarely comes down from the top floor by the 
+stairs. He prefers to feather fall down. 
+
+Avicerra the Wise ( MKh; W9; Ma, 
+minor, 15; N): AC 10 (stonesfein 
+absorbs first ld4+4 attacks); MV 12; 
+hp 32; THACO 17; #AT 1; Dmg 
+
+ld6+2 (staff of thunder and lightning) 
+or ld4 (dagger) or bv spell; SZ M; 
+ML elite (14); XP 3.000. 
+
+Blood Ability: Iron Will. 
+
+Physical Appearance: With their 
+dark hair and olive skin, the Three 
+Brother Mages are obviouslv Khinasi. 
+
+S 9, D 11. C 15,1 16, W 16, Ch 13. 
+Personality: Thoughtful, conserva 
+tive in his actions. 
+
+Special Equipment: staff of thunder 
+and lightning (24 charges). 
+
+Spellbook (4/3/3/2/1): 1 st- cantrip, 
+comprehend languages*, feather fall *, 
+identify, magic missile*, read magic, 
+shocking grasp*, spider climb; 2nd- 
+continual light, darkness 15' radius, 
+ESP*, knock, invisibility*, mirror 
+image*, rope trick, spectral hand , 
+stinting cloud*; 3rd -armor inversion 
+(t)*, haste, lightning bolt*, wraith- 
+form*-, 4th- enervation*, fire shield*, 
+ice storm*, impotence (t). stonesfein, 
+true darkness (t): 5th- cloudkill*, 
+cone of cold*, teleport*, vulnerability, 
+wall of stone*. 
+
+Realm Spellbook: alchemy, forge ley 
+line, summon monsters , transport. 
+
+* Favored spell, (t) new spell. 
+
+The baboons roam the tower's 
+grounds at will, often sitting in 
+the trees or on window' sills 
+to view their surroundings 
+(so they are less likely 
+to be surprised). 
+
+
+
+Guard baboons (33): AC 7; MV 12, 
+
+12 in trees; HD 1+1; hp 2-9; THACO 
+18; #AT 1; Dmg ld4; SZ S (4' tall); 
+ML unsteady (7); Int animal (1); AL 
+N; XP 35 each. 
+
+The baboons make a huge fuss 
+when they see strangers, hooting, 
+throwing scraps of food, and gener 
+ally making enough racket to alert 
+the entire household. 
+
+the cypress tower 
+
+The Cypress Tower is the home of the 
+youngest brother, Rassan the Hasty, and it is 
+the newest tower of the Three Brother 
+Mages. It is four floors high and divided into 
+three sections at the top. Built in the depths 
+of the forest near the Tomb of the Order, it 
+is well protected by magical wardings and 
+connected by a ley line to the source in 
+Deepshadow. The Brothers hope to seize 
+the source here (in the province of Careine) 
+when the Chimera is otherwise occupied. 
+
+The tower is guarded by a powerful gob 
+lin bodyguard and a seductive svlph, as well 
+as Rassan. The goblin serves for money and 
+in gratitude for the mage who raised him 
+after he was abandoned by his parents on a 
+caravan route in the wake of a disastrous 
+raid. The sylph serves him out of love, and 
+would lay down her life to save his. 
+
+Rassan the Hasty (MKh; W8; Ma, 
+minor, 15; NE); AC 7 (ring of pro 
+tection +2. Dexterity); MV 12; hp 30; 
+THACO 18 (17 with darts); #AT 1 or 
+3; Dmg ld6 (staff) or Id3/ld3/ld3 
+(darts) or by spell; SZ M: ML cham 
+pion (15); XP 3,000. 
+
+Blood Ability: Iron Will. 
+
+Physical Appearance: W r ith their 
+dark hair and olive skin, the Three 
+Brother Mages are obviously Khinasi. 
+
+S 12, D 15, C 15, 1 14, W 7, Ch 15. 
+Personality: Rash, operates from intu 
+ition more than reason. Gregarious 
+
+
+and friendly with visitors. 
+
+Special Equipment: wand of frost (29 
+charges), ring of protection +2, cloak 
+of the feat, scarab of protection, and 
+potion of invulnerability. 
+
+Spellbook (4/3/2/1): 1st- cantrip, 
+comprehend languages*. identify, magic 
+missile **, read magic, shocking grasp*, 
+spider climb: 2nd -continual light*, 
+ESP*, knock, invisibility, mirror image, 
+rope trick *, spectral hand, stinfeing 
+cloud: 3rd -armor inversion (t), haste*. 
+lightning bolt*, wraithform: 4th- ener 
+vation, fire shield *, ice storm*, impo 
+tence (t), stoneskin *, true darkness (t): 
+5th- claudkill, cone of cold, teleport*, 
+vulnerability, wall of stone. 
+
+Realm Spellbook; alchemy, forge ley 
+line, summon monsters, transport. 
+
+* Favored spell, (t) new spell. 
+
+Fitnat, monkev familiar (mammal, 
+small): AC 7: MV 9; HD 1+1: hp 11; 
+THACO 19: #AT 1; Dmg 1; SZ S (T 
+tall): ML average (9); Int semi (3); 
+AL N: XP 35. 
+
+Shares sensory powers with its 
+master. Extra hp are because of its 
+master's level when he summoned it. 
+
+Rassan is almost always home and is 
+always happy to have visitors. Anyone 
+who pays him even the most basic courte 
+sies is treated very well. No one ever 
+accused Rassan of breaching any law of 
+hospitality; date wine, figs, and swe£t deli 
+cacies are always offered, even to those 
+who have done him wrong in the past. Of 
+course, Rassan is no fool. His bodyguards 
+are never far away, and his spells are 
+always at his fingertips. 
+
+Cerilian finale elite goblin, F8): AC 
+3 (banded and shield); MV 6; hp 68; 
+THACO 13 (12 with spear, 10 with 
+axe); #AT 3/2 or 2; Dmg ld6+l 
+(spear) or ldS+4 (battle axe); SD 60' 
+infravision; SZ M (5' tall): ML cham 
+pion (15); AL LN; XP 1.400. Special 
+ized with battle axe. 
+
+S 17. D 13, C 17.1 10. W 8, Ch 14. 
+Personality: Obsessed with duty and 
+honor. 
+
+
+Special Equipment: battle axe +1, 
+shield of reflecting (as a ring of spell 
+turning twice/day). 
+
+The young goblin warrior is both hum 
+ble and very talented. He is secretly proud 
+of his martial skills, and hopes to return to 
+his people one day when he has repaid his 
+debt to Rassan, and show goblinkind the 
+meaning of warrior might. 
+
+Rainblossom, sylph (elemental, air 
+kin): AC 9: MV 12. FI 36 (A): HD 3: 
+hp 22: THACO 17; #AT 0; Dmg 0; SA 
+spells as 7th-level wizard, invisible at 
+will, summon an air elemental 
+once/week; SD spells; MR 50%: SZ 
+M (5' tali); ML elite (14); Int excep 
+tional (15); AL N (G); XP 3.000. 
+Personality: Loving, serious, often 
+naive. 
+
+Spells (4/3/2/1): 1st -charm person, 
+magic missile, shield, phantasmal force ; 
+2 nd- blur, stinfeing cloud, summon 
+swann: 3rd- haste, sepia snake sigil: 
+
+4 th- domination. 
+
+Rainblossom is a special sylph, 
+one that Rassan found on an expedi 
+tion to gather material while con 
+structing his wand of frost. The two 
+have been inseparable ever since. 
+
+rassan's tale 
+
+If the PCs approach the Cypress Tower 
+peacefully, they are admitted by Rainblos 
+som and ushered into Rassan's study, 
+where they are treated to lavish hospitality 
+(Garfang acts as waiter and butler) and 
+kind courtesy. If the PCs ask for details 
+of what the bard meant about the 
+Sword of Roele, Rassan replies: 
+
+
+
+
+
+
+
+In the course of my studies I have found 
+that the sword of Michael Roele was not 
+lost in the Gorgon's Crown, as many 
+believe. It wets taken by some of Prince 
+Raesene's dwarf servants, those who 
+forged it long ago, and given to an 
+ancient order of Khinasi knights. The 
+knights are long gone, but the sword is 
+probably still in their treasury-and 
+only I know where it lies hidden. 
+
+My brothers and I can be quite gen 
+erous. We will let you keep the sword if 
+you find something else for us-a magi 
+cal gate that is said to exist at the heart 
+of their treasury, beyond four great 
+arches, in the east. 
+
+You can ask any of my brothers. They 
+will tell you the same. 
+
+If the PCs have questions, Rassan is 
+happy to answer them as best he can. 
+Assuming they accept the deal, Rassan 
+tells them that the treasury (he doesn't 
+call it a tomb) lies "somewhere along the 
+River Qatil in Western Chimaeron." 
+
+He asks the PCs if they require shelter. 
+They are put up for the night if necessary, 
+then treated to a rich Khinasi breakfast 
+and shown on their way. He speaks to his 
+brother Meganno regarding the bargain 
+he has struck. Meganno follows the PCs' 
+progress through his crystal ball. 
+
+the oak tourer 
+
+Clearly of elven workmanship, this ancient 
+tower in the province of Deepshadow in 
+Coeranvs is the last refuge of the Three 
+Brother Mages from the Chimera. 
+
+The Monkey King currently makes his 
+home in this tower, largely because 
+he enjoys using the crystal ball at 
+the top of the tower to watch 
+what the Chimera, the PCs, 
+and the Three Brother 
+Mages are doing. 
+
+
+
+24 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+30 FEU 
+
+
+Up 60 
+
+
+Cypress Tower 
+
+
+ForeSt 
+
+Underground Tomb 
+
+
+Entrance,^' 
+
+
+Towere Eye 
+
+
+Temple Runs 
+
+-vwo 
+
+
+Side View' of hie Tomb (From the West] 
+
+
+
+
+Chasm of Fmth 
+
+
+tiM-t Qi Min.no^ 
+
+
+CHAMBER OF MjiMsHAI.I.s 
+
+
+f, * t m ¦ J" 
+
+
+Down ifi Area 10 
+
+
+-'-.'.1 -Li* 
+
+
+
+
+
+
+25 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+H- 
+
+
+I n the days before the Anuireans came 
+to Khinasi, when the land was still 
+ruled by the Basarji traders, an order 
+of flying knights defended the city-states. 
+This was the Order of the Sun, a brother 
+hood of paladins, chosen from the ranks 
+of the soldiers of Avani, goddess of the 
+sun. Their dead were buried in an elabo 
+rate tomb complex on the Qatil River, but 
+that complex was eventually abandoned 
+when the 
+order 
+retreated 
+from the 
+advancing 
+Anuirean 
+armies. 
+
+The order 
+defended the 
+Khinasi against the 
+Anuireans during the 
+expansion of the Anuirean 
+empire, but fell apart when 
+their ranks were decimated in battle with 
+Emperor Alandaiae. The last of their 
+strongholds, in Djafra, fell in the year 
+1207 Masetian Reckoning (-281 MR) to a 
+local warlord. 
+
+the architect 
+
+W hile the knights fought for the 
+protection of the innocent and 
+the priests sought to use reason 
+to bring enlightenment to the Basarji, they 
+hired a mage named Djuhah el-Mimar, 
+the Architect, to build a tomb worthy of 
+their heroes. El-Mimar asked only 
+that he be well-paid and that he 
+and his helpers be buried in 
+the tomb as well. 
+
+
+Unknown to the Order of the Sun, they 
+had invited a viper into their midst. El- 
+Mimar was a necromancer as well as an 
+
+architect, 
+and he 
+planned to 
+return from 
+his own 
+death as a 
+lich. with 
+enough 
+power to 
+
+seize and control the distant 
+site he had chosen for the 
+Great Tomb of the Order, far 
+from the Cities of the Sun 
+(but, as he told the priests, conveniently 
+close to the Anuireans, who required close 
+watching). 
+
+Using a transmute rock to mud spell, el- 
+Mimar completed the excavation in record 
+time. The tomb's elaboration, finishing, and 
+detail work took much longer. The priests 
+were alarmed when they first heard of their 
+architect's proposed traps, some of which 
+were quite deadly and not in keeping with 
+their teachings. Though the architect 
+assuaged their fears, saying these stern 
+measures were required to "ensure the 
+safety and sanctity of the honorable dead," 
+one of the last acts of the priests was to cre 
+ate a set of golems guarding the main pas 
+sage of the tomb, to prevent any foul play 
+on et-Mimar's part, for they regarded him 
+with increasing suspicion. 
+
+
+the qreot tomb 
+
+of the order of 
+the sun 
+
+
+the riverbank 
+
+T he tomb of the order lies beneath a 
+small cliff by the river. The entrance 
+to the tomb once looked out over 
+the sea itself, but centuries of silt carried 
+down the river have spread the marshy 
+delta miles downriver. 
+
+The entrance to the tomb is overgrown 
+
+
+26 
+
+
+
+Tempue of Avani 
+
+
+Library 
+
+
+Priest's Quarters 
+
+
+Stables 
+
+
+but still accessible and is in the spot 
+marked Entrance on the map. Few living 
+creatures still know where the entrance 
+can be found. They include the giant Ken- 
+gri {see The Sleeper's Gate), the priest 
+haunt {see The Temple Rttirts). and the bird 
+maiden Jamila al-Hamam (see The Apes 
+and the Bird Maiden). 
+
+the temple 
+mins 
+
+utside the tomb, atop the cliff, lie 
+the ruins of a temple to Basaia, 
+Avani's forerunner, who w T as 
+destroyed at Deismaar. The temple is 
+haunted by the spirit of Basarej. the last 
+high priest of the temple, cut down by 
+Anuirean knights. The haunt has useful 
+information but will not speak at first. He 
+will try to possess a party member if he 
+can. If he succeeds, he tries to walk into 
+the tomb with the possessed body, fight 
+
+
+ing past the troglodytes (Areas 1 and 2) 
+and using the passwords to get past the 
+golems (Area 18). Unless he has pos 
+sessed the body of a very powerful lighter, 
+he probably won't make it. 
+
+If possession fails or the haunt is 
+turned, he explains that he remains here 
+rather than going into the Shadow World 
+or the afterlife because the burial services 
+for Yezeed el-Sams, the last knight to be 
+buried in the tomb, were never carried out 
+(see Area 22). The haunt cannot reach 
+the tomb, but he will ask to be allowed 
+to possess one of the PCs and carry' 
+out the rites himself, to lay his 
+spirit to rest. Any PC who 
+grants permission should 
+gain an immediate story 
+aw'ard of 500 XP. If not 
+granted permission, 
+the haunt 
+
+
+' : V 
+
+* I L d 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+asks the PCs to carry out the rites for him. 
+For Basarej to carry out the rites him 
+self, however, requires that he use the pos 
+sessed body to gather his consecrated 
+priestly items and vestments from beneath 
+the temple's altar. Touching the altar with 
+the body of an unbeliever releases a fire 
+elemental, a servant of the goddess. 
+
+Fire elemental: AC 2; MV 12: HD 
+16; hp 80; THACO 5: #AT 1; Dmg 
+3d8; SA flammable objects struck by 
+elemental must make save vs. magical 
+fire at -2 or immediately begin to 
+bum; SD -t-2 or better weapon to hit; 
+SZ H (16' tall); ML fanatic (17); Int 
+low (5-7): AL N; XP 10,000. 
+
+The elemental cannot cross the river, 
+but it remains for three days before it 
+burns out all flammable materials within 
+500 yards of the temple and is forced to 
+return to the Elemental Plane of Fire, 
+
+If the PCs approach the haunt peace 
+fully or give him an offering, the haunt is 
+appeased and does not attempt to possess 
+a PC. If the PCs sw'ear an oath on their 
+royal blood to give the knight's spirit a 
+proper burial, the haunt tells the PCs the 
+password to disarm the force-spear trap in 
+the Hall of Force-''Hudanat" (Area 37), 
+the magic words Qantarat and Zill that gov 
+ern the Bridge of Sighs and Shadows (Area 
+9), and the danger of the golden lions in 
+the Chamber of Marshalls (Area 38). 
+Breaking the oath will reduce the PCs' 
+bloodline by ld6 to ldlO bloodline points, 
+depending on how they treat the oath 
+(unable to fulfill it, ignoring it, or stealing 
+from the body they swore to bury). 
+
+High Priest Basarej (haunt): 
+
+AC 0/victim's AC; MV 6/as vic 
+tim; HD 5/victim's hp; hp 21; 
+THACO 15; #AT 1; Dmg 
+drain 2 points Dexter 
+ity; SA possess body 
+at 0 Dexterity; 
+SW hold person 
+
+
+or dispel evil may eject haunt from 
+host body; SZ variable: ML champion 
+(16); Int'non (0); AL LG; XP 2,000. 
+
+Basarej's treasures are the holy sym 
+bol (50 gp), garments (gems worth 200 
+gp). and holy aspergill (100 gp) that he 
+has stored beneath the altar. He gladly 
+gives them to a worthy priest or the per 
+son whose body allowed him to find 
+eternal peace, 
+
+the tower 
+of the eye 
+
+O pposite the temple, on the west 
+ern side of the river, lies the intact 
+tower of the order, a fortress and 
+lookout point topped by a warning beacon 
+in times past. The tower was breached by 
+magic (the disintegration of the western 
+wall is still clearly visible) and sacked 
+twice, once when the Anuireans first 
+crossed the Khinasi border, and once 
+when they were driven out. 
+
+A great four-walled keep with its four 
+comer towers stands on the western side 
+of the river The northwestern tower is 
+crowned with an enormous nest of 
+branches, like a large stork's nest. Vow 
+hear a powerful eagle's cry and see a 
+tiny black figure circling far above. 
+
+The tower is now home to two griffons, 
+the wild descendants of the order's mounts 
+from long ago. Their nest covers the top of 
+the northwest tower, 60 feet up. The lad 
+ders that once led up from the ground floor 
+to the tops of the towers are gone, rotted 
+away or converted to nesting material. 
+
+Griffons (2): AC 3; MV 12, FI 30 
+(C, D mounted); HD 7; hp 40, 27; 
+THACO 13; #AT 3; Dmg Id4/ld4/ 
+2d8 (claw/claw/bite); SZ L (9* long); 
+ML steady (12); Int semi (2-4); AL 
+N; XP 650 each. 
+
+
+The griffons have amassed consider 
+able treasure over the centuries, as they 
+
+
+and their ancestors took various baubles 
+from passing travelers and caravans. 
+Most of their nest is made of horse bones, 
+skulls, and the bones of smaller animals, 
+but many valuables are among the 
+remains. The treasure includes four bolts 
+of silk cloth (100 gp each), 8,000 sp, a 
+gold necklace set with a black opal (500 
+gp), a bracelet of silver with a repeating 
+design of feathers (100 gp), a silver ring 
+of excellent workmanship carved to 
+resemble a running pack of wolves (200 
+gp), and a flask of oil of fiery burning , A 
+rod of splendor (5 charges) is woven into 
+the nest, though the PCs can find it only 
+by employing a detect magic or similar div 
+ination. It is too deeply buried to find 
+without taking the nest apart (an eight- 
+hour job for one worker), 
+
+
+the sleeper's 
+
+
+f ¦ ^he bridge over the river is guarded at 
+either end by a ruined gate left over 
+from a time when this was a 
+defended border crossing. The bridge is 
+creaky but solid. The eastern gate has an 
+unusual statue just outside it, called the 
+Sleeping Kengri. The statue is more than 20 
+feet long and resembles a giant in repose. In 
+fact, it is a petrified sleeping giant, 
+enchanted to wake whenever robbers seek 
+to despoil the tomb. Of course, the giant 
+can also be woken with a transmute stone to 
+flesh spell or a successful dispel magic. 
+
+Kengri (storm giant, Cerilian): AC 
+-6: MV 15, Sw 15: HD 19+7; hp 104: 
+THAC0 3: #AT 1; Dmg ldlO or by 
+weapon (3dl0+12); SA spells; SD 
+immune to electricity; SZ G (26 
+tall): ML fanatic (18); Int exceptional 
+(16); AL CG: XP 15,000. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+In battle. Kengri levitates himself and 
+one opponent high above the battle (mis 
+siles shot into the air have a 1 in 4 chance 
+of hitting a human size opponent instead 
+of Kengri), He calls on the griffons of the 
+tower for aid (he's been asleep for cen 
+turies and doesn't know that they've gone 
+wild). Surprisingly, responding to some 
+dim racial memory, the wild griffons 
+answer his summons and help him in the 
+airborne combat. Assuming he wins the 
+fight, he then summons a storm and pur 
+sues the rest of the party with call light 
+ning and lightning bolt spells. 
+
+If he is not attacked by the party, Ken 
+gri will gladly speak to the warriors in an 
+ancient dialect of the Khinasi tongue. Anv 
+Khinasi native can understand him with a 
+successful Intelligence check at a -5 
+penalty. Otherwise magic is required. He 
+assumes that the PCs have come to seek 
+membership in the order, or that they are 
+members from another stronghold of the 
+order come to restore the tower fortress 
+on the other side of the river. 
+
+If the PCs communicate clearly and 
+politely, perhaps offering a gift or news of 
+the outside world (the giant still hasn't 
+
+
+
+heard that el-Arrasi freed the Basaiji from 
+the Anuireans). the giant may well be won 
+over and reveal the entrance to the tomb, 
+just to the north. 
+
+Kengri has never been inside the tomb, 
+and so cannot tell the party what lies 
+within. All he knows is that the tomb con 
+tains the remains of the "brave knights 
+who defended the creatures of the valley 
+against the slaughter of the Anuirean 
+armies." Any PC who proclaims allegiance 
+to Anuire is instantly challenged by Ken 
+gri to single combat. Those who decline 
+are cowards in his eyes, and Kengri orders 
+them to leave the area immediately. 
+
+Kengri is one of only a few creatures 
+who know where the entrance to the tomb 
+is hidden. If he is convinced that the PCs 
+have a good reason for entering the tomb 
+(such as laying the ghost of the priest in the 
+temple to rest), he tells them where to look, 
+Otherwise, they will have to ask the muck- 
+dwellers (see the Cypress Valley Encounters 
+Table) or other swamp inhabitants. 
+
+
+
+
+
+
+
+
+
+
+
+
+jr 
+
+y mv ii'ii" 1 " 
+
+w /t ** .j 
+
+^WSm ^ 1 
+
+, y'jpSv v .yS\ g^.Trc'lii | 
+
+
+
+
+
+r" fk: 
+
+i 
+
+
+¦ V(r) 'Nil 
+
+WN IlKNlll 
+
+Mb &&&' -fri&v ¦ - ,.c . - fl 
+
+1 
+
+| 
+
+
+mm 1 1 
+
+~ * 
+
+
+
+
+jMp -I'll 
+
+
+
+30 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+the lesser 
+chambers 
+
+T he lower set of chambers was con 
+structed first and was for those 
+warriors whose valor was great 
+enough to guarantee them a place in the 
+order's pantheon of heroes. The architect 
+used transmute rock to mud spell to carve 
+out 20- by 20-foot areas. The ceilings are 
+all 12 feet high (tall enough for hunched 
+giants and upright golems to pass 
+through). The halls are unlit except where 
+noted otherwise. 
+
+1. The Entrance: The entryway is well 
+hidden by vines and leaves and resembles 
+a small hole or cave entrance-just large 
+enough for a halfling or dwarf tunnel 
+fighter to wriggle into. The entrance was 
+once a series of broad steps carved into 
+the rocks, but they were completely 
+buried when the entrance was deliber 
+ately collapsed. 
+
+Anyone searching the ground around 
+the hole can see a small path leading from 
+it to the river. A successful tracking profi 
+ciency check reveals troglodyte tracks that 
+might otherwise be mistaken for lizard- 
+man. gnoll. or even giant bird tracks. 
+
+Clearing the way for larger creatures to 
+get in requires magic or at least 6 man 
+hours of work with shovels, 12 hours with 
+out. No more than six creatures can dig at 
+any one time. If the giant Kengri helps, 
+the time required is cut in half. 
+
+However, the entryway is protected by 
+a troglodyte guard who uses his 
+chameleon power to blend into the stone 
+(-4 penalty to PCs' surprise rolls). The 
+guard won't come out to fight against 
+superior numbers, but fighting in the 
+tunnel presents its own problems. Slash 
+ing and bludgeoning weapons are almost 
+useless in the narrow tunnel (-2 to attack 
+rolls, -4 to damage), but piercing 
+weapons work normally. 
+
+
+
+Troglodyte sentry: AC 5; MV 12; 
+HD 2: hp 15; THACO 19; #AT 3 or 1; 
+Dmg Id3/ld3/ld4+l or 2d4 (spear); 
+
+
+31 
+
+
+
+
+
+
+
+
+SA javelin; SD stench, chameleon 
+power; SZ M (6' tall): ML steady 
+(11); Int low (5-7); AL CE; XP 120.' 
+
+Javelins add +3 to attack roll when 
+thrown by troglodytes and inflict 2d4 
+damage. Troglodytes secrete a nause 
+ating oil; those failing saving throws 
+vs. poison lose ld6 points of Strength 
+for 10 rounds. 
+
+Anyone who digs encounters the sentry 
+and his overpowering combat scent (-3 to 
+saving throw vs. poison because of the 
+enclosed space), If the alarm is raised and 
+the combat goes on for more than 3 
+rounds, the troglodytes feign a retreat, let 
+one warrior through, and immediately 
+close the gap to prevent others from com 
+ing through. The tribe then surrounds and 
+attempts to slay the single warrior with 
+superior numbers (as many as six 
+troglodytes can attack in the tomb's 
+15-foot wide entrance passage). 
+
+2, Chamber of Lions: The first chamber 
+of the tomb was the entrance where offer 
+ings were left for the spirits of the dead. A 
+small fountain still bubbles in the south 
+west corner of the room. There are lions 
+carved in the lintel over every doorway 
+and tw r o bronze lions decorate the foun 
+tain. The bronze doors to the western exit 
+are off their hinges and lie corroding a 
+deep green on the floor. 
+
+The chamber is now home to a small 
+tribe of troglodytes who do not appreciate 
+visitors, except as food. Their numbers have 
+increased lately, and they are not faring well 
+in the hunt, so their food stocks are very 
+low. Almost any excuse provokes an attack. 
+
+Sullmic, troglodvte leader: AC 5; 
+MV 12: HD 6; hp 41; THACO 
+15; #AT 3 or 1; Dmg 
+Id2/ld2/ld4+l or 2d4 
+(stone axe); SA javelin; 
+SD stench, chameleon 
+power; SZ M (6' 
+tall): ML steady 
+(11); Int low 
+(5-7); ALCE; 
+sJ / X \| XP 650. 
+
+
+Javelins provide +3 to attack rolls 
+when thrown by troglodytes and 
+inflict 2d4 damage. Troglodytes 
+secrete a nauseating oil; those failing 
+saving throws vs. poison lose ld6 
+points of Strength for 10 rounds. 
+Personality: Brave, silent, honorable. 
+Special Equipment: vial of unholy 
+water (2d8 points of damage against 
+paladins). 
+
+Troglodyte tribe (41): AC 5; MV 12; 
+HD 2; hp 16(x3), 15(x2). 14(x2), 
+13(x3), 12, U(x2), 10(x3), 9(x7): 
+8(x4), 7(x4), 5(x5), 4, 3(x2), 2(x2); 
+THACO 19; #AT 3 or 1; Dmg ld2/ 
+Id2/ld4+l or2d4 (spear); SA javelin; 
+SD stench, chameleon power; SZ M 
+(6' tall); ML steady (11); Int low 
+(5-7); AL CE; XP 120. 
+
+Javelins provide +3 to attack rolls 
+when thrown by troglodytes and 
+inflict 2d4 damage. 
+
+Troglodytes secrete a nauseating 
+oil; those failing saving throvys vs. 
+poison lose ld6 points of Strength for 
+10 rounds. 
+
+If the troglodytes lose 10 or more of 
+their number, they retreat into Areas 3 
+and 6. In the storage area they climb up 
+the tunnel into the audience chamber 
+(Area 8). They are cold-blooded so they 
+suffer only one-quarter damage from the 
+brown mold's cold. In the hall, they hide 
+in the shadows behind the statues, waiting 
+for a chance to ambush foes. 
+
+The troglodytes have amassed some 
+treasure from looting the first few cham 
+bers of the tomb and from looting the bod 
+ies of victims ambushed in the wilderness. 
+The treasures include 1,000 cp. 1,000 sp. a 
+silver horseshoe (10-gp), two rusty hel 
+mets, a broken lance, and 20 gems (two 
+10-gp lapis lazuli, four 10-gp moss agates, 
+three 50-gp moonstones, six 100-gp blood 
+stones, four 500-gp carved jade elephants, 
+and a 5.000-gp star sapphire). 
+
+With the loot are broken bits of statu 
+ary and three intact statues. These w*ere 
+graven images, small statues set up before 
+an altar where pilgrims and mourners 
+could offer prayers and small tokens of 
+
+
+32 
+
+
+
+their devotion to the departed. When the 
+shrine was stiil in use, there was a statue 
+for each of the creatures and warriors 
+buried in the tomb, but most are now bro 
+ken and unrecognizable. The only figures 
+that remain are a warrior in plate armor, a 
+stonecutter bearing a mallet and chisel, 
+and a priest with a shaven head and 
+Avani's holy symbol (a setting sun). 
+
+3. Root Cellar: This large room was once a 
+storage area for the temple and tower on 
+the surface, storing wine casks, barrels of 
+fruit, cheeses, and tools and supplies 
+unavailable in the wilderness. All the food 
+is gone and all the supplies have been taken 
+by the troglodytes in the Chamber of Lions 
+(Area 2). The remnants of the troglodytes' 
+recent kills are stored here: two plucked 
+parrots, some fish heads, and a stringy, 
+gamey hindquarter from a wild boar. 
+
+The troglodytes have also dug a tunnel 
+connecting this room with the tomb's 
+Feasting Hall (Area 8). Dirt and stone are 
+heaped around the entrance to the tunnel. 
+It is just big enough for a troglodyte slith 
+ering on its belly, and it slants up sharply. 
+Anyone climbing it is susceptible to the 
+cold attack of the brown mold in the 
+Feasting Hall. 
+
+4. Priests' Crypt: This hall is the final 
+resting place of the lesser priests and 
+scribes who served Avani and the order in 
+the temple. Each is buried in a small her 
+mit's cell, wrapped in a simple shroud and 
+laid on his side with a golden holy symbol 
+of Avani in his hands (50 gp). 
+
+5. Chamber of Doves: This shrine to the 
+goddess Avani was believed to have heal 
+ing powers and pilgrims often stopped 
+here. Water drips from the ceiling into a 
+bowl on the altar before a statue. Because 
+the shrine still has Avani's blessing, the 
+bowl contains 10 vials of holy water. Any 
+additional water added to the bowl 
+becomes holy water in 24 hours. 
+
+
+Any PC who makes an offering receives a 
+bless spell that lasts 1 hour. Paladins of 
+Avani w T ho pray and make an offering also 
+receive an aid spell that lasts 1 hour. 
+
+6. Hall of Heroes: This 15-foot-wide hall 
+runs the length of the tomb complex and 
+is ornamented with 7-foot-tall stone stat 
+ues of Khinasi warriors, some male, some 
+female, but all obviously ready for battle, 
+with full armor and weapons in hand. The 
+second statue on the left was destroyed by 
+the troglodytes in an odd form of revenge 
+against the two statues that killed one of 
+their number who tried to go farther down 
+the passage (the caryatid columns). 
+
+The bodies of two tomb robbers lie at 
+the two spots marked X, cut down as they 
+made their way down the passage. They 
+were slain when they tried to pass the 
+caryatid columns without giving the 
+proper password. (PCs can learn the pass 
+word Jasarat from the haunt in the ruined 
+temple, or they can gain one of the 
+amulets from Areas 32, 33, or 38 that 
+allow them to pass.) If a speak with dead 
+spell that reaches back at least 100 years 
+is cast on the robbers' remains, they share 
+what they know. They were attacked by 
+the stone women and knew that the Great 
+Tomb of the Order of the Sun was filled 
+with the servants and riches of the god 
+dess Avani. They were hired by el-Mimar 
+to wake him from his magical slumber 
+(Area 34), in exchange for his help in 
+looting the tomb. 
+
+
+
+
+
+33 
+
+
+M 
+
+v 
+
+Jfw\ 
+
+
+
+
+
+t i 
+
+
+i i 
+
+
+11 
+
+
+
+
+Caryatid columns (golems, stone, 
+variants) (2): AC 5; MV 6; HD 5; hp 
+22 each; THACO 15; #AT 1: Dmg 
+2d4; SD nonmagical weapons cause 
+half damage, +4 to all saving throws, 
+25% chance to shatter any weapon; 
+SW stone to flesh, transmute rock to 
+mud, or stone shape destroy column if 
+save fails; SZ M (7' tall); ML fearless 
+(20); Int non (0); AL N: XP 420. 
+
+Neither of the robbers has much of 
+value, other than a wax-sealed scroll 
+case containing a wa"d of negation (4 
+charges) that they were supposed 
+
+
+M 
+
+
+11 
+
+
+to use to wake el-Mimar. 
+
+7. Chamber of the Fox: Peti 
+tioners, scholars, mourn 
+ers, and others came to 
+this room when they 
+sought justice, 
+knowledge, 
+
+
+
+
+
+34 % 
+
+
+
+
+
+
+
+
+or comfort from the order. Because it 
+served as waiting room and antechamber 
+for the Feasting Hall (Area 8), benches 
+line the walls of the room. 
+
+Three small steps lead up from this 
+room to the Feasting Hall where the 
+order's Grand Marshall conducted audi 
+ences. The tattered remnants of a tapestry 
+or curtain at the top of the steps hides the 
+brown mold in the room beyond. Anyone 
+standing near the northern end of the 
+steps when the curtain is lifted or drawn 
+aside is immediately vulnerable to the 
+mold's freezing attack. 
+
+8. Feasting Hall: Although it was more 
+often used as an audience chamber for the 
+high priest or the Grand Marshall, wakes 
+and other celebrations to remember the 
+dead were also held in this hall. All that 
+remains is a long table, large enough to 
+seat 50 mourners. The troglodytes 
+destroyed most of the chairs for firewood. 
+
+They now throw their wastes in here to 
+feed the brown mold that covers the north 
+ern third of the room. The mold occasion 
+ally serves them as a weapon, for their rep 
+tilian physiology makes them resistant to its 
+attacks. The gnaw'ed remains of anyone 
+captured by the troglodytes in the entrance 
+tunnel (Area 1) are brought here and 
+tossed into the mold. 
+
+Brown mold (mold): AC 9; MV 0; 
+HD N/A; hp N/A; THACO N/A; #AT 
+0; Dmg N/A; SA freezing for 4d8 
+points of damage per round to all 
+creatures within 5"; SD immune to 
+weapons and fire; SW plant-affecting 
+magic works: wall of ice or ice storm 
+makes it dormant for 5d6 turns; cone 
+of cold or disintegrate kills it; SZ L; Int 
+non (0); AL N; XP 15. 
+
+Fire and heat allow brown mold to 
+grow. If a torch is used nearby, it dou 
+bles in size, flaming oil quadruples it, 
+and a fireball spell causes it to grow 
+eight-fold. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Underneath the mold are the bones of 
+some small rodents, a few rusted weapons, 
+and a helm of the order. Anyone wearing the 
+helm will not be attacked by the ghost war 
+riors in the warriors' graves (Areas 12-14), 
+
+9. Chamber of Shadows: This was the 
+priests' embalming and funerary chamber. 
+Here they prepared the bodies of the 
+tomb for burial. 
+
+Three of this chamber's walls are cov 
+ered with an abstract pattern of black 
+lines. The fourth wall depicts a black 
+bridge over a misty chasm to a gate of 
+light. Words are carved into three of the 
+four stone w alls. 
+
+Natron and other salts, bandages, 
+and fntriai shrouds, all incredibly old 
+and brittle looking, are sitting on the 
+chambers shelves. Three slanted slabs of 
+stones sit in the room. Each slab has sev 
+eral grooves cut in it from top to bottom. 
+
+
+The words carved in the walls are: 
+Linger not in the land between the living 
+and the dead (a warning not to overstay a 
+visit in the Divination Room, Area 10) 
+on the east wall. Bring worthy offerings to 
+honor the dead on the southern wall, and 
+Honor those who died for the cause on the 
+north wall. The room contains no other 
+treasures or clues, though plenty of tools 
+(scissors, chisels, and brushes) still 
+remain here from the room's embalming 
+days. 
+
+The painted bridge at the far side of the 
+room is the Bridge of Sighs and Shadows, 
+a magical link through solid rock between 
+this room and the Divination Room. Only 
+those who know its secret can cross it. 
+The only creatures that still know the 
+secret are the architect and the haunt 
+Basarej (see The Architect's Chamber, Area 
+34 and The Temple Ruins, page 27). They 
+know the command word, Qantarat, that 
+turns the image into an actual bridge, and 
+the word Zill, that returns it to the Demi- 
+plane of Shadow whence it came, The 
+bridge lasts only 1 hour in any event. Any 
+one in the Divination Room after that 
+time is trapped there. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Even if the PCs summon the bridge 
+correctly, they find it guarded by a pair of 
+shadow elemental s who watch the bridge 
+and prevent anyone but priests of Avani 
+from crossing. The elementals attack all 
+others as soon as they set foot on the 
+bridge's black, tarry' timbers. 
+
+Shadow elementals (2): AC 2: MV 
+15; HD 12; hp 64, 55; THACO 9; 
+#AT 1; Dmg 2d 12; SA chill touch; SD 
++2 or better weapon to hit; SW half 
+damage in total darkness or full sun 
+light; SZ L (12' tall); ML champion 
+(16): Int low (5-7); AL N; XP 7,000. 
+
+A shadow elemental has a 100% 
+chance to hide in shadows. Its chill 
+ing touch drains 2 points of Strength 
+and 1 point of Constitution. These 
+points are restored at a rate of 1 
+point per hour. 
+
+The bridge's connection to the Demi- 
+plane of Shadow' means that creatures 
+falling from the arches of the Chasm of 
+Faith fall past this bridge and might catch 
+themselves here (see Area 47). 
+
+10. Divination Room: Beyond the Bridge 
+of Shadows and Sighs lies this crou'ded 
+room, filled with white, unlit candles, a 
+copper divining bowl for reflecting pool 
+spells, and a set of dragon bones for cast 
+ing augury spells (worth 2,000 gp, given 
+the rarity of dragons in Cerilia). Worship 
+pers of Avani who cast divination spells in 
+this room have an improved chance of 
+success, so add +10% to any roll. 
+
+The far wall of the room is decorated 
+w'ith an alabaster arch of stone, but the 
+archway' leads nowhere-it is made of 
+solid rock. The archway is carved 
+wdth passwords to open three dif 
+ferent gatew ays to the outer 
+planes, specifically Bytopia, 
+Arcadia, and Mount 
+
+
+Celestia. The passwords are Paradise, 
+Balance , and Silverwater, But they acti 
+vate the gate in the Chasm of Faith 
+(Area 49). Speaking them here has no 
+effect. Also, the priests plastered over 
+the words to open passages to the Beast- 
+lands. Elysium, and Mechanus (Circle, 
+Plains, Gears), 
+
+These passwords are the keys to the 
+gate to paradise, the information the 
+Three Brother Mages have sought for so 
+long. They reward the PCs for the pass 
+words alone, since they believe they know' 
+the location of the gates. 
+
+11. Servants' Chamber: The ashes of the 
+order's servants are interred in this room. 
+The spirits of many' of the servants remain 
+here after death, and they act as invisible 
+ghosts roughly equivalent to the unseen 
+servant spell, Once they served as the link 
+between the living and the dead at the 
+feasts in the Feasting Hall (Area 8), but 
+in recent centuries they have languished. 
+Any knightly warrior can command their 
+obedience within the tomb, though they 
+cannot leave the tomb (they could, for 
+instance, be commanded to remove the 
+brown mold). They' can reach any point in 
+the complex to convey messages or fetch 
+small items. 
+
+The western exit from this room is 
+trapped. Anvone opening the door to the 
+Warrior's Cfiamber (Area 12) must first 
+unlock the door (-20% to Pick Lock 
+chances). Even if the PCs pick the lock, 
+they must survive the trap. Opening the 
+door releases a cloud of poison gas (equiv 
+alent to a cloudkill spell, but save vs. poi 
+son rather than spell). The cloud affects 
+the area shown on the map. 
+
+12. Warrior's Chamber: The spirits of 
+many warriors are bound to this room 
+where their ashes were laid after they 
+were cremated in the temple (Area 22). 
+The 12 bravest knights of the order still 
+
+
+¦b 
+
+
+serve it in the afterlife. They resemble 
+ancient knights, wearing green, corroded 
+bronze plate armor and carrying shining 
+scimitars. Beside the ghostly humans 
+stands a ghostly halfling warrior in gleam 
+ing chain armor, the eye symbol of the 
+order on his buckler. 
+
+Ghost warriors (12): AC 3; MV 12, 
+
+FI 12; HD 4+3; hp 26. 25(x3), 24, 
+23(x2), 21 (x2), 20. 18(x2); THACO 
+17; #AT 1; Dmg ld8+chill for ld6; SA 
+fear; SD flv, +1 or better weapon to 
+hit; SZ M (6' tall); ML elite (14); Int 
+average (9-10): AJL N; XP 650 each. 
+
+Upon viewing ghost warriors for the 
+first time, PCs must make a successful 
+saving throw vs. paralyzation or be 
+subject to fear. Flee at maximum 
+movement rate, 50% chance of drop 
+ping items. Fear lasts for 3d4 rounds. 
+
+Ghost warriors cannot be turned 
+because they are spirits, not undead. They 
+have no connection to the Negative 
+Energy Plane. 
+
+The ghost warriors' treasure is 5,000 
+sp, a smalt urn of oil of sharpness (3 appli 
+cations), and a single suit of etven chain 
+mail, sized for a halfling. 
+
+The door leading to the Captains' Tomb 
+(Area 13) is not locked or trapped. 
+
+13. Captains' Tomb: The ashes of the 
+captains of the order are kept here, and 
+their deeds are recorded in the murals on 
+the walls. Though most of the captains of 
+Avani's legions have long departed, one 
+captain's spirit remains to guard the cham 
+ber against tomb robbers and defilers. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A pale, glowing warrior stands before 
+you, left band held outstretched with 
+the palm out, right hand on the pommel 
+of an oddly curved sword. A setting sun 
+is emblazoned on his breastplate. 
+
+The ghost captain is a normal ghost 
+with the following statistics. 
+
+Ghost captain (ghost): AC 1; MV 
+12. FI 24 (B); HD 6 + 3; hp 38; 
+THACO 15; #AT 1; Dmg ld6 (touch) 
+or 2d4 (khopesh sword); SA aging; 
+SD +1 or better weapon to hit; SW 
+turned as ghost: SZ M (6' tall); ML 
+champion {15); Int very {11-12); AL 
+LN; XP 2,000. 
+
+A secret door connects this chamber to 
+the captain-general's resting place. The 
+obvious door and passage are a trap. Any 
+one opening the door to the next chamber 
+(Area 14) releases an enormous stone 
+block from the ceiling that falls and 
+crushes anything in the narrow corridor 
+below. Anyone standing at the door must 
+make a Dexterity check with a -A penalty 
+for every 5 feet that they are inside the 
+passage. Those standing at the door would 
+receive a -12 penalty, for example, while 
+those standing just within the passage 
+would receive no penalty. 
+
+PCs can avoid the trap by taking the 
+secret passage behind a mural of a ceremo 
+nial gate. The outline of the gate matches 
+the outline of the door, which the PCs can 
+open simply by pushing on the wall. 
+
+14. Chamber of the Captain-Gen 
+eral: The captain-general died 
+an angry and bitter man 
+watching the decline and 
+fall of the Order of the 
+Sun. He lingers out 
+of a sense of 
+duty and bit 
+ter regret. 
+
+
+
+
+He allows nothing and no one violate the 
+sacred tomb and the grounds he swore to 
+protect. However, he is confined to his 
+chamber by a grave warding spell (see 
+Spe/is of Reason , page 62). 
+
+Ghost captain-general (spectre): 
+AC 2; MV 15, FI 30 (B); HD 7+3; hp 
+43; THACO 13; #AT 1; Dmg ld8; SA 
+energy drain; SD +1 or better weapon 
+to hit. immune to sleep, charm, bold, 
+and cold-based spells, immune to poi 
+son and paralyzation; SW 2d4 dam 
+age from holy water, destroyed by 
+raise dead spell; SZ M (6' tall); ML 
+champion (15); lnt high (13); AL LE; 
+XP 3,000. 
+
+The captain-general's chamber is lit 
+tered with war trophies, musty old ban 
+ners, a crude crown seized from a "prince'' 
+of the Iron Peaks, a dwarven war trumpet, 
+orog totems, the skull of a giant crocodile, 
+and the breastplate of an Anuirean gen 
+eral, taken at the Battle of the River 
+Asarwe. If el-Mimar has been released 
+(see Area 34), he may try to enlist the 
+captain-general's services with a charm 
+undead spell. 
+
+15. Chamber of Falcons: Many of the 
+knights of Avani's order were expert 
+hunters and falconers, and many of the 
+order's wizards w r ere granted hawks or fal 
+cons as familiars. A dozen of these crea 
+tures are buried here, embalmed, 
+wrapped, and mummified. Each mummy 
+lies on a small stone platform. If dis 
+turbed, they rise up as animal skeletons. 
+
+Undead hawks and falcons (ani 
+mal zombies) (11): AC 8; MV 6; 
+HD 1-1; bp 7{x3), 6. 5(x3), 4(x2), 
+
+2, 1; THACO 15; #AT 3; Dmg 
+1/1/ld4 (claw/claw/bite); SD edged 
+or piercing weapons inflict half 
+damage, immune to sleep, charm, 
+hold, death magic, poisons, and 
+
+
+cold-based spells; SW holy water 
+inflicts 2d4 points damage; SZ S (5' 
+wingspan); ML fearless (20); Int 
+non (0); AL N; XF 65. 
+
+Assorted scarabs, charms, and talismans 
+in the skeletons' wrappings are worth 75 gp 
+per skeleton, but gathering them requires a 
+turn of unwrapping, poking, and searching. 
+One mummy is protected by a grave ward 
+ing and cannot be reanimated. 
+
+16. Chamber of Hippogriffs: The female 
+knights of Avani's order rode hippogriffs, 
+several of which were loved well enough 
+to merit burial in the Great Tomb. They 
+were animated to protect the tomb 
+against desecration. 
+
+Six large creatures are buried in this 
+room. They stand, horselike, but with 
+folded, bandaged wings across their 
+backs. As the door through which you 
+entered creaks and begins to swing 
+shut, you see sharp beaks and talons 
+emerge from the wrappings of three of 
+the creatures, along with the stench of 
+long-rotted flesh. 
+
+The three animated hippogriffs attack 
+and their bandages slowly fall off, reveal 
+ing withered, decayed flesh. The creaking 
+door is just swinging on its hinges. No 
+magical or mechanical force is shutting it. 
+
+Undead hippogriffs (monster zom 
+bies) (3): AC 6; MV 9, FI 18 <D, E 
+mounted): HD 6; hp 29, 28, 25; 
+THACO 15; #AT 3; Drag Id4/ld4/ 
+4d4 (claw/claw/bite); SD immune to 
+sleep, charm, hold, death magic, poi 
+sons, and cold-based spells; SW holy 
+water inflicts 2d4 points damage; SZ 
+L (9 r long); ML fearless (20); Int non 
+(0); AL N; XP 975. 
+
+The hippogriffs fight only to defend 
+their room. They do not pursue 
+intruders. They were buried with 
+golden bits and bridles w r orth 400 gp 
+each, but the PCs must slay the zom 
+bies before claiming these treasures. 
+
+17. Chamber of Griffons: The mummi 
+fied griffons of the Marshalls of the Order 
+
+
+are interred here, close to their riders. 
+Even in death, they defend their masters. 
+
+This room is /tiled witfc standing, com 
+pletely -wrapped bodies, one in each 
+comer. However, the bandages here are 
+punctuated with threads of gold. All 
+four of the horse-size creatures shift 
+their heads suddenly in your direction, 
+like hooded falcons turning toward the 
+sound of prey. 
+
+The griffons attack relentlessly. They 
+fight until destroyed or until the PCs leave 
+the room. 
+
+Undead griffons (monster zom 
+bies) (4): AC 6; MV 9. FI 18 (D. E 
+mounted); HD 6; hp 35. 33. 28. 27; 
+THACO 15: #AT 3; Dmg Id4/ld4/ 
+4d4 (claw/claw/bite); SD immune to 
+sleep, charm, hold, death magic, poi 
+sons, and cold-based spells; SW holy 
+water inflicts 2d4 points damage; SZ 
+L (9' long); ML fearless (20); Int non 
+(0); AL N: XP 975. 
+
+The griffons were buried with only 
+the scarabs used in the enchant 
+ments that animate them, These lapis 
+lazuli talismans are worth 200 gp 
+each and are hidden in their wrap 
+pings. The cloth of gold is worth 40 
+gp per griffon. 
+
+The room's secret door is hidden in the 
+chamber's stonework. The PCs can open 
+it from this side only by stepping on a 
+counterweight near the wall opposite the 
+secret door. The architect built the secret 
+tunnel so he could avoid the guardians of 
+the rotunda (Area 18). 
+
+18. Rotunda: The intersection of the two 
+main halls on this level is a cir 
+cular chamber with a domed 
+ceiling. Arches lead out 
+into the four passages, 
+and a large statue 
+dominates the center 
+of the room. Four 
+smaller statues 
+support the pillars 
+and arches. 
+
+
+Three of the four supporting warrior stat 
+ues are caryatid columns. The fourth is sim 
+ply stone. All three golems have orders to 
+attack any living creature leaving the 
+rotunda. No matter from which direction 
+the PCs enter, they can enter the rotunda 
+safely. No matter bv which direction they 
+leave, however, at least one column and per 
+haps two will strike from behind, the others 
+from the side (roll Id 10, surprise on 1-5). 
+
+The statue in the center of the rotunda 
+is a 10-foot-tall representation of 
+Namaan el-Rammal, the founder of the 
+order and father of the mage-king el- 
+Arrasi. The greenish copper statue wields 
+a scepter topped with an eye in one hand 
+and a glowing sword in the other (contin 
+ual light spell). However, it does not ani 
+mate and fight. 
+
+Caryatid columns (golems, stone, 
+variants) (3): AC 5; MV 6; HD 5; hp 
+22 each; THACO 15; #AT 1; Dmg 
+2d4; SD nonmagical weapons for half 
+damage, +4 to all saving throws, 25% 
+chance to shatter any weapon; SW 
+stone to flesh, transmute rock to mud, 
+or stone shape destroy column if save 
+fails; SZ M (7' tall); ML fearless (20); 
+
+Int non (0); ALN;XP 420. 
+
+The columns have no treasure. 
+The statue of el-Rammal is worth a 
+great deal to any regent among the 
+Khinasi, but to transport it, the PCs 
+need a large wagon and a team of 
+oxen since it weighs more than 
+2.800 pounds. 
+
+The tunnels leading east and west from 
+the rotunda are decorated with murals 
+telling the story of the founding of the 
+order, the discovery of how to train 
+griffons, and the building of its 
+various strongholds. Anyone 
+who can read Khinasi (or a 
+thief with a successful 
+Read Languages roll) 
+can read the titles 
+of the various 
+
+
+pieces; El-Rammal Founds the Glorious 
+Order of the Sun, Captain-General el-Muffas 
+Returns with Griffon Eggs, Architect Breaks 
+Ground on the Great Totnb, and so on. The 
+eastern hall is littered with discarded 
+mango pits, banana peels, nutshells, and 
+other refuse the Monkey King left when he 
+stopped to eat on his way to the Chamber 
+of the Ark-Royal (Area 53). He also 
+defaced some of the murals, putting a 
+mustache and horns on el-Rammal in 
+Knighting the First Paladins of the Order of 
+the Eternal Sun, 
+
+19, Scriptorium: Filled with rickety 
+writing desks and long-dried inkwells, 
+the scriptorium is where the order's 
+records were generated and copied. The 
+room is now the haunt of an imp that 
+seeks to take the soul of the architect, et- 
+Mimar, for dabbling in necromancy. 
+Unfortunately for the imp, el-Mimar 
+wasn't dead yet when it arrived, and it 
+isn't allowed back into the Nine Pits 
+without his soul in hand. It's been wal 
+lowing in self-pity for years. 
+
+When the PCs arrive, the imp immedi 
+ately sees the possibilities. It tries to con 
+vince the PCs that el-Mimar deserves to 
+die ("The Nine Princes wouldn't have sent 
+me if he was a paragon of virtue, would 
+they?"). If he is awakened, el-Mimar tries 
+to silence the imp by killing it. 
+
+Even more amusingly, the imp hangs 
+around the party (invisibly if necessary') 
+and offers them good advice for getting 
+through the tomb. He helps by saying, 
+Wear those amulets * they'll help you, and 
+steering them toward his target's resting 
+place in Area 34 by saying, I think you 
+should go this way. Given the nature of the 
+speaker, many PCs will assume that the 
+imp is giving bad advice. However, for 
+once he is telling the truth, but only 
+because it is to his benefit. 
+
+Eezer, male imp (imp): AC 2; MV 6, 
+
+FI 18 (A); HD 2+2; hp 8; THACO 19; 
+#AT 1: Dmg ld4: SA poison, sugges 
+tion 1/day; SD silver or magical 
+weapon to hit, invisible, detect good, 
+detect magic at will, immune to cold, 
+fire, or electricity, regenerate I 
+
+
+40 
+
+
+hp/round, saving throws as 7HD 
+creature; MR 25%; SZ T (2' tall); ML 
+average (8); Int average (9); AL LE; 
+XP 1.400. 
+
+Poison slays instantly if saving 
+throw fails. 
+
+Personality: Fawning, wheedling, 
+groveling, and servile. 
+
+The imp has no treasure of its own, 
+but its scrawled notes and drawings 
+are useful to any student of the dia 
+bolical baatezu (200 gp). 
+
+20. Avani's Library: Like all places 
+devoted to Avani and her servants, the 
+Great Tomb contains a library*. This one is 
+devoted to the records of those buried 
+here, their deeds and histories, as well as 
+Avani's sacred funeral texts, accounts of 
+the costs of burial and construction, and a 
+series of code books used in protecting 
+the tomb's inner chambers. 
+
+The stairs up to the librarian's quarters 
+are trapped with a grease spell, courtesy of 
+the imp in the Scriptorium. Anyone falling 
+down the stairs suffers 2d6 points of dam 
+age. The door at the top of the stairs has an 
+excellent lock (-20% to Open Locks rolls). 
+
+The passage leading to the treasury 
+(Area 21) is trapped. If PCs open the door 
+to the treasury, it releases the floor of the 
+entire passage, dropping everyone standing 
+on it into a 30-foot deep pit full of green 
+slime. Only flying creatures 
+and those able to grab a ledge or door han 
+dle can avoid falling. 
+
+Anyone caught in the slime is soon turned 
+to green slime. 
+
+Green slime: AC 9; MV 0; HD 2; hp 
+16; THAC0 19; #AT 0; Dmg Nit; SA 
+turns flesh into slime in ld4 rounds, 
+eats metal quicklv; SW cure disease 
+kills slime; SZ L (18' long); ML aver 
+age (10); Int non (0); AL N; XP 65. 
+
+The PCs can find 10 moonstones 
+(50 gp each), an amethyst (100 gp), 
+and a topaz (500 gp) here. 
+
+
+21. Treasure Chamber: The regular pas 
+sage to this room is trapped {see Area 
+20). The high priest always took the secret 
+stairs down from his private quarters. 
+
+The priests of Avani were very wealthy 
+in their day, but because they collapsed 
+the entrance to the tomb when the 
+Anuireans took the Tower of the Eye, 
+the treasury was never looted. The trea 
+sure chamber contains three chests, four 
+urns filled with coins, three maces lying 
+upon a golden altar cloth, and a coffer 
+lined with velvet. 
+
+Chest #1 contains nothing but the 
+accounts of the treasury, such as 
+invoices and expenses, receipts, tallies, 
+and tax records. 
+
+Chest #2 is locked with a masterful 
+lock (-60% to Open Locks rolls) and con 
+tains the following forbidden wTitings: a 
+libram of ineffable darkness. The Concordia 
+Digitalis (a volume on making botanical 
+poisons), and Eaters of the Dead (a volume 
+on the use of ghouls in necromancy). 
+None of these are usable (or saleable) by . 
+good-aligned characters, of course. If the 
+PCs have the key from the Monkey King, 
+it opens the chest. 
+
+Chest #3 is trapped with darts released 
+when the PCs lift the lid. The darts fly out 
+from the sides and top of the chest, strik 
+ing all creatures within 10 feet of it with a 
+THAC0 of 14. Any creature struck by a 
+dart must make a saving throw vs. poison 
+because the darts are covered with Type 
+D poison (onset time ld2 rounds. 30 
+points of damage, successful save for 2d6 
+points of damage). The trap fires only 
+once and does not reset itself, 
+
+The chest contains el- 
+Mimar's treasurv: 
+
+8,000 gp, 12,000 sp, 
+and letters of credit 
+(now* worthless) 
+drawn on Basarji 
+trade houses 
+
+
+
+1C 
+
+
+4 
+
+
+
+fektr 
+
+
+
+
+
+for an additional 60,000 gp. 
+
+The urns contain 4,000 cp, 14,000 sp, 
+9,000 ep. and 9,000 gp. At the bottom of 
+the urn of copper is an enormous ruby 
+worth 5,000 gp. 
+
+The three maces are not magical, but 
+they are valuable. One is the Mace of the 
+Grand Marshall of the Order of the Eter- 
+nal Sun. a valuable relic of Khinasi knight 
+hood and a vital item for any regent hop 
+ing to reestablish the order. The second is 
+the Mace of Avani, a ceremonial item long 
+sought by the priests and priestesses of 
+Avani for their rites. The third mace is the 
+Blessed Mace of Latifa Min Avani, an 
+early female paladin of the order (depicted 
+in the murals in Area 18 and buried in the 
+Chamber of Marshalls, Area 38). 
+
+The open, velvet-lined coffer contains 
+Eternal Rest , a magical mace that allows 
+the wielder to turn undead as a 4th-level 
+cleric. If the wielder is a priest, he can 
+turn undead as if he were four levels 
+higher. Though it provides its owner with 
+no magical attack bonuses. Eternal Rest 
+can strike creatures that must normally be 
+struck by +3 or better weapons. 
+
+
+22. Chamber of Fire: This large room 
+was used for funeral services for the dead 
+interred in the Great Tomb. Its magical 
+fires have never gone out. 
+
+This chamber is an enormous room 40 
+feet in diameter, with a large glittering 
+dome for a roof On either side of the 
+entrance stands a falcon-headed statue, 
+one male, one female. 
+
+It seems that someone might live in this 
+tomb after all. A fire pit bums before a 
+large golden statue of a woman holding a 
+scroll in one hand and the orb of the sun 
+in the other. The statue's eyes are blazing 
+red jewels that reflect the firelight. Two 
+braziers stand before her. on either side of 
+a bier where rests the body of a knight in 
+plate armor, a scimitar in his hands, and 
+a statue of a dog at his fee t. 
+
+
+
+42 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Four large chandeliers hang from the 
+chamber's roof on dark chains. They 
+glow with bright light. Each arm of the 
+chandeliers is worked from golden metal 
+and resembles a ray of the sun. Two 
+staircases lead up the circular walls to a 
+door 20 feet above you. There are two 
+balconies behind the statue. 
+
+The haunt of the high priest outside in 
+the temple can be laid to rest by giving 
+burial to Yezeed el-Sams, the Khinasi 
+warrior whose bones litter the bier in this 
+chamber. However, the warrior's spirit 
+has been tied to this place for so long 
+without rest that it has gone mad, and it 
+seeks to inflict that madness on anyone 
+who enters the room. 
+
+Spirit of madness: AC 0: MV 12; 
+HD 10; hp 50; THACO 13; #AT 1; 
+Dmg 2d6 (chill) +drain Wisdom; SA 
+drain 2 points of Wisdom with each 
+touch, when victim reaches 0 he 
+goes mad; SD +2 or better weapon 
+to hit; SZ M (6' tall); ML steady 
+(12); Int semi (2-4); AL N; XP 
+3,000; new monster. 
+
+The bier includes many grave goods, such 
+as a +1 khopesh sword, a javelin of light 
+ning, a suit of bronze plate armor +2, a + 1 
+shield, and a necklace of survival. Taking 
+any of these grave goods prevents the war 
+rior's spirit from reaching its flnal rest and 
+breaks any oath that the PCs may have 
+sworn to the high priest Basarej. (See The 
+Temple Ruins for the consequences.) 
+
+Anyone who steals from the priests' 
+quarters (Areas 21-30), from the statue 
+of Avani. or from the body of Yezeed el- 
+Sams animates the two golems that guard 
+this chamber's entryway. Though the 
+golems cannot climb the narrow stairs up 
+to the priests' quarters, they do guard the 
+exit from the Chamber of Fire (Area 22) 
+and the exit from the Scriptorium (Area 
+19) to prevent any thief from leaving with 
+stolen goods. 
+
+
+Falcon golems (golem, clay) (2); 
+AC 7; MV 7; HD 50 hp; hp 50. 50; 
+THACO 9; #AT l; Dmg 3d 10; SA can 
+haste itself after first round of com 
+bat; SD can only be struck by magical 
+blunt weapons, disintegrate slows 
+golem for ld6 rounds, Id 12 points of 
+damage; SW move earth drives golem 
+back 120', 3dl2 points of damage, 
+earthquake cast directly at golem 
+stops movement that turn, 5dl0 
+points of damage; MR unaffected by 
+mind-affecting spells; SZ L (8' tall); 
+ML fearless (20); Int non (0); AL N; 
+XP 5,000 each. 
+
+The elemental spirit animating 
+these golems is not tightly bound, 
+resulting in a 1% cumulative chance 
+per round of combat that it can break 
+free of its orders. If it does, the golem 
+becomes a berserker, attacking every 
+thing in sight until destroyed. 
+
+The high priest feared that el-Mimar 
+or someone else would steal Avani's 
+sacred treasures for some profane use, 
+so he placed the golems here. A high 
+priest of Avani (9th level or greater) or 
+grand master paladin of Avani (11th 
+level or higher) can command the golems 
+to do his bidding. 
+
+23. Pulpit: The priests of Avani read 
+the eulogy for the dead from these bal 
+conies. They are empty but still solid 
+after all these years. There is no danger 
+of collapse. 
+
+
+43 
+
+
+
+24. Vestry: The robes of the priests have 
+long been tattered by time and eaten by 
+moths. Among the remnants of once-fine 
+robes is one holy symbol of Avani, a 
+censer made of bronze, a ceramic lantern, 
+a wick trimmer/candle snuffer, a tinder- 
+box, and an amphora sealed with cork 
+and wax containing holy oil, for the tem 
+ple's lanterns. None of the items are 
+exceptional. All were meant for day-to- 
+day use, not for ornament. 
+
+25. Sacred Items: The chalice, censers, 
+braziers, and holy symbols of Avani are 
+stored here. They are all of the finest gold, 
+
+inlaid with stiver and set with chips of 
+topaz {worth 3.000 gp total, but con 
+secrated to a good deity). 
+
+A cedar coffer Latched with 
+bronze clasps contains a for 
+tune in myrrh, sandal 
+wood, and patchouli, 
+and a small vial of 
+
+
+attar of roses. Opening the coffer releases 
+a gust of aromatic air that alerts the imp 
+in the Scriptorium (Area 19). The incense 
+and oil together are worth 3,000 gp. 
+
+26. Underpriest's Quarters: Now' long 
+abandoned, this room has only murals for 
+furnishings. The images on the walls show 
+the temple rites of Avani, the gates to par 
+adise, and the road to enlightenment 
+through study, teaching, and reason. 
+
+27. Librarian's Quarters: This chamber 
+is still neatly organized, with a volume 
+on a reading stand near the southern 
+door, a small shelf of scrolls beside an 
+empty bed frame, and a wardrobe and 
+mirror against the western wall. The 
+wooden furniture is oddly eaten away, 
+almost as if scarred by fire. 
+
+The book on the stand is titled The 
+Logic of Glyphs: A Primer on Warding Mag 
+ics and their Application. It contains all the 
+priest spells in the Spel/s of Reason appen 
+dix, including the names of glyphs, 
+required to deactivate them. However, the 
+entire text is written in Khinasi script. No 
+one else can read it. 
+
+The right door on the north wall is a 
+trap. When the PCs open it, it releases a 
+cloud of acidic gas. Those in the room 
+must successfully save vs. poison or suffer 
+3d4 points of damage from the gas (no 
+damage if save successful). Equipment 
+(including the book and the scrolls) must 
+make a successful item saving throw vs. 
+acid with a +3 bonus or be destroyed. The 
+trap can reset itself twice and has already 
+destroyed most of what was in the room. 
+
+The door dow n to the library is locked 
+with an excellent lock (-20% to the Open 
+Locks roll). The key was kept in this room. 
+
+28. Chanter's Quarters: On the walls are 
+the hymns and sacraments of Avani, w rit 
+ten in a clear, bold hand with the musical 
+notation for accompanying chants and 
+responses. 
+
+
+
+
+29. High Priest's Quarters: 
+
+The walls of this room are covered with 
+wooden panels, reddish-brown and 
+cawed in many small panels with figures 
+of the Cerilian gods, including Avani's 
+Palace of the Sun. Other panels show 
+kawesting, monks copying manuscripts, 
+peasants sowing crops, hunters in the 
+forests, and a shepherd driving off a wolf. 
+
+The panels are well-rendered. but are 
+probably too heavy for the PCs to bother 
+dragging along with them. 
+
+The high priest liked to keep a few 
+secrets from his subordinates, such as the 
+two secret doors. The first secret door 
+leads down to the treasury. It is well-hid 
+den in the room's panelling. 
+
+The second secret door is an entire 
+panel that swings out and leads to a set of 
+stairs to the Upper Chambers, avoiding 
+the traps of the Hall of Force (Area 37) 
+and leading directly to the Chamber of 
+Marshalls (Area 38). The stairs are pro 
+tected by a glyph of sunlight and a snare 
+that can trap a PC for 6 hours. 
+
+30. Consort's Quarters: In the center of 
+this chamber is a large marble bath, carved 
+and smoothed stone, filled with water that 
+drips from the ceiling. The marble is 
+slightly discolored, greenish with some 
+mineral from the dripping water. The bath 
+is home to a water weird summoned here 
+by el-Mimar. 
+
+Water weird (elemental): AC 4: 
+MV 12; HD 3+3: hp 17; THACO 15; 
+#AT 0; Dmg 0; SA drowning; SD 
+suffers 1 point of damage from pierc 
+ing and slashing weapons, half dam 
+age from fire (none if save is suc 
+cessful); SW purify water spells kills 
+instantly, intense cold acts as 
+slow spell on water 
+weird; SZ L 
+
+
+(10'+ long); ML elite (13); Int verv 
+(12); AL CE; XP 420. 
+
+Those hit must make a successful 
+saving throw vs. paralyzation or be 
+pulled into the water, Each round in 
+the water requires another successful 
+saving throw. Failure means drowning. 
+
+If reduced to 0 hp or less, a water 
+weird is disrupted and it reforms in 2 
+rounds. 
+
+The weird's treasure is all kept in the 
+bath's waters: 900 gp, seven moonstones 
+(50 gp each), three heavy' golden anklets 
+(800 gp each), and a pair of earrings (600 
+gp the pair). 
+
+31. Wemic Burial Chamber: The great 
+lionlike servants of the order who brought 
+the word of Avani into the wide plains and 
+hinterlands of the Sun Coast were buried 
+here. They were three of the greatest 
+shamans of Avani and three of the greatest 
+knights of the order. 
+
+The wemics no longer rest peacefully. 
+El-Mimar made them monster zombies to 
+guard his final resting place against all 
+those who might despoil his tomb's wealth. 
+
+Wemic Shamans (monster zom 
+bies) (3): AC 6; MV 9; HD 6; hp 32. 
+29. 25; THACO 15; #AT 1; Dmg 4d4 
+(claws) or ld6 (club); SD undead 
+spell immunity; SZ L (8' long); ML 
+fearless (20); Int non (0); AL N; XP 
+650 each. 
+
+The monster zombies can be 
+turned as wraiths. 
+
+The wemics have no treasure. 
+
+
+45 
+
+
+
+
+The giants were buried with their valu 
+ables, including their stone clubs, 7,000 sp, 
+2,500 gp, a gold amulet of Avani worth 300 
+gp, and a giant-sized silver bracer inscribed 
+with the figures of the sun, masons working, 
+and sleeping lions, worth 1,000 gp. 
+
+33. Mason's Chamber; The passage to this 
+room is open, hut dusty. No one has passed 
+this way for a long time. The Great Tomb's 
+master mason and stone carver was laid to 
+rest here, in an elaborately carved sarcoph 
+agus decorated with vines, a hammer, 
+chisel, circle, and plumb line. If the PCs 
+open the sarcophagus, a trap is triggered 
+that drops a 12-ton block of stone onto the 
+5-by-5-foot entrvway, sealing it. 
+
+Within the sarcophagus are the mason's 
+hones, tools, and a gold amulet of Avani 
+(worth 300 gp). This amulet is useful in the 
+Chamber of the Ark-Royal (Area 53), and 
+to its wearer it gives magical power over the 
+golems in the halls (Areas 6. IS, and 22). 
+
+34. Architect's Chamber; The door to 
+this chamber is protected by a glyph of 
+sunlight and a grave warding spell (see The 
+
+
+32. Giants' Chamber; Three stone giants 
+rest here on huge stone biers. They were 
+magically preserved while still alive and 
+can be restored to life by a transmute stone 
+to flesh spell or a successful dispel magic 
+against a 12th-level caster. All the giants 
+show marks on their necks where their life 
+force has been bled away bv the vampire 
+el-Huffas (Area 38). 
+
+Salib. Halal. and Najmat, stone 
+giants (3): AC 0: MV 12; HD 
+9+ld3; hp 64, 58, 55; THAC0 7; 
+
+#AT 1; Dmg IdS or 2d6+S 
+(club); SA hurl rocks for 
+3d 10; SD blends with 
+stone, catch stones 
+and missiles 90%; 
+
+SZH (18' tall); 
+ML champion 
+(16); Int aver 
+age (8-10); 
+
+AL N; XP 
+7,000. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Spells of the Cfcimaeron). Though the 
+wards were put here at the occupant's 
+request, the priests considered them as 
+much a protection from what lay within as 
+a defense against forces from outside. 
+
+Part of the architect's fee for designing 
+and supervising the construction of the 
+order's great tomb complex was a burial 
+chamber for himself. He rests here still, 
+and he's still alive. 
+
+El-Mimar's plan was simple. He intended 
+to prolong his life as long as he could and 
+meanwhile create undead in the tomb's var 
+ious crypts. When his time came, he would 
+ingest the proper magical mixture, return 
+from the sleep of the dead as a lich, and 
+bring his servants out of their stony prisons. 
+Unfortunately, the two thieves he hired to 
+wake him were slain by the tomb's 
+guardians, and he has slumbered for much 
+longer than he had planned. Also, the trans 
+formation to lich state never occurred, 
+
+Djuhah el-Mimar (MKh; W9 [necro 
+mancer]: N(E)): AC 10 (stoneskiu 
+absorbs first ld4+3 hits); MV 12; hp 
+24; THACO 17 (16 with staff); #AT 1; 
+Ding 2d2+poison from staff of the ser 
+
+
+pent (adder): SZ M; ML elite (13); 
+XP 4,000. 
+
+El-Mimar pretends to be the PCs' 
+friend just as long as it takes him to 
+get away safely and recover his ser 
+vants (the monster zombies from 
+Areas 16 and 17 and the stone giants 
+from Area 32). 
+
+S 12, D 10, C 13.1 14, W 10, Ch 14. 
+Personality: Treacherous, cold 
+blooded, compromising, 
+
+Special Equipment: Staff of the ser 
+pent, robe of eyes, amulet ofAvani. 
+Spells (5/4/4Z3/2): 1st- chill touch, 
+color spray, grease, magic missile, spi 
+der climb: 2nd-ESP, Melf's acid 
+arrow, rope trick, spectral hand; 3rd- 
+haste, hold undead, lightning bolt, 
+vampiric touch; 4th- enervation, ice 
+storm, minor globe of invulnerability; 
+5th- cloudkill, wall of stone. 
+
+In addition to these spells, el- 
+Mimar knows detect magic, enlarge, 
+hold portal, read magic, shocking grasp ; 
+darkness 15' radius, knock, locate 
+object; hold undead, item ; dig, stone- 
+skin ; animate dead, transmute rock to 
+mud. All of his spells are inscribed in 
+
+
+
+47 
+
+
+
+
+
+
+
+
+his spellbook, kept in the Vault of 
+Knowledge (Area 51). 
+
+He knows the command words Qan- 
+tarat and Zill that the PCs can use in 
+The Chamber of Shadows (Area 9). 
+
+El-Mimar will be drained of life 
+energy by the vampire of the tomb 
+(Area 38) if the protection from evil 
+warding his tomb is ever broken. 
+
+
+35, Secret Workshop: This is where the 
+architect Djuhah ei-Mimar brewed his 
+potions and learned magic. His notebooks 
+reveal that the object of his research was 
+extended life. The Chimera will be inter 
+ested in his notebooks and offers 2 GB for 
+them, but few other buyers are interested 
+in the notes of a failed experiment. 
+
+The workshop isn't entirely empty. The 
+architect's homonculus still lives here, 
+unable to die while its maker yet lives and 
+powerless to receive any new orders. It 
+tries to befriend anyone who enters the 
+lab, warning them about the dangers of 
+freeing the invisible stalker or entering its 
+circle , It especially wants solid food, as it 
+
+
+
+has sustained itself by using a Murlynd's 
+spoon for decades now, and the taste of 
+cardboard-flavored gruel has grown intol 
+erably boring. 
+
+Runt (homonculus): AC 6; MV 6. Fl 
+18 (B): HD 2; hp 12; THACO 19; #AT 
+1; Dmg ld3: SA bite causes sleep; SD 
+same saving throws as 9th-level necro 
+mancer; SW if destroyed, creator suf 
+fers 2d 10 points of damage; if creator 
+slain homonculus dies and body melts 
+away; SZ T (18" tall); ML elite (13); Int 
+high (14): AL N (E); XP 270. 
+
+Sleep venom causes 5d6 minutes 
+of slumber. 
+
+Personality: Childish, curious, 
+friendly, trusting. 
+
+An insane invisible stalker is still 
+trapped in the summoning circle, the last 
+of the creatures that el-Mimar summoned. 
+It gives no sign of its presence at first, 
+hoping some fool will step into the circle 
+and so provide it with a hostage. 
+
+Tuwind (invisible stalker): AC 3; 
+MV 12, Fl 12 (A); HD 8; hp 45; 
+THACO 13; #AT 1: Dmg 4d4; SA sur 
+prise; SD invisibility; MR 30%; SZ L 
+(8' tall); ML elite (14); Int high (13); 
+AL N; XP 3,000. 
+
+Automatically returns to the Elemental 
+Plane of Air when its hp total is exceeded 
+by damage suffered. 
+
+The bones of el-Mimar's last familiar, a 
+hawk, lie on one of the workbenches, 
+embalmed and wrapped, 
+
+the upper 
+chambers 
+
+" wm eserved for the exclusive use of the 
+¦Jc priesthood and paladins of Avani, 
+JL jLthe upper burial chambers of the 
+Great Tomb were carved out of the 
+region's stone just as the lesser chambers 
+were, using transmute rock to mud spells to 
+simplify the work. The halls are all lit vrith 
+continual light spells, and the floors are 
+
+
+
+
+
+
+inlaid with white ceramic tiles or grayish 
+white flagstones. The ceilings here are 
+only 8 feet high. There are no random 
+encounters unless the PCs or el-Mimar 
+free some of the monsters from their 
+imprisonment to roam the halls. 
+
+36. Hall of Offerings: As with the entrance 
+hall (Area 1), this room is a place where 
+offerings were left by the priests for the 
+order's leaders, who were all buried in the 
+upper chambers. Unlike the entrance hall, 
+this room hasn't been despoiled by 
+humanoids. The ancestor statues and small 
+offering shrines are all still intact. There are 
+16 small statues here, one for each mar 
+shall, one for the founder, and four for the 
+high priests of the order. The room is illumi 
+nated by continual light spells. 
+
+Four statues watch over the two exits 
+from this room. The two to the east are a 
+male paladin and his griffon. The two stat 
+ues to the south are a female priestess and 
+her hippogriff. None of the statues are 
+magical constructs. 
+
+37. Hall of Force: This empty hall is pro 
+tected by two traps, one mechanical and 
+one magical. 
+
+The first trap is the mechanical one, a pit 
+just inside the hall's entrance that drops 
+anyone stepping onto it into a chute that 
+slides them slightly west and down to the 
+first level, where they fall into the green 
+slime pit between the library and the trea 
+sury (Areas 20 and 21). 
+
+The second trap is a force-spear trap 
+that projects hundreds of thin rays of 
+magical force through the 10-foot-wide 
+hall. The force-spear trap can be detected 
+by a detect magic, true seeing, detect traps, 
+or find traps spell, but is invisible to nor 
+mal sight (a thief's detect traps ability can 
+not find it). It inflicts 4d6 points of dam 
+age on everyone in the hall (successful 
+
+
+save vs. spell for half damage), and forces 
+a saving throw vs. crushing blow' for those 
+who fail the saving throw. It can be dis 
+armed by speaking the password, 
+Hudanat , as the PCs might ha\'e learned 
+from the priest-haunt in the temple. 
+
+38. Chamber of Marshalls: All tire Grand 
+Marshalls of the Order are buried here, 
+under great stone slabs along the edges of 
+the great circular burial chamber. 
+
+A large archway before you leads into 
+a huge, 60-foot diameter room. A sin 
+gle word is inscribed at the top of the 
+archway. The archway is flanked by 
+two pillars, and the ceiling is covered 
+with mosaics of armies marching 
+behind the generals. 
+
+A dozen or so slabs of stone set into 
+the floor seem to be grave markers, each 
+cari'ed with the image of a knight. In 
+the center of the room is a row of pillars 
+the color of ox-blood, and between 
+them, a jitie, intricate carpet running 
+the length of the room. At the north end 
+of the chamber is an altar flanked by 
+two more pillars and two enormous. 8- 
+foot-tall g old candlesticks. 
+
+Beyond the pillars, directly opposite 
+your entrance, is another archway lead 
+ing out, 
+
+The inscription over the door is the 
+command word for two figurines of won 
+drous power in the chamber, one resting on 
+slab C and one on slab H. The figurines 
+are golden lions that become normal adult 
+lions when the command word 
+
+
+49 
+
+
+is spoken. If the command word is spoken 
+a second time, they return to their statue 
+form. Otherwise, they attack. 
+
+
+
+Golden lions (2): AC 5; MV 12; HD 
+5+2; hp 26. 20; THACO 15; #AT 3; 
+Dmg Id4/ld4/ldl0 (claw/claw/bite); 
+SA rake for ld6+1 points of damage if 
+both front claws hit; SD surprised only 
+on a 1; SZ M (6' long); ML fearless 
+(20); Int semi (2-1); AL N; XP 650. 
+
+If slain in combat, the lions cannot 
+be brought back from statue form for 
+one week. Otherwise, they can be 
+used once every day. 
+
+The marshalls are buried beneath the 
+stone slabs marked A-K. However, after 
+el-Mimar was buried, each of the slabs 
+was marked with a glyph of sunlight, a type 
+of glyph of warding unique to Avani's 
+priests that causes 9d4 points of damage 
+to the opener (successful save for half), 
+and creates a blast of tight in the chamber 
+equal to full sunlight for a moment (as per 
+the 9th-level 5unray spell). 
+
+Before the glyphs were placed, though, 
+el-Mimar worked his necromantic arts on 
+
+
+the marshalls' remains to create more ser 
+vants for himself. The first two bodies were 
+too decayed to transform and el-Mimar did 
+n't find a body under slab I (because the 
+occupant was out feeding), but those 
+beneath slabs C-K were made into wights. 
+The wights have been trapped beneath their 
+slabs for centuries because el-Mimar never 
+woke, and thus never freed them. They are 
+hopelessly insane, and attack anyone who 
+frees them (other than their master). 
+
+Marshalls of the Order of the Sun 
+(wights) (8): AC 5; MV 12; HD 4+3; 
+hp 27. 23,22, 21. 20(x4). 17; THACO 
+15; #AT 1; Dmg ld4; SA energy 
+drain; SD hit only by silver or +1 
+weapons, immune to poison or para- 
+lyzation; SW slain instantly by a raise 
+dead spell, suffer 2d4 points of dam 
+age from holy water; MR unaffected 
+by sleep, charm, hold . or cold-based 
+spells; SZ M (6' tall): ML elite (14); 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+tnt average (8-10): AL LH; XP 1,400. 
+
+Wights avoid sunlight but are not 
+harmed by it. 
+
+The marshalls each wear an amulet 
+of Avani. These amulets are useful in 
+the Reflecting Passageways (Area 
+41) or Hall of Mirrors (Area 42), 
+
+39. Hall of Stone: The stones of this hall 
+way animate to prevent intruders from pass 
+ing through, for this passage is guarded by a 
+loyal galeb duhr who was long ago enticed 
+into serving the order. It uses its magic to 
+prevent intruders from entering the Cham 
+ber of the Marshalls without being accom 
+panied by a member of the order. 
+
+Crusher, galeb duhr (1): AC -2; MV 
+6; HD 10: hp 36; THACO 11; #AT 2; 
+Dmg 4d6/4d6; SA spells, animate 
+boulders; SD immune to lightning and 
+normal fire, save vs. magical fire at +4: 
+SW save vs. cold at -4 and suffer dou 
+ble damage from those attacks; MR 
+
+
+20%; SZ L (12' tall); ML fanatic (17); 
+Int very (12); AL N; XP 10,000. 
+
+Can cast these spells as a 20th- 
+level mage, once per day: move earth, 
+stone shape, passwall. transmute rock to 
+mud, wall of stone. Can cast stone 
+shape at will. 
+
+Crusher can animate boulders within 
+60 yards. The animated boulders are 
+AC 0. MV 3. HD 9, hp 55. 41, 40. 
+Dmg 4d6. 
+
+Personality: Slow and deliberate, 
+motherly. 
+
+The galeb duhr has a small collec 
+tion of gems, including a topaz (500 
+gp), a flawed emerald (1,000 gp), 
+two chunks of amber from the north- 
+lands (100 gp each), three green 
+chrysoprase (50 gp each), and a 
+vibrant purple ioun stone (stores 5 
+levels of spells) that might be mis 
+taken for an amethyst. 
+
+40. Hall of Spears: 
+
+In the hall is a grisly sight, a sort of hedge 
+made of spears, skulls, and human bones. It 
+seems to be rustling in some invisible wind. 
+
+
+
+
+
+
+
+51 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+This Hall of Spears is a magical trap. 
+Anyone approaching within 10 feet of the 
+wall is attacked by its enchanted spears, 
+with the same effects as a wall of swords 
+spell. The spell's victims become part of its 
+substance, absorbed by the spell to fight 
+against the next victims. 
+
+Though the PCs can fight their way 
+through the wall of spears, they might 
+not find the entrance to the Chamber of 
+Flowers because the wall obscures it 
+unless it is utterly destroyed. The 
+entrance to that chamber is clogged by a 
+mass of bones and metal. The easier pas- 
+sage through the area is through the 
+northern section of the wall. 
+
+If the PCs fight their way past the 
+magical wall, a short passage leads to the 
+Chamber of Flowers. The room centers 
+on four pillars oflight bluish stone, and 
+colorful mosaics decorate the four walls 
+with roses, flowering vines, and bright 
+orange fire lilies. 
+
+In the center of the room is a chalice 
+of silvery-gold. Once per month, any liq 
+uid placed in the chalice becomes a 
+potion of healing. 
+
+41. Reflecting Passageways: These two 
+passages both end in mirrors that are 
+actually complicated illusions and tele 
+portation devices. Anyone entering either 
+hall is magically turned around, exiting 
+the passage exactly where they entered 
+it, despite all efforts to pass down the 
+hall. The only way through is by either 
+wearing an amulet of Avani (from Areas 
+32, 33. and 38) or by casting a success 
+ful knock or dispel magic spell against a 
+14th-level caster, A knock is effective for 
+
+10 rounds, and a dispel magic for one 
+hour. A wand of negation allows free 
+passage for ld4+4 rounds. 
+
+
+42. Hall of Mirrors: Once through the 
+Reflecting Passages (Area 41). there is 
+another mirrored room. 
+
+The PCs can enter the mirrors with a 
+knock spell, dispel magic, wand of negation, 
+or an amulet of Avarn'. Once entered, no 
+speech or vision can penetrate to reach 
+creatures on the far side, though occasion 
+ally a glimpse of a creature is visible on 
+the Hall of Mirrors side. 
+
+When describing this room, do not use 
+compass directions. Indicate right and left, 
+and use terms like "directly across" or "diag 
+onally across," but let the players keep track 
+of where they have already been. The corri 
+dors beyond are enchanted to appear to con 
+tinue for some distance, and the enchanted 
+mirrors are meant to confuse visitors. 
+
+43. Crypt of the Martyrs: The order has 
+many icons and mosaics of its greatest 
+heroes here, the knights who were legends 
+to the cities they championed. 
+
+On the lintel above the doorway is 
+carved a clue to the location of the Ark- 
+Royal and the sword: Between the sun and 
+the abyss, between the eye and the mirror, 
+lies the foundation of the order. It implies 
+that the Ark-Royal lies between areas 45 
+and 49. and between 42 and 48. 
+
+44. Infinite Passageway: Anyone enter 
+ing this mirror enters a passage that 
+seems to stretch for hundreds of yards, 
+though a light is dimly visible at the end 
+of the tunnel. The light is a captured will- 
+o-the-wisp, kept here to lure tomb rob 
+bers to their doom. 
+
+Will-o-the-wisp (1): AC -8; MV Fl 
+18 (A); HD 9; lip 33; THACO 11; 
+#AT 1; Dmg 2d8; SA electric charge 
+destroys items; SD can become invis 
+ible for 2d4 rounds: SW affected by 
+protection from evil, magic missile , and 
+maze: MR immune to most spells: SZ 
+S (3' diameter): ML fanatic (17); Int 
+exceptional (17): AL CE: XP 3,000. 
+
+
+Previous victims have left behind 200 
+cp, 400 sp, 200 gp, 100 pp, a dwarven 
+runestone (30 gp), a miniature songbird 
+worked in gold, emeralds, and jacinth 
+(2,000 gp), a signet ring of the Royal 
+Guild of Baruk-Azhik trading coster (800 
+gp), a potion of growth , a staff-mace, and a 
+wand of lightning (18 charges), 
+
+45, Chamber of the Sun: 
+
+This room shines with blinding white 
+light . At the far end of the room is an 
+archway of elaborately worked gold. 
+Floating in the archway is a large 
+round stone. 
+
+The light in this room is the equivalent 
+of the sunlight spell. The room is protected 
+by a guardian, an undead beholder cap 
+tured and kept here through the use of a 
+trap the soul spell. If the PCs enter the 
+room, a trap is set off that releases the 
+stone, which crushes the gem containing 
+the guardian. 
+
+Guardian, undead beholder: AC 
+
+0/2/7; MV Fl 2 (C); HD 14; hp 66; 
+THAC0 7; #AT 1; Dmg 2d4; SA 
+magic rays; SD anti-magic ray, saving 
+throws as 14th level warrior, immune 
+to sleep, charm, and hold spells; SW 
+central eye has 22 hp, each lesser eye 
+has ld8+4 hp; SZ L (5' diameter); 
+ML Fanatic (18); Int special; AL LE; 
+XP 13,000. 
+
+It has lost the power of four eyes 
+because of the change to undeath. 
+The remaining eyes are charm mon 
+ster, sleep, telekinesis, flesh to stone, 
+disintegrate, fear, and slow. 
+Personality; Mindless except in 
+combat. 
+
+
+The beholder guards a wand of illumina 
+tion (43 charges) and a hoard of 10,000 
+sp, 4,000 gp, and 300 ep, 
+
+46. The Tilting Hall; This hallway is a 
+carefully-balanced seesaw, with the axis 
+marked by the line in the center of the hall. 
+Anyone walking in the section nearest the 
+hall of mirrors is supported by a ledge that 
+keeps that end of the hall from tilting. 
+Once past the center point, the whole hall 
+tilts down. A counterweight restores the 
+trap's position when the victims fall off the 
+far end and into the 30-foot-deep pit below, 
+
+In the bottom of the pit. a juju zombie 
+awaits its prey. It wants fresh, bloody meat. 
+
+Juju zombie (zombie): AC 6; MV 9; 
+HD 3+12; hp 23; THAC0 15; #AT 1; 
+Dmg 3d4; SD +1 or better weapon 
+required to hit, blunt or piercing 
+weapons cause half damage, climb 
+walls (92%); SW turned as spectre; 
+MR fire causes half damage, immune 
+to mind-affecting spells and psionics, 
+illusions, electricity, and magic mis 
+siles; SZ M; ML fearless (19); Int low 
+(7); AL NE; XP 975. 
+
+The zombie is the victim of the trap in 
+the hall next door (Area 47). 
+
+47. Juju Gas: This hall is trapped with a 
+magical trigger. When two or more crea 
+tures enter, a wall of swords spell grows out 
+of the floor and seals the exit to the Hall 
+of Mirrors (Area 42). Anyone trying to 
+pass through suffers the usual damage 
+(see The Spells of the 
+
+Chimaeron). Simultane 
+ously. the trap 
+releases a magi 
+cal gas, a 
+
+
+
+
+
+>jj & 
+
+
+pale yellow, slightly bitter mist that floods 
+the hall. Invented by el-Mimar, the juju 
+gas affects everyone who fails a saving 
+throw vs. spell. Any PC affected by the 
+gas acts normally, until the affected PC 
+dies, when he is immediately reborn as a 
+juju zombie, eager to wreak havoc on 
+other party members. The PCs must either 
+find out the hard way, or use spells such as 
+identify (on a container of the gas), true 
+seeing (reveals only an odd yellow glow to 
+the victim's eyes), divination (counsels the 
+victim to get priestly help), or commune 
+(explains the exact nature of the gas and its 
+effects, if successful), A remove curse or a 
+heal spell cast by a lOth-level or higher 
+priest removes the effect, but dispel magic 
+does not. 
+
+48. Chamber of the All-Seeing Eye: This 
+is where many of the order's rituals were 
+carried out. Knights were initiated here, 
+vigils were held by both warriors and 
+priests, and wizards practiced their skills 
+at divination and scrying. It is magically 
+warded against interference. 
+
+Anyone wearing the amulets from the 
+Giants* Chamber (Area 32), Master 
+Mason (Area 33), or one of the Marshalls' 
+(Area 38) is immune to the effects of this 
+chamber's magical trap. Anyone who enters 
+the room without wearing an amulet trig 
+gers a prismatic spray from the great eye in 
+the archway over the entrance. The seven 
+colored beams of the spell flicker and strike 
+every corner of the room, Roll ld8 and 
+consult the table listed in the 7th-level wiz 
+ard spell prismatic spray in the PHB to 
+see how each character is affected. 
+
+
+When the PCs recover, read: 
+
+This chamber is dominated by a great, 
+four-sided pyramid. Steep stone stairs 
+lead up to the platform at the top on 
+every face of the pyramid, though the 
+stones on one side are darkly stained. At 
+the top of the pyramid is a great crystal, 
+emitting a pale green light and pulsing 
+gently. A 4-foot-diameter globe seems to 
+be circling the top of the pyramid. 
+
+The small circling globe is a guardian 
+spectator, placed here to prevent anyone 
+but the priests of Avani from using the 
+room's magical item. The priests are 
+gone, but the spectator still carries out 
+its duties. 
+
+Spectator, unblinking: AC 4/7/7; 
+MV FI 9 (B); HD 4+4; hp 24; THACO 
+15; #AT 1; Dmg ld4+l; SA magic; 
+SD magic, reflects one spell/round 
+back at caster if spectator makes a 
+successful saving throw, +1 to initia 
+tive, +2 to surprise; MR 5%: SZ M (4' 
+diameter); ML elite (14); Int high 
+(14); ALLN;XP 4,000. 
+
+Ike spectator's eyes can create food 
+and water, cause serious wounds to 
+180' away, paralyze to 90' away for 
+8d4 rounds, telepathy to 120' with a 
+single target and may implant sugges 
+tion if target fails save. 
+
+Personality: Stickler for rules, 
+inflexible. 
+
+If the PCs make it to the top of the 
+pyramid, they find the small platform 
+there cluttered with bones, hits of armor, 
+weapons, and tattered cloth-the 
+remains of those captivated by the power 
+of Avani's Eye. However, the mesmeriz 
+ing pull of the Eye affects everyone 
+within 10 feet of it immediately, includ 
+ing those on the platform and those 
+
+
+more than halfway up the stairs that are 
+in sight of the Eye, 
+
+The great crystal at the top of the pyra 
+mid is the Eye of Avani, a powerful scrying 
+device that allows the user to receive the 
+equivalent of one commune spell once per 
+day. However, for those who are not wise 
+high priests of the goddess, the effect is 
+less beneficial. Any creature who stands 
+on the platform and has less than 17 Wis 
+dom cannot tear its gaze away from the 
+Eye. The creature will literally stand there, 
+staring, until it dies of thirst (typically, 
+about three days later). 
+
+Even those who are wise enough to tear 
+their gaze away from the Eye may be 
+harmed by it, for the Eye reveals more 
+than most men were meant to know about 
+the gods, the world, and the forces of evil 
+and ignorance that the order opposed. 
+Since the Eye reveals all the knowledge of 
+the Temple of Avani, the viewer may be 
+driven insane. Anyone who watches the 
+Eye for more than 1 hour gains a commune 
+spell with Avani, and must roll percentile 
+dice (as per contact other plane to avoid 
+insanity) and consult the table in the 5 th- 
+level wizard spell contact other plane, listed 
+in the PHB. 
+
+49. Chasm of Faith: Like the bridge to 
+the divination chamber (Area 9), this 
+chamber is connected to the Demiplane of 
+Shadow, the Shadow World. Though the 
+chasm is like the one below the Bridge of 
+Shadows, the room itself contains four 
+arches, all leading to a shining pillar in the 
+center of the room. The small circular 
+ledge at the entrance to the chamber has 
+no railing and no protection irom the 
+strong winds that blow from below. Some 
+words are inscribed in the ledge's stone 
+floor in a silvery script: 
+
+Where I rise, seek to ascend. 
+
+Where 1 fall, seek to depart. 
+
+Where winter lingers, 
+
+seek the solace of wisdom, 
+
+Where summer shines, seek the 
+glory of war. 
+
+
+
+55 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The short verse is a description of the 
+chasm's contents, based on the image of 
+the sun. Where the sun rises (east) is the 
+gate to the Upper Planes (ascending), 
+where it sets (west) is the exit. Winter 
+comes when the sun lingers in the south, 
+so the library is in the south, and summer 
+comes when the sun is high is the north 
+ern sky, so the armory is in the north. 
+The verse is to remind visitors where they 
+are going, for crossing the chasm is not 
+an easy task. 
+
+The first danger facing anyone leaving 
+the platform and entering the chasm is the 
+wind. Each round that a creature spends 
+on the arches requires a Dexterity check 
+(if walking) or a Strength check with a +3 
+bonus (if crawling). Any creature that fails 
+one check is blown to the very edge of the 
+chasm. Failing a second check means the 
+creature has been swept off the arch. The 
+winds can be stopped by the 5th-level 
+priest spell, control winds. 
+
+The second danger is that any creature 
+venturing out onto the arches is attacked 
+by the flying creatures native to the cham 
+ber. a mass of gloomwing moths that 
+swarm to any source of light. Characters, 
+walking out in darkness need fight off only 
+a single gloomwing, but they run the risk 
+of making a fatal misstep (and they won't 
+see the sun at the centerpoint). 
+
+Gloomwings (1 or 5): AC 1; MV FI 
+12 (D); HD 5+1; hp 31, 24, 23, 22, 
+20; THACO 15; #AT3; Dmg ld3/ 
+Id3/ld8; SA swoop, pheromone; SD 
+confusion, camouflage; SZ M (8' 
+wingspan); ML average (9): Int ani 
+mal (1); AL N; XP 1,400 each. 
+
+
+
+
+
+The moth's shimmering wings con 
+fuse any creature for ld4+4 rounds 
+that fails a save vs. spell (as 4th-level 
+wizard spell). The moth is 50% unde 
+tectable because of camouflage. 
+When attacking in darkness or near 
+darkness, the gloomwing gains a -2 
+bonus to its surprise roll. 
+
+Swooping gains a +2 to attack. 
+During the second and each succes 
+sive round of combat, pheromones 
+cause weakness in a 25' radius. 
+Exposed creatures must make a suc 
+cessful saving throw vs. poison or 
+lose 1 point of Strength each round 
+they remain in the area of effect. 
+Creatures with a successful initial 
+save need not save again if exposure 
+continues. Multiple gloomwings do 
+not require multiple saves. Strength 
+returns 1 point per turn. Id4 hours 
+after exposure stops. 
+
+Anyone falling into the chasm passes 
+by the Bridge of Shadows before plum 
+meting forever into the half-darkness of 
+the demiplane. A successful Dexterity 
+ability check allows the falling creature 
+to grab the bridge. 
+
+The center of the arches is decorated 
+with an inlaid mosaic sun of bright tiles of 
+orange and yellow. Anyone standing on 
+the sun may dispel the gloomwings to 
+their home plane and.command the gar 
+goyle golem in Area 51 to do his bidding. 
+
+Crdatures attempting to fly by magi 
+cal means can be hit by the wand of nega 
+tion w'ielded by the gargoyle golem in the 
+Vault of Knowledge (Area 51). The gar 
+goyle golem will leap out to the attack if 
+the gloomwings are all slain and PCs are 
+heading south to the library it is sworn 
+to protect. 
+
+50. Armor of God: Here the order kept 
+its best armor and weapons. The room 
+now contains a solid heartwood chest 
+secured by copper hands, an iron casket, 
+and a large trunk of leather over oak, with 
+rusted iron fittings. 
+
+Hidden in the casket is the griffon 
+amulet, a magical talisman that allows the 
+wearer to cast charm monster on griffons, 
+
+
+56 
+
+
+hippogriffs, and eagles once per week. The 
+wearer also gains the animal training and 
+riding and airborne nonweapon proficien 
+cies while wearing the amulet. 
+
+The trunk is trapped with a scything 
+blade that sweeps out to take off the hand 
+of anyone who reaches into the chest 
+(avoid with a successful saving throw vs. 
+poison: suffer ld8 points of damage). 
+These treasures include a magnificently 
+worked set of bronze plate armor +2, a 
+large shield +3 called Lifeshielder that acts 
+as a magic jar spell, taking in the wielder's 
+life force when he is slain, a great helm +1 
+(as a ring of protection) and a set of bracers 
+of swimming and climbing. 
+
+The locked oak chest also contains trea 
+sures and a trap. It is protected by a sym 
+bol of discord, triggered when the lock is 
+picked successfully. There is a 50% chance 
+that PCs of different alignments attack 
+each other over the division of the spoils 
+inside the chest. The chest contains a 
+matched set of silver throwing daggers 
+(400 gp), an elaborate silver salt cellar 
+(3,000 gp, 2 feet tall), and a chessboard 
+and chess pieces made of ivory and black 
+jade, worth a total of 8,500 gp. 
+
+51. Vault of Knowledge: All the scrolls, 
+tomes, and maps once kept here have 
+been moved to other strongholds of Avani 
+by her loyal priests. However, the cham 
+ber's bookshelves and scroll racks are still 
+in place, and a few items belonging to el- 
+Mimar are still stored here, including his 
+spell books. 
+
+
+The vault is defended by a gargoyle 
+golem wielding a wand of negation (86 
+charges) that it uses to dispel the enchant 
+ments on any creature that flies in the 
+chasm or that walks from the centerpoint 
+toward the vault. The beam is pale gray 
+and is difficult to see in darkness or light, 
+
+Gargoyle golem: AC 0; MV 9 (leap 
+up to 100 ); HD 15; hp 60; THAC0 
+5; #AT 2: Dmg 3d6/3d6 (claw/claw); 
+SA surprise leap inflicts 4dl0 and 
+item saves vs. crushing blow, if hit by 
+both claws in any round victim must 
+make a successful saving throw vs. 
+petrification or be turned to stone; 
+SD -2 bonus to surprise foes; SW 
+earthquake spell instantly shatters the 
+golem without affecting surrounding 
+region, transmute rock to mud inflicts 
+2d 10 points of damage; SZ M (6' 
+tall); ML fearless (20); Int non (0): 
+AL N; XP 14,000. 
+
+During the round after a gargoyle 
+golem has petrified a victim, it will 
+attack that same target again. Any hit 
+scored by the golem against such a 
+foe indicates that the stone body has 
+shattered and cannot be resurrected. 
+
+The vault also contains a w and of earth 
+and stone (10 charges), a scarab vs. golems, 
+and a scroll of disintegrate, shatter, and 
+clairattdience (cast at 16th level), all 
+belonging to the architect. 
+
+52, The Mirror Gate: This archway 
+seems sealed with a mirrored surface. 
+
+
+
+
+
+
+
+
+the sword of 
+roele 
+
+T he sword carried by Michael Roele 
+is a heavy, well-used blade, forged 
+by the dwarves of Baruk-Azhik as 
+a gift for the Attuirean Emperor upon his 
+ascension to the throne. It is made in the 
+heavier, slightly more barbaric style of 
+500 years ago. 
+
+Though the hilt is decorated with 
+braided gold and silver leading to a 
+carved golden pommel, it is clearly a 
+blade meant for battle. Two small red gar 
+nets are set where the hilt meets the cross 
+piece in the form of a bearded dwarven 
+face. to sc I've as the blade s "eyes these 
+stones glow when wielded in battle by a 
+scion of the Roele bloodline. 
+
+Any bard who makes a successful lore 
+roll knows the story of the blade of 
+Michael Roele. The sword was broken in 
+two by the Gorgon during Roele's final 
+combat with the amisbegh, but the blade 
+is still faintly magical. Both the Lord 
+High Chamberlain, Acdan Dosiere, and 
+Gylvain Aurealis, an elven courtier and 
+warrior, were witnesses to Michaele 
+Roele's death, and their stories both say 
+the blade was broken by the Gorgon's 
+powerful swordplay. 
+
+The Sword of Roele is a +2 weapon, 
+with the special power of detecting evil 
+once per day. It functiotis only for blooded 
+characters. 
+
+
+
+
+
+
+Around the edge of the portal are symbols 
+resembling a mountain, an animal, a great 
+gear, a rainbow, a shining star, and an 
+hourglass. These symbols of the planes 
+show j the possible destinations of this 
+gate, though it was rarely used. The need 
+had to be very great for the order's mar 
+shalls to summon aid from the Upper 
+Planes to help in their battles. 
+
+The portal is a solid and unyielding sur 
+face until one of the proper passwords is 
+spoken before it. As soon as the word is 
+uttered, the mirror quivers for a moment 
+and assumes the color of the chosen desti 
+nation: silver for Mount Celestia, gray for 
+Arcadia, gold for Bytopia, white for Ely 
+sium, rust-brown for Mechanus, and 
+green for the Beastlands. Once activated, 
+the portal remains active for a single day. 
+Thereafter, anyone passing through is 
+trapped on the other side. 
+
+53. The Chamber of the Ark-Royal: This 
+entire room is protected by a forbiddance 
+spell that was cast by a 14th-level lawTul 
+neutral priest. Lawful neutral PCs can 
+enter without penalty, nonlaw'ful PCs 
+must successfully save vs. spell to enter or 
+suffer 2d6 points of damage, and good or 
+evil-aligned PCs must successfully save vs. 
+spell or suffer 4d6 points of damage. Only 
+a higher level caster can dispel this spell. 
+Once a PC fails a save, it cannot enter the 
+region. Even if the save is successful, 
+intruders feel uneasy and tense. 
+
+At the center of the room is a sarcophagus 
+with the statue of a knight in full armor 
+on its lid. The knight wears a croivu and 
+holds a glowing sword in his hands. 
+
+
+58 
+
+
+
+
+
+
+
+
+
+A successful use of the heraldry non 
+weapon proficiency or a bard's lore roll 
+will indicate that this is not the tomb of 
+Michael Roele, but the resting place of 
+Namaan el-Rammal, the father of el- 
+Arrasi, the savior of the Khinasi. El-Ram 
+mal was perhaps Avani's greatest paladin. 
+He was a powerful warrior, a devoted wor 
+shipper of Avani. and a great soothsayer. 
+The statue here resembles the statue in 
+the intersection of corridors downstairs 
+(Area 18), but it show's him much aged, 
+as he was at the time of his death, 
+
+El-Rammal's tomb is the order's holiest. 
+Inside the stone coffin is a golden ark con 
+taining the bones of its patron, the Shin 
+ing Knight of Eternal Sun. the prince of 
+the royal house who founded the order. 
+El-Rammal still defends the Great Tomb 
+after all these centuries. If his shrine or 
+resting place is disturbed, his spirit returns 
+to animate his body and drive off the 
+impious grave-robbers (the animated 
+remains are treated as a skeleton warrior). 
+The ark also contains the two shards of 
+the sword of Michael Roele (see The Sword 
+of Roele). To take the sword, the PCs must 
+open the ark and defeat the righteously 
+enraged spirit of the Shining Knight. Any 
+one wearing an amulet o f Avani can take 
+the sword if al-Rammal deems him wor 
+thy. He asks (in Khinasi), "Who dares take 
+the blade from the tomb of the order?" 
+Unless the answer is spoken in Khinasi, 
+al-Rammal attacks. If the answer is in 
+Anuirean. he attacks with +2 to all attack 
+and damage rolls. 
+
+Prince al-Rammal, undead Khinasi 
+male (skeleton warrior): AC 2 
+(bronze plate armor and shield +1); 
+MV 6; HD 9+12; hp 67; THACO 11 
+(wdth scimitar); #AT 3/2; Dmg ld8+2 
+(scimitar); SA sight of warrior causes 
+creature with fewer than 5 HD to flee 
+in panic; SD cannot be turned fay 
+priest; SW cannot attack true follow 
+ers of Avani. must engage in honor 
+able combat; MR 90%; SZ M; ML 
+fanatical (18); AL LG; XP 6.000. 
+
+
+
+S 16, D 13, C 16,1 14, W 14, Ch 18. 
+Personality: Proud, pious, and 
+determined. 
+
+Special Equipment: shield + 1, 
+scimitar of quickness +2, helm of 
+underwater action 
+
+If el-Rammal is defeated or answered, 
+he gives up his possession of his old body, 
+which collapses like the frail skeleton it is. 
+Any priest or w'orshipper of Avani who 
+restores the bones to their proper resting 
+place in the ark deserves a 4,000 XP 
+bonus experience award. 
+
+
+
+
+59 
+
+
+
+
+
+
+concluding the 
+adventure 
+
+
+T he adventure ends when the PCs 
+either side with the Brothers and 
+tell them how to reach Elysium 
+through the gates in the Chamber of 
+Shadows or the Chamber of the Ark- 
+Rovah or when they recover the Sword of 
+Roele and bargain with the Monkey King. 
+
+If the PCs help the Brother Mages, the 
+Mages offer the PCs their choice of wealth 
+or magic for information about how to 
+reach the gate. If the PCs choose wealth, 
+they are 
+given the 
+remains of 
+the Three 
+Brothers' 
+treasury: 10 
+GB. If they 
+choose 
+magic, they 
+
+are given access to the new r spells in the 
+Brothers' spellbooks, and nonspellcasters 
+each gain one magical item from Brothers' 
+stock. If the PCs have been especially 
+helpful (providing an escort to the gate, 
+slaying the Chimera and not claiming her 
+sources, or revealing the presence and 
+actions of the Monkey King, for example), 
+the Brother Mages might even offer to 
+invest their bloodline into a deserving 
+scion or unblooded PC. 
+
+If the PCs help the Chimera by track 
+ing down and slaying the Three Brother 
+Mages, they are richly rewarded. She 
+spends a Domain Action concluding a 
+treaty with the PCs, offering the Chi- 
+maeron's aid in the form of either her 
+(admittedly meager) troops or her magic 
+at some future date. Whether she keeps to 
+this agreement is another matter entirely. 
+
+If the PCs hold onto the Sword of Roele, 
+they deserve a 20,000 XP award. 
+
+
+further 
+
+adventures 
+
+
+N o matter who the PCs decide to help, 
+the Sword of Roele is a source of 
+many further adventures and much 
+political chaos. The Gorgon will attempt 
+anything-assassinations, invasions, and 
+
+missions by 
+powerful guild 
+thieves-to get 
+the sword back. 
+Although it has 
+great historical value, it has little 
+magical power. Some PCs might 
+be tempted to give it up. Those 
+Anuireans w r ho keep it are one 
+step closer to the Iron Throne, and in cor 
+respondingly greater danger. Those Khi- 
+nasi who keep it have a powerful bargain 
+ing chip to extract favors from any 
+Anuirean regent, or an incredibly lavish 
+gift to bestow upon an ally. 
+
+If the DM wants to remove the sword 
+from the game, the Monkey King demands 
+it as the price of his service and advice in 
+his role as the court astrologer (the "two 
+bloody stars"), Only the gods know where 
+he might take it and in whose hands it 
+might land. 
+
+
+the spells of 
+the chimoeron 
+
+
+eyes, crystal balls, or any other form of visual 
+magic, scrying, or divination-for the pur 
+poses of magic and sight, it does not exist. 
+
+The material component is 
+a black opal worth at least 
+
+1,000 gp. 
+
+
+metric of 
+madness 
+
+• Spells that cannot be used by good or 
+neutral-aligned spellcasters. 
+
+Armor Inversion (Alteration) 
+
+Level: 3 
+
+Range: 10'/level CT: 3 
+Comp; V.M AoE: 1 creature 
+
+Dur: 1 round/level ST: None 
+
+This spell weakens powerful fighters so a 
+wizard's minions can defeat them more eas 
+ily. Each magical "plus" that a fighter has 
+becomes a magical "minus." Protective 
+magic is turned against the fighter (but not 
+cloaks of displacement or boots of speed). 
+
+The material component for this spell is 
+a magical ring of protection, that must be 
+broken during casting. 
+
+Fang of the Adder 
+
+Level: 2 
+
+Range: 0 CT: 2 
+
+Comp: V, M AoE: 1 weapon 
+
+Dur; 1 round/level ST: None 
+
+This spell magically envenoms any 
+weapon the caster (or a designated recipi 
+ent) wields for the duration ol the spell. The 
+poison is identical to the adder's. Type E 
+(successful save or be slain, with an onset 
+time of 0 and causing 20 points of damage 
+even if the saving throw is successful). 
+
+Its material component is the fang of a 
+giant snake. 
+
+True Darkness (Alteration) 
+
+Level: 4 
+
+Range: 10 feet/level CT: 4 
+
+Comp: V. S, M AoE: 10 yd radius 
+
+Dur: Permanent ST: None 
+
+The area darkened by this spell cannot be 
+pierced by infravision, true sight, wizard 
+
+
+Impotence (Enchantment/Charm) 
+
+Level: 4 
+
+Range: 10 yards/lvl CT: 4 
+
+Comp: V AoE: I creature/5 Ivls 
+
+Dur: 1 round/level ST: Neg. 
+
+This curse magically blunts the victims 
+ability to attack another creature. No 
+attack or spell of the victim succeeds for 
+the duration of the spell. The victim can 
+defend himself normally, however. 
+
+Nemesis (Necromancy) 
+
+Level: 6 
+
+Range: Touch CT: 6 
+
+Comp: V, S, M AoE: 1 creature 
+
+Dur: 1 md/leve! ST: None 
+
+This spell creates an evil twin of the target 
+with the same AC, hp, THAC0, and abil 
+ity scores, and spells. Unless the victim 
+can magically flee the area, the nemesis 
+seeks to engage the original in combat. If 
+the spell's target is protected by magical 
+wards or uncrossable ground, the nemesis 
+relentlessly hunts its twdn, stopping only 
+for rest and food, all the while posing as 
+the spell's target. 
+
+If the spell's target already is evil, a 
+good nemesis cannot be created. 
+
+This spell is often employed when creat 
+ing a mirror of opposition. The material com 
+ponent is a silvered mirror worth at least 
+1,000 gp that is consumed in the casting. 
+
+Wall of Shadows (Evocation) 
+
+Level: 6 
+
+Range: 5 yds/level CT: 6 
+
+Comp: V, S, M AoE: 10' square/lvl 
+
+Dur: 10 r. + l/lvl ST: None 
+
+This spell summons a wall of inky, writhing 
+darkness to protect the caster. It provides 
+100% concealment against missile attacks 
+(-4 to AC), and chills anyone who attempts 
+to cross it, inflicting ld4 points of damage 
+per level of the caster, with a saving throw 
+For half damage. The chill also temporarily 
+
+r 2 *" Hl in ' - rr CO 
+
+
+61 
+
+
+drains 1 point of Strength per level of the 
+caster from each creature that crosses it, 
+but that Strength returns at a rate of 1 point 
+per turn. A creature who drops to a Strength 
+score less than 3 b rendered immobile until 
+Strength returns to 3. Any creature whose 
+Strength drops to 0 must make a System 
+Shock roll or die. 
+
+In the Shadow' World the spell has no 
+effect, but drains the caster's life energy 
+for 2d4 points of damage. 
+
+The material components include a 
+black opal worth at least 500 gp, the skin 
+of a black cat, and the remains of any 
+undead creature. 
+
+Wall of Swords (Evocation) 
+
+Level: 6 
+
+Range: 5 vards/tvl CT: 6 
+Comp: V, S, M AoE: up to 10' 
+
+squaredevel 
+
+Dur: 10 rncl.+ l/lvl ST: None 
+
+This spell creates a wall of steel blades in 
+any stationary location. Any creature pass 
+ing through the barrier suffers 4d8 points of 
+damage and must make a successful item 
+saving throw vs. crushing blow for equip 
+ment or the items are destroyed. 
+
+The wall of swords can also be formed into 
+a sphere (radius equal to 1 '/level) and used 
+as an offensive spell; any creature caught 
+within the sphere suffers the spell's full 
+effects as it passes through the wall. Using 
+the wall in this way. however, entitles the 
+target creature(s) to a saving throw. Those 
+with a successful save suffer only half dam 
+age and suffer no damage to equipment. 
+
+The material component is a small 
+mithral sword, worth at least 400 gp. 
+
+Vulnerability (Enchantment/Charm) 
+Level: 5 
+
+Range: Touch CT: 5 
+
+Comp: V, S. M AoE: 1 creature 
+Dur: 1 round/level ST; None 
+
+Though clumsiness, bad luck, and magi 
+cally bad timing, the victim of this spell is 
+in the wrong place at the wrong time, 
+reducing both nis Armor Class and saving 
+throw's bv 1 for each level of the caster. 
+
+The material component is any item 
+belonging to the intended target, from a 
+lock of hair, to a weapon, to a coin given 
+as payment. 
+
+
+spells of reason 
+
+Avani's priesthood developed several 
+spells that were favored by priests of the 
+order-when the order died, the knowl 
+edge was lost. 
+
+Glyph of Sunlight 
+
+(Abjuration, Evocation) 
+
+Sphere: Guardian 
+
+Range: Touch 
+
+Components: V, S. M 
+
+Duration: Permanent until discharged 
+
+Casting Time; Special 
+
+Area of Effect: Special 
+
+Saving Throw: Special 
+
+The glyph of sunlight b a glyph granted only 
+to the priesthood of Avani. It can be cast 
+only by a high priest of 15th level or above, 
+and it requires a minimum of 500 gp of 
+gold and 2.000 gp of powdered diamond. 
+
+It inflicts ld4 points of damage per 
+level of the caster and releases a beam of 
+light 10' in diameter centered on the 
+glyph itself, creating an effect similar to a 
+sunray spell for 1 round. Those harmed by 
+sunlight suffer the usual penalties; others 
+must make a successful saving throw vs. 
+spell or be blinded for ld4 rounds. 
+
+Grave Warding (Abjuration) 
+
+Sphere: Protection 
+
+Range: Touch 
+
+Components: V, S, M 
+
+Duration: Permanent until discharged 
+
+Casting Time: 1 turn 
+
+Area of Effect: One burial site 
+
+Saving Throw: None 
+
+A grave warding is cast on a burial site 
+to protect remains buried there against 
+the ravages of the undead. The buried 
+creatures cannot then rise as undead, and 
+undead cannot enter the warded area (the 
+strength of the protection is equal to a 
+protection from evil spell). Creatures from 
+the Lower and Upper Planes are also pre 
+vented from entering an area protected by 
+a grave warding. 
+
+
+62 
+
+
+the monkey kino - 
+
+
+CLIMAXE/TERRAIN: 
+
+FREQUENCY; 
+ORGANIZATION: 
+ACTIVITY CYCLE: 
+DIET: 
+
+INTELLIGENCE: 
+
+TREASURE: 
+
+ALIGNMENT: 
+
+NO, APPEARING: 
+ARMOR CLASS: 
+MOVEMENT: 
+
+HIT DICE: 
+
+THACG: 
+
+NO. OF .ATTACKS: 
+DAMAGE-ATTACK; 
+SPECIAL ATTACKS: 
+
+
+Any subtropical or 
+tropical land 
+Unique 
+
+Solitary 
+
+Any 
+
+Omnivore 
+Genius {18) 
+
+Nil (E. S, Z) 
+
+Chaotic Neutral 
+
+1 
+
+4 
+
+15* Cl 18 
+15 (120 hp) 
+
+5 
+
+1 (2 in trees) 
+
+Id 10 (or by weapon +6) 
+Drunken luck, tail, 
+taunting 
+
+
+SPECIAL DEFENSES: 
+MAGIC RESISTANCE: 
+SIZE: 
+
+MORALE: 
+
+XP YALUE: 
+
+
+Danger sense, polevauit 
+50% 
+
+M (5 + tall) 
+
+Champion (15-16) 
+18,000 
+
+
+Exiled from the Beastlands for his constant 
+chaotic trickery, the Monkey King goes by many 
+names-Hanuman. Bacchus, Agent of the Celes 
+tial Bureacracv-but he prefers to be called "Mon 
+key King," 
+
+In human form, the Monkey King is a master of 
+disguise and merriment, often dressed in the bright 
+mottled colors of a clown or jester In animal form, he 
+often wears jewelry or a crown. In either form, he car 
+ries a long staff (see the Scepm of the Monkey King 
+
+Combat: He attacks without weapons in a wob 
+bling, completely unpredictable manner Thb form 
+of combat allows him to strike twice each round for 
+ld6 points of damage per attack, and he can 
+attempt to Pick Pockets on a successful strike. In 
+trees or when otherwise hanging above the ground, 
+the Monkey King can use his remarkably long and 
+flexible prehensile Lad to attempt to Pick Pockets or 
+to trip an opponent, 
+
+Taunting: If the Monkey King is allowed to hoot 
+and jeer for 1 round, the taunting has the same 
+effect as a taunt spell. During the taunting, the 
+Monkey King throws scraps of food and offal and 
+grimaces at the target. 
+
+In human form, the Monkey King uses his staff 
+sceptre, striking once per round for 2d6+4 points of 
+damage. 
+
+The Monkey King has a natural telepathy that is 
+always active, malting him impossible to surprise or 
+deceive. In mortal danger he is 90% likely to have a 
+"bad feeling ' and 25% likely to know' exactly what 
+will happen. 
+
+He has the spell-like abilities anti-magic shell (3 
+times per day), charm person on anyone affectionate 
+to monkeys, plane shift, and fdeport. 
+
+The Monkey King is immune to all charm-related 
+
+
+
+spells, including spells that can compel action (for 
+example, geos)* He can summon 2d5 monkeys three 
+times per day with 100% chance of success." He has 
+a superior sense of smell and remarkable simian 
+speed and balance. 
+
+The Monkey King can perform all thieving abili 
+ties-including Read Languages and Read Magical 
+Scrolls-at a 95% chance of success. He climbs 
+walls at a 100% chance of success. 
+
+Habitat/Ecology; The Monkey King tends to 
+the affairs of monkeys throughout the planes and 
+worlds. He protects tribes of monkeys threatened 
+by humans. The Monkey King prefers warm 
+weather, sweet fruit, and lazy days. However, 
+whenever he finds a pleasing place he soons grows 
+restless. In addition to food and shelter, he 
+requires adventure, pranks, and trickery'. These 
+have driven him to leave many safe havens for the 
+wilds of the world. 
+
+The Sceptre of the Monkey King; 
+
+Though it takes many forms, the Monkey King is 
+never without his sceptre, a magical rod Lhai allows 
+him to pole vault over all obstacles and that lifts 
+him up into the sky to ride the clouds;(ai,the air. . 
+walk spell). The sceptre can become a wand, a staff 
+a cane, a spear, a shovel, or ahv.other long. partially, 
+wooden tool. If stolen (and only the most impudent 
+would steal from the Monkey King), the Sceptre 
+functions normally for the thief for one day (long 
+enough for the Monkey King to track down ^he ? 
+sceptre, as long as it has not left the plane wberfc it 
+was stolen). Thereafter it ceases functioningurltil 
+again touched bv the Monkey King, 
+
+63 
+
+
+
+
+
+mahoo-any 
+
+constrictor 
+
+
+
+
+
+
+
+
+
+CLIMATE/TERRAIN: 
+
+Subtropical forest, 
+marsh, or subter* 
+ranean 
+
+FREQUENCY: 
+
+Uncommon 
+
+ORGANIZATION: 
+
+Solitary 
+
+ACTIVITY CYCLE: 
+
+Any 
+
+DIET: 
+
+Carnivore 
+
+INTELLIGENCE: 
+
+Low (S-10) 
+
+TREASURE: 
+
+Nil 
+
+ALIGNMENT: 
+
+Neutral evil 
+
+NO. APPEARING: 
+
+Unknown 
+
+ARMOR CLASS: 
+
+3 
+
+MOVEMENT: 
+
+9, Cl 3 
+
+HIT DICE: 
+
+4+3 
+
+THACO: 
+
+15 
+
+NO. OF ATTACKS: 
+
+1 or 1 
+
+DAMAG E/AJTAC K: 
+
+3d6 + venom 
+
+SPECIAL ATTACKS: 
+
+Constriction 
+
+(ld4/round) 
+
+SPECIAL DEFENSES: 
+
+Only surprised on a 
+1 r displacement 
+
+MAGIC RESISTANCE: 
+
+Nil 
+
+SIZE: 
+
+H (2r long) 
+
+MORALE: 
+
+Elite (14) 
+
+XP VALUE: 
+
+1.400 
+
+
+
+
+The mahogany constrictor is a reptilian predator 
+that depends on both stealth and venom to bring 
+down its prey. But the mahogany constrictor is both 
+poisonous and magical. Its scales are a rich reddish- 
+brown T with a spiral pattern of black and white 
+scales running down its back. 
+
+Combat: A mahogany constrictor's crushing grip 
+is unlike that of other serpents. Because of its great 
+she, it can do more than kill by asphyxiation, it can 
+literally crush bones and rupture organs. As a 
+result, its constriction damage increases each round 
+it holds a victim in its coils. The first round damage 
+is ld4, but this increases by ld4 each round to 2d4 
+in the second, 3d4 in the third. 
+
+The constrictor can also bite with its enormous 
+fangs. Its venom Is relatively dilute lor such a large 
+animat but there is lots of it. The poison begins 
+working in ld3 rounds and then inflicts (halfif a 
+saving throw is successful), 
+
+Habi tat/Eco logy: Mahogany constrictors live 
+in deep jungles, coastal swamps of cypress, and 
+along forested rive thanks-anywhere there is both 
+water and shelter. They hunt both in the trees and 
+on the ground, approaching prey very slowly. 
+Fholmorien inhabit desolate marshes and forests 
+from the seashores to the mountain, as well as liv 
+ing in deep caves. 
+
+
+64 
+
+
+
+
+
+
+
+The Great Tomb of 
+
+f the Sun 
+
+
+Lesser Chambers 
+
+
+feet 
+
+
+-CO - secret door 
+locked door 
+
+
+T 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Great Tomb of 
+the Order of the Sun 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The sword 
+of Roele 
+
+
+by Wolfgang Baur 
+
+
+O n the border between Anuire and the land of the Khinasi, the Three Brother 
+Mages fight an ancient and immortal awnshegh, the Chimera. The game of 
+cat and mouse has recently begun to draw regents from the entire region. 
+Rumors say that the blade of the last Anuirean emperor, the Sword of Roele , has been 
+tracked to the Chimera's domain, the Chimaeron. The fact that the Gorgon's armies 
+are mustering in Kiergard seems to support the rumor. 
+
+
+But choosing sides between the Chimera and the Three Brothers is no easy matter. If 
+the Chimera drives the Brothers out, the trade routes through the Chimaeron may be 
+sealed, leaving the seas free for the Khinasi to monopolize trade. If the Brothers drive 
+the Chimera from the magical sources that give her strength, they may establish a 
+beachhead for the Khinasi traders, who are slowly gobbling up the lands of Anuire just 
+as their own lands were once annexed by the empire long ago. 
+
+Who will you and your comrades ally yourselves with? Who is the true enemy? Can you 
+recover the Sword of Roele before anyone else does, and lay claim to the Iron Throne? 
+
+
+This Birthright"' adventure is suitable for use with any party of three to six 
+characters of levels 5-8, including at least one regent. You must have a copy of the 
+AD&D(r) game rules, the Birthright campaign setting, and the Cities of the Sun 
+campaign expansion to play. 
+
+
+TSR, Inc. 
+
+201 Sheridan Springs Rd. 
+Lake Geneva 
+WI 53147 
+U.S.A, 
+
+
+
+TSR Ltd, 
+120 Church End 
+Cheny Hinton 
+Cambridge CB1 3LB 
+United Kingdom 
+
+
+Sug, Retail U.S. $12.95 CAN $16.95 U.K, £7.99 
+
+Advanced Dungeons & Dragons and AD&D are registered trademarks owned by TSR, Inc. 
+
+RlFTHRJOHT and the TSR logo are trademarks owned by TSR. Inc. (c)1996 TSR, Inc, Alt rights reserved. 
+Made in the U.S*A, 
+
+31 18XXX1401 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

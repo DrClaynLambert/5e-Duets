@@ -1,0 +1,1389 @@
+What do you do? Rest here tonight? Head to Saltmere? Send 
+warnings to the other villages? Something else?
+As much as I want to rest (and need to), we don't have the time yet. Recruit 
+Aldrich to come with us to the next town as a Witness to earn them, then send 
+a party to warn the other group while we recover.
+Dec 8
+"I want to rest," you say, exhaustion evident in your voice. "But we don't have 
+time. Those other villages are still targeted, and the sahuagin that escaped 
+might regroup or warn other nests."
+You turn to Aldric. "We need you to come with us to the nearest marked 
+village as a witness. You can vouch for what happened here, make them take 
+the threat seriously. We'll help them prepare, then send a party to warn the 
+third village while we finally rest."
+Aldric sets down his glass, determination replacing the shock. "Aye. I'll come. 
+These are fishing communities-we all know each other, trade with each other. 
+If I tell them what happened here, they'll listen."
+Kessa unfolds the map. "Closest marked village is... Beacon's Rest. About eight 
+miles down the coast. If we leave now, we could be there before dawn."
+Cyrus winces but nods. "I have enough healing magic to keep us going. Let's 
+finish this."
+"Give me five minutes," Aldric says. "I'll gather supplies and lock up the inn."
+ 
+The journey to Beacon's Rest is grueling. You're all wounded, exhausted, 
+running on willpower alone. But as the sky begins to lighten with pre-dawn 
+gray, you see the lights of another fishing village ahead.
+This one is slightly larger than Saltmere-maybe 150 people. Boats are being 
+prepared for the morning catch as you approach.
+A guard at the edge of town-an older man with a spear-challenges you. 
+"State your business."
+Aldric steps forward. "Harvin! It's me, Aldric from Saltmere. I need to speak to 
+your council immediately. There's an attack coming."
+Harvin's eyes widen. "Aldric? What in the-you look like you've been through 
+the hells."
+"Close enough," Aldric says grimly. "Get the council. Now. Lives depend on it."
+What's your approach when you meet with Beacon's Rest's council?
+Let Alaric and Curtis speak
+Dec 8
+Smart. Let the locals and the cleric handle it-they'll be more credible than a 
+warlock covered in blood and seawater.
+ 
+Within twenty minutes, you're standing in a modest town hall. Five council 
+members sit at a table-fishermen, a merchant, the harbormaster. They look 
+skeptical and alarmed in equal measure.
+Aldric speaks first. "Three nights ago, sahuagin raided Saltmere. They tried to 
+enslave our people using cursed items they'd planted-shells, coins, masks. 
+The enchantments made people walk into the sea."
+One council member scoffs. "Sahuagin? This far south? That's-"
+"I saw them," Aldric cuts in, his voice hard. "Fish-men with weapons of coral 
+and bone. They took three of my neighbors-the Silver Catch and her crew. 
+Killed and ate them."
+The room goes silent.
+Cyrus steps forward, his cleric's vestments still damp but his holy symbol 
+visible. "I am Brother Cyrus, cleric of Kiri-Jolith. What Aldric says is true. I 
+helped free four people from enchantment magic. We tracked the sahuagin to 
+their nest and destroyed it-but not before finding this."
+He spreads out the priestess's maps on the table. Three coastal villages 
+marked. Beacon's Rest is one of them.
+"They were planning to hit multiple settlements," Cyrus continues. "Building 
+an army of thralls for something they called 'the Deep One.' Your village is on 
+their list."
+The harbormaster leans forward, studying the map. "This is... this is our 
+coastline. That's Beacon's Rest marked right there."
+Aldric nods. "We evacuated Saltmere and set traps. When they came for us, 
+they found nothing but fire and empty houses. We destroyed their nest, but 
+some escaped. They might regroup. They might warn others. You need to 
+prepare."
+The council members exchange worried glances.
+"What do you suggest?" one asks quietly.
+Cyrus and Aldric look to you. How do you want them to answer?
+Retreat. To Saltmere. The distance from the water should discourage pursuit 
+until we determine just how serious this threat is. And send a large party, with 
+Aldric, to earn the other settlement of possible threat. We came to give you 
+enough time to gather your valuables and leave without panic, but you have 
+to have to start now.
+Dec 8
+You step forward. "Retreat. To Saltmere-it's inland, far enough from the 
+water to discourage pursuit until we know how serious this threat really is."
+The council members start to protest, but you raise a hand. "We came here to 
+give you time to gather your valuables and evacuate without panic. But you 
+need to start now. Not tomorrow. Not after discussing it. Now."
+Cyrus nods gravely. "The sahuagin came for Saltmere two hours after sunset. 
+You have maybe twelve hours before they could strike here-less if they're 
+already watching."
+Aldric adds, "Saltmere took us in once before during storm season. They'll take 
+you too. Bring what you can carry, livestock if possible, but don't delay for 
+anything that slows you down."
+You continue, "Send a large, fast party with Aldric to warn the third village-" 
+you tap the map, "-here. Give them the same warning, the same choice. 
+Meanwhile, your people move inland."
+The harbormaster looks stricken. "Abandon our homes? Our livelihoods?"
+"Temporarily," Cyrus says firmly. "We destroyed one nest, but we don't know 
+if there are others. We don't know what this 'Deep One' is or how many 
+sahuagin serve it. Until we do, the coast isn't safe."
+One of the council members-a weathered woman-stands. "I believe them. 
+I've fished these waters forty years. Something's been wrong lately. Fewer fish, 
+strange currents, odd sounds at night. If they say monsters are coming, I'm 
+not waiting to find out."
+Another council member nods slowly. "Agreed. We evacuate. Better safe than 
+dead."
+The harbormaster sighs heavily. "Alright. I'll organize the boats and wagons. 
+We can be moving within two hours."
+Aldric stands. "I'll take ten riders to Driftwood Cove-that's the third village. 
+We can be there by midday, give them warning, come back through Saltmere."
+You sway slightly on your feet, exhaustion finally catching up.
+Kessa steadies you. "We need rest. Now. Before we collapse."
+The council woman gestures to a side room. "There are bunks in the back. 
+Sleep. We'll handle the evacuation. You've done enough."
+Do you rest here while the evacuation proceeds, or push on to help 
+with something else?
+Long rest. I've taken a real beating
+Dec 8
+"We need to rest," you say, and even speaking feels like an effort. "Long rest. 
+I've taken a real beating."
+No one argues. Cyrus looks ready to collapse, and Kessa has been favoring her 
+wounded arm for the last hour.
+The council woman leads you to a back room with several simple bunks. 
+"Sleep as long as you need. We'll wake you when the evacuation's complete, or 
+if there's trouble."
+You barely make it to the bunk before exhaustion claims you. Your armor 
+comes off, your weapons within reach, and then-
+Sleep.
+ 
+LONG REST
+You regain all hit points: 66/66 HP You regain all spell slots: 2x 4th level 
+slots Kessa and Cyrus also fully recover
+ 
+You wake to afternoon sunlight streaming through a window. Your body 
+aches, but the wounds are healed-Cyrus must have used his remaining magic 
+while you slept. You feel restored, capable again.
+Outside, you hear the organized chaos of a town evacuating-wagons creaking, 
+voices calling instructions, livestock being herded.
+Kessa is already awake, sharpening her blades. "You were out for about ten 
+hours. The town's nearly evacuated-they'll be on the road within the hour. 
+Aldric left for Driftwood Cove six hours ago with his riders."
+Cyrus enters, carrying food. "Eat. The council wants to thank you before they 
+leave, but there's no rush."
+Through the window, you can see Beacon's Rest being systematically emptied. 
+Families with packed carts, fishermen leading their boats to be towed inland, 
+the organized retreat of a community that's done this before for storms-but 
+never for monsters.
+What do you want to do? Meet with the council? Check on anything 
+specific? Head back toward Saltmere?
+Check out the loot we collected, especially that trident.
+Dec 8
+Good idea. You pull out the items you collected from the nest and lay them out 
+to examine properly.
+The Chieftain's Trident:
+Arcana check: d20 + 5 = 14 + 5 = 19
+This is definitely a magic weapon. Holding it, you can feel the crackle of 
+electrical energy running through it. Based on your knowledge and testing:
+*	Trident of Warning (requires attunement)
+*	+1 to attack and damage rolls
+*	While attuned, you have advantage on initiative rolls
+*	You and any companions within 30 feet can't be surprised (except when 
+incapacitated)
+*	The weapon magically awakens you and your companions if any of you 
+are sleeping when combat begins
+The electrical damage you experienced was likely from the chieftain's own 
+abilities, not the weapon itself. This is more of a defensive/utility weapon than 
+an offensive powerhouse.
+Other Collected Items:
+*	Cursed items (shells, ritual components): Dangerous, probably should 
+be destroyed or locked away
+*	Maps and notes: Intelligence on three targeted villages, references to 
+"the Deep One"
+*	Personal effects from the Silver Catch crew: For their families
+*	Sahuagin weapons (coral spears, bone knives): Crude but functional, 
+minimal value
+Your Current Attunement:
+1.	Ring of Mind Shielding (critical, non-negotiable)
+2.	Amulet of Health (essential)
+3.	Rope of Entanglement (utility)
+The Trident of Warning is excellent-advantage on initiative and preventing 
+surprise could be lifesaving. You'd need to swap out your Rope of 
+Entanglement to attune to it.
+Kessa looks at the trident. "That's a nice find. The warning ability alone could 
+save our lives."
+Cyrus examines the cursed items carefully. "These need to be destroyed 
+properly. Fire won't be enough-they need divine purification or they could 
+spread their taint."
+What do you want to do with the trident? Attune to it? And what 
+about the cursed items?
+Does Curtis have space to take the rope do i can swap it for the trident?
+Dec 8
+You turn to Cyrus. "Do you have attunement space available? I'd like to swap 
+the rope for the trident, but the rope's still useful-could you attune to it?"
+Cyrus considers. "Let me think about what I'm carrying..." He counts on his 
+fingers. "I don't have any attuned items currently. Most clerics don't 
+accumulate as many magic items as you warlocks seem to." He smiles slightly. 
+"Yes, I can attune to the Rope of Entanglement. Battlefield control would be 
+useful, and it doesn't require me to be in melee range."
+"Perfect." You hand him the rope and begin the process of unattuning from it 
+and attuning to the Trident of Warning instead.
+This takes about an hour of focused meditation and connection with the item.
+As you attune, you feel the trident's magic sync with your awareness. It's like 
+gaining a sixth sense-a constant alertness, a readiness. You understand 
+instinctively that this weapon will warn you of danger before it strikes.
+Attunement Updated:
+1.	Ring of Mind Shielding
+2.	Amulet of Health
+3.	Trident of Warning (new)
+Cyrus attuned to: Rope of Entanglement
+Kessa watches the process with interest. "So now you'll be even harder to 
+ambush. Good. I was getting tired of you nearly dying."
+What do you want to do about the cursed items Cyrus mentioned 
+need proper destruction?
+Same thing we did last time?
+Dec 8
+"Same thing we did last time," you say. "Find a well, Cyrus consecrates the 
+water, we dump them in."
+Cyrus nods. "Simple and effective. The blessed water will suppress their magic 
+indefinitely."
+You ask one of the council members about a well. They point you to the town's 
+main well in the square-deep, stone-lined, reliable.
+Cyrus performs the consecration ritual, his holy symbol glowing as divine light 
+infuses the water below. It takes about ten minutes.
+Once complete, you drop the cursed shells, the ritual components, and the 
+other tainted items into the sanctified depths. Each one hits the water with a 
+splash, and you feel the malevolent energy fade immediately as the blessed 
+water neutralizes them.
+"Sealed away," Cyrus says, replacing the well cover. "They can be retrieved 
+later if needed for study, but they won't harm anyone now."
+The harbormaster approaches. "We're about ready to move. The last families 
+are loading their wagons now. We should reach Saltmere by nightfall if we 
+keep a good pace."
+Kessa stretches. "So what's our plan? Escort them to Saltmere? Head back to 
+Haven and report this to Laurana? Wait for Aldric's news from Driftwood 
+Cove?"
+It's a good question. You've handled the immediate threat, warned two 
+villages, and sent warning to the third. But the deeper mystery remains-what 
+is this "Deep One" the sahuagin were serving?
+What do you want to do?
+Check the map, is there any indication of staging areas nearby, should the 
+other group be back yet?
+Dec 8
+You pull out the priestess's maps and study them carefully with fresh eyes.
+Investigation check: d20 + 5 = 17 + 5 = 22
+Looking more closely at the markings, you notice several things you missed in 
+your initial examination:
+The Three Targeted Villages:
+1.	Saltmere (already hit, nest destroyed)
+2.	Beacon's Rest (current location, now evacuating)
+3.	Driftwood Cove (8 miles further south along the coast)
+Additional Markings:
+*	There's a larger symbol marked offshore, roughly equidistant from all 
+three villages-about 5-6 miles out to sea
+*	Depth notations suggest it's in deep water, maybe 200+ feet
+*	Crude drawings that might represent underwater formations or 
+structures
+*	Lines connecting this central point to each village
+"This isn't just individual nests," you say, pointing. "There's something out 
+there. Deeper. This might be where the 'Deep One' actually is."
+Kessa leans over your shoulder. "So the nest we destroyed was just... an 
+outpost? A forward operating base?"
+"Looks that way," you confirm.
+Timing on Aldric's Party:
+Cyrus checks the sun's position. "Aldric left about six hours ago for Driftwood 
+Cove. It's roughly 15-20 miles from here if he goes overland. At a good riding 
+pace, he should arrive there in another 2-3 hours, deliver the warning, then... 
+if they turn around immediately, they'd be back to Saltmere late tonight or 
+early tomorrow morning."
+So Aldric won't have news for at least another 8-12 hours.
+What do you want to do?
+But you isu said it was 8 miles away?
+Dec 8
+You're absolutely right - I made an error. Let me recalculate:
+Driftwood Cove is 8 miles from Beacon's Rest (as shown on the map).
+Corrected Timing:
+Aldric left 6 hours ago with mounted riders. At a decent riding pace (5-6 mph), 
+they would cover 8 miles in roughly 90 minutes to 2 hours.
+So Aldric's party would have:
+*	Arrived at Driftwood Cove: ~4 hours ago
+*	Delivered the warning and gotten the town organized: 1-2 hours
+*	Been on the return journey for: ~2 hours already
+Distance from Driftwood Cove to Saltmere (going through Beacon's Rest): 
+roughly 16 miles total.
+Aldric should actually be arriving back at Beacon's Rest very soon - 
+possibly within the next hour or two, depending on how long Driftwood Cove 
+took to organize.
+That changes things significantly. You might actually be able to wait here and 
+get his report before deciding your next move.
+Do you want to wait for Aldric to return, or proceed with a 
+different plan?
+Share my observations with the others, what do they think
+Dec 8
+You gather Kessa and Cyrus and spread out the map, pointing to your 
+findings.
+"This isn't just individual nests," you explain. "Look-there's a larger symbol 
+marked offshore, roughly equidistant from all three villages. Deep water, 
+maybe 200 feet down. Lines connecting it to each coastal target."
+Kessa studies the markings. "So the nest we destroyed was just an outpost. A 
+forward base for raiding. The real threat is out there." She taps the offshore 
+symbol.
+"And Aldric should be back soon," you add. "Maybe within the hour or two. 
+We could wait for his report from Driftwood Cove before deciding what to do 
+about this."
+Cyrus frowns at the map, his expression troubled. "If this 'Deep One' is 200 
+feet down in the open ocean... that's beyond our capability to reach, even 
+with Water Breathing. The pressure alone would be dangerous, and we'd be in 
+their element completely."
+"Not to mention we barely survived one nest," Kessa points out. "If that was 
+just an outpost and there's something bigger out there..." She doesn't finish 
+the thought.
+Cyrus looks at you. "This might be beyond the three of us. We've done what we 
+can-destroyed one nest, saved three villages, gathered intelligence. But a 
+deep-ocean assault on whatever this Deep One is? That needs resources we 
+don't have. Ships, experienced divers, maybe mages with specialized magic."
+Kessa nods slowly. "We should get this information to Laurana at Haven. Or to 
+someone with the resources to mount a proper expedition. This is turning into 
+something bigger than a local threat."
+"But," Cyrus adds, "we should wait for Aldric. Confirm Driftwood Cove is 
+warned and safe. Then we can make an informed decision."
+What do you think? Wait for Aldric, then head to Haven with the 
+intelligence? Or do you have another plan?
+Do we still have a sending stone to Lauranne?
+Dec 8
+Good question. Let me check your established inventory and communication 
+methods.
+Looking back at the campaign log, I see you have Khisanth's Scale for 
+communicating with the dragon, but I don't see a sending stone or similar 
+magical communication device established with Laurana.
+The resistance operations have been coordinated through in-person meetings 
+and messenger systems, but no magical long-distance communication has 
+been mentioned in your equipment or previous sessions.
+You could:
+1.	Use conventional messengers (riders to Haven)
+2.	Head to Haven yourself to report
+3.	See if Beacon's Rest or Saltmere has any communication magic available
+4.	Wait until you're back at Haven to deliver the intelligence in person
+"Do we have any way to contact Laurana from here?" you ask the others.
+Kessa shakes her head. "Not magically. We'd need to send a rider or go 
+ourselves."
+Cyrus adds, "Some larger temples have Sending scrolls or trained clerics who 
+can cast it, but a fishing village..." He looks doubtful.
+What do you want to do?
+Check the Pax Tharkas starred chat.
+Dec 8
+Relevant chats
+1 result
+Perfect! You do have sending stones. According to the conversation from the 
+Pax Tharkas operation:
+Sending Stone Setup:
+*	Stone 1: Laurana keeps at Haven
+*	Stone 2: Was with Garrett's team during the Saltmere operation, then 
+cached for you to retrieve later
+The question is: Do you still have the stone you retrieved from 
+Garrett's cache? Based on the conversation, you should have picked it up 
+after the Gharash assassination on your way to Solace.
+"Wait," you say. "The sending stone. I should still have the one we retrieved 
+from Garrett's cache after Saltmere."
+You check your Bag of Holding and pull out the smooth river stone with 
+arcane runes.
+Kessa's eyes light up. "Right! We can contact Laurana directly. One message 
+per day, 25 words."
+You hold the stone, thinking about what to say. One sending, 25 words 
+maximum.
+What message do you want to send to Laurana?
+Yes. Let her know what we're facing and see what she thinks
+Dec 8
+You hold the sending stone and compose your message carefully, keeping it to 
+25 words:
+"Destroyed sahuagin nest raiding coastal villages. Found maps showing larger 
+threat offshore-'Deep One' coordinating attacks. Three villages evacuated. 
+Need guidance on next steps. -Johannes"
+The stone grows warm in your hand as the magic activates.
+There's a pause of perhaps thirty seconds, then Laurana's voice echoes in your 
+mind, crisp and clear:
+"Excellent work saving villages. Deep ocean threat beyond our resources. 
+Bring intelligence to Haven. We'll coordinate with coastal authorities. Return 
+when able. -Laurana"
+The stone cools. Message delivered and received.
+Kessa raises an eyebrow. "She wants us back at Haven with the intel. Makes 
+sense-this is bigger than just us or even the resistance. Coastal defenses, 
+naval forces, maybe mages who specialize in underwater work."
+Cyrus nods. "The Church of Kiri-Jolith has contacts with maritime temples. 
+They might have resources for dealing with deep-sea threats. But we'd need to 
+go through proper channels."
+"So our options," Kessa says, counting on her fingers. "One: Wait for Aldric, 
+confirm Driftwood Cove is safe, then head to Haven with everything we've 
+learned. Two: Split up-some of us wait for Aldric, others head to Haven 
+immediately. Three: Do something else entirely."
+What do you want to do?
+Wait for Aldric
+Dec 8
+"We wait for Aldric," you say. "We need to confirm Driftwood Cove got the 
+warning and is evacuating. Then we'll have the complete picture to bring to 
+Laurana."
+Cyrus nods approvingly. "Good. Don't leave the job half-finished."
+Kessa settles against a wall. "Besides, we could use a few more hours of rest 
+before a long journey back to Haven."
+ 
+Time passes. The evacuation of Beacon's Rest continues around 
+you-organized chaos as families load wagons, secure livestock, 
+prepare for the journey inland to Saltmere.
+About two hours later, as the afternoon sun angles lower, you hear hoofbeats. 
+A group of riders approaches from the south-Aldric and his warning party, 
+returning.
+Aldric dismounts wearily but with evident relief. "Driftwood Cove is warned 
+and evacuating. They believed us-especially after I showed them the maps 
+and described what happened to Saltmere. They'll be heading inland within 
+hours."
+He looks at the three of you. "All three villages safe. Whatever those fish-devils 
+were planning, you've broken it up completely."
+The harbormaster of Beacon's Rest approaches. "We're ready to move. Last 
+wagon is loaded."
+Aldric nods. "We'll travel together to Saltmere. Safety in numbers."
+You now have:
+*	All three coastal villages warned and evacuating
+*	The sahuagin nest destroyed
+*	Intelligence on the offshore "Deep One" threat
+*	Physical evidence (maps, notes, items)
+*	The chieftain's trident
+*	Personal effects from the Silver Catch crew
+Do you:
+1.	Travel with the evacuation caravan to Saltmere (reunite the 
+townspeople, deliver closure about the crew)
+2.	Head directly to Haven with the intelligence
+3.	Something else
+Are there maritime temples or other sources nearby? I can't imagine we can 
+just leave this as is.
+Dec 8
+Good point. You turn to Cyrus. "You mentioned maritime temples-are there 
+any nearby? I can't imagine we can just leave this threat as is. Those sahuagin 
+could regroup, or this Deep One could send other forces."
+Cyrus considers. "The closest major port with significant temple presence 
+would be... Palanthas, but that's weeks away, far to the north. There's also Port 
+Balifor to the southeast, but similar distance."
+Aldric speaks up. "There's Ak-Thyln-a coastal city maybe three days' hard 
+ride northeast from here. It's got a naval garrison, proper harbor defenses, 
+temples to several sea deities. If anyone has resources to deal with deep-water 
+threats, it'd be them."
+The harbormaster nods. "Ak-Thyln's got patrol ships, experienced sailors 
+who've dealt with sahuagin before. They've got mages who work with the fleet 
+too-divination specialists, water-breathers, that sort."
+Kessa looks at you thoughtfully. "So we have options. We could go to Ak-Thyln 
+directly-three days, get proper naval and magical resources on this 
+immediately. Or we could go to Haven first, report to Laurana, let her 
+coordinate with Ak-Thyln and other authorities through official channels. 
+Slower, but more organized."
+Cyrus adds, "Or we split-one of us goes to Ak-Thyln to raise the alarm, the 
+others go to Haven with the intelligence. Cover both fronts."
+Aldric interjects, "The people of all three villages-we'll be at Saltmere. We 
+deserve to know what happens, whether this threat is truly ended or if we're 
+just... waiting for it to come back."
+What do you want to do?
+We go to Ak-Thyln immediately and start trying to get a real plan going
+Dec 8
+"We go to Ak-Thyln," you say decisively. "Immediately. This Deep One is still 
+out there, and those scattered sahuagin could regroup or warn other nests. We 
+need proper naval and magical resources on this now, not weeks from now 
+after messages get passed through channels."
+Kessa nods. "Three days hard ride. We'll need horses and supplies."
+Aldric steps forward. "Take ours-the horses we rode from Saltmere. They're 
+still fresh enough, and we won't need them once we're inland with the 
+wagons." He gestures to his riders. "We can spare provisions too."
+The harbormaster adds, "I'll write you a letter of introduction to Admiral 
+Kethren in Ak-Thyln. Former fisherman himself before he joined the navy. 
+He'll listen, especially with physical evidence."
+Cyrus looks concerned. "What about Haven? Laurana's expecting us."
+You hold up the sending stone. "I can send another message tonight, let her 
+know we're pursuing this directly with naval resources. She'll understand-it's 
+the fastest way to neutralize the threat."
+Within an hour, you have:
+*	Three horses (courtesy of Aldric's party)
+*	Provisions for the journey
+*	The harbormaster's letter of introduction
+*	All your evidence (maps, notes, trident, cursed items sealed in a 
+watertight case)
+The evacuation column begins moving toward Saltmere as you prepare to ride 
+northeast.
+Aldric clasps your hand. "End this. Those fishermen deserve justice, and our 
+people deserve to come home."
+You set out for Ak-Thyln. Ready to begin the journey, or is there 
+anything else you want to do before leaving?
+Go, times not a luxury
+Dec 8
+You mount up and ride.
+The three of you push the horses hard, eating miles through the afternoon and 
+into evening. The coastal road northeast is well-maintained-a trade route 
+between settlements-but you're racing against time.
+As night falls, you make camp briefly, tend the horses, and eat a cold meal. 
+You pull out the sending stone.
+Your message to Laurana: "Headed to Ak-Thyln naval garrison with sahuagin 
+intelligence. Deep One threat requires immediate maritime response. Will 
+coordinate with Admiral Kethren. Coastal villages safe. -Johannes"
+The stone warms, then cools.
+Laurana's response comes quickly: "Understood. Good tactical decision. I'll 
+coordinate with Ak-Thyln through channels. Watch for Dragon Army presence 
+there-it's contested territory. Stay safe. -Laurana"
+A warning worth noting. Ak-Thyln is apparently in a strategic position.
+You sleep in shifts, then ride again before dawn.
+ 
+Three days of hard travel:
+Day one: Coastal plains, passing fishing villages and farms Day two: Rolling 
+hills, skirting the edge of a forest Day three: The land rises, and you smell salt 
+air differently-a major port
+As the sun sets on the third day, you crest a hill and see Ak-Thyln spread 
+before you.
+It's a proper city-stone walls, a massive harbor with dozens of ships, 
+watchtowers, naval facilities. You can see warships at anchor, patrol boats in 
+the harbor, and the distinctive architecture of maritime temples near the 
+waterfront.
+This is a city that takes the sea seriously.
+You ride toward the main gates as twilight deepens.
+How do you want to approach? Present yourselves at the naval 
+garrison directly? Seek out the temples first? Use the 
+harbormaster's letter of introduction?
+Temple first, we need to understand what we're facing before going to the 
+navy
+Dec 8
+Smart. Get the theological and magical expertise first, then bring that 
+knowledge to the military.
+You guide your horses through the gates-the guards barely glance at three 
+tired travelers-and navigate through the evening streets toward the 
+waterfront district.
+The maritime temples are easy to find: a cluster of buildings near the docks, 
+each dedicated to different sea deities. You see symbols of Habbakuk (sea 
+animals and fishing), Zeboim (storms and chaos), and-most prominently-a 
+large temple bearing the trident symbol of Kiri-Jolith's maritime aspect.
+"There," Cyrus says, pointing to the Kiri-Jolith temple. "That's our best bet. 
+My god has strong ties to honorable naval warfare and protection of the 
+innocent. They'll take this seriously."
+The temple is impressive-white stone, carved with waves and military 
+imagery, clearly well-funded by naval donations. Guards stand at the entrance, 
+but they're ceremonial rather than hostile.
+You dismount and approach. One guard steps forward. "The temple is open 
+for evening prayers. Do you seek counsel or sanctuary?"
+"Counsel," Cyrus says, showing his holy symbol. "Brother Cyrus, cleric of Kiri-
+Jolith. We bring urgent intelligence about a threat to the coastal waters. We 
+need to speak with your senior clerics about sahuagin activity and something 
+called the Deep One."
+The guard's expression shifts from polite to alert. "Wait here."
+He disappears inside. Two minutes later, a woman in her fifties emerges-
+clearly a high-ranking cleric, wearing ceremonial robes with naval insignia.
+"I am Captain-Cleric Thessa," she says, her voice carrying command authority. 
+"You mentioned sahuagin and a Deep One?"
+How do you present your case?
+I defer to Cyrus
+Dec 8
+You step back slightly, giving Cyrus the floor. He's the cleric, this is his deity's 
+temple-he'll have the credibility here.
+Cyrus steps forward, showing his holy symbol prominently. "Captain-Cleric 
+Thessa. I am Brother Cyrus, servant of Kiri-Jolith. Three days ago, we 
+destroyed a sahuagin nest that was raiding coastal villages using enchantment 
+magic to create thralls."
+He gestures to you and Kessa. "My companions-Johannes Constantinius and 
+Kessa Darrow. We killed a sahuagin chieftain and priestess, saved three 
+villages from enslavement, and discovered intelligence suggesting a 
+coordinated threat."
+Thessa's eyes sharpen. "Come inside. Now."
+She leads you through the temple into a private chamber-clearly a war room 
+of sorts, with maps of the coastline covering the walls and a large table in the 
+center.
+"Show me everything," she says.
+Cyrus spreads out the priestess's maps on the table. "Three coastal villages 
+targeted. The sahuagin were planting cursed items-shells, masks, coins-that 
+would enchant the wearers, prepare them for thralldom. We found ritual notes 
+mentioning something called 'the Deep One' and references to when 'the stars 
+align.'"
+He points to the offshore marking. "This symbol appears to indicate 
+something in deep water, roughly equidistant from all three villages. We 
+believe it's the source-the Deep One itself, or its lair."
+Thessa leans over the map, her expression growing grave. She traces the 
+markings with her finger, then looks up sharply.
+"How deep is this location?"
+"Approximately 200 feet, based on the notations," you offer.
+She curses quietly. "That's... troubling. Very troubling." She looks at Cyrus. 
+"You said 'when the stars align.' Did the notes specify which stars? Any 
+celestial references?"
+What do you tell her? Do you have the actual notes to show her?
+We have the notes and share everything.
+Dec 8
+You pull out the waterproof case containing the priestess's notes and ritual 
+components. "We have the original documents. We can't read Sahuagin script 
+fluently, but Brother Cyrus made out some of it through divine insight."
+You spread the notes on the table-crude parchment treated to resist water, 
+covered in the flowing, alien script of the sahuagin language.
+Thessa examines them closely, her expression darkening with each page. "I 
+can read some of this. Naval clerics study sahuagin dialects-know your enemy 
+and all that."
+She traces one passage with her finger, translating: "'The Deep One stirs in its 
+temple... the stars move toward alignment... surface dwellers will serve or 
+feed... the faithful gather strength...'"
+She flips to another page. "Here: 'Three settlements marked for harvest... 
+thralls prepared for the awakening... when Kh?'leth rises, the coastlands will 
+know their master...'"
+She looks up, her face pale. "Kh?'leth. That's not just 'Deep One'-that's 
+a name. A specific entity." She moves to a locked cabinet, pulls out an ancient 
+tome, and begins flipping through pages.
+"Kh?'leth the Drowned," she reads aloud. "An aboleth-an ancient aberration 
+from before the Age of Dreams. The texts say it was bound beneath the waves 
+by the gods themselves during the Second Dragon War."
+Cyrus's face goes grim. "An aboleth. That explains the enchantment magic, the 
+thrall-making."
+Thessa continues reading: "Aboleths are masters of mental domination. 
+They're as intelligent as dragons, far older, and they view all other beings as 
+either slaves or food. They have psychic powers, can breathe water and air, 
+and..." She pauses. "They can create permanent mind-controlled servants with 
+their slime."
+She looks at your evidence again-the cursed items, the maps, the ritual notes. 
+"If Kh?'leth is genuinely awakening, this is far worse than a sahuagin raiding 
+problem. This is an existential threat to every coastal settlement within a 
+hundred miles."
+She looks at you three. "You destroyed one nest and saved three villages. But if 
+the aboleth is truly stirring, those sahuagin were just the beginning. There 
+could be dozens of nests, hundreds of thralls being prepared."
+She sets down the tome with a heavy thud. "We need Admiral Kethren. We 
+need the fleet. And we need to know exactly when these 'stars align.'"
+What do you ask or say?
+We serve the people. Tell us how to be of service
+Dec 8
+You meet Thessa's eyes directly. "We serve the people. Tell us how to be of 
+service."
+Thessa studies you for a moment-measuring, evaluating. Then she nods with 
+the respect of one professional to another.
+"First, you rest. You've ridden hard for three days and fought an underwater 
+battle before that. Admiral Kethren won't see anyone until morning anyway-
+he keeps strict schedules." She gestures to a side door. "The temple has guest 
+quarters. Clean beds, hot food, and you can stable your horses here."
+"Second," she continues, "I need to consult our astronomers and scholars 
+about this 'star alignment.' If we can determine when Kh?'leth plans to rise, 
+we have a timeline to work with."
+She taps the maps. "Third, at first light, we meet with Admiral Kethren. You 
+present your evidence, I provide the theological and historical context, and we 
+convince him to deploy naval resources against a threat most people think is 
+myth."
+"Fourth-and this is where you three come in specifically-if the Admiral 
+approves action, we'll need people who've actually fought sahuagin recently. 
+People who know their tactics, their magic, their weaknesses. People who can 
+go back into those waters if needed."
+She looks at each of you in turn. "The navy has ships and soldiers. The temple 
+has divine magic and knowledge. But you have experience with this specific 
+enemy. That makes you invaluable."
+Cyrus nods solemnly. "We'll do what's needed."
+Kessa asks, "What are the odds Kethren actually believes this and commits 
+resources?"
+Thessa smiles grimly. "With your evidence, my testimony, and the fact that 
+sahuagin activity has been increasing along the coast for months? Better than 
+you'd think. The Admiral's practical-he listens to facts and prepares for 
+threats, even unlikely ones."
+"Now," she says, "you look dead on your feet. Eat. Rest. We begin in earnest at 
+dawn."
+Do you rest, or is there anything else you want to do tonight?
+Rest
+Dec 9
+A temple acolyte leads you to the guest quarters-simple but clean rooms with 
+actual beds. Your horses are taken to the temple stables, fed and watered.
+Hot food arrives: fish stew, fresh bread, and ale. After days of trail rations and 
+cold camps, it tastes like a feast.
+"Three villages saved, an aboleth to deal with," Kessa says, sitting heavily on 
+her bunk. "When you said you wanted to help coastal towns, I thought we'd be 
+dealing with bandits or maybe smugglers."
+Cyrus removes his armor carefully. "Kiri-Jolith guides us where we're needed. 
+Apparently we're needed here."
+You collapse onto your bed, the Trident of Warning leaning against the wall 
+within reach. Your body aches, but you're clean, fed, and safe.
+Sleep comes quickly.
+ 
+LONG REST
+All HP, spell slots, and abilities fully restored Johannes: 66/66 HP, 2x 4th 
+level spell slots Party fully rested and ready
+ 
+You wake to morning light and the sound of ships' bells from the harbor. An 
+acolyte knocks on your door.
+"Captain-Cleric Thessa requests your presence. Admiral Kethren will see you 
+within the hour. She says to bring all your evidence."
+You dress, don your armor, collect your materials. The trident, the maps, the 
+notes, the cursed items sealed in their case.
+Cyrus looks resolute. Kessa checks her weapons with practiced efficiency.
+"Time to convince a naval commander that an ancient aboleth is waking up," 
+Kessa says dryly. "Should be an interesting morning."
+Thessa meets you in the temple's main hall. "Ready? The Admiral's expecting 
+us at the naval headquarters. Fair warning-he's skeptical by nature, but he's 
+also seen enough strange things at sea to keep an open mind."
+You head to meet Admiral Kethren. Ready to present your case?
+Yes, I will let Cyrus lead on this.
+Dec 9
+Smart. Let the cleric of Kiri-Jolith-a god with strong naval connections-take 
+the lead with a military commander.
+ 
+The naval headquarters is an imposing stone fortress overlooking the harbor. 
+Guards salute Thessa as she leads you through, clearly recognizing the 
+Captain-Cleric's authority.
+You're shown into a spacious office with large windows facing the sea. Charts 
+and maps cover every wall. Behind a heavy desk sits Admiral Kethren-a 
+man in his sixties, weathered by decades at sea, with sharp eyes that miss 
+nothing.
+He stands as you enter. "Captain-Cleric Thessa. And guests." His gaze sweeps 
+over you three, assessing. "You said this was urgent."
+"It is, Admiral," Thessa says. "These are Brother Cyrus of Kiri-Jolith, and his 
+companions Johannes Constantinius and Kessa Darrow. Three days ago they 
+destroyed a sahuagin nest and uncovered intelligence about a coordinated 
+threat to our coastline."
+Kethren gestures to chairs. "Sit. Show me what you have."
+Cyrus steps forward, placing the evidence on the Admiral's desk with military 
+precision. "Admiral, we were investigating attacks on three coastal villages-
+Saltmere, Beacon's Rest, and Driftwood Cove. Villagers were being enchanted 
+through cursed items, prepared for enslavement."
+He spreads out the maps. "We tracked the sahuagin to their nest, engaged and 
+destroyed their leadership-a chieftain and priestess. In their lair, we found 
+these documents."
+Cyrus presents the ritual notes, the maps with marked villages, the offshore 
+symbol. "The sahuagin were acting under orders from an entity they called 
+Kh?'leth. Captain-Cleric Thessa has identified this as an aboleth-specifically, 
+one that was supposedly bound centuries ago."
+Kethren leans forward, studying the maps intently. His expression is 
+unreadable.
+Cyrus continues steadily. "The notes reference 'when the stars align' and 
+preparing thralls for an 'awakening.' Three villages were targeted 
+systematically. We believe there's a central location approximately five to six 
+miles offshore, in deep water."
+He gestures to you. "Johannes engaged the sahuagin chieftain in underwater 
+combat and retrieved this." You place the electric trident on the desk.
+Thessa adds her voice. "Admiral, I've translated the ritual texts. This matches 
+historical accounts of aboleth activity-mental domination, thrall preparation, 
+coordinated strikes. The references to Kh?'leth specifically appear in pre-
+Cataclysm records."
+Kethren is silent for a long moment, examining each piece of evidence. Finally, 
+he looks up.
+"How many sahuagin did you kill?"
+"Approximately fifteen warriors, one chieftain, one priestess," Cyrus answers 
+precisely. "Several juveniles and additional warriors escaped into deeper 
+waters."
+"And the three villages?"
+"Evacuated inland. No casualties from the raids. We provided warning in 
+time."
+Kethren nods slowly. "I've been receiving reports for months-increased 
+sahuagin sightings, missing fishing boats, strange sounds in deep water. My 
+captains thought it was seasonal migration." He taps the map. "This suggests 
+otherwise."
+He looks at Thessa. "Your assessment, Captain-Cleric? Professional opinion."
+"The threat is real, Admiral. Whether it's truly an ancient aboleth awakening 
+or something else, these sahuagin are organized, equipped with magic, and 
+targeting coastal populations systematically. Left unchecked, this spreads."
+Kethren stands, moving to look out at his harbor full of ships. "If I commit 
+naval resources to this-ships, marines, mages-I need a target. Not just 
+'somewhere offshore.' I need coordinates, depth, a plan of attack."
+He turns back. "What exactly are you proposing?"
+Cyrus looks to you and Thessa. What's the proposal?
+Thessa? I wouldn't know where to begin
+Dec 9
+You look to Thessa. "I wouldn't know where to begin. This is your expertise."
+Thessa steps forward, moving to the map. "Admiral, here's what I propose-a 
+three-phase operation:"
+"Phase One: Reconnaissance and Confirmation"
+"We need to verify the location and assess the threat. I recommend a naval 
+vessel equipped with diving capabilities and magical support-clerics who can 
+cast Water Breathing, diviners who can scry or detect large concentrations of 
+aberrant life. We sail to these coordinates," she taps the offshore marking, 
+"and confirm what's down there."
+"If it's truly an aboleth or a major nest, we map it, count forces, identify 
+defenses. No engagement-pure intelligence gathering."
+"Phase Two: Consultation and Preparation"
+"Once we know what we're facing, we coordinate with the coastal temples, 
+request specialized resources-perhaps paladins trained in fighting 
+aberrations, mages with experience against psychic threats, equipment that 
+protects against mental domination. This isn't a normal naval engagement."
+"Phase Three: Assault or Containment"
+"Depending on what we find: either a coordinated strike to eliminate the 
+threat, or-if Kh?'leth is truly as powerful as the legends suggest-we 
+implement containment measures. Magical wards, divine barriers, permanent 
+naval patrols. Prevent it from spreading until we can gather enough force to 
+deal with it permanently."
+She looks at Kethren directly. "The immediate action is Phase One. One ship, 
+small but capable crew, magical support. Three to five days for 
+reconnaissance. Low risk, high intelligence value."
+Kethren considers this. "And these three?" He gestures to you, Cyrus, and 
+Kessa. "What role do they play?"
+Thessa doesn't hesitate. "They've fought sahuagin in close combat and won. 
+They have experience with the enemy's tactics and magic. They know what to 
+look for. I'd want them on the reconnaissance vessel as combat specialists and 
+advisors."
+Kethren looks at you three. "You've already done your part-saved three 
+villages, brought us this intelligence. I can't order civilians into a dangerous 
+naval operation. But if you're volunteering..."
+He lets the question hang.
+What do you say?
+We've had plenty of chances to back out if that's what we wanted. We're good 
+men, and women, in a storm, sir. We'll do what's need.
+Dec 9
+You meet Kethren's eyes steadily. "We've had plenty of chances to back out if 
+that's what we wanted. We're good men, and women, in a storm, sir. We'll do 
+what's needed."
+Kethren studies you for a long moment, then nods with evident respect. 
+"Spoken like someone who's seen real combat. Good."
+He moves to his desk and pulls out a chart of the coastal waters. "Here's what I 
+can commit immediately: The Stormbreaker-a fast sloop, thirty crew, 
+experienced captain. She's equipped for deep-water operations and has 
+reinforced diving capabilities."
+He looks at Thessa. "I'll assign Captain Meredith Andra-she's my best for 
+unconventional operations and she's worked with temple mages before. For 
+magical support?"
+Thessa responds, "I'll go myself, along with two acolytes trained in water 
+magic and divination. We can provide Water Breathing, protection spells, and 
+detection capabilities."
+"Good," Kethren says. He looks at you three. "You'll be listed as civilian 
+specialists attached to temple personnel. That gives you official status without 
+putting you in the naval chain of command. Captain Andra has final authority 
+on the ship, but you report directly to Captain-Cleric Thessa regarding the 
+mission objectives."
+He begins marking the chart. "Here's your reconnaissance zone-five to six 
+miles offshore, deep water. You survey, you assess, you report back. You do 
+NOT engage unless absolutely necessary for survival. Clear?"
+"Clear," Cyrus confirms.
+"The Stormbreaker can be ready to sail by tomorrow's morning tide. That 
+gives you today to prepare, coordinate with Thessa's team, and acquire any 
+specialized equipment you might need." He pauses. "The naval quartermaster 
+can provide standard diving equipment, rope, lights, weapons suitable for 
+underwater work. Anything beyond that, coordinate with the temple."
+He stands, extending his hand to Cyrus first, then you and Kessa. "You're 
+doing a service to every soul living on this coast. Whatever's down there, we'll 
+face it together."
+Thessa adds, "Meet me at the temple at midday. We'll go over magical 
+preparations, diving protocols, and what to expect if we encounter an aboleth 
+or its servants."
+You have the rest of today to prepare for tomorrow's 
+reconnaissance mission. What do you want to do?
+Kessa, Cyrus? Thoughts. Is like to know everything about aboleths and what 
+were getting ourselves into.
+Dec 9
+You turn to your companions. "Kessa, Cyrus? Thoughts. I'd like to know 
+everything about aboleths and what we're getting ourselves into."
+Kessa leans against the wall, arms crossed. "I know the basics-ancient, 
+tentacled nightmares that live in deep water and enslave minds. But I'm a 
+rogue, not a scholar. If we're swimming into an aboleth's lair, I want to know: 
+How do you kill one? What protects against their mental attacks? What 
+happens if they do get in your head?"
+Cyrus nods grimly. "I know more from temple teachings, but this is beyond my 
+experience. Aboleths are mentioned in the oldest texts-pre-Cataclysm 
+warnings about things that should stay buried. They're not like dragons or 
+demons. They're... alien. Their minds work differently. Their goals are 
+incomprehensible."
+He looks at you. "Your Ring of Mind Shielding will protect you from mental 
+intrusion, but Kessa and I don't have that defense. We need to know if there 
+are spells, items, or techniques that can shield us."
+Kessa adds, "And tactically-can we even hurt one? Are they like the sahuagin 
+where normal weapons work, or do we need magic? What about their lair-do 
+they have specific defenses, servants beyond the sahuagin?"
+"Also," Cyrus says, "the 'stars aligning' reference. Thessa mentioned consulting 
+astronomers. We need to know our timeline. Are we talking days, weeks, 
+months before whatever Kh?'leth is planning?"
+Kessa straightens. "So here's what I'm thinking for today: We hit the temple 
+library hard. Learn everything about aboleths-their abilities, weaknesses, 
+tactics. Then we talk to Thessa about magical protections we can get. Finally, 
+we check with the naval quartermaster about specialized equipment."
+She looks at you both. "Split up to cover more ground, or stick together?"
+What's your plan for the day?
+Stick together
+Dec 9
+"Stick together," you say. "We're a team, and we all need to know the same 
+information. No point in one of us learning something critical that the others 
+miss."
+Kessa nods. "Agreed. Let's start with the temple library-get the full picture on 
+aboleths. Then we talk to Thessa about protections and preparations."
+ 
+TEMPLE OF KIRI-JOLITH - LIBRARY
+The temple's library is extensive-centuries of naval records, theological texts, 
+and accounts of maritime threats. An elderly scholar-priest named Brother 
+Aldwyn helps you search.
+"Aboleths," he says, pulling down ancient tomes. "Terrible creatures. Let me 
+find the relevant texts..."
+Over the next several hours, you learn disturbing truths:
+ABOLETH CAPABILITIES:
+*	Physical: Twenty feet long, eel-like body with four tentacles. Can 
+survive in water or air (though prefer water)
+*	Mental Powers: Telepathy up to 120 feet, can enslave creatures who 
+fail to resist (permanent mental domination through mucus contact)
+*	Psychic Attacks: Can project psychic assaults that damage minds 
+directly
+*	Ancient Memory: Perfect recall stretching back millennia-they 
+literally remember the world before gods
+*	Magic: Natural spellcasting ability, typically illusion and enchantment 
+magic
+*	Lair Actions: In their lairs, they control water currents, create 
+phantasmal images, and can probe minds of creatures nearby
+WEAKNESSES:
+*	Vulnerable to psychic protection magic (Mind Blank, Protection from 
+Evil and Good, etc.)
+*	Can be killed through sufficient physical damage (they're not immortal, 
+just ancient)
+*	Require water or moisture-dry environments weaken them 
+significantly
+*	Overconfident due to their age and power-can be tactically 
+outmaneuvered
+THE MUCUS:
+This is particularly concerning. Aboleth skin secretes mucus that transforms 
+breathing creatures. One touch, and if you fail to resist:
+*	You can breathe water but NOT air
+*	Lasts for hours or until treated with Lesser Restoration
+*	Makes surface escape impossible without magical healing
+THRALLS:
+Creatures enslaved by aboleths become permanent servants unless freed 
+by Greater Restoration or the aboleth's death. The enslaved retain their 
+abilities but serve the aboleth absolutely.
+Brother Aldwyn looks grave. "The texts say aboleths view themselves as the 
+rightful rulers of the world. They remember when they dominated the 
+primordial oceans, before gods or dragons. Their plans span centuries. If 
+Kh?'leth is awakening, it's been planning this for longer than our civilization 
+has existed."
+Kessa's face is pale. "So if it touches us with that mucus and we can't breathe 
+air anymore..."
+"You drown on the ship unless someone casts Lesser Restoration," Cyrus 
+finishes grimly.
+You unconsciously touch your Ring of Mind Shielding. At least you're 
+protected from the mental domination.
+What do you ask or investigate next?
+Kessa? Cyrus?
+Dec 9
+Kessa speaks first, her tactical mind working. "Alright, so the mucus is a death 
+sentence without magical healing. Cyrus, you can cast Lesser Restoration, 
+right? How many times?"
+Cyrus calculates. "I can prepare it, yes. At my level, I have multiple spell slots 
+for it. But in combat, underwater, if multiple people get hit..." He doesn't 
+finish, but the implication is clear-he might not be able to save everyone fast 
+enough.
+"We need backup healing," Kessa says. "Potions, scrolls, whatever Thessa's 
+acolytes can provide. And we need a clear protocol: if someone gets mucus-
+touched, they surface immediately while they can still breathe air, get healed 
+before the transformation completes."
+She taps the book showing aboleth illustrations. "The mental domination-
+Johannes, your ring protects you. But Cyrus and I are vulnerable. What 
+protections can we get? Thessa mentioned she'd have spells."
+Cyrus nods. "I can prepare Protection from Evil and Good-it would shield 
+one person from aberrations, including their charm and domination effects. 
+But I can only maintain one at a time, and it requires concentration."
+"So one of us is protected, one isn't," Kessa says flatly. "That's not great odds."
+Brother Aldwyn interjects. "The temple may have blessed amulets or items 
+that provide resistance to mental effects. Also, Calm Emotions can suppress 
+charm effects temporarily if someone does get dominated."
+Cyrus looks thoughtful. "There's also the option of divine buffs before we 
+descend-Bless, Aid, anything that improves our mental resilience. Every 
+advantage helps."
+Kessa turns to you. "Here's my concern: we're planning a reconnaissance 
+mission, but if Kh?'leth is as intelligent as these texts say, it's not going to 
+just let us scout its lair. It'll know we're coming. It might set traps, ambushes, 
+or try to capture us for thralls."
+She's right. An ancient, hyper-intelligent aberration won't be caught off-guard 
+easily.
+"So what's our real plan?" Kessa asks. "Do we try to approach stealthily? Go in 
+fast and aggressive? Have an exit strategy if things go sideways?"
+What's your thinking?
+I an always one for stealth
+Dec 9
+"I'm always one for stealth," you say. "We've survived this long by not 
+announcing ourselves. If Kh?'leth is as ancient and intelligent as these texts 
+say, direct confrontation plays to its strengths-it's had millennia to prepare 
+defenses."
+Kessa nods approvingly. "Agreed. Reconnaissance means staying undetected. 
+Get in, observe, map what we can, get out without being noticed."
+Cyrus considers. "Stealth underwater is challenging. Water carries sound 
+differently, visibility is limited, and we'll be in the aboleth's element. But it's 
+still our best approach."
+You think through the tactical elements. "My One with Shadows invocation 
+works in darkness or dim light-which deep water definitely qualifies as. I can 
+turn invisible as long as I stay in shadow. That's our scout capability right 
+there."
+"The Cloak of the Manta Ray gives you swimming speed and water breathing," 
+Kessa adds. "You're built for underwater infiltration. Cyrus and I..." She 
+pauses. "We're less stealthy in water. I'm decent on land, but underwater?"
+Cyrus nods. "I'm armored and carry a mace. Not exactly subtle in the water."
+You lean forward. "So here's what I'm thinking: layered approach. I go ahead 
+as scout-invisible, silent, mobile in water. You two follow at a distance with 
+Thessa's group, ready to provide support or retreat if I signal danger. If I can 
+map the lair without engaging, we get intelligence without risk."
+"And if you get caught?" Kessa asks pointedly.
+"Then I use Misty Step or Dimension Door to extract myself, and we abort the 
+mission," you reply. "No heroics, no fighting an aboleth in its lair alone. Scout, 
+report, extract."
+Cyrus looks relieved. "That's sensible. Proper military reconnaissance-you're 
+the scout element, we're the support element, everyone has defined roles and 
+fallback positions."
+Brother Aldwyn, who's been listening, adds: "You'll want continual light 
+sources that don't require hands-perhaps enchanted stones or alchemical 
+solutions. And communication underwater is difficult. You'll need pre-
+arranged signals."
+Kessa nods. "Hand signals for close range, maybe colored flares for distance. 
+And a strict time limit-if Johannes isn't back within X minutes, we assume 
+compromise and withdraw."
+This sounds like a solid plan. What else do you want to prepare or 
+clarify before meeting with Thessa?
+I have Devil's Sight and Cyrus has the Goggles of Night. Light detection is our 
+biggest problems. Are there any telepathic communication options?
+Dec 9
+"Wait," you say. "I have Devil's Sight-I can see in magical darkness out to 120 
+feet. And Cyrus has the Goggles of Night. Light detection is actually our 
+biggest problem. If we're carrying light sources, we're announcing ourselves to 
+everything down there."
+Cyrus nods. "The goggles let me see in darkness as if it were daylight, up to 60 
+feet. So between us, we have excellent dark vision capabilities."
+"But Kessa doesn't," you point out. "And if Thessa's acolytes need light..."
+Kessa grimaces. "I'm half-elven-I have darkvision out to 60 feet naturally. 
+Not as good as magical sight, but I can navigate in darkness. The real question 
+is whether Thessa and her people can operate without light."
+Brother Aldwyn considers. "Most humans don't have darkvision. The temple 
+acolytes would need either magical darkvision or light sources. But you raise a 
+good point about detection."
+You continue. "The other issue: communication underwater. Hand signals 
+work at close range, but if I'm scouting ahead invisibly and spot something, 
+how do I warn you? Are there any telepathic communication options? Magic 
+items, spells, anything?"
+Brother Aldwyn's eyes light up. "Ah! Yes, actually. The spell Telepathic Bond-
+it links multiple creatures telepathically for hours. Unfortunately, it's 5th level 
+magic. None of the temple clerics here can cast it."
+He thinks further. "There are magic items-Rings of Telepathy, Sending 
+Stones like you have, but those are rare and specific. However..." He pulls 
+down another tome. "There's a lesser version: Message cantrip. Short range, 
+but it allows whispered communication at a distance."
+Cyrus shakes his head. "I don't have Message prepared, and it's not something 
+I can pick up quickly."
+"What about the acolytes Thessa mentioned?" Kessa asks. "Maybe one of them 
+has communication magic?"
+"Worth asking," you agree. "This is critical-if we can't communicate silently 
+underwater, the stealth approach falls apart."
+Brother Aldwyn adds, "There's also mundane options: pre-arranged signals 
+using colored smoke or dye in the water, bioluminescent algae that can be 
+activated, or even trained sea creatures that respond to commands. The naval 
+forces may have protocols for this."
+You should definitely raise this with Thessa when you meet at 
+midday. Anything else you want to research or prepare here in the 
+library?
+Any legends or myths about the aboleth?
+Dec 9
+"Any legends or myths about this specific aboleth-Kh?'leth?" you ask Brother 
+Aldwyn. "Or aboleths in general? Sometimes myths contain useful truths."
+Brother Aldwyn's expression grows thoughtful. "Let me check the older 
+archives..."
+He disappears into the deeper stacks, returning with several ancient, salt-
+stained texts. "These are pre-Cataclysm maritime records and oral traditions 
+compiled by coastal temples."
+Over the next hour, he shares what he finds:
+KH?LETH THE DROWNED - SPECIFIC LEGENDS:
+"There are fragmentary references to Kh?'leth in texts from before the 
+Cataclysm. It was supposedly one of the 'Deep Ancients'-aboleths that ruled 
+vast underwater domains when the world was young."
+He reads from a crumbling manuscript: "'Kh?'leth of the Drowning City 
+commanded legions of the scaled ones and built temples in the lightless 
+depths. When the gods rose, they bound the Deep Ancients beneath stone and 
+spell, that the surface world might flourish.'"
+"Another account," he continues, flipping pages, "mentions that Kh?'leth was 
+bound beneath what was then called 'the Kraken's Shelf'-a deep ocean trench. 
+The binding required the combined power of three sea deities and a sacrifice 
+of... well, the text is damaged here."
+ABOLETH GENERAL MYTHS:
+"The most consistent legend across cultures: aboleths never truly sleep, and 
+they never forget. Every slight, every defeat, every prisoner that escaped-they 
+remember and plan revenge across centuries."
+"Another common thread: aboleths hate the gods. They view divine beings as 
+usurpers who stole the world from its rightful ancient rulers. Any mention of 
+gods or divine power enrages them."
+He shows you an illustration-a crude but disturbing image of an aboleth 
+surrounded by enslaved humanoids. "They collect thralls obsessively. Some 
+legends say they're building armies for when 'the stars return to their ancient 
+positions' and the bindings weaken."
+"The 'stars aligning' reference in the sahuagin notes," Cyrus murmurs. "That's 
+not metaphorical. It's literal-an astronomical event that weakens divine 
+bindings."
+Brother Aldwyn nods grimly. "There are celestial events-conjunctions, 
+alignments-that occur in cycles. If Kh?'leth's binding was tied to stellar 
+positions..." He doesn't finish, but the implication is clear.
+ABOLETH WEAKNESSES IN MYTH:
+"Few cultures defeated aboleths in direct combat. Those who succeeded either 
+had divine intervention or..." he pauses, reading carefully, "exploited the 
+aboleth's arrogance. One account describes sailors who pretended to be 
+enslaved, then struck when the aboleth was distracted by its own gloating."
+"Another legend mentions that aboleths despise their own mucus being used 
+against them-apparently there are rare instances of the transformation being 
+reversed or weaponized."
+"And this is interesting," he taps a passage. "Several accounts mention that 
+damaging an aboleth's lair-destroying its collected treasures, its thralls, its 
+carefully constructed domain-enrages it so thoroughly that it makes tactical 
+mistakes."
+WARNINGS:
+"Every account that mentions someone descending into an aboleth's lair ends 
+one of three ways: the heroes don't return, they return enslaved, or they 
+return... changed. Traumatized by what they witnessed. Aboleths don't just 
+dominate minds-they show victims their true vision of reality, millions of 
+years of alien memory."
+He closes the book soberly. "The texts all agree: never underestimate an 
+aboleth's patience or intelligence. They think in centuries. Whatever you see in 
+that lair, whatever Kh?'leth has prepared-it's been planning it longer than 
+your entire civilization has existed."
+Kessa swallows hard. "Encouraging."
+Cyrus looks at you. "Your ring protects you from mental intrusion. But these 
+'visions'-if they're not direct domination but just... showing you things... I 
+don't know if that's covered."
+It's approaching midday. Time to meet with Thessa. Is there 
+anything else you want to know or prepare before heading there?
+How might the mucus be turnedagainst an aboleth?
+Dec 9
+"Wait," you say, stopping Brother Aldwyn before he closes the tome. "You 
+mentioned the mucus being turned against an aboleth. How? That seems like 
+critical tactical information."
+Brother Aldwyn flips back through the pages, squinting at the faded text. "Ah, 
+here it is. This is from an account dated approximately 800 years pre-
+Cataclysm, from a coastal nation that no longer exists..."
+He reads carefully: "'The creature's own slime proved its undoing. When the 
+brave captain forced the beast's tentacle against its own flesh, the 
+transformation curse took hold. The aboleth, master of water, found itself 
+choking on air it could no longer expel from its form.'"
+He looks up. "The implication is that aboleths are not immune to their own 
+mucus transformation. If you could somehow get their mucus onto them-
+force a tentacle against their body, redirect their own attack-they'd transform 
+to air-breathing and suffocate underwater."
+Kessa leans forward intently. "That's... actually brilliant. They weaponize 
+drowning against surface dwellers. We weaponize drowning against them."
+"But it would require getting into melee range," Cyrus cautions. "Close enough 
+to physically manipulate a tentacle. That puts you within reach of mental 
+domination."
+"Not me," you say, touching your Ring of Mind Shielding. "I'm protected. If 
+anyone's going to try this, it's me."
+Brother Aldwyn continues reading. "There's a warning here though: 'The 
+attempt cost three warriors their lives before success. The beast fought with 
+terrible fury when it realized the danger, thrashing and using its thralls as 
+shields.'"
+He finds another passage. "Here's an alternate account-from a sea elf tribe. 
+They apparently collected aboleth mucus in sealed vials after a battle, then 
+used it as a weapon in a later encounter. Coating their spears with it, then 
+striking the aboleth. Each hit had a chance to trigger the transformation."
+"Weaponized mucus," Kessa says thoughtfully. "If we could get samples from 
+the dead sahuagin or from the lair itself... coat arrows, blades, harpoons..."
+"That's assuming the mucus remains potent when stored," Cyrus points out. 
+"And that we can safely handle it without contaminating ourselves. But it's 
+worth asking Thessa about."
+Brother Aldwyn closes the book. "It's a risky tactic either way. You'd 
+essentially be trying to turn the aboleth's deadliest weapon against it while 
+fighting in its domain. But if you could make it work..." He shakes his head in 
+wonder. "Drowning a creature that's ruled underwater for millennia. There's a 
+certain poetic justice to it."
+It's now midday. You should head to meet Thessa. This mucus 
+reversal tactic is definitely worth discussing with her.
+Anything else before you go?
+Nope
+Dec 9
+You thank Brother Aldwyn for his help and head to meet Thessa at the 
+designated meeting room in the temple.
+Captain-Cleric Thessa is waiting with two younger clerics-both human, 
+probably in their twenties, wearing practical maritime vestments.
+"Johannes, Cyrus, Kessa," Thessa greets you. "These are Acolytes Maren and 
+Donal. They'll be accompanying us on the Stormbreaker. Maren specializes in 
+divination and water magic. Donal is trained in healing and protection spells."
+Both acolytes nod respectfully.
+Thessa spreads out a chart on the table. "Let's discuss the mission parameters. 
+Tomorrow at dawn, we sail to these coordinates. The journey will take 
+approximately four to five hours depending on wind. Once we're positioned, 
+we'll begin reconnaissance."
+She looks at each of you. "I understand from Brother Aldwyn that you've been 
+researching aboleths. Good. What questions or concerns do you have about 
+tomorrow's operation?"
+Kessa speaks first. "Communication underwater. If Johannes is scouting 
+ahead invisibly and spots danger, how does he warn us silently? Do any of 
+your acolytes have telepathic or silent communication magic?"
+What else do you want to discuss with Thessa? The mucus reversal 
+tactic? Protection from mental domination? Equipment needs? The 
+timeline for the stellar alignment?
+All of the above
+Dec 9
+Kessa's question about communication hangs in the air. You add, "And we 
+have several other critical concerns we need to address."
+Thessa nods. "Let's go through them systematically."
+COMMUNICATION:
+Maren, the divination specialist, speaks up. "I have the Message cantrip 
+prepared. I can create a whispered magical link to anyone I can see within 120 
+feet. It's not true telepathy, but it allows silent communication underwater."
+"That works for close-range coordination," you say. "But if I'm scouting ahead 
+invisibly-"
+"Then we establish check-in intervals," Thessa interrupts. "Every ten minutes, 
+you return to visual range and Maren messages you. If you miss a check-in, we 
+assume compromise and begin withdrawal protocols."
+Cyrus nods. "Standard reconnaissance procedure. That works."
+PROTECTION FROM MENTAL DOMINATION:
+"The aboleth's mental attacks," you continue. "I'm protected by my Ring of 
+Mind Shielding, but Cyrus and Kessa are vulnerable. What can we do?"
+Thessa considers. "I can cast Protection from Evil and Good on one person-it 
+grants advantage on saves against aberrations and prevents their charm and 
+fear effects. Cyrus, you mentioned you can prepare it as well?"
+"Yes," Cyrus confirms. "So that's two people protected-Kessa and one other."
+Donal adds, "I'll have Calm Emotions prepared, which can suppress ongoing 
+charm effects on multiple targets if someone does get dominated. Not 
+prevention, but damage control."
+"There's also divine buffs before we descend," Thessa says. "Bless improves 
+saving throws, Aid increases maximum hit points and resilience. We layer 
+defenses-make it harder for the aboleth to succeed, and have responses ready 
+if it does."
+THE MUCUS REVERSAL TACTIC:
+You lean forward. "Brother Aldwyn mentioned something interesting in the 
+old texts-aboleth mucus being turned against them. Forcing their own 
+tentacles against their body, or coating weapons with collected mucus to 
+trigger the air-breathing transformation in them."
+Thessa's eyebrows rise. "That's... actually documented? I've heard rumors but 
+never confirmed accounts."
+"Multiple sources," Cyrus confirms. "Pre-Cataclysm records from different 
+cultures. The aboleth transforms to air-breathing and suffocates underwater."
+Thessa looks genuinely intrigued. "That would be devastating if we could pull 
+it off. The challenge is getting mucus samples without contaminating 
+ourselves, then applying it in combat."
+Maren speaks up. "We could prepare sealed vials with Mage Hand to collect 
+samples remotely. Coat weapons before engagement. But it's incredibly risky-
+one mistake and whoever's handling it gets transformed."
+"I'd be the one attempting it," you say. "I'm protected from mental domination 
+and have the best underwater mobility. If I can get close enough to redirect a 
+tentacle attack or deliver a mucus-coated strike..."
+"It's a desperation tactic," Thessa says firmly. "Last resort if we're forced into 
+combat. But worth preparing for." She makes a note. "We'll bring collection 
+vials and coating materials. Maren can handle the mucus remotely if we get 
+samples."
+EQUIPMENT NEEDS:
+"Beyond the mucus collection kit," Kessa says, "what else should we 
+requisition from the naval quartermaster?"
+Thessa consults a list. "Underwater combat requires specialized equipment:
+*	Weighted belts for maintaining depth control
+*	Diving knives for cutting through kelp, nets, or tentacles
+*	Signal flares (waterproof) for emergency communication
+*	Rope and grappling gear for navigating underwater terrain
+*	Sealed containers for specimen collection
+*	Healing potions distributed among the team
+The quartermaster will have standard naval diving gear. Is there anything 
+specific you need beyond that?"
+"Backup light sources," Cyrus says. "Even though most of us have darkvision, 
+we need contingency lighting for emergencies."
+"Agreed," Thessa says. "Alchemical lights, shielded so they can be concealed 
+when needed."
+THE STELLAR ALIGNMENT TIMELINE:
+"The 'stars aligning' reference in the sahuagin notes," you say. "Have your 
+astronomers determined when this happens?"
+Thessa's expression darkens. "Yes. And it's not good news. There's a rare 
+planetary conjunction occurring in approximately three weeks. Five celestial 
+bodies will align in a configuration that hasn't occurred in over a thousand 
+years-roughly matching the timeframe of Kh?'leth's binding."
+Three weeks. That's your timeline.
+"If the binding weakens during that conjunction," Thessa continues, "Kh?'leth 
+will be at its strongest. And if it's been preparing thralls and forces for this 
+moment..." She doesn't finish, but the implication is clear.
+"So reconnaissance tomorrow isn't just intelligence gathering," Kessa says 
+slowly. "It's assessing whether we have time for a proper assault, or if we need 
+to act immediately."
+"Exactly," Thessa confirms. "If Kh?'leth is already strong enough to break free, 
+we might need Admiral Kethren to authorize immediate military action. If the 
+binding still holds but is weakening, we have a brief window to strengthen it or 
+eliminate the threat."
+She looks at all of you. "This reconnaissance mission just became much more 
+urgent. We're not just scouting-we're determining if we have three weeks or 
+three days."
+Anything else you need to address before tomorrow's departure?
+Cyrus? Kessa? Underwater weapons? Especially underwater ranged weapons?
+Dec 9
+You look to your companions. "Cyrus? Kessa? What about weapons? 
+Especially underwater ranged weapons-Kessa, your crossbow won't work, 
+and even your bow will be severely limited."
+Kessa nods. "I've been thinking about that. Crossbow bolts are useless 
+underwater-the resistance kills their velocity. Regular bows work poorly 
+unless specially designed. I need alternatives."
+Thessa gestures to Donal. "Show them."
+Donal opens a chest, revealing specialized equipment. "Naval combat gear. We 
+have:
+For ranged combat underwater:
+*	Harpoons and javelins - weighted for throwing underwater, effective 
+up to 20-30 feet
+*	Nets - weighted, for entangling opponents
+*	Spearguns (mechanical) - crude but functional, better range than 
+thrown weapons
+For melee:
+*	Tridents and spears - piercing weapons work best underwater
+*	Short swords and daggers - slashing still works but less effectively
+*	Weighted maces - bludgeoning actually works fine due to water 
+resistance helping momentum"
+Kessa picks up a harpoon, testing the weight. "I'm trained with spears and 
+javelins. This could work. Not as good as my bow, but functional."
+"I already have the chieftain's trident," you note. "It's actually designed for 
+underwater combat."
+Cyrus examines a naval mace. "My regular mace should work fine. 
+Bludgeoning weapons don't suffer penalties underwater like slashing does."
+Thessa adds, "There's also the option of Create Water or Control Water spells 
+for battlefield manipulation, but those are more defensive. For actual weapon 
+selection-"
+She looks at Kessa specifically. "You mentioned you're half-elven. What's your 
+Dexterity?"
+"Eighteen," Kessa replies.
+"Then I'd recommend multiple javelins for ranged attacks, and keep your 
+short sword for close combat. Javelins are versatile-you can throw them or 
+use them as melee spears."
+Maren adds, "I can cast Magic Weapon if needed, to give temporary magical 
+properties to mundane weapons. Especially useful if we encounter creatures 
+resistant to non-magical attacks."
+Cyrus looks thoughtful. "What about underwater movement? Are we all 
+swimming normally, or are there enhancements?"
+"Water Breathing gives you the ability to breathe but doesn't improve 
+swimming speed," Thessa explains. "However, Johannes has the Cloak of the 
+Manta Ray which gives him a swim speed. The rest of us will be slower-
+roughly half our normal land movement speed in water unless we have 
+swimming training."
+"I'm a decent swimmer," Kessa says. "Years of practice. But I won't be as 
+mobile as Johannes."
+"Which is why Johannes scouts ahead and we follow at a careful distance," 
+Cyrus says.
+You notice something. "Wait-Cyrus, you're wearing chain mail. Won't that 
+sink you like a stone?"
+Cyrus looks uncomfortable. "That's... actually a good point. Heavy armor 
+underwater is problematic."
+Thessa nods. "You'll need to switch to lighter armor for this mission. The 
+quartermaster has studded leather that should fit. It's a sacrifice in AC, but 
+drowning because you can't swim is worse."
+Donal adds, "I'll be wearing padded cloth armor for the same reason. Mobility 
+over protection in this environment."
+Any other equipment or preparation concerns?
+Anyone?
+Dec 9
+Kessa speaks up. "One more thing-escape plans. If this goes sideways and 
+we're 200 feet down in an aboleth's lair, what's our extraction protocol?"
+"Good question," Thessa says. "Ascending too quickly from that depth causes 
+problems-the bends, pressure sickness. Normally you'd need staged 
+decompression stops."
+"However," Maren adds, "magical Water Breathing bypasses some of those 
+issues since you're not breathing compressed air. But rapid ascent is still 
+dangerous-you risk lung damage, disorientation."
+"So if we need to flee quickly?" Kessa presses.
+Thessa considers. "Emergency ascent: swim up as fast as you can, accept the 
+consequences, and we treat injuries on the surface. Donal and I will have 
+healing magic ready. Better injured than enslaved or dead."
+Cyrus adds, "Johannes has Dimension Door-he can teleport 500 feet 
+instantly. That's a direct escape to the surface if needed."
+"For the rest of us," Thessa says, "we stay together, fight our way to open water 
+if necessary, and ascend as a group. No one gets left behind."
+She looks at each of you seriously. "If the aboleth appears and engages 
+directly, we do NOT fight it. We retreat immediately. This is reconnaissance, 
+not assassination. Clear?"
+Everyone nods.
+Donal speaks quietly. "What if someone gets enslaved? The mucus contact, the 
+mental domination-what if Kh?'leth captures one of us?"
+Heavy silence.
+"Then we extract whoever we can," Thessa says grimly, "and we return with 
+overwhelming force to free them. But we don't sacrifice everyone trying to 
+save one person in the moment. That's cold, but that's tactical reality."
+Kessa looks at you and Cyrus. "We all understand the risks. We're going 
+anyway. But let's be smart about it."
+Cyrus nods solemnly. "Agreed."
+Anything else, or are you ready to wrap up preparations and get 
+final gear from the quartermaster before tomorrow's dawn 
+departure?
+Let's go... though I might mention the possibility that this partnership might 
+lead to possible alliances with Haven and the resistance.
+Dec 9
+Before everyone disperses, you speak up. "Captain-Cleric Thessa, Admiral 
+Kethren-there's something else worth mentioning."
+Thessa pauses, attentive.
+"This partnership-Ak-Thyln's naval forces working with us-could extend 
+beyond this immediate threat. I'm associated with the resistance movement at 
+Haven, under Commander Laurana Brightblade. We've been conducting 
+operations against the Dragon Army in the region."
+Thessa's expression sharpens with interest. Kethren, who's been observing 
+from the doorway, steps forward.
+"Haven's resistance," Kethren says slowly. "We've heard reports. Pax Tharkas 
+liberation, wasn't it? Freed hundreds of prisoners?"
+"Seven hundred," you confirm. "And multiple other successful operations. The 
+resistance is growing, organized, and effective. But we're primarily land-based. 
+Naval support, coastal coordination, intelligence sharing-these could benefit 
+both our organizations."
+Thessa exchanges a glance with Kethren. "Ak-Thyln has been... cautious about 
+the Dragon Army situation. We're a port city-we rely on trade. Open alliance 
+with a resistance movement could make us a target."
+"Agreed," Kethren says. "But covert cooperation? Intelligence sharing about 
+Dragon Army naval movements, coordinated strikes on coastal targets, mutual 
+support against shared threats like this aboleth situation?" He considers. 
+"That has potential."
+"The resistance has proven competent," Thessa adds. "If they accomplished 
+Pax Tharkas with the forces available to them, they're worth taking seriously."
+Kethren nods slowly. "Let's deal with Kh?'leth first. But afterward, if you're 
+willing to facilitate introductions between Ak-Thyln and Haven's leadership... 
+I think Admiral Brightblade and I should have a conversation."
+"Commander Brightblade," you correct gently.
+"Commander," Kethren acknowledges. "Even better-she understands she's 
+building something, not just leading raids. That's the kind of leadership that 
+wins wars."
+He extends his hand. "Survive tomorrow's mission. Bring back actionable 
+intelligence. Then we'll talk about what Ak-Thyln and Haven can do for each 
+other."
+You shake his hand firmly.
+ 
+The rest of the day is spent at the naval quartermaster:
+*	Kessa gets four javelins and keeps her short sword
+*	Cyrus switches to studded leather armor (reluctantly)
+*	You requisition collection vials, signal flares, diving knives
+*	Healing potions are distributed (you still have one Greater Healing, now 
+supplemented with regular healing potions)
+*	Weighted belts and specialized gear for everyone
+As the sun sets, you return to the temple quarters for one final night's rest 
+before tomorrow's mission.
+Dawn departure. Ready to end the session here, or continue to the 
+ship?
+

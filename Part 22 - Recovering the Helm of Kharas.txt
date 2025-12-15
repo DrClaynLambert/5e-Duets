@@ -1,0 +1,2202 @@
+HAVEN - THREE DAYS AFTER DEBRIEFING
+You've had time to rest, recover, and process the Flotsam operation. 
+The Stormbreaker departed two days ago, Captain Andra taking her crew back 
+to Ak-Thyln with news of the successful mission and thanks from Commander 
+Laurana.
+Elara and Lady Sharane left yesterday-returning to their estate with a 
+resistance escort. Elara hugged each of you before leaving, her grandmother's 
+locket gleaming at her throat. She's still processing everything, but she's alive 
+and free.
+Cyrus has been spending most of his time in Haven's small temple, praying 
+extensively. He's functional-eating, sleeping, participating in daily life-but 
+there's a heaviness to him that wasn't there before. He smiles less. He's 
+quieter. The number "547" still haunts him.
+Kessa has been keeping busy with training and equipment maintenance. She's 
+attentive to Cyrus's state but doesn't push-she understands that some 
+burdens take time.
+You've been reviewing the intelligence from Lucien's documents, meeting with 
+Laurana's staff, and managing the aftermath of the operation. The strategic 
+impact is enormous-the Dragon Army's regional naval capability is gone, 
+their invasion timeline disrupted, their command structure scrambled by 
+Lucien's death.
+ 
+UNEXPECTED VISITOR
+It's mid-afternoon when a runner finds you in Haven's common 
+area. "Commander Constantinius? There's a dwarf at the main gate 
+asking for you specifically. Says his name is Thordin Ironhelm. 
+Says you'll want to hear what he has to say."
+The name doesn't ring any bells. You've met dwarves before, but no one 
+named Thordin.
+"Did he say what he wants?"
+"No, sir. Just that it's 'a matter of professional interest to skilled 
+operatives.' Those were his exact words."
+Curious. You gather Kessa and Cyrus and head to the gate.
+ 
+THORDIN IRONHELM
+The dwarf waiting at Haven's entrance is impressive even by dwarven 
+standards.
+Thordin Ironhelm stands about 4'8", built like a brick wall, with a 
+magnificent braided beard shot through with silver. He wears well-made 
+traveling clothes, carries a warhammer at his belt, and has the bearing of 
+someone who's seen serious action. His eyes are sharp, intelligent, assessing.
+When he sees you approach, he nods respectfully. "Commander 
+Constantinius? Kessa Darrow? Brother Cyrus? Good. Wasn't sure 
+the descriptions I was given were accurate, but you match."
+His voice is gravelly, confident. This is not a dwarf who wastes time with 
+pleasantries.
+"I'm Thordin Ironhelm, master delver and expedition leader. I'm 
+here because I have a job that requires people with very specific 
+skills: tactical thinking, combat proficiency, willingness to work in 
+dangerous conditions, and-most importantly-discretion."
+He looks at each of you in turn. "I've been asking around Haven for a 
+skilled team. Your names came up more than once. Apparently 
+you've done some impressive work recently."
+Kessa's eyes narrow slightly. "What kind of job?"
+Thordin grins. "The profitable kind. And before you ask-no, it's not 
+resistance business. This is personal. Private. And it pays 
+extremely well for relatively little risk compared to, say, infiltrating 
+Dragon Army flagships or storming fortresses."
+He clearly knows more about your recent activities than you'd expect a 
+random dwarf to know.
+"Interested?"
+ 
+THE PROPOSITION
+You invite Thordin into Haven's guest area-a private room where you can talk 
+without being overheard.
+Once seated, Thordin gets straight to business:
+"I'm a professional delver. I explore old ruins, forgotten tombs, 
+collapsed mines-places most people won't go. I find valuable 
+things, I sell them, I make a good living. It's dangerous work, but 
+I'm good at it."
+He pulls out a worn map and spreads it on the table.
+"Three weeks ago, I was contracted by a collector in Palanthas to 
+locate a specific artifact: the Helm of Kharas. It's a dwarven relic from 
+before the Cataclysm-ceremonial armor worn by Kharas, one of our greatest 
+heroes. Historical value, religious significance, worth a fortune to the right 
+buyer."**
+He taps a location on the map-mountainous terrain, maybe 80 miles 
+northeast of Haven.
+"I tracked it to here: the ruins of Thoradin's Hall, an abandoned 
+dwarven outpost that collapsed during the Cataclysm. The Helm is there. I'm 
+certain of it. Problem is..."**
+He pauses, choosing his words carefully.
+"I need help getting it out. The place is structurally unstable, 
+partially flooded, and inhabited by things that don't appreciate 
+visitors. I'm good, but I'm not suicidal. I need a team."
+Cyrus asks: "Why us specifically? There are other skilled fighters in 
+Haven."
+Thordin nods. "Fair question. Three reasons: First, you're skilled but 
+not well-known outside resistance circles. This needs to stay 
+quiet-my client doesn't want word spreading that the Helm is on 
+the market. Second, you're not local dwarves who might have... 
+complicated feelings about looting dwarven ruins. Third, you've 
+proven you can handle high-risk operations and keep your mouths 
+shut."
+He leans forward. "Here's my offer: You help me retrieve the Helm 
+from Thoradin's Hall. In exchange, you get 30% of the payment I 
+receive from my client-that's 3,000 gold pieces, split however you 
+want. Plus, anything else we find in the ruins is yours to keep. I 
+only want the Helm."
+"Timeline: Three to five days total. One day travel there, one to 
+three days in the ruins depending on complications, one day back. 
+Relatively low political stakes-no Dragon Army, no mass 
+casualties, just professional dungeon delving."
+He sits back. "So. Interested?"
+ 
+ASSESSMENT
+Kessa looks at you, eyebrow raised. This is clearly your call.
+Cyrus seems... cautiously interested. A straightforward treasure recovery 
+mission with no moral complexity might be exactly what he needs right now.
+The money is substantial. 3,000 gold split three ways is 1,000 each-a 
+significant payday for less than a week's work.
+And Thordin seems legitimate. Gruff, professional, knows his business.
+But there are always complications with "simple" jobs.
+ 
+What do you do?
+1.	Accept the job - Sounds like exactly what the party needs right now
+2.	Ask more questions - What specific dangers? What else is in the 
+ruins? Why the secrecy?
+3.	Decline politely - Not interested in mercenary work
+4.	Negotiate terms - Want more money, different split, or other 
+conditions
+5.	Something else?
+Thordin waits patiently for your answer, his hands folded on the table.
+Any thoughts, guys?
+Dec 9
+PARTY DISCUSSION
+You turn to Kessa and Cyrus. "What do you two think?"
+Kessa speaks first, her tone analytical: "It's straightforward work. No 
+politics, no armies, no moral calculus about who deserves to die. 
+We go in, navigate whatever dangers are there, grab the artifact, 
+get paid. Clean."
+She looks at Thordin directly. "My questions: What kind of 'things that 
+don't appreciate visitors' are we talking about? Monsters? Traps? 
+Rival delvers? And what makes the structure unstable enough that 
+you need backup but not so unstable that we're risking burial?"
+Thordin nods approvingly at the questions. "Smart. The 'things' are 
+primarily darkmantles and what I believe is a grick colony in the 
+lower levels. Cave predators, territorial but not organized. Traps 
+exist but they're three centuries old-most are degraded, 
+predictable. No rival delvers that I know of, but it's possible."
+"As for structural stability: the place won't collapse randomly. But 
+there are flooded sections, weakened supports, areas where heavy 
+combat or explosive magic could cause problems. I need people 
+who can handle threats efficiently without bringing the ceiling 
+down."
+ 
+Cyrus has been quiet, listening carefully. Now he speaks, his voice thoughtful:
+"Johannes, I'll be honest-I think this is exactly what I need right 
+now."
+He looks at Thordin, then back to you. "A straightforward challenge. 
+Solve problems, overcome obstacles, help someone accomplish a 
+legitimate goal. No one dies except monsters that were going to kill 
+us anyway. No weighing innocent lives against strategic necessity."
+His expression is almost... hopeful? Like he's grasping for something normal, 
+something that feels like adventuring instead of war.
+"I'm not running from what I did in Flotsam," he clarifies. "But I 
+need... I need to remember that I'm more than just the person who 
+called that storm. I need to use my skills for something that doesn't 
+end with me counting corpses."
+He looks directly at you. "If you think it's worth doing, I'm in. If you 
+have concerns, I'll listen. But... I want this."
+ 
+Kessa adds: "Plus, 1,000 gold each is nothing to sneeze at. We've 
+been taking resistance missions that pay in gratitude and strategic 
+value. Having actual coin for equipment, supplies, or just... 
+having-that's useful."
+She leans back. "I don't see major red flags. Thordin's story checks 
+out. The job is dangerous but manageable. The pay is fair. And 
+honestly? Some old-fashioned dungeon crawling sounds pretty 
+good right now."
+ 
+Thordin watches the exchange with interest but doesn't pressure. He's letting 
+you discuss it naturally.
+What's your call, Johannes?
+We can leave now...
+Dec 9
+DEPARTURE - IMMEDIATE
+"We can leave now," you say decisively. "We're equipped, rested, and 
+ready. No point waiting around."
+Thordin grins broadly. "Now that's what I like to hear. Professional 
+and efficient." He stands, rolling up the map. "We can resupply in 
+Gateway if we need anything specific, but if you're already geared 
+up, we'll make better time pushing straight through."
+Kessa nods approvingly. "I'll grab my pack and weapons. Five 
+minutes."
+Cyrus stands as well, and for the first time in days, there's energy in his 
+movement. "I'll let Laurana know we're taking a short contract. She 
+should know we're leaving Haven."
+ 
+BRIEF WITH LAURANA
+You find Commander Laurana in the command center, reviewing reports. 
+When you explain the situation-Thordin's offer, the dwarven relic recovery, 
+three to five days-she listens carefully.
+"A dungeon delve for a dwarven artifact," she says, a slight smile 
+touching her lips. "Honestly, Commander, that sounds almost... 
+refreshing. You've earned some time doing straightforward 
+adventuring work."
+She glances at Cyrus, noting the cautious hope in his expression, and her tone 
+softens. "Brother Cyrus, this will be good for you. Sometimes the 
+best medicine is remembering what you're capable of beyond the 
+battlefield."
+To you, she adds: "Keep your Sending Stone active. If an emergency 
+arises, I'll contact you. Otherwise, take your time. Haven isn't going 
+anywhere, and the Dragon Army is still licking its wounds from 
+Flotsam. You've bought us breathing room."
+"We'll be back in less than a week," you confirm.
+"Safe travels. And try to have some fun-you've earned it."
+ 
+DEPARTURE FROM HAVEN - AFTERNOON
+Within thirty minutes, you're packed and ready. The party assembles at 
+Haven's gate:
+Johannes:
+*	Full combat gear (studded leather, Trident of Warning, Amulet of 
+Health, Ring of Mind Shielding)
+*	Adventuring supplies (rope, rations, torches, etc.)
+*	Potions: 2x Greater Healing, 1x Superior Healing
+*	Scrolls: 2x Dimension Door
+*	Bag of Holding (with various supplies)
+*	~3,980 gp in funds
+Kessa:
+*	Bracers of Defense (AC 17), Rope of Entanglement, light armor
+*	+1 ceremonial daggers, various weapons
+*	Thieves' tools, infiltration gear
+*	Potion of Superior Healing, Potion of Gaseous Form
+*	~3,930 gp in funds
+Cyrus:
+*	Pearl of Power, Amulet of the Depths, Goggles of Night
+*	Holy symbol of Mishakal, cleric gear
+*	Full spell list prepared (4th level caster)
+*	Healer's kit, religious implements
+*	~3,930 gp in funds
+Thordin Ironhelm:
+*	Warhammer, climbing gear, specialized delving equipment
+*	Dwarven plate armor (looks well-used but maintained)
+*	Extensive rope, pitons, lanterns
+*	Mining picks, pry bars, chalk for marking passages
+*	A confidence that suggests he's done this many times before
+ 
+THE JOURNEY NORTHEAST - DAY 1
+The four of you set out on foot, heading northeast from Haven into 
+increasingly mountainous terrain. The weather is clear, the trail is decent, and 
+Thordin sets a steady pace.
+As you walk, Thordin shares more details:
+"Thoradin's Hall was built about 400 years ago as a forward 
+outpost-combination waystation, mining operation, and defensive 
+position. It was never huge-maybe 200 dwarves at peak 
+occupancy. When the Cataclysm hit, the mountain shifted. Half the 
+complex collapsed, the rest was abandoned."
+"Why was the Helm there?" Cyrus asks.
+"Kharas himself never set foot in Thoradin's Hall," Thordin 
+explains. "But his Helm was given as a ceremonial gift to the 
+outpost's commander-Thoradin, obviously-about fifty years 
+before the Cataclysm. It's been sitting in the ruins ever since, 
+assumed lost."
+"How did you track it down?" Kessa asks.
+Thordin taps his temple. "Research. Old records, survivor testimonies, 
+connecting dots. Took me three months of digging through 
+archives in Thorbardin. But I'm certain it's there-in the 
+commander's vault, in what's now the deepest accessible level of 
+the ruins."
+ 
+EVENING CAMP - FIRST NIGHT
+You make camp in a sheltered valley as the sun sets. Thordin proves to be an 
+efficient camp-maker-he has the fire going and a decent stew cooking within 
+minutes.
+As you eat, the dwarf studies the three of you.
+"So," he says conversationally, "I heard rumors about Flotsam. 
+Something about a freak storm destroying the entire Dragon Army 
+fleet. Fifteen ships, all wrecked in one night."
+He looks at Cyrus specifically, though his tone remains casual. "Must've 
+been some storm."
+Cyrus stiffens slightly, but Thordin continues before anyone can respond:
+"I'm not asking for details. Your business is your business. But I 
+will say this: whoever managed that-however they managed it-
+saved a lot of lives. Ak-Thyln, Kalaman, half the coastal cities. 
+Those people will never know how close they came to Dragon Army 
+occupation."
+He raises his mug. "To the unknown heroes who stop invasions. May 
+their burdens be light and their sleep peaceful."
+It's clearly directed at Cyrus, but framed in a way that requires no confession, 
+no discussion. Just acknowledgment.
+Cyrus hesitates, then raises his own mug, his voice quiet: "May their 
+sacrifices matter."
+You all drink.
+ 
+APPROACHING THORADIN'S HALL - LATE 
+MORNING, DAY 2
+By mid-morning of the second day, you reach the site.
+Thoradin's Hall is built into the mountainside-or what's left of it. The 
+entrance is a massive carved archway, now partially collapsed, with dwarven 
+runes along the frame. Beyond, you can see darkness, broken stone, and the 
+remnants of what was once an impressive structure.
+The area around the entrance is overgrown with mountain scrub. There are 
+old campsites-other delvers, adventurers, scavengers over the centuries-but 
+nothing recent. The place has an abandoned, forgotten feel.
+Thordin pulls out climbing gear and starts distributing rope. "Right. From 
+here, it gets technical. The main entrance is stable enough, but 
+once we're inside, we'll be navigating collapsed passages, flooded 
+chambers, and vertical shafts. Stay together, watch your footing, 
+and listen when I tell you something's dangerous."
+He looks at each of you seriously. "This isn't a combat mission. This is 
+exploration, problem-solving, and careful movement. Speed is less 
+important than not dying. Clear?"
+Everyone nods.
+"Good. Let's go get that Helm."
+ 
+ENTERING THORADIN'S HALL
+You light lanterns (and Cyrus dons his Goggles of Night for darkvision), and 
+the four of you step through the ancient entrance into the darkness beyond.
+The air inside is cool, damp, and stale. Your footsteps echo. The architecture is 
+distinctly dwarven-solid, geometric, built to last. But time and catastrophe 
+have taken their toll. Rubble blocks passages, water drips from cracks, and 
+everything is coated in dust and moss.
+Thordin leads with confidence, marking passages with chalk, checking 
+structural integrity before proceeding.
+"The commander's vault is three levels down," he explains. "We'll 
+need to navigate the main hall, descend through the old barracks 
+level, bypass the flooded mining section, and reach the 
+administrative level where the vault is located. Should take most of 
+the day if we're careful."
+Kessa is scouting ahead slightly, checking for traps or unstable ground. "I see 
+tracks here-something's been moving through recently. Clawed, 
+four-legged, medium-sized."
+Thordin nods. "Darkmantles, probably. They nest in places like this. 
+Not aggressive unless provoked, but they'll defend territory. We 
+might have to fight."
+You grip your Trident of Warning, feeling its magic alert you to potential 
+danger ahead.
+The adventure has begun.
+ 
+What's your approach as you proceed deeper?
+1.	Thordin leads, you follow his expertise (trust the professional 
+delver)
+2.	Kessa scouts ahead aggressively (find threats before they find you)
+3.	Proceed as a tight group (maximum defensive formation)
+4.	Something else?
+The darkness stretches ahead, and somewhere deep below, the Helm of 
+Kharas waits.
+Don't forget the Cloak of Manta Ray... or may come in handy.
+Dec 9
+EQUIPMENT CHECK
+Good point. Let me correct that.
+Johannes currently has:
+*	Cloak of Manta Ray (worn - provides water breathing and 60 ft swim 
+speed)
+*	Studded leather armor
+*	Trident of Warning (attuned)
+*	Amulet of Health (attuned)
+*	Ring of Mind Shielding (attuned)
+You're absolutely right-the Cloak will be extremely useful in the flooded 
+sections Thordin mentioned. You kept it after giving it to Elara temporarily 
+during the extraction.
+ 
+PROCEEDING INTO THE RUINS
+"I'll take point with Thordin," you say. "Kessa, scout about twenty 
+feet ahead but stay in sight. Cyrus, rear guard with support ready. 
+And Thordin's right-we follow his expertise on structural safety. 
+No unnecessary risks."
+Thordin nods approvingly. "Smart. And Commander-that cloak you're 
+wearing. That's water-breathing magic, isn't it?"
+"It is. Sixty-foot swim speed too."
+"Perfect. The flooded mining section is going to require swimming 
+through about fifty feet of fully submerged tunnel. Most people 
+would need potions or spells for that. You can just... go. That'll 
+make things easier."
+He points ahead into the darkness. "Let's move. Stay alert."
+ 
+THE MAIN HALL - LEVEL 1
+The first chamber you enter is massive-a grand hall that once served as the 
+heart of the outpost. Carved pillars (some cracked, some fallen) support a 
+vaulted ceiling about forty feet up. Dwarven reliefs cover the walls-scenes of 
+mining, craftsmanship, warfare.
+Everything is coated in centuries of dust and decay.
+Perception checks:
+*	Johannes (Trident of Warning advantage on initiative): 18 + 3 
+= 21
+*	Kessa: Natural 20 + 7 = 27 (Exceptional)
+*	Cyrus (Goggles of Night): 14 + 4 = 18
+*	Thordin: 16 + 5 = 21
+Kessa spots it first: High on the ceiling, clinging to the stonework near one 
+of the pillars-a darkmantle. It's a creature that resembles a stalactite until 
+it attacks, then reveals itself as a tentacled beast that drops onto prey and tries 
+to suffocate them.
+She signals silently: Threat above. One, maybe more.
+Thordin whispers: "They hunt by ambush. If we move quietly and 
+don't threaten them, they might let us pass. But if we spook 
+them..."
+Kessa adds quietly: "I count three. One on the pillar to the left, two 
+near the far entrance. If we fight, we need to be fast-their 
+suffocation attack is nasty."
+ 
+How do you proceed?
+1.	Move quietly through, avoid engagement (Stealth checks, hope 
+they don't attack)
+2.	Preemptive strike (Kessa shoots one, you attack others before they 
+can drop)
+3.	Loud distraction (Draw them to one side, party moves past on the 
+other)
+4.	Thordin's expertise (Let him handle it-he's done this before)
+5.	Something else?
+The darkmantles haven't moved yet-they're in ambush mode, waiting for 
+prey to walk underneath them.
+Is it safer we take care of them or would that draw more unwelcome 
+attention?
+Dec 9
+THORDIN'S ASSESSMENT
+You whisper to Thordin: "Is it safer to take them out now, or would 
+fighting draw more unwelcome attention?"
+Thordin studies the darkmantles carefully, his experienced eye evaluating the 
+situation.
+"Good question. Here's my read: Darkmantles are territorial but 
+not pack hunters-they don't call for help. If we kill these three, 
+we're done with them. They won't alert anything else."
+He pauses, considering. "The danger is the NOISE of fighting. A quick, 
+quiet kill is fine. But if there's a lot of crashing around, spell 
+explosions, creatures shrieking as they die... that could wake up the 
+grick colony deeper down. And trust me, you don't want to deal 
+with gricks unless you have to."
+Kessa whispers: "I can drop one silently with my bow before it knows 
+we're here. If the rest of you can take the other two fast-no loud 
+spells, just weapons-we should be clean."
+Thordin nods. "Aye. Fast and quiet. Don't let them get into the air 
+where they can maneuver. Pin them on the ceiling or kill them 
+before they drop."
+Cyrus adds quietly: "I can use Sacred Flame if needed-it's radiant 
+damage, not explosive. Relatively quiet. Or I can heal if someone 
+gets grabbed."
+ 
+Tactical assessment:
+PROS of killing them now:
+*	Clear the path, no threat on return journey
+*	Prevents ambush if we retreat this way
+*	Darkmantles won't alert other creatures
+CONS of killing them:
+*	Combat noise might attract gricks from deeper levels
+*	Risk of one escaping and causing problems later
+*	Uses some resources (spell slots, ammunition)
+PROS of sneaking past:
+*	No combat noise at all
+*	Saves resources for deeper threats
+*	Faster progress
+CONS of sneaking past:
+*	They'll still be here when we return (potential ambush on exit)
+*	Risk of failed stealth check triggering combat anyway
+*	Leaves hostile creatures at our back
+ 
+Thordin adds one more thought: "My experience? Kill them now if you 
+can do it quietly. Better to control the engagement than risk them 
+dropping on us during retreat when we're tired or injured. But if 
+you think stealth is your strength..." He looks at Kessa, clearly 
+respecting her professional judgment.
+What's your call?
+1.	Kill them quickly and quietly (Kessa snipes, party rushes the 
+others)
+2.	Sneak past (Group stealth check, hope they don't notice)
+3.	Something else?
+Is EB loud?
+Dec 9
+ELDRITCH BLAST - NOISE ASSESSMENT
+Good question. Let's think about this:
+Eldritch Blast mechanically has no verbal or somatic components (it's just a 
+cantrip you can cast at will), but narratively it's a beam of crackling eldritch 
+energy.
+Thordin's assessment:
+"Eldritch magic? Depends on how you cast it. If it's a quiet beam-
+like a focused lance of energy-that's fine. If it CRACKS like 
+lightning or BOOMS when it hits, that's loud."
+He looks at you. "How does yours manifest? Some warlocks I've seen 
+shoot silent shadow beams. Others blast with thunder-crack force. 
+What's yours like?"
+ 
+This is actually your call, Johannes. How have you been 
+manifesting your Eldritch Blast?
+Given your patron is a demon and you're a Fiend warlock, it probably has 
+some hellish or dark quality to it. But the sound level is flexible.
+Possible manifestations:
+1.	Silent/Quiet: Dark purple-black beam that impacts with a dull thud 
+(like being punched)
+2.	Moderate: Crackling dark energy with a hiss/sizzle sound on impact
+3.	Loud: Booming infernal blast with explosive impact
+For purposes of this situation, I'd say:
+*	Options 1-2 are "quiet enough" - won't alert distant creatures
+*	Option 3 is "loud" - would risk attracting gricks
+What's your Eldritch Blast like?
+1.	The descriptions in the past have usually include that kind of vibe.
+I'll use Hex and EB on one target, EB on the other...
+Dec 9
+COMBAT - DARKMANTLE AMBUSH 
+NEUTRALIZATION
+"We take them out," you decide. "Fast and quiet."
+You point to the darkmantles. "Kessa, rightmost one-your bow, silent 
+kill. I'll take the one on the pillar with Hex and Eldritch Blast. 
+Cyrus, be ready for the third if it drops or tries to flee. Thordin, 
+backup."
+Everyone nods, moving into position.
+You focus on the darkmantle clinging to the carved pillar, speaking the words 
+of your Hex curse under your breath. Dark energy coils around the creature-
+it doesn't notice yet, still in ambush mode.
+"On three," Kessa whispers, arrow nocked. "One... two... THREE."
+ 
+SURPRISE ROUND
+Kessa's Attack (Sneak Attack, target surprised):
+*	Attack roll: 17 + 7 = 24 (Hit)
+*	Damage: 1d6+4 (dagger) + 3d6 (sneak attack) = 4 + 11 = 15 damage
+Her arrow flies true, striking the rightmost darkmantle directly through its 
+central mass. The creature convulses once, then goes limp, falling silently to 
+the stone floor below. Dead before it knew danger existed.
+One down.
+ 
+Johannes's Attack (Hex + Eldritch Blast, target surprised):
+You raise your hand, and twin beams of crackling dark purple-black energy 
+lance out toward the darkmantle on the pillar. The air hisses and sizzles as the 
+eldritch force tears through the space.
+*	First beam: Attack roll: 16 + 7 = 23 (Hit)
+*	Damage: 1d10+4 (EB) + 1d6 (Hex) = 7 + 4 = 11 damage
+*	Second beam: Attack roll: 19 + 7 = 26 (Hit)
+*	Damage: 1d10+4 (EB) + 1d6 (Hex) = 8 + 3 = 11 damage
+Total: 22 damage
+The twin beams strike the darkmantle with crackling impacts-HISS-CRACK, 
+HISS-CRACK-punching through its body. The creature shrieks briefly (a wet, 
+strangled sound) as it dies, then tumbles from the pillar and hits the floor with 
+a heavy thud.
+Two down.
+The sound of your Eldritch Blast echoes briefly in the vast hall-definitely 
+audible, but not explosive. More like the sound of energy discharging than 
+thunder.
+ 
+The Third Darkmantle - REACTION:
+The remaining darkmantle, realizing its companions are dead, makes a split-
+second decision: attack or flee?
+Morale check (Wisdom save): 8 - 1 = 7 (FAIL - it panics)
+It drops from its perch, but instead of attacking, it tries to glide-fall toward a 
+side passage-fleeing deeper into the ruins where it might find safety.
+ 
+Cyrus's Readied Action (Sacred Flame):
+The cleric was waiting for exactly this. He raises his holy symbol, and radiant 
+light flares.
+"You will not escape to warn others," he says calmly.
+Sacred Flame (DEX save DC 15):
+*	Darkmantle DEX save: 6 + 1 = 7 (FAIL)
+*	Damage: 2d8 radiant = 11 damage
+The holy fire engulfs the fleeing darkmantle mid-flight. It shrieks once-a 
+horrible, wet sound-then burns and falls, dead before it hits the ground.
+All three darkmantles eliminated.
+ 
+AFTERMATH - LISTENING FOR RESPONSE
+The hall falls silent except for the faint echo of combat fading into the depths.
+Everyone freezes, listening intently.
+Perception checks (listening for distant movement):
+*	Johannes: 14 + 3 = 17
+*	Kessa: 18 + 7 = 25
+*	Cyrus: 12 + 4 = 16
+*	Thordin: 15 + 5 = 20
+Kessa (highest roll) hears:
+Faint sounds from deeper in the complex-scratching, shifting. Not 
+immediate, not approaching, but... aware. Something deeper down heard the 
+combat and is stirring.
+"We've got attention," Kessa whispers. "Not coming toward us yet, 
+but something down there knows we're here."
+Thordin nods grimly. "Gricks, probably. They're sensitive to 
+vibrations. But they won't come up here-they prefer ambushing in 
+their own territory. As long as we're careful when we reach their 
+level, we'll be fine."
+He examines the dead darkmantles briefly. "Clean kills. Well done. Let's 
+keep moving-standing around just gives them more time to 
+prepare."
+ 
+COMBAT SUMMARY
+Party:
+*	No damage taken
+*	Resources used: 1 arrow (Kessa), 1 Hex (Johannes - still active, can be 
+moved), 1 Sacred Flame (Cyrus)
+*	Time: Less than 6 seconds
+Enemy:
+*	3 Darkmantles eliminated
+*	No escape, no alarm raised
+Tactical result: Perfect execution. Quiet, efficient, professional.
+Cyrus looks... focused. Alert. He's in the zone-this is problem-solving, not 
+warfare. He's clearly more comfortable here than he was during the storm.
+ 
+DESCENDING TO LEVEL 2 - THE BARRACKS
+Thordin leads you through the main hall to a wide staircase descending into 
+darkness. The steps are worn but stable-dwarven construction holding up 
+even after centuries.
+"The barracks level," Thordin explains as you descend. "This is where 
+the garrison lived. Should be mostly empty-just old bunks, storage 
+rooms, maybe some rats. The real danger starts at Level 3, the 
+flooded mining section."
+The air grows cooler and damper as you descend. Your lights reveal row after 
+row of stone bunks, long since abandoned. Personal effects-rusted weapons, 
+rotted leather, broken furniture-litter the floor.
+It's eerily quiet.
+Too quiet.
+Kessa signals: Something's wrong. No rats, no bats, no scavengers. This 
+level should have SOME life.
+Thordin frowns. "Aye. That's odd. Usually places like this have-"
+Your Trident of Warning suddenly tingles with alert.
+INITIATIVE - AMBUSH!
+ 
+From the shadows between the bunks, shapes emerge-
+Four creatures that look like serpentine worms with bony beaks and 
+tentacles around their mouths. They're each about 8 feet long, moving with 
+disturbing speed.
+Gricks. They came UP from Level 3 to investigate the noise.
+ROLL INITIATIVE:
+*	Johannes (Trident advantage): 19 + 3 = 22
+*	Kessa: 16 + 5 = 21
+*	Cyrus: 14 + 2 = 16
+*	Thordin: 12 + 2 = 14
+*	Gricks: 8 + 0 = 8
+You're not surprised (thanks to Trident of Warning), but the gricks are 
+attacking aggressively-they've marked you as threats to their territory.
+ 
+ROUND 1 - INITIATIVE ORDER:
+1.	Johannes (22)
+2.	Kessa (21)
+3.	Cyrus (16)
+4.	Thordin (14)
+5.	Gricks (8)
+The four gricks are spreading out-two approaching from the left (between 
+bunks), two from the right. They're about 30 feet away and closing fast.
+What do you do?
+Remind me...gricks??
+Dec 9
+GRICKS - CREATURE KNOWLEDGE
+Gricks are aberrations-worm-like predators that hunt in underground 
+environments.
+What you know (general knowledge):
+Appearance:
+*	8 feet long, serpentine body
+*	Rubbery, stone-gray skin
+*	Tentacled mouth with a sharp beak at the center
+*	Move like snakes but can rear up to strike
+Behavior:
+*	Pack hunters, ambush predators
+*	Detect prey through vibration and scent
+*	Territorial, defend their hunting grounds aggressively
+*	Not particularly intelligent but cunning hunters
+Combat capabilities:
+*	Tentacle attacks (reach, can grapple)
+*	Beak bite (nasty damage if they get hold of you)
+*	Stone Camouflage - blend into rocky environments, hard to spot 
+when still
+*	Damage Resistance - Their rubbery hide is resistant to non-magical 
+physical damage (swords, arrows, etc. do half damage unless magical)
+Weaknesses:
+*	Vulnerable to magic (spells work normally)
+*	Magical weapons bypass their resistance
+*	Fire and radiant damage are particularly effective
+*	Not very smart-can be outmaneuvered tactically
+ 
+YOUR PARTY'S ADVANTAGES:
+*	Johannes: Eldritch Blast (magical force damage, full effectiveness) + 
+Trident of Warning is +1 (magical, bypasses resistance)
+*	Kessa: +1 ceremonial daggers (magical, bypass resistance)
+*	Cyrus: All his spells work normally (Sacred Flame, etc.)
+*	Thordin: Likely has magical warhammer or knows to use magic
+TACTICAL CONCERN: There are four of them, and they're spreading out 
+to attack from multiple angles. They want to surround and overwhelm you.
+ 
+You're up first (Initiative 22). Four gricks, 30 feet away, closing 
+fast, two from each side.
+What do you do?
+Transfer Hex and eb closest grick
+Dec 9
+ROUND 1 - JOHANNES'S TURN
+You quickly assess the battlefield. Four gricks, spreading to flank. The two on 
+the left are slightly closer-one is practically slithering over an old stone bunk 
+toward you.
+You transfer your Hex from the dead darkmantle to the nearest grick on the 
+left-the curse shifts instantly, dark energy coiling around the creature. It 
+hisses in displeasure, sensing the malevolent magic.
+Then you unleash your Eldritch Blast.
+ 
+Eldritch Blast (2 beams, both at Hexed grick):
+First beam:
+*	Attack roll: 13 + 7 = 20 (Hit)
+*	Damage: 1d10+4 (EB) + 1d6 (Hex) = 6 + 4 + 2 = 12 damage
+Second beam:
+*	Attack roll: 11 + 7 = 18 (Hit)
+*	Damage: 1d10+4 (EB) + 1d6 (Hex) = 8 + 4 + 5 = 17 damage
+Total: 29 damage
+The twin beams of crackling dark energy HISS-CRACK through the air, 
+slamming into the lead grick. The first beam punches through its rubbery hide 
+with a wet thunk, the second beam tears a massive hole through its 
+midsection.
+The grick convulses violently, its tentacles flailing, then collapses in a heap. 
+Dark ichor pools beneath it.
+One grick down. Three remaining.
+ 
+KESSA'S TURN
+"Right side!" Kessa calls out, pivoting to face the two gricks approaching 
+from that direction.
+She draws both her +1 ceremonial daggers in a fluid motion and moves 
+forward to engage before they can close on Cyrus and Thordin.
+Attack 1 (Grick #2):
+*	Attack roll: 16 + 7 = 23 (Hit)
+*	Damage: 1d4+4 (magical dagger) + 3d6 (sneak attack) = 3 + 4 + 12 = 19 
+damage
+Her first dagger finds the gap between the creature's body segments, driving 
+deep. The grick shrieks-a horrible wet sound-and recoils.
+Attack 2 (same grick, bonus action off-hand):
+*	Attack roll: 14 + 7 = 21 (Hit)
+*	Damage: 1d4+4 (magical dagger) = 2 + 4 = 6 damage
+Her second blade follows immediately, slashing across the grick's "face" area 
+where its tentacles cluster. More ichor sprays.
+Grick #2 badly wounded but still alive.
+Kessa backs up slightly, keeping both right-side gricks in her line of 
+sight. "These things are tough!"
+ 
+CYRUS'S TURN
+Cyrus raises his holy symbol, targeting the wounded grick that Kessa just 
+mauled.
+"Burn in Mishakal's light!"
+Sacred Flame (DEX save DC 15):
+*	Grick DEX save: 4 + 0 = 4 (FAIL)
+*	Damage: 2d8 radiant = 13 damage
+Holy fire descends from above, engulfing the wounded grick. It writhes in the 
+radiant flames, its rubbery skin blistering and blackening, then goes still.
+Grick #2 dead. Two remaining.
+Cyrus looks focused, professional. This is familiar territory-clerics fighting 
+aberrations. No moral complexity, just holy wrath against unnatural creatures.
+ 
+THORDIN'S TURN
+"FOR THORBARDIN!" the dwarf bellows, charging the remaining grick on 
+the left side (the one near Johannes).
+His warhammer glows with faint magical light-definitely enchanted.
+Attack (Grick #3):
+*	Attack roll: 18 + 6 = 24 (Hit)
+*	Damage: 1d8+4 (magical warhammer) + 2 (rage? or just dwarf 
+strength?) = 7 + 6 = 13 damage
+The warhammer crashes into the grick's midsection with a 
+sickening CRUNCH. Bones break, ichor spatters. The grick reels backward, 
+wounded but still fighting.
+"These bastards hunt in MY mountains!" Thordin snarls. He's clearly 
+taken this personally.
+ 
+GRICKS' TURN (2 remaining)
+Grick #3 (wounded, near Johannes and Thordin) lashes out with its tentacles 
+at Thordin, the closest threat.
+Tentacle attack:
+*	Attack roll: 12 + 4 = 16 vs Thordin's AC (probably 18 in plate?)
+*	MISS
+The tentacles whip past Thordin's head, but the dwarf ducks under them with 
+practiced ease. "Too slow, worm!"
+ 
+Grick #4 (unwounded, right side) tries to get past Kessa to reach the "softer" 
+targets (Cyrus).
+Tentacle attack on Kessa:
+*	Attack roll: 15 + 4 = 19 vs Kessa's AC 17
+*	HIT
+*	Damage: 2d6+2 = 7 + 2 = 9 damage
+*	Grapple attempt (STR contest): Grick STR 14 vs Kessa STR 9
+*	Kessa is GRAPPLED
+The grick's tentacles wrap around Kessa's arm and torso, pulling her closer 
+toward its beaked maw. She struggles but can't break free immediately.
+"Little help here!" she calls out, slashing at the tentacles with her free hand 
+but unable to get good leverage.
+ 
+ROUND 2 - INITIATIVE ORDER
+Current situation:
+*	Grick #1: Dead (Johannes killed)
+*	Grick #2: Dead (Kessa + Cyrus killed)
+*	Grick #3: Wounded, engaged with Thordin (left side)
+*	Grick #4: Unwounded, has Kessa grappled (right side)
+Party status:
+*	Johannes: Unharmed
+*	Kessa: 9 damage taken, grappled
+*	Cyrus: Unharmed
+*	Thordin: Unharmed
+Your turn (Initiative 22). What do you do?
+Options:
+1.	Blast the grick grappling Kessa (EB at range, risk hitting Kessa if 
+you roll really badly?)
+2.	Move to melee, stab it with Trident (magical weapon, helps Kessa 
+directly)
+3.	Use Maddening Hex (bonus action, 4 psychic damage to hexed target 
+and all within 5 feet-but the hex is on the dead grick #1)
+4.	Transfer Hex and blast (move hex to grick #4, then EB it)
+5.	Something else?
+Don't forget, she also has a +1 hand crossbow
+Dec 9
+CORRECTION - KESSA'S WEAPONS
+You're absolutely right! Let me update Kessa's equipment:
+Kessa's weapons:
+*	2x +1 Ceremonial Daggers (melee, ignore necrotic resistance)
+*	+1 Hand Crossbow (ranged)
+*	Short sword (backup)
+*	Javelins x4
+She definitely would have opened with the hand crossbow from range rather 
+than charging into melee with daggers. Let me rewind her turn:
+ 
+KESSA'S TURN (CORRECTED)
+Kessa quickly assesses the two gricks approaching from the right. She draws 
+her +1 hand crossbow and fires at the lead creature.
+Hand Crossbow Attack (Grick #2):
+*	Attack roll: 16 + 7 = 23 (Hit)
+*	Damage: 1d6+4 (magical crossbow) + 3d6 (sneak attack) = 4 + 4 + 12 
+= 20 damage
+The bolt punches through the grick's rubbery hide. The creature shrieks and 
+writhes but keeps coming.
+She quickly reloads (free object interaction) and fires again.
+Second Attack (Bonus Action - Crossbow Expert feat if she has it, or 
+just her second attack):
+*	Attack roll: 14 + 7 = 21 (Hit)
+*	Damage: 1d6+4 = 3 + 4 = 7 damage
+Another bolt strikes true. The grick is badly wounded but still advancing.
+ 
+The rest of the round proceeds as described (Cyrus finishes it off with Sacred 
+Flame, etc.).
+ 
+BACK TO CURRENT SITUATION - ROUND 2
+Current battlefield:
+*	Grick #3: Wounded, engaged with Thordin (left side)
+*	Grick #4: Unwounded, about 15 feet from Kessa (right side), advancing
+Party status:
+*	Johannes: Unharmed
+*	Kessa: Unharmed (she wasn't in melee range to be grappled)
+*	Cyrus: Unharmed
+*	Thordin: Unharmed
+Actually, let me recalculate Grick #4's action since Kessa wasn't in melee:
+Grick #4's turn (revised): It charges toward Kessa, covering 30 feet (it's 
+fast). It's now within 10 feet of her but hasn't attacked yet.
+ 
+ROUND 2 - YOUR TURN
+You're up first (Initiative 22).
+Current situation:
+*	Grick #3 (wounded) engaged with Thordin on left
+*	Grick #4 (unwounded) closing on Kessa on right, about 10 feet away
+*	Your Hex is still on dead Grick #1 (need to transfer if you want to use it)
+What do you do?
+Transfer Hex and eb #4.
+Dec 9
+ROUND 2 - JOHANNES'S TURN
+You quickly transfer the Hex curse from the dead grick to the unwounded one 
+advancing on Kessa (#4). Dark energy coils around the creature as it closes the 
+distance.
+"Kessa, clear!" you call out, then unleash your Eldritch Blast.
+ 
+Eldritch Blast (2 beams, both at Hexed Grick #4):
+First beam:
+*	Attack roll: 14 + 7 = 21 (Hit)
+*	Damage: 1d10+4 (EB) + 1d6 (Hex) = 9 + 4 + 4 = 17 damage
+Second beam:
+*	Attack roll: 16 + 7 = 23 (Hit)
+*	Damage: 1d10+4 (EB) + 1d6 (Hex) = 6 + 4 + 2 = 12 damage
+Total: 29 damage
+The twin beams of crackling dark energy HISS-CRACK through the barracks, 
+slamming into the advancing grick. The first beam punches a hole through its 
+midsection, the second tears through its "neck" area where body meets 
+tentacled head.
+The creature convulses, tentacles flailing wildly, then collapses in a heap just 
+feet away from Kessa. Dark ichor pools across the ancient stone floor.
+Grick #4 dead.
+Kessa nods appreciatively. "Clean shot. Thanks."
+ 
+KESSA'S TURN
+With the immediate threat to her eliminated, Kessa pivots and aims her +1 
+hand crossbow at the remaining grick (#3) that's engaged with Thordin.
+Hand Crossbow Attack (Grick #3):
+*	Attack roll: 18 + 7 = 25 (Hit)
+*	Sneak attack applies (Thordin is adjacent, giving advantage situation)
+*	Damage: 1d6+4 + 3d6 (sneak attack) = 5 + 4 + 10 = 19 damage
+The bolt strikes the grick in what passes for its head, right between its 
+tentacles. The creature shudders violently.
+Grick #3 is now critically wounded.
+ 
+CYRUS'S TURN
+Cyrus raises his holy symbol, targeting the last grick.
+"Mishakal's light, purge this abomination!"
+Sacred Flame (DEX save DC 15):
+*	Grick DEX save: 6 + 0 = 6 (FAIL)
+*	Damage: 2d8 radiant = 14 damage
+Holy fire descends from above, engulfing the wounded grick. It writhes in the 
+flames, its rubbery skin blackening and peeling, tentacles thrashing weakly-
+Then it goes still. Dead.
+Combat Over. All four gricks eliminated.
+ 
+AFTERMATH - THE BARRACKS LEVEL
+The barracks fall silent except for your heavy breathing and the faint drip of 
+water somewhere in the darkness.
+Four grick corpses lie scattered across the ancient stone floor, their ichor 
+pooling in the cracks between flagstones.
+Combat Summary:
+*	Duration: 2 rounds (~12 seconds)
+*	Party damage: None
+*	Resources used: 2 Eldritch Blasts (cantrip), 3 crossbow bolts (Kessa), 
+2 Sacred Flames (cantrip), Thordin's one warhammer swing
+*	Hex: Still active, can be transferred
+Thordin wipes grick ichor off his warhammer with a rag. "Well fought. 
+Fast, coordinated, efficient. These things can be nasty if they get 
+their tentacles on you."
+He looks around the barracks warily. "Four of them came UP from Level 
+3. That means the colony down there is larger than I thought. We'll 
+need to be even more careful when we reach the flooded section."
+Cyrus is breathing heavily but looks... good. Focused. Alive. This is the kind of 
+challenge he thrives on-clear enemies, straightforward combat, using his 
+abilities to protect his companions.
+"Everyone alright?" he asks, already moving to check for injuries even 
+though no one took damage.
+Kessa is reloading her crossbow, professional as always. "I'm good. That 
+was clean work."
+ 
+PROCEEDING TO LEVEL 3 - THE FLOODED 
+MINING SECTION
+Thordin leads you deeper, down another set of stairs. The air grows 
+significantly colder and damper. You can hear water now-dripping, flowing, 
+echoing through stone passages.
+"This is where it gets tricky," Thordin explains as you reach the bottom of 
+the stairs. "The mining section was partially flooded when the 
+Cataclysm shifted the water table. There's a main passage that's 
+completely submerged-about fifty feet long, maybe twelve feet 
+underwater. Beyond that is the administrative level where the 
+commander's vault is located."
+He gestures ahead into darkness. You can see water-black, still, reflecting 
+your lantern light. The passage simply... disappears into the flooded section.
+"Most people would need water breathing magic or potions. 
+You," he nods to you, "have that cloak. You can swim through, scout 
+the far side, make sure it's safe, then come back and we'll figure out 
+how to get the rest of us through."
+Kessa asks: "What about the gricks? They're amphibious, aren't 
+they?"
+"Aye," Thordin confirms grimly. "They can operate underwater. And if 
+there's a colony down here, they might have sentries in the flooded 
+passages. That's why I need someone who can move through water 
+quickly and defend themselves if needed."
+He looks at you. "You up for scouting ahead?"
+ 
+Current situation:
+*	You're at the entrance to the flooded section
+*	50 feet of completely submerged passage ahead
+*	Unknown threats (possibly gricks) in the water
+*	Your Cloak of Manta Ray gives you 60 ft swim speed + water breathing
+*	Your Trident of Warning will alert you to danger
+*	Your Hex is still active (can be used on underwater threats)
+What's your plan?
+1.	Scout ahead solo (fastest, but you're alone if there's trouble)
+2.	Cast Water Breathing on everyone first (Cyrus can ritual cast it, 
+takes 10 minutes)
+3.	Use Potion of Water Breathing (party-sized, immediate effect, but 
+uses a resource)
+4.	Try to find an alternate route (might take hours, might not exist)
+5.	Something else?
+Thordin adds: "Whatever you decide, decide quickly. Those gricks we 
+killed? Their colony knows something killed them. The longer we 
+wait, the more time they have to prepare an ambush."
+I'll go first with cloak and one end of the rope of entanglement of Kessa's. 
+When I get there, I take off the cloak and send it back with the rope. One at a 
+time, those ahead setting up a beach head to protect the transfer of the other 
+folks. Kessa is the last since she's controlling the rope. Thoughts?
+Dec 9
+TACTICAL PLAN REVIEW
+You lay out the plan to the group:
+"I'll swim through first with the Cloak and one end of Kessa's Rope 
+of Entanglement. When I reach the far side, I'll take off the Cloak 
+and send it back on the rope. Each person uses the Cloak to swim 
+through one at a time-those who've crossed establish a defensive 
+position while we transfer the others. Kessa goes last since she's 
+controlling the rope."
+ 
+TEAM ASSESSMENT
+Kessa nods immediately. "Smart. The Rope can extend up to 30 
+feet and I can command it to pull or guide. So I send it through with 
+you, you secure the far end, then I command it to return with the 
+Cloak. Each person clips the Cloak on, I command the rope to guide 
+them through, they unclip and send it back. Efficient."
+Cyrus considers. "Defensive positioning on the far side makes 
+sense-we don't want everyone emerging into an ambush. And 
+staggering the crossings means if something attacks, we're not all 
+trapped in the water at once."
+Thordin strokes his beard thoughtfully. "It's solid. My only concern 
+is the transfer time. Each person needs to don the Cloak, swim 
+through, remove it, send it back-that's maybe two minutes per 
+person? So eight to ten minutes total for all four of us?"
+He glances back the way you came. "That's not too long. But it does give 
+the gricks time to notice what we're doing. If they're smart, they 
+might try to attack during the transfer when we're split."
+Kessa shrugs. "Then those of us on the far side defend while the 
+transfer completes. Better than everyone swimming through blind 
+and hoping for the best."
+ 
+ALTERNATIVE CONSIDERATION
+Cyrus offers: "I could ritual cast Water Breathing on all of us. 
+Takes ten minutes, but then we all swim through together as a 
+coordinated unit. No splitting the party, no vulnerable transfer 
+window."
+The trade-off:
+*	Your plan: Faster initial start (2 minutes to get first person through), 
+but 8-10 minutes total, party split during transfer
+*	Water Breathing ritual: 10 minutes of waiting before anyone goes, 
+but then everyone crosses together in ~30 seconds
+Thordin's tactical assessment: "Both work. Your way is faster to get 
+eyes on the far side-you'll know what we're dealing with in two 
+minutes instead of ten. The ritual is safer overall but gives the 
+gricks more time to prepare and makes us sitting ducks for ten 
+minutes while we cast."
+He looks at you. "Your call, Commander. You're the one who's proven 
+you can handle high-risk operations."
+ 
+ADDITIONAL DETAIL - THE FLOODED PASSAGE
+Thordin shows you where the passage enters the water. "It's about twelve 
+feet deep here, and the ceiling is just a foot or two above the water 
+surface. Once you're in, you're fully submerged. The passage runs 
+straight for about forty feet, then angles up-the far side emerges 
+into a chamber that should be dry."
+"Should be dry?" Kessa asks.
+"It was dry when I scouted this three months ago. But water levels 
+can change. Worst case, the far chamber is also flooded, but I 
+doubt it-the administrative level was built higher, deliberately 
+above flood risk."
+ 
+So your options:
+OPTION A: Your Cloak Transfer Plan
+*	Johannes scouts ahead now (2 minutes)
+*	Establish beachhead on far side
+*	Transfer others one at a time (8-10 minutes total)
+*	Pros: Fast initial intel, defensive positioning, flexible response
+*	Cons: Party split during transfer, vulnerable window
+OPTION B: Water Breathing Ritual First
+*	Wait 10 minutes while Cyrus casts
+*	Everyone swims through together (30 seconds)
+*	Pros: Party stays together, coordinated assault capability, no transfer 
+vulnerability
+*	Cons: 10 minutes stationary, gricks have more prep time, no advance 
+intel
+OPTION C: Hybrid
+*	Johannes scouts NOW with Cloak (2 minutes)
+*	While you're gone, Cyrus starts ritual (10 minutes)
+*	By the time you return with intel, ritual is done
+*	Everyone swims through together based on your scout report
+*	Pros: Get intel AND coordinated crossing
+*	Cons: If you encounter trouble during scout, party can't help for 10+ 
+minutes
+ 
+What's your decision?
+C
+Dec 9
+HYBRID PLAN - EXECUTION
+"We do both," you decide. "Cyrus, start the ritual for Water 
+Breathing now. I'll scout ahead with the Cloak-by the time I'm 
+back with intel, you'll be done casting and we can all cross together 
+based on what I find."
+Cyrus nods immediately. "Smart. That gives us the best of both 
+approaches." He sits down cross-legged near the water's edge, pulling out 
+his holy symbol and beginning the ritual chant. His voice echoes softly 
+through the chamber as divine magic begins to gather.
+Thordin approves. "Good call. We'll know what's ahead AND be ready 
+to move as a unit. I'll keep watch while you're gone-make sure 
+nothing sneaks up on us from behind."
+Kessa checks her crossbow. "Ten minutes. Be careful down there, 
+Johannes. If you run into a nest of gricks, don't play hero-just get 
+back here."
+"I'll be careful," you assure her.
+ 
+SOLO RECONNAISSANCE - INTO THE FLOODED 
+PASSAGE
+You adjust your Cloak of Manta Ray, feeling its magic settle more firmly 
+around you. The water-breathing effect is already active, and you can feel your 
+body preparing for the swim-streamlined, efficient, comfortable.
+You grip your Trident of Warning in your right hand. Its magic tingles against 
+your palm, alert and ready.
+Taking a breath of air (old habit, even though you don't need to), you step into 
+the black water.
+ 
+THE DESCENT
+The water is cold-not freezing, but significantly colder than the air above. The 
+Cloak helps moderate it, but you still feel the chill.
+You descend smoothly, your enhanced swim speed making the movement 
+effortless. 12 feet down, then forward into the submerged passage.
+Your darkvision (Devil's Sight) reveals:
+The passage is exactly as Thordin described-carved stone, about 8 feet wide, 
+10 feet tall (from the current water level to the ceiling, which is just 1-2 feet 
+above the surface). The walls show tool marks from dwarven miners. 
+Everything is covered in algae and silt.
+Visibility underwater is poor-maybe 20 feet with your Devil's Sight, but the 
+water itself is murky with sediment.
+You swim forward, covering the 40 feet of straight passage in seconds (your 60 
+ft swim speed makes this trivial). Then the passage angles upward, as Thordin 
+said.
+ 
+PERCEPTION CHECK - UNDERWATER
+Roll: 16 + 3 = 19
+As you swim, you notice several things:
+1.	Claw marks on the walls - Recent (not centuries-old). Something has 
+been moving through here repeatedly. The scratches are consistent with 
+grick claws.
+2.	Disturbed sediment - The silt on the passage floor shows multiple 
+tracks. Whatever's been using this route uses it regularly.
+3.	A side alcove - About 30 feet into the passage, there's a small alcove in 
+the right wall, maybe 6 feet deep. It's dark, hidden. Perfect ambush 
+point.
+4.	Movement ahead - Just at the edge of your visibility, where the 
+passage angles upward toward the surface, you see something shift in 
+the darkness.
+Your Trident of Warning tingles sharply. Danger ahead.
+ 
+STEALTH CHECK - REMAINING UNDETECTED
+You're a dark shape moving through dark water. Do you try to approach 
+stealthily, or do you investigate the threat openly?
+If you proceed stealthily:
+*	Stealth check (with disadvantage underwater? Or does your swim speed 
+negate that?)
+*	You could get closer to identify the threat before it notices you
+If you investigate openly:
+*	You announce your presence but maintain control
+*	Less chance of being ambushed, but they know you're here
+If you retreat immediately:
+*	You've confirmed there ARE threats here
+*	You can report back and plan accordingly
+Your Trident is warning you of danger, but not imminent attack-
+yet.
+What do you do?
+Yes, I think the swim speed offsets underwater. I proceed with stealth 
+investigation.
+Dec 10
+STEALTH INVESTIGATION - UNDERWATER
+You slow your movement, using the Cloak's enhanced swim speed to glide 
+silently through the water rather than creating turbulence. The magic helps-
+your body moves with almost supernatural grace, disturbing minimal water.
+Stealth Check (DEX +5):
+*	Roll: 17 + 5 = 22 (Excellent)
+You drift forward like a shadow, keeping low, using the algae-covered walls for 
+concealment. The disturbed sediment helps mask your approach-the water is 
+already murky enough that your dark form blends naturally.
+ 
+WHAT YOU DISCOVER
+As you approach the area where the passage angles upward, the threat 
+becomes clear:
+Two gricks are positioned at the bend where the passage rises toward the 
+surface. They're not actively patrolling-they're waiting. Ambush predators in 
+perfect ambush position.
+Positioning:
+*	Grick #1: Coiled in that side alcove you noticed earlier (30 feet back). 
+It's camouflaged against the stone, tentacles tucked in, waiting for prey 
+to swim past.
+*	Grick #2: At the upward angle itself (40 feet ahead), partially obscured 
+by the bend. It's the one you saw move-it shifted slightly but hasn't 
+detected you yet.
+Their strategy is obvious: Anything swimming through gets ambushed 
+from behind by Grick #1, then caught at the surface by Grick #2. Classic 
+pincer.
+Your Perception (focusing now that you know they're there):
+*	Roll: 14 + 3 = 17
+The gricks are alert but not alarmed. They're waiting for prey, but they don't 
+know you're here yet. Their stone camouflage is good-if you hadn't been 
+moving carefully and watching for threats, you might have swum right into 
+their ambush.
+Additional observation: Beyond Grick #2, you can see the passage does 
+indeed angle up and break the surface. There's a faint glow-possibly 
+bioluminescent fungi or reflection from the chamber beyond. The "dry" 
+chamber Thordin mentioned is real.
+ 
+TACTICAL ASSESSMENT
+You're in a strong position:
+*	They don't know you're here
+*	You can see both of them
+*	Your Trident of Warning means they can't surprise you even if they 
+detect you
+*	Your swim speed (60 ft) is faster than theirs
+*	Hex + Eldritch Blast would work fine underwater (force damage has no 
+penalties)
+Your options:
+1.	Retreat and report - Bring intel back, party comes through prepared 
+for ambush (safest, gives you numbers advantage)
+2.	Ambush the ambushers - Strike first while you have surprise, try to 
+kill one or both before they can react (risky solo, but you're strong)
+3.	Try to bypass them - Your 60 ft swim speed might let you blast past 
+before they can react (risky, leaves them at your back)
+4.	Draw them back to the party - Attack, then retreat, pulling them 
+into a prepared ambush where Cyrus and team are waiting (clever but 
+requires precise timing)
+5.	Something else?
+Current status:
+*	You're 30 feet from the entrance (where party is)
+*	Grick #1 is in the alcove right next to you (5 feet away)
+*	Grick #2 is at the 40-foot mark
+*	You're undetected (Stealth 22 holding)
+*	Hex is available to cast
+*	Full spell slots and abilities
+Time elapsed: ~3 minutes (Cyrus has 7 minutes left on his ritual)
+What do you do?
+Hex closest grick, then EB
+Dec 10
+AMBUSH THE AMBUSHERS
+You hover silently in the murky water, focusing on the grick coiled in the 
+alcove just five feet away. It has no idea you're there-its stone-gray hide 
+blends with the carved walls, tentacles tucked, waiting for prey that will never 
+come.
+Dark energy coils around the creature as you cast Hex. The curse settles over 
+it like a shroud.
+Then you unleash Eldritch Blast.
+ 
+SURPRISE ROUND - JOHANNES ATTACKS
+Eldritch Blast (2 beams at Hexed Grick #1, target surprised):
+The water around you crackles with dark purple-black energy as twin beams 
+lance through the murk-HISS-CRACK, HISS-CRACK-each one leaving a 
+trail of bubbles.
+First beam:
+*	Attack roll: 15 + 7 = 22 (Hit, automatic crit on surprised target)
+*	Damage: (1d10+4)?2 (EB crit) + 1d6 (Hex) = (8+4)?2 + 3 = 24 + 3 = 
+27 damage
+Second beam:
+*	Attack roll: 18 + 7 = 25 (Hit, automatic crit on surprised target)
+*	Damage: (1d10+4)?2 (EB crit) + 1d6 (Hex) = (6+4)?2 + 5 = 20 + 5 = 
+25 damage
+Total: 52 damage
+The twin beams obliterate the ambushing grick. The first beam punches 
+completely through its midsection, the second tears through what passes for 
+its head. Dark ichor explodes into the water in a cloud.
+The creature doesn't even have time to register pain. It's dead instantly, body 
+already drifting in the current.
+Grick #1: DEAD
+ 
+GRICK #2 REACTS
+The second grick, positioned at the upward angle 35 feet away, immediately 
+detects the attack-the sound of crackling energy, the sudden cloud of 
+ichor, the vibrations through the water.
+It turns toward you, tentacles extending aggressively. It can't see you clearly 
+through the murky water and settling ichor cloud, but it 
+knows something killed its companion.
+INITIATIVE:
+*	Johannes (Trident advantage): 20 + 3 = 23
+*	Grick #2: 11 + 0 = 11
+You're faster. It's swimming toward you but hasn't reached you yet.
+ 
+ROUND 1 - JOHANNES'S TURN
+The grick is now about 30 feet away, closing fast. You can see its tentacled 
+maw opening, ready to strike.
+You transfer your Hex from the dead grick to this one. Dark energy shifts 
+instantly.
+Then you fire again.
+Eldritch Blast (2 beams at Hexed Grick #2):
+First beam:
+*	Attack roll: 13 + 7 = 20 (Hit)
+*	Damage: 1d10+4 (EB) + 1d6 (Hex) = 7 + 4 + 4 = 15 damage
+Second beam:
+*	Attack roll: 16 + 7 = 23 (Hit)
+*	Damage: 1d10+4 (EB) + 1d6 (Hex) = 9 + 4 + 2 = 15 damage
+Total: 30 damage
+Both beams strike true, punching holes through the grick's rubbery hide. It 
+shrieks-a horrible wet sound that echoes through the water-and recoils, 
+badly wounded but still alive.
+ 
+GRICK #2'S TURN
+Wounded and desperate, the grick lunges forward, closing the remaining 
+distance. Its tentacles lash out at you.
+Tentacle Attack:
+*	Attack roll: 14 + 4 = 18 vs your AC 16
+*	HIT
+*	Damage: 2d6+2 = 8 + 2 = 10 damage
+The tentacles wrap around your left arm and shoulder, yanking you closer to 
+its beaked maw. You feel the constriction, the strength of the creature trying to 
+pull you in.
+Grapple attempt (contested STR):
+*	Grick STR: 14 + 2 = 16
+*	Your STR: 10 + 0 = 10
+*	You are GRAPPLED
+The creature has you. Its beak is snapping toward your face, tentacles 
+tightening.
+Your HP: 76 - 10 = 66 HP remaining
+ 
+ROUND 2 - JOHANNES'S TURN
+You're grappled, underwater, face-to-face with a wounded, desperate grick 
+trying to bite your head off.
+Options:
+1.	Point-blank Eldritch Blast (you can still cast while grappled, 
+disadvantage on attacks isn't a thing for ranged spell attacks while 
+grappled, just movement is restricted)
+2.	Stab with Trident (melee attack, you're in perfect range, +1 magical 
+weapon bypasses resistance)
+3.	Try to break grapple (Athletics or Acrobatics check vs the grick's 
+Athletics)
+4.	Dimension Door scroll (emergency escape, but probably overkill)
+5.	Something else?
+The grick's beak is inches from your face. Its grip is tight. But it's also badly 
+wounded-one good hit should finish it.
+What do you do?
+2
+Dec 10
+TRIDENT STRIKE - POINT BLANK
+Grappled, face-to-face with the grick's snapping beak, you shift your grip on 
+the Trident of Warning and thrust directly into the creature's center mass.
+Trident Attack (+1 magical weapon):
+*	Attack roll: 14 + 7 (STR + proficiency + magical bonus) = 21 (Hit)
+*	Damage: 1d6+1 (trident magical) + 3 (STR) = 5 + 1 + 3 = 9 damage
+The trident punches through the grick's rubbery hide with a wet THUNK, 
+driving deep into its body. You feel the resistance, then the give as the weapon 
+finds vital organs (or whatever passes for them in an aberration).
+The grick convulses violently. Its tentacles spasm, grip loosening. The beak 
+snaps once more-weakly, reflexively-then goes still.
+Grick #2: DEAD
+The creature's body goes limp, tentacles unwrapping from your arm. Dark 
+ichor clouds the water around you as it drifts downward, settling on the silt-
+covered floor.
+ 
+AFTERMATH - UNDERWATER CHAMBER
+You float in the murky water, breathing easily thanks to the Cloak, surrounded 
+by settling ichor and sediment. Both gricks are dead. The ambush that would 
+have caught your companions has been completely neutralized.
+Combat Summary:
+*	Duration: ~12 seconds (2 rounds)
+*	Damage taken: 10 HP (66/76 remaining)
+*	Resources used: Hex (still active, can be moved), 4 Eldritch Blast 
+beams (cantrip), 1 melee attack
+*	Result: Complete tactical success
+Your Trident of Warning's magic pulses once-confirming no additional 
+immediate threats nearby.
+ 
+SCOUTING THE FAR CHAMBER
+With the threats eliminated, you swim forward through the passage, ascending 
+the angled section where Grick #2 had been positioned.
+You break the surface.
+The Administrative Level - Dry Chamber:
+The passage emerges into a chamber that is indeed mostly dry, just as Thordin 
+predicted. Water fills the lower 3-4 feet, but above that is open air-stale, 
+damp, but breathable.
+What you see:
+The chamber is roughly 40 feet across, with a vaulted ceiling about 
+20 feet high. Carved pillars support the roof. The architecture is distinctly 
+administrative-desks (long since rotted), filing cabinets (rusted and fallen), 
+what might have been a reception area.
+Three doorways lead out:
+*	Left: A corridor heading deeper into the administrative section (dark, 
+unknown)
+*	Center: Larger double doors, partially ajar, with dwarven runes above 
+them reading "COMMANDER'S VAULT" (your destination!)
+*	Right: Another corridor, collapsed about 20 feet in (blocked)
+Additional observations:
+Bioluminescent fungi grows along the walls and ceiling, providing dim 
+blue-green light. It's beautiful in an eerie way-enough to see by, even without 
+your Devil's Sight.
+No immediate threats. The chamber appears empty. No gricks, no other 
+creatures visible.
+Signs of age: Everything is ancient, decayed, untouched for centuries. The 
+water line on the walls shows the flooding is stable-it's been at this level for a 
+very long time.
+The Commander's Vault doors: Heavy bronze, weathered but intact. 
+They're slightly open-maybe a foot gap. You can't see inside from your 
+current position.
+ 
+DECISION POINT
+You've completed your scout. The intelligence is valuable:
+Confirmed:
+*	Two gricks were waiting in ambush (now dead)
+*	The passage is clear
+*	The far chamber is accessible and mostly dry
+*	The Commander's Vault is here and appears accessible
+*	No other immediate threats visible
+Time check: You've been gone about 6-7 minutes. Cyrus has maybe 3-4 
+minutes left on his Water Breathing ritual.
+Your options:
+1.	Return to the party now - Report findings, bring everyone through 
+together once ritual completes (safest, coordinated approach)
+2.	Wait here for 3-4 minutes - Let Cyrus finish the ritual, then guide 
+them through when they arrive (maintains forward position)
+3.	Investigate the Vault while waiting - You're here, the doors are 
+open, you could peek inside (risky-what if there's a trap or guardian?)
+4.	Check the left corridor quickly - Make sure there are no additional 
+threats before bringing the party through (thorough but uses time)
+5.	Something else?
+The fungi-lit chamber is quiet except for the gentle lap of water against stone. 
+The Vault doors stand slightly ajar, waiting.
+What do you do?
+1
+Dec 10
+RETURN TO THE PARTY
+You've got the intel you came for. No need to push your luck solo-better to 
+bring the team through and tackle the Vault together.
+You take one last look around the chamber, committing the layout to memory: 
+three exits, the Vault doors in the center, fungi providing light, water line 
+stable at 3-4 feet.
+Then you descend back into the flooded passage.
+ 
+THE SWIM BACK
+Swimming back through the passage is quick and uneventful. The two dead 
+gricks drift in the current, ichor still clouding the water slightly, but they pose 
+no threat now.
+You cover the 40 feet in seconds, ascending the 12-foot rise, and break the 
+surface at the entrance where you left your companions.
+ 
+REUNION - REPORT
+"Johannes!" Kessa calls out as you emerge, relief evident in her 
+voice. "You're back. Everything alright?"
+Cyrus is still seated cross-legged, hands folded, eyes closed-deep in the final 
+stages of the ritual. His voice continues in a steady, rhythmic chant. Divine 
+magic pulses faintly in the air around him.
+Thordin offers you a hand up onto the dry stone ledge. "What did you 
+find?"
+You pull yourself out of the water, dripping. "Two gricks waiting in 
+ambush-one in an alcove halfway through, one at the far end. I 
+eliminated both. Passage is clear now."
+Kessa's eyebrows raise. "You took out two gricks solo?"
+"Surprise helped. First one never knew I was there. Second one got 
+a hit in but went down fast." You touch your shoulder where the tentacles 
+wrapped-it's bruised but not serious. "Ten damage, nothing critical."
+Thordin grins broadly. "Well done! That saves us a nasty fight in 
+confined space. What about the far side?"
+"Exactly as you described-dry chamber, about three to four feet of 
+standing water, but breathable air above. Three exits: left corridor 
+into the administrative section, center is the Commander's Vault 
+with doors partially open, right corridor is collapsed and blocked."
+You describe the layout in detail-the fungi lighting, the apparent lack of 
+additional threats, the bronze vault doors.
+"No other gricks visible?" Thordin asks carefully.
+"None that I could see. But there are other passages leading 
+deeper. I didn't explore those-figured we should go together."
+Thordin nods approvingly. "Smart. Never split the party more than 
+necessary."
+ 
+WATER BREATHING RITUAL COMPLETES
+Cyrus opens his eyes and releases a long breath. The divine magic that had 
+been building around him for the past ten minutes settles into place.
+"The spell is ready," he announces, standing and stretching. "I can grant 
+water breathing to all four of us for the next eight hours."
+He moves to each of you in turn, touching shoulders and speaking brief 
+prayers. You feel the magic settle over you-a cool, fluid sensation, like the 
+water itself is welcoming you.
+Water Breathing active on entire party (8 hours duration).
+Cyrus looks at you. "You said you cleared the ambush? Well done. 
+How are you feeling? Need healing?"
+"I'm fine," you assure him. "Just some bruising. Save your magic for 
+real emergencies."
+ 
+CROSSING AS A GROUP
+With Water Breathing active, the crossing becomes trivial:
+"Stay together," you instruct as the group prepares to enter the 
+water. "Follow my lead. The passage is straight for forty feet, then 
+angles up. The two dead gricks are in there-don't be startled. We'll 
+surface in the administrative chamber."
+Everyone nods, checking weapons and equipment one last time.
+Thordin: Warhammer ready, pack secured, moving with the confidence of 
+someone who's done this before.
+Kessa: Hand crossbow loaded, daggers accessible, moving with professional 
+efficiency.
+Cyrus: Holy symbol around his neck, goggles on for darkvision, looking 
+focused and ready.
+You lead the way into the dark water.
+ 
+THE PASSAGE - GROUP CROSSING
+The four of you descend and swim through together. With everyone able to 
+breathe water freely, there's no panic, no rushing. It's almost peaceful-like 
+exploring rather than infiltrating.
+Kessa notes the dead gricks as you pass, giving you an impressed look. 
+The evidence of your work is clear-massive holes punched through their 
+bodies, ichor still settling.
+Thordin examines the alcove ambush position, nodding in 
+professional respect. "Good eyes, spotting that. Would've been nasty if 
+we'd swum past without noticing."
+The swim takes less than a minute. You ascend the angled passage and break 
+the surface into the fungi-lit administrative chamber.
+ 
+THE ADMINISTRATIVE LEVEL - FULL PARTY 
+ARRIVAL
+Everyone pulls themselves up onto the higher stone ledges above the water 
+line (the chamber has about 3-4 feet of water covering the floor, but the desks 
+and raised platforms are dry enough to stand on).
+Thordin looks around with satisfaction, water dripping from his 
+beard. "Just as I remember it. Well, a bit more decayed, but the 
+bones are the same."
+He points to the center doors-the Commander's Vault. "That's our target. 
+The Helm of Kharas should be inside, probably in a display case or 
+secure chest."
+Kessa is already scanning for threats, her crossbow ready, eyes moving 
+systematically across the chamber. "Left corridor-anything down there 
+we need to worry about?"
+"Didn't scout it," you admit. "Could be more gricks, could be clear. 
+The Vault seemed like priority."
+Cyrus moves to the Vault doors, examining them carefully. "These runes... 
+they're protective wards. Very old, but still active. See the faint 
+glow?"
+He's right-there's a barely perceptible shimmer around the door frame. 
+Magic that's endured three centuries.
+Thordin nods. "Aye. The Commander wouldn't leave his treasures 
+unguarded. The wards are probably keyed to dwarven blood or 
+specific command words. But with time and patience, we can work 
+around them."
+He looks at the group. "Question is: do we secure the chamber first-
+check that left corridor, make sure nothing's going to ambush us 
+from behind-or do we go straight for the Vault?"
+ 
+What's your priority?
+1.	Clear the left corridor first (secure your position, eliminate threats 
+before focusing on the Vault)
+2.	Go straight to the Vault (that's why you're here, deal with threats if 
+they emerge)
+3.	Split up (some guard, some work on Vault-efficient but risky)
+4.	Set watch while examining Vault (compromise-Kessa and 
+Thordin on overwatch, you and Cyrus tackle the door)
+5.	Something else?
+The fungi-lit chamber waits, quiet except for the gentle lap of water. The Vault 
+doors stand slightly ajar, promising treasure-and possibly danger.
+1
+Dec 10
+SECURING THE PERIMETER
+"We clear the corridor first," you decide firmly. "Last thing we need is 
+gricks or something worse coming up behind us while we're 
+focused on the Vault. We do this properly-secure the area, then 
+retrieve the Helm."
+Thordin nods approvingly. "Professional. I like it. Better to spend ten 
+minutes clearing threats than ten seconds dying to an ambush."
+Cyrus hefts his mace. "Agreed. Let's make sure we're alone down 
+here."
+Kessa is already moving toward the left corridor, crossbow raised. "I'll take 
+point. Standard sweep formation?"
+"Standard sweep," you confirm. "Kessa front, I'm right behind her, 
+Cyrus and Thordin cover our flanks and rear. Call out anything 
+suspicious."
+ 
+THE LEFT CORRIDOR - INVESTIGATION
+The corridor extends into darkness-your various vision enhancements 
+(Devil's Sight, Goggles of Night, dwarven darkvision for Thordin) make 
+navigation easy despite the lack of light.
+The passage is carved stone, about 8 feet wide, 10 feet tall. Water 
+covers the floor to about ankle-depth here (the administrative level slopes 
+slightly). Side doors branch off-offices, storage rooms, perhaps living 
+quarters for senior staff.
+Kessa moves carefully, checking every doorway, every shadow.
+Perception checks (group):
+*	Johannes: 15 + 3 = 18
+*	Kessa: Natural 20 + 7 = 27 (Exceptional)
+*	Cyrus: 13 + 4 = 17
+*	Thordin: 16 + 5 = 21
+ 
+WHAT KESSA DISCOVERS
+"Hold," Kessa whispers sharply, raising her fist. Everyone freezes.
+She points to a doorway about 30 feet ahead on the right. "Movement. 
+Something large. Breathing-I can hear it."
+You listen carefully. She's right-there's a wet, rhythmic sound. Something 
+alive. Something big.
+Thordin whispers: "How big?"
+Kessa considers. "Bigger than the gricks. Maybe... eight feet? Ten?"
+Your Trident of Warning begins to tingle-not urgent alarm, but definite 
+warning. Danger ahead.
+ 
+TACTICAL APPROACH
+The creature (whatever it is) is in a side room, apparently unaware of your 
+presence. The door is partially open-maybe 2 feet gap.
+Options:
+1.	Ambush from doorway (position team, strike fast when you have 
+surprise)
+2.	Kessa scouts alone (she's stealthiest, can get eyes on target before 
+committing)
+3.	Announce presence (call out, give it a chance to respond-might not 
+be hostile?)
+4.	Bypass entirely (close/bar the door, deal with Vault, handle this on 
+the way out)
+5.	Something else?
+Thordin whispers: "Could be a grick alpha-larger, tougher version. 
+Could be something else that moved in after the Cataclysm. Your 
+call, Commander."
+Kessa adds quietly: "Whatever it is, it's between us and a clear exit. I 
+vote we deal with it now."
+What's your approach?
+1
+Dec 10
+AMBUSH SETUP
+"We hit it hard and fast," you whisper. "Ambush from the doorway. 
+Kessa, can you see inside without alerting it?"
+Kessa nods, already moving silently toward the partially open door. She 
+positions herself at the edge, peering through the gap with professional care.
+After a moment, she signals back with hand signs:
+One creature. Large. Grick-like but bigger. Coiled. Sleeping or resting.
+Thordin whispers: "Grick alpha. Tougher hide, more hit points, 
+nastier bite. But if it's resting, we've got the advantage."
+"Positions," you whisper. "Kessa, open the door on my mark and 
+take the first shot. I'll hit it with Hex and Eldritch Blast. Cyrus, 
+Sacred Flame. Thordin, be ready to charge if it survives the 
+opening salvo."
+Everyone nods, moving into position with practiced efficiency.
+Kessa: At the door, hand on the handle, crossbow ready in the other 
+hand. Johannes: Behind her, clear line of sight once the door 
+opens. Cyrus: To the side, holy symbol ready. Thordin: Warhammer 
+gripped, prepared to rush in.
+You take a breath, focus on the door, prepare your Hex.
+"Three... two... one... MARK."
+ 
+SURPRISE ROUND - GRICK ALPHA AMBUSH
+Kessa kicks the door fully open with a bang, her crossbow already raised.
+Inside the room-a grick alpha. It's massive compared to the regular gricks, 
+easily 12 feet long, thick as a barrel, coiled in the center of what was once an 
+administrative office. It was indeed resting, but the door crash wakes it 
+instantly.
+Its tentacled head whips around, eyes (or sensory organs) focusing on the 
+doorway-
+Too late.
+ 
+KESSA'S ATTACK (Surprise Round)
+Hand Crossbow + Sneak Attack:
+*	Attack roll: 18 + 7 = 25 (Hit, target surprised)
+*	Damage: 1d6+4 + 3d6 (sneak attack) = 5 + 4 + 14 = 23 damage
+The bolt punches into the grick alpha's body with a meaty thunk. The creature 
+shrieks-a deep, resonant sound that echoes through the corridors.
+ 
+JOHANNES'S ATTACK (Surprise Round)
+You cast Hex on the creature as it rears up, dark energy coiling around it. 
+Then you unleash Eldritch Blast.
+Two beams (target surprised):
+First beam:
+*	Attack roll: 14 + 7 = 21 (Hit, auto-crit)
+*	Damage: (1d10+4)?2 + 1d6 (Hex) = (7+4)?2 + 3 = 22 + 3 = 25 
+damage
+Second beam:
+*	Attack roll: 16 + 7 = 23 (Hit, auto-crit)
+*	Damage: (1d10+4)?2 + 1d6 (Hex) = (9+4)?2 + 4 = 26 + 4 = 30 
+damage
+Total: 55 damage
+The twin beams of crackling energy HISS-CRACK through the doorway, 
+slamming into the grick alpha's body. Massive holes tear through its rubbery 
+hide, ichor spraying across the walls.
+The creature roars in pain and fury, but it's still standing-these things 
+are tough.
+ 
+CYRUS'S ATTACK (Surprise Round)
+"BURN!" Cyrus shouts, thrusting his holy symbol forward.
+Sacred Flame (DEX save DC 15):
+*	Grick Alpha DEX save: 6 + 1 = 7 (FAIL)
+*	Damage: 2d8 radiant = 15 damage
+Holy fire descends from above, engulfing the wounded grick alpha. Its hide 
+blackens and blisters under the radiant assault.
+Total damage in surprise round: 23 + 55 + 15 = 93 damage
+The grick alpha is heavily wounded, ichor pouring from multiple wounds, 
+burned by holy fire, but it's not dead yet. It thrashes violently, tentacles 
+lashing, preparing to fight back.
+ 
+INITIATIVE - ROUND 1
+Roll Initiative:
+*	Johannes (Trident advantage): 21 + 3 = 24
+*	Kessa: 17 + 5 = 22
+*	Cyrus: 15 + 2 = 17
+*	Thordin: 13 + 2 = 15
+*	Grick Alpha: 9 + 1 = 10
+The grick alpha is desperate, wounded, and furious. But you're all faster.
+ 
+ROUND 1 - JOHANNES'S TURN
+The creature is badly wounded but still dangerous. Its tentacles are extending 
+toward the doorway, and its beak is snapping.
+What do you do?
+1.	Eldritch Blast again (finish it from range, 2 more beams with Hex 
+active)
+2.	Maddening Hex (bonus action, 4 psychic damage + make it harder for 
+it to act)
+3.	Move into melee with Trident (aggressive, but why close when you 
+have range?)
+4.	Something else?
+The grick alpha is maybe 15 feet away from the doorway, coiled but preparing 
+to strike.
+Your turn.
+1
+Dec 10
+FINISHING BLOW - ELDRITCH BLAST
+No need to get fancy. The creature is heavily wounded, and you have the range 
+advantage.
+You raise your hand and unleash another barrage of eldritch energy.
+Eldritch Blast (2 beams at Hexed Grick Alpha):
+First beam:
+*	Attack roll: 12 + 7 = 19 (Hit)
+*	Damage: 1d10+4 (EB) + 1d6 (Hex) = 8 + 4 + 5 = 17 damage
+Second beam:
+*	Attack roll: 15 + 7 = 22 (Hit)
+*	Damage: 1d10+4 (EB) + 1d6 (Hex) = 6 + 4 + 2 = 12 damage
+Total: 29 damage
+The twin beams CRACK-HISS through the doorway, punching into the grick 
+alpha's already-ravaged body. The first beam tears through its midsection, the 
+second strikes where body meets tentacled head.
+The massive creature shudders violently, tentacles spasming, then-
+It collapses.
+The grick alpha crashes to the stone floor with a heavy THUD, ichor pooling 
+rapidly around it. Its tentacles twitch once, twice, then go still.
+Grick Alpha: DEAD
+ 
+AFTERMATH - SECURING THE CORRIDOR
+Silence falls over the corridor, broken only by the drip of water and your 
+breathing.
+Thordin steps forward cautiously, warhammer ready, and prods the corpse 
+with his boot. It doesn't move.
+"Dead," he confirms. "That was a grick alpha alright. Nasty piece of 
+work. They're usually the colony leaders-tougher, meaner, 
+smarter than the regular ones."
+He looks at the group with genuine respect. "You lot took it down in one 
+round of actual combat. That's... impressive. Very impressive."
+Kessa is already reloading her crossbow. "Good ambush. Caught it 
+completely off-guard." She looks at you. "Your opening strike 
+basically crippled it before it could respond."
+Cyrus examines the room briefly. "This was some kind of record-
+keeping office. The alpha probably moved in because it's a large, 
+secure space." He checks the corners and alcoves. "Looks clear 
+otherwise."
+ 
+CONTINUING THE SWEEP
+You proceed down the corridor, checking the remaining rooms systematically:
+Rooms found:
+*	Storage chamber: Empty, some rotted furniture, nothing of interest
+*	Office: Similar to the alpha's lair, abandoned for centuries
+*	Small armory: Rusted weapons, corroded armor, nothing salvageable
+*	Quarters: Personal rooms for administrators, long since decayed
+The corridor ends at a collapsed section about 60 feet from where you 
+started. Stone has caved in, completely blocking further passage. There's no 
+way through without major excavation.
+"Dead end," Kessa confirms. "Nothing else down here."
+Thordin nods. "Good. That means the entire administrative level is 
+secure except for the Vault itself. No more threats at our backs."
+ 
+COMBAT SUMMARY - CORRIDOR SWEEP
+Encounters eliminated:
+*	2 gricks (underwater passage, solo)
+*	1 grick alpha (administrative corridor, group)
+Party status:
+*	Johannes: 66/76 HP (10 damage from earlier grick)
+*	Kessa: Full HP
+*	Cyrus: Full HP
+*	Thordin: Full HP
+Resources used:
+*	Hex (still active, can be moved or dismissed)
+*	Multiple Eldritch Blasts (cantrips, unlimited)
+*	1 Sacred Flame (cantrip, unlimited)
+*	1 crossbow bolt (Kessa)
+*	Water Breathing (ongoing, 7+ hours remaining)
+Tactical assessment: Perfect execution on both fronts. Area secured with 
+minimal resource expenditure.
+ 
+RETURNING TO THE VAULT
+The four of you return to the main chamber where the Commander's Vault 
+awaits. The bronze doors stand slightly ajar, the ancient protective wards still 
+shimmering faintly in your various vision modes.
+Thordin approaches the doors carefully, examining them with a professional 
+eye.
+"Right. Now for the tricky part." He traces the runes with his finger, not 
+quite touching. "These wards are designed to prevent forced entry. If 
+we just push the doors open or try to break in, they'll trigger-
+probably a shock, maybe an alarm, possibly something worse."
+He strokes his beard thoughtfully. "The wards are old, though. Three 
+centuries old. They're still active, but weakened. With the right 
+approach, we might be able to bypass or disable them."
+Cyrus steps forward. "I might be able to dispel the magic, or at least 
+suppress it temporarily. Divine magic versus arcane wards-it's not 
+guaranteed, but it's possible."
+Kessa adds: "Or I could try to pick the lock mechanism directly, if 
+there is one. Sometimes the physical lock is separate from the 
+magical protections."
+Thordin considers both options. "The dispel is safer but might fail. 
+The lockpicking is riskier-if you trigger the wards, we all feel it. 
+But if it works, we're in clean."
+He looks at you. "Your call, Commander. You've led us this far 
+without a misstep."
+ 
+How do you want to handle the Vault doors?
+1.	Cyrus attempts to Dispel Magic (ritual cast if needed, takes 10 
+minutes but safer)
+2.	Kessa picks the lock (faster but riskier if wards trigger)
+3.	Thordin tries a dwarven command word (he knows some 
+traditional phrases, might work)
+4.	Examine the doors more thoroughly first (take your time, gather 
+more info before deciding)
+5.	Brute force (just push through and accept the consequences-not 
+recommended)
+6.	Something else?
+The Vault doors wait, three centuries of protection still active, the Helm of 
+Kharas presumably just beyond.
+What's your approach?
+4, then 3, then 1, then 2
+Dec 10
+METHODICAL APPROACH - VAULT DOORS
+"We do this carefully," you say. "No rushing. We examine the doors 
+thoroughly first, then try solutions in order of risk. Thordin's 
+dwarven command words first since he knows the culture, then 
+Cyrus's Dispel Magic, then Kessa's lockpicking if needed."
+Everyone nods-it's a sensible, methodical approach.
+"Let's start with a full examination. Everyone, look for anything 
+unusual."
+ 
+PHASE 1: THOROUGH EXAMINATION
+The four of you spread out around the doors, examining them from every 
+angle.
+Investigation/Perception Checks:
+*	Johannes: 16 + 3 = 19
+*	Kessa: 18 + 7 = 25 (Excellent)
+*	Cyrus (Arcana for magical elements): 17 + 4 = 21
+*	Thordin (History/dwarven knowledge): Natural 20 + 5 
+= 25 (Exceptional)
+ 
+WHAT YOU DISCOVER:
+Thordin (critical success) finds the key details:
+"Ah! Here!" he exclaims, pointing to a section of runes near the door 
+handle. "I know this pattern. This is a ward of lineage-it's keyed to 
+dwarven blood, specifically to the Thoradin clan. But look here..."** He traces 
+another set of runes. "There's an override phrase. A formal request 
+protocol."
+He grins. "The Commander wasn't just trying to keep thieves out-he 
+was trying to keep unauthorized DWARVES out. This is military 
+security, not tomb protection. There's a proper way to request 
+entry."
+ 
+Kessa's observations:
+"The physical lock is integrated with the magical wards," she notes, 
+examining the mechanism. "You can't pick one without triggering the 
+other. But the good news is the lock itself is simple-it's the wards 
+doing the heavy lifting, not complex tumblers."
+She points to stress cracks around the door frame. "The doors have been 
+slightly forced open at some point-see the gap? Someone or 
+something pushed them partially open, but the wards stopped 
+them from going further. That's why they're ajar now."
+ 
+Cyrus's magical analysis:
+"The wards are evocation-based," he explains. "Designed to deliver a 
+shock-probably lightning or force damage-to anyone trying to 
+force entry. The good news is they're significantly weakened after 
+three centuries. I'd estimate maybe 4d6 damage instead of the 
+original 8d6 or higher."
+He studies the magical pattern. "Dispel Magic would work, but it's not 
+guaranteed. The ward was cast at high level originally. I'd say... 
+60% chance of success with a standard casting, maybe 80% if I 
+ritual cast and take my time."
+ 
+Your observations:
+You notice the doors themselves are bronze-reinforced oak-incredibly 
+durable. The hinges are dwarven engineering, still functional after centuries. 
+The gap between the doors is about 8-10 inches-you can see darkness 
+beyond, but not details.
+More importantly, your Trident of Warning is not tingling. Whatever's 
+inside the Vault, it's not an active threat waiting to ambush you.
+ 
+PHASE 2: DWARVEN COMMAND WORD
+"I'm going to try the formal request protocol," Thordin 
+announces. "It's a long shot-I'm not Thoradin clan, and the 
+Commander's been dead for centuries. But the wards might still 
+recognize proper military procedure."
+He straightens, adopts a formal military posture, and speaks in clear, resonant 
+Dwarven:
+"Commander Thoradin, I am Thordin Ironhelm, Master Delver of 
+Thorbardin. I request entry to retrieve artifacts of our people on 
+behalf of the living clans. I invoke the Right of Recovery under the 
+Accords of Stone and Steel. Grant me passage."
+ 
+The wards flare briefly-blue light racing along the runes.
+For a moment, everyone tenses, ready for a blast of magical energy-
+But then the light softens, turning from aggressive blue to a gentler amber.
+The runes rearrange slightly, and ancient magical mechanisms click inside 
+the doors.
+The wards don't fully deactivate, but they... recognize the request.
+A spectral voice-deep, authoritative, clearly dwarven-echoes from the doors:
+"REQUEST ACKNOWLEDGED. LINEAGE VERIFICATION... 
+FAILED. CLAN AFFILIATION... THORBARDIN, RECOGNIZED. 
+PURPOSE... ARTIFACT RECOVERY, ACCEPTABLE."
+A pause, then:
+"CONDITIONAL ENTRY GRANTED. RESTRICTIONS: NO THEFT 
+OF SACRED ITEMS. NO DESECRATION. TIME LIMIT: ONE HOUR. 
+VIOLATE TERMS, WARDS ACTIVATE."
+The doors swing open smoothly, revealing the darkened Vault beyond.
+ 
+Thordin's jaw drops. "By the Forge... it actually WORKED. The 
+ward recognized Thorbardin lineage and the formal protocol. It's 
+treating us as legitimate military personnel on authorized 
+business."
+He looks at the group with a mixture of awe and relief. "We have one hour 
+inside. We can take artifacts, but if we desecrate anything or steal 
+sacred items, the wards will attack. The Helm of Kharas isn't 
+sacred in the religious sense-it's historical. We should be fine."
+Kessa grins. "So we just walked into a three-century-old vault by 
+asking politely. I love it when the ancient security assumes good 
+faith."
+Cyrus looks thoughtful. "The dwarves who built this place never 
+imagined it would be abandoned for centuries. They built it to keep 
+out unauthorized access, not to seal it forever."
+ 
+THE COMMANDER'S VAULT - INTERIOR
+You step through the open doors into the Vault.
+The chamber is roughly 30 feet by 30 feet, with a vaulted 
+ceiling. Unlike the rest of the complex, this room is completely dry-the 
+wards have kept water out entirely.
+What you see:
+Display cases line the walls, made of reinforced glass (or possibly crystal). 
+Most are empty or contain items that have decayed (cloth, leather, documents 
+turned to dust).
+But some items remain intact:
+*	A ceremonial warhammer in pristine condition, mounted on the far 
+wall
+*	Several pieces of jewelry in a case-rings, amulets, pins
+*	A shield bearing the symbol of Thoradin's Hall
+*	Documents in sealed crystal tubes-maps, orders, personal letters, 
+all preserved
+*	And on a central pedestal, illuminated by faint magical light:
+The Helm of Kharas.
+It's magnificent. Dwarven craftsmanship at its finest-steel worked with gold 
+inlay, runes of protection and honor etched along the brow, wings extending 
+from the sides in traditional dwarven style. It's slightly dust-covered but 
+otherwise perfect, as if it was placed here yesterday rather than 280 years 
+ago.
+Thordin approaches it reverently, removing his own helmet. "There it is. 
+The Helm of Kharas. One of the greatest artifacts of our people."
+He doesn't touch it immediately-just stands, looking at it with profound 
+respect.
+ 
+The chamber is as you were told: one hour time limit, no 
+desecration, artifact recovery is permitted.
+What do you do?
+1.	Thordin retrieves the Helm (that's what you came for)
+2.	Examine other items (the warhammer, jewelry, documents-
+anything else valuable?)
+3.	Document everything (record what's here before taking anything)
+4.	Take only the Helm and leave quickly (minimize time in the Vault)
+5.	Something else?
+You have one hour before the wards reactivate.
+The items here are abandoned, right?
+Dec 10
+CLARIFYING THE SITUATION
+Good question. You turn to Thordin for his assessment.
+"These items-they're abandoned, right? No one's been here in 
+centuries. No one's coming back for them."
+Thordin considers carefully, his expression thoughtful.
+"Technically, yes and no," he says slowly. "The outpost was 
+abandoned during the Cataclysm-everyone either died or fled. For 
+280 years, this place has been empty. No one from Thoradin's line 
+survived to claim inheritance. No one from Thoradin's Hall ever 
+returned."
+He gestures to the Vault. "But dwarven law is complicated. These items 
+belonged to the outpost, to Clan Thoradin, to the dwarven people 
+as a whole. The Helm specifically was a ceremonial gift-it has 
+historical and cultural significance."
+"So taking them would be...?" Kessa prompts.
+"Legally ambiguous," Thordin admits. "From one perspective, we're 
+recovering lost artifacts of our people-that's legitimate salvage, 
+especially since I'm a dwarf of Thorbardin acting in good faith. The 
+ward recognized that and granted conditional entry."
+"From another perspective," he continues, "some dwarven clans 
+might argue these items should be returned to Thorbardin, to the 
+appropriate authorities, not sold to private collectors or kept as 
+personal loot."
+He looks at the Helm, then at the other items.
+"Here's what I know for certain: The Helm is my contract. I'm 
+taking it to my client in Palanthas as agreed-that's legitimate 
+artifact recovery, and I'm paying you for your help. That's clean."
+"As for the other items..." He pauses. "The ward said 'no theft of 
+sacred items.' The ceremonial warhammer might count as sacred-
+it's a religious symbol. The documents are historical records, not 
+sacred. The jewelry... probably personal effects, not sacred."
+"The ward will judge based on intent and action. If we're taking 
+items for preservation, recovery, or legitimate use-probably fine. 
+If we're looting and desecrating-the wards will attack."
+ 
+Cyrus offers his perspective:
+"From a moral standpoint, these items have been abandoned for 
+nearly three centuries. No one is coming back for them. Leaving 
+them here means they'll eventually decay or be lost forever. Taking 
+them-especially to preserve them or return them to dwarven 
+hands-seems more respectful than leaving them to rot."
+He looks at the documents in crystal tubes. "Those historical records, for 
+instance, could be invaluable to historians and dwarven clans 
+trying to understand what happened during the Cataclysm. Leaving 
+them here serves no one."
+ 
+Kessa's practical take:
+"Look, we have an hour. We came for the Helm, that's priority one. 
+If there are other items that are valuable, non-sacred, and serve a 
+purpose being recovered-we take them. If the wards object, we'll 
+know immediately and we stop."
+She grins slightly. "Besides, the ward specifically said 'no theft of 
+sacred items.' It didn't say 'don't touch anything else.'"
+ 
+Thordin's final assessment:
+"Here's my recommendation: We take the Helm-that's the 
+mission. We take the historical documents-they're records, not 
+treasure, and they belong in archives where people can learn from 
+them. The jewelry and personal effects... we could take them and 
+donate them to Thorbardin's museum or historical society. That's 
+preservation, not theft."
+"The ceremonial warhammer, though-I'd leave that. It's explicitly 
+religious/ceremonial. Taking it feels like crossing the 'sacred items' 
+line."
+He looks at you. "But you're the commander. What's your call?"
+ 
+So to summarize:
+Definitely take:
+*	Helm of Kharas (mission objective)
+Probably safe to take:
+*	Historical documents in crystal tubes (preservation/scholarship)
+*	Personal jewelry/effects (can be donated to museums or dwarven 
+authorities)
+*	The shield with Thoradin's Hall symbol (historical artifact)
+Should NOT take:
+*	Ceremonial warhammer (likely counts as "sacred item")
+The ward will judge based on intent. If you're taking items 
+respectfully for preservation/recovery, you're probably fine. If 
+you're looting greedily, the wards will activate.
+What do you want to do?
+Take what is safe, leave the rest
+Dec 10
+RESPECTFUL RECOVERY
+"We take what's safe and appropriate," you decide. "The Helm is our 
+mission. The documents and historical artifacts should be 
+preserved-they're records of your people's history. The jewelry 
+can go to Thorbardin's museums or historical societies. But we 
+leave the ceremonial warhammer. That crosses the line into sacred 
+items."
+Thordin nods with clear approval. "A wise and respectful choice. Let's 
+work quickly."
+ 
+ARTIFACT RECOVERY - 15 MINUTES
+The team moves efficiently through the Vault:
+Thordin - The Helm of Kharas
+Thordin approaches the central pedestal reverently. He speaks quietly in 
+Dwarven-a prayer or acknowledgment-then carefully lifts the Helm.
+The wards flicker briefly-everyone tenses-but then settle to their 
+ambient glow. The ward is assessing but not objecting.
+Thordin wraps the Helm carefully in protective cloth and places it in his 
+pack. "Mission objective secured."
+ 
+Cyrus - Historical Documents
+Cyrus gathers the sealed crystal tubes containing preserved documents. There 
+are six of them, each containing rolled parchments-maps, military orders, 
+personal correspondence, administrative records.
+"These are invaluable," he says reverently. "Primary sources from 
+before the Cataclysm. Historians will treasure these."
+The wards remain calm. Historical preservation is clearly acceptable.
+ 
+Kessa - Jewelry and Personal Effects
+Kessa carefully removes jewelry from the display case:
+*	3 rings (gold, possibly magical based on faint auras)
+*	2 amulets (silver, one with a gemstone)
+*	4 decorative pins (military rank insignia, historical value)
+"These belonged to officers and administrators," she 
+notes. "Personal effects, not religious items. Should be fine."
+The wards continue their ambient shimmer. No objection.
+ 
+Johannes - The Shield
+You lift the shield bearing Thoradin's Hall's symbol from its mount. It's well-
+crafted, ceremonial but functional, bearing the outpost's heraldry.
+"Historical artifact," you say aloud, half to the wards, half to your 
+companions. "Preserving this honors those who served here."
+The wards pulse once-acknowledgment, not alarm.
+ 
+Items LEFT Behind (Deliberately)
+The ceremonial warhammer remains mounted on the far wall. Everyone 
+gives it respectful distance. It's clearly a religious symbol, and taking it would 
+violate the ward's terms.
+Several other items that have decayed beyond recovery-rotted leather, 
+corroded metal, documents turned to dust-are left undisturbed.
+ 
+FINAL ASSESSMENT - 20 MINUTES ELAPSED
+The four of you stand near the entrance, packs secured with recovered items.
+Thordin does a final check: "Helm of Kharas, six document tubes, 
+shield, jewelry and insignia. All non-sacred items, all recovered 
+respectfully for preservation and historical purposes."
+The wards remain stable-ambient glow, no hostile reaction. The ancient 
+magic judges your actions acceptable.
+Cyrus says quietly: "We've honored the intent of this place. The 
+Commander who sealed this Vault wanted his treasures protected 
+from desecration and theft. We've taken items to preserve them, 
+not to loot them. That's respectful."
+Kessa adds: "And we still have forty minutes before the ward 
+expires. Plenty of time to exit cleanly."
+ 
+EXITING THE VAULT
+You step back through the bronze doors. As you cross the threshold, the 
+spectral voice returns:
+"RECOVERY COMPLETE. TERMS HONORED. CONDITIONAL 
+ACCESS CONCLUDED."
+The doors swing shut smoothly behind you, and the wards flare back to full 
+strength-sealing the Vault once again.
+"Well done," Thordin says with genuine respect. "We retrieved what we 
+came for, preserved historical artifacts, and honored the sacred 
+nature of the place. That's how professional delving should be 
+done."
+ 
+TREASURE ACQUIRED
+Mission objective:
+*	? Helm of Kharas (Thordin's contract, worth 10,000 gp to his client, 
+your share is 3,000 gp)
+Additional recoveries (split among party):
+*	6 sealed document tubes (historical value, can be donated to 
+Thorbardin archives or sold to scholars)
+*	Shield of Thoradin's Hall (historical artifact, museum-quality)
+*	Jewelry and insignia:
+*	3 gold rings (possibly magical, need identification)
+*	2 silver amulets (one with gemstone)
+*	4 military rank pins (historical collectors would pay well)
+Estimated additional value: 2,000-3,000 gp if sold, or significant 
+goodwill if donated to appropriate dwarven institutions.
+ 
+RETURN JOURNEY - BEGINNING
+"Right," Thordin says, securing his pack. "We've got what we came for. 
+The way back should be straightforward-the gricks are dead, the 
+passage is clear. Let's head home."
+The four of you make your way back through the administrative level, past the 
+dead grick alpha, through the main chamber, and to the flooded passage.
+The swim back through the submerged section is uneventful with 
+Water Breathing still active. You pass the dead gricks floating in the water, 
+emerge at the entrance level, and ascend through the barracks and main hall.
+No additional encounters. The ruins are silent, the threats eliminated.
+ 
+EMERGING FROM THORADIN'S HALL - LATE 
+AFTERNOON
+You step out of the ancient entrance into late afternoon sunlight. The fresh 
+mountain air is a stark contrast to the stale, damp atmosphere of the ruins.
+Mission time: Approximately 6-7 hours from entry to exit.
+Thordin breathes deeply, grinning. "By the Forge, that went better than 
+I could have hoped. Professional execution, no casualties, objective 
+secured, bonus artifacts recovered. This is what proper delving 
+looks like."
+He looks at the three of you with genuine appreciation. "You're good. 
+Really good. If I have other contracts that need skilled people, 
+would you be interested?"
+ 
+CYRUS'S STATE
+You notice Cyrus looks... better. Not fully recovered from the emotional weight 
+of Flotsam, but lighter. He's smiling, genuinely smiling, for the first time since 
+the storm.
+"That was good," he says quietly to you as you walk. "Just... good. A 
+challenge overcome through skill and teamwork. No moral 
+calculus. No counting deaths. Just solving problems and 
+succeeding together."
+He adjusts the document tubes in his pack. "And we preserved history. 
+That matters. These records will help people understand what 
+happened during the Cataclysm, help dwarven clans reconnect 
+with their past. That's... that's meaningful work."
+There's hope in his voice. Not complete healing-that will take time-but the 
+beginning of it.
+ 
+CAMP - FIRST NIGHT RETURN
+You make camp as the sun sets, finding the same sheltered valley you used on 
+the way in.
+Around the fire, Thordin breaks out good dwarven whiskey. "To a 
+successful delve. To professional work. And to companions who 
+know their business."
+You all drink.
+"When we get back to Gateway," Thordin continues, "I'll arrange 
+payment transfer. Three thousand gold, split as you prefer. And the 
+additional artifacts-we can discuss how to handle those. Sell them 
+and split the proceeds, or donate them for goodwill with 
+Thorbardin. Your call."
+He looks at the stars. "We should reach Gateway by tomorrow 
+evening, then you can head back to Haven. Three to four days total, 
+just as I promised."
+ 
+How do you want to handle the additional artifacts?
+1.	Sell them and split the gold (practical, immediate funds)
+2.	Donate to Thorbardin (goodwill, potential future favors/contacts)
+3.	Mixed approach (sell the jewelry, donate the documents and shield)
+4.	Something else?
+And is there anything you want to discuss around the campfire? This 
+is a good moment for character interaction if you want it.
+Wait. If this contact is in palanthas, let's go with Thorbadin as escort, then 
+check out the deed we found in the aboleth lair.
+Dec 10
+CHANGE OF PLANS - PALANTHAS ROUTE
+"Actually, Thordin," you say, "your client is in Palanthas, right?"
+"Aye," the dwarf confirms. "Private collector there. Wealthy, discreet, 
+pays well."
+"We'll escort you to Palanthas," you continue. "We have business 
+there ourselves-a property deed we recovered from an aboleth's 
+hoard. Pre-Cataclysm warehouse. We need to check if it's still 
+standing, see what the situation is."
+Thordin raises an eyebrow, intrigued. "A pre-Cataclysm property deed? 
+That could be valuable if the structure survived and the deed is still 
+legally recognized. Palanthas is one of the few cities that 
+maintained continuous legal records through the Cataclysm-they 
+might honor it."
+He considers. "Palanthas is about a week's travel from here, maybe a 
+bit less if we push. Longer than the original job, but..." He grins. "I 
+wouldn't mind the company. Safety in numbers, especially carrying 
+something as valuable as the Helm. And if you help me with the 
+delivery, I can introduce you to some useful contacts in the city."
+Kessa nods. "Makes sense. Palanthas is a major city-we can 
+resupply, gather intelligence, maybe pick up leads on other work."
+Cyrus looks thoughtful. "Palanthas is also one of the great centers of 
+learning. The Great Library is there. If we're donating those 
+historical documents, that's where they'd have maximum scholarly 
+impact. And the Temple of Paladine might have resources for... 
+spiritual matters."
+You catch the subtext-Cyrus is thinking about his own healing, seeking 
+wisdom or counseling from higher-level clerics.
+ 
+REVISED PLAN
+"So here's what we do," you lay out. "We travel to Palanthas with 
+Thordin-about a week's journey. He delivers the Helm to his 
+client, we get paid our 3,000 gold. We investigate the warehouse 
+deed situation. We donate the historical documents to the Great 
+Library for preservation. And we take some time in the city to 
+resupply, rest, and handle personal business."
+"After that, we return to Haven-maybe another week's travel. 
+Total time away from Haven: about three weeks."
+Thordin raises his mug. "I like it. A proper expedition with multiple 
+objectives. And Palanthas is worth seeing if you've never been-it's 
+the jewel of Solamnia, or at least it was before the Dragon Army 
+started making trouble."
+"Is Palanthas under Dragon Army control?" Kessa asks sharply.
+"Not yet," Thordin says. "It's neutral territory, technically. The city 
+maintains its independence through walls, diplomacy, and the fact 
+that taking it would be bloody expensive. But the Dragon Army has 
+agents there, and tensions are high. You'll want to keep a low 
+profile."
+ 
+NOTIFYING HAVEN
+You pull out your Sending Stone, the one paired with Commander Laurana 
+at Haven.
+Speaking into it, you say: "Laurana, mission successful. Escorting 
+contact to Palanthas, investigating property deed, returning in 
+approximately three weeks. All well."
+A moment later, Laurana's voice comes through, tinny but 
+clear: "Acknowledged, Commander. Palanthas-be careful, Dragon 
+Army presence increasing there. Good hunting. Haven is stable."
+The connection ends.
+

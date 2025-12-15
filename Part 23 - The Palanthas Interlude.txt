@@ -1,0 +1,1349 @@
+ARTIFACT DISTRIBUTION DECISION
+"As for the additional artifacts," you say, "I suggest a mixed 
+approach. We sell the jewelry to fund our operations-practical 
+coin we can use. But we donate the documents and the shield to 
+institutions in Palanthas-the Great Library for the documents, 
+maybe Thorbardin's embassy or a museum for the shield. Build 
+goodwill, honor the history properly."
+Thordin nods approvingly. "Wise. The documents especially-the Great 
+Library of Palanthas will preserve them properly and make them 
+available to scholars. That's far better than selling them to a private 
+collector who might hoard them."
+Cyrus looks pleased. "I'll personally deliver the documents to the 
+Library. I want to ensure they're treated with proper respect."
+"And the jewelry?" Kessa asks. "How do we sell that?"
+Thordin grins. "I know a reputable jeweler in Palanthas. He'll give 
+fair prices, no questions asked. The rings might be magical-if they 
+are, they're worth more. We can get them identified in the city."
+ 
+THE JOURNEY TO PALANTHAS - OVERVIEW
+Travel time: 7-8 days from current position Route: Mountain trails to 
+Gateway (1 day), then main roads through Solamnic territories to Palanthas 
+(6-7 days) Conditions: Late spring, good traveling weather, roads relatively 
+safe (for now)
+Thordin knows the route well and can guide you efficiently.
+ 
+ANYTHING ELSE AROUND THE CAMPFIRE?
+The fire crackles. The night is peaceful. You've had a successful mission with 
+no casualties, you're heading to one of Krynn's great cities, and the mood is 
+good.
+Is there anything you want to discuss with your companions?
+*	Check in on Cyrus's emotional state more directly?
+*	Talk strategy for Palanthas (Dragon Army presence, staying low 
+profile)?
+*	Ask Thordin about his background or other delving stories?
+*	Discuss the property deed situation and what to expect?
+*	Just rest and move to the next day?
+Or we can skip ahead to arrival at Gateway, or directly to Palanthas if you 
+prefer.
+What would you like to do?
+Skip to Palanthas.
+Dec 10
+ARRIVAL AT PALANTHAS - 8 DAYS LATER
+The journey has been uneventful-good weather, clear roads, no significant 
+encounters. Thordin proved to be excellent company, sharing stories of past 
+delves and dwarven history around evening campfires. The rhythm of travel, 
+the changing landscape, the straightforward purpose-it's been restorative for 
+everyone, especially Cyrus.
+Now, as the sun reaches its zenith on the eighth day, you crest a hill and see it:
+Palanthas.
+ 
+THE JEWEL OF SOLAMNIA
+Even from miles away, the city is breathtaking.
+Palanthas sprawls across the coastal plain, protected by massive white walls 
+that gleam in the sunlight. The city is enormous-easily ten times the size of 
+Flotsam, perhaps fifty times Haven's hidden settlement. Spires and towers rise 
+above the walls, the most prominent being the Tower of High 
+Sorcery (now dark and abandoned) and the great Library of 
+Palanthas with its distinctive dome.
+The harbor is visible to the east-dozens of ships at anchor, trade vessels from 
+across Ansalon. Despite the Dragon Army's rising power, Palanthas remains a 
+hub of commerce and civilization.
+But there are signs of tension:
+*	The walls are heavily manned-you can see patrols even from this 
+distance
+*	Military camps outside the walls (Solamnic Knights? Dragon Army? 
+Both?)
+*	Fewer ships than there probably were before the war
+*	A general atmosphere of watchfulness
+Thordin points out landmarks:
+"The Great Library-that domed building near the center. Largest 
+collection of knowledge on Krynn, or so they claim. Your 
+documents will be safe there."
+"The Old City-that's the wealthy district, where nobles and 
+merchants live. My client is there. We'll deliver the Helm 
+tomorrow-I prefer not to walk through the city carrying 
+something that valuable today."
+"The warehouse district-eastern side, near the docks. That's 
+where your deed property would be if it still exists."
+"And see those camps outside the walls? Mixed. Some are Solamnic 
+Knights maintaining order. Some are Dragon Army 'trade envoys' 
+who are really spies and advance scouts. The city is officially 
+neutral, but everyone's positioning for when that changes."
+ 
+ENTERING THE CITY - AFTERNOON
+You approach the southern gate. The guards are professional-Palanthas City 
+Watch, not Dragon Army or Solamnic Knights. They wear distinctive blue and 
+white tabards.
+Gate inspection:
+The guard captain, a weathered human in his forties, looks over your 
+group: "State your business in Palanthas."
+Thordin answers smoothly: "Thordin Ironhelm, master delver of 
+Thorbardin. These are my associates. We're here on business-
+artifact delivery, historical research, personal matters. Three to 
+five days, then we depart."
+The captain looks at each of you, his gaze lingering on your 
+weapons. "Palanthas maintains strict peace within the walls. No 
+brawling, no unsanctioned magic use, no causing trouble. Dragon 
+Army and Solamnic Knights both have agents here-we don't care 
+about your politics as long as you don't bring war to our streets. 
+Understood?"
+"Understood," you confirm.
+"Entry tax: 5 silver per person." He holds out his hand.
+You pay (2 gold total for the four of you), and he waves you 
+through. "Welcome to Palanthas. Try the Golden Griffin Inn in the 
+merchant quarter-clean rooms, fair prices. And stay out of 
+trouble."
+ 
+INSIDE PALANTHAS - FIRST IMPRESSIONS
+Stepping through the gates is like entering a different world.
+Paved streets. Actual cobblestones, well-maintained, with drainage gutters.
+Multi-story buildings. Stone and timber construction, proper architecture, 
+most buildings three or four stories tall.
+Crowds. Thousands of people-humans, elves, dwarves, kender, even a few 
+half-ogres. Merchants hawking wares, street performers, scholars in robes, 
+soldiers on patrol, nobles in fine clothes being carried in litters.
+Shops and businesses everywhere. Jewelers, bookbinders, weapon 
+smiths, tailors, apothecaries, taverns, temples. This is a functioning, thriving 
+city despite the war.
+Kessa looks around with wide eyes. "This is... I've never seen anything 
+like this. Haven is maybe 200 people. This is..."
+"About 50,000 residents," Thordin supplies. "Plus maybe another 
+10,000 refugees and traders at any given time. Palanthas is one of 
+the last great free cities."
+Cyrus is staring at the Library dome in the distance. "The knowledge 
+contained in that building... centuries of scholarship, history, 
+wisdom. I need to visit."
+ 
+FINDING LODGING - THE GOLDEN GRIFFIN INN
+Following the guard captain's recommendation, you find the Golden Griffin 
+Inn in the merchant quarter. It's a well-maintained three-story building with 
+a common room, private rooms, and stables.
+The proprietor, a cheerful halfling woman named Miri Goldleaf, greets you 
+warmly. "Welcome, travelers! Rooms for four? We have space-two 
+silver per person per night, includes breakfast. Stabling for mounts 
+if you have them, though I see you're on foot."
+"Three nights to start," Thordin says, paying. "We may extend 
+depending on business."
+"Excellent! Rooms 7, 8, 9, and 10 on the second floor. Common 
+room serves dinner at sunset. Anything you need in Palanthas, I 
+can point you in the right direction-I know this city inside and 
+out."
+ 
+SETTLING IN - EARLY AFTERNOON
+You claim your rooms, stash your packs (keeping valuables secured), and 
+regroup in the common room.
+Thordin lays out the plan:
+"Tonight, we rest and get our bearings. Tomorrow morning, I'll 
+deliver the Helm to my client-Johannes, I'd like you to come with 
+me for security. Shouldn't take more than an hour, and you'll get 
+your payment immediately."
+"After that, we split up to handle our various business:"
+*	Investigate the warehouse deed (Johannes + whoever wants to 
+join)
+*	Deliver documents to the Great Library (Cyrus is adamant about 
+this)
+*	Sell the jewelry (Thordin can handle this with Kessa if needed)
+*	Personal errands (resupply, gather intelligence, whatever else)
+"We regroup here each evening, share information, stay 
+coordinated. Three to five days in the city, then we head back to 
+Haven. Sound good?"
+Everyone agrees.
+ 
+CURRENT STATUS - LATE AFTERNOON IN 
+PALANTHAS
+Party:
+*	Well-rested from the journey
+*	Full resources (spells, HP, abilities)
+*	Financially comfortable (~4,000 gp each plus the incoming 3,000 gp 
+payment)
+*	Safe lodging secured
+*	Multiple objectives to accomplish
+City situation:
+*	Neutral but tense
+*	Dragon Army agents present but not controlling
+*	Solamnic Knights present but limited authority
+*	City Watch maintaining order
+*	Functioning economy and services
+Your immediate objectives:
+1.	Deliver Helm tomorrow morning (with Thordin)
+2.	Investigate warehouse deed
+3.	Deliver documents to Great Library (Cyrus)
+4.	Sell jewelry
+5.	Resupply/gather intelligence
+ 
+What would you like to do with the rest of today?
+1.	Explore the city, get oriented (familiarize yourself with layout, key 
+locations)
+2.	Visit the warehouse district now (scout the deed property before 
+formal investigation)
+3.	Gather intelligence (talk to locals, learn about Dragon Army 
+presence, city politics)
+4.	Rest and prepare for tomorrow (stay at the inn, plan strategy)
+5.	Visit a specific location (Library? Temple? Markets?)
+6.	Something else?
+The afternoon sun slants through Palanthas's streets. The city awaits.
+I go with Cyrus, while Kessa goes with Thordin.
+Dec 10
+SPLITTING UP - AFTERNOON ACTIVITIES
+You make the decision quickly. "Cyrus and I will head to the Great 
+Library-get a sense of the place, maybe start the document 
+donation process. Kessa, you go with Thordin to scout the jeweler 
+and get the rings identified. We'll regroup at dinner."
+Kessa nods. "Works for me. I want to see what these rings are worth 
+anyway."
+Thordin grins. "Excellent. My jeweler contact can do magical 
+identification-he's got the tools and the expertise. We'll know 
+what we're dealing with by dinner."
+Cyrus looks genuinely excited. "The Great Library of Palanthas. I've 
+dreamed of visiting since I was an acolyte."
+ 
+JOHANNES & CYRUS - THE GREAT LIBRARY
+The two of you make your way through Palanthas's streets toward the Library. 
+Cyrus walks with purpose, the document tubes carefully secured in his pack.
+The walk takes about 20 minutes through increasingly scholarly 
+districts-bookshops, scribe services, small academies, student housing. The 
+people here are more subdued, intellectual, focused.
+And then you see it up close:
+The Great Library of Palanthas.
+ 
+THE LIBRARY - EXTERIOR
+The building is magnificent-easily the size of several city blocks. The central 
+dome rises 100 feet into the air, covered in copper that's aged to a beautiful 
+green patina. Wings extend from the main structure, each dedicated to 
+different branches of knowledge.
+The entrance is a grand colonnade with steps leading up to massive bronze 
+doors. Carved into the stonework above: "KNOWLEDGE IS THE LIGHT 
+THAT BANISHES DARKNESS"
+Scholars, students, and researchers flow in and out constantly. This is a living 
+institution, not a museum.
+Cyrus stops at the base of the steps, just... looking.
+"Three centuries of knowledge," he says quietly. "Histories, 
+philosophies, sciences, magics. The accumulated wisdom of Krynn, 
+preserved through the Cataclysm. If there are answers to the great 
+questions of our time, they're in there."
+He looks at you. "Thank you for coming with me. This matters."
+ 
+ENTERING THE LIBRARY
+You climb the steps and pass through the bronze doors into the main atrium.
+The interior is breathtaking:
+*	Vaulted ceilings with painted frescoes showing the history of learning
+*	Reading tables scattered throughout, most occupied by scholars bent 
+over manuscripts
+*	Shelves stretching in every direction, organized by complex systems
+*	Soft light from magical globes (not torches-fire is forbidden)
+*	A sense of reverence, like entering a temple
+A librarian approaches-an elderly elf woman in dark blue robes, her 
+silver hair bound in a practical bun. She has the look of someone who's spent 
+her entire long life among books.
+"Welcome to the Great Library," she says in a soft but clear voice. "I am 
+Laurelis, senior archivist. How may we assist you today?"
+Cyrus steps forward respectfully. "Honored archivist, I am Brother 
+Cyrus, cleric of Mishakal. My companion and I have recovered 
+historical documents from the ruins of Thoradin's Hall-pre-
+Cataclysm records sealed and preserved. We wish to donate them 
+to the Library for proper preservation and scholarly study."
+Laurelis's eyes widen slightly-genuine excitement breaking through her 
+professional demeanor. "Pre-Cataclysm documents? From Thoradin's 
+Hall? That outpost was lost 280 years ago. If you truly have intact 
+records..."
+She gestures urgently. "Please, come with me immediately. This 
+requires the attention of our Chief Historian."
+ 
+MEETING THE CHIEF HISTORIAN
+Laurelis leads you through the Library at a brisk pace-deeper into the 
+building, past reading rooms and storage areas, to a section 
+marked "RESTRICTED - ARCHIVAL PRESERVATION".
+She knocks on a door, opens it without waiting for response: "Master 
+Aldric, you must see this."
+The room beyond is an archivist's workshop-preservation tools, crystal 
+storage tubes, magical glyphs for document protection. And at the center desk, 
+bent over a manuscript with a magnifying lens:
+Master Aldric Brightquill.
+He's an older human, perhaps sixty, with ink-stained fingers and a scholar's 
+stoop. But his eyes are sharp, intelligent, and they fix on the document tubes 
+Cyrus is pulling from his pack with laser focus.
+"Laurelis, this had better be-" He stops mid-sentence as he sees the 
+tubes. "Are those... original seals? Those markings..."
+Cyrus carefully places all six tubes on the examination table. "Recovered 
+from the Commander's Vault in Thoradin's Hall. Sealed in crystal 
+during the last days before the Cataclysm. Administrative records, 
+military orders, personal correspondence, maps. All intact."
+Aldric approaches the tubes like they're holy relics. His hands hover over 
+them, not quite touching. "By the gods. Do you understand what you've 
+brought us? Thoradin's Hall was a frontier outpost-its records 
+were thought completely lost. These could contain information 
+about pre-Cataclysm dwarven culture, military operations, trade 
+routes, even personal accounts of what people knew or suspected 
+before the world broke."
+He looks at Cyrus with profound respect. "And you're... donating these? 
+Not selling?"
+"Yes," Cyrus says firmly. "Knowledge should be shared, preserved, 
+studied. These documents belong to history, not to private 
+collectors."
+Aldric nods slowly. "Then on behalf of the Great Library of Palanthas, 
+I accept this donation with profound gratitude." He gestures to the 
+tubes. "May I?"
+At Cyrus's nod, he carefully opens one tube and extracts the rolled parchment 
+inside.
+His hands tremble as he unrolls it.
+"It's perfect," he breathes. "The preservation magic held completely. 
+This is a military supply manifest dated three months before the 
+Cataclysm. Look-here, this officer is reporting unusual seismic 
+activity. And here, a note about refugees arriving from the coast 
+claiming the gods had abandoned them..."
+He looks up, tears in his eyes. "These are the voices of people who lived 
+through the end of the world. Their words, their concerns, their 
+last days. This is... this is invaluable."
+ 
+FORMAL DONATION PROCESS
+Aldric composes himself, becoming professional again. "Forgive my 
+emotion. Let me handle this properly."
+He produces a ledger and begins formal documentation:
+"Name of donor?"
+"Brother Cyrus of Mishakal. My companion, Johannes 
+Constantinius, was instrumental in the recovery."
+"Location of recovery?"
+"Thoradin's Hall, approximately 80 miles northeast of Haven, 
+within the ruins' Commander's Vault."
+"Date of recovery?"
+You provide the date.
+"Contents?"
+Cyrus describes each tube's contents as best he can determine from cursory 
+examination.
+Aldric writes it all down meticulously. Then he produces a certificate:
+"This document formally acknowledges your donation to the Great 
+Library. You will be credited in our archives and in any scholarly 
+works that draw from these materials. Additionally..."
+He pauses, considering. "The Library offers a reward for significant 
+historical donations-both to encourage such generosity and to 
+offset the costs adventurers incur in recovery. For materials of this 
+quality and historical importance, the standard reward is 500 gold 
+pieces."
+Cyrus starts to protest-"We didn't do this for money-"
+But Aldric raises a hand. "I know. But accept it anyway. Use it to fund 
+further historical recoveries, or donate it to your temple, or spend 
+it on ale. The policy exists for good reason."
+He hands Cyrus a voucher. "Present this to the Library's bursar-first 
+floor, western wing. He'll pay you immediately."
+ 
+FINAL WORDS
+As you prepare to leave, Aldric says: "Brother Cyrus, Johannes-you've 
+done a great service today. Not just to scholarship, but to memory. 
+These people who lived and died at Thoradin's Hall... they're not 
+forgotten now. Their voices will be heard again."
+He smiles. "And if you ever recover more historical materials, 
+please, bring them here. We'll preserve them properly."
+Cyrus bows respectfully. "Thank you, Master Aldric. It honors them, 
+and us, to know their words will be studied and remembered."
+ 
+LEAVING THE LIBRARY - CYRUS'S STATE
+Outside, back in the afternoon sunlight, Cyrus is quiet for a long moment.
+Then he speaks: "That felt... important. Not just strategically, not just 
+practically. Morally important. Those documents will help people 
+understand the past, learn from it, maybe avoid repeating 
+mistakes."
+He looks at you. "The people who died in the Flotsam storm-I can't 
+bring them back. I can't undo what happened. But I can do things 
+like this. Preserve history. Help scholars. Contribute to knowledge. 
+That's... that's a kind of healing, isn't it? Making the world a little 
+better, one action at a time."
+There's something lighter in his expression. Not fully healed, but moving in 
+that direction.
+"Thank you for coming with me," he says simply.
+ 
+MEANWHILE - KESSA & THORDIN
+(Summarized, since you're with Cyrus)
+Kessa and Thordin make their way to the jeweler district. Thordin's contact-
+Master Gemstone Halver, a gnome jeweler with impressive credentials-
+examines the jewelry carefully.
+Results:
+*	Ring 1: Ring of Protection (+1 AC, +1 saves) - Worth ~3,500 gp
+*	Ring 2: Ring of Feather Falling - Worth ~1,500 gp
+*	Ring 3: Non-magical but high-quality gold - Worth ~200 gp
+*	Amulets: Non-magical, historical/decorative - Worth ~400 gp 
+combined
+*	Pins: Non-magical, collector value - Worth ~300 gp combined
+Total potential sale: ~5,900 gp
+Or: Keep the magical rings for party use, sell the rest (~900 gp).
+Thordin and Kessa return to the inn to discuss options with the group.
+ 
+DINNER AT THE GOLDEN GRIFFIN - EVENING
+The four of you reunite in the common room as the sun sets. Miri serves a 
+hearty meal-roasted chicken, vegetables, bread, decent ale.
+Reports:
+Thordin & Kessa:
+*	Jewelry identified
+*	Two magical rings (valuable or useful)
+*	Rest is mundane but worth ~900 gp
+*	Decision needed: sell all, or keep magicals?
+Johannes & Cyrus:
+*	Documents donated to Great Library
+*	Formal recognition and thanks
+*	500 gp reward received (Cyrus hands you 250 gp as your share)
+*	Cyrus seems noticeably improved in mood
+Tomorrow's plan:
+*	Morning: Deliver Helm with Thordin (Johannes accompanies)
+*	Afternoon: Investigate warehouse deed
+*	Evening: Final decisions on remaining business
+ 
+Current party funds (approximate):
+*	Johannes: ~4,250 gp (+ 1,000 gp incoming from Helm delivery 
+tomorrow)
+*	Kessa: ~4,180 gp (+ 1,000 gp incoming)
+*	Cyrus: ~4,180 gp (+ 1,000 gp incoming)
+Jewelry decision needed:
+1.	Keep both magical rings (add to party resources), sell rest (~900 gp 
+split three ways = ~300 each)
+2.	Sell everything (~5,900 gp split three ways = ~1,966 each)
+3.	Keep one ring, sell the rest (compromise)
+What's your preference?
+Keep the magic rings, still everything else. Have a night where money is no 
+object. Ooc - Good Beginning, but Cyrus needs something more cathartic. 
+Think of the 1980s movie, The Mission. Not specifcally, but that depth.
+Dec 10
+EVENING DECISIONS & CELEBRATION
+"We keep the magical rings," you decide. "Add them to our 
+resources-they're more valuable to us as tools than as gold. Sell 
+everything else and split the proceeds."
+Everyone agrees. The non-magical items will be sold tomorrow, netting about 
+300 gold each.
+"And tonight," you continue, standing with your ale, "we celebrate 
+properly. A successful mission, no casualties, good work done. 
+Money is no object-best food, best drink, enjoy the city. We've 
+earned it."
+Thordin grins broadly. "Now THAT'S what I like to hear! Miri! Your 
+finest vintage, and keep it coming!"
+ 
+A NIGHT IN PALANTHAS - CELEBRATION
+The evening unfolds with genuine joy:
+Fine food and wine. Miri, delighted by free-spending customers, produces 
+dishes normally reserved for nobles-roasted duck, honeyed vegetables, 
+imported cheeses, desserts with chocolate and cream.
+Stories and laughter. Thordin regales you with delving tales. Kessa shares 
+(heavily edited) stories of past heists. Even Cyrus contributes, talking about 
+his training at the temple, his mentor, the moment he first felt Mishakal's 
+presence.
+Music. A bard in the common room plays, and Kessa-surprisingly-knows 
+the words to several traveling songs. She has a decent voice.
+It's good. Simple, uncomplicated good. The kind of evening that reminds you 
+why you fight-so people can have nights like this. Safe, warm, together.
+But as the night winds down and others drift to their rooms, you notice Cyrus 
+has grown quiet again. He's staring into his wine, the lightness from earlier 
+fading.
+ 
+OOC - CYRUS'S DEEPER HEALING
+Understood. What Cyrus needs isn't just distraction or being told "it's okay." 
+He needs something profound-a moment of grace, of being shown (not told) 
+that redemption is real, that his burden can be transformed into something 
+meaningful, that the weight he carries can become strength rather than 
+crushing guilt.
+Think The Mission-Father Gabriel's journey from guilt over past violence to 
+sacrificial love. The moment where Robert De Niro's character drags his armor 
+up the waterfall as penance, and the natives cut it free, releasing him.
+Cyrus needs a moment of transformative encounter-something that 
+shows him viscerally that his actions, however costly, had meaning, and that 
+he can still be an instrument of healing rather than just death.
+I have something planned. Trust me. It starts tomorrow, during what seems 
+like routine business in the warehouse district, but becomes something much 
+deeper.
+For now, let's end tonight with you noticing Cyrus's state:
+ 
+LATE EVENING - CHECKING ON CYRUS
+Most of the common room has emptied. Cyrus sits alone at a corner table, 
+wine mostly untouched, staring at nothing.
+You slide into the seat across from him.
+"Brother. You seemed lighter earlier. After the Library."
+Cyrus nods slowly. "I was. I am. The donation mattered. Preserving 
+history, helping scholars-it felt good. Meaningful."
+He pauses. "But it's not enough, Johannes. I know it's not supposed 
+to be-one good deed doesn't erase 547 deaths. I'm not that naive. 
+But I thought... I hoped... that doing something unambiguously 
+good would make the weight less."
+He looks at you, and there's pain in his eyes. "It didn't. The number is still 
+there. The faces I imagine-sailors I never saw, men I killed from 
+five miles away. They're still there when I close my eyes."
+"I don't regret the decision," he clarifies quickly. "We saved 
+thousands. We stopped an invasion. It was the right choice. But 
+knowing it was right doesn't make carrying it easier."
+He's not asking for answers. He's just... bearing witness to his own struggle.
+What do you say?
+(This sets up tomorrow's events, where something will happen that gives 
+Cyrus the deeper healing he needs. But this moment matters too-your 
+response, how you meet him in this pain.)
+You're right. Sometimes, the right thing is the hard thing, and there is no way 
+to unburden it. The price stays. And you are the only one who can carry it.
+Dec 10
+JOHANNES'S RESPONSE
+You don't look away from Cyrus's pain. You meet it directly.
+"You're right. Sometimes the right thing is the hard thing, and 
+there is no way to unburden it. The price stays. And you are the 
+only one who can carry it."
+Cyrus's eyes widen slightly-he wasn't expecting that. No platitudes, no "it'll 
+get easier," no attempts to minimize what he carries.
+You continue, your voice quiet but firm:
+"I can't take this from you, Cyrus. Neither can Kessa, neither can 
+Laurana or anyone else. Those 547 souls-you felt each one pass. 
+That's yours to carry. That's the cost of wielding that kind of power 
+for that kind of purpose."
+You lean forward slightly. "But here's what I can tell you: You're not 
+carrying it alone in terms of purpose. We made the decision 
+together. We stand by it together. And if that weight ever threatens 
+to crush you, we'll be there to remind you why you carry it."
+"You saved Ak-Thyln. You saved Kalaman. You saved thousands of 
+people who will never know your name, never know what you 
+sacrificed for them. That doesn't make the weight lighter-but it 
+makes it meaningful. And meaningful weight... that's different 
+from meaningless suffering."
+You pause, then add: "You're still Cyrus. Still a healer. Still a servant 
+of Mishakal. The storm didn't change that-it proved it. You were 
+willing to take on that burden, to carry those deaths, to sacrifice 
+your own peace... for others. That's not corruption, Brother. That's 
+love. Terrible, costly, sacrificial love."
+ 
+Cyrus is silent for a long moment. Then he speaks, his voice rough:
+"Thank you. For not... for not trying to make it easier than it is. For 
+respecting that this is... real. Heavy. Mine."
+He drains his wine, sets the cup down. "I'm going to carry this for the 
+rest of my life. I know that now. But maybe... maybe if I can find 
+ways to make it count-to use what I've learned, what I've 
+experienced, to help others-then it won't just be weight. It'll be... 
+ballast. Keeping me grounded. Keeping me honest."
+He stands, places a hand on your shoulder. "Get some rest, my friend. 
+Tomorrow we investigate your warehouse. And who knows-maybe 
+Palanthas has more to teach us than we expect."
+He heads upstairs, walking like a man carrying a heavy burden-but carrying 
+it deliberately, purposefully, not crushed by it.
+ 
+MORNING - THE HELM DELIVERY
+You wake early, dress, and meet Thordin in the common room. He's already 
+eaten breakfast and is securing the carefully wrapped Helm in his pack.
+"Ready?" he asks. "My client lives in the Old City-wealthy district. 
+Shouldn't take more than an hour for the whole transaction. Then 
+you get your 1,000 gold, I get my 7,000, and we're done."
+Kessa appears at the stairs. "I'm coming too. Three people carrying that 
+much gold through city streets is smarter than two."
+Thordin grins. "Fair point. The more the merrier."
+Cyrus joins you as well. "May as well make it four. I'm curious to see 
+the Old City anyway."
+ 
+THE OLD CITY - MORNING
+The four of you make your way through Palanthas toward the wealthy district. 
+The Old City is a stark contrast to the merchant quarter-wide streets, elegant 
+townhouses, private gardens, guards at every corner.
+Thordin leads you to a particular mansion-three stories, marble facade, 
+discreet but clearly expensive.
+"This is it. Lord Varkis Threnody, private collector. Eccentric but 
+honorable. He'll pay immediately and in full."
+You're admitted by a butler, led through a tastefully decorated interior, and 
+brought to a private study where Lord Varkis awaits.
+He's a human in his sixties, scholarly looking, surrounded by display cases 
+containing historical artifacts. When he sees Thordin, his face lights up.
+"Master Ironhelm! You've returned! And you have it?"
+Thordin carefully unwraps the Helm of Kharas.
+Lord Varkis actually gasps. He approaches it with trembling hands, examining 
+it from every angle. "Perfect. Absolutely perfect. Three centuries lost, 
+and here it is, as magnificent as the day it was forged."
+He looks at Thordin with genuine emotion. **"You've done what others said 
+was impossible. Name your price."
+"Ten thousand gold pieces, as agreed," Thordin says calmly.
+"Done." Lord Varkis doesn't even haggle. He produces a letter of credit-
+negotiable at any major bank in Palanthas. "Payable immediately. And 
+Master Ironhelm-if you ever recover other items of dwarven 
+heritage, I'm always interested."
+ 
+PAYMENT - OUTSIDE THE MANSION
+Once you're back on the street, Thordin leads you directly to a bank. Within 
+thirty minutes, the letter of credit is converted to actual gold:
+*	7,000 gp for Thordin
+*	1,000 gp each for Johannes, Kessa, and Cyrus
+The bank provides you with secure carrying options (letters of credit, 
+gemstones for portability, or actual coin-your choice).
+"Pleasure doing business with you," Thordin says, shaking hands with 
+each of you. "If you ever want to do another delve, you know where 
+to find me."
+ 
+CURRENT PARTY FUNDS (Updated):
+*	Johannes: ~5,250 gp (+ 300 gp pending from jewelry sale)
+*	Kessa: ~5,180 gp (+ 300 gp pending)
+*	Cyrus: ~5,180 gp (+ 300 gp pending)
+You're all quite wealthy now by adventurer standards.
+ 
+AFTERNOON - THE WAREHOUSE DISTRICT
+With the Helm delivery complete, you turn to your next objective: 
+investigating the property deed from the aboleth's lair.
+You pull out the pre-Cataclysm deed-aged parchment, but still legible, 
+detailing ownership of a warehouse in Palanthas's eastern district near the 
+docks.
+"Let's see if this place even still exists," Kessa says.
+The four of you make your way to the warehouse district-a busy area of 
+loading docks, storage facilities, merchant offices. The smell of sea salt, fish, 
+and timber fills the air.
+Following the deed's description and asking a few locals, you eventually find 
+the address:
+Warehouse 47, Eastdock Quarter.
+And it's... still standing.
+ 
+WAREHOUSE 47 - EXTERIOR
+The building is old-pre-Cataclysm construction, clearly. Three stories, stone 
+foundation, timber upper levels. It's weathered but structurally sound. The 
+windows are shuttered, the main door is chained and locked.
+But someone has been maintaining it-the roof is patched, the chains are new, 
+and there's a faded sign: "PROPERTY OF EASTDOCK MERCHANT 
+COLLECTIVE - INQUIRIES TO HARBORMASTER"
+"Interesting," Thordin murmurs. "It survived the Cataclysm, and 
+someone's been keeping it from falling apart. But it's currently 
+unclaimed or in administrative limbo."
+Cyrus examines the deed carefully. "This document pre-dates the 
+Cataclysm. If Palanthas's legal system honored continuity of 
+ownership through the disaster, this deed might still be valid. 
+But..."
+"But someone else might have claimed it in the intervening 280 
+years," Kessa finishes.
+ 
+INVESTIGATING OWNERSHIP - THE 
+HARBORMASTER
+You follow the sign's instruction and head to the Harbormaster's office-a 
+busy administrative building overseeing all dock activity.
+After some bureaucratic navigation, you're directed to a clerk handling 
+property records: Magister Orin Blackquill, a fastidious half-elf with ink-
+stained fingers.
+You present the deed.
+His eyes widen. "This is... this predates the Cataclysm. Where did you 
+acquire this?"
+"Salvage from an abandoned location," you answer carefully. "We're 
+inquiring whether it's still legally valid."
+Magister Blackquill examines it with professional scrutiny, cross-referencing 
+with thick ledgers. After several minutes, he looks up.
+"This is fascinating. Warehouse 47 has been in administrative 
+limbo for 180 years. The original owner-one Elias Merchent-died 
+in the Cataclysm with no heirs. The property was claimed by the 
+city, but never formally processed due to the chaos. It's been 
+maintained by the Eastdock Collective as a public warehouse, but 
+no one technically owns it."
+He taps the deed. "This document, if authentic, represents legitimate 
+pre-Cataclysm ownership. Under Palanthas law, such deeds are 
+honored if they can be verified. However..."
+He pauses. "Verification requires proof of chain of ownership. Can 
+you demonstrate how this deed came into your possession legally?"
+ 
+This is a decision point. You could:
+1.	Explain truthfully (recovered from aboleth's hoard, legitimate 
+salvage)
+2.	Claim inheritance (false, but simpler)
+3.	Offer to purchase current claim (bypass the legal complexity)
+4.	Investigate the Eastdock Collective's interest (they might 
+contest)
+But before you can respond, something interrupts:
+A commotion outside-shouting, the sound of running feet, a woman's 
+voice crying for help.
+Magister Blackquill frowns. "What in the-"
+You all rush to the window.
+ 
+THE INTERRUPTION - SOMETHING MORE 
+IMPORTANT
+Outside the Harbormaster's office, in the busy dock square, there's chaos.
+A wagon has overturned, spilling its cargo into the street. But that's not 
+the problem.
+The problem is the dozen people trapped beneath it-dock workers who 
+were unloading, now pinned by the massive wooden structure and its load of 
+stone blocks.
+People are screaming. Some are trying to lift the wagon, but it's too heavy. 
+Others are running for help.
+And then you see what made it worse: Fire. One of the lanterns from the 
+wagon has ignited spilled oil. Flames are spreading toward the trapped 
+workers.
+People are going to die. Soon. Maybe minutes.
+The City Watch is responding, but they're not here yet. Bystanders are 
+panicking.
+ 
+Cyrus's face goes pale. Then resolves into absolute determination.
+"Johannes. We have to help. Now."
+He's already moving toward the door.
+ 
+This is the beginning of Cyrus's deeper redemption arc. What 
+happens next will matter immensely to him.
+What do you do?
+1.
+Dec 10
+IMMEDIATE ACTION - THE OVERTURNED 
+WAGON
+"Move!" you shout, already sprinting toward the chaos with Cyrus.
+Kessa and Thordin are right behind you, no hesitation.
+You burst out of the Harbormaster's office into the dock square. The scene is 
+worse up close:
+ 
+THE DISASTER SCENE
+The wagon: Massive freight hauler, now on its side. Its load-stone blocks, 
+each weighing hundreds of pounds-has partially spilled, pinning people 
+beneath the weight.
+The trapped: You count eleven people visible-dock workers, a wagon 
+driver, even a child who was apparently playing nearby. Some are crying out in 
+pain, some are ominously silent, some are screaming for help.
+The fire: Spreading fast. Spilled lamp oil has ignited, flames crawling toward 
+the overturned wagon where people are trapped. Maybe two minutes before 
+the fire reaches them.
+Bystanders: Panicking, some trying to help but unable to move the weight, 
+others running for authorities who aren't here yet.
+ 
+CYRUS TAKES COMMAND
+Brother Cyrus's voice cuts through the chaos like a blade: "EVERYONE 
+LISTEN! WE'RE GETTING THEM OUT! YOU-" he points to nearby 
+dock workers "-get buckets, fight that fire! YOU-" pointing to 
+others "-help us lift when I say!"
+His tone brooks no argument. People respond instinctively to authority in 
+crisis.
+He looks at your group: "Johannes, Thordin-we lift the wagon 
+together. Kessa-pull people out as we create space. I'll heal anyone 
+critical."
+No discussion. No debate. Pure decisive action.
+ 
+ROUND 1 - LIFTING THE WAGON
+Thordin immediately moves to the wagon's frame. "Here! This 
+structural point! If we lift together-"
+You join him, gripping the heavy timber. "On three!"
+Athletics check (group effort, each person contributes):
+*	Johannes: 16 + 0 (STR) = 16
+*	Thordin: Natural 20 + 4 = 24 (CRITICAL)
+*	Cyrus: 12 + 1 = 13
+Combined: Enough! (Thordin's exceptional strength makes the difference)
+With Thordin's dwarven might leading, the three of you heave. The wagon 
+shifts, groaning, rising a few inches. Stone blocks slide, creating gaps.
+"NOW! PULL THEM!" Cyrus shouts.
+ 
+KESSA'S RESCUE - FIRST VICTIMS
+Kessa darts into the space you've created. Her small size and agility let her 
+reach people the larger rescuers can't.
+"I've got two!" She grabs a young woman by the arms, dragging her 
+clear. "She's breathing-broken leg, maybe ribs!"
+She dives back in, pulls out an older man. "This one's worse-crushed 
+chest, not breathing well!"
+Two rescued. Nine still trapped.
+ 
+CYRUS - FIRST HEALING
+Cyrus drops to his knees beside the man with the crushed chest. His hands 
+glow with Mishakal's blue-white light.
+"Breathe," he commands, pressing his palms to the man's 
+sternum. "BREATHE!"
+Cure Wounds (3rd level): 3d8+4 = 18 HP restored
+The man gasps, coughs blood, then gasps again-this time actually pulling air. 
+His eyes open wide with shock and relief.
+"Get him clear!" Cyrus orders bystanders, already moving to the next 
+victim. "Keep lifting!"
+ 
+ROUND 2 - THE FIRE PROBLEM
+The flames are 30 feet away and advancing fast. The bucket brigade is 
+forming but not fast enough.
+"Johannes!" Kessa shouts. "Can you slow that fire?"
+You look at the spreading flames. You have options:
+*	Eldritch Blast the oil barrels away from the trapped workers (create 
+firebreak)
+*	Create Water if Cyrus can cast it
+*	Something else?
+But then-
+A voice from the crowd: "MAKE WAY! CITY MAGE!"
+A young woman in blue robes pushes through-maybe twenty-five, 
+official city insignia, clearly a sanctioned spellcaster.
+She sees the fire, makes a quick gesture, and casts: "CONTROL FLAMES!"
+The fire stops spreading. Not extinguished, but contained-frozen in place, 
+no longer advancing toward the trapped workers.
+"Go!" she shouts to you. "I'll hold it as long as I can! Get them out!"
+ 
+ROUND 3 - MASS EXTRACTION
+With the fire contained, everyone focuses on lifting and pulling.
+More dock workers join the effort-your leadership and visible action 
+has organized the chaos into coordinated rescue.
+"LIFT! ALL TOGETHER!" Thordin roars.
+The wagon rises higher. More space. Kessa and others pull frantically.
+Three more rescued. Then two more. Then another.
+Cyrus moves between them like lightning-Cure Wounds, Cure Wounds, 
+Healing Word-triaging, stabilizing, keeping people alive long enough for 
+proper medical care.
+ 
+THE CRITICAL MOMENT - THE CHILD
+"THERE'S A CHILD!" someone screams. "UNDER THE STONE 
+BLOCKS!"
+You see her-a girl, maybe eight years old, pinned beneath one of the massive 
+stone blocks that shifted when the wagon fell. She's conscious, crying, 
+reaching out with one free arm.
+But the block weighs perhaps 500 pounds. And it's positioned such that 
+if you move it wrong, the whole pile could shift and crush her.
+Kessa: "I can't reach her-the gap's too small and the angle's 
+wrong!"
+Thordin: "That block-if we lift it straight up, we can do it, but 
+someone needs to be IN THERE to pull her the instant we lift. 
+Otherwise she's stuck."
+Cyrus doesn't hesitate. "I'll get her."
+"Brother, if that block shifts-" you start.
+"Then I'll be crushed," Cyrus says calmly. "But she'll die for certain if 
+we don't try. Johannes, Thordin-can you lift it?"
+ 
+This is the moment. Cyrus is willingly putting himself in mortal danger to 
+save a child's life.
+Athletics check to lift the block (you and Thordin, DC 18):
+What do you do?
+1.	Lift with Thordin, trust your strength (straight Athletics check)
+2.	Use Hex on the block? (doesn't make sense mechanically, but you're 
+desperate)
+3.	Call for more help (more people = better chance, but takes precious 
+seconds)
+4.	Try a different approach (magic? leverage? something else?)
+The little girl is crying, calling for her mother. Cyrus is already crawling into 
+the space, positioning himself to grab her.
+The clock is ticking.
+Lift
+Dec 10
+THE LIFT - STRENGTH AND FAITH
+You position yourself on one side of the massive stone block, Thordin on the 
+other. The block is easily 500 pounds, sitting at an awkward angle on top of 
+other debris. If you lift wrong, the whole pile shifts and crushes both Cyrus 
+and the child.
+"On my count," Thordin says, his voice steady despite the 
+tension. "Straight up. No twisting. Hold it until Cyrus is clear."
+You nod, gripping the stone. Your hands find purchase on rough edges.
+Cyrus is already in position, lying flat beneath the precarious pile, reaching for 
+the little girl. "I've got her hand. Just lift-I'll do the rest."
+"THREE!" Thordin counts.
+You brace yourself, every muscle tensing.
+"TWO!"
+The little girl is sobbing. "It hurts! It hurts!"
+"I know, sweetheart," Cyrus says gently. "Just a few more seconds. 
+You're so brave."
+"ONE! LIFT!"
+ 
+ATHLETICS CHECK - CRITICAL MOMENT
+Johannes:
+*	Roll: 14 + 0 (STR) = 14
+Thordin:
+*	Roll: 17 + 4 (STR) = 21
+Combined effort: 35 total vs DC 18 for the lift
+ 
+SUCCESS
+You HEAVE.
+The stone block rises-not much, just a few inches, but it's enough. The weight 
+is immense, like lifting a horse, your arms screaming with the strain.
+"NOW, CYRUS!" you grunt through clenched teeth.
+Cyrus doesn't waste a second. His arms wrap around the little girl, and 
+he yanks her free, rolling sideways out of the danger zone even as his body 
+scrapes against jagged debris.
+"CLEAR!" Kessa shouts.
+You and Thordin release the block. It crashes back down with a 
+massive THUD that shakes the ground-right where the child had been lying 
+moments before.
+ 
+THE AFTERMATH
+Cyrus emerges from beneath the wagon wreckage, the little girl clutched in his 
+arms. She's crying but alive, conscious, moving all her limbs.
+"Mama!" she wails, reaching out.
+A woman breaks through the crowd, screaming: "LILA! MY BABY!"
+Cyrus gently passes the child to her mother. They collapse together, sobbing 
+with relief.
+But Cyrus doesn't pause. "She needs healing. Crushed leg, possible 
+internal injuries."
+He places his hands on the child, and Mishakal's light flares once more.
+Cure Wounds (2nd level): 2d8+4 = 14 HP restored
+The little girl gasps as divine magic knits broken bones, repairs crushed tissue, 
+eases pain. The impossible healing of the gods made manifest.
+"She'll be fine," Cyrus tells the mother. "Get her to a proper healer for 
+observation, but she'll be fine."
+The mother looks at him with tears streaming down her face. "You saved 
+her. You risked your life to save my daughter. I don't... I don't have 
+words..."
+Cyrus just nods, already moving to the next victim.
+ 
+FINAL TALLY - 15 MINUTES LATER
+The fire is fully extinguished. The City Watch has arrived with proper 
+equipment. Healers are tending to the injured.
+Final count:
+*	11 people trapped under the wagon
+*	11 people rescued alive
+*	Zero deaths
+*	Multiple serious injuries stabilized by Cyrus
+It's a miracle. Everyone is saying so-if those adventurers hadn't been there, 
+if that cleric hadn't acted so fast, half these people would be dead.
+ 
+CYRUS - THE MOMENT OF GRACE
+Cyrus sits on a dock post, breathing hard, covered in blood and dirt and soot. 
+His robes are torn. His hands are scraped raw. He's exhausted, having burned 
+through most of his spell slots.
+But people keep approaching him.
+The mother with the little girl: "Thank you. Thank you. Mishakal bless 
+you."
+The man whose crushed chest Cyrus healed: "You brought me back. I 
+wasn't breathing, and you brought me back."
+A dock worker who was pulled free: "I've got four kids at home. Because 
+of you, I'll see them tonight."
+One after another, they come. Not to pay him. Not to praise him as a hero. 
+Just to bear witness-to say, simply and directly: You saved my life. I'm 
+alive because of you.
+ 
+And then something shifts in Cyrus's expression.
+His hands are shaking. Not from exhaustion. From emotion.
+He looks at them-really looks. The mother holding her daughter. The man 
+breathing again. The worker who will see his children.
+Eleven people. Eleven lives saved. Eleven souls who will go home tonight, 
+who will wake tomorrow, who will live and love and laugh because he acted.
+Tears start streaming down his face.
+"Eleven," he whispers. "Eleven."
+Then louder, to himself, working through something profound:
+"Five hundred forty-seven died. Eleven lived. The numbers don't 
+balance. They'll never balance. But these eleven... they're REAL. 
+They're here. They're breathing. I can SEE them."
+He stands, looks at the mother and child.
+"I couldn't see the five hundred forty-seven. I felt them pass, but I 
+never saw their faces. They were... abstract. Numbers. Weight. 
+Guilt."
+"But this..." He gestures to the rescued workers, the crying child now safe in 
+her mother's arms. "This is REAL. This is what Mishakal calls me to 
+do. Not to count the dead. To save the living."
+He looks at you, Johannes, and there's something in his eyes-not quite peace, 
+not yet, but hope. Real hope.
+"I can't bring back the five hundred forty-seven. But I can save 
+eleven today. And eleven tomorrow. And eleven the day after that. 
+For the rest of my life, I can SAVE people. That's what this power is 
+for. Not to calculate costs. To preserve life."
+ 
+The little girl-Lila-breaks free from her mother and runs back to Cyrus. She 
+throws her small arms around his legs.
+"Thank you, mister healer man. You were brave."
+Cyrus kneels down to her level. His voice breaks: "No, sweetheart. You 
+were brave. You held on. You trusted me. You're alive because YOU 
+were brave."
+She hugs him again, then runs back to her mother.
+ 
+Cyrus stands, and for the first time since the storm, he looks like himself 
+again. Not undamaged. Not without scars. But whole.
+"Johannes," he says quietly. "I think... I think I understand now. The 
+five hundred forty-seven will always be part of me. But so will Lila. 
+So will these eleven. And every life I save from now on. The weight 
+doesn't disappear-but it becomes... bearable. Because it's 
+balanced by purpose."
+He takes a deep, shuddering breath. "I'm still a healer. That's who I am. 
+And that's enough."
+ 
+THE CITY RESPONDS
+The City Watch Captain approaches-the same one who let you through the 
+gates. He looks at your group with new respect.
+"That was exceptional work. You saved lives today. Palanthas is in 
+your debt."
+The City Mage who contained the fire joins him. "Agreed. That was the 
+most efficient rescue operation I've ever seen. Are you affiliated 
+with any temple or guild?"
+Before you can answer, the Harbormaster himself emerges from his office, 
+having witnessed everything. "You were inquiring about Warehouse 47, 
+yes? The deed?"
+He looks at Cyrus specifically. "That man just saved eleven dock 
+workers-people I'm responsible for. Consider the deed verified. 
+I'll personally expedite the paperwork. Warehouse 47 is yours. No 
+questions asked."
+He extends his hand. "Welcome to Palanthas, Brothers. We need 
+people like you."
+ 
+OUTCOME
+Mission complete (unexpected):
+*	11 lives saved
+*	Zero casualties
+*	City authorities grateful
+*	Warehouse 47 ownership secured through goodwill
+Cyrus's state:
+*	Profoundly changed
+*	Not "healed" of his guilt, but transformed by it
+*	Now sees his power as calling, not curse
+*	Purpose restored: Save the living
+Party status:
+*	Slightly depleted spell slots (Cyrus used several)
+*	Minor injuries (scrapes, bruises)
+*	Massive goodwill with Palanthas authorities
+*	Unexpected property ownership
+ 
+It's now late afternoon. What do you want to do?
+1.	Inspect Warehouse 47 (it's yours now, see what you've got)
+2.	Rest and recover (return to inn, let Cyrus process)
+3.	Follow up with authorities (formalize the deed transfer)
+4.	Something else?
+The dock square is returning to normal. People are clearing debris. The 
+rescued workers are being tended to.
+And Cyrus stands among them, tears drying on his face, looking lighter than 
+he has in weeks.
+3, then 1.
+Dec 10
+FORMALIZING THE DEED - HARBORMASTER'S 
+OFFICE
+The Harbormaster-Master Devin Stormcrest, a weathered human in his 
+fifties with the bearing of a career naval officer-leads you back into his office 
+personally.
+"Magister Blackquill," he calls to the clerk you'd been dealing with 
+earlier. "The deed for Warehouse 47. These people have just saved 
+eleven of our workers' lives. I'm invoking emergency municipal 
+authority to expedite ownership transfer."
+Blackquill looks startled but immediately pulls out the relevant ledgers. "Sir, 
+the standard verification process requires-"
+"I'm aware of the process," Stormcrest interrupts, not unkindly. "And 
+I'm overriding it. That cleric crawled under five hundred pounds of 
+stone to pull out a child. I watched it happen. If he's willing to risk 
+his life for our people, we can damn well process some paperwork 
+quickly."
+He looks at you. "The deed you presented-pre-Cataclysm, legitimate 
+construction, unclaimed for 180 years. Under Palanthas law, 
+salvaged historical documents of clear provenance are recognized. 
+You recovered it legally from an abandoned site. That's sufficient."
+ 
+THE PAPERWORK - 30 MINUTES
+Magister Blackquill, seeing his superior's determination, works with 
+remarkable efficiency:
+"I'll need your names for the official registry."
+You provide them: Johannes Constantinius, Kessa Darrow, Brother Cyrus.
+"Ownership structure?"
+"Equal three-way partnership," you decide quickly. Everyone nods 
+agreement.
+"Purpose of property?"
+"General use-storage, operations base, commercial rental, to be 
+determined," Kessa answers professionally.
+Blackquill writes furiously, stamps multiple documents with official seals, has 
+Master Stormcrest countersign as authorizing authority.
+"There," he says finally, handing you three copies of the formalized deed-
+one for each partner. "Warehouse 47, Eastdock Quarter, officially 
+registered to your partnership. Current property taxes: 50 gold per 
+year, payable to the city. Any commercial use requires appropriate 
+licensing, but storage and personal use are unrestricted."
+He pauses, then adds quietly: "And for what it's worth-thank you. My 
+cousin was one of the workers you pulled out today. He's alive 
+because of you."
+ 
+Master Stormcrest adds: "The Eastdock Collective has been 
+maintaining the building in the city's absence. They've done good 
+work-the structure is sound, the roof is patched, the foundation is 
+solid. You're not inheriting a ruin. You're inheriting a functional 
+warehouse that just needs some attention."
+He hands you a key-old, iron, but well-maintained. "This opens the main 
+door. The Collective's foreman has been holding it. I'll send word 
+that ownership has transferred."
+"One more thing," he says, his tone becoming more serious. "You've 
+made a good impression today. Palanthas needs people like you-
+competent, principled, willing to act. If you're staying in the city, or 
+if you return in the future, know that you have friends here. The 
+Harbormaster's office, the City Watch, even the Lord's Council-
+word will spread about what you did today."
+"Just... be careful. Palanthas is neutral territory, but the Dragon 
+Army has eyes everywhere. If they learn about skilled resistance 
+operatives in the city, they'll take an interest. Keep your heads 
+down when necessary."
+ 
+WAREHOUSE 47 - INSPECTION
+Armed with the key and official ownership documents, the four of you make 
+your way through the dock district to your newly acquired property.
+Warehouse 47 sits on a reasonably prominent corner lot, with access to both 
+a main street and a smaller alley. The three-story structure shows its age but 
+also its quality-pre-Cataclysm construction means it was built to last.
+You unlock the main door (the chain was removed by the Collective after 
+Stormcrest sent word) and step inside.
+ 
+INTERIOR - GROUND FLOOR
+The main level is a large open space-roughly 60 feet by 40 feet, with a 20-foot 
+ceiling. Support pillars run down the center.
+Current state:
+*	Clean and dry. The Collective has been maintaining it well-no leaks, 
+no rot, no pest infestations
+*	Empty. Whatever was stored here was cleared out long ago
+*	Loading dock on one side with large double doors opening to the 
+street
+*	Smaller side door to the alley (for discrete access)
+*	Stairs leading up to the second and third floors
+Thordin examines the structure professionally: "This is solid work. 
+Dwarven-influenced construction techniques-see those support 
+pillars? That's proper load-bearing architecture. This building 
+could stand another three centuries easily."
+ 
+SECOND FLOOR
+Up the stairs, you find the second level is divided into rooms:
+*	Four medium-sized chambers (could be offices, private storage, 
+living quarters)
+*	One larger open space (could be meeting room, workshop, barracks)
+*	Small water closet with a (currently non-functional) pump system
+Windows provide good light and ventilation. The rooms are bare but 
+serviceable.
+Kessa's assessment: "This could be converted to comfortable living 
+space. Or kept as offices and secure storage. We've got options."
+ 
+THIRD FLOOR
+The top level is another open space, though smaller than the ground floor 
+(maybe 40 feet by 30 feet). The ceiling here is only 12 feet high, but there 
+are skylights that let in natural light.
+Current state:
+*	Empty except for some old crates and forgotten equipment
+*	Access to the roof via a hatch
+*	Good views of the surrounding district
+From the roof, you can see the harbor, the city walls, major streets. It's 
+actually quite a strategic location for observation.
+ 
+OVERALL ASSESSMENT
+Thordin gives his professional opinion: "This is valuable property. 
+Not mansion-level, but in a major city like Palanthas? This is worth 
+at least 5,000 gold, maybe more depending on market conditions. 
+The fact that you got it through salvage and goodwill rather than 
+purchase? That's exceptional."
+Kessa adds: "It's also defensible. One main entrance, one side 
+entrance, both easily secured. Upper floors provide height 
+advantage. If we ever need a safe house in Palanthas, this is ideal."
+Cyrus looks thoughtful: "It could also serve the resistance. Secure 
+storage for supplies, meetings space, a base of operations away 
+from Haven. Or we could rent it commercially and generate income 
+to fund resistance activities."
+ 
+POTENTIAL USES FOR WAREHOUSE 47
+You discuss possibilities:
+Option 1: Personal Safe House
+*	Keep it private, use it when you're in Palanthas
+*	Secure storage for equipment and valuables
+*	Emergency fallback position
+Option 2: Resistance Operations Base
+*	Coordinate with Haven to use it for intelligence gathering
+*	Store supplies, weapons, documents
+*	Meeting space for resistance operatives in Palanthas
+Option 3: Commercial Rental
+*	Rent to legitimate merchants for income (50-100 gp/month)
+*	Maintains cover, generates revenue
+*	Less secure for sensitive operations
+Option 4: Mixed Use
+*	Ground floor: Commercial rental or legitimate front business
+*	Upper floors: Private resistance operations
+*	Balances income with operational security
+Option 5: Leave It
+*	Pay the 50 gp/year taxes, keep it maintained but unused
+*	Option available for future need
+ 
+Thordin says: "Whatever you decide, I'd recommend hiring a 
+caretaker-someone to maintain the building, handle any 
+commercial arrangements, and keep an eye on things when you're 
+not in the city. The Eastdock Collective could probably recommend 
+someone trustworthy."
+ 
+Current status:
+*	Time: Late afternoon, approaching evening
+*	Party condition: Slightly tired, Cyrus depleted spell slots but 
+emotionally restored
+*	In Palanthas: 1 day, probably staying 1-2 more
+*	Property secured: Warehouse 47, yours to use as you see fit
+What's your decision about the warehouse?
+And what do you want to do with the rest of your time in Palanthas?
+*	Resupply and prepare for return to Haven?
+*	Explore the city more?
+*	Rest and recover?
+*	Something else?
+The sun is setting over Palanthas, painting the harbor in gold and orange light. 
+You own property in one of Krynn's greatest cities. And Cyrus-Brother 
+Cyrus-stands beside you, looking more like himself than he has since the 
+storm.
+1.	Allow Haven to take on the maintenance of the location as a staging 
+area for their activities, with the understanding that the upper areas are 
+reserved for our personal use.
+Dec 10
+WAREHOUSE 47 - DECISION AND 
+ARRANGEMENTS
+"We keep it as a safe house," you decide. "But we make it available to 
+Haven as a staging area for resistance operations in Palanthas. 
+They handle maintenance and operational costs beyond the base 
+taxes. Upper floors remain reserved for our personal use when 
+we're in the city."
+Kessa nods approvingly. "Smart. We get a secure location in Palanthas 
+without ongoing costs, Haven gets operational infrastructure in a 
+neutral city. Win-win."
+Cyrus adds: "And if Haven uses it for legitimate resistance work-
+intelligence gathering, coordination with Solamnic Knights, supply 
+distribution-it serves a higher purpose. That matters."
+Thordin strokes his beard. "I can put you in touch with the Eastdock 
+Collective's foreman-a dwarf named Grimbold Ironfoot. Solid 
+fellow, discreet, no love for the Dragon Army. He could serve as 
+caretaker and cover, handle legitimate merchant inquiries while 
+keeping Haven's activities secure."
+ 
+IMMEDIATE ARRANGEMENTS
+Before leaving the warehouse, you take some practical steps:
+Security:
+*	Change the locks (Kessa handles this with her tools-30 minutes, 5 gp 
+for new hardware)
+*	Identify best entry/exit points for discrete operations
+*	Note structural vulnerabilities that need addressing
+Marking territory:
+*	Leave personal items in the upper-floor quarters (establishing legitimate 
+occupancy)
+*	Place a few crates and supplies (gives appearance of active use)
+Communication plan:
+*	When you return to Haven, you'll inform Laurana of the asset
+*	She can send operatives to establish operations
+*	Grimbold will serve as the on-site contact
+ 
+MEETING GRIMBOLD - EVENING
+Thordin takes you to meet Grimbold Ironfoot at a dockside tavern. He's a 
+stocky dwarf in his seventies, with a gray beard and sharp eyes that miss 
+nothing.
+"Thordin Ironhelm," he greets your companion warmly. "Heard you 
+were in town. And these must be the folk who pulled my workers 
+out from under that wagon."
+Word has spread fast.
+"Aye," Thordin confirms. "They've just acquired Warehouse 47. Need 
+someone to maintain it, handle commercial inquiries, keep it 
+secure. Thought of you immediately."
+Grimbold listens as you explain the arrangement: official caretaker, legitimate 
+front, but also understanding that the building serves... other purposes. You 
+don't mention "resistance" directly, but Grimbold's no fool.
+"So you want someone who can keep his mouth shut, handle 
+legitimate business, and look the other way when necessary?" he 
+summarizes.
+"Exactly," Kessa confirms.
+Grimbold considers, then nods. "30 gold per month, plus I get a room 
+on the second floor for my own use. I maintain the building, handle 
+rental inquiries, keep watch, and I don't ask questions about who 
+comes and goes at odd hours. Deal?"
+"Deal," you agree. It's fair-360 gold per year plus the 50 gp in taxes means 
+the warehouse costs you 410 gp annually, but Haven will likely cover most of 
+that through operational funds.
+You shake hands. "We'll be leaving Palanthas in a day or two. When 
+we return to Haven, we'll send word through appropriate channels. 
+Expect contact within a month."
+"Understood," Grimbold says. "And listen-what you did today saving 
+those workers? That matters here. Dock folk remember. You ever 
+need anything in Palanthas, you ask for Grimbold Ironfoot. I'll 
+make it happen."
+ 
+EVENING AT THE GOLDEN GRIFFIN - FINAL 
+PALANTHAS NIGHT
+You return to the inn as darkness falls. Miri serves another excellent dinner-
+the four of you have become valued customers.
+Inventory of Palanthas accomplishments:
+*	? Helm of Kharas delivered (3,000 gp earned, split three ways = 1,000 
+gp each)
+*	? Historical documents donated (500 gp reward, split = 250 gp each)
+*	? Magical jewelry identified (keeping rings, selling rest for ~300 gp 
+each)
+*	? Warehouse 47 acquired and secured
+*	? Caretaker hired (Grimbold Ironfoot)
+*	? Goodwill established with city authorities
+*	? Cyrus found redemption and purpose
+Updated party funds:
+*	Johannes: ~5,800 gp
+*	Kessa: ~5,730 gp
+*	Cyrus: ~5,730 gp
+New assets:
+*	Warehouse 47 (valued ~5,000+ gp, strategic location in Palanthas)
+*	Ring of Protection (party resource, not yet attuned)
+*	Ring of Feather Falling (party resource, not yet attuned)
+*	Goodwill with Palanthas authorities
+ 
+CYRUS - THAT EVENING
+After dinner, Cyrus sits with you on the inn's balcony, looking out over 
+Palanthas's lights.
+"I want to thank you, Johannes," he says quietly. "For everything. For 
+not trying to make it easier than it was. For letting me carry the 
+weight. For... being there when I found a way to bear it."
+He looks at his hands-the ones that crawled under stone to save a child.
+"I'll never forget the five hundred forty-seven. They're part of me 
+now, forever. But today I learned something: I don't have to let 
+them define me. I can honor their sacrifice by saving others. Eleven 
+today. Eleven tomorrow. As many as I can, for as long as I live."
+"That's what a healer does. We don't count the dead. We save the 
+living."
+He stands, clasps your shoulder. "Thank you, brother. For helping me 
+remember who I am."
+ 
+THE NEXT DAY - PREPARING TO LEAVE
+Morning brings final preparations:
+Resupply:
+*	Potions restocked (each person gets healing potions, 50 gp each spent)
+*	Rations for the journey back to Haven (1 week supply)
+*	Any personal purchases (rope, equipment, etc.)
+Magical item distribution:
+*	Ring of Protection: Offered to the group. Who should attune?
+*	Ring of Feather Falling: Offered to the group. Who should attune?
+Thordin's farewell: The dwarf is staying in Palanthas for a few more days 
+before heading back to Thorbardin.
+"It's been an honor working with you," he says sincerely. "If you ever 
+need a delver or if you find more artifacts worth recovering, you 
+know how to reach me."
+He hands you a contact token-a small stone carved with runes. "Show this 
+to any dwarf in Thorbardin or send it with a message. I'll respond."
+You shake hands all around. A professional partnership has become genuine 
+friendship.
+ 
+DEPARTURE - LATE MORNING
+The four of you (you, Kessa, Cyrus, and your packs) head for Palanthas's south 
+gate, the same one you entered through.
+The guard captain recognizes you. "Safe travels, friends. Come back 
+anytime. Palanthas could use more people like you."
+You pass through the gates, leaving the great city behind. The road to Haven 
+stretches ahead-about a week's journey through Solamnic territory, back to 
+the hidden resistance base where Laurana and your companions wait.
+ 
+THE JOURNEY HOME - SUMMARY
+The return trip is peaceful:
+*	Good weather, clear roads
+*	No significant encounters
+*	Time to rest, recover, and reflect
+*	Cyrus seems genuinely at peace, joking and smiling again
+*	Kessa is already planning how Haven can use Warehouse 47
+*	You carry the weight of command, but lighter now with Cyrus restored
+Seven days of travel, camping under stars, the rhythm of the road.
+ 
+ARRIVAL AT HAVEN - ONE WEEK LATER
+You crest the final ridge and see the hidden valley that houses Haven. The 
+resistance base looks the same as when you left-small, concealed, but alive 
+with purpose.
+Scouts recognize you immediately and signal safe passage.
+Commander Laurana meets you at the entrance, flanked by her staff. She 
+takes one look at your group and smiles.
+"Welcome back, Commander Constantinius. Brother Cyrus, Kessa. 
+You've been gone three weeks. I trust it was productive?"
+"Very," you confirm. "We have much to report."
+ 
+DEBRIEFING - THAT AFTERNOON
+In Haven's command center, you lay out everything:
+Mission outcomes:
+*	Thoradin's Hall delved successfully (no casualties)
+*	Helm of Kharas recovered and delivered (3,000 gp earned)
+*	Historical documents donated to Great Library (goodwill established)
+*	Pre-Cataclysm property secured in Palanthas (Warehouse 47)
+*	Caretaker hired, facility available for resistance operations
+*	Goodwill established with Palanthas authorities through rescue 
+operation
+Laurana listens carefully, occasionally asking clarifying questions. When you 
+finish, she sits back with an impressed expression.
+"Exceptional work. You went for a simple artifact recovery and 
+came back with strategic assets in Palanthas, financial resources, 
+and-" she looks at Cyrus specifically "-renewed purpose."
+She addresses Cyrus: "Brother, you look... different. Better. Are you 
+well?"
+Cyrus meets her eyes steadily. "I am, Commander. I won't claim to be 
+healed-the weight of Flotsam will stay with me. But I've learned to 
+carry it as purpose rather than just guilt. I'm ready to serve again."
+Laurana nods, satisfied. "Good. Because we have work to do. The 
+Dragon Army has been quiet since Flotsam-regrouping, 
+reassessing. But intelligence suggests they're planning something 
+significant. We'll need everyone at their best."
+She looks at all three of you. "Take a few days to rest, resupply, and 
+settle back in. Then we'll discuss next steps."
+ 
+EVENING AT HAVEN - FULL CIRCLE
+That night, sitting around Haven's communal fire, you realize how far you've 
+come:
+Johannes: Level 8 warlock/fighter, commander of resistance operations, 
+owner of property in Palanthas, bearer of a demon's curse but still fighting for 
+freedom
+Kessa: Trusted companion, skilled operative, partner in multiple successful 
+missions, survivor of impossible odds
+Cyrus: Healer, servant of Mishakal, bearer of terrible knowledge but renewed 
+in purpose, no longer defined by what he destroyed but by what he saves
+The campaign continues. The Dragon Army remains a threat. Johannes's 
+patron still demands tribute in nine months. The war is far from over.
+But tonight, you're home. You're safe. And you're together.
+ 
+

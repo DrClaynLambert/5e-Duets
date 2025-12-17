@@ -1,0 +1,2776 @@
+DAWN APPROACHES  
+The innkeeper provides food for the road-grateful, generous, refusing   
+payment. "You saved us. It's the least I can do."  
+Three horses, three riders, provisions for the journey.  
+Kessa checks the scholars' journal one more time. "Three of them left   
+Tristham. Names from the inn's guest log: Aldric Venn, Mira Corvith, Thomas   
+Blackwell. All registered with the Crimson Covenant seal."  
+She closes the journal. "One of them dies. The question is which one, and how   
+we find them in a city of thousands."  
+The sun rises over Tristham-first dawn in two weeks without a death in the   
+night.  
+Do you have any final preparations in Tristham, or do you ride   
+immediately for Ember's Reach?  
+Could we use dimension door?  
+Dec 7  
+Good thinking-let's check the logistics.  
+Dimension Door (from your Scroll):  
+\*	Range: 500 feet  
+\*	Teleports you and willing creatures (total weight up to your carrying   
+capacity)  
+\*	You can see the destination or specify direction and distance  
+\*	Single use (it's a scroll, not a prepared spell)  
+Problems with using it for long-distance travel:  
+1\.	Range limitation: 500 feet per casting. Ember's Reach is five days'   
+ride (roughly 150-200 miles). You'd need hundreds of castings to cover   
+that distance.  
+2\.	Single scroll: You only have one Scroll of Dimension Door. It could get   
+you 500 feet closer, but that's less than a tenth of a mile out of 150+   
+miles.  
+3\.	Better tactical use: The scroll is probably more valuable for combat   
+escape, infiltration, or emergency extraction during the scholar hunt   
+itself.  
+However:  
+If you're thinking more creatively-Dimension Door could be extremely   
+useful in Ember's Reach for:  
+\*	Infiltrating the Covenant headquarters (teleport past walls/guards)  
+\*	Escaping after the execution (rapid extraction)  
+\*	Ambushing the scholars (surprise positioning)  
+Kessa's assessment if you suggest it: "Save the scroll for when we need it   
+in the city. Getting past locked doors or escaping a bad situation is worth more   
+than shaving half a mile off a 150-mile journey."  
+Does that make sense, or were you thinking of a different   
+application?  
+I wasnt sure of range. Let's go, all due hate, ride through night, whatever to   
+cut time by stay combat effective  
+Dec 7  
+"We ride hard," Johannes says. "Cut the travel time however we can while   
+staying combat effective. We're on a clock."  
+Kessa nods, already checking saddle straps. "Agreed. We can push the horses,   
+rotate rest, ride through easier terrain at night with my darkvision scouting."  
+Cyril mounts up. "Kiri-Jolith grants endurance to those with righteous   
+purpose. I can keep pace."  
+   
+THE RIDE TO EMBER'S REACH \- HARD PUSH  
+Standard pace: 5 days Your pace: Pushing hard, minimal rest, strategic   
+night riding  
+   
+DAY 1-2: You ride from dawn until well after dark, walking the horses only   
+when absolutely necessary. Kessa scouts ahead during night portions using   
+her darkvision. Cold camps, no fires. Short sleeps in shifts.  
+Constitution checks to avoid exhaustion:  
+\*	Johannes: 16 (Ring of Mind Shielding helps maintain focus)  
+\*	Kessa: 18 (Half-elf endurance)  
+\*	Cyril: 14 (Divine stamina holds)  
+Everyone manages the brutal pace. The terrain cooperates-relatively flat   
+roads, decent weather.  
+DAY 3: You pass through a small hamlet. Quick stop to water horses, buy   
+fresh provisions. Thirty minutes, then back on the road.  
+A merchant mentions: "Ember's Reach? Two days north if you keep that pace.   
+You folks running from something or toward something?"  
+"Toward," Kessa says simply.  
+DAY 4: The horses are flagging. You're forced to slow slightly-can't afford to   
+kill the mounts. But you're making excellent time.  
+You spot Ember's Reach on the horizon by evening-a sprawling trade city,   
+walls visible even from miles away. Smoke from forges and chimneys rises   
+against the sunset.  
+You've cut the journey to 4 days instead of 5\.  
+By nightfall Day 4, you're approaching the city gates. The guards are   
+processing late merchant traffic, checking wagons, collecting gate tolls.  
+Kessa surveys the city. "Population maybe 15,000. Major trade hub. Finding   
+three specific people won't be easy, but the Crimson Covenant-if they're a   
+legitimate organization-will have a presence. Guild hall, office, something."  
+Cyril adds, "We need information. Who they are, where they operate, how to   
+find these specific scholars without alerting the whole organization."  
+You have approximately 10-11 days remaining before Aldric's   
+binding fails.  
+How do you want to enter Ember's Reach and begin the hunt?  
+Amulet of health for Johannes?  
+Dec 7  
+You're absolutely right-I apologize for the error. Johannes has the Amulet   
+of Health attuned, which sets his Constitution to 19\. That would give him a   
+significant bonus to Constitution checks.  
+Let me recalculate that CON check for the hard ride:  
+Johannes CON save (with CON 19 \= \+4 modifier): The 16 I rolled   
+would have been even better with the proper modifier applied-he definitely   
+passes without issue.  
+Thank you for catching that\! The Amulet of Health is a major survivability   
+item and I should track it more carefully.  
+   
+Back to the present situation:  
+You're at the gates of Ember's reach, evening of Day 4\. Approximately 10-11   
+days remain before Aldric's binding fails.  
+The city sprawls before you-trade hub, 15,000 people, the Crimson Covenant   
+somewhere within.  
+How do you want to approach finding the scholars?  
+Options might include:  
+\*	Enter openly, seek information about the Crimson Covenant through   
+legitimate channels  
+\*	Kessa uses underworld contacts/thieves' guild connections  
+\*	Cyril approaches religious institutions for information  
+\*	Johannes uses more... direct methods  
+\*	Some combination of the above  
+What's your plan?  
+All the above. I will check official suitcases, like town hall, guild hall, etc  
+Dec 7  
+"We split up," Johannes says. "Cover more ground, different approaches. All   
+the above."  
+Kessa nods. "Smart. Three investigators, three different angles, compare notes   
+afterward."  
+   
+DIVISION OF LABOR:  
+Johannes \- Official Channels: Town hall, guild registries, merchant   
+associations, official records. The Crimson Covenant deals in valuable   
+artifacts-they'll have business licenses, tax records, something legitimate.  
+Kessa \- Underworld: Thieves' guilds, information brokers, black market   
+contacts. An organization trafficking in cursed artifacts probably has shadier   
+connections too.  
+Cyril \- Religious/Scholarly: Temples, libraries, academic circles. Scholars   
+who study necromantic texts might have academic affiliations or religious   
+opposition.  
+Rendezvous: Meet at an inn in three hours, share findings.  
+   
+ENTERING EMBER'S REACH:  
+The gate guards barely glance at you-three travel-worn adventurers, nothing   
+unusual for a trade city. Two silver pieces gate toll, standard questions   
+("Business?" "Trade and research." "How long?" "Few days."). You're waved   
+through.  
+The city is alive with evening commerce. Markets closing, taverns opening,   
+street lamps being lit. The smell of forge smoke, cooking food, and too many   
+people in close quarters.  
+You find a decent inn near the merchant quarter-The Gilded Compass.   
+Secure the horses, take two rooms, establish it as base of operations.  
+Then you separate.  
+   
+JOHANNES \- OFFICIAL CHANNELS (3 hours)  
+Where do you start your search?  
+Options:  
+\*	City Hall \- Business registrations, guild licenses  
+\*	Merchant's Guild Hall \- Trade organizations, artifact dealers  
+\*	Tax Collector's Office \- Financial records (might be harder to access)  
+\*	Herald's Office \- Public notices, announcements, official postings  
+You have time to hit 2-3 locations before the rendezvous. Which do you   
+prioritize?  
+1, 2, and 4  
+Dec 7  
+JOHANNES \- OFFICIAL CHANNELS  
+   
+1\. CITY HALL \- Business Registrations  
+The administrative building is still open-clerks working late, processing end-  
+of-day paperwork. You approach the registry desk.  
+"I'm looking for information on an organization-the Crimson Covenant. They   
+deal in antiquities and rare artifacts. I need to know if they're registered here."  
+The clerk-a tired-looking halfling woman-barely looks up. "Name?"  
+"The Crimson Covenant."  
+She pulls a ledger, flips through pages. "Covenant... Covenant... here.   
+Registered trade organization, licensed for acquisition and sale of historical   
+artifacts, antiquities, and scholarly materials. Established eight years ago."  
+"Do you have an address?"  
+"Warehouse district, Ember Street, building forty-two. Registered agent is..."   
+She squints. "Magister Vaelin Sarth."  
+You make note. Warehouse district, Ember Street \#42. Registered   
+agent: Magister Vaelin Sarth.  
+"Any recent activity? Acquisitions, shipments?"  
+She shrugs. "That's not public record. You'd need to ask them directly or get a   
+magistrate's order."  
+   
+2\. MERCHANT'S GUILD HALL \- Trade Organizations  
+The guild hall is more ornate-wealthy merchants' domain. You're clearly not   
+a member, but the attendant at the information desk is professionally   
+courteous.  
+"I'm investigating a trade matter involving the Crimson Covenant. What can   
+you tell me about their reputation?"  
+The attendant-an elf in expensive robes-considers carefully. "The Covenant   
+is... legitimate, but specialized. They deal in unusual items. Artifacts with   
+historical or magical significance. Not everyone's comfortable with what they   
+trade, but they pay their fees and follow regulations."  
+"Who runs it?"  
+"Magister Vaelin Sarth. Scholar-turned-merchant. Rumor is he has academic   
+background in arcane history but found commerce more profitable." The elf   
+lowers his voice slightly. "Between us? The Covenant has contacts in... grey   
+areas. Not illegal, exactly, but they acquire things other merchants wouldn't   
+touch. Cursed items, necromantic texts, that sort of thing. All legal with proper   
+documentation, but unsavory."  
+"Recent acquisitions?"  
+"They brought in something three weeks ago. Big shipment, lots of security.   
+Rumor mill says it was from the eastern frontier-old noble estate clearance.   
+No details beyond that."  
+Three weeks ago \= when the scholars returned from Greymark   
+Manor.  
+"Any issues with them? Complaints, disputes?"  
+The elf shakes his head. "Clean record. They know how to operate within the   
+law. Makes them harder to challenge."  
+   
+3\. HERALD'S OFFICE \- Public Notices  
+The Herald's Office maintains public postings-job listings, announcements,   
+bounties, news.  
+You scan recent postings. Nothing directly about the Covenant, but you notice:  
+"AUCTION \- Rare Antiquities \- Crimson Covenant Acquisitions \-   
+Two days hence \- Viewing by appointment \- Contact Magister   
+Sarth"  
+Posted four days ago. The auction is tomorrow.  
+The Mourning Stone might be in that auction.  
+   
+WHAT YOU'VE LEARNED:  
+\*	Crimson Covenant location: Warehouse District, Ember Street \#42  
+\*	Leader: Magister Vaelin Sarth (scholar-turned-merchant)  
+\*	Reputation: Legitimate but deals in "grey area" items-cursed   
+artifacts, necromantic materials  
+\*	Recent activity: Major shipment three weeks ago (timing matches   
+Greymark Manor)  
+\*	CRITICAL: Auction of rare antiquities tomorrow-Mourning Stone   
+likely included  
+   
+Three hours have passed. Time to return to The Gilded Compass   
+and compare notes with Kessa and Cyril.  
+Head back to the rendezvous?  
+Edgar was the name? Master started with a V?  
+Dec 7  
+You're right to double-check-let me clarify:  
+From the Greymark Manor investigation:  
+\*	Lord Aldric's unfinished letter mentioned "Master Velthrax" as the   
+person who procured the artifact for him  
+From Ember's Reach official channels:  
+\*	The Crimson Covenant is run by Magister Vaelin Sarth  
+Two different people with V-names:  
+\*	Velthrax \- The person who originally gave Lord Aldric the Mourning   
+Stone 40+ years ago (possibly the contractor, possibly someone else   
+entirely)  
+\*	Vaelin Sarth \- Current leader of the Crimson Covenant who sent the   
+scholars  
+They could be the same person (Velthrax using a new identity), or they could   
+be unrelated. The timing is suspicious-40 years is a long time, but not   
+impossible for certain long-lived races or magic users.  
+This is worth investigating further when you regroup with Kessa   
+and Cyril.  
+Good catch on the names-that's exactly the kind of detail that might be   
+important.  
+Ready to head back to The Gilded Compass for the rendezvous?  
+Does anyone recognize Velthrax?  
+Dec 7  
+Good question-let me check what Johannes, Kessa, and Cyril might know   
+about the name "Velthrax."  
+Johannes \- Arcana/History check (passive knowledge): Roll: 12 You   
+don't recognize the name Velthrax specifically. It sounds arcane or scholarly,   
+possibly a title or assumed name rather than a birth name. The "Master" prefix   
+suggests someone of significance in magical or academic circles.  
+Your knowledge from the pact and dealings with infernals: The   
+name has an infernal quality to it-the structure, the harshness. Could be a   
+devil's name, could be a mortal who adopted an infernal-sounding name for   
+credibility in dark circles. Without more context, you can't be certain.  
+   
+You won't know what Kessa or Cyril recognize until you regroup at   
+the inn.  
+This is definitely something to bring up when you compare notes-"Does the   
+name 'Master Velthrax' mean anything to either of you?"  
+Cyril might have religious/historical knowledge about figures dealing in   
+necromantic artifacts. Kessa might have underworld contacts who know the   
+name from darker circles.  
+Head back to The Gilded Compass to share findings and ask about   
+Velthrax?  
+No, do any of the offices recognize the name?  
+Dec 7  
+Excellent idea-let's check while you're still at these official locations.  
+   
+CITY HALL \- Business Registrations  
+"One more question-do you have any records for someone named Velthrax?   
+Master Velthrax?"  
+The halfling clerk frowns, flipping through registries. "Velthrax... no current   
+business registrations under that name. Let me check historical records..."  
+She pulls an older ledger, dusty. "Hmm. There's a notation here from... thirty-  
+eight years ago. 'Velthrax Institute of Arcane Antiquities'-dissolved, no   
+forwarding information. Owner listed as 'M. Velthrax, Magister.'"  
+She looks up. "That's all I have. Organization hasn't existed for decades."  
+Velthrax ran an organization dealing in arcane antiquities 38 years   
+ago-right around when Lord Aldric was attempting his   
+resurrection ritual.  
+   
+MERCHANT'S GUILD HALL  
+"Do you know anything about someone called Master Velthrax? Or the   
+Velthrax Institute?"  
+The elf attendant's expression shifts-recognition, but carefully neutral.   
+"That's... an old name. Before my time here, but I've heard stories."  
+He glances around, then lowers his voice. "Velthrax was a scholar-merchant,   
+dealt in dangerous artifacts. Very successful, very secretive. Disappeared about   
+forty years ago-just vanished. The Institute dissolved. Rumor was he got   
+involved with something that went badly wrong. Some say he died. Some say   
+he went into hiding."  
+"Any connection to the Crimson Covenant?"  
+The elf hesitates. "I couldn't say officially. But..." Another careful pause.   
+"Magister Vaelin Sarth appeared in the city about eight years ago with   
+significant capital and expertise in exactly the same trade Velthrax practiced.   
+Draw your own conclusions."  
+   
+HERALD'S OFFICE  
+You ask the clerk there about Velthrax. He shakes his head. "Before my time.   
+You'd need the historical archives, and those aren't kept here."  
+   
+WHAT YOU'VE LEARNED:  
+\*	Velthrax ran the "Velthrax Institute of Arcane Antiquities" 38   
+years ago  
+\*	The Institute dissolved \~40 years ago when Velthrax   
+disappeared  
+\*	Timing matches Lord Aldric's failed ritual and death  
+\*	Vaelin Sarth appeared 8 years ago with expertise and capital   
+matching Velthrax's trade  
+\*	Strong implication: Vaelin Sarth might BE Velthrax under a   
+new identity  
+This means the contractor who sent the scholars might be the same   
+person who originally gave Lord Aldric the Mourning Stone.  
+Now head back to The Gilded Compass to share with Kessa and   
+Cyril?  
+So the deaths can happen anywhere, but the Stone has to come back to the   
+manor to finish the ritual. That's where the time crunch comes in to play,   
+right?  
+Dec 7  
+Actually, let me clarify the situation based on what you've learned:  
+The Deaths (Lord Aldric's Wraith):  
+\*	Lord Aldric is NOW bound in the ritual circle at the manor  
+\*	The binding will hold for 2-3 weeks  
+\*	While bound, he CANNOT kill anyone-the deaths have stopped  
+\*	When the binding fails (2-3 weeks), he'll break free and start killing   
+again  
+\*	The Stone doesn't need to return to stop deaths-it needs to return to   
+PERMANENTLY resolve Aldric (either complete his ritual or properly   
+destroy the binding)  
+The Time Crunch: You have \~10-11 days remaining to:  
+1\.	Find and execute one of the scholars  
+2\.	Bring proof to Zaximos  
+3\.	Free Zaximos and claim the Binding Tome (your patron's artifact)  
+If you ALSO want to permanently solve the Aldric situation (which   
+isn't technically required by your deal with Zaximos, but would save   
+Tristham), you'd need to:  
+\*	Get the Mourning Stone back to the manor  
+\*	Either complete Aldric's ritual properly OR destroy the Stone with   
+proper ritual  
+\*	This would free the trapped spirits (including his daughter)  
+So the critical deadline is: Execute a scholar and return to Zaximos before   
+Aldric's binding breaks.  
+The optional goal is: Also recover the Mourning Stone to permanently save   
+Tristham.  
+Does that clarify the timeline and objectives?  
+Yep, let's gather and compare notes.  
+Dec 7  
+THE GILDED COMPASS \- RENDEZVOUS  
+You return to find Kessa and Cyril already waiting in your shared room. Kessa   
+has a bottle of wine and three cups. Cyril is making notes in a small journal.  
+"Right on time," Kessa says. "You first or us?"  
+"Me first," Johannes says. He lays out what he learned:  
+\*	Crimson Covenant location: Warehouse District, Ember Street \#42  
+\*	Leader: Magister Vaelin Sarth  
+\*	Reputation: Legitimate but deals in cursed/necromantic items  
+\*	Major shipment three weeks ago (Greymark timing)  
+\*	Auction tomorrow of rare antiquities-Mourning Stone likely   
+included  
+Then the critical part: "And I found records of someone called Master   
+Velthrax. Ran an institute dealing in arcane antiquities 38 years ago.   
+Disappeared 40 years ago-right when Lord Aldric died. The timing and trade   
+match perfectly."  
+He looks at them. "The merchant guild clerk strongly implied Vaelin Sarth   
+might BE Velthrax under a new identity. Same expertise, same trade,   
+appeared with significant capital eight years ago."  
+   
+KESSA'S REPORT:  
+She pours wine, takes a drink. "Underworld contacts were... illuminating. The   
+Crimson Covenant has a reputation in the shadows. They're the go-to for   
+acquiring things other merchants won't touch-cursed items, dangerous   
+artifacts, things with bodies attached."  
+"They hire freelancers for acquisitions. The three scholars-Aldric Venn, Mira   
+Corvith, Thomas Blackwell-are known as a team. Competent, professional,   
+not afraid to get their hands dirty. They specialize in estate clearances and   
+tomb raiding."  
+She pulls out a small notebook. "My contact says all three are still in the city.   
+They delivered their acquisition to the Covenant warehouse and have been   
+staying at a boarding house in the Artisan Quarter-The Silver Thimble,   
+room six. Waiting for payment, probably."  
+"They're not hiding. They think they're safe."  
+   
+CYRIL'S REPORT:  
+The cleric sets down his journal. "I visited three temples and the city's main   
+library. Asked about organizations dealing in necromantic materials and   
+names like Velthrax."  
+"The Temple of Pelor had records. Forty years ago, there was an investigation   
+into Master Velthrax for trafficking in 'items of dark providence'-necromantic   
+texts, cursed artifacts, things that violated divine law. But Velthrax had   
+powerful political connections and the investigation was dropped."  
+"Shortly after, Velthrax disappeared. The assumption was he either died or   
+went into permanent hiding to avoid renewed scrutiny."  
+Cyril looks grim. "If Vaelin Sarth IS Velthrax, he's been operating under a new   
+identity for forty years. Long-lived race-elf, maybe? Or magical life extension.   
+Either way, he's careful, connected, and dangerous."  
+He taps his journal. "The library had auction announcements. Tomorrow's   
+Covenant auction includes 'items of historical necromantic significance.' The   
+Mourning Stone will be there."  
+   
+SUMMARY OF COMBINED INTELLIGENCE:  
+Targets:  
+\*	Three scholars: Aldric Venn, Mira Corvith, Thomas Blackwell  
+\*	Location: The Silver Thimble boarding house, Artisan Quarter, room   
+six  
+\*	Status: Currently in city, unaware they're being hunted  
+Contractor:  
+\*	Vaelin Sarth (likely Velthrax under new identity)  
+\*	Location: Crimson Covenant warehouse, Ember Street \#42  
+\*	Status: Organizing auction tomorrow  
+The Mourning Stone:  
+\*	Will be auctioned tomorrow at Covenant warehouse  
+\*	Opportunity to recover it  
+   
+Kessa refills the cups. "So. Options:"  
+"One: Hit the scholars tonight at the boarding house. Quick, quiet, execute   
+one, take proof. Minimal complications."  
+"Two: Wait until the auction tomorrow. Scholars might attend. More public,   
+more witnesses, but we could potentially get the Stone AND execute a   
+scholar."  
+"Three: Infiltrate the Covenant warehouse tonight. Find the Stone, maybe   
+find evidence linking Sarth to Velthrax, then deal with the scholars   
+separately."  
+Cyril adds, "We need to choose our target carefully. Which scholar dies   
+matters less than doing it clean and getting proof back to Zaximos."  
+What's your approach?  
+Scholars first, then try for the Stone. Let's get rested as soon as we can, then   
+get this work done as quickly as possible.  
+Dec 7  
+"Scholars first," Johannes decides. "We execute one tonight, secure proof, then   
+go for the Stone tomorrow. Keep it simple and sequential."  
+Kessa nods approvingly. "Smart. Don't overcomplicate. Hit the boarding   
+house, finish one of them, get out clean."  
+Cyril sets down his cup. "Which one do we target? All three are equally guilty,   
+but tactics matter."  
+Kessa pulls out her notes. "From what my contacts said: Aldric Venn is the   
+leader-oldest, most experienced. Mira Corvith is the mage-arcane specialist,   
+probably handled magical defenses at Greymark. Thomas Blackwell is muscle   
+and logistics."  
+"Room six at The Silver Thimble. They're sharing quarters to save money   
+while waiting for payment. Could be all three in one room, or they might have   
+separate spaces."  
+Johannes considers. "We need it to be deliberate execution, not combat.   
+Zaximos was clear-it can't be self-defense or battlefield casualty."  
+Cyril's expression is grim. "That means we subdue them first, then execute. Or   
+catch one alone and vulnerable."  
+Kessa finishes her wine. "Boarding house will have other guests. We need to be   
+quiet. In and out without raising alarm."  
+She looks at the time. "It's evening now. We could rest a few hours, hit them   
+after midnight when people are deepest asleep. Or go now while they might   
+still be awake and separated."  
+Plan:  
+\*	Rest first (short rest, recover resources), then strike after midnight  
+\*	OR go immediately while they might be separated/vulnerable  
+And which scholar do you want to target if you have a choice?  
+\*	Aldric Venn (leader)  
+\*	Mira Corvith (mage)  
+\*	Thomas Blackwell (muscle)  
+What's your call?  
+Short rest, then hunt  
+Dec 7  
+"We rest first," Johannes says. "Recover, prepare properly. Then we hunt after   
+midnight when the boarding house is quiet."  
+Cyril nods. "Agreed. Divine magic restored, everyone sharp. This needs to be   
+clean."  
+Kessa stands, stretching. "I'll scout The Silver Thimble while you two rest-get   
+the layout, see how many guests, locate exits. Meet back here in two hours,   
+then we move."  
+   
+SHORT REST \- THE GILDED COMPASS  
+Benefits:  
+\*	Johannes: Spell slots refresh (Warlock pact magic)  
+\*	Kessa: Can spend hit dice if needed, checks all gear  
+\*	Cyril: Recovers some spell slots, prays for guidance  
+Johannes sits in meditation, the Ring of Mind Shielding cold on his finger. The   
+patron is quiet-no whispers, no pressure. Just waiting. It knows you're   
+working.  
+Two hours pass.  
+   
+KESSA'S RECONNAISSANCE REPORT:  
+She returns with a hand-drawn map of The Silver Thimble.  
+"Three-story boarding house. Twenty rooms total. Room six is second floor,   
+end of the hallway-good for us, isolated from other guests. One window   
+facing the alley, fire escape accessible."  
+"I watched for an hour. Saw two of them-Mira Corvith and Thomas   
+Blackwell-enter the building together around sunset. Didn't see Aldric Venn,   
+but that doesn't mean he's not there. Could be in the room, could be out."  
+She taps the map. "Front entrance has a night clerk-old man, half-asleep.   
+Back entrance near the kitchen is unwatched. Fire escape is our best entry-  
+quiet, direct access to their window."  
+"Other guests are mostly craftsmen, laborers. Working people who sleep   
+heavy. If we're quiet, no one will notice."  
+Cyril asks, "Do we know if they're armed? Prepared?"  
+Kessa shrugs. "They're professionals who just completed a dangerous   
+acquisition. Probably have weapons nearby. But they're not expecting   
+trouble-they think they're safe, waiting for payment."  
+She looks at Johannes. "Your call on approach. We could:"  
+Option 1: Fire escape to window, breach directly into room six Option   
+2: Back door, hallway approach, knock and use deception to enter Option   
+3: Wait and follow one if they leave separately (might take all night)  
+"And we still need to decide: Which one dies if we have a choice? Or do we just   
+take whoever's most vulnerable?"  
+It's approaching midnight. What's your plan?  
+First available target. Do we have any incapacitated, like sleep potions?   
+Something that avoids combat harm.  
+Dec 7  
+Good thinking-let's check your inventory and options.  
+Your Current Consumables:  
+\*	Potions of Greater Healing x2  
+\*	Potion of Heroism  
+\*	Potion of Invisibility  
+\*	Dust of Disappearance  
+\*	Alchemist's Fire x2  
+\*	No sleep potions or incapacitating substances  
+However:  
+Kessa speaks up: "I don't have sleep potions, but I might be able to acquire   
+something. There's an apothecary in the Artisan Quarter-probably closed   
+now, but I know how to get what we need after hours."  
+She considers. "Sleeping draft, paralytic toxin, something to coat a blade or   
+slip in a drink. Give me thirty minutes and some coin, I can get it."  
+Cyril adds, "I have Hold Person prepared-2nd level spell. Paralyzes a   
+humanoid, no damage. They're conscious but can't move or speak. Would   
+work for subduing without harm before the execution."  
+He looks uncomfortable but resolute. "Which fits the requirements-  
+deliberate, chosen, not combat casualty."  
+Options:  
+1\.	Wait for Kessa to acquire sleep/paralytic substances (30 min   
+delay, costs gold)  
+2\.	Use Cyril's Hold Person spell (immediate, no cost, but limited uses)  
+3\.	Physical subdual (grapple, knock unconscious-harder but doable   
+with three of you)  
+4\.	Combination approach (Hold Person to paralyze, then transfer to   
+bindings)  
+What's your preference? And do you want to send Kessa to get   
+chemical assistance, or proceed with magic/physical methods?  
+Kessa's option. I appreciate the offer. Cyril. But this is not a necessary sacrifice   
+in this circumstance.  
+Dec 7  
+Cyril nods, respect in his eyes. "Appreciated. Save the divine magic for when   
+we truly need it."  
+Kessa is already moving. "Thirty minutes. I'll get something that works fast   
+and quiet-sleeping draft we can administer by force if needed. Paralytic   
+backup if the first doesn't take."  
+She pauses at the door. "This will cost maybe 50 gold for quality stuff from a   
+reliable source. Black market prices."  
+Johannes hands her the coin. "Get what we need."  
+She vanishes into the night.  
+   
+THIRTY MINUTES LATER  
+Kessa returns with a small leather pouch. She spreads the contents on the   
+table:  
+"Dreamless Sleep" vial \- "Pour this down their throat, they're unconscious   
+in seconds. Lasts about an hour. Tasteless, odorless if we can get them to drink   
+it willingly. Otherwise, force it."  
+Paralytic paste \- "Coat a blade, scratch breaks skin, muscles lock up in thirty   
+seconds. They're aware but can't move for ten minutes. Wears off, but gives us   
+time to restrain properly."  
+Cloth saturated with knockout agent \- "Press this over nose and mouth,   
+they breathe it in, unconscious in about twenty seconds if they don't struggle.   
+If they fight, takes longer and might fail."  
+She looks at Johannes. "Three options, three different approaches. Your   
+choice based on how we enter."  
+   
+CURRENT TIME: Just past midnight  
+TARGET: The Silver Thimble, room six, second floor  
+ENTRY OPTIONS:  
+\*	Fire escape to window (direct, quiet, surprise)  
+\*	Back door to hallway (more controlled, can knock and deceive)  
+\*	Wait for one to leave alone (patient, might take hours)  
+INCAPACITATION METHOD:  
+\*	Dreamless Sleep vial (forced or willing ingestion)  
+\*	Paralytic paste (blade scratch)  
+\*	Knockout cloth (forced inhalation)  
+How do you want to approach this?  
+Back door.  
+Dec 7  
+"Back door," Johannes decides. "Controlled approach, less chance of   
+complications from a forced window entry."  
+Kessa pockets the incapacitating agents. "Smart. We can assess the situation   
+in the hallway, listen at the door, decide our exact method based on what we   
+find."  
+Cyril checks his mace. "And if things go wrong, we're not trapped on a fire   
+escape."  
+   
+THE SILVER THIMBLE \- MIDNIGHT APPROACH  
+The three of you move through Ember's Reach's quiet streets. The Artisan   
+Quarter is mostly dark-workshops closed, residents asleep. The Silver   
+Thimble is a modest three-story building, a few lit windows on upper floors.  
+Kessa leads you to the back entrance near the kitchen. The door is unlocked-  
+boarding houses don't typically secure service entrances heavily.  
+Inside: a narrow hallway, servants' stairs leading up. The smell of old cooking   
+grease and cheap lamp oil. Quiet except for distant snoring from ground-floor   
+rooms.  
+You ascend to the second floor. The hallway is dimly lit by a single guttering   
+lamp. Doors line both sides-room numbers painted on each.  
+Room Six is at the end of the hall, as Kessa described.  
+She moves silently ahead, pressing her ear to the door. Listens for a long   
+moment, then returns.  
+Whispers: "Two voices. Male and female-probably Thomas and Mira. Talking   
+quietly. Can't make out words, but they're awake. No sound of a third person."  
+So Aldric Venn might not be there, or he's asleep/silent.  
+Kessa continues: "We could knock, use deception to get them to open. Or pick   
+the lock, breach quickly. Your call."  
+Approach options:  
+Deception knock:  
+\*	Claim to be message from Covenant, urgent business, etc.  
+\*	They open door willingly  
+\*	Easier to use Dreamless Sleep vial if we can get them to drink something  
+\*	Risk: They might be suspicious  
+Silent breach:  
+\*	Kessa picks lock (she's expert)  
+\*	Rush in, use knockout cloth or paralytic  
+\*	Element of surprise  
+\*	Risk: If lock is noisy or they're alert, could turn into fight  
+Which approach?  
+Bribe tavern urchin to claim important news for Mira. Some issue with the   
+Stone. Thomas is not needed.  
+Dec 7  
+"Wait here," Johannes says. He heads back downstairs and out to the street.  
+   
+FINDING A MESSENGER  
+Even at midnight, a city like Ember's Reach has street kids-urchins who run   
+messages, do odd jobs for coin. Johannes finds one within minutes: a girl,   
+maybe twelve, quick eyes, wary but interested when he produces silver.  
+"Easy job. Go to The Silver Thimble, room six, second floor. Knock and ask for   
+Mira Corvith. Tell her there's urgent news about 'the acquisition'-problem   
+with the Stone, needs her attention immediately. Someone's waiting for her in   
+the common room downstairs."  
+He shows her two silver pieces. "One now, one when you've delivered the   
+message and she's coming down."  
+The girl eyes him suspiciously. "What's this about?"  
+"Business dispute. Nothing that involves you. Just deliver the message, get   
+paid, walk away."  
+She pockets the first coin. "Fine. But if this gets me in trouble-"  
+"It won't. Just a message."  
+   
+FIVE MINUTES LATER  
+Johannes, Kessa, and Cyril are positioned in the second-floor hallway,   
+concealed in a shadowed alcove near room six. They watch as the street urchin   
+climbs the stairs, approaches the door, knocks.  
+Muffled voices inside. The door opens a crack-a woman's face, suspicious.   
+The urchin delivers the message clearly:  
+"Urgent news about the acquisition. Problem with the Stone. Someone's   
+waiting downstairs in the common room. Says it's important."  
+Mira's voice, annoyed: "Now? It's past midnight-"  
+Thomas's voice from inside: "Could be Sarth. He said payment might   
+come late if there were complications."  
+Mira: "Fine. I'll check. You stay here in case Aldric gets back."  
+The door opens wider. Mira Corvith steps out-human woman, mid-thirties,   
+traveler's clothes, a wand sheathed at her belt. She's alert but not expecting   
+danger.  
+She hands the urchin a copper. "Thanks, kid."  
+The girl scampers off, pocketing both Johannes's silver and Mira's copper with   
+professional efficiency.  
+Mira closes the door behind her-leaving Thomas alone in room six. She heads   
+toward the stairs, passing within ten feet of your hiding spot.  
+Perfect separation.  
+Do you:  
+1\.	Take Mira now (intercept her in the hallway, use knockout method)  
+2\.	Let her go downstairs (confused and distracted when no one's   
+there), then take Thomas in the room  
+3\.	Split targets (some go after Mira, some breach room six for Thomas)  
+Who is your primary target?  
+Take Thomas in the room after Mira leaves.  
+Dec 7  
+Smart-Thomas is alone, distracted, in an enclosed space. Perfect target.  
+   
+WAITING FOR MIRA TO DESCEND  
+You watch Mira head down the stairs, footsteps fading. She'll reach the   
+common room, find no one waiting, be confused and irritated. That gives you   
+a few minutes before she returns.  
+Kessa moves to the door of room six immediately, pulling out her thieves'   
+tools. She works the lock with practiced silence.  
+Sleight of Hand check: 24  
+Click. The lock opens without a sound.  
+She looks to Johannes and Cyril, hand on the handle. "Ready?"  
+You nod. Kessa has the knockout cloth prepared-the one that works via   
+forced inhalation.  
+She opens the door quickly but quietly.  
+   
+ROOM SIX \- INTERIOR  
+Thomas Blackwell sits at a small table, counting coins-probably calculating   
+his share of the payment. Human male, late twenties, muscular build, sword   
+leaning against the wall within reach but not in hand.  
+He looks up, startled, as three armed figures enter his room.  
+"What the-"  
+Kessa is faster. She crosses the distance in two steps, knockout cloth in hand,   
+pressing it over his nose and mouth from behind.  
+Grapple check (Kessa): 19  
+Thomas tries to fight-grabbing at her arm, trying to throw her off-but   
+Kessa's positioned perfectly, leverage and surprise on her side.  
+"Breathe," she hisses.  
+Thomas struggles for fifteen seconds-eyes wide, trying to hold his breath,   
+then gasping involuntarily. The agent takes effect.  
+His movements slow. His eyes unfocus. He slumps backward into Kessa's grip.  
+Unconscious.  
+Cyril quietly closes and locks the door behind you. "We have maybe two   
+minutes before Mira realizes there's no one downstairs and comes back."  
+Thomas is unconscious on the floor, breathing steadily. Completely helpless.  
+Kessa looks to Johannes, expression neutral but waiting. "Your call. Do it here,   
+or move him somewhere more secure?"  
+The dreamless sleep vial is still available if you want him unconscious longer.   
+The paralytic paste if you want him aware but immobile.  
+And the execution itself-how do you want to do this? What proof   
+does Zaximos need? (Heart, contract, something substantial, he   
+said.)  
+Slit his throatwhile he's unconscious, it's an execution, but doesn't require   
+suffering. Take both of his thumbs and the coins (blood money) and put him   
+in bed. Escape out back as quick as possible.  
+Dec 7  
+Johannes draws his dagger. The room is silent except for Thomas's   
+unconscious breathing.  
+"Quickly," he says to the others. "Kessa, watch the door. Cyril, prepare to   
+move."  
+He kneels beside Thomas Blackwell-grave robber, scholar-thief, one of three   
+responsible for unleashing Lord Aldric's wraith on Tristham. Fourteen   
+innocent dead. More would have died without intervention.  
+This is justice. Consequences for choices made with full knowledge.  
+Johannes positions the blade at Thomas's throat. One clean motion-the man   
+doesn't wake, doesn't suffer. Just stops breathing.  
+Blood pools quickly. Kessa hands him cloth without a word.  
+   
+COLLECTING PROOF  
+Johannes works efficiently:  
+\*	Both thumbs severed (substantial proof of identity)  
+\*	The coins from the table (roughly 40 gold pieces-Thomas's blood   
+money from the Greymark acquisition)  
+\*	Wrapped together in leather  
+He positions Thomas's body in the bed, arranging it to look like natural sleep   
+at first glance. Covers the worst of the blood with blankets. It won't fool close   
+inspection, but it might buy minutes when Mira returns.  
+The whole process takes less than two minutes.  
+"Done," Johannes says quietly. "Back door. Now."  
+   
+ESCAPE \- THE SILVER THIMBLE  
+Kessa unlocks the door, checks the hallway-clear. The three of you move   
+quickly but quietly toward the servants' stairs.  
+From below, you hear Mira's voice, irritated: "...nobody there. Some kind of   
+mistake or prank..."  
+Footsteps on the main stairs-she's coming back up.  
+But you're already descending the back stairs. Through the kitchen. Out the   
+rear door into  
+Let's head to where the Stone is being held before the auction.  
+Dec 7  
+Johannes, Kessa, and Cyril move quickly through the dark streets, putting   
+distance between themselves and The Silver Thimble.  
+After several blocks, they slow to normal pace. Three travelers heading   
+somewhere with purpose-nothing unusual in a trade city.  
+Kessa tucks the wrapped proof into her pack. "Thomas is done. When Mira   
+finds him, there'll be alarm, but by then we'll have what we came for."  
+Cyril is quiet, processing what just happened. He participated, supported, but   
+the weight is visible. "Fourteen innocent lives. He chose his path."  
+Johannes nods. "The Mourning Stone. We need to scout the Covenant   
+warehouse before the auction tomorrow. Know the layout, security, where   
+they're keeping it."  
+   
+WAREHOUSE DISTRICT \- EMBER STREET  
+The district is industrial-large buildings for storage and commerce, quiet at   
+night. A few night watchmen patrol, but it's not heavily secured.  
+Building 42 stands out: three stories, reinforced construction, narrow   
+windows with iron bars. The Crimson Covenant's symbol is painted on the   
+door-a stylized red circle with arcane sigils.  
+Two guards stand at the main entrance. Professional, armed, alert. Not typical   
+warehouse security.  
+Kessa studies the building from a shadowed alley across the street. "They're   
+serious about protection. Those aren't rent-a-guards-those are trained   
+fighters."  
+She scans the building. "Three floors. Ground level probably has the auction   
+space and main storage. Upper floors might be offices, private collections,   
+Sarth's personal quarters."  
+"The Mourning Stone-if it's here for tomorrow's auction-will be either in the   
+main vault with other auction items, or in special secure storage if Sarth   
+recognizes its value."  
+Cyril adds, "There will be wards. Magical security. An organization dealing in   
+cursed artifacts won't rely on physical guards alone."  
+Kessa continues her assessment: "We could scout more thoroughly-find   
+alternate entrances, watch patrol patterns. Or we could attend the auction   
+legitimately tomorrow, see where the Stone is, possibly bid on it or steal it   
+during the chaos."  
+She looks at Johannes. "What's the play? Scout now and plan a heist tonight,   
+or wait for the auction tomorrow?"  
+Options:  
+1\.	Scout thoroughly now, attempt heist tonight \- Get the Stone   
+before the auction, but higher risk  
+2\.	Attend auction tomorrow as potential buyers \- See the Stone,   
+assess security, decide then  
+3\.	Infiltrate now for reconnaissance only \- Map the interior, locate   
+the Stone, plan for later  
+4\.	Something else?  
+What do you want to do?  
+1, but without committing to the heist unless the opportunity is compelling.  
+Dec 7  
+"We scout now," Johannes decides. "Map the interior, locate the Stone, assess   
+security. If there's a compelling opportunity, we take it. If not, we know what   
+we're dealing with for tomorrow."  
+Kessa nods approvingly. "Smart. Information first, action if conditions are   
+right."  
+   
+RECONNAISSANCE \- CRIMSON COVENANT WAREHOUSE  
+The three of you circle the building systematically, staying in shadows.  
+What you observe:  
+Ground Level:  
+\*	Main entrance: Two guards, rotating shifts every two hours (you watch   
+one rotation)  
+\*	Loading dock (rear): Closed, barred from inside, no external guards but   
+probably alarmed  
+\*	Windows: Barred, reinforced glass, faint magical shimmer (wards)  
+\*	One side door: Locked, single guard does a patrol past it every 30   
+minutes  
+Second Floor:  
+\*	Narrow windows, also barred and warded  
+\*	Lights visible in two rooms-someone's working late  
+\*	Balcony on the east side, accessible from street level via climbing (15 feet   
+up)  
+Third Floor:  
+\*	Fewer windows, heavily curtained  
+\*	One window shows more elaborate warding-glowing sigils visible  
+\*	Likely Sarth's private office or the high-security vault  
+Kessa points to the east balcony. "That's our best entry point. I can climb,   
+unlock the balcony door if it's not magically sealed. Gets us to the second   
+floor-offices, probably records, maybe access to storage below or vaults   
+above."  
+Cyril studies the wards on the windows. "Those are detection wards. If we   
+break glass or force entry, they'll trigger alarms. We need to either dispel them   
+or find an unprotected entrance."  
+He pauses. "The balcony door might have weaker wards-it's designed for   
+access, not display. Worth checking."  
+Current time: Approaching 1:00 AM  
+Guards are alert but routine-no indication they know about   
+Thomas yet.  
+Approach options:  
+1\.	Kessa climbs to balcony, attempts entry \- Stealth infiltration, see   
+if door is accessible  
+2\.	Wait and watch longer \- Gather more patrol patterns, see if   
+opportunity develops  
+3\.	Withdraw for now \- Return to inn, plan for auction tomorrow with   
+this intelligence  
+4\.	Create distraction \- Draw guards away, breach during confusion  
+What's your move?  
+1\.	We can use rope of entanglement to climb quickly if we can get in  
+Dec 7  
+"Kessa, try the balcony," Johannes says. "If you can get the door open, we use   
+the Rope of Entanglement to climb up quickly and quietly."  
+Kessa grins. "Now we're talking."  
+   
+APPROACH TO BALCONY  
+You move to the east side of the building where the balcony overhangs the   
+alley. Fifteen feet up, iron railing, the door beyond it barely visible in the   
+darkness.  
+Kessa examines the wall-old brick, enough handholds for an experienced   
+climber.  
+"Give me two minutes. If I can't get it open or if the wards are too strong, I'll   
+signal and we abort."  
+Stealth check (Kessa climbing): 21  
+She ascends silently, finding purchase in the weathered brick like it's a ladder.   
+Within ninety seconds, she's over the balcony railing.  
+You watch from below as she examines the door-testing the handle, running   
+her fingers along the frame, checking for magical wards.  
+Arcana check (Kessa's passive): 14  
+She can see faint magical energy around the lock mechanism, but it's not as   
+strong as the ground-floor windows. Detection ward, probably, but maybe not   
+alarm-level.  
+Thieves' Tools check: 26  
+The lock picks smoothly. Kessa eases the door open an inch, listening.  
+Silence. No alarms. No guards rushing.  
+She looks down at you and Cyril, gives a thumbs up, then waves you forward.  
+Johannes pulls out the Rope of Entanglement, commands it softly. The   
+magical rope snakes upward, looping over the balcony railing, securing itself.  
+Athletics checks to climb:  
+\*	Johannes (with rope assistance): 16 \- climbs easily  
+\*	Cyril (with rope assistance): 12 \- slower but makes it  
+Within a minute, all three of you are on the balcony.  
+   
+INSIDE THE CRIMSON COVENANT \- SECOND FLOOR  
+You slip through the door into a dark hallway. Offices line both sides-doors   
+closed, nameplates indicating "Archives," "Acquisitions," "Appraisals."  
+Faint light comes from under one door at the end of the hall-someone's   
+working late.  
+Kessa whispers: "Ground floor below has the main storage and auction space.   
+Third floor above has the high-security vault-that glowing window we saw.   
+The Stone is probably either downstairs with auction items or upstairs in the   
+vault."  
+She points to a stairwell at the end of the hall, past the lit office. "We can go up   
+or down. But we need to be quiet-whoever's in that office might hear us."  
+Cyril adds softly: "If the Stone is in the vault upstairs, it'll have the strongest   
+wards. If it's downstairs with auction items, it might be more accessible but   
+also more visible to guards."  
+Where do you search first?  
+1\.	Third floor vault (high security, likely location for valuable items)  
+2\.	Ground floor auction storage (easier access, but closer to guards)  
+3\.	Check the lit office (gather intelligence first, might have auction   
+manifest)  
+What's your move?  
+Does anyone have charm spells?  
+Dec 7  
+Good question-let's check what's available:  
+Johannes (Warlock 7):  
+\*	No charm spells in your current spell list  
+\*	Your spells focus on combat (Hex, Eldritch Blast, Shadow of Moil)  
+Kessa (Rogue 5/Bard 2):  
+\*	Yes\! As a bard, she has access to charm magic  
+\*	She knows Charm Person (1st level spell)  
+\*	She has 3 spell slots (2 first-level, 1 second-level) available  
+Cyril (Cleric 4):  
+\*	No charm spells prepared  
+\*	His focus is healing, protection, and combat support  
+   
+Kessa whispers: "I have Charm Person. One minute duration if it works. If   
+someone's alone in that office, I could charm them, get them to talk-where's   
+the Stone, what's the security setup, auction details."  
+She considers. "Risk is: if the spell fails, they know we're here and raise alarm.   
+And Charm Person only works on humanoids-if there's something else in   
+there, we're out of luck."  
+"But if it works? We could get everything we need without searching blind."  
+Options:  
+1\.	Use Charm Person on whoever's in the lit office \- Gather   
+intelligence directly  
+2\.	Bypass the office, search on your own \- Avoid magical detection   
+risk  
+3\.	Kessa scouts the office first (Stealth) \- See who/what's in there   
+before deciding  
+What's your call?  
+3  
+Dec 7  
+"Scout it first," Johannes says. "See who's in there, then we decide."  
+Kessa nods, moving silently down the hallway toward the lit office. She presses   
+herself against the wall, approaching the door at an angle to avoid casting   
+shadows under it.  
+Stealth check: 24  
+Absolutely silent. She reaches the door, listens carefully, then risks a quick   
+glance through the gap between door and frame.  
+She observes for thirty seconds, then returns to Johannes and Cyril.  
+Whispers: "One person. Human male, middle-aged, expensive robes. Working   
+at a desk, reviewing documents by lamplight. Looks like manifests or   
+inventories-I saw item descriptions, lot numbers."  
+"No visible weapons, but he's wearing rings-probably magical. Could be a   
+mage, could just be wealthy. He's focused on his work, not alert for intruders."  
+She continues: "The office is small. One desk, filing cabinets, shelves with   
+ledgers. One door-the one we're at. No windows. If we charm him and it fails,   
+he's trapped with us, but so are we with him if he has combat magic."  
+Cyril whispers, "If those are auction manifests, he might know exactly where   
+the Mourning Stone is. Could save us significant time searching."  
+Kessa adds, "Charm Person has decent odds if he's not suspicious. But once we   
+open that door, we're committed-charm him, silence him, or fight him."  
+Decision time:  
+1\.	Kessa uses Charm Person \- Open door, cast immediately, hope it   
+works  
+2\.	Intimidate/threaten him into cooperation \- Physical approach,   
+no magic  
+3\.	Knock him out quietly \- Use the knockout cloth from earlier  
+4\.	Bypass entirely \- Search elsewhere, don't risk encounter  
+What do you do?  
+1, then 2 if necessary.  
+Dec 7  
+"Charm him," Johannes decides. "If it fails, we intimidate. Either way, we get   
+the information."  
+Kessa nods, positioning herself at the door. She whispers the plan: "I open,   
+cast immediately, smile and act friendly. If the spell takes, I question him   
+gently. If it fails, you two step in fast-intimidation before he can shout or   
+cast."  
+Johannes and Cyril ready themselves just out of sight of the doorway.  
+Kessa takes a breath, then opens the door smoothly and steps inside with a   
+warm smile.  
+   
+CHARM PERSON ATTEMPT  
+The man looks up, startled-"What-who are you-"  
+Kessa's fingers weave the spell, her voice melodic: "Just someone who needs a   
+moment of your time, friend."  
+Spell save DC: 14 (Kessa's spell DC)  
+Target's Wisdom save: 8  
+Failed-the spell takes hold.  
+The man's expression shifts from alarm to confusion to... friendliness. He   
+blinks, smiles. "Oh\! I'm sorry, I didn't realize we had an appointment. Please,   
+come in. Can I help you with something?"  
+Kessa gestures for Johannes and Cyril to enter quietly. They do, closing the   
+door behind them.  
+The charmed clerk doesn't seem concerned by three armed strangers in his   
+office-the magic convinces him they're friendly acquaintances.  
+Kessa sits on the edge of his desk, casual and warm. "We're looking for a   
+specific item in tomorrow's auction. The Mourning Stone-dark gemstone,   
+necromantic properties. Can you tell us where it's being kept?"  
+The man-still under the charm-nods eagerly. "Ah yes\! Lot seventeen. Quite   
+valuable. Magister Sarth has it in the third-floor vault-high security items   
+only. Beautiful piece, really. Came from an old estate clearance three weeks   
+ago."  
+"Third floor vault," Kessa confirms. "How do we access it?"  
+"Oh, you'd need Magister Sarth's authorization. The vault has triple wards-  
+detection, alarm, and a binding trap for unauthorized entry. Only Sarth and   
+his senior appraiser have the passphrase to safely open it."  
+Kessa keeps her tone friendly. "What's the passphrase?"  
+The clerk hesitates-even charmed, some information is protected. "I... I don't   
+know it. Only Sarth and Master Yven have that clearance. I just catalog the   
+items after they're secured."  
+He taps the manifest on his desk. "But I have the lot descriptions here if you'd   
+like to review what's being auctioned tomorrow?"  
+You have a charmed clerk with partial information. The Stone is in   
+the third-floor vault with triple wards requiring a passphrase.  
+What else do you want to ask him? Charm Person lasts one minute   
+total-you have about 30 seconds left.  
+Other questions? Is Sarth Valthrax or whatever his name is? Also, where does   
+Sarth and Yven live?  
+Dec 7  
+Kessa keeps her tone casual and friendly. "Quick questions, friend. Is Magister   
+Sarth the same person as Velthrax? We've heard the names are connected."  
+The clerk looks confused. "Velthrax? I... I don't know that name. Magister   
+Sarth has run the Covenant for eight years, since before I was hired. I've never   
+heard him called anything else."  
+Not definitive, but the clerk genuinely doesn't know.  
+"Where does Magister Sarth live? And Master Yven?"  
+The clerk gestures upward. "Magister Sarth has private quarters on the third   
+floor of this building-lives above his work, very dedicated. Master Yven has   
+apartments in the Merchant Quarter, Silverbell Lane, I believe. Number   
+fourteen or sixteen."  
+Kessa nods. "And is Sarth here now? In his quarters?"  
+"Oh yes, he's upstairs. Preparing for tomorrow's auction. He's been working   
+late every night this week-very meticulous about these events."  
+Critical information gained:  
+\*	Stone is in third-floor vault, triple-warded, requires passphrase  
+\*	Sarth lives on third floor of this building-he's here right now  
+\*	Master Yven (senior appraiser) lives at Silverbell Lane \#14 or \#16  
+\*	Clerk doesn't know about Velthrax connection  
+The charm is fading-maybe 10 seconds left.  
+Kessa smiles warmly. "Thank you so much, you've been incredibly helpful.   
+One last thing-after we leave, you'll feel very sleepy. Just rest your head on   
+the desk for a bit, take a nap. You've been working too hard."  
+She pulls out the dreamless sleep vial as the charm expires.  
+Do you:  
+1\.	Force him to drink the sleep potion (keep him unconscious,   
+prevents alarm)  
+2\.	Let him be (charm wore off naturally, he'll be confused but not   
+immediately alarmed)  
+3\.	Use knockout cloth (alternative incapacitation)  
+And what's your next move-knowing Sarth is upstairs right now?  
+1\.	And let's go force Sarthto give us the Stone and see if he's someone   
+else as well.  
+Dec 7  
+Kessa administers the dreamless sleep potion while the clerk is still muzzy   
+from the fading charm. He drinks without resistance, then slumps over his   
+desk within seconds-deeply unconscious.  
+"He'll be out for an hour," she confirms, positioning him to look like he fell   
+asleep working.  
+Johannes turns to Cyril. "We're going up. Sarth is here, the Stone is here. We   
+get both answers tonight."  
+Cyril grips his mace. "Confronting him directly in his own headquarters-bold.   
+But if he's Velthrax, if he's the contractor, this completes both parts of your   
+deal with Zaximos."  
+Kessa checks her crossbow. "He's a scholar-merchant dealing in cursed   
+artifacts. Probably has magical defenses, possibly guards. We need to be ready   
+for a fight."  
+   
+THIRD FLOOR \- APPROACH  
+The stairwell leads upward. You ascend quietly-no guards on the stairs, but   
+the tension increases with each step.  
+The third floor is more refined than the second-expensive carpets, better   
+lighting, artwork on walls. This is Sarth's personal domain.  
+Three doors visible:  
+\*	Left: Ornate door with "Private Quarters" plaque  
+\*	Center: Heavy reinforced door glowing with ward sigils-the vault  
+\*	Right: Office door, light visible underneath  
+Kessa points to the right. "Light's on. He's probably in the office."  
+From within, you hear paper rustling, the scratch of a quill. One person   
+working.  
+Approach options:  
+1\.	Knock and enter with false pretense \- Claim urgent business, get   
+close before revealing intent  
+2\.	Breach directly \- Kick in door, immediate confrontation  
+3\.	Kessa picks lock silently, surprise entry \- Maintain stealth   
+advantage  
+4\.	Call out, demand he open door and surrender \- Direct   
+intimidation  
+How do you want to confront Magister Vaelin Sarth?  
+3\.  
+Dec 7  
+"Silent breach," Johannes confirms. "Maintain surprise."  
+Kessa moves to the office door, tools already in hand. She tests the handle   
+first-locked, as expected.  
+Sleight of Hand check: 22  
+The lock picks smoothly, barely a sound. She looks back at Johannes and   
+Cyril, hand on the handle, counting down silently with her fingers.  
+Three... two... one...  
+She throws the door open. Johannes and Cyril rush in behind her.  
+   
+MAGISTER VAELIN SARTH'S OFFICE  
+The room is spacious, well-appointed. Bookshelves lined with rare texts. A   
+large desk covered in auction documents. Display cases holding curiosities and   
+artifacts.  
+And behind the desk: Magister Vaelin Sarth.  
+Elf. Appears middle-aged by elven standards (which could mean centuries   
+old). Fine robes, multiple rings on his fingers, a thin circlet on his brow.   
+Intelligent eyes that widen in shock at the intrusion-then narrow with   
+calculation.  
+His hand moves toward a wand on his desk-  
+Kessa's crossbow is already up. "Don't."  
+He freezes, hand hovering. Assessing. Three armed intruders, one with a   
+weapon trained on him, two more blocking the exit.  
+"Who are you?" His voice is controlled despite the situation. "Breaking into   
+the Crimson Covenant is extremely unwise. My guards will-"  
+"Your guards are occupied," Johannes says flatly. "And we're not here to rob   
+you. We're here for answers. And the Mourning Stone."  
+Sarth's expression shifts-recognition of the item, then concern. "The   
+Greymark acquisition. You're... connected to that situation."  
+His eyes focus on Johannes, studying. "You have the mark of a pact-bearer.   
+Demon-touched. And you..." He looks at each of them. "You killed one of my   
+scholars, didn't you? Thomas. The blood on your hands is fresh."  
+Not a question. A statement.  
+How do you respond? And what do you demand from him?  
+The Stone. It's acquisition was not as pristine as it should have been. It needs   
+to be returned to complete the ritual or local magistrates will cause trouble.   
+Allow us is return and we will return it free and clear. Still as valuable, but   
+without the blood debt.  
+Dec 7  
+Johannes meets Sarth's eyes steadily. "The Mourning Stone. Its acquisition   
+wasn't as clean as your scholars reported. There are complications-rituals   
+incomplete, bindings unstable. It needs to be returned to complete the original   
+magic properly, or local magistrates will cause trouble for everyone involved."  
+He keeps his tone businesslike, professional. "Let us return it. We'll handle the   
+ritual completion, clear the blood debt, and return it to you free and clear. Still   
+valuable, still functional, but without the legal and supernatural complications   
+hanging over it."  
+   
+Sarth's Response:  
+The elf studies Johannes carefully, weighing the claim. His fingers drum once   
+on the desk-thinking, calculating.  
+"An interesting proposition." His tone is measured. "But let's dispense with   
+the fiction, shall we?"  
+He leans back slightly, hands visible, non-threatening. "You're not   
+magistrate's agents. You're not scholars concerned with proper ritual   
+completion. You killed Thomas Blackwell tonight-execution style, I'm   
+guessing, given how you're operating."  
+His eyes are sharp. "You know the Stone's nature. You know what Lord Aldric   
+attempted. And you want it badly enough to infiltrate my headquarters and   
+threaten me directly."  
+A thin smile. "So let's negotiate honestly. What do you really want? The Stone   
+itself? To destroy it? To complete Aldric's ritual? And what are you offering in   
+exchange that's worth more than tomorrow's auction price-which I estimate   
+will exceed two thousand gold?"  
+He gestures slightly. "I'm a businessman. Make me an offer that benefits us   
+both. Or..." His hand drifts slightly closer to the wand. "Try to take it by force   
+and see what happens when you assault a mage in his own sanctum."  
+Not backing down, but willing to talk.  
+How do you respond? Honest negotiation, intimidation, or   
+something else?  
+Thoughts? I look at Kessa with a raised eyebrow. I'm ready to rock and roll or   
+bargain, I'll follow her lead as the party's Face.  
+Dec 7  
+Johannes looks to Kessa with a raised eyebrow-your call.  
+Kessa doesn't lower her crossbow, but her expression shifts to something   
+more... conversational. Professional thief to professional merchant.  
+"Here's the honest version," she says. "Fourteen people died in Tristham   
+because your scholars took that Stone without understanding-or caring-  
+what they were unleashing. Lord Aldric's wraith is currently bound, but   
+temporarily. The binding fails in about ten days."  
+She keeps her aim steady. "We need the Stone to permanently resolve the   
+situation. Either complete Aldric's ritual properly or destroy the binding   
+entirely. Either way, hundreds of lives depend on it."  
+"As for what we're offering..." She gestures with her free hand. "We've already   
+killed one of your scholars. We're inside your headquarters. We know you're   
+probably Velthrax operating under a new name-Master Velthrax who gave   
+Aldric the Stone forty years ago and disappeared when it all went wrong."  
+Her tone sharpens. "So here's the deal: Give us the Stone. We solve the   
+Tristham problem. You avoid the complications of having your old identity   
+exposed, avoid questions about why you're re-selling an artifact you provided   
+for a failed resurrection ritual four decades ago, and avoid us making a lot of   
+noise about blood debts and necromantic negligence."  
+She pauses. "Or we can do this the loud way. Your choice, Magister."  
+   
+Sarth's reaction:  
+The elf's expression hardens at the name Velthrax. For just a moment,   
+something shows-old fear, old guilt, old anger.  
+Then it's gone, replaced by cold calculation.  
+"You've done your research." He says it quietly. "Velthrax is... a name I haven't   
+used in a very long time. A name attached to mistakes I prefer remain buried."  
+He stands slowly, hands still visible. "Very well. Honest negotiation. Yes, I   
+gave Aldric the Mourning Stone. Yes, his ritual failed catastrophically. Yes, I   
+disappeared rather than face the consequences. And yes, when my scholars   
+found it again after all these years, I saw an opportunity to profit from old   
+mistakes."  
+His jaw tightens. "But I am not responsible for those deaths. My scholars   
+documented everything properly. They warned me the binding was unstable. I   
+planned to stabilize it before sale. The deaths are tragic, but not my doing."  
+He looks at Kessa. "That said... I understand leverage when I see it. You want   
+the Stone. I want my past to stay buried. And I'd rather not have this   
+conversation become public."  
+"Proposal: I give you the Stone. You handle Tristham. In exchange, my   
+identity as Velthrax remains secret, and we part as... neutral parties. No   
+further action against the Covenant, no exposure, no complications."  
+He looks between the three of you. "Do we have terms?"  
+Kessa glances at Johannes-accept the deal, or push for more?  
+We need to see the Stone first before we make any bargains. If he turns his   
+back, I motion for Kessa to subdue him when the Stone is accessible.  
+Dec 7  
+Johannes nods slowly. "Show us the Stone first. We need to verify it's intact   
+and functional before we agree to anything."  
+Sarth studies him, then inclines his head. "Reasonable. The vault is just   
+outside. I'll open it."  
+He stands, moving toward the door. Kessa keeps her crossbow trained on him   
+as he leads the way into the hallway.  
+They approach the reinforced vault door-the one glowing with   
+ward sigils.  
+Sarth positions himself before it, hands raised to begin the unsealing ritual.   
+His back is to you as he begins speaking the passphrase in an ancient tongue,   
+fingers tracing patterns in the air.  
+The wards shimmer, responding to his voice and gestures.  
+   
+Johannes catches Kessa's eye and motions subtly-when the vault   
+opens, subdue him.  
+She nods fractionally, shifting her weight, ready.  
+Sarth continues the ritual, focused on the complex unsealing. "...and by the   
+covenant of acquisition, I claim right of-"  
+The final ward dissolves. The vault door swings open with a heavy thunk.  
+Beyond: shelves lined with artifacts, each in protective cases. Magical items,   
+cursed objects, things that glow with unnatural light.  
+And on a pedestal near the front: The Mourning Stone.  
+A black gemstone the size of a fist, faceted like a heart, pulsing with faint   
+necromantic energy. You can feel it from here-grief, loss, the weight of failed   
+resurrection.  
+Sarth gestures. "There. As promised-"  
+Kessa moves.  
+Grapple attempt: 19  
+She drops the crossbow, closing the distance in two steps, wrapping an arm   
+around Sarth's throat from behind, her other hand pinning his wand-arm.  
+"Don't struggle," she hisses.  
+Sarth gasps, tries to speak a spell-  
+Cyril is already there, hand clamping over the elf's mouth. "No casting."  
+They force him to his knees, controlled but not gentle.  
+Johannes steps into the vault, approaching the Mourning Stone.  
+The Stone sits there, waiting. Proof of Velthrax's old sins. The   
+source of Aldric's tragedy. Your path to fulfilling the deal with   
+Zaximos.  
+Sarth struggles weakly against Kessa and Cyril's grip, eyes furious but helpless.  
+What do you do with Sarth? And do you take only the Stone, or   
+anything else from the vault?  
+I put a knife to Sarths neck. Before any of us go in there, is there anything else   
+waiting for us?  
+Dec 7  
+Johannes presses his dagger to Sarth's throat-not breaking skin, but the   
+threat is clear. Cyril removes his hand from the elf's mouth just enough to let   
+him speak.  
+"Before anyone goes in there," Johannes says quietly, "is there anything else   
+waiting for us? Traps? Guardian constructs? Curses on the items? Speak   
+truthfully or this gets much worse for you."  
+Sarth's eyes are furious, but there's genuine fear now. The cold steel at his   
+neck makes things very real.  
+"The wards on the door were the primary protection," he says quickly, voice   
+strained. "Once opened with the passphrase, the vault itself is... mostly safe."  
+"Mostly?" Kessa tightens her grip.  
+"The individual items have their own protections-containment fields, minor   
+wards to prevent theft. But those are standard, nothing lethal. Touch the   
+wrong artifact without dispelling its ward first, you might get shocked or   
+frozen briefly, but it won't kill you."  
+He swallows against the blade. "The Mourning Stone specifically has a   
+preservation ward-keeps its necromantic energy stable. You can handle it   
+safely if you're careful, but don't try to absorb or channel its power directly.   
+That would be... inadvisable."  
+Johannes studies him. "What about when we leave? Any secondary defenses   
+that trigger when items are removed?"  
+Sarth hesitates-that hesitation tells you there IS something.  
+The blade presses slightly firmer. "Truth. Now."  
+"The vault door," he admits. "If it closes with unauthorized removal-items   
+taken without my direct authorization-it seals automatically and triggers an   
+alarm throughout the building. Guards, wards, everything activates. You'd   
+have maybe sixty seconds to get out before the entire Covenant mobilizes."  
+He looks at Johannes directly. "But I can authorize the removal. Speak the   
+release phrase. The door stays open, no alarm. You take what you want and   
+leave cleanly."  
+Is he telling the truth? And do you trust him to speak the   
+authorization, or do you have another plan?  
+How much did the Stone weigh?  
+Dec 7  
+Good practical question. Let me check what we established.  
+From the description: "A black gemstone the size of a fist, faceted like a heart,   
+pulsing with faint necromantic energy."  
+The Mourning Stone would weigh approximately 2-4 pounds-  
+substantial for a gemstone that size, but easily portable. Not heavy enough to   
+be a burden, but noticeable weight.  
+It's sitting on a pedestal, so you could grab it and move quickly if needed.  
+Are you thinking about:  
+1\.	Grabbing it and running before the alarm triggers (60-second window)?  
+2\.	Having Sarth authorize removal so you can take it cleanly?  
+3\.	Something else?  
+What's your plan?  
+Have him speak the release, then use mage hand to retrieve the stone. Kessa   
+and Cyril get ready for company if anything happens.  
+Dec 7  
+"Speak the release phrase," Johannes orders, blade still at Sarth's throat.   
+"Authorize removal of the Mourning Stone. Try anything clever and you don't   
+get a second chance."  
+Sarth swallows carefully. "I need... I need to face the vault to speak it properly.   
+The wards require line of sight and intent."  
+Johannes nods to Kessa and Cyril. They adjust their grip, turning Sarth to face   
+the open vault while maintaining control.  
+Kessa whispers to Cyril: "Ready for company if this goes wrong."  
+Cyril shifts his grip on his mace, positioning himself to see both the vault and   
+the hallway. "Ready."  
+   
+Sarth speaks clearly, elvish words of power:  
+"By right of keeper and master of this vault, I authorize removal of Lot   
+Seventeen, the Greymark Mourning Stone, for transfer and conveyance."  
+The vault's ambient magical energy shifts-a sense of permission granted,   
+restrictions lifting. The preservation ward around the Stone's pedestal dims   
+slightly.  
+Nothing else happens. No alarms. No guards rushing.  
+   
+Johannes concentrates, casting Mage Hand.  
+Wait-let me check your spell list. Mage Hand is a cantrip, but I don't see it in   
+your warlock spell selection. Warlocks don't automatically get Mage Hand   
+unless they choose it.  
+Do you have Mage Hand prepared, or should we use a different   
+approach?  
+Alternative options:  
+1\.	Johannes enters carefully and retrieves it manually  
+2\.	Kessa goes in (she's dexterous, good with traps)  
+3\.	Send Cyril (divine protection might help)  
+4\.	Force Sarth to retrieve it himself (he knows the vault best)  
+Which approach do you want to take?  
+I could have sworn i picked it when we created Johannes If not, let's see if   
+Sarth has access to it. I don't want anyone to go in there unless necessary.  
+Dec 7  
+You're right to be cautious-let me check if Sarth can do it.  
+"You're going to retrieve it for us," Johannes says, adjusting the blade slightly.   
+"Carefully. No tricks."  
+Sarth's eyes narrow. "You want me to walk into my own vault, retrieve an   
+extremely valuable artifact, and hand it to the people who just killed my   
+employee and invaded my headquarters?"  
+"Yes," Kessa says flatly. "Unless you prefer the alternative."  
+Sarth considers for a moment, then nods tersely. "Fine. But I'll need my hands   
+free to handle it properly. The preservation ward requires specific gestures to   
+safely transfer the Stone."  
+He looks at Johannes. "I give you my word-as Velthrax, if that name means   
+anything-I will retrieve the Stone and hand it to you. No tricks. I want you   
+gone more than I want to fight."  
+His tone suggests genuine calculation: he values his life and secrecy   
+more than one artifact.  
+Kessa glances at Johannes. "Your call. Let him get it, or find another way?"  
+   
+Options:  
+1\.	Release Sarth's hands, let him retrieve it (he gave his word as   
+Velthrax)  
+2\.	Kessa goes in herself (don't trust him, but risks whatever protections   
+exist)  
+3\.	Force him in at knifepoint (Cyril and Kessa escort him in, maintain   
+control)  
+What do you do?  
+Any other ideas? I don't want us in there and him going solo is a no go. He   
+could trigger the vault and use it as a panic Room...  
+Dec 7  
+You're absolutely right-sending him in alone gives him too much control.  
+Kessa speaks up: "How about this: Sarth and I go in together. I keep my   
+knife at his ribs the entire time. He retrieves the Stone with proper gestures,   
+hands it directly to me. Johannes and Cyril stay at the vault entrance-if the   
+door starts to close or anything happens, you two pull us out."  
+She looks at Sarth. "And if you try to trigger any panic room features or vault   
+sealing, you're locked in there with me and a very sharp blade. Clear?"  
+Cyril adds: "I could tie a rope around both of you. If something goes wrong,   
+Johannes and I physically yank you back out before any door can seal."  
+Alternative ideas:  
+Rope of Entanglement approach:  
+\*	Command the magical rope to retrieve the Stone itself  
+\*	It can grab and manipulate objects on command  
+\*	Keeps everyone out of the vault entirely  
+Dimension Door scroll:  
+\*	If things go wrong, you could teleport someone out  
+\*	But that uses your only scroll  
+Force Sarth to disable ALL vault protections:  
+\*	Make him speak a phrase that shuts down everything  
+\*	Then anyone can walk in safely  
+\*	Risk: He might not have that capability  
+Which approach sounds best to you?  
+All vault protections.  
+Dec 7  
+"Disable all vault protections," Johannes says, pressing the blade slightly.   
+"Every ward, every trap, every failsafe. Complete shutdown. Then we retrieve   
+it ourselves."  
+Sarth's expression shifts-calculation, resistance. "That's... that would leave   
+the vault completely unprotected. Everything in there exposed. I can't just-"  
+"You can and you will," Kessa interrupts. "We're taking one item. The rest   
+stays untouched. But we're not walking into a trap, and we're not letting you   
+have any control once you're inside."  
+Sarth's jaw tightens. "A complete shutdown requires the master override. It's...   
+it's not meant to be used except in emergencies. Leaves everything   
+vulnerable."  
+"This IS an emergency," Cyril says grimly. "For you."  
+   
+Sarth hesitates, then exhales. "Fine. But understand-once I speak this,   
+anyone could walk in and take anything. Every protection drops for ten   
+minutes before auto-resetting. You're asking me to completely compromise   
+my security."  
+"Ten minutes is plenty," Johannes says. "Speak it."  
+Sarth faces the vault again, voice bitter but clear:  
+"By right of Magister and keeper, I invoke master override:   
+Sanctuary Dissolve. All internal protections suspend.   
+Authorization: Velthrax, original covenant holder."  
+The vault's magical energy dies. The ambient hum of protective wards   
+vanishes. The faint shimmer around individual artifacts fades. The   
+preservation ward around the Mourning Stone's pedestal goes completely   
+dark.  
+The vault is now just a room full of valuable items. No magic, no traps, no   
+protections.  
+Sarth slumps slightly in their grip. "There. Satisfied? Everything's exposed.   
+Take your cursed rock and get out."  
+The vault is completely unprotected for the next ten minutes.  
+Who goes in to retrieve the Mourning Stone?  
+Use the rope to retrieve it.  
+Dec 7  
+"Perfect," Johannes says. He pulls out the Rope of Entanglement, keeping   
+the blade on Sarth with his other hand.  
+He commands the magical rope: "Retrieve the black gemstone from the   
+pedestal. Carefully."  
+The rope animates, slithering across the floor into the vault like a serpent. It   
+moves with intelligence, winding up the pedestal, coiling gently around the   
+Mourning Stone.  
+The Stone pulses with necromantic energy as the rope touches it-dark, cold,   
+the weight of grief and failed resurrection magic radiating from it. But with the   
+preservation ward down, there's no magical resistance.  
+The rope lifts the Stone carefully, cradling it, and carries it back out of the   
+vault to Johannes.  
+He takes it in his free hand. It's heavy-about three pounds of faceted black   
+gemstone. Cold to the touch. You can feel Lord Aldric's desperation, his wife's   
+absence, forty years of binding magic all concentrated in this artifact.  
+The Mourning Stone is secured.  
+Kessa grins slightly. "Clean and simple. I like it."  
+The rope returns to Johannes's control, coiling at his belt.  
+Sarth watches, defeated. "You have what you came for. Now leave. Our deal-  
+my identity stays buried, you handle Tristham, we never see each other again."  
+Current situation:  
+\*	Mourning Stone acquired  
+\*	Thomas Blackwell's thumbs and blood money as proof (first death for   
+Zaximos)  
+\*	Sarth alive, vault exposed for another \~8 minutes  
+\*	No alarms triggered yet  
+What do you do with Sarth? Kill him (second death for Zaximos),   
+leave him alive per the deal, or something else?  
+He has to go, but i will use one of the sleep items so he is incapacitated when I   
+do it.  
+Dec 7  
+Johannes looks at Sarth-the elf who gave Lord Aldric the cursed Stone forty   
+years ago, who disappeared rather than face consequences, who sent scholars   
+to retrieve it knowing the risks, who profited from tragedy.  
+The contractor. The one truly responsible.  
+"Kessa, the dreamless sleep vial."  
+Sarth's eyes widen. "Wait-we had a deal\! I gave you the Stone, I-"  
+"The deal," Johannes says quietly, "was that your identity as Velthrax stays   
+buried. It will. Along with you."  
+Sarth struggles, but Cyril and Kessa hold him firm. Kessa produces the vial,   
+forcing it between his lips. The elf tries to resist, but she's practiced at this.  
+He drinks. Within seconds, his struggles weaken. His eyes unfocus. He slumps   
+in their grip, unconscious.  
+They lower him to the floor gently.  
+   
+Johannes kneels beside the sleeping form. Sarth-Velthrax-who started this   
+forty years ago. Who gave a desperate nobleman a cursed artifact. Who   
+profited from the suffering it caused.  
+This is execution. Deliberate. Chosen. The second death Zaximos requires.  
+Johannes draws his blade.  
+One clean motion. Sarth doesn't wake, doesn't suffer. Just stops breathing.  
+Proof required: Johannes takes Sarth's signet ring (the Crimson Covenant   
+seal-proof of identity) and the thin circlet from his brow (personal item,   
+clearly valuable, marked with Velthrax's old arcane symbols).  
+Blood from the contractor, mixed with the ring and circlet. Wrapped in cloth.  
+   
+Both executions complete:  
+1\.	Thomas Blackwell (scholar) \- thumbs and blood money  
+2\.	Vaelin Sarth/Velthrax (contractor) \- ring, circlet, blood  
+Kessa looks at the body, then at Johannes. "The deal with Zaximos is fulfilled.   
+Two deaths, both earned. Let's get out before the guard rotations find this."  
+Cyril is pale but resolute. "Justice done. Now we finish it-return to Tristham,   
+free Zaximos, claim the Tome, restore the Stone."  
+The vault is still exposed for about 6 more minutes. Do you take   
+anything else, or leave immediately?  
+Are all the items dark magic?  
+Dec 7  
+Good question-let me have you assess what's actually in the vault.  
+Johannes steps into the now-unprotected vault, scanning the shelves with his   
+knowledge of arcane items and pact magic.  
+Arcana check: 15  
+The collection is... mixed.  
+Dark/Cursed items (about 60%):  
+\*	Necromantic focus items  
+\*	Cursed jewelry  
+\*	Binding fetishes  
+\*	Dark ritual components  
+\*	Items that radiate malevolence or corruption  
+Neutral/Scholarly items (about 30%):  
+\*	Historical artifacts with no inherent evil  
+\*	Ancient texts (some necromantic, some just rare)  
+\*	Arcane curiosities  
+\*	Items of academic value  
+Potentially beneficial items (about 10%):  
+\*	A wand that radiates protective magic  
+\*	Several potions in ornate bottles  
+\*	What looks like a ring with divination properties  
+\*	A few items that seem functional rather than cursed  
+Cyril enters cautiously, his divine sense active. "Most of this is tainted-objects   
+of suffering, items used in dark rituals. But not everything. Some pieces are   
+just... old. Rare. Dangerous in the wrong hands but not inherently evil."  
+Kessa is practical: "We have maybe five minutes before this place auto-locks   
+again. We could grab a few choice items-payment for our trouble-or we   
+leave clean with just what we came for."  
+Do you want to take anything else, or leave with just the Mourning   
+Stone and proof of the executions?  
+Collect the "good items," roll Sarth's body into the vault, begin to shut the   
+door and then figure out if we could toss in the alchemical fire to destroy the   
+rest of the vaults contents with the vault sealed so there is no danger of the   
+fire spreading. No reason to leave all these other dark items loose in the   
+world. Thoughts?  
+Dec 7  
+"Good items only," Johannes decides. "Then we sanitize this place."  
+   
+COLLECTING BENEFICIAL ITEMS (Quick grab, \~2 minutes):  
+Kessa and Cyril work fast, identifying and taking:  
+\*	Protective wand (silvered, radiates abjuration magic)  
+\*	6 potion bottles (healing and utility potions based on color/labels)  
+\*	Divination ring (simple bronze band, detect magic shimmer)  
+\*	3 historical texts (non-cursed, valuable scholarly works)  
+\*	Small bag of quality spell components (neutral materials)  
+Everything packed quickly into bags of holding.  
+   
+SARTH'S BODY:  
+They roll Velthrax's corpse into the vault, positioning it among his collection   
+of dark artifacts. Poetic, in a way.  
+   
+FIRE PLAN:  
+Johannes pulls out both Alchemist's Fire vials, examining the vault   
+structure.  
+Kessa assesses: "Stone construction, reinforced. If we set the fire and seal the   
+door, it'll burn hot inside-destroy the artifacts, burn the body, consume   
+everything flammable. The vault's built to contain, so the fire won't spread to   
+the building."  
+Cyril adds: "But the smoke will eventually alert people. Guards will smell it,   
+investigate. We'd need to be long gone before they force the vault open."  
+Johannes considers the vault door mechanism. "Once we start closing it, does   
+it auto-seal? Or can we prop it, toss the fire, then seal it?"  
+Kessa examines the door. Investigation: 18  
+"Heavy mechanism. Once it starts closing, it takes about ten seconds to fully   
+seal-counterweights and locks. We could start it closing, toss the alchemist's   
+fire inside while it's moving, and it'll seal with the fire contained."  
+She looks at the contents. "Most of these artifacts are wood, cloth, parchment,   
+or have organic components. The fire will consume them. Metal and stone   
+pieces might survive, but corrupted, warped, unusable."  
+The plan:  
+1\.	Start vault door closing  
+2\.	Toss both alchemist's fire vials inside (targeting most flammable areas)  
+3\.	Door seals with fire contained  
+4\.	Escape before guards smell smoke and investigate  
+Concerns:  
+\*	Smoke will alert guards eventually (10-15 minutes?)  
+\*	Some durable artifacts might survive  
+\*	Destroying the whole collection might draw more attention than just the   
+missing Stone  
+Execute the fire plan, or leave the vault intact and just escape with   
+what you took?  
+Does someone want to forge a suicide note while we're at it? Cuts down on   
+possible investigation and hue and cry...  
+Dec 7  
+Kessa's eyes light up. "Oh, that's good. Distraught scholar-merchant, guilt   
+over past mistakes, locked himself in his vault and set it ablaze. Tragic suicide.   
+Much cleaner than mysterious murder and theft."  
+She looks around. "We'd need his handwriting sample-there are documents   
+in his office. I can forge a convincing note if I have a reference."  
+Cyril adds, "And it fits the facts. Velthrax disappeared forty years ago out of   
+guilt. Sarth-Velthrax-finally couldn't live with what he'd done. The   
+Greymark Stone returning to haunt him, the deaths in Tristham, old sins   
+catching up..."  
+Kessa heads to Sarth's office, grabbing several handwritten   
+documents as samples. She sits at his desk with blank parchment.  
+Forgery check: 22 (with reference samples)  
+She works quickly, matching his script perfectly:  
+   
+"I can no longer bear the weight of what I've done. Forty years ago, as   
+Velthrax, I gave Lord Aldric Greymark the cursed Stone that destroyed his   
+family. I fled rather than face justice. I thought distance and time would ease   
+the guilt.  
+But the Stone has returned, and with it, the deaths have begun again.   
+Fourteen innocent souls in Tristham. Blood on my hands, old and new.  
+I am Velthrax. I am Vaelin Sarth. I am a coward who profited from tragedy.   
+Let this be my penance. Let the flames cleanse what I could not."  
+   
+Kessa shows it to Johannes and Cyril. "Reads authentic. Confesses to the   
+Velthrax identity, takes responsibility for Tristham, implies deliberate self-  
+immolation. Guards find this, they close the case as suicide."  
+She places it on Sarth's office desk where it will be found.  
+Now execute the vault fire:  
+1\.	Position Sarth's body prominently near flammable items  
+2\.	Start vault door closing  
+3\.	Toss both alchemist's fire vials to ignite the collection  
+4\.	Door seals with fire contained  
+5\.	Leave suicide note on office desk  
+6\.	Escape before smoke alerts guards  
+Ready to execute?  
+Do it  
+Dec 7  
+EXECUTING THE PLAN  
+Johannes and Cyril position Sarth's body near the most flammable artifacts-  
+scrolls, wooden caskets, cloth-wrapped items. They arrange it to look like he   
+might have started the fire himself before collapsing.  
+Kessa triggers the vault door mechanism. The heavy door begins its slow ten-  
+second close, counterweights groaning.  
+Johannes pulls both Alchemist's Fire vials. He throws them deep into the   
+vault-one shattering near Sarth's body, the other hitting a shelf of scrolls and   
+ritual texts.  
+WHOOSH.  
+Flames erupt instantly, spreading across parchment and wood. The dark   
+artifacts begin to burn-necromantic energy releases in crackling pulses as   
+bindings break and curses dissolve in fire.  
+The vault door continues closing. Seven seconds. Six. Five.  
+The fire roars now, consuming everything flammable, heat building in the   
+sealed stone chamber.  
+Three seconds. Two.  
+CLANG.  
+The vault door seals shut. The reinforced stone contains the inferno. Smoke   
+begins seeping around the edges, but slowly-the vault was built to contain.  
+   
+CLEANUP & ESCAPE  
+Kessa places the suicide note prominently on Sarth's office desk.  
+The three of you move quickly:  
+\*	Out of the office  
+\*	Down the hallway to the second-floor balcony  
+\*	Down the Rope of Entanglement to the alley  
+\*	Away from the warehouse district at a normal walking pace  
+Behind you, smoke begins to rise from the third-floor windows. Within   
+minutes, someone will notice.  
+But you're already three blocks away, just three travelers moving through the   
+pre-dawn streets.  
+   
+WHAT YOU'VE ACCOMPLISHED:  
+? Thomas Blackwell executed (scholar) ? Vaelin Sarth/Velthrax executed   
+(contractor)   
+? Proof collected from both ? Mourning Stone acquired ? Scene staged as   
+guilt-driven suicide ? Dark artifacts destroyed by fire ? Beneficial items   
+salvaged  
+Current time: Approximately 2:00 AM  
+You have:  
+\*	\~10 days remaining on Aldric's binding  
+\*	The Mourning Stone  
+\*	Proof of both executions for Zaximos  
+\*	A few hours before the city fully wakes  
+What's your next move? Return to Tristham immediately, or   
+handle anything else in Ember's Reach first?  
+Get a full night's sleep, get two sets of new mounts for each of us, and head   
+out in the morning.  
+Dec 7  
+RETURN TO THE GILDED COMPASS \- 2:30 AM  
+The three of you return to the inn quietly. The night clerk barely glances up-  
+late-night returns are common in a trade city.  
+In your rooms, Johannes secures the Mourning Stone carefully. The dark   
+gemstone pulses with necromantic energy, a constant cold weight. The proof   
+of executions-Thomas's thumbs and coins, Sarth's ring and circlet-are   
+wrapped separately.  
+Kessa inventories the salvaged items from the vault. Cyril tends to minor   
+scrapes and prepares for sleep.  
+"We did it," Kessa says quietly. "Both targets down. Stone acquired. Clean   
+escape. Not bad for one night's work."  
+Cyril is more somber. "Two men executed. A collection of dark artifacts   
+destroyed. Justice served, but..." He touches his holy symbol. "The weight   
+remains."  
+Johannes simply nods. The work is done. Now comes the return.  
+   
+MORNING \- 8:00 AM  
+You wake after solid rest (full long rest benefits: HP fully restored, spell slots   
+refreshed, abilities reset).  
+Long Rest Benefits:  
+\*	Johannes: Full HP (60), spell slots restored, invocations ready  
+\*	Kessa: Full HP (46), spell slots restored, abilities reset  
+\*	Cyril: Full HP, spells prepared fresh, divine magic ready  
+   
+PURCHASING NEW MOUNTS  
+The three of you head to Ember's Reach's best stable-Ironshod Livery-in   
+the Merchant Quarter.  
+The stablemaster eyes your travel-worn appearance and the quality of your   
+gear. "Looking for horses? We have the best in the city."  
+"Six horses total," Johannes says. "Three riding mounts, three pack horses.   
+Quality animals, capable of hard travel."  
+The stablemaster nods approvingly. "Planning to push them hard and swap for   
+fresh mounts when the first set tires? Smart for long-distance speed."  
+He shows you his stock:  
+\*	Riding horses: 75 gold each (sturdy, fast, good endurance)  
+\*	Pack horses: 50 gold each (strong, steady, can carry supplies)  
+Total cost: 375 gold for six horses  
+You also purchase:  
+\*	Saddles and tack (included)  
+\*	Additional provisions for hard travel  
+\*	Feed for the horses  
+Total expedition cost: \~400 gold  
+By mid-morning, you're mounted and ready. Six horses, supplies secured, the   
+Mourning Stone wrapped carefully in Johannes's pack.  
+   
+DEPARTURE \- 10:00 AM  
+As you ride out of Ember's Reach, smoke is still visible from the warehouse   
+district. City guards are investigating the "tragic suicide" of Magister Sarth.   
+The story is already spreading through merchant circles.  
+You ride northwest toward Tristham. With six horses rotating (three riders,   
+three fresh mounts), you can push much harder than the journey down.  
+Hard travel with rotation: Should cut the return journey to 2.5-3 days   
+instead of 4-5.  
+   
+You have approximately 10 days before Aldric's binding fails.  
+Ready to make the hard ride back to Tristham, or is there anything   
+else you want to handle first?  
+Get the heck back home as fast as safely possible.  
+Dec 7  
+THE HARD RIDE TO TRISTHAM  
+You push the pace immediately, rotating mounts every few hours to keep the   
+horses fresh. Cold camps, minimal rest, riding through easier terrain at night   
+with Kessa's darkvision scouting ahead.  
+   
+DAY 1: Relentless pace from dawn until well after dark. The horse rotation   
+works perfectly-when one set tires, you switch to the fresh mounts. No   
+breakdowns, no complications.  
+Constitution checks to maintain pace:  
+\*	Johannes (CON 19): 18 \- holding strong  
+\*	Kessa: 17 \- endurance holding  
+\*	Cyril: 15 \- tired but managing  
+You cover nearly double the normal distance.  
+   
+DAY 2: Continue the brutal pace. The Mourning Stone pulses cold in   
+Johannes's pack-a constant reminder of what's at stake. You pass through the   
+same hamlet as before, barely stopping to water horses before pushing on.  
+The animals are holding up well with the rotation system. Professional   
+horsemanship pays off.  
+By evening, you can see the foothills that mark Tristham's region.  
+   
+DAY 3 \- MIDDAY: You crest the final hill and see Tristham below. Three   
+days of hard travel-cut nearly in half from the journey down.  
+The town looks... peaceful. No smoke, no panic. The binding is still holding.  
+You ride directly to the Greystone Inn. The innkeeper's face lights up with   
+relief when she sees you.  
+"You're back\! The deaths-they stopped, just like you said. We've had three   
+nights of peace. People are starting to believe it might actually be over."  
+She doesn't know it's only temporary. That you have maybe 7 days left before   
+Aldric breaks free again.  
+   
+GREYMARK MANOR \- AFTERNOON  
+You ride up to the manor. The broken entrance door still hangs open. The   
+building feels less oppressive now-Aldric is bound, contained in his ritual   
+chamber.  
+Inside, everything is as you left it. The manor is quiet, waiting.  
+You descend to Lord Aldric's chamber where the temporary binding holds   
+him.  
+The ritual circle glows faintly with silver-black energy. From within, you hear   
+the wraith's whisper-weak, furious, trapped:  
+"...you... returned... I feel it... the Stone... GIVE IT BACK..."  
+   
+THIRD FLOOR \- ZAXIMOS  
+You ascend to the attic where the imp waits, still bound to the Binding Tome.  
+Zaximos looks up as you enter, red eyes gleaming with desperate hope.  
+"You returned. And you carry... death. I smell it. Two deaths. Blood   
+of the guilty."  
+The imp grins viciously. "Show me. Prove the contract fulfilled."  
+Do you present the proof to Zaximos now?  
+Yes  
+Dec 7  
+Johannes steps forward, pulling out the wrapped proof. He unfolds the cloth,   
+revealing the contents to Zaximos.  
+From Thomas Blackwell:  
+\*	Both thumbs, preserved  
+\*	Forty gold pieces in blood money  
+From Vaelin Sarth/Velthrax:  
+\*	Signet ring bearing the Crimson Covenant seal  
+\*	Ornate circlet marked with old arcane symbols  
+\*	Blood-stained cloth  
+He lays them before the imp. "Thomas Blackwell, scholar who stole the   
+Mourning Stone. Executed deliberately. And Vaelin Sarth-formerly known as   
+Velthrax-the contractor who ordered the theft and who originally gave Lord   
+Aldric this cursed Stone forty years ago. Also executed deliberately."  
+   
+ZAXIMOS'S REACTION  
+The imp's eyes widen, examining the proof hungrily. He reaches out with   
+clawed hands, touching the items, tasting the death on them.  
+"Yessss... fresh death. Chosen death. Executed, not felled in   
+battle." He picks up Sarth's ring, studying it. "And this... this is   
+Velthrax's mark. The one who bound me to this tome in the first   
+place, who gave Aldric the Stone, who started this entire tragedy."  
+The imp laughs-genuinely delighted. "Oh, warlock. You didn't just   
+fulfill the contract. You brought me the blood of the one TRULY   
+responsible. Poetic justice\!"  
+He clutches the proof to his chest, the spectral chains binding him to the   
+Binding Tome beginning to shimmer, to weaken.  
+"The contract is FULFILLED. Two deaths-scholar and contractor.   
+Both guilty. Both delivered."  
+Zaximos looks at Johannes with something like respect. "You have   
+honored our accord perfectly. Now I honor mine."  
+   
+THE BINDING BREAKS  
+The imp speaks words of release in infernal tongue. The spectral   
+chains shatter like glass, dissolving into smoke. The connection between   
+Zaximos and the Tome severs completely.  
+The imp staggers, wings spreading, free for the first time in forty years.  
+"FREEDOM\!" He laughs wildly. "No more cage\! No more pathetic   
+mortal's failed ritual binding me\!"  
+Then he turns to Johannes, composing himself with visible effort.  
+"As promised, warlock-the Binding Tome is YOURS. Your patron's   
+artifact, claimed through blood and execution."  
+He holds out the massive grimoire. Black leather, iron bindings, pages filled   
+with necromantic rituals and dark knowledge. The book that contains Lord   
+Aldric's resurrection ritual, the instructions for binding and unbinding, the   
+accumulated magical knowledge of Velthrax's dark work.  
+"And as for your pact information..." Zaximos grins. "First payment,   
+as agreed. Listen well."  
+The imp's voice becomes serious, instructional:  
+"Your demon patron's records exist in the Abyssal Registry-the   
+Great Archive of Binding, maintained in the Layer of Infinite   
+Portals. To access it, you need three things:  
+One: A blood seal from your own pact mark-proof of binding.  
+Two: The name of a registry keeper. I give you this: MALTHORIUS   
+THE SCRIBE. Demon of contracts, keeper of pact records. He can   
+be summoned or contacted through specific rituals."  
+Three: Payment. Malthorius deals in secrets, souls, or artifacts of   
+power. He won't give information freely."  
+The imp continues: "That's your map, warlock. Where to look, who to   
+ask. When you kill the contractor-whoever ordered Velthrax's   
+original work all those decades ago-perform the blood ritual I'll   
+teach you now, and I'll provide the DETAILED information: how to   
+break demonic pacts, what loopholes exist, what Malthorius will   
+accept as payment."  
+He extends a claw. "Do you accept this first payment as fulfillment of   
+our agreement?"  
+The Binding Tome sits before you. Zaximos awaits your   
+acknowledgment. What do you say?  
+No. Velthrax was the originator of this entire debacle; there's no other person   
+behind this.  
+Dec 7  
+Johannes shakes his head. "No. Velthrax WAS the contractor. He's the one   
+who gave Aldric the Stone forty years ago, who started this entire tragedy.   
+There's no one else behind this-he was the originator."  
+Zaximos pauses, considering. His eyes narrow thoughtfully.  
+"Hmm. You make a fair point, warlock." The imp taps a claw against his   
+chin. "Velthrax procured the Stone, gave it to Aldric, created the   
+binding that trapped me. He IS the root cause."  
+"Very well. The contract specified 'the contractor who ordered the   
+scholars' theft.' Technically, that's Sarth-who WAS Velthrax. Same   
+entity, different name."  
+The imp grins wickedly. "I like how you think. Lawyer's logic. Infernal   
+courts would appreciate it."  
+He considers the terms. "So: You've delivered BOTH deaths in a single   
+action-the scholar AND the ultimate contractor, since they trace   
+back to the same source. Very efficient."  
+"Revised payment:" Zaximos spreads his hands. "Since there's no   
+second contractor to kill later, I'll give you BOTH parts of the   
+information NOW. The basic map AND the detailed instructions.   
+Consider it... a professional courtesy for exceeding expectations."  
+The imp's expression becomes serious:  
+"DETAILED PACT-BREAKING INFORMATION:  
+Your patron is bound by infernal law, same as you. Every demonic   
+pact has THREE potential breaking points:  
+ONE: Fulfill the original terms completely. Whatever you agreed to   
+forty years ago when you read that tome-if you complete it perfectly, the pact   
+dissolves. Problem is, you don't remember the exact terms."\*\*  
+TWO: Find a contract flaw. Demonic pacts are written in precise   
+language. If there's an ambiguity, a loophole, a contradiction-Malthorius can   
+identify it. Exploiting it requires ritual magic, but it's possible."\*\*  
+THREE: Substitution of debt. Transfer your obligation to another willing   
+soul, or pay an alternative price the demon accepts. Difficult, expensive, but   
+doable."\*\*  
+"To pursue any of these, you need your ORIGINAL contract.   
+Malthorius the Scribe has it in the Abyssal Registry. To get it from   
+him, he'll want one of three things:  
+\*	A powerful soul (willing or otherwise)  
+\*	An artifact of significant demonic value  
+\*	A secret that threatens powerful entities in the Hells  
+"That's everything, warlock. Where to go, who to ask, what to   
+bring, and what your options are once you have the contract."  
+Zaximos extends his hand. "Do we have final accord? Your Tome, my   
+freedom, and the knowledge to potentially break your curse?"  
+Do you accept?  
+Thoughts before I accept? Are you both comfortable with this, Especially you,   
+Cyril. This is likely very much a challenge to your belief system. I need to know   
+you are okay with this. Not just going along to get along. This is the kind of   
+thing we often find ourselves called to do. Can this be part of your life moving   
+forward?  
+Dec 7  
+Johannes turns to his companions before accepting. "Wait. Before I agree to   
+this, I need to know you're both truly comfortable with what just happened-  
+and what's likely to come."  
+He looks at Cyril directly. "Especially you. We just executed two people in cold   
+blood. Made a deal with a devil that's now giving me instructions on how to   
+contact demons in the Abyss. This challenges everything your faith stands for.   
+I need to know-genuinely-are you okay with this? Not just going along   
+because you're loyal, but actually at peace with these choices?"  
+   
+CYRIL'S RESPONSE:  
+The cleric is quiet for a long moment, hand on his holy symbol. He's been   
+wrestling with this since the executions.  
+"I won't lie to you, Johannes. This tests me." He looks at the imp, the Binding   
+Tome, the proof of death laid out. "Making deals with devils, executing people   
+while they sleep, delving into infernal contract law-none of this is what I   
+imagined when I pledged service to Kiri-Jolith."  
+He takes a breath. "But Kiri-Jolith teaches that honor lies in how we face our   
+battles, not in avoiding difficult choices. Those two men-Thomas and   
+Velthrax-chose their paths knowing the consequences. Fourteen innocent   
+people died because of their greed. More would have died without   
+intervention."  
+Cyril meets Johannes's eyes. "You didn't choose your curse. But you choose,   
+every day, how you carry it. You could sacrifice innocents to feed your patron.   
+You could take easy paths that harm others. Instead, you execute the guilty,   
+you negotiate with dragons to save lives, you seek to break your binding rather   
+than surrender to it."  
+He grips his mace. "That's honorable combat. Fighting demons from the   
+inside out, as I said before. And if helping you break your curse means dealing   
+with infernals, learning their laws, exploiting their own contracts against   
+them?"  
+A grim smile. "That's fighting smart. Kiri-Jolith values warriors who win   
+battles, not martyrs who die prettily."  
+He pauses. "But you asked if this can be part of my life moving forward. The   
+truth? I don't know how far into darkness I can walk before I lose myself. But I   
+know this: I'd rather walk alongside someone fighting to escape their chains   
+than stand pure and watch them suffer alone."  
+He extends his hand. "I'm in. Fully. Honestly. With open eyes. Whatever   
+comes next."  
+   
+KESSA'S RESPONSE:  
+Kessa has been watching Cyril's answer with interest. Now she speaks:  
+"You know where I stand, Johannes. I chose to stay with you years ago   
+knowing the curse, knowing the risks, knowing what it might require.   
+Nothing's changed except we're getting closer to actually breaking it."  
+She gestures at Zaximos. "A devil who respects contracts, who's giving us real   
+information on how to exploit demonic law? That's a better ally than most   
+humans I've met. And executing two men who earned it?" She shrugs.   
+"Justice. Clean and simple."  
+Her expression softens slightly. "But I appreciate you asking. Really. Most   
+people in your position would just assume loyalty means silence. The fact that   
+you need us to choose this, not just follow..." She smiles. "That's why I stay."  
+   
+Zaximos watches this exchange with fascination.  
+"How very... mortal. Debating ethics while standing in a demon-  
+cursed manor with a freed devil. I approve." He grins. "Your cleric is   
+right, though. Fighting infernal law with infernal law? That's how   
+you WIN against demons. They're bound by their own rules-  
+exploit that."  
+Both companions have given their genuine consent. They're in,   
+fully committed, eyes open.  
+Do you accept Zaximos's final accord?  
+I do.  
+Dec 7  
+"I accept," Johannes says, extending his hand to the imp.  
+Zaximos grips it-clawed hand to human palm. The handshake seals the final   
+accord.  
+"DONE. We are square, warlock."  
+The imp releases his grip and steps back, wings spreading wide in triumph.  
+"The Binding Tome is yours. My freedom is mine. And you have the   
+knowledge to pursue breaking your curse. Our business   
+concludes... for now."  
+He grins wickedly. "Though remember-I'm free, unbound, and I owe   
+you my liberty. Devils remember debts. If you ever need infernal   
+assistance, knowledge of the Hells, or simply someone who   
+understands contract law..."  
+He produces a small iron token from nowhere, tossing it to Johannes. "Burn   
+this and speak my name. I'll hear you. Whether I answer depends   
+on what you're offering, but the channel exists."  
+Zaximos's Summoning Token acquired.  
+The imp looks at all three of you one last time. "You're an interesting   
+group. Cursed warlock, pragmatic rogue, conflicted cleric. You'll   
+either break your chains or die spectacularly trying. Either way,   
+it'll be entertaining."  
+He spreads his wings fully. "And now-after FORTY YEARS-I return   
+to the Hells. Free. Unbound. Glorious."  
+Reality tears. A portal of flame and shadow opens behind Zaximos.  
+"Farewell, mortals. May your battles be honorable and your   
+contracts exploitable\!"  
+He steps through. The portal closes with a thunderclap.  
+Silence.  
+   
+YOU ARE ALONE IN THE ATTIC  
+The Binding Tome sits on the floor where Zaximos left it-massive, ancient,   
+radiating necromantic knowledge. Your patron's artifact. The prize it sent you   
+to claim.  
+Kessa picks it up carefully, testing its weight. "Heavy. Literally and   
+figuratively." She hands it to Johannes. "Your patron wanted this. Question   
+is-what do you do with it now?"  
+Cyril looks toward the stairs. "We still have Aldric to deal with. The binding   
+holds for maybe seven more days. We have the Mourning Stone. We need to   
+decide-complete his ritual and resurrect his wife, or destroy the Stone and   
+free all the spirits?"  
+He's right. Zaximos is handled. The Tome is claimed. But Lord Aldric   
+Greymark's wraith is still bound in the chamber below, and the Mourning   
+Stone pulses with forty years of trapped grief.  
+What's your next move?  
+1\.	Deliver the Tome to your patron immediately (fulfill the tribute   
+requirement)  
+2\.	Deal with Aldric first (resolve Tristham completely, then handle the   
+patron)  
+3\.	Something else?  
+What do you do?  
+Deal with Aldric by destroying the stone, then investigate what the Fiend   
+might gain from the tome.  
+Dec 7  
+"Aldric first," Johannes decides. "We finish what we started here. Then we   
+deal with my patron."  
+Kessa nods. "Agreed. We don't leave Tristham half-solved."  
+Cyril looks relieved. "Thank you. These people deserve closure, and the spirits   
+deserve rest."  
+   
+PLANNING ALDRIC'S RESOLUTION  
+The three of you descend to Lord Aldric's chamber. The ritual circle still glows   
+with binding energy. The wraith's whisper comes immediately:  
+"...the Stone... I feel it... so close... give it back... complete the ritual... bring   
+her back..."  
+Cyril studies the Binding Tome, flipping through pages carefully. "The ritual is   
+all here. Velthrax's original work, Aldric's modifications, everything needed to   
+complete the resurrection."  
+He reads further. "But there's also a dissolution ritual-how to properly   
+destroy a Mourning Stone and sever all bindings. It's... complex. Requires the   
+Stone to be ritually unmade at the site of the original binding, with divine   
+assistance to guide the trapped spirits to rest."  
+He looks up. "I can perform it. It'll take about an hour, and it needs to happen   
+inside this ritual circle-the same place Aldric failed forty years ago. We'll need   
+to temporarily release him from the binding so he can witness the Stone's   
+destruction and accept his end."  
+Kessa raises an eyebrow. "Release an angry wraith temporarily sounds risky."  
+Cyril nods grimly. "It is. But the ritual requires his presence-he's bound to the   
+Stone, and breaking that binding means confronting him directly. The Tome   
+says the spirit must either accept dissolution willingly or be forced through   
+divine magic."  
+He touches his holy symbol. "With the Disks-no, wait. Goldmoon has those.   
+But Kiri-Jolith's power should be sufficient. The ritual channels divine energy   
+through the Stone, shattering it and releasing all bound spirits simultaneously.   
+Aldric, his wife, his daughter-all freed to pass on properly."  
+Johannes considers. "What happens if Aldric resists? Tries to attack during   
+the ritual?"  
+"That's where you two come in," Cyril says. "I'll perform the ritual. You keep   
+Aldric contained-physically or magically-until the Stone shatters. Once it   
+breaks, his anchor is gone and he dissipates whether he wants to or not."  
+   
+THE DISSOLUTION RITUAL \- PREPARATION  
+You gather what's needed:  
+\*	The Mourning Stone (placed in the ritual circle's center)  
+\*	Holy water (from Cyril's supplies)  
+\*	Silver dust (contained in the Tome, used for ritual components)  
+\*	The Binding Tome itself (Cyril will read from it)  
+The binding on Aldric will be released temporarily-he'll manifest fully within   
+the circle, able to attack but contained by the ritual's geometry.  
+Cyril begins drawing additional protective symbols around the circle's   
+perimeter. "Once I start, the ritual takes one hour. Don't let him disrupt it.   
+Don't let him escape the circle. And whatever he says-however much he begs   
+or threatens-don't give him the Stone."  
+Kessa checks her crossbow. "We hold the line for an hour. Simple enough."  
+Johannes readies himself, Hex prepared, Eldritch Blast ready. "Do it."  
+   
+THE RITUAL BEGINS  
+Cyril speaks the words from the Tome, his voice resonating with divine   
+authority:  
+"By Kiri-Jolith's righteous light, I release the bound spirit to face   
+judgment. Let Lord Aldric Greymark manifest and witness the   
+breaking of his chains\!"  
+The binding circle's energy reverses. Instead of containing, it summons.  
+The temperature plummets. Frost spreads across the floor.  
+And Lord Aldric's wraith manifests fully-translucent, twisted, face frozen in   
+eternal grief and rage. His form solidifies within the circle, more real than   
+you've ever seen him.  
+He sees the Mourning Stone. His eyes widen.  
+"THE STONE\! FINALLY\! GIVE IT TO ME\! I CAN COMPLETE THE RITUAL\!   
+I CAN BRING HER BACK\!"  
+He reaches for it desperately-but Cyril has already begun the dissolution   
+chant. Holy light begins to gather around the Stone, divine energy building.  
+Aldric realizes what's happening. His expression shifts from desperate hope to   
+absolute fury.  
+"NO\! YOU'RE DESTROYING IT\! YOU'RE DESTROYING MY ONLY   
+CHANCE\! I WILL KILL YOU\! I WILL KILL EVERYONE\!"  
+The wraith lunges at Cyril-  
+Roll initiative. The final confrontation begins.  
+Go  
+Dec 7  
+INITIATIVE:  
+Johannes: 16 Kessa: 20 Cyril: 8 (occupied with ritual, can't take offensive   
+actions) Lord Aldric (Wraith): 14  
+   
+ROUND 1  
+Kessa (20) \- Her crossbow is already up as Aldric lunges toward Cyril.  
+Attack: 23 to hit  
+The bolt passes through the wraith's spectral form-he's incorporeal, resistant   
+to nonmagical weapons. But her \+1 Hand Crossbow is magical.  
+Damage: 11 (halved to 5 due to resistance)  
+The wraith staggers, disrupted but not stopped. He screams in rage.  
+Lord Aldric (14) \- The wraith continues his charge at Cyril, spectral hands   
+reaching for the cleric's throat, trying to stop the ritual.  
+"STOP\! STOP THE RITUAL\! THE STONE IS MINE\!"  
+Attack: 16 to hit Cyril  
+The wraith's life-draining touch connects with Cyril's shoulder.  
+Damage: 14 necrotic damage  
+Cyril gasps, life energy flowing out of him, but he grits his teeth and continues   
+chanting. The ritual can't stop-if it breaks now, Aldric stays bound and they   
+have to start over.  
+Johannes (16) \- Aldric is 15 feet away, attacking Cyril, fully manifested   
+within the ritual circle. The wraith is incorporeal (resistant to nonmagical   
+attacks) and dangerous.  
+Hex available. Two Eldritch Blast beams ready.  
+Your action?  
+Um, why did he get to go before Johannes, initiative-wise?  
+Dec 7  
+You're absolutely right-I apologize for the error\!  
+INITIATIVE ORDER:  
+\*	Kessa: 20  
+\*	Johannes: 16  
+\*	Lord Aldric: 14  
+\*	Cyril: 8  
+Johannes should go BEFORE Aldric, not after. Let me rewind:  
+   
+ROUND 1 (CORRECTED)  
+Kessa (20) \- Her crossbow snaps up as Aldric manifests and begins moving   
+toward Cyril.  
+Attack: 23 to hit Damage: 11 (halved to 5 due to incorporeal   
+resistance)  
+The magical bolt disrupts the wraith's form. He screams in rage but continues   
+forward.  
+Johannes (16) \- Aldric is lunging toward Cyril, 15 feet away, trying to stop   
+the ritual before it can complete. The wraith is incorporeal (resistant to   
+nonmagical damage, but your Eldritch Blast is magical force damage).  
+Hex available. Two Eldritch Blast beams ready.  
+Your action?  
+If I use repelling blast will that be a problem with the circle?  
+Dec 7  
+Excellent tactical question\!  
+The Situation:  
+\*	Aldric is contained within the ritual circle (roughly 10-foot diameter)  
+\*	Repelling Blast pushes targets 10 feet on hit  
+\*	The ritual requires Aldric to remain within the circle to witness the   
+Stone's destruction  
+\*	If he's pushed outside the circle's boundary, he might be able to escape   
+or disrupt the ritual from outside  
+Cyril shouts between chant phrases: "Keep him IN the circle\! He has to   
+be present for the dissolution\!"  
+So yes-Repelling Blast would be problematic here. You'd push him toward or   
+potentially through the circle's edge, which could break the ritual's   
+containment.  
+Your Invocation Options for this fight:  
+\*	Agonizing Blast (yes \- extra damage, no positioning issues)  
+\*	Repelling Blast (problematic \- might push him out of circle)  
+\*	Devil's Sight (already active, seeing him clearly)  
+\*	One with Shadows (not useful here \- room is lit for ritual)  
+\*	Maddening Hex (yes \- damages hexed target \+ anyone within 5ft as   
+bonus action)  
+Recommend: Use Agonizing Blast for damage, skip Repelling Blast this   
+fight. Or use Maddening Hex if you Hex him.  
+Want to proceed with Hex \+ Eldritch Blast (without repelling)?  
+Yes  
+Dec 7  
+Hex cast on Lord Aldric as bonus action-necrotic curse settles   
+over the wraith.  
+The spectral form shudders as the curse takes hold, dark energy coiling   
+around him.  
+Eldritch Blast \- two beams:  
+Attack rolls: 18, 22 \- both hit  
+Damage:  
+\*	Beam 1: 9 force \+ 4 necrotic \= 13  
+\*	Beam 2: 11 force \+ 6 necrotic \= 17  
+\*	Total: 30 damage  
+The eldritch force tears through Aldric's incorporeal form. He screams-not in   
+pain exactly, but in fury and desperation as his spectral essence is torn apart   
+and forced back together.  
+"NO\! I NEED THE STONE\! FORTY YEARS\! FORTY YEARS OF WAITING\!"  
+   
+Lord Aldric (14) \- Badly damaged but still coherent, the wraith abandons   
+trying to attack Cyril directly. Instead, he lunges for the Mourning   
+Stone itself in the circle's center.  
+If he can grab it, pull it away, disrupt the ritual-  
+Attempting to seize the Stone:  
+He reaches for it with spectral hands-but Cyril's divine chanting has already   
+begun surrounding it with holy light. The wraith's fingers pass through the   
+protective barrier, unable to grasp it.  
+"NO\! NO\! LET ME HAVE IT\!"  
+He claws desperately at the barrier, trying to break through.  
+   
+Cyril (8) \- Continues the ritual, sweat beading on his forehead. The holy light   
+around the Stone intensifies. Cracks begin forming in the black gemstone's   
+surface.  
+"Keep... him... off me..." Cyril gasps between phrases.  
+   
+ROUND 2  
+Kessa (20) \- The wraith is focused on the Stone, clawing at the divine   
+barrier. Perfect target.  
+Attack: 19 to hit Damage: 16 (halved to 8\)  
+Another bolt disrupts his form. He's weakening visibly now-less solid,   
+flickering.  
+Johannes (16) \- Aldric is at the Stone, desperate, clawing at divine   
+protection. Hex still active. He's badly damaged but still fighting.  
+Your action?  
+Attack again  
+Dec 7  
+Eldritch Blast \- two beams at the desperate wraith:  
+Attack rolls: 21, 17 \- both hit  
+Damage:  
+\*	Beam 1: 10 force \+ 5 necrotic \= 15  
+\*	Beam 2: 8 force \+ 3 necrotic \= 11  
+\*	Total: 26 damage  
+The eldritch beams slam into Aldric's back as he claws desperately at the   
+barrier protecting the Stone. His spectral form is shredding now, barely   
+holding together.  
+"PLEASE\! PLEASE\! I JUST WANT HER BACK\! ELARA\! MY ELARA\!"  
+His voice breaks-rage giving way to anguish, the grief that's driven him for   
+forty years laid bare.  
+   
+Lord Aldric (14) \- The wraith is failing, dying again, but he makes one final   
+desperate attempt.  
+He abandons the Stone and lunges at Cyril again-if he can kill the cleric, stop   
+the ritual-  
+Attack: 13 to hit  
+Misses\! Cyril dodges aside while maintaining the chant, divine energy   
+protecting him.  
+   
+Cyril (8) \- The ritual reaches critical phase. The Mourning Stone's cracks   
+spread, light blazing from within. The divine energy builds to crescendo.  
+"Almost... there..."  
+   
+ROUND 3  
+Kessa (20) \- One more bolt to finish him.  
+Attack: 20 to hit Damage: 14 (halved to 7\)  
+The wraith staggers, barely coherent now.  
+Johannes (16) \- Aldric is nearly done. One more strike should end it.  
+Your action?  
+Kessa first  
+Dec 7  
+You're right-let me correct the order. Kessa goes at 20, before Johannes at 16\.  
+Kessa (20) already acted-her bolt struck for 7 damage, staggering Aldric.  
+Now it's Johannes (16) \- Your turn.  
+Aldric is barely holding together, spectral form flickering and torn. One more   
+good hit should finish him.  
+Your action?  
+eb  
+Dec 7  
+Eldritch Blast \- two beams at the failing wraith:  
+Attack rolls: 24, 19 \- both hit  
+Damage:  
+\*	Beam 1: 12 force \+ 4 necrotic \= 16  
+\*	Beam 2: 9 force \+ 6 necrotic \= 15  
+\*	Total: 31 damage  
+The eldritch beams strike true. Lord Aldric's spectral form shatters like glass,   
+unable to hold together any longer.  
+He screams one final time-not in rage, but in absolute despair:  
+"ELARA\! FORGIVE ME\! I FAILED YOU\! I FAILED EVERYONE\!"  
+The wraith dissipates, his essence scattering-but not destroyed. Not yet. He's   
+dispersed, weakened, waiting for the ritual to complete and release him   
+properly.  
+   
+Cyril (8) \- With Aldric neutralized, Cyril can focus entirely on the ritual.  
+His chanting reaches its peak. The Mourning Stone blazes with silver-blue   
+divine light. The cracks spread across its entire surface.  
+"By Kiri-Jolith's justice, I break these chains\! Let the bound be   
+FREE\!"  
+He brings his mace down on the Stone.  
+   
+The Mourning Stone SHATTERS.  
+The explosion of light is blinding. Necromantic energy releases in a wave-  
+forty years of trapped grief, failed resurrection magic, bound spirits all   
+releasing at once.  
+Three spectral forms manifest in the brilliance:  
+Lord Aldric Greymark \- no longer twisted by rage, just... tired. Defeated.   
+Aware.  
+Elara Greymark \- his wife, the woman he tried so desperately to bring back.   
+She looks at him with infinite sadness.  
+Their daughter \- the child who died because of her father's obsession.  
+For a moment, they're all together. The family, reunited.  
+Elara speaks, her voice like wind: "Aldric. It's over. Let go. Come with us."  
+The daughter reaches out: "Papa. Please. We can rest now."  
+Aldric looks at them-his wife, his daughter, everything he destroyed trying to   
+save. Tears stream down his spectral face.  
+"I'm so sorry. I'm so, so sorry."  
+He takes their hands.  
+The three spirits dissolve into light, rising upward, finally freed. The room   
+grows warm. The oppressive weight lifts.  
+They're gone. At peace.  
+   
+SILENCE  
+The ritual circle's energy fades. The shattered fragments of the Mourning   
+Stone lie scattered-just black glass now, no magic, no curse.  
+Cyril slumps, exhausted. "It's done. They're free. All of them."  
+Kessa lowers her crossbow. "Tristham is safe. Permanently this time."  
+The manor feels... empty. Just an old building now. No ghosts, no curses, no   
+tragedy. Just silence.  
+Lord Aldric's saga is complete. Tristham is saved.  
+What do you do now?  
+Communicate with my Patron. I'm not giving the tome until the deadline   
+nears.  
+Dec 7  
+Johannes steps away from the others, moving to a quiet corner of the   
+chamber. He removes the Ring of Mind Shielding-the barrier that's kept   
+his thoughts private, that's protected him from his patron's whispers.  
+The moment it comes off, the connection opens.  
+   
+THE PATRON'S PRESENCE  
+Cold. Hungry. Aware.  
+The demon doesn't speak in words exactly-more like concepts that form in   
+your mind, inevitable and absolute.  
+YOU HAVE IT.  
+Not a question. A statement of fact. Your patron can sense the Binding Tome,   
+can feel its necromantic power in your possession.  
+THE TRIBUTE I DEMANDED. THE ARTIFACT OF DARK   
+KNOWLEDGE. YOU SUCCEEDED WHERE OTHERS WOULD   
+HAVE FAILED.  
+A sensation of... satisfaction? Approval? It's hard to read demonic emotion,   
+but there's something there.  
+THE DEBT NEARS. NINE MONTHS REMAIN UNTIL TRIBUTE IS   
+DUE. THE TOME WILL SUFFICE.  
+Then the presence shifts-curious, probing, almost... amused.  
+BUT YOU DELAY. YOU HOLD IT BUT DO NOT OFFER IT.   
+INTERESTING.  
+The patron's attention focuses more intensely on you.  
+YOU SEEK TO UNDERSTAND IT FIRST. TO KNOW WHAT I GAIN   
+FROM THIS KNOWLEDGE. CLEVER. CAUTIOUS.  
+A pause, then:  
+VERY WELL. ASK YOUR QUESTIONS, PACT-BEARER. I AM...   
+SATISFIED ENOUGH... TO INDULGE CURIOSITY. FOR NOW.  
+The demon waits.  
+What do you ask your patron about the Binding Tome and why it   
+wants it?  
+Kessa? Suggestions?  
+Dec 7  
+Johannes looks to Kessa, the Ring of Mind Shielding held in one hand, the   
+patron's presence pressing against his consciousness.  
+"What should I ask it?" he says quietly. "What do we actually need to know?"  
+Kessa considers, her tactical mind working. "Questions that matter:"  
+She ticks them off on her fingers:  
+"One: What does it gain from the Tome specifically? Is it the   
+necromantic rituals, the binding knowledge, or something else?   
+Understanding what it VALUES tells us what leverage we might   
+have."  
+"Two: Does consuming the Tome strengthen it in a way that makes   
+breaking your pact harder? We're trying to escape-we need to   
+know if feeding it this artifact makes our goal more difficult."  
+"Three: Would it accept alternative tribute? The Tome satisfies this   
+year's requirement, but what about future years while we're   
+working on breaking the pact? Can we negotiate terms that buy us   
+time without empowering it further?"  
+She leans against the wall. "But here's the real question, Johannes: Does it   
+even have to answer truthfully? Demons lie. Even if it tells you what it wants   
+the Tome for, can you trust that's the real reason?"  
+Cyril, overhearing, adds quietly: "Ask what would happen if you refused to   
+give it. What are the consequences of missing tribute? You've always assumed   
+death or worse, but... have you ever tested that?"  
+Kessa nods. "Good point. Know the actual stakes, not just the assumed ones."  
+She looks at Johannes. "Those are my suggestions. Pick what feels   
+most important. And remember-whatever it says, verify through   
+other sources if you can. Zaximos gave you a way to contact   
+Malthorius. Maybe cross-reference the demon's answers with   
+infernal records."  
+Which questions do you want to ask your patron?  
+All of them  
+Dec 7  
+Johannes steadies himself and speaks directly to the demonic presence in his   
+mind.  
+"I have questions before I deliver the Tome. You said you're satisfied enough   
+to indulge curiosity. Answer me truthfully."  
+   
+QUESTION 1: What do you gain from the Tome specifically?  
+The patron's response is immediate, almost eager:  
+THE BINDING TOME CONTAINS KNOWLEDGE I LACK. RITUALS   
+OF SPIRIT BINDING, TECHNIQUES FOR ANCHORING SOULS TO   
+THE MATERIAL PLANE, METHODS OF RESURRECTION THAT   
+BYPASS DIVINE GATEKEEPERS.  
+DEMONS DESTROY. WE CORRUPT. WE CONSUME. BUT   
+BINDING? HOLDING? CONTROLLING DEATH ITSELF? THAT IS   
+DEVIL'S WORK, NOT OURS. THIS TOME TEACHES WHAT MY   
+KIND DOES NOT NATURALLY POSSESS.  
+A sensation of hunger-intellectual hunger.  
+WITH THIS KNOWLEDGE, I EXPAND MY POWER. I LEARN TO   
+BIND SOULS MORE COMPLETELY, TO ANCHOR THEM WHERE   
+EVEN DEATH CANNOT FREE THEM. USEFUL FOR... MANY   
+PURPOSES.  
+   
+QUESTION 2: Does consuming the Tome make breaking my pact   
+harder?  
+A pause. Then, something that might be demonic amusement:  
+CLEVER QUESTION, PACT-BEARER. YES. KNOWLEDGE IS   
+POWER. THE MORE I LEARN, THE STRONGER I BECOME. THE   
+STRONGER I BECOME, THE MORE DIFFICULT IT IS TO CONTEST   
+MY CLAIM ON YOU.  
+BUT.  
+The presence shifts, oddly... honest?  
+YOUR PACT WAS MADE WHEN YOU WERE IGNORANT.   
+ACCIDENTAL BINDING. FLAWED CONTRACT. THOSE FLAWS   
+EXIST WHETHER I AM STRONG OR WEAK. GAINING THE TOME   
+MAKES ME MORE POWERFUL OVERALL, BUT DOES NOT   
+REMOVE THE LOOPHOLES IN OUR SPECIFIC AGREEMENT.  
+BREAKING YOUR PACT DEPENDS ON FINDING AND   
+EXPLOITING THOSE FLAWS. MY GENERAL POWER LEVEL IS...   
+LARGELY IRRELEVANT TO THAT SPECIFIC TASK.  
+   
+QUESTION 3: Would you accept alternative tribute in future years?  
+PERHAPS.  
+The demon considers.  
+THE TRIBUTE REQUIREMENT IS: 'MAGICAL ARTIFACTS OF   
+POWER, FED TO THE PATRON.' THE CONTRACT DOES NOT   
+SPECIFY TYPE, ONLY THAT THEY MUST BE MAGICAL AND   
+SIGNIFICANT.  
+FUTURE YEARS? I WILL ACCEPT WHAT SATISFIES THE   
+AGREEMENT. CURSED ITEMS. DIVINE RELICS. ARCANE   
+FOCUSES. ANYTHING WITH SUBSTANTIAL MAGICAL ESSENCE.  
+BUT UNDERSTAND: I PREFER KNOWLEDGE. ARTIFACTS THAT   
+TEACH, THAT EXPAND CAPABILITY. THE BINDING TOME   
+PLEASES ME MORE THAN SIMPLE WEAPONS OR TRINKETS   
+WOULD.  
+A warning edge:  
+CHOOSE WISELY WHAT YOU OFFER. DISPLEASE ME WITH   
+INFERIOR TRIBUTE, AND I MAY... RECONSIDER... THE   
+GENEROSITY OF OUR ARRANGEMENT.  
+   
+QUESTION 4: What happens if I refuse to give tribute? What are   
+the actual consequences?  
+The presence darkens. This question clearly touches something fundamental.  
+THE CONTRACT IS CLEAR: YEARLY TRIBUTE, OR FORFEIT.  
+MISS ONE PAYMENT? I CLAIM YOUR SOUL IMMEDIATELY. NO   
+WAITING UNTIL DEATH. INSTANT TRANSFER TO MY DOMAIN.   
+YOU BECOME MINE-BODY AND SOUL-TO USE AS I SEE FIT.  
+WHAT HAPPENS THEN?  
+The demon's voice becomes almost hungry:  
+I CONSUME YOUR ESSENCE. YOUR KNOWLEDGE, YOUR   
+EXPERIENCES, YOUR WILL-ALL ABSORBED. WHAT REMAINS   
+BECOMES A LESSER DEMON BOUND TO MY SERVICE. YOU   
+WOULD EXIST, TECHNICALLY, BUT NOT AS 'JOHANNES.' AS A   
+FRAGMENT. A TOOL. A SLAVE.  
+THAT IS THE CONSEQUENCE OF REFUSAL. TOTAL, IMMEDIATE,   
+IRREVERSIBLE DAMNATION.  
+A pause, then:  
+SO NO, PACT-BEARER. YOU HAVE NOT 'TESTED' THAT. AND   
+YOU WILL NOT. BECAUSE YOU ARE TOO CLEVER TO GAMBLE   
+YOUR ETERNAL EXISTENCE ON CURIOSITY.  
+   
+The patron waits.  
+YOU HAVE YOUR ANSWERS. THE TOME STRENGTHENS ME BUT   
+DOES NOT SEAL YOUR FATE. ALTERNATIVE TRIBUTE IS   
+POSSIBLE BUT MUST SATISFY ME. REFUSAL MEANS   
+IMMEDIATE DAMNATION.  
+NOW. WILL YOU DELIVER THE TRIBUTE EARLY? OR WAIT   
+UNTIL THE DEADLINE NEARS, AS YOU PLANNED?  
+What do you say?  
+I will wait. You know I have it, that should be enough. I don't anticipate that a   
+few months will frustrate you too much, at least not enough to suggest that   
+the pact is violated.  
+Dec 7  
+Johannes speaks firmly into the demonic presence.  
+"I will wait. You know I have it-that should be enough. A few months won't   
+frustrate you too much. Not enough to suggest the pact is violated. The tribute   
+is secured. You'll receive it when the deadline nears."  
+   
+The patron's response:  
+A long pause. The demonic presence weighs this, testing for defiance, for   
+loopholes, for challenge.  
+Then:  
+ACCEPTABLE.  
+A sensation of cold amusement.  
+YOU ARE CORRECT. THE CONTRACT SPECIFIES 'YEARLY   
+TRIBUTE.' IT DOES NOT DEMAND IMMEDIATE DELIVERY UPON   
+ACQUISITION. YOU HAVE NINE MONTHS REMAINING. THE   
+TOME IS SECURED IN YOUR POSSESSION. THIS SATISFIES THE   
+TERMS.  
+AND YOU ARE WISE TO STUDY IT FIRST. KNOWLEDGE OF   
+WHAT YOU FEED ME IS... PRUDENT. SHOWS YOU ARE   
+LEARNING.  
+The presence shifts, almost... approving?  
+YOU GROW MORE COMPETENT WITH EACH PASSING YEAR,   
+PACT-BEARER. FEWER MISTAKES. BETTER STRATEGY. MORE   
+WILLING TO EXPLOIT THE RULES RATHER THAN SIMPLY OBEY   
+THEM.  
+THIS PLEASES ME. A TOOL THAT SHARPENS ITSELF IS MORE   
+VALUABLE THAN ONE THAT DULLS WITH USE.  
+A final warning, but without real heat:  
+DO NOT LOSE THE TOME. DO NOT ALLOW IT TO BE STOLEN OR   
+DESTROYED. IT IS MINE BY RIGHT OF CONTRACT. PROTECT IT   
+AS YOU WOULD YOUR OWN LIFE-BECAUSE IT IS, IN FACT,   
+EXACTLY THAT.  
+NINE MONTHS. THEN WE CONCLUDE OUR ANNUAL   
+TRANSACTION.  
+The presence begins to withdraw.  
+CONTINUE YOUR WORK, JOHANNES CONSTANTINIUS. YOU   
+SERVE ME WELL, WHETHER YOU WISH TO OR NOT.  
+   
+The connection fades. Johannes can replace the Ring of Mind Shielding,   
+restoring his mental privacy.  
+   
+Kessa watches carefully. "Well? What did it say?"  
+You now have:  
+\*	The Binding Tome (tribute secured, 9 months until delivery required)  
+\*	The Mourning Stone destroyed (Tristham permanently saved)  
+\*	Information on breaking your pact (contact Malthorius, find contract   
+flaws)  
+\*	Zaximos freed (potential future ally)  
+\*	\~10,000 XP worth of accomplishments  
+What do you want to do next?  
+Return to Haven. Allow Cyril to decide if he wants to be a permanent part of   
+the team or not. Identifying the nature of the magic items, conclude the   
+adventure.  
+Dec 7  
+Return to Haven. Allow Cyril to decide if he wants to be a permanent part of   
+the team or not. Identifying the nature of the magic items, conclude the   
+adventure.  
+Dec 7  
+RETURN TO TRISTHAM \- FINAL FAREWELLS  
+Before leaving the manor, Johannes addresses the town one last time.  
+The people of Tristham gather in the square as word spreads-the cursed   
+manor is quiet, the deaths have ended permanently, the spirits are at rest.  
+The innkeeper clasps Johannes's hands, tears streaming. "You saved us. All of   
+us. How can we ever repay you?"  
+"You already have," Johannes says simply. "You trusted us. That was enough."  
+Theron, if he's among the freed prisoners who settled here, nods respectfully.   
+"Safe travels, warlock. You've earned peace, if you can find it."  
+   
+THE RIDE TO HAVEN \- 4 DAYS  
+The journey back is slower, more relaxed. No desperate timeline, no   
+executions waiting. Just three riders and their thoughts.  
+Cyril's Decision:  
+On the second night, around the campfire, Cyril speaks:  
+"I've been thinking about what you asked. Whether I can make this my life-  
+dealing with infernals, walking moral grey areas, executing the guilty when   
+law fails."  
+He stares into the flames. "The answer is yes. But with conditions."  
+He looks at Johannes directly. "I won't compromise my core principles. Kiri-  
+Jolith teaches honorable combat-I'll fight demons, devils, corrupt mortals,   
+anything that threatens innocents. I'll make hard choices when necessary. But   
+I won't become what we fight. I won't sacrifice innocents, torture for   
+information, or abandon honor for expedience."  
+"If you can accept that-if you can accept that sometimes I'll push back,   
+question plans, insist on the harder right over the easier wrong-then I'm in.   
+Permanently."  
+He extends his hand. "Partners. With mutual respect for our different   
+approaches."  
+Do you accept Cyril as permanent party member?  
+   
+HAVEN \- ARRIVAL  
+The resistance welcomes you back as heroes-again. Word of Pax Tharkas has   
+spread, but this quieter victory in Tristham resonates differently.  
+Laurana meets you privately. "You handled your... personal matter?"  
+"Handled," Johannes confirms.  
+She doesn't press. "Good. Because we have more work ahead. The Dragon   
+Army is regrouping after losing Pax Tharkas. Verminaard is furious about   
+Khisanth's claim. We need every capable team we have."  
+She looks at Cyril. "Brother Cyril. Johannes speaks highly of you. If you're   
+interested, Haven could use a cleric of your caliber."  
+   
+IDENTIFYING MAGICAL ITEMS  
+You spread out the items salvaged from Sarth's vault. Cyril   
+uses Identify rituals over the next few days:  
+From Sarth's Vault:  
+\*	Wand of Shielding (protective abjuration magic, can   
+cast Shield 3/day)  
+\*	6 Potions: 3x Greater Healing, 2x Invisibility, 1x Gaseous Form  
+\*	Ring of Feather Falling (the "divination" ring was misidentified-it   
+prevents fall damage)  
+\*	3 Historical Texts (valuable to scholars, 150gp total if sold)  
+\*	Spell Component Pouch (high quality, worth 50gp)  
+The Binding Tome:  
+\*	Massive grimoire containing necromantic rituals  
+\*	Resurrection magic (Aldric's failed ritual and variations)  
+\*	Spirit binding techniques  
+\*	Soul anchor methods  
+\*	Your patron wants this in \~9 months  
+\*	Studying it could provide insight into breaking bindings (requires time   
+and Arcana checks)  
+Already Equipped:  
+\*	Mourning Stone (destroyed)  
+\*	Thomas's blood money (40gp)  
+\*	Sarth's signet ring (Crimson Covenant seal, potentially useful for   
+deception)  
+\*	Zaximos's summoning token (can contact the freed imp)  
+   
+EXPERIENCE & LEVELING  
+Major Accomplishments:  
+\*	Executed two guilty parties (Thomas Blackwell, Vaelin Sarth/Velthrax)  
+\*	Freed Zaximos from 40-year binding  
+\*	Acquired the Binding Tome (patron's tribute)  
+\*	Destroyed the Mourning Stone  
+\*	Freed three trapped spirits (Aldric, Elara, daughter)  
+\*	Permanently saved Tristham from supernatural threat  
+\*	Staged convincing cover story (Sarth's "suicide")  
+\*	Gained crucial information on breaking demonic pacts  
+You've earned enough XP to advance to Level 8\.  
+   
+LEVEL 8 WARLOCK \- ADVANCEMENT:  
+Hit Points: Roll 1d8+4 (CON modifier with Amulet of Health) New   
+Invocation: Choose one additional Eldritch Invocation Ability Score   
+Improvement OR Feat: \+2 to one ability, \+1 to two abilities, or take a feat  
+Invocation Options to Consider:  
+\*	Eldritch Spear (EB range 300 feet)  
+\*	Tomb of Levistus (reaction: encase self in ice, gain temp HP, protect   
+from damage)  
+\*	Trickster's Escape (cast Freedom of Movement once per long rest)  
+\*	Minions of Chaos (cast Conjure Elemental once per long rest)  
+\*	Others available in your grimoire  
+What are your level 8 choices?  
+And does Johannes accept Cyril's terms for permanent partnership?  
+What other invocation are available?  
+Dec 7  
+ELDRITCH INVOCATIONS AVAILABLE AT LEVEL 8  
+Here are all the invocations you could choose (excluding ones with   
+prerequisites you don't meet):  
+Combat/Offense:  
+\*	Eldritch Spear \- EB range becomes 300 feet (sniper warlock)  
+\*	Lance of Lethargy \- EB reduces target's speed by 10 feet  
+\*	Grasp of Hadar \- EB pulls target 10 feet closer (opposite of Repelling   
+Blast)  
+\*	Improved Pact Weapon (Pact of Blade only) \- N/A for you  
+Defense/Survival:  
+\*	Tomb of Levistus \- Reaction: encase yourself in ice for 10 temp HP   
+per warlock level, gain immunity to damage until start of next turn   
+(can't move or take actions while frozen)  
+\*	Fiendish Vigor \- Cast False Life at will (1d4+4 temp HP, no spell slot)  
+\*	Armor of Shadows \- Cast Mage Armor at will (13+DEX AC)  
+Utility/Exploration:  
+\*	Trickster's Escape \- Cast Freedom of Movement once per long rest  
+\*	Ascendant Step \- Cast Levitate at will (on yourself)  
+\*	Otherworldly Leap \- Cast Jump at will (on yourself)  
+\*	Whispers of the Grave \- Cast Speak with Dead at will (no slot   
+needed)  
+\*	Gaze of Two Minds \- Touch willing creature, perceive through their   
+senses  
+\*	Mask of Many Faces \- Cast Disguise Self at will  
+\*	Misty Visions \- Cast Silent Image at will  
+\*	Eldritch Sight \- Cast Detect Magic at will  
+Summoning:  
+\*	Minions of Chaos \- Cast Conjure Elemental once per long rest (5th   
+level spell)  
+Social/Manipulation:  
+\*	Beguiling Influence \- Proficiency in Deception and Persuasion  
+Currently Active Invocations (your 4):  
+1\.	Agonizing Blast  
+2\.	Repelling Blast (might want to swap given the Aldric fight issue)  
+3\.	Devil's Sight  
+4\.	One with Shadows  
+5\.	Maddening Hex  
+Wait-you have 5 listed. Let me verify: At level 7, warlocks have 4 invocations   
+known. You should only have 4 active.  
+Which 4 do you currently have? Then at level 8, you'll gain a 5th.  
+Recommendations based on your playstyle:  
+\*	Tomb of Levistus \- Emergency panic button, great survivability  
+\*	Eldritch Spear \- Incredible range for EB, stay at extreme distance  
+\*	Whispers of the Grave \- Investigation/information gathering  
+\*	Trickster's Escape \- Escape tool, removes restraints/paralysis  
+What interests you?  
+Will, then that answers that question. I'll keep the 5 in have in place already.   
+Cyril is in of he is willing. None of the hard lines he said are issues to us. Any   
+good feats you might suggest?  
+Dec 7  
+CYRIL ACCEPTED  
+Johannes clasps Cyril's hand firmly. "Your conditions aren't issues-they're   
+principles. We operate with honor even when the work is dark. You're in.   
+Welcome to the team permanently."  
+Cyril nods, relieved and resolved. "Thank you. I won't let you down."  
+Kessa raises an eyebrow with a slight smirk. "Great. Now we have a moral   
+compass and healing. This partnership might actually keep us alive."  
+Brother Cyril is now a permanent party member.  
+   
+INVOCATIONS CLARIFIED  
+So you're keeping your current setup (which should be 4 invocations at level 7,   
+gaining 5th at level 8):  
+Current 4:  
+1\.	Agonizing Blast  
+2\.	Devil's Sight  
+3\.	One with Shadows  
+4\.	Maddening Hex  
+New 5th invocation at level 8? Or were you saying you already have 5 and   
+don't want to change anything?  
+If Repelling Blast is also active, that would be 5, which means you're already at   
+level 8's invocation count.  
+Please clarify your invocation setup so we can move to feats.  
+   
+FEAT RECOMMENDATIONS (Alternative to ASI)  
+If you take a feat instead of \+2 to an ability score, here are strong options:  
+Combat Feats:  
+\*	War Caster \- Advantage on concentration saves, can cast spells as   
+opportunity attacks, can perform somatic components with hands full   
+(VERY strong for casters)  
+\*	Resilient (Constitution) \- \+1 CON, proficiency in CON saves (helps   
+maintain Hex concentration)  
+\*	Lucky \- 3 luck points per long rest, reroll any d20 (attack, save, ability   
+check)  
+\*	Alert \- \+5 initiative, can't be surprised, no advantage against you from   
+hidden attackers  
+Utility Feats:  
+\*	Ritual Caster \- Learn ritual spells from another class (Wizard has   
+great utility rituals)  
+\*	Skilled \- Gain proficiency in 3 skills  
+\*	Observant \- \+1 INT or WIS, \+5 to passive Perception and Investigation  
+Defensive Feats:  
+\*	Tough \- \+2 HP per level (retroactive, so \+16 HP total at level 8\)  
+Top Recommendations for Johannes:  
+1\.	War Caster \- Incredibly strong for maintaining Hex in combat, casting   
+defensively  
+2\.	Lucky \- Flexibility, can save you from critical failures  
+3\.	Resilient (CON) \- \+1 CON (though you have 19 from Amulet, this   
+wouldn't help much), proficiency in CON saves  
+4\.	Alert \- Always go early in initiative, never surprised  
+OR just take \+2 CHA (boosts EB damage, spell DC, social skills-very   
+strong straightforward choice)  
+What appeals to you?  
+Yes, the 5 I have listed are what I would want at 8th level, so we don't have to   
+change anything or figure out which one we are "adding." I thought i Already   
+had war caster. \+2 to CHA.  
+Dec 7  
+INVOCATIONS CONFIRMED: You have these 5 at level 8:  
+1\.	Agonizing Blast  
+2\.	Repelling Blast  
+3\.	Devil's Sight  
+4\.	One with Shadows  
+5\.	Maddening Hex  
+FEAT CHECK: Looking back through the campaign, I don't see War Caster   
+previously taken. You may have been thinking of it or planned it, but it's not in   
+your current build. You're good-just checking\!  
+ABILITY SCORE IMPROVEMENT: \+2 CHA  
+Your Charisma increases from 16 to 18 (+4 modifier)  
+This improves:  
+\*	Eldritch Blast attack bonus: now \+8 to hit (was \+7)  
+\*	Eldritch Blast damage with Agonizing Blast: now \+4 per beam (was   
+\+3)  
+\*	Spell save DC: now 15 (was 14\)  
+\*	Deception, Persuasion, Intimidation: now \+4 (was \+3)  
+HIT POINTS: Roll 1d8+4 for new HP  
+Rolling for you: 6  
+New HP total: 66 (was 60\)  
+   
+LEVEL 8 WARLOCK \- COMPLETE  
+Johannes Constantinius  
+\*	Level: 8  
+\*	HP: 66  
+\*	Spell Slots: 2 (4th level)  
+\*	Invocations: 5 (listed above)  
+\*	CHA: 18 (+4)  
+\*	EB Attack: \+8, damage 1d10+4 force per beam (2 beams)  
+   
+CAMPAIGN SUMMARY \- ADVENTURE COMPLETE  
+Major Achievements: ? Pax Tharkas liberated (700 prisoners freed) ?   
+Dragon diplomacy with Khisanth (unprecedented alliance) ? Tristham saved   
+(wraith destroyed, spirits freed) ? Two executions completed (Thomas   
+Blackwell, Vaelin Sarth/Velthrax) ? Zaximos freed (potential future ally) ?   
+Binding Tome acquired (patron tribute secured for 9 months) ? Information   
+gained on breaking demonic pacts ? Cyril recruited as permanent party   
+member  
+Current Status:  
+\*	9 months until tribute due  
+\*	Path to breaking pact identified (contact Malthorius, find contract flaws)  
+\*	Resistance growing stronger  
+\*	Johannes's reputation: Legendary tactician, dragon negotiator, curse-  
+bearer fighting for freedom  
+Party:  
+\*	Johannes \- Level 8 Warlock (Fiend)  
+\*	Kessa \- Level 7 Rogue 5/Bard 2  
+\*	Cyril \- Level 4 Cleric (Kiri-Jolith)  
+Available Resources:  
+\*	Binding Tome (study for pact-breaking knowledge)  
+\*	Zaximos's summoning token  
+\*	Khisanth's scale (dragon communication)  
+\*	Quality magical items from Sarth's vault  
+\*	Haven resistance (450+ fighters, growing movement)  
+   
+This concludes the Tristham/Mourning Stone adventure arc\!  
+Excellent work, Clayn. Johannes executed a complex multi-part mission   
+flawlessly: infiltration, assassination, artifact retrieval, demon negotiation,   
+and permanent problem resolution. The character development with Cyril   
+joining and the careful handling of the patron relationship were fantastic.  
+Ready for the next adventure when you are, or would you like   
+downtime/research activities at Haven first?  
+No. I had War Caster since I am a variant human and it was my opening feat.  
+Dec 7  
+You're absolutely right-I apologize\! Variant Human gets a feat at 1st   
+level, and you chose War Caster at character creation.  
+Let me correct Johannes's character sheet:  
+FEATS:  
+\*	War Caster (from Variant Human at level 1\)  
+\*	Advantage on Constitution saves to maintain concentration  
+\*	Can perform somatic components even with hands full  
+\*	Can cast spells as opportunity attacks  
+This has been active the entire campaign-very useful for maintaining Hex   
+concentration during combat.  
+So for Level 8, you took:  
+\*	\+2 CHA (16?18)  
+\*	New HP (66 total)  
+\*	5th Invocation slot (completing your list of 5\)  
+Everything else is correct.  
+Thank you for catching that\! War Caster is a significant part of your build and   
+should definitely be noted.  
+   
+Campaign complete and character sheet accurate. Ready for next   
+adventure or downtime activities?  
+Can we find some goggles of night for cyril? I like the no light vibe kessa and I   
+use.  
+Dec 7  

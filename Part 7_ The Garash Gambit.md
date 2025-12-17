@@ -1,0 +1,2788 @@
+THE GHARASH GAMBIT  
+YOUR PROPOSAL  
+"Gharash," you say, tapping Saltmere on the map. "He's exposed right now,   
+investigating the warehouse destruction. Angry, probably operating with a   
+smaller security detail than usual because he's moving fast."  
+You look up at Laurana. "And we have intelligence he doesn't know we have-  
+Voss's records, his communications, possibly routes and schedules."  
+The room goes very quiet.  
+   
+IMMEDIATE REACTIONS  
+Captain Morna's eyes widen: "You're suggesting we assassinate a Dragon   
+Army Commander? While he's actively investigating an attack?"  
+The dwarf officer-you learn his name is Thoric Ironforge-strokes   
+his beard thoughtfully: "Bold. Insanely risky. But... strategic. Gharash   
+coordinates the entire regional slave network. Without him, their operations   
+fragment."  
+Laurana's expression is unreadable. She's thinking, calculating.  
+Kessa leans forward, energized: "Johannes is right. Gharash is off-  
+balance, focused on Saltmere. He's hunting for ghosts-dead guards he thinks   
+died in an accident, a Harbor Master who 'disappeared.' He doesn't know   
+we're the threat. He doesn't know we have his communications."  
+   
+LAURANA'S ASSESSMENT  
+"If we succeed," Laurana says slowly, "we decapitate Dragon Army operations   
+in this region. Supply lines collapse. Prison transports stop. Verminaard has to   
+divert a new commander, reorganize everything."  
+She meets your eyes. "If we fail, or if we're traced back to Haven, Verminaard   
+sends dragons and a full military response. This city-everyone in it-dies."  
+She's not dismissing the idea. She's weighing it.  
+"Tell me more. What intelligence do we actually have on Gharash? Movement   
+patterns? Security details? Vulnerabilities?"  
+   
+INTELLIGENCE REVIEW  
+Captain Morna pulls out Voss's documents you provided:  
+"From the warehouse records and letters, we know:  
+Gharash's Pattern:  
+\*	Inspects operations personally (hands-on commander)  
+\*	Travels with elite guard unit (10-15 soldiers, well-trained)  
+\*	Uses a wyvern for fast transport (not a true dragon, but dangerous)  
+\*	Paranoid about assassination-varies routes, unexpected arrivals  
+\*	Based out of a Dragon Army command post near Thoradin"  
+From Voss's correspondence: "Gharash was expected 'within the week' of   
+the Saltmere operation. That was five days ago. He's there NOW or arriving   
+soon."  
+The elven scout adds: "Our contacts in Saltmere report Dragon Army   
+activity spiked three days ago. Commander-level officer arrived by wyvern, has   
+been interrogating survivors, inspecting the ruins."  
+   
+THE TACTICAL REALITY  
+Thoric Ironforge lays it out:  
+"Gharash in Saltmere means:  
+Pros:  
+\*	Known location (approximately)  
+\*	He's focused on investigation, not defense  
+\*	Smaller force than if he were at his command post  
+\*	We have local intelligence from your recent operation  
+Cons:  
+\*	Still has elite guards  
+\*	Has a wyvern (mobile, dangerous)  
+\*	Saltmere is Dragon Army territory now-reinforcements available  
+\*	He's actively hunting for information about attackers"  
+He looks at you. "You just struck Saltmere five days ago. Going back into that   
+hornet's nest to kill their commander? That's either brilliant or suicidal."  
+   
+LAURANA'S HARD QUESTIONS  
+She's all business now, testing your plan:  
+"One: How do we confirm his exact location and movements?  
+Two: How do we get a strike team into Saltmere without being detected?  
+Three: How do we kill a paranoid commander with elite guards and a   
+wyvern?  
+Four: How do we extract afterward without leading pursuit back to Haven?  
+Five: What's our contingency if this goes wrong?"  
+She crosses her arms. "I won't send people on a suicide mission for glory. If we   
+do this, it has to be surgical. In, kill, out, no trail."  
+She looks at you and Kessa specifically. "You two just pulled off an   
+impossible operation there. Could you do it again? Target a commander   
+instead of a warehouse?"  
+   
+KESSA'S TACTICAL INPUT  
+"It's doable," Kessa says, surprising you slightly with her confidence. "But not   
+with a large force. Gharash will have sentries, counter-intelligence, detection.   
+A big group gets spotted."  
+She traces routes on the map. "Small team. Maybe 4-6 people total. We use the   
+intelligence to predict his movements, set an ambush away from his main   
+force, hit fast, and disappear."  
+She looks at you. "Johannes and I could scout, gather current intel, identify   
+the opportunity. But we'd need support-maybe a distraction, definitely   
+extraction planning."  
+   
+THE DECISION POINT  
+Laurana takes a deep breath.  
+"This is the kind of decision that defines a resistance. Play it safe-we survive   
+but accomplish little. Take the shot-we either strike a massive blow or bring   
+destruction down on Haven."  
+She looks around the room. "I want honest counsel. Should we attempt this?"  
+Captain Morna: "High risk, high reward. We need intelligence first."  
+Thoric Ironforge: "Dwarves don't shy from bold strikes. I say we plan it   
+properly, then do it."  
+The elven scout: "We could use our Saltmere contacts to gather current   
+intelligence on Gharash's location."  
+Garrett speaks up from the side: "These two freed fifty-one of us and   
+burned down Voss's operation. If anyone can pull this off, it's them."  
+All eyes turn to you.  
+   
+THE COMMITMENT  
+Laurana asks directly:  
+"Johannes. Kessa. If I greenlight this operation-if I commit Haven's   
+resources to supporting this strike-are you willing to lead it? To go back into   
+Saltmere, hunt a Dragon Army Commander, and kill him?"  
+"This isn't solo adventuring anymore. This is war. People's lives depend on   
+your success or failure."  
+She extends her hand. "Are you in?"  
+   
+What's your answer?  
+And do you want to:  
+1\.	Commit immediately  
+2\.	Request more intelligence gathering first  
+3\.	Propose specific team composition  
+4\.	Suggest alternative approaches  
+5\.	Something else  
+This is a major decision point in the campaign.  
+Purpose the team: Garrick and his former guards, is willing. They know the   
+layout and have important contacts, like the alchemist. If they'll go the sooner   
+the better, before Gharash has time to solidify things and restore order.  
+Dec 6  
+OPERATION GHARASH \- TEAM   
+ASSEMBLY  
+YOUR PROPOSAL  
+"We go," you say firmly, meeting Laurana's hand with a solid grip. "But we   
+move fast-within two days, before Gharash solidifies control and restores   
+order."  
+You turn to Garrett. "You and your people-Tomms, Olev, Rickard. You know   
+Saltmere's layout, the back streets, the contacts. Including that alchemist who   
+supplied us before."  
+Garrett straightens immediately. "We're in. Absolutely."  
+His brothers Finn and Cole step forward as well. "We know the docks, the   
+patrol routes, where guards drink off-duty," Finn says.  
+Rickard-the grizzled former guard-nods grimly. "I served under   
+Gharash for two years before transferring to Saltmere. I know how he   
+operates, how he thinks."  
+   
+LAURANA'S REACTION  
+She looks impressed despite herself. "You're proposing a strike team of people   
+who just 'died' in that warehouse explosion. Dragon Army thinks you're   
+corpses."  
+Captain Morna catches on immediately: "Which means they won't be   
+looking for you. You're ghosts already."  
+Kessa grins. "Dead men walking into Saltmere to kill their commander.   
+There's poetry in that."  
+   
+THORIC IRONFORGE'S TACTICAL ASSESSMENT  
+The dwarf studies the group. "Let me understand your team composition:  
+Johannes \- Warlock, tactical leader, heavy magical firepower Kessa \-   
+Rogue/Bard, stealth specialist, intelligence gathering   
+Garrett, Finn, Cole \- Local knowledge, contacts, medium combat   
+capability Tomms, Olev \- Former guards, know Dragon Army   
+protocols Rickard \- Served under Gharash, knows his patterns  
+That's eight people. Small enough to move quietly, large enough to handle   
+Gharash's guards if it comes to direct combat."  
+He nods approvingly. "And half your team are 'officially dead' locals who can   
+move through Saltmere without raising immediate suspicion."  
+   
+LAURANA'S STRATEGIC GUIDANCE  
+"Here's what Haven can provide:  
+Intelligence Support:  
+\*	Our Saltmere contacts will gather current information on Gharash's   
+location  
+\*	We'll get you updated guard rotations, patrol schedules  
+\*	The alchemist contact can provide supplies if needed  
+Extraction Plan:  
+\*	We'll position a fast ship north of Saltmere-Captain Marna's network  
+\*	Escape by sea rather than overland (harder to pursue)  
+\*	Rendezvous point outside the city  
+Distraction (if needed):  
+\*	We can create a secondary incident to draw Dragon Army attention  
+\*	Timed to your operation  
+Equipment:  
+\*	Access to Haven's armory for any specific needs  
+\*	Potions, alchemical supplies, whatever you require"  
+She leans forward. "But understand-once you're in Saltmere, you're on your   
+own until extraction. We can't send reinforcements. If things go wrong, you   
+run or you die."  
+   
+RICKARD'S INTELLIGENCE ON GHARASH  
+The older guard speaks up, his voice carrying the weight of experience:  
+"Commander Gharash is methodical and paranoid. Here's what you need   
+to know:  
+Combat Capability:  
+\*	Veteran fighter, plate armor, greatsword  
+\*	Not a spellcaster, but has magic items (probably protective)  
+\*	Skilled tactician-won't engage without advantage  
+Security Pattern:  
+\*	Always 6-8 elite guards within 30 feet  
+\*	Rotates sleeping quarters unpredictably  
+\*	Food taster, checks for poison  
+\*	Varies routes, never announces movements  
+Weaknesses:  
+\*	Arrogant-believes Dragon Army superiority absolves caution  
+\*	Hands-on investigator-will personally inspect evidence  
+\*	Uses his wyvern for intimidation-often tethered nearby  
+Current Behavior (investigating Saltmere):  
+\*	He'll want to examine the warehouse ruins personally  
+\*	He'll interrogate witnesses and survivors  
+\*	He'll probably visit Voss's home (your crime scene)  
+\*	He'll inspect guard posts and security failures"  
+Rickard meets your eyes. "The investigation itself creates opportunities. He'll   
+be exposed, moving between sites, focused on the past attack rather than   
+expecting a new one."  
+   
+THE ALCHEMIST CONTACT  
+Garrett adds: "The alchemist-her name is Mira. She's no fan of the Dragon   
+Army. Sells them what she has to, but she helped us before. She could provide:  
+\*	Current intelligence on Gharash's movements  
+\*	Alchemical supplies (poisons, bombs, etc.)  
+\*	Safe house for staging  
+\*	Possibly even a distraction if we need it"  
+Kessa perks up. "Poison would be ideal for a commander with guards. Even   
+if it doesn't kill him, it weakens him for the actual strike."  
+   
+LAURANA'S FINAL BRIEF  
+"Here's the operation timeline:  
+Day 1 (Today):  
+\*	Equip and prepare  
+\*	Send advance scouts to Saltmere for current intelligence  
+\*	Plan specific approach based on intel  
+Day 2:  
+\*	Strike team departs Haven  
+\*	Rendezvous with local contacts  
+\*	Final intelligence gathering  
+Day 3:  
+\*	Execute operation  
+\*	Extract by sea  
+\*	Return to Haven  
+Total mission length: 72 hours."  
+She looks at each of you. "Questions? Concerns? Resources you need?"  
+   
+GARRETT'S COMMITMENT  
+He and his companions stand together-the "dead" guards who've found new   
+purpose.  
+"We failed to stop Voss for years," Garrett says quietly. "We stood by while   
+people were enslaved. We told ourselves we couldn't make a difference."  
+"Now we can. Gharash orchestrates the whole system. We end him, we save   
+hundreds-maybe thousands."  
+Tomms adds: "And we prove the Dragon Army can bleed."  
+Olev: "That resistance isn't futile."  
+Rickard: "That honor matters more than orders."  
+They look at you-waiting for your leadership.  
+   
+THE COMMITMENT  
+This is your operation now.  
+What do you need to prepare?  
+1\.	Equipment/supplies from Haven's resources?  
+2\.	Specific intelligence requests for scouts?  
+3\.	Contingency planning details?  
+4\.	Training/coordination time with the team?  
+5\.	The Disks of Mishakal \- do you reveal them now for   
+blessing/support? Keep them hidden? Use them yourself?  
+And the big question: What's your actual tactical plan for killing   
+Gharash?  
+\*	Ambush while he's investigating?  
+\*	Poison \+ combat?  
+\*	Assassination in quarters?  
+\*	Lure him into a trap?  
+\*	Something else?  
+Kessa is ready. Your team is committed. Haven is backing you.  
+What's your play, Commander Constantinius?  
+We have the sending stones. Let's get them set up so we can coordinate. And   
+identify all our magic items for attunenent, etc.  
+Dec 6  
+PREPARATION \- MAGICAL ASSETS  
+EXCELLENT THINKING  
+Laurana nods approvingly. "Coordination and proper equipment use. You   
+think like a professional."  
+She gestures to a side room. "Let's inventory everything properly before you   
+deploy."  
+   
+SENDING STONES SETUP  
+The Sending Stones (pair from Voss's study):  
+You pull them out-smooth river stones with arcane runes, perfectly matched.  
+How they work:  
+\*	Each holder can cast Sending to the other stone once per day  
+\*	25-word messages  
+\*	Works across any distance  
+\*	No concentration required  
+Kessa examines them. "Who holds the pair?"  
+Strategic options:  
+1\.	Johannes \+ Laurana (field commander to resistance leader)  
+2\.	Johannes \+ Kessa (split team coordination if needed)  
+3\.	Garrett \+ Laurana (local contact to command)  
+4\.	Someone else  
+Laurana suggests: "I recommend you keep one, I keep the other. If the   
+operation goes wrong, you can call for what help we can provide. If it succeeds,   
+you can confirm immediately so we can prepare for potential retaliation."  
+   
+MAGICAL ITEM INVENTORY \- FULL   
+ASSESSMENT  
+Let's identify what requires attunement and optimize your loadout:  
+   
+JOHANNES'S CURRENT EQUIPMENT  
+Attuned Items (3/3 slots):  
+1\.	Ring of Mind Shielding (attuned) \- Protection from mind   
+reading/scrying  
+2\.	Cloak of Protection (attuned) \- \+1 AC, \+1 saving throws  
+3\.	Rope of Entanglement (attuned) \- Action to entangle, DC 15  
+Non-Attuned Items:  
+\*	Bag of Holding x2  
+\*	Cloak of the Manta Ray (swimming/water breathing)  
+\*	Various potions and consumables  
+Available but not equipped:  
+\*	Wand of Secrets (REQUIRES ATTUNEMENT) \- Detect secret   
+doors/traps  
+\*	Wand of Magic Missiles (NO ATTUNEMENT) \- 7 charges, 1d4+1 force   
+damage per missile  
+   
+KESSA'S CURRENT EQUIPMENT  
+Attuned Items (3/3 slots):  
+1\.	\+1 Rapier (Voss's weapon) (REQUIRES ATTUNEMENT)  
+2\.	Cloak of Elvenkind (REQUIRES ATTUNEMENT) \- Advantage on   
+Stealth  
+3\.	\+1 Hand Crossbow (Dwarven, from Firestorm Peak) (REQUIRES   
+ATTUNEMENT)  
+Non-Attuned Items:  
+\*	\+1 Ornamental Dagger (NO ATTUNEMENT)  
+\*	Bag of Holding (shared access)  
+\*	Various gear  
+   
+AVAILABLE ITEMS IN THE HAUL  
+Require Attunement:  
+\*	 (finds traps/hidden doors)  
+\*	 (Kessa has it)  
+\*	 (Kessa has it)  
+\*	 (Kessa has it)  
+\*	 (Johannes has it)  
+No Attunement Required:  
+\*	Wand of Magic Missiles (7 charges) \- reliable damage dealer  
+\*	Immovable Rod \- creative uses  
+\*	Bag of Tricks \- random animal summoning  
+\*	Eversmoking Bottle \- creates obscuring fog  
+\*	\+1 Dagger (ornamental) \- Kessa already has  
+\*	Oil of Slipperiness  
+Consumables:  
+\*	Potion of Greater Healing (4d4+4)  
+\*	Potion of Heroism (temp HP \+ bless)  
+\*	Potion of Invisibility  
+\*	Dust of Disappearance (invisibility)  
+\*	Scroll of Dimension Door  
+\*	Scroll of Sending  
+\*	Scroll of Tongues  
+\*	Scroll of Lesser Restoration  
+   
+ATTUNEMENT OPTIMIZATION  
+Johannes \- Current Setup is SOLID:  
+\*	Ring of Mind Shielding (essential for patron protection)  
+\*	Cloak of Protection (survivability)  
+\*	Rope of Entanglement (utility/control)  
+Alternative consideration:  
+\*	Swap Rope for Wand of Secrets if you expect traps/ambush locations  
+Kessa \- Current Setup is OPTIMAL:  
+\*	Maxed out combat effectiveness with magical weapons  
+\*	Stealth advantage from cloak  
+\*	Perfect for assassination role  
+   
+TEAM EQUIPMENT DISTRIBUTION  
+For Garrett's Team:  
+Laurana offers from Haven's armory:  
+\*	Basic magical weapons if available  
+\*	Healing potions (distribute among team)  
+\*	Alchemical items (smoke bombs, etc.)  
+From your haul, you could distribute:  
+Wand of Magic Missiles \- Give to Garrett? (No attunement, reliable   
+damage) Immovable Rod \- Garrett/Rickard? (creative tactical   
+uses) Eversmoking Bottle \- Tomms/Olev? (escape/distraction) Bag of   
+Tricks \- Finn/Cole? (chaos/distraction)  
+Consumables distribution:  
+\*	Keep 1 Greater Healing for Johannes  
+\*	Keep 1 Greater Healing for Kessa  
+\*	Distribute remaining potions among team  
+\*	Keep Invisibility/Dimension Door for emergency escape  
+   
+KESSA'S SUGGESTION  
+"Give the Wand of Magic Missiles to Garrett. He's not a caster, but anyone   
+can use it. Three guaranteed hits at 1d4+1 each-that's solid support fire."  
+"The Eversmoking Bottle goes to whoever's creating distractions or   
+covering retreat."  
+"Immovable Rod-Rickard maybe? He's tactical, he'll think of creative   
+uses."  
+She looks at the Bag of Tricks. "This one's wild. Random animals. Could be   
+brilliant or could summon a badger in the middle of an assassination. Your   
+call."  
+   
+SENDING STONE DECISION NEEDED  
+Laurana waits: "So who holds the paired stones? You and me for command   
+coordination?"  
+   
+FINAL LOADOUT DECISIONS  
+What do you want to do?  
+1\.	Sending Stones: Who holds the pair?  
+2\.	Attunement changes: Any swaps for Johannes or Kessa?  
+3\.	Team distribution: Which items go to Garrett's crew?  
+4\.	Consumable allocation: How do you split potions/scrolls?  
+5\.	Special equipment requests: Anything from Haven's armory?  
+And the elephant in the room:  
+The Disks of Mishakal \- Still hidden in your Bag of Holding. Do you:  
+\*	Keep them hidden for this operation  
+\*	Reveal them to Laurana now  
+\*	Use them yourself for divine protection during the mission  
+\*	Wait until after this operation  
+What's your loadout plan?  
+Garrett and laurana. I want to work with the ability to break off from the locals.   
+They aren't there for combat so I want to minimize their exposure to risk. Their   
+knowledge is the most important.  
+Dec 6  
+LOADOUT FINALIZED \- STRATEGIC   
+DEPLOYMENT  
+SENDING STONES ASSIGNMENT  
+Garrett and Laurana \- Excellent tactical choice.  
+"Smart," Laurana says, understanding immediately. "Garrett's your local   
+contact and intelligence asset. If things go sideways, he can communicate   
+directly with command without going through you."  
+She hands one stone to Garrett, pockets the other. "You're the eyes on the   
+ground, Garrett. Keep me informed of the situation. If the mission aborts, you   
+tell me immediately."  
+Garrett accepts it solemnly. "Understood, Commander."  
+Kessa nods approvingly at you. "Good call. Keeps them in   
+communication even if we're deep in combat and can't relay."  
+   
+MISSION ROLE CLARIFICATION  
+You address the team directly:  
+"Garrett, your people are intelligence and support, not frontline combat.   
+Your value is knowledge-layout, contacts, patrol patterns, Gharash's   
+behavior."  
+You look at each of them. "Tomms, Olev, Rickard, Finn, Cole-you get us in   
+position, you provide information, you create distractions if needed. But when   
+the actual strike happens, you're clear of the kill zone."  
+Rickard understands immediately. "We're the support network, not the   
+assault team. Get you to the target, give you what you need, stay out of the way   
+when blades come out."  
+Garrett nods. "We're not soldiers. We're guides. That works."  
+Kessa adds: "And if things go wrong, you extract independently. Don't risk   
+yourselves trying to save us. Get to the rendezvous, get on the ship, report to   
+Laurana what happened."  
+   
+EQUIPMENT DISTRIBUTION \- SUPPORT ROLE   
+FOCUS  
+For Garrett's Team (Non-Combat Focus):  
+Wand of Magic Missiles ? Garrett  
+\*	No attunement required  
+\*	Ranged support if absolutely necessary  
+\*	"Point and shoot" simplicity  
+\*	7 charges for emergency situations  
+Eversmoking Bottle ? Tomms  
+\*	Creates obscuring fog  
+\*	Perfect for distractions or covering retreat  
+\*	Non-combat utility  
+Immovable Rod ? Rickard  
+\*	Tactical creativity (block doors, create anchors, etc.)  
+\*	His military experience will find uses  
+Bag of Tricks ? Finn  
+\*	Controlled chaos for distractions  
+\*	"Pull out a random animal" is perfect for creating diversions  
+\*	Low risk to user  
+Healing Potions Distribution:  
+\*	Garrett: 1 standard healing  
+\*	Tomms: 1 standard healing  
+\*	Olev: 1 standard healing  
+\*	Rickard: 1 standard healing  
+Johannes keeps:  
+\*	1 Potion of Greater Healing (4d4+4)  
+\*	1 Potion of Heroism (temp HP \+ inspiration)  
+\*	1 Potion of Invisibility  
+\*	Dust of Disappearance (emergency escape)  
+\*	Scroll of Dimension Door (emergency escape)  
+Kessa keeps:  
+\*	1 Potion of Greater Healing (4d4+4)  
+\*	Scroll of Lesser Restoration (condition removal)  
+\*	Oil of Slipperiness (escape/infiltration)  
+   
+LAURANA'S ADDITIONAL SUPPORT  
+From Haven's armory, she provides:  
+"For Garrett's team:  
+\*	Quality daggers and shortswords (non-magical but well-made)  
+\*	Leather armor for those who need it  
+\*	Rope, grappling hooks, basic tools  
+\*	Signal whistles (coordinated alerts)  
+\*	Dark cloaks for low visibility"  
+"For Johannes and Kessa:  
+\*	Alchemist's fire (2 flasks)  
+\*	Acid (2 flasks)  
+\*	Antitoxin (2 doses-in case Gharash uses poison)  
+\*	Lock picks (redundancy for Kessa)  
+\*	Caltrops (area denial)"  
+   
+MISSION STRUCTURE CLARIFIED  
+Phase 1 \- Intelligence (Garrett's team leads):  
+\*	Make contact with Mira the alchemist  
+\*	Gather current intel on Gharash's location/patterns  
+\*	Identify opportunity windows  
+\*	Scout escape routes  
+Phase 2 \- Positioning (Support team enables):  
+\*	Garrett's people get Johannes and Kessa into position  
+\*	Set up distractions/diversions if needed  
+\*	Establish fallback points  
+Phase 3 \- Strike (Johannes and Kessa execute):  
+\*	Garrett's team clears the area  
+\*	Johannes and Kessa engage Gharash  
+\*	Support team monitors for complications  
+Phase 4 \- Extraction (Everyone independently):  
+\*	Primary: Sea extraction, Captain Marna's ship  
+\*	Secondary: Overland routes if sea is compromised  
+\*	Garrett reports to Laurana via Sending Stone  
+   
+THORIC IRONFORGE'S TACTICAL BLESSING  
+The dwarf commander looks at the assembled team.  
+"You've got a warlock who can blast people from the shadows, a rogue who's   
+damn near invisible, local guides who know every alley, and magical support   
+items. This is professional."  
+He nods to Garrett's crew. "And you lot-staying out of direct combat isn't   
+cowardice. It's smart. Dead heroes don't win wars."  
+   
+GARRETT'S TEAM ACCEPTANCE  
+Garrett speaks for his people:  
+"We're not offended. We know what we are-former guards who couldn't   
+stand what we were part of. We're here to fix that by helping you succeed, not   
+by pretending we're elite soldiers."  
+Rickard adds: "I've seen too many good people die because they didn't know   
+their role. We'll do our job-get you the intelligence, get you in position, stay   
+the hell out of your way when it's time to work."  
+Tomms grins: "Besides, someone needs to survive to tell the story of how   
+Commander Gharash died."  
+   
+FINAL ATTUNEMENT STATUS  
+Johannes (3/3):  
+1\.	Ring of Mind Shielding  
+2\.	Cloak of Protection  
+3\.	Rope of Entanglement  
+Kessa (3/3):  
+1\.	\+1 Rapier  
+2\.	Cloak of Elvenkind  
+3\.	\+1 Hand Crossbow  
+No changes needed-both optimized for the mission.  
+   
+THE DISKS REMAIN HIDDEN  
+The Disks of Mishakal stay in your Bag of Holding, their presence unknown to   
+Laurana and the resistance.  
+The promise to Khisanth remains unfulfilled-for now. You're still evaluating   
+whether Laurana is worthy, whether this resistance deserves such power,   
+whether the time is right.  
+The Ring of Mind Shielding protects your thoughts. Your patron   
+cannot read your considerations. The decision remains yours   
+alone.  
+   
+LAURANA'S FINAL BRIEFING  
+"You deploy tomorrow at dawn. Tonight, rest. Eat well. Prepare mentally."  
+She looks at you and Kessa specifically. "This is assassination. It's not glorious.   
+It's not clean. But it's necessary."  
+"Gharash has overseen the enslavement of thousands. He's broken families,   
+destroyed lives, fed Verminaard's war machine with human suffering."  
+Her voice hardens. "End him. Send a message that the Dragon Army's   
+commanders aren't safe. That resistance has teeth."  
+She extends her hand. "For Haven. For the fallen. For everyone still in   
+chains."  
+   
+READY TO DEPLOY  
+Tomorrow: Operation Gharash begins.  
+Tonight: Final preparations, rest, and one quiet evening before you   
+walk back into danger.  
+Want to:  
+1\.	Rest and timeskip to departure?  
+2\.	Have conversations with anyone (Kessa, Garrett, Laurana)?  
+3\.	Do anything specific before the operation?  
+4\.	Address the Disks situation privately?  
+What's your move?  
+Rest unless Kessa has suggestions  
+Dec 6  
+THE NIGHT BEFORE  
+KESSA'S THOUGHTS  
+After the briefing concludes and the team disperses to prepare, Kessa catches   
+your arm as you're heading to assigned quarters.  
+"Walk with me a minute?"  
+   
+A QUIET CONVERSATION  
+She leads you to Haven's walls-a quiet section overlooking the valley as the   
+sun sets. The view is beautiful, peaceful. Hard to believe there's a war   
+happening.  
+She's quiet for a long moment, then:  
+"Johannes... we're about to assassinate a Dragon Army Commander. In a city   
+we just burned part of five days ago. With a team of 'dead' men and a wyvern-  
+riding paranoid veteran as our target."  
+She turns to look at you. "I'm not having second thoughts. I'm in. But I want   
+to make sure you are too."  
+Her expression is serious-genuinely checking in.  
+"This isn't like Voss. That was tactical, clean, we controlled every variable. This   
+is walking into active Dragon Army territory to kill someone who's actively   
+hunting for threats. The risk level is..."  
+She trails off, then laughs quietly. "Listen to me. I sound like I'm trying to talk   
+you out of it. I'm not. I just want to make sure we're thinking clearly."  
+   
+HER REAL CONCERN  
+"Here's what's actually on my mind," she says, leaning against the wall.  
+"Garrett and his people are good folk. They deserve a chance to matter, to   
+make amends for standing by too long. But they're not soldiers. If this goes   
+sideways-if Gharash's guards swarm us, if the wyvern gets involved, if   
+reinforcements arrive-they're liabilities."  
+"You made the right call keeping them as support. But we need to   
+be absolutely clear with each other: if things go wrong, we save ourselves   
+first. We don't die trying to protect people who signed up knowing the risks."  
+She meets your eyes. "Can you do that? Because I've seen the way you look at   
+them. Like they're people you're responsible for. And that's... good. It's right.   
+But it can also get you killed."  
+   
+THE TACTICAL REALITY  
+"Here's my professional assessment," she continues, slipping into mission-  
+planning mode:  
+"Best case: We use their intelligence, identify a perfect opportunity, strike   
+when Gharash is isolated, and ghost before anyone realizes what happened.   
+Clean, professional, textbook assassination.  
+Likely case: We identify an opportunity, it's not perfect but it's workable, we   
+engage with some complications, and we have to fight our way clear. Messy   
+but successful.  
+Worst case: Gharash is more paranoid than we expect, we can't isolate him,   
+and we either abort or push anyway and face overwhelming odds."  
+She pauses. "I'm prepared for all three. Are you?"  
+   
+HER DEEPER QUESTION  
+"And here's the thing I keep coming back to..."  
+She's choosing words carefully. "You've got a fiendish patron. You carry some   
+kind of... I don't know, divine protection that I've never asked about because   
+you haven't offered to tell me. You've got layers I don't fully understand."  
+"But tomorrow, when we're in Saltmere, when things get violent-I need to   
+know: Are you all in? Or is there some part of your mind calculating tribute   
+payments and patron demands while we're trying to survive?"  
+It's not accusatory. It's genuine-a partner making sure her partner   
+is focused.  
+"Because if you're not 100% present, if you're wrestling with demonic   
+obligations while a wyvern is diving at us, that's when people die."  
+   
+THE OFFER  
+She softens slightly. "I trust you, Johannes. You've earned that a hundred   
+times over. But tomorrow is different. This is command-sanctioned military   
+assassination. Stakes are higher. Consequences are bigger."  
+"So tell me honestly: Are you good? Focused? Ready?"  
+She grins slightly. "And if you're not, if you need tonight to sort your head   
+out, tell me now. I'd rather delay the operation a day than walk into it with   
+you distracted."  
+   
+SHE WAITS  
+The sun is setting behind the hills, painting everything gold and crimson.   
+Haven's lights are beginning to glow as evening settles in.  
+Kessa stands beside you, your partner, your friend, genuinely checking to   
+make sure you're ready for what's coming.  
+How do you respond?  
+Do you:  
+\*	Reassure her you're focused and ready?  
+\*	Admit concerns about the mission?  
+\*	Tell her about the Disks and your promise to Khisanth?  
+\*	Discuss the patron situation more openly?  
+\*	Something else?  
+This feels like an important moment between you two.  
+Hmm, Kessa knows about the disks. She was there and part of the   
+conversation. The support team stays out of Saltmere. Whatever distracting   
+they do is in the land outside the town. We don't involve anyone other than   
+ourselves and our plan is to retreat to Solace or somewhere other than   
+Haven't for the winter.  
+Dec 6  
+CLARIFICATION & CORRECTION  
+YOU'RE ABSOLUTELY RIGHT  
+My apologies-Kessa was absolutely there during the Xak Tsaroth encounter   
+with Khisanth. She knows about the Disks of Mishakal and your promise to   
+find them a worthy wielder. Let me correct that.  
+And you're right about the tactical plan-Garrett's team stays outside   
+Saltmere, providing intelligence and external support/distractions, not   
+entering the city itself.  
+   
+REVISED CONVERSATION  
+Kessa's actual concern then becomes:  
+"Johannes, I'm focused. Question is-are you?"  
+She leans on the wall, watching the sunset. "We've got the Disks sitting in the   
+bag, waiting for you to decide who's worthy. We've got Laurana running a real   
+resistance. We've got your patron still expecting tribute eventually."  
+"Tomorrow we're walking into an assassination that could change   
+everything-or get us killed. And after that?" She looks at you. "You mentioned   
+retreating to Solace for winter. Not Haven."  
+She's not judging-she's clarifying the plan.  
+"Are we thinking this through? We hit Gharash, succeed or fail, and then... we   
+leave? Don't stick around to help Haven through whatever retaliation comes?   
+Or are you thinking we use Solace as a base but stay engaged?"  
+She turns to face you directly. "I'm with you either way. I just want to make   
+sure you know what you're planning. Because Laurana is treating us like we're   
+joining her resistance long-term. But it sounds like you're thinking more...   
+mobile? Hit and run from different bases?"  
+   
+THE REAL QUESTIONS  
+Kessa gets to the heart of it:  
+"One: Are you ready to kill Gharash tomorrow? Focused, clear-headed,   
+committed?  
+Two: What's the actual plan after? Do we return to Haven or disappear to   
+Solace?  
+Three: Are you any closer to deciding about the Disks? Because Laurana   
+might actually be worthy-she's building something real. Or are you waiting   
+for something else?  
+Four: The patron-is the tribute timeline pressuring any of these decisions?"  
+She spreads her hands. "I trust your judgment, Johannes. I just want to make   
+sure you've actually made the judgments, rather than letting things pile up   
+while we keep moving forward."  
+   
+YOUR RESPONSE?  
+What's your actual thinking on:  
+1\.	Tomorrow's mission \- Are you ready and focused?  
+2\.	Post-operation plan \- Haven vs. Solace, long-term vs. mobile?  
+3\.	The Disks \- Any closer to a decision on Laurana's worthiness?  
+4\.	The patron's timeline \- How much time do you have before tribute is   
+due?  
+Kessa is giving you space to think out loud, organize your thoughts,   
+and clarify the path forward.  
+No, I'm being realistic. A trail leading to Haven is a death sentence from   
+Verminaard. Heading somewhere else minimizes their exposure. We'll tell   
+Laurana before we leave and besides, the same after this will be too great to   
+do anything else in the field this season, so heading in a dissent direction   
+really doesn't hurt us or them.  
+Dec 6  
+STRATEGIC CLARITY  
+KESSA'S UNDERSTANDING  
+"Ah." She nods immediately, getting it. "You're protecting Haven   
+by not returning there. Smart."  
+She thinks it through out loud: "We kill Gharash in Saltmere. Dragon Army   
+investigates. They're already looking for whoever hit the warehouse-now   
+their regional commander is dead too. If we go back to Haven, any trail leads   
+straight to the resistance's main base."  
+"But if we disappear to Solace or somewhere else entirely? The trail goes cold.   
+Verminaard wastes resources hunting ghosts in the wrong direction. Haven   
+stays off the primary target list."  
+She grins. "And you're right-winter's coming. After an operation this big,   
+the heat will be too intense for field work anyway. Better to lay low, let things   
+cool down, plan the next move for spring."  
+   
+THE REALITY CHECK  
+"So the actual plan is:  
+Phase 1: Kill Gharash in Saltmere Phase 2: Extract by sea (Captain Marna's   
+ship) Phase 3: Brief return to Haven to report success and resupply Phase   
+4: Disappear to Solace or elsewhere for winter Phase 5: Spring coordination   
+with Haven for next operations  
+Meanwhile, Haven gets the benefit of Gharash being dead, our gold funding   
+their winter preparations, and plausible deniability when Dragon Army   
+investigators come asking questions."  
+She looks at you seriously. "Does Laurana know this is the plan? Because she's   
+definitely talking like we're joining her command structure long-term."  
+   
+KESSA'S TACTICAL ASSESSMENT  
+"From a pure survival standpoint, you're absolutely right. The best thing for   
+Haven is for us to not be there when Verminaard sends investigators."  
+"We're the weapons that struck. Weapons don't stay at the armory-they get   
+stored somewhere safe until needed again."  
+She pauses. "Though I wonder if Laurana will see it that way, or if she'll feel   
+like we're using Haven's resources and then abandoning them."  
+She shrugs. "Not that it matters if she's upset. You're making the tactically   
+sound choice. I just want you prepared for the conversation when we tell her."  
+   
+THE PATRON TIMELINE  
+"Speaking of timelines-how much time do you actually have before your   
+patron expects tribute? Because that might affect whether we stay in Solace all   
+winter or if we need to be hunting for artifacts."  
+She looks at you seriously. "The Disks protect you for now. But eventually   
+you'll have to hand them over to whoever's worthy, and then you're back to   
+raw exposure unless we've found another solution."  
+   
+FOCUS CHECK  
+"But all that is after tomorrow. Right now, the question is simple:"  
+She meets your eyes directly. "Are you ready to kill Gharash? Clear head,   
+focused intent, no distractions?"  
+She's not doubting you-she's doing the pre-mission check a good   
+partner does.  
+"Because I am. I'm focused. I trust our capabilities. I trust Garrett's intel. I   
+trust that we can pull this off."  
+"I just need to hear you say you're in the same headspace."  
+   
+THE MOMENT  
+The sun has fully set now. Haven's lights glow warmly below. Tomorrow you   
+deploy.  
+Your response?  
+And after you confirm you're ready, do you want to:  
+1\.	Rest for tomorrow  
+2\.	Talk to Laurana about the post-mission plan tonight  
+3\.	Do any final preparation  
+4\.	Something else  
+What's your call?  
+Did kressa forget about the mind protection ring and keeping me from   
+getting used to the Disks? And that wet just gave tribute to the Patron and I   
+have a year until next payment?  
+I'll go talk with Lausanne and make plans for the post operation and what i   
+should expect for next spring. Garrett could leave the sending stone in a cache   
+for us to collect when they pull out before the assassination so we can   
+coordinate from Solace.  
+Dec 6  
+KESSA'S CORRECTION  
+HER EMBARRASSED LAUGH  
+"Right, gods, I'm an idiot." She shakes her head. "You've got the Ring of   
+Mind Shielding now-mental protection independent of the Disks. That's   
+exactly why you're wearing it instead of keeping it as trade goods."  
+She taps her forehead. "Pre-mission jitters making me forget the actual facts.   
+You're protected. The Disks can go to whoever's worthy without leaving you   
+exposed."  
+"And you just paid tribute-what, a month ago? Two? You've got nearly a full   
+year before the next payment is due." She relaxes visibly. "So there's no time   
+pressure. We can winter in Solace, plan properly for spring, not rush into   
+stupid decisions."  
+She looks sheepish. "Sorry. I was catastrophizing problems that don't   
+actually exist. You're in a better position than I was giving you credit for."  
+   
+THE SOLACE PLAN  
+"Alright, so here's the actual situation:  
+\*	You're mentally protected (Ring)  
+\*	You've got time before tribute (nearly a year)  
+\*	The Disks can go to Laurana or whoever without compromising you  
+\*	We winter in Solace after Gharash  
+\*	We coordinate with Haven for spring operations  
+That's... actually a solid plan. Strategic, safe, gives Haven plausible   
+deniability."  
+She nods approvingly. "And the sending stone cache idea is brilliant. Garrett   
+leaves it hidden before we strike. After the operation, Haven collects it. We   
+pick ours up from a separate cache. No direct contact, no trail leading back to   
+us, but we maintain communication for spring coordination."  
+   
+TALKING TO LAURANA  
+"Go talk to her tonight," Kessa says. "She needs to understand this isn't   
+abandonment-it's protecting her. We're the smoking gun. The further we   
+are from Haven when investigators arrive, the safer everyone is."  
+She grins. "Plus, if she understands we're coming back in spring, she can plan   
+operations around our capabilities. We're not disappearing-we're   
+repositioning."  
+   
+FINDING LAURANA  
+You make your way to the command center. Laurana is still there, working late   
+over maps and supply reports by lamplight.  
+She looks up as you enter. "Johannes. Can't sleep either?"  
+She gestures to a chair. "Join me. I find the night before an operation is   
+when the clearest thinking happens-or the worst anxiety. Which is it for   
+you?"  
+   
+THE CONVERSATION  
+How do you want to frame this?  
+The key points to cover:  
+1\.	Post-operation plan: Disappearing to Solace (not Haven) to protect   
+them  
+2\.	Why: Keeping trails away from Haven's main base  
+3\.	Communication: Sending stone cache system for spring coordination  
+4\.	Timeline: Winter in Solace, resume coordination in spring  
+5\.	Reassurance: This isn't abandonment, it's strategic positioning  
+And potentially:  
+\*	The Disks of Mishakal (if you've decided she's worthy)  
+\*	Your actual long-term goals  
+\*	How much you reveal about your patron situation  
+What's your approach with Laurana?  
+No. One Stone stays here so they know how the mission goes. The other stone   
+goes with Garrett to communicate/coordinate until the mission starts, then he   
+and the others pull out of town and leave the Stone for us to pick up on our   
+way to Solace so we can coordinate with Haven over the winter months...  
+Dec 6  
+CORRECTED SENDING STONE PLAN  
+YOU'RE RIGHT \- MUCH BETTER  
+Let me get this straight:  
+Stone 1 (Laurana keeps):  
+\*	Stays at Haven command  
+\*	Receives updates during mission from Garrett  
+\*	Eventually receives updates from you once you retrieve Stone 2  
+Stone 2 (Garrett carries initially):  
+\*	Goes to Saltmere with Garrett's team  
+\*	Used for mission coordination/intelligence updates to Laurana  
+\*	Before the assassination, Garrett's team pulls out and caches Stone   
+2 in a predetermined location  
+\*	You retrieve it after the operation on your way to Solace  
+\*	Allows you to maintain communication with Haven all winter without   
+physical contact  
+This is brilliant because:  
+\*	Laurana gets real-time mission updates from Garrett  
+\*	No communication gap during the operation  
+\*	You maintain coordination capability without returning to Haven  
+\*	No trail connects you to Haven after the strike  
+\*	Perfect operational security  
+   
+CONVERSATION WITH LAURANA  
+She looks up from her maps as you enter. "Johannes. Can't sleep either?"  
+You sit across from her and lay out the plan:  
+"Commander, we need to discuss post-operation logistics."  
+   
+How do you explain:  
+1\.	Why you're not returning to Haven (protecting them from   
+investigation trails)  
+2\.	The sending stone communication plan (Garrett updates during   
+mission, then you retrieve stone for winter coordination)  
+3\.	Wintering in Solace (laying low while heat dies down)  
+4\.	Spring coordination (you're not disappearing, just repositioning)  
+5\.	The benefit to Haven (plausible deniability when Dragon Army   
+investigates)  
+What's your pitch to Laurana?  
+All of the above.  
+Dec 6  
+THE STRATEGIC BRIEF  
+LAYING IT OUT  
+You lean forward, meeting Laurana's eyes directly-commander to   
+commander.  
+"After we kill Gharash, Kessa and I won't be returning to Haven. We'll be   
+heading to Solace for the winter."  
+Laurana's expression shifts-surprise, perhaps concern. You   
+continue before she can object:  
+   
+THE REASONING  
+"When Gharash dies, Verminaard will investigate. Hard. They'll tear apart   
+Saltmere looking for who did it. They'll interrogate survivors, trace   
+movements, hunt for any trail."  
+You tap the map. "If that trail leads back to Haven-to this resistance, to these   
+refugees, to your command structure-Verminaard sends dragons. He sends   
+Highlords. He ends this place and everyone in it."  
+"But if Kessa and I disappear to Solace? The trail goes cold in a completely   
+different direction. Haven becomes just another refugee settlement. Plausible   
+deniability. You can honestly say you don't know who killed their   
+commander."  
+Laurana's expression shifts to understanding, but she's listening   
+carefully.  
+   
+THE COMMUNICATION PLAN  
+"We're not abandoning you. We're protecting you and maintaining   
+coordination. Here's how:"  
+You explain methodically:  
+"During the operation: Garrett carries one sending stone, you keep the   
+other. He provides real-time intelligence updates-Gharash's location, our   
+progress, mission status. You know what's happening as it happens.  
+Before the assassination: Garrett and his team pull out of Saltmere   
+completely. They're support and intelligence, not combatants. They cache the   
+sending stone at a predetermined location outside the city.  
+After we kill Gharash: Kessa and I extract by sea as planned, retrieve the   
+cached stone on our way to Solace, and continue coordination with you   
+throughout the winter.  
+Result: You maintain communication with us. We can coordinate spring   
+operations, share intelligence, plan targets. But there's no physical trail   
+connecting us to Haven. No visits, no witnesses, no evidence."  
+   
+THE WINTER STRATEGY  
+"Realistically, after an operation this big, the heat will be too intense for field   
+work anyway. Dragon Army will be swarming. Winter's coming. It's time to   
+consolidate, resupply, and plan."  
+You gesture to her supply reports. "Haven uses our gold to prepare for winter,   
+fortify defenses, train recruits. You build strength while staying off   
+Verminaard's primary target list.  
+Meanwhile, Kessa and I winter in Solace-different region, different   
+investigators, different trail. We gather intelligence, make contacts, identify   
+targets for spring.  
+When spring comes, we coordinate through the sending stones. You   
+identify strategic targets based on Haven's needs. We hit them with precision.   
+The resistance expands without exposing your main base."  
+   
+THE BENEFIT TO HAVEN  
+"Think about what Dragon Army investigators will find:  
+At Saltmere: Destroyed warehouse, dead Harbor Master, missing   
+commander. No clear culprits, no witnesses who saw the killers clearly, trails   
+going in multiple directions.  
+At Haven: A refugee settlement with legitimate defensive concerns, no   
+obvious connection to Saltmere events, led by a displaced elven princess   
+organizing survival-not assassination.  
+The story writes itself: Gharash was killed by unknown forces-maybe   
+rival Dragon Army factions, maybe independent operators, maybe remnants   
+of destroyed resistance cells. Haven stays below the threshold of 'requires   
+immediate elimination.'"  
+   
+THE SPRING COORDINATION  
+"Come spring, we're not starting from scratch. We have communication. We   
+have shared intelligence. We have coordinated strategy.  
+You can send word: 'Dragon Army is moving supplies through X route' or   
+'Prison camp at Y needs liberating' or 'Commander Z is vulnerable.'  
+We hit the target. The resistance benefits. Haven maintains plausible   
+deniability. We repeat."  
+You lean back. "We become your mobile strike force-too dangerous to ignore,   
+too elusive to catch, always hitting where Verminaard is weak."  
+   
+THE PERSONAL TOUCH  
+"Laurana, I've seen what you're building here. It's real. It's organized. It's what   
+resistance should look like-not scattered survivors hiding in the woods, but   
+coordinated operations with strategic vision."  
+You meet her eyes. "We're not running away. We're not using your resources   
+and disappearing. We're protecting what you've built by keeping the Dragon   
+Army's attention away from it while continuing to hurt their operations   
+from a different angle."  
+A pause. "In spring, when things have cooled down and we've planned   
+properly, we can reassess. Maybe it's safe to operate more closely with Haven.   
+Maybe we identify a target that requires direct coordination. But for winter,   
+after killing Gharash?"  
+"The smartest move is distance."  
+   
+LAURANA'S REACTION  
+She's quiet for a long moment, processing. Her fingers trace routes on the   
+map, thinking through the logic.  
+Finally, she looks up.  
+"You're right." Simple, direct acknowledgment. "If Gharash dies and you   
+return here, you paint a target on everyone in Haven. But if you vanish to   
+Solace..."  
+She nods slowly. "Verminaard wastes resources hunting in the wrong   
+direction. Haven survives winter. We maintain communication and   
+coordination. Spring brings new opportunities."  
+She extends her hand. "Strategic thinking. I appreciate the honesty-you   
+could have just disappeared without explanation. Instead, you're ensuring we   
+understand the plan and maintain capability."  
+A slight smile. "And the sending stone system is clever. Garrett feeds me real-  
+time updates during the operation, then you maintain winter coordination   
+without physical contact. Clean."  
+   
+HER QUESTIONS  
+"A few practical details:  
+One: Where exactly does Garrett cache the stone? We need a location you can   
+find reliably but Dragon Army won't stumble across.  
+Two: Spring timeline-when do we resume active coordination? Early spring   
+when passes clear, or later when you've gathered intelligence?  
+Three: What do I tell the people here? Garrett's group knows you're leading   
+this operation. Others have heard about the 'Saltmere liberators.' When you   
+don't return, there will be questions."  
+She leans forward. "I'll support the plan-I just need to know how to explain it   
+without undermining morale or making people think you abandoned us."  
+   
+YOUR RESPONSE?  
+What are your answers to:  
+1\.	Cache location for the sending stone (specific landmark between   
+Saltmere and Solace?)  
+2\.	Spring timeline for resuming coordination  
+3\.	The cover story \- what should Laurana tell Haven's people about your   
+departure?  
+And is there anything else you want to discuss with her before   
+tomorrow's operation?  
+These aren't details I'm interested in addressing.  
+Dec 7  
+FINALIZING THE PLAN  
+LAURANA'S ACCEPTANCE  
+"Understood. We'll work out the tactical details-cache locations, timelines,   
+cover stories-based on how the operation actually unfolds. No point planning   
+every detail when the situation is fluid."  
+She stands, offering her hand again. "You've given me what I need: strategic   
+clarity and honest communication. The rest we'll handle as professionals."  
+Her grip is firm. "Kill Gharash. Extract safely. We'll coordinate the rest   
+through Garrett and the sending stones."  
+She pauses at the door. "And Johannes? Thank you. For the honesty, for the   
+strategic thinking, and for understanding that sometimes the best way to help   
+is to stay away."  
+A slight smile. "Good hunting tomorrow."  
+   
+THE NIGHT BEFORE  
+You return to your quarters. Kessa is already there, organizing gear for   
+tomorrow.  
+"How'd it go with Laurana?"  
+When you explain, she nods approvingly. "Good. Clean plan, professional   
+execution, everyone understands their role."  
+She sets down the gear. "We should sleep. Tomorrow's going to be intense."  
+   
+DAWN DEPLOYMENT  
+Ready to begin Operation Gharash?  
+Or is there anything else you want to handle tonight before the mission   
+begins?  
+What race is Kressa?  
+Dec 7  
+KESSA'S HERITAGE  
+EXCELLENT QUESTION  
+Looking back through our campaign, I don't think I've ever explicitly stated   
+Kessa's race\! Let me establish this properly.  
+Given her skill set, background, and characterization:  
+Kessa "Keys" Darrow is a Half-Elf.  
+This fits because:  
+\*	Darkvision (60 feet) \- useful for her rogue work  
+\*	Fey Ancestry \- advantage vs. charm, can't be magically put to sleep  
+\*	Lifespan \- Long enough to have developed extensive experience  
+\*	Social adaptability \- Half-elves blend in many cultures (perfect for a   
+rogue/bard)  
+\*	Skill versatility \- Half-elves get extra skill proficiencies  
+Physical description:  
+\*	Late twenties in appearance  
+\*	Dark hair, typically tied back practically  
+\*	Elven features softened by human heritage  
+\*	Lean, athletic build  
+\*	Moves with fluid grace (both elven and trained)  
+   
+DOES THIS WORK?  
+Or did you have a different vision for her? I'm happy to adjust if you imagined   
+her differently\!  
+Is half-elf good, or would you prefer:  
+\*	Human  
+\*	Full elf  
+\*	Another race entirely  
+What's your preference?  
+No preference. That totally works  
+Dec 7  
+DAWN \- OPERATION GHARASH  
+THE MORNING  
+You wake before first light. Kessa is already up, checking her weapons with the   
+practiced efficiency of someone who's done this many times before.  
+The half-elf looks up as you stir. "Slept well?"  
+Outside, Haven is beginning to stir. You can hear the sounds of the city   
+waking-but also the sounds of your strike team assembling.  
+   
+FINAL PREPARATIONS  
+In the courtyard, Garrett's team waits:  
+\*	Garrett \- carrying the sending stone, determined expression  
+\*	Finn and Cole \- his brothers, nervous but resolved  
+\*	Tomms and Olev \- former guards, checking gear  
+\*	Rickard \- the grizzled veteran, calm and professional  
+Laurana and Captain Morna see you off:  
+"Garrett has the stone," Laurana confirms. "He'll update me as intelligence   
+develops. When his team pulls out, they'll cache it for your retrieval."  
+Captain Morna adds: "The extraction ship will be positioned north of   
+Saltmere-Captain Andra commands it. Fast sloop, experienced crew. Signal   
+with three flares when you need pickup."  
+   
+THE DEPARTURE  
+Thoric Ironforge provides final supplies:  
+\*	Alchemist's fire (2 flasks)  
+\*	Signal flares (3)  
+\*	Healing kits  
+\*	Dark travel cloaks  
+"Strike hard, strike clean, get out alive," the dwarf says simply.  
+   
+THE JOURNEY BEGINS  
+Your group departs Haven as the sun rises. Eight people heading south toward   
+Saltmere:  
+Phase 1: Intelligence Gathering (Day 1-2) Phase 2: Strike Planning   
+(Day 2-3)   
+Phase 3: Execution (Day 3\) Phase 4: Extraction  
+   
+TO SALTMERE  
+Ready to begin the operation?  
+Or is there anything you want to address before we transition into the mission   
+itself?  
+Nope, let's go.  
+Dec 7  
+OPERATION GHARASH \- DAY 1  
+THE APPROACH TO SALTMERE  
+Two days of travel bring you within sight of the port city. You stop at a wooded   
+ridge overlooking the approach-far enough to avoid patrols, close enough to   
+observe.  
+Perception Check (Johannes): 17 \+ 1 \= 18 Perception Check   
+(Kessa): 19 \+ 4 \= 23  
+Even from this distance, the changes are obvious:  
+   
+SALTMERE UNDER OCCUPATION  
+What you see:  
+The Harbor:  
+\*	Dragon Army ships now patrol the waters  
+\*	The Iron Tide is docked (Captain Drevik's vessel)  
+\*	Two military transport vessels (reinforcements)  
+\*	The eastern docks remain destroyed (your handiwork \- blackened   
+timbers, collapsed warehouse)  
+The City:  
+\*	Increased guard presence on walls and gates  
+\*	Checkpoints at major intersections (visible even from here)  
+\*	Dragon Army banners flying from key buildings  
+\*	Smoke rising from what looks like... a command post being established  
+Activity Level:  
+\*	Patrols moving in organized patterns  
+\*	Civilian traffic restricted  
+\*	Clear signs of martial law  
+Kessa whistles softly. "They're not investigating. They're occupying.   
+Gharash didn't just come to look around-he's dug in."  
+   
+GARRETT'S INTELLIGENCE  
+Rickard studies the city through a spyglass. "That's Gharash's pattern. When   
+something goes wrong, he doesn't just investigate-he takes control.   
+Probably declared martial law, assumed direct command of local forces,   
+turned Saltmere into a temporary military garrison."  
+Garrett adds: "Which means getting in and out just got harder. But it also   
+means we know where he is-he'll be at the command post, coordinating the   
+occupation."  
+   
+MAKING CONTACT \- MIRA THE ALCHEMIST  
+Garrett's plan: "Mira's shop is in the merchant district, away from the heavy   
+military presence. Finn and I can approach her-we're locals, we 'survived' the   
+warehouse fire by not being there that night. If anyone questions us, we're just   
+residents trying to resume normal life."  
+Rickard nods. "Tomms, Olev, and I stay out here with Johannes and Kessa.   
+We're the ones who are supposed to be dead. Can't risk being recognized."  
+Kessa agrees. "Garrett and Finn make contact with Mira, get current   
+intelligence on Gharash's location, patterns, security. The rest of us stay   
+hidden and plan based on what they learn."  
+   
+GARRETT'S SENDING STONE UPDATE  
+Before Garrett and Finn depart, Garrett activates the sending stone:  
+"Commander Brightblade. Arrived Saltmere. City under martial law.   
+Gharash established command post. Making contact with local asset for   
+intelligence. Will update. Garrett out."  
+A moment later, Laurana's voice responds through the stone:  
+"Received. Proceed with caution. Martial law complicates extraction.   
+Captain Andra's ship standing by. Update when you have actionable   
+intelligence. Brightblade out."  
+   
+INFILTRATION \- GARRETT AND FINN  
+Stealth Check (Garrett): 12 \+ 2 \= 14 Stealth Check (Finn): 15 \+ 3 \= 18  
+The two brothers approach Saltmere carefully, using back roads and timing   
+their approach to avoid patrols. They're locals-they know these paths.  
+You watch from the ridge through Rickard's spyglass as they   
+disappear into the city's outskirts.  
+   
+THE WAIT  
+Four hours pass. The sun climbs toward midday.  
+Kessa keeps watch on patrol patterns. "They're running tight rotations.   
+Six-person squads, overlapping coverage, commanders checking in regularly.   
+This isn't sloppy occupation-this is professional."  
+Rickard confirms: "That's Gharash. He doesn't tolerate slack discipline.   
+Every guard knows they're being watched, evaluated, tested."  
+Cole asks nervously: "What if Garrett and Finn get caught?"  
+Tomms answers quietly: "Then we abort. No rescue attempts-too many   
+guards, too organized. We pull back to the extraction point and report failure   
+to Commander Brightblade."  
+Olev adds grimly: "And hope Garrett doesn't break under interrogation and   
+give up our position."  
+   
+THE RETURN  
+Just before dusk, you spot movement-Garrett and Finn, returning via the   
+same route. They're moving quickly but not frantically. Controlled urgency.  
+They reach your position, breathing hard.  
+Garrett immediately reports:  
+   
+INTELLIGENCE BRIEF \- MIRA'S INFORMATION  
+"Mira's alive and cooperative. Here's what we learned:  
+Gharash's Location:  
+\*	Command post established in the Harbor Master's   
+building (ironic-Voss's old headquarters)  
+\*	Second floor converted to command center  
+\*	Gharash sleeps in reinforced quarters on third floor  
+\*	Twelve elite guards rotate shifts (six on duty, six resting)  
+\*	The wyvern is tethered on the building's roof  
+Daily Pattern:  
+\*	Morning: Inspects reconstruction efforts and interrogates witnesses  
+\*	Midday: Command briefings with officers  
+\*	Afternoon: Personal inspection tours (various locations, unpredictable   
+routes)  
+\*	Evening: Reviews intelligence reports  
+\*	Night: Secured in quarters, heavy guard presence  
+Current Investigation Status:  
+\*	Dragon Army believes warehouse explosion was accidental (munitions   
+mishandling)  
+\*	The staged 'dead guards' story worked-they think it was tragic   
+incompetence  
+\*	BUT Gharash is suspicious-he doesn't believe in convenient accidents  
+\*	He's ordered investigation into Voss's finances, contacts, possible   
+enemies  
+Security Measures:  
+\*	Martial law allows arrest without cause  
+\*	Checkpoints at all major intersections  
+\*	Curfew after dark (civilians indoors, violators imprisoned)  
+\*	Wyvern conducts aerial patrols twice daily  
+Vulnerabilities Identified:  
+\*	Gharash's afternoon inspection tours take him away from the command   
+post  
+\*	Only 3-4 guards accompany him during inspections (rest stay at post)  
+\*	His route varies, but Mira says he always inspects the destroyed   
+warehouse (obsession with understanding what happened)  
+\*	The inspection happens between second and third bell (roughly 2-3   
+PM)  
+Mira's Offer:  
+\*	Can provide poisons if needed  
+\*	Knows a warehouse near the docks (abandoned) for staging  
+\*	Willing to create a distraction if timing is coordinated  
+\*	Wants payment: 50 gold (she's risking her neck)  
+   
+FINN ADDS CRUCIAL DETAIL  
+"The destroyed warehouse area is mostly cleared now, but still restricted.   
+Gharash goes there with minimal guard presence because it's 'secure   
+territory'-no civilians allowed, other guards manning the perimeter."  
+"If we could get into position there before he arrives for his inspection..."  
+He looks at Johannes and Kessa. "You two could be waiting. Ambush him   
+when he's focused on the ruins, only 3-4 guards present, wyvern back at the   
+command post."  
+   
+RICKARD'S TACTICAL ASSESSMENT  
+"It's our best shot. The command post is too fortified-twelve guards, wyvern   
+on the roof, reinforced building. We'd never get in clean.  
+But during his inspection tour? Three or four guards, open terrain, his   
+attention on investigation rather than security?"  
+The veteran nods. "That's when he's vulnerable."  
+   
+THE PLAN TAKES SHAPE  
+Kessa looks at you. "We infiltrate the restricted warehouse area before his   
+inspection. Set up ambush positions. When Gharash arrives with his small   
+guard detail..."  
+She doesn't finish-doesn't need to.  
+Garrett continues: "Mira can create a distraction on the other side of the   
+docks-draw the perimeter guards' attention for a crucial five minutes. Gives   
+you the window to strike and extract before reinforcements arrive."  
+   
+SENDING STONE UPDATE  
+Garrett activates the stone again:  
+"Brightblade. Have actionable intelligence. Gharash vulnerable during   
+afternoon inspection tours. Targeting tomorrow, second bell. Minimal guard   
+presence. Strike team ready. Garrett."  
+Laurana's response comes quickly:  
+"Confirmed. Extraction ship repositioning for rapid pickup. Captain Andra   
+ready. You have authorization. Strike hard. Good hunting. Brightblade out."  
+   
+THE DECISION POINT  
+Tomorrow afternoon. Second to third bell. The destroyed   
+warehouse.  
+Current status:  
+\*	Day 1 complete: Intelligence gathered  
+\*	Day 2 (tomorrow): Execute strike  
+\*	Resources available: Mira's support (50 gold), abandoned   
+warehouse for staging, distraction capability  
+The team looks to you for final planning:  
+Questions to resolve:  
+1\.	Do you pay Mira the 50 gold for her support? (poison,   
+distraction, staging location)  
+2\.	Infiltration approach: How do you and Kessa get into the restricted   
+warehouse area undetected?  
+3\.	Ambush positioning: Where exactly do you set up to maximize   
+surprise?  
+4\.	Support team role: Where do Garrett's people position? (They're   
+staying outside Saltmere)  
+5\.	Extraction plan: How do you get from warehouse to Captain Andra's   
+ship after the kill?  
+6\.	Contingencies: What if Gharash doesn't show, or brings more guards,   
+or the wyvern arrives?  
+   
+What's your tactical plan, Johannes?  
+Buy more gillyweed from Mira, get into the warehouse tonight under cover of   
+darkness, and set up for the assassination. The others have done their job and   
+should get out. We need to forge documents explaining why we're coming   
+into town, since we're not locals to get through the checkpoint, then meet up   
+with Mira. She already knows us. Maybe set up the distraction, then head to   
+Haven before anything happens? Give her 70 gold (50 for job, 20 for silly weed   
+and inconvenience...)  
+Dec 7  
+OPERATION PLANNING \- NIGHT   
+BEFORE  
+THE PLAN SOLIDIFIES  
+You lay it out methodically:  
+"Garrett, your team is done. You've provided the intelligence we   
+needed-perfectly. Now you get out. Tonight. Before anything   
+happens."  
+Garrett starts to protest, but you cut him off. "You're not abandoning us.   
+You're completing your mission. Get clear of Saltmere, cache the sending   
+stone at the predetermined location, and return to Haven. Report success on   
+intelligence gathering."  
+Rickard nods approvingly. "Smart. We're liabilities now-locals who   
+might be recognized, 'dead' men who can't afford to be seen. You two are   
+unknown faces who can move freely."  
+   
+MIRA'S SUPPORT  
+"Finn, one more trip to Mira before you leave. Here's what we   
+need:  
+You count out 70 gold pieces.  
+"Tell her:  
+\*	50 gold for the job as agreed  
+\*	20 gold for gillyweed (enough for two people) and her inconvenience  
+\*	We need her to set up the distraction tomorrow at second bell  
+\*	After she sets it in motion, she should leave Saltmere-get out before   
+anything happens  
+\*	If questioned later, she knows nothing about the actual strike"  
+Finn takes the gold. "Gillyweed for swimming in? Same as you used   
+before?"  
+"Exactly. Kessa and I swim into position tonight, under cover of darkness. No   
+checkpoints, no patrols, no witnesses."  
+   
+FORGED DOCUMENTS  
+Kessa pulls out Voss's seal and papers from your haul. "We've got his   
+official letterhead, his seal, quality parchment. I can forge travel documents."  
+Forgery Check (Kessa with Voss's materials): 18 \+ 7 (Deception   
+expertise) \= 25  
+She works quickly, creating two sets of documents:  
+"By order of the late Harbor Master Voss (gods rest him), these merchants   
+are authorized to conduct business in Saltmere regarding warehouse   
+reconstruction contracts. All guards are to provide assistance and access as   
+needed. \- Signed, Harbor Master's Office"  
+"Dated a week ago," she explains. "Before Voss died, before Gharash arrived.   
+Official enough that checkpoint guards won't question it, vague enough that   
+we're not tied to anything specific."  
+She grins. "And if they ask why we're coming to Saltmere now? We were   
+delayed by road conditions. We only just heard about the 'tragic warehouse   
+accident' and came to offer reconstruction services."  
+   
+GARRETT'S TEAM DEPARTURE  
+Garrett clasps your hand firmly. "We'll cache the stone exactly where we   
+discussed. When you're done-when Gharash is dead-you'll find it waiting."  
+Tomms adds: "We'll tell Commander Brightblade the strike team is in   
+position and proceeding."  
+Olev grins nervously. "Try not to die. I want to hear this story told properly   
+in Haven's taverns."  
+Rickard-the veteran-speaks last: "I served under Gharash for two   
+years. Hated every day of it. Watching good people suffer while following his   
+orders."  
+He meets your eyes. "End him. For everyone he's enslaved, tortured, and   
+killed. Make it hurt."  
+They disappear into the dusk, heading north away from Saltmere.  
+   
+FINN'S FINAL RUN \- MIRA'S SHOP  
+Stealth Check (Finn): 16 \+ 3 \= 19  
+Finn slips into Saltmere one last time as darkness falls. Two hours later, he   
+returns with a leather pouch.  
+"Mira sends her regards." He hands over the gillyweed-enough for two   
+people, several hours of water breathing. "She'll create the distraction   
+tomorrow at second bell. Something involving alchemical smoke near the   
+north docks-draw guards away from the warehouse area."  
+"And she's leaving town tomorrow evening, heading to her sister's place   
+inland. She wants no part of what happens after."  
+He looks at you seriously. "She said to tell you: 'The dragon-men have had   
+this coming. Make it count.'"  
+   
+FINN'S DEPARTURE  
+"That's it then." Finn grips your hand. "We're out. Stone will be cached. Haven   
+will know you're proceeding."  
+He pauses. "Johannes, Kessa-thank you. For everything. For freeing us, for   
+trusting us with this mission, for giving us a chance to matter."  
+And then he's gone, following his brother and the others north into   
+the darkness.  
+   
+ALONE WITH KESSA  
+It's just the two of you now. The ridge overlooks Saltmere-guard patrols   
+visible as moving torches, the harbor lit by lamplight, the ruined warehouse a   
+dark scar on the eastern docks.  
+Kessa checks her gear one final time:  
+\*	\+1 Rapier, \+1 Hand Crossbow, \+1 Dagger  
+\*	Cloak of Elvenkind  
+\*	Potions, tools, rope  
+\*	The forged documents  
+"We swim in tonight using the gillyweed. Get into the warehouse ruins under   
+cover of darkness. Set up ambush positions. Wait for tomorrow afternoon   
+when Gharash arrives for his inspection."  
+She looks at you. "No backup. No support team. No escape plan except our   
+own legs and Captain Andra's ship."  
+A slight smile. "Just like the old days-you, me, and terrible odds."  
+   
+THE SWIM APPROACH \- TONIGHT  
+It's full dark now. Time to move.  
+You approach the harbor from the north, staying in shadows. The water is   
+cold, dark, quiet.  
+Gillyweed consumed: The familiar sensation-gills forming, webbed   
+fingers, water breathing.  
+Stealth Check (Swimming approach \- Johannes): 14 \+ 2 \= 16 Stealth   
+Check (Swimming approach \- Kessa): 19 \+ 6 (Stealth expertise \+ Cloak   
+advantage) \= 25  
+You slip into the water like ghosts. No splashing, no noise. The gillyweed does   
+its work-breathing underwater feels natural, movement is fluid.  
+The harbor at night:  
+\*	Guard patrols on docks (torchlight above)  
+\*	Ships at anchor (silhouettes against stars)  
+\*	The destroyed warehouse ahead (dark, restricted, "secured")  
+You swim beneath the docks, staying deep, using the darkness.  
+   
+INFILTRATING THE WAREHOUSE RUINS  
+Perception Check (Johannes \- underwater): 11 \+ 1 \= 12 Perception   
+Check (Kessa \- underwater): 18 \+ 4 \= 22  
+Kessa signals-she's found it. A collapsed section of the warehouse where your   
+explosion broke through to the water. The opening is submerged, hidden from   
+surface view, perfect for covert entry.  
+You surface inside the ruins, water dripping, gillyweed effect fading.  
+Inside the destroyed warehouse:  
+The space is exactly as you left it-burned timbers, collapsed roof sections,   
+charred debris. But now it's been partially cleared:  
+\*	Dragon Army work crews have removed bodies  
+\*	Some structural damage assessed and marked  
+\*	Evidence of investigation (marked areas, measurement stakes)  
+\*	But it's empty at night-no guards inside, just perimeter   
+patrols  
+This is your ambush site.  
+   
+SETTING UP \- AMBUSH POSITIONS  
+You have all night to prepare. Dawn is 8 hours away. Gharash's inspection is   
+roughly 14 hours away.  
+What do you want to set up?  
+Possible preparations:  
+\*	Ambush positions (high ground, concealment, firing lanes)  
+\*	Escape routes (mark paths, clear debris, prepare exits)  
+\*	Traps or hazards (caltrops, oil slicks, unstable debris)  
+\*	Concealment (places to hide until Gharash arrives)  
+\*	Backup plans (if things go wrong)  
+Kessa whispers: "We've got time. Let's make this perfect."  
+How do you prepare the battlefield?  
+All of the above. If the water entrance we're using is hard to find, maybe we   
+do the smart thing, and use it to exit after the job is done. Since I have my   
+manta ray cloak, there should be more than enough gillyweed for us to stay   
+underwater until dark after the assassination so we can leave undetected?  
+Dec 7  
+PREPARING THE KILL ZONE  
+KESSA'S APPROVAL  
+"Brilliant." She examines the submerged entrance. "They'll never think to   
+watch the water-they're looking for land-based threats. We kill Gharash, slip   
+back through here, swim underwater using the gillyweed and your Manta Ray   
+Cloak, surface far from the docks after dark, signal Captain Andra."  
+She grins in the darkness. "Clean, professional, untraceable."  
+   
+PREPARATION \- ALL NIGHT  
+You have 8 hours until dawn, 14 hours until the strike. Time to make this   
+perfect.  
+   
+1\. AMBUSH POSITIONS  
+Investigation Check (Johannes): 15 \+ 1 \= 16 Investigation Check   
+(Kessa): 21 \+ 5 \= 26  
+Kessa identifies the optimal setup:  
+Position Alpha (Kessa):  
+\*	Elevated position in collapsed second-floor section  
+\*	30 feet up, overlooking the main inspection area  
+\*	Clear firing lanes with hand crossbow  
+\*	Rubble provides hard cover  
+\*	Escape route down to water entrance marked with subtle chalk  
+Position Beta (Johannes):  
+\*	Ground level, behind scorched support beam  
+\*	Perfect angle for Eldritch Blast (60+ feet range)  
+\*	Shadow-heavy area (One with Shadows invisibility ready)  
+\*	Direct line to water entrance (20 feet sprint)  
+The Kill Zone:  
+\*	Central area where Gharash will stand to inspect damage  
+\*	40 feet from your position, 35 feet from Kessa's  
+\*	No cover for him-deliberate clearing by investigation crews  
+\*	His guards will fan out to perimeter (standard security pattern)  
+   
+2\. ESCAPE ROUTES  
+You mark three paths with subtle scratches visible only if you know to look:  
+Primary: Your positions ? Water entrance (underwater   
+exit) Secondary: North wall breach ? Alley system (if water route   
+compromised) Tertiary: Roof access ? Adjacent building (absolute   
+emergency)  
+You clear debris along each route-quiet movement paths, no creaking boards.  
+   
+3\. TRAPS & HAZARDS  
+Using materials from Haven's kit and the warehouse debris:  
+Caltrops:  
+\*	Scattered along southern approach (slows reinforcements)  
+\*	Hidden under ash and debris (not visible to casual inspection)  
+Oil Slick:  
+\*	Alchemist's fire positioned near guard positions  
+\*	If things go wrong, you can ignite and create fire barrier  
+Unstable Debris:  
+\*	Weakened beam rigged to collapse if pulled (blocks pursuit route)  
+\*	Rope attached, ready to yank from your position  
+The beauty: Everything looks natural-fire damage, investigation work,   
+structural instability. No obvious traps.  
+   
+4\. CONCEALMENT  
+For Kessa (elevated position):  
+\*	Drapes burned canvas around her perch  
+\*	Looks like debris accumulation  
+\*	Cloak of Elvenkind provides advantage on Stealth  
+\*	She'll be invisible until she attacks  
+For Johannes (ground level):  
+\*	Shadow-heavy corner created by angling debris  
+\*	One with Shadows \= invisible in dim light/darkness  
+\*	Positioning allows you to see Gharash but remain unseen  
+\*	Devil's Sight lets you see perfectly while hidden in darkness  
+You test sightlines: From where Gharash will stand, neither position is   
+visible. Perfect.  
+   
+5\. BACKUP PLANS  
+If Gharash brings more guards than expected:  
+\*	Abort signal: Kessa whistles twice (sounds like wind through ruins)  
+\*	Both retreat to water, underwater until nightfall  
+\*	Live to try another day  
+If the wyvern arrives:  
+\*	Shadow of Moil (yourself in flame-darkness, attacks have disadvantage)  
+\*	Kessa focuses fire on wyvern's wings  
+\*	Emergency Dimension Door scroll if absolutely necessary  
+If you're discovered before Gharash arrives:  
+\*	Kessa creates distraction, runs to secondary escape  
+\*	You go invisible (One with Shadows), slip to water  
+\*	Rendezvous at Captain Andra's ship  
+If extraction is compromised:  
+\*	Overland route to fallback position (marked on stolen maps)  
+\*	Three days of rations hidden in waterproof cache near water entrance  
+\*	Garrett's cached sending stone for emergency Haven contact  
+   
+DAWN APPROACHES  
+Survival Check (finding concealment for the day): 14 \+ 1 \= 15  
+You and Kessa hide in your prepared positions as dawn breaks. The   
+warehouse ruins remain empty-no guard patrols inside the restricted zone,   
+just perimeter watches.  
+You settle in to wait.  
+   
+THE WAITING \- MORNING TO AFTERNOON  
+First Bell (9 AM): Guard shift change at perimeter. New patrols, but none   
+enter ruins.  
+Between First and Second Bell: You hear activity in Saltmere-normal   
+city sounds, some military orders being shouted, the wyvern's screech once   
+from the command post.  
+Kessa whispers from her position: "Mira's distraction should start at   
+second bell. That's our window."  
+   
+SECOND BELL (2 PM) \- MIRA'S DISTRACTION  
+BOOM.  
+Alchemical explosion from the north docks-thick colored smoke billowing   
+into the sky.  
+Shouts. Running footsteps. Guards rushing toward the distraction.  
+The perimeter around your warehouse thins noticeably.  
+   
+GHARASH ARRIVES \- 15 MINUTES LATER  
+Perception Check (Johannes): 16 \+ 1 \= 17 Perception Check   
+(Kessa): 20 \+ 4 \= 24  
+You hear them before you see them:  
+Heavy armored footsteps. Orders being barked.  
+Through the ruined entrance, Commander Gharash enters with his   
+inspection detail:  
+   
+COMMANDER GHARASH \- VISUAL  
+The man himself:  
+\*	Tall, powerfully built, mid-40s  
+\*	Full plate armor (Dragon Army design, quality craftsmanship)  
+\*	Greatsword on back (well-used, maintained)  
+\*	Commander's insignia and decorations  
+\*	Face scarred, hard, professional soldier's bearing  
+\*	Eyes constantly scanning-paranoid, alert  
+His escort:  
+\*	Four elite guards in half-plate  
+\*	Longswords, crossbows, disciplined formation  
+\*	They fan out as predicted-perimeter security pattern  
+\*	None are looking up at Kessa's position  
+\*	None can see you in the shadows  
+   
+GHARASH INSPECTS THE RUINS  
+He walks into your kill zone, examining the blast damage, the collapsed   
+sections, the investigation markings.  
+"Munitions mishandling," he mutters, voice carrying. "That's what they want   
+me to believe. Convenient. Too convenient."  
+He crouches, examining scorched timbers.  
+"Voss was many things. Corrupt, greedy, ruthless. But careless? Never. This   
+wasn't an accident."  
+One of his guards responds: "Sir, the evidence clearly shows-"  
+"The evidence shows what someone wanted us to find." Gharash   
+stands, anger in his voice. "Someone killed Voss. Destroyed his operation.   
+Made it look like incompetence."  
+He turns, looking around the ruins. His back is to you. 40 feet away.   
+Perfect target.  
+"Whoever did this is still out there. Probably watching. Laughing at how we've   
+accepted their cover story."  
+He has no idea how right he is.  
+   
+INITIATIVE  
+You and Kessa have complete surprise. Gharash is focused on investigation.   
+His guards are watching the perimeter, not the interior.  
+This is the moment.  
+How do you initiate the ambush?  
+Do you:  
+1\.	Both attack simultaneously (coordinated strike)  
+2\.	You hex \+ blast, Kessa follows up (magical opening)  
+3\.	Kessa snipes first, you follow (ranged assassination)  
+4\.	Cast Shadow of Moil first, then attack (protection before   
+engagement)  
+5\.	Something else  
+And specifically-what are your first actions?  
+Kessa is ready. Waiting for your signal.  
+This is it, Johannes. How do you kill Commander Gharash?  
+Arcana check, magical defenses?  
+Dec 7  
+ARCANE ASSESSMENT  
+ANALYZING THE TARGET  
+Good instinct. Before committing to the strike, you study Gharash carefully   
+from your concealed position, looking for magical protections.  
+Arcana Check (Johannes): 14 \+ 3 \= 17  
+   
+WHAT YOU DETECT  
+Gharash is wearing/carrying magical items:  
+Visible auras (to your trained eye):  
+1\.	The Plate Armor \- Faint abjuration magic (likely \+1 or enchanted for   
+protection)  
+2\.	A ring on his left hand \- Moderate abjuration (possibly Ring of   
+Protection or similar defensive magic)  
+3\.	An amulet partially visible under his armor \- Faint abjuration   
+(could be Protection from Energy, or general warding)  
+What you DON'T detect:  
+\*	No active Shield spell or Mage Armor  
+\*	No Stoneskin or similar damage resistance  
+\*	No Globe of Invulnerability  
+\*	No Death Ward or resurrection contingencies (that you can see)  
+\*	No obvious Alarm or Glyph of Warding spells on his person  
+   
+YOUR ASSESSMENT  
+He's a fighter with good magical gear, not a spellcaster. His defenses are:  
+\*	High AC from plate armor (likely 19-20 with magical enhancement and   
+ring)  
+\*	Good saving throws (fighter chassis)  
+\*	Possible damage reduction or resistance from the amulet  
+\*	But no spell-based defenses that would negate your attacks  
+Critical insight: He's relying on physical protection and paranoia, not   
+magical wards. Your Eldritch Blast will damage him normally (force damage),   
+and Kessa's attacks will hit if they beat his AC.  
+   
+TACTICAL RECOMMENDATION  
+Kessa whispers from her position (she can see you   
+analyzing): "Well? What are we looking at?"  
+Based on your analysis:  
+\*	Hex will work (no immunity to curses visible)  
+\*	Eldritch Blast will deal full damage (force damage bypasses most   
+resistances)  
+\*	Maddening Hex psychic damage should work (no mind-blank   
+detected)  
+\*	Kessa's sneak attack will work if she hits  
+\*	Shadow of Moil would give you protection if he counterattacks  
+The guards show no magical auras-standard elite soldiers with good   
+equipment but no enchantments.  
+   
+THE MOMENT HOLDS  
+Gharash is still examining the ruins, back to you, 40 feet away.  
+His four guards are at the perimeter-two at 60 feet, two at 45 feet, watching   
+outward.  
+Complete surprise. Perfect positioning. Target analyzed.  
+Now: How do you strike?  
+What's your opening move?  
+Concurrent attack on Garash. Hex, EB.  
+Dec 7  
+THE ASSASSINATION \- SURPRISE   
+ROUND  
+COORDINATED STRIKE  
+You catch Kessa's eye. She nods, raising her hand crossbow.  
+You focus on Gharash's back, weaving the Hex curse with silent precision   
+while channeling eldritch energy.  
+Three. Two. One.  
+   
+SURPRISE ROUND \- SIMULTANEOUS ATTACK  
+JOHANNES'S STRIKE  
+Hex (Bonus Action): The curse settles on Gharash like a shroud of doom.   
+Dark tendrils coil around him invisibly.  
+Eldritch Blast \#1:  
+\*	Attack Roll: 17 \+ 7 \= 24 vs AC (likely 19-20) ? HIT  
+\*	Damage: 8 \+ 4 (Agonizing) \= 12 force damage  
+\*	Hex Damage: 5 necrotic damage  
+\*	Total: 17 damage  
+Eldritch Blast \#2:  
+\*	Attack Roll: 13 \+ 7 \= 20 vs AC ? HIT  
+\*	Damage: 6 \+ 4 (Agonizing) \= 10 force damage  
+\*	Hex Damage: 3 necrotic damage  
+\*	Total: 13 damage  
+TOTAL JOHANNES DAMAGE: 30  
+Purple-white bolts scream from the shadows, slamming into Gharash's back.   
+The plate armor absorbs some impact, but the force damage punches through,   
+and the necrotic curse eats at his vitality.  
+   
+KESSA'S STRIKE (SIMULTANEOUS)  
+\+1 Hand Crossbow (Sneak Attack \- complete surprise, advantage):  
+\*	Attack Roll (with advantage): 19 \+ 7 \= 26 ? HIT  
+\*	Damage: 5 \+ 4 \= 9 piercing  
+\*	Sneak Attack: 3d6 \= 4 \+ 5 \+ 2 \= 11  
+\*	Total: 20 damage  
+The crossbow bolt takes him in the neck gap between helmet and armor-a   
+perfect shot. Blood sprays.  
+   
+GHARASH'S REACTION  
+TOTAL DAMAGE: 50 HP  
+The Commander staggers forward, dropping to one knee. Blood pours from   
+the neck wound. He's badly hurt but not down-veteran constitution,   
+fighter's endurance.  
+He roars in pain and fury: "AMBUSH\! TO ME\!"  
+His hand goes to his neck, stemming the blood. The other draws his   
+greatsword with practiced speed.  
+His eyes scan the ruins-trying to locate attackers.  
+Perception Check (Gharash, disadvantage from Hex on ability   
+checks):  
+\*	First roll: 14 \- 1 (wounded) \= 13  
+\*	Second roll (disadvantage): 8 \- 1 \= 7  
+\*	Result: 7  
+He sees the general direction of your Eldritch Blast, but he can't pinpoint   
+you in the shadows. Kessa's elevated position remains completely hidden.  
+   
+THE GUARDS REACT  
+Initiative Rolls:  
+\*	Kessa: 17 \+ 4 \= 21  
+\*	Johannes: 13 \+ 2 \= 15  
+\*	Gharash: 11 \+ 1 (wounded) \= 12  
+\*	Elite Guards: 10 \+ 2 \= 12 (tied with Gharash, going after)  
+Initiative Order:  
+1\.	Kessa (21)  
+2\.	Johannes (15)  
+3\.	Gharash (12)  
+4\.	Elite Guards (12)  
+   
+THE GUARDS' POSITIONS  
+The four guards turn toward the commotion:  
+Guard 1 & 2 (60 feet away, near entrance): Drawing weapons, moving   
+toward Gharash  
+Guard 3 & 4 (45 feet away, flanking positions): Raising crossbows, scanning   
+for threats  
+None have clear shots yet-they're reacting, not engaging.  
+   
+ROUND 1 \- KESSA'S TURN  
+Gharash is on one knee, bleeding, searching for threats. The guards are   
+converging but not yet in position.  
+Kessa has another clear shot before they close in.  
+What does she do?  
+Options:  
+\*	Reload and shoot Gharash again (finish him)  
+\*	Switch to rapier, drop down for melee (risky)  
+\*	Target a guard instead (tactical)  
+\*	Hold action for specific trigger  
+I'll handle Kessa's turn unless you want to direct her specifically.  
+   
+YOUR TURN IS COMING  
+After Kessa acts, it's your turn.  
+You have:  
+\*	Hex active on Gharash (concentration)  
+\*	2/2 spell slots remaining  
+\*	Perfect shadow concealment (still hidden)  
+\*	40 feet from Gharash  
+\*	Clear line of sight  
+Gharash is wounded (50 damage taken) but still dangerous. The   
+guards are closing in.  
+What's your plan for Round 1?  
+Garish. You handle kessa.  
+Dec 7  
+ROUND 1 \- KESSA'S TURN  
+FINISHING THE COMMANDER  
+Kessa doesn't hesitate. Gharash is wounded, bleeding, distracted-perfect   
+target.  
+She reloads with practiced speed and takes careful aim at his neck wound.  
+\+1 Hand Crossbow (Sneak Attack \- unseen attacker, advantage):  
+\*	Attack Roll (advantage): 18 \+ 7 \= 25 ? HIT  
+\*	Damage: 6 \+ 4 \= 10 piercing  
+\*	Sneak Attack: 3d6 \= 6 \+ 4 \+ 3 \= 13  
+\*	Total: 23 damage  
+The bolt punches through the existing wound. Gharash's eyes go wide. Blood   
+fountains.  
+He tries to speak, but only blood comes out. His greatsword clatters to the   
+ground.  
+Commander Gharash collapses face-first into the rubble.  
+DEAD.  
+   
+ROUND 1 \- JOHANNES'S TURN  
+The guards see their commander fall. Shock, then rage.  
+Guard 1 shouts: "THEY KILLED THE COMMANDER\! FIND THEM\!"  
+They still haven't pinpointed Kessa's elevated position, but they know roughly   
+where your Eldritch Blasts came from.  
+You're still hidden in shadow, invisible via One with Shadows.  
+Your options:  
+Offensive:  
+\*	Eldritch Blast the nearest guards (thin their numbers)  
+\*	Cast Shadow of Moil (protection \+ advantage on attacks)  
+\*	Maddening Hex bonus action (but Gharash is dead \- transfer Hex first?)  
+Tactical:  
+\*	Start moving toward water exit (40 feet away)  
+\*	Ready action to blast anyone who approaches  
+\*	Create chaos to cover retreat  
+Defensive:  
+\*	Full retreat to water entrance  
+\*	Go invisible and hold position  
+The guards are:  
+\*	Guards 1 & 2: 50 feet away, moving toward Gharash's body  
+\*	Guards 3 & 4: 40 feet away, raising crossbows, scanning  
+What do you do?  
+He'd to Guard 1, eb  
+Dec 7  
+ROUND 1 \- JOHANNES'S TURN   
+(CONTINUED)  
+SHIFTING THE CURSE  
+Hex Transfer (Bonus Action): The dark curse releases Gharash's corpse   
+and coils around Guard 1 like a serpent.  
+Eldritch Blast \- Guard 1:  
+First Bolt:  
+\*	Attack Roll: 11 \+ 7 \= 18 vs AC 16 (half-plate) ? HIT  
+\*	Damage: 7 \+ 4 (Agonizing) \= 11 force damage  
+\*	Hex Damage: 4 necrotic damage  
+\*	Total: 15 damage  
+Second Bolt:  
+\*	Attack Roll: 14 \+ 7 \= 21 ? HIT  
+\*	Damage: 9 \+ 4 (Agonizing) \= 13 force damage  
+\*	Hex Damage: 2 necrotic damage  
+\*	Total: 15 damage  
+TOTAL DAMAGE TO GUARD 1: 30  
+The elite guard screams as purple-white energy slams into him. The first bolt   
+staggers him, the second drops him-lifeless before he hits the ground.  
+Two down. Three guards remaining.  
+   
+ROUND 1 \- GHARASH'S TURN (SKIPPED \- DEAD)  
+The commander's body lies in a spreading pool of blood.  
+   
+ROUND 1 \- ELITE GUARDS' TURN  
+The remaining three guards react:  
+Guard 2 (near entrance, just saw Guard 1 die beside him):  
+\*	Morale Check: 8 \- 2 (commander dead, guard dead) \= 6 (FAILS)  
+\*	"DEMONS\! WE'RE UNDER ATTACK BY DEMONS\!"  
+\*	He runs toward the entrance, fleeing in panic  
+Guard 3 (40 feet away, has crossbow):  
+\*	Fires at your last known position (you're still invisible in shadows)  
+\*	Attack Roll: 12 \+ 5 \= 17 vs your position (but you're unseen \-   
+disadvantage)  
+\*	Second roll (disadvantage): 6 \+ 5 \= 11  
+\*	MISSES \- bolt clatters harmlessly into debris  
+Guard 4 (45 feet away, has crossbow):  
+\*	Also fires at your general area  
+\*	Attack Roll (disadvantage): 9 \+ 5 \= 14 (miss)  
+\*	Second roll: 5 \+ 5 \= 10  
+\*	MISSES \- another bolt goes wide  
+They're shooting blind at shadows and muzzle flash.  
+   
+ROUND 1 COMPLETE \- BATTLEFIELD STATUS  
+Friendlies:  
+\*	Johannes: Hidden in shadows, invisible, 2/2 spell slots, Hex active on   
+Guard 3  
+\*	Kessa: Elevated position, still concealed, loaded crossbow  
+Enemies:  
+\*	Gharash: DEAD  
+\*	Guard 1: DEAD (30 damage from EB)  
+\*	Guard 2: FLEEING toward entrance (morale broken)  
+\*	Guard 3: 40 feet away, has crossbow, HEXED, searching for you  
+\*	Guard 4: 45 feet away, has crossbow, searching for you  
+Tactical situation:  
+\*	Primary objective complete (Gharash dead)  
+\*	2 of 4 guards down  
+\*	1 guard fleeing (will raise alarm soon)  
+\*	2 guards still engaged but can't see you clearly  
+\*	Water exit is 40 feet from your position  
+\*	Mira's distraction still creating chaos outside  
+   
+ROUND 2 \- KESSA'S TURN  
+What does Kessa do?  
+I'll default to her shooting the fleeing guard (prevent alarm) unless you want   
+something else.  
+   
+YOUR TURN COMING  
+What's your plan for Round 2?  
+Options:  
+\*	Finish the remaining guards (prevent alarm)  
+\*	Start retreat to water exit (mission complete)  
+\*	Cast Shadow of Moil (if expecting reinforcements)  
+\*	Something else  
+The clock is ticking. The fleeing guard will reach the perimeter in 6   
+seconds (next turn).  
+What do you do?  
+Guard 3, hex and eb  
+Dec 7  
+ROUND 2 \- KESSA'S TURN  
+STOPPING THE ALARM  
+Kessa sees Guard 2 fleeing toward the entrance-about to alert the entire   
+garrison.  
+\+1 Hand Crossbow (Sneak Attack \- unseen attacker, advantage):  
+\*	Attack Roll (advantage): 16 \+ 7 \= 23 ? HIT  
+\*	Damage: 4 \+ 4 \= 8 piercing  
+\*	Sneak Attack: 3d6 \= 5 \+ 2 \+ 6 \= 13  
+\*	Total: 21 damage  
+The bolt takes him in the back between the shoulder blades. He drops mid-  
+stride, sliding face-first into the rubble.  
+Three down. Two guards remaining.  
+She calls down softly: "Make it quick-reinforcements will come eventually."  
+   
+ROUND 2 \- JOHANNES'S TURN  
+ELIMINATING GUARD 3  
+The Hex curse already coils around Guard 3\. You focus through the shadows,   
+unleashing death.  
+Eldritch Blast \- Guard 3 (HEXED):  
+First Bolt:  
+\*	Attack Roll: 15 \+ 7 \= 22 ? HIT  
+\*	Damage: 6 \+ 4 (Agonizing) \= 10 force damage  
+\*	Hex Damage: 6 necrotic damage  
+\*	Total: 16 damage  
+Second Bolt:  
+\*	Attack Roll: 9 \+ 7 \= 16 ? HIT  
+\*	Damage: 10 \+ 4 (Agonizing) \= 14 force damage  
+\*	Hex Damage: 1 necrotic damage  
+\*	Total: 15 damage  
+TOTAL DAMAGE TO GUARD 3: 31  
+Guard 3 is obliterated-purple-white energy tears through his armor. He's   
+dead before he realizes what hit him.  
+Four down. One guard remaining.  
+   
+ROUND 2 \- GUARD 4'S TURN  
+The last guard standing.  
+He's seen his commander fall. All four of his companions dead in seconds.   
+Invisible attackers striking from nowhere.  
+Morale Check: 4 \- 3 (everyone dead, alone) \= 1 (CRITICAL FAILURE)  
+He drops his crossbow and RUNS.  
+Not toward the entrance-toward the perimeter, screaming:  
+"HELP\! ASSASSINS\! THE COMMANDER IS DEAD\! HELP\!"  
+He's 45 feet from the perimeter guards. He'll reach them in one more   
+turn (6 seconds).  
+   
+ROUND 2 COMPLETE \- SITUATION  
+Friendlies:  
+\*	Johannes: Still hidden, 2/2 spell slots, Hex available to transfer  
+\*	Kessa: Elevated position, loaded crossbow  
+Enemies:  
+\*	Gharash: DEAD (mission complete)  
+\*	Guards 1-3: DEAD  
+\*	Guard 2: DEAD (fleeing, shot by Kessa)  
+\*	Guard 4: FLEEING, 45 feet from perimeter, screaming for help  
+Critical Decision:  
+You have ONE MORE TURN before Guard 4 reaches the perimeter and   
+brings reinforcements.  
+   
+ROUND 3 \- KESSA'S TURN  
+Kessa calls down: "Last one's running\! Your call-drop him or we go   
+NOW?"  
+Options:  
+1\.	Kessa shoots the fleeing guard (stop the alarm, buy more time)  
+2\.	Both retreat immediately (accept the alarm, get to water fast)  
+What do you want Kessa to do?  
+And what's your plan for Round 3?  
+Guard 4\. Hex, eb  
+Dec 7  
+ROUND 3 \- KESSA'S TURN  
+SILENCING THE LAST WITNESS  
+Kessa tracks the fleeing guard, leading the target as he runs.  
+\+1 Hand Crossbow (Long range, moving target):  
+\*	Attack Roll: 13 \+ 7 \= 20 ? HIT  
+\*	Damage: 3 \+ 4 \= 7 piercing  
+\*	Sneak Attack: 3d6 \= 4 \+ 3 \+ 2 \= 9  
+\*	Total: 16 damage  
+The bolt catches him mid-stride. He stumbles, falls, tries to crawl-still   
+reaching toward the perimeter.  
+He's wounded but not down yet.  
+   
+ROUND 3 \- JOHANNES'S TURN  
+THE FINAL KILL  
+Hex Transfer (Bonus Action): The curse leaps to Guard 4\.  
+Eldritch Blast \- Guard 4 (HEXED, prone and crawling):  
+First Bolt:  
+\*	Attack Roll: 18 \+ 7 \= 25 ? HIT  
+\*	Damage: 8 \+ 4 (Agonizing) \= 12 force damage  
+\*	Hex Damage: 4 necrotic damage  
+\*	Total: 16 damage  
+He stops crawling.  
+Second Bolt (insurance):  
+\*	Attack Roll: 12 \+ 7 \= 19 ? HIT  
+\*	Damage: 5 \+ 4 (Agonizing) \= 9 force damage  
+\*	Hex Damage: 3 necrotic damage  
+\*	Total: 12 damage  
+The guard collapses face-first into the ash and rubble. Still.  
+   
+PERFECT SILENCE  
+The warehouse ruins are silent except for:  
+\*	Distant shouts from Mira's distraction (still drawing attention north)  
+\*	Your breathing  
+\*	Kessa's quiet movement as she descends from her perch  
+Bodies:  
+\*	Commander Gharash (dead, neck wound)  
+\*	Elite Guard 1 (dead, Eldritch Blast)  
+\*	Elite Guard 2 (dead, crossbow bolt to back)  
+\*	Elite Guard 3 (dead, Eldritch Blast)  
+\*	Elite Guard 4 (dead, combination fire)  
+Five corpses. Zero survivors. Zero alarm raised.  
+   
+KESSA REACHES YOUR POSITION  
+She's already moving, professional and efficient:  
+"Clean work. Now we move."  
+She's gathering spent crossbow bolts (can't leave evidence), checking the   
+bodies quickly.  
+Perception Check (Kessa \- listening for response): 19 \+ 4 \= 23  
+"Perimeter guards are still focused north-Mira's distraction is holding. But   
+we've got maybe five minutes before someone checks on Gharash or   
+investigates the sounds of combat."  
+   
+THE ESCAPE \- WATER EXIT  
+You both move to the submerged entrance you prepared.  
+Gillyweed consumed: The familiar transformation-gills, webbed digits,   
+water breathing.  
+Kessa also takes the gillyweed. "How long does this last?"  
+"Several hours. More than enough."  
+   
+UNDERWATER \- THE LONG WAIT  
+You slip into the cold harbor water and descend into darkness.  
+The plan: Stay submerged until nightfall (approximately 4-5 hours from   
+now), then surface far from the docks and signal Captain Andra.  
+Stealth Check (Underwater, staying hidden):  
+\*	Johannes: 16 \+ 2 \= 18  
+\*	Kessa (with Cloak of Elvenkind advantage): 17 \+ 6 \= 23  
+You find a perfect hiding spot-beneath a collapsed dock section, deep water,   
+complete concealment. The gillyweed works perfectly. Your Manta Ray Cloak   
+helps you navigate and stay comfortable.  
+   
+ABOVE WATER \- THE DISCOVERY  
+About 30 minutes later, you hear (muffled through water):  
+Horns blowing. Shouting. Running footsteps.  
+They've found the bodies.  
+You hear (distantly):  
+\*	"THE COMMANDER IS DEAD\!"  
+\*	"SEAL THE HARBOR\!"  
+\*	"SEARCH EVERY BUILDING\!"  
+\*	"FIND THEM\!"  
+Through the murky water, you see:  
+\*	Boats launching from docks  
+\*	Guards running along the waterfront  
+\*	Torches being lit despite it being afternoon  
+\*	General chaos and panic  
+But no one looks underwater. No one expects that escape route.  
+   
+THE WAIT CONTINUES  
+Hours pass. The gillyweed sustains you. The water is cold but bearable.  
+Above, the search intensifies:  
+\*	Guard patrols quadruple  
+\*	Buildings being searched  
+\*	Checkpoints locked down  
+\*	The wyvern launches, circling the city  
+But you're invisible beneath the waves.  
+   
+NIGHTFALL  
+Darkness finally falls.  
+The search continues, but with less intensity. Torches dot the waterfront.   
+Patrol boats drift lazily, guards tired from hours of fruitless searching.  
+Kessa signals: Time to move.  
+You swim north, staying deep, using the darkness. A mile from Saltmere's   
+docks, you surface carefully.  
+Perception Check (scanning for pursuit): 15 \+ 1 \= 16  
+No patrol boats nearby. The search is concentrated around Saltmere proper.  
+   
+SIGNAL FOR EXTRACTION  
+You pull out the signal flares from your waterproof gear.  
+Three flares, fired into the night sky.  
+Red. Green. Red.  
+   
+CAPTAIN ANDRA'S RESPONSE  
+Within fifteen minutes, you see sails approaching-fast sloop, running dark,   
+expertly handled.  
+A rope ladder drops over the side.  
+Strong hands pull you aboard. Captain Andra-weather-beaten woman in her   
+fifties-grins.  
+"Heard you killed Commander Gharash. Whole port's in chaos. Well done."  
+Kessa climbs aboard, dripping. "Can we get the hell out of here?"  
+"Already moving." The sloop is turning north, sails catching wind.  
+   
+SAILING NORTH  
+Saltmere disappears behind you. The search lights grow distant.  
+You're safe. You're away. Mission complete.  
+Captain Andra brings hot soup and dry blankets. "We'll have you well north by   
+dawn. Where to after that?"  
+   
+THE SENDING STONE  
+You remember: Garrett cached the second sending stone for you to retrieve.  
+Do you:  
+1\.	Have Captain Andra drop you near the cache location (retrieve   
+stone, then continue to Solace)  
+2\.	Go straight to Solace (retrieve stone on a separate trip)  
+3\.	Something else  
+What's your plan?  
+Before that, Stop bodies of valuables, put in bag of holding.  
+Dec 7  
+LOOTING THE FALLEN  
+WAIT \- REWIND  
+You're absolutely right. Let me back up to right after the combat, before you   
+went underwater.  
+   
+IMMEDIATELY AFTER COMBAT \- LOOTING  
+Kessa is already thinking practically: "We've got maybe five minutes.   
+Strip them fast."  
+You both move quickly through the bodies:  
+   
+COMMANDER GHARASH  
+Equipment:  
+\*	\+1 Plate Armor (requires attunement) \- high quality, Dragon Army   
+commander insignia  
+\*	\+1 Greatsword (requires attunement) \- masterwork blade  
+\*	Ring of Protection (requires attunement) \- \+1 AC and saves  
+\*	Amulet of Health (requires attunement) \- Sets CON to 19  
+\*	Commander's Seal and Papers \- official documents, orders,   
+intelligence  
+\*	Belt Pouch: 80 gold pieces, 3 platinum pieces  
+\*	Map Case: Regional maps with Dragon Army positions marked  
+\*	Signal Horn (military, ornate)  
+Into the Bag of Holding it goes.  
+   
+ELITE GUARDS (4 total)  
+Each guard has:  
+\*	Half-plate armor (non-magical, but quality)  
+\*	Longsword (masterwork, non-magical)  
+\*	Heavy crossbow  
+\*	20 crossbow bolts  
+\*	Belt pouch: 10-15 gold each (total \~50 gold)  
+\*	Dragon Army insignia and identification papers  
+You take:  
+\*	All the gold (130 gold total from guards \+ Gharash)  
+\*	Gharash's magical items (the valuable stuff)  
+\*	Maps and intelligence documents  
+\*	One set of guard armor/weapons (might be useful for disguise   
+later)  
+You leave:  
+\*	The rest of the mundane equipment (too bulky, not valuable enough)  
+\*	Bodies themselves (can't fit five corpses in the bag anyway)  
+   
+TOTAL HAUL FROM ASSASSINATION  
+Magical Items:  
+\*	\+1 Plate Armor (Gharash)  
+\*	\+1 Greatsword (Gharash)  
+\*	Ring of Protection (Gharash)  
+\*	Amulet of Health (Gharash)  
+Currency:  
+\*	80 gold \+ 3 platinum (30 gold value) \= 110 gold  
+\*	50 gold from guards  
+\*	Total: 160 gold  
+Intelligence:  
+\*	Commander's seal and papers  
+\*	Regional maps with Dragon Army positions  
+\*	Official orders and communications  
+Misc:  
+\*	Signal horn  
+\*	One set of guard equipment  
+Time elapsed: 3 minutes  
+   
+NOW THE ESCAPE  
+Kessa finishes stuffing items into your Bags of Holding:  
+"Got everything valuable. Bodies are staying-can't do anything about that."  
+She listens carefully. "Perimeter guards still distracted. We need to move   
+NOW."  
+   
+UNDERWATER ESCAPE (AS PREVIOUSLY   
+DESCRIBED)  
+You consume gillyweed, slip into the water, hide beneath the collapsed dock   
+for 4-5 hours while chaos erupts above.  
+Nightfall. Surface a mile north. Signal Captain Andra.  
+   
+ABOARD THE SHIP \- INVENTORY  
+Now safely aboard and sailing north, you and Kessa inventory the haul   
+properly.  
+Kessa examines the Amulet of Health: "This sets your Constitution to   
+19\. That's... that's a massive survivability boost for anyone."  
+The \+1 Plate Armor: "Heavy, requires attunement, but incredible   
+protection. Fighter's dream."  
+The Ring of Protection: "+1 to AC and all saves. Universally useful."  
+The \+1 Greatsword: "Not our style, but valuable trade goods or gift for   
+Haven's fighters."  
+She grins. "We killed a Dragon Army Commander and got paid for it. That's   
+professional."  
+   
+THE SENDING STONE RETRIEVAL  
+Captain Andra asks: "So where am I actually taking you? You mentioned a   
+cache to retrieve?"  
+The cached sending stone is somewhere between Saltmere and   
+Haven-Garrett would have hidden it on the route north.  
+Options:  
+1\.	Stop at the cache location (retrieve stone tonight/tomorrow)  
+2\.	Go straight to Solace (come back for stone later)  
+3\.	Have Captain Andra drop you somewhere specific  
+What's your plan?  
+Also: Do you want to use the sending stone to contact Laurana NOW (using   
+Gharash's stone \+ Laurana's stone) or wait until you retrieve Garrett's cached   
+stone?  
+Garash had a stone as well?  
+Dec 7  
+CLARIFICATION \- NO SENDING   
+STONE ON GHARASH  
+MY MISTAKE  
+No, Gharash did not have a sending stone. I misspoke.  
+The sending stone situation:  
+\*	Stone 1: Laurana has it (at Haven)  
+\*	Stone 2: Garrett carried it during the mission, then cached it before the   
+strike for you to retrieve  
+You currently have NO sending stone \- you need to retrieve the one   
+Garrett cached.  
+   
+THE CACHE RETRIEVAL  
+Captain Andra waits for direction: "Where to?"  
+The cached stone is somewhere on the route between Saltmere and   
+Haven \- Garrett would have hidden it at a pre-arranged landmark (though we   
+didn't specify exactly where during planning).  
+Logical cache location options:  
+\*	Crossroads shrine (mentioned earlier as Rally Point 1\)  
+\*	Abandoned mill (mentioned as Rally Point 2\)  
+\*	Some other landmark Garrett would know  
+Do you want to:  
+1\.	Head to the cache location first (retrieve stone, then proceed to   
+Solace)  
+2\.	Go straight to Solace (winter there, retrieve stone on a later trip)  
+3\.	Specify where the cache actually is (and we'll go get it)  
+Once you have the stone, you can:  
+\*	Update Laurana on mission success  
+\*	Coordinate over the winter  
+\*	Maintain contact with Haven without physical visits  
+What's your preference?  
+Retrieve Stone, send message, then head for Solace.  
+Dec 7  
+RETRIEVING THE STONE  
+CAPTAIN ANDRA'S COURSE  
+"We'll put you ashore near the crossroads shrine," Captain Andra says,   
+adjusting heading. "That's the most likely spot for a cache-visible landmark,   
+off the main road, easy to find."  
+The sloop glides north through the night.  
+   
+LANDFALL \- THE CROSSROADS SHRINE  
+Dawn breaks as you reach shore. Captain Andra's crew rows you to a   
+secluded beach.  
+"Good hunting," the captain says. "And if you need extraction again, send   
+word through Haven. I owe Commander Brightblade."  
+The sloop disappears north, leaving you and Kessa on the beach.  
+   
+FINDING THE CACHE  
+The crossroads shrine is a half-day's walk inland. Small stone structure   
+dedicated to Mishakal, a traditional waypoint for travelers.  
+Investigation Check (searching for Garrett's cache):  
+\*	Johannes: 14 \+ 1 \= 15  
+\*	Kessa: 19 \+ 5 \= 24  
+Kessa finds it within minutes.  
+Behind a loose stone in the shrine's foundation-carefully hidden but exactly   
+where someone looking would find it.  
+Inside a waterproof leather pouch:  
+\*	The Sending Stone (paired with Laurana's)  
+\*	A note from Garrett:  
+"Commander Constantinius,  
+Mission complete. All team members returned safely to Haven. Commander   
+Brightblade awaits your report. The people here speak of you with hope.  
+Thank you for giving us the chance to matter.  
+\- Garrett”
+
+THE MESSAGE TO LAURANA  
+You hold the sending stone, activating it with a thought.  
+Sending (25 words maximum):  
+What message do you send to Commander Brightblade?  
+Some version of:  
+\*	Mission success  
+\*	Gharash dead  
+\*	All guards eliminated  
+\*	Clean extraction  
+\*	Heading to Solace for winter  
+\*	Will coordinate via stones  
+What exactly do you say?  
+Yes  
+Dec 7  
+THE MESSAGE  
+SENDING TO LAURANA  
+You activate the stone, feeling the arcane connection spark to life:  
+Your message (25 words):  
+"Brightblade. Gharash dead. All guards eliminated. Clean extraction by sea.   
+No survivors, no witnesses. Heading to Solace for winter. Will coordinate via   
+stones. Mission complete. Constantinius."  
+   
+LAURANA'S RESPONSE  
+A moment's pause, then her voice comes through-relief and triumph evident:  
+"Received. Exceptional work. Dragon Army in chaos. Verminaard sending   
+investigators. You made the right call on Solace. Safe travels. We'll   
+coordinate spring operations. Brightblade out."  
+   
+THE ROAD TO SOLACE  
+Kessa pockets the stone. "Done. Clean break. Now we disappear for winter   
+while Haven benefits from the chaos and Verminaard wastes resources   
+hunting ghosts."  
+She looks at the road stretching west. "Solace. I've heard it's beautiful this time   
+of year. Trees turning colors, vallenwood groves..."  
+A slight smile. "And we'll be there as wealthy, successful operatives rather   
+than desperate refugees. That's a nice change."  
+   
+THE JOURNEY WEST  
+You have:  
+\*	Two Bags of Holding full of wealth and magical items  
+\*	Communication with Haven via sending stones  
+\*	A legendary kill to your names (Commander Gharash)  
+\*	Winter ahead to rest, plan, and prepare  
+\*	No one hunting you (trails lead nowhere)  
+The path to Solace is clear.  
+   
+OPERATION GHARASH \- COMPLETE   
+SUCCESS  
+MISSION SUMMARY  
+Primary Objective: ? Assassinate Commander Gharash Secondary   
+Objectives:  
+\*	? Zero friendly casualties  
+\*	? Clean extraction  
+\*	? No trail to Haven  
+\*	? Maintained communication capability  
+Enemies Eliminated:  
+\*	Commander Gharash (Dragon Army regional commander)  
+\*	4 Elite Guards  
+\*	Total: 5 confirmed kills, zero survivors  
+Treasure Acquired:  
+\*	160 gold  
+\*	\+1 Plate Armor  
+\*	\+1 Greatsword  
+\*	Ring of Protection  
+\*	Amulet of Health (CON 19\)  
+\*	Dragon Army intelligence and maps  
+Strategic Impact:  
+\*	Dragon Army regional command decapitated  
+\*	Slave network disrupted  
+\*	Haven protected via misdirection  
+\*	Verminaard forced to divert resources  
+\*	Resistance morale boosted  
+   
+TO SOLACE  
+Ready to transition to winter in Solace?  
+Or is there anything you want to address before we close this chapter and   
+move to the next phase?  
+Incredible work, Clayn. That was a masterclass in tactical   
+assassination-planning, execution, and extraction all flawless.  
+Nope. I've got time, let's move on  
+Dec 7  
+WINTER IN SOLACE  
+ARRIVAL  
+Two weeks of travel bring you to Solace as autumn deepens into early winter.  
+The town rises before you-famous for its vallenwood trees, massive   
+ancient giants with homes built into their branches, connected by rope bridges   
+and wooden walkways high above the ground.  
+The Inn of the Last Home dominates the town center-largest structure,   
+built around and through a massive vallenwood, accessible by winding stairs   
+wrapped around the trunk.  
+Kessa whistles softly. "Now this is civilization. After months of   
+warehouses, docks, and ruins, I could use a proper bed and decent ale."  
+   
+ESTABLISHING WINTER QUARTERS  
+The Inn of the Last Home offers long-term lodging. The innkeeper-a   
+robust woman named Otik Sandath-quotes rates:  
+"Two gold per week for a private room, meals included. Six gold per month if   
+you're staying for winter. And yes, the ale is as good as they say."  
+You have plenty of gold. This is affordable luxury.  
+Kessa grins. "I vote yes. We've earned some comfort."  
+   
+SOLACE \- WINTER SETUP  
+Over the next few weeks, you establish yourselves:  
+Lodging: Private room at the Inn, comfortable, warm, secure Cover   
+story: Merchants wintering over, waiting for spring trade routes Social   
+presence: Low-key, professional, not drawing attention Sending   
+stone: Hidden safely, regular communication with Laurana  
+   
+LAURANA'S UPDATES (via Sending Stone)  
+Throughout winter, Laurana sends periodic updates:  
+Week 2: "Verminaard sent investigators to Saltmere. Found nothing useful.   
+Search expanding randomly. Haven remains unnoticed. Refugee numbers   
+growing. Using your gold for fortifications."  
+Week 6: "Dragon Army appointed new regional commander-cautious,   
+paranoid. Operations slowed but not stopped. Spring targets emerging. Will   
+coordinate when weather clears. Haven thrives."  
+Week 10: "Pax Tharkas still holds hundreds of prisoners. Mining operations   
+forced labor. Considering liberation operation for spring. Your capabilities   
+would be invaluable. Discuss when ready."  
+   
+WINTER ACTIVITIES  
+You have 3-4 months of downtime. What do you focus on?  
+Potential activities:  
+1\. Training/Study:  
+\*	Research your patron/curse  
+\*	Study the Disks of Mishakal  
+\*	Practice combat techniques  
+\*	Learn new skills  
+2\. Intelligence Gathering:  
+\*	Decode Voss's ledgers  
+\*	Study Dragon Army maps  
+\*	Research Pax Tharkas  
+\*	Identify spring targets  
+3\. Social/Networking:  
+\*	Make contacts in Solace  
+\*	Gather rumors and information  
+\*	Recruit potential allies  
+\*	Build cover identity  
+4\. Equipment/Preparation:  
+\*	Attune to new magical items (Gharash's gear)  
+\*	Craft or acquire supplies  
+\*	Prepare for spring operations  
+\*	Organize inventory  
+5\. Rest and Recovery:  
+\*	Actually relax for once  
+\*	Strengthen partnership with Kessa  
+\*	Process recent events  
+\*	Mental/emotional recovery  
+6\. Planning:  
+\*	Coordinate with Laurana on spring operations  
+\*	Research potential targets  
+\*	Develop strategic approaches  
+\*	Prepare for Pax Tharkas or other missions  
+   
+KESSA'S INTERESTS  
+"I'm thinking I want to actually enjoy this winter," she says one evening over   
+ale. "We've been running non-stop for months. Saltmere, Gharash, constant   
+danger..."  
+"Don't get me wrong-I'm ready to get back to work in spring. But for now? I   
+want to drink good ale, sleep in a real bed, maybe learn something useful that   
+doesn't involve someone trying to kill me."  
+She looks at you. "What about you? What does Johannes Constantinius do   
+when he's not assassinating Dragon Army commanders?"  
+   
+THE DISKS QUESTION  
+The Disks of Mishakal remain in your Bag of Holding. Throughout winter,   
+their presence weighs on you.  
+Khisanth's instruction: Find someone worthy.  
+Laurana Brightblade: Leading real resistance, organizing refugees,   
+building something meaningful. She might be worthy.  
+But: You haven't decided yet. The Ring of Mind Shielding protects you now.   
+The Disks aren't urgent-you have time.  
+Do you want to address this during winter, or let it wait?  
+   
+YOUR PATRON  
+It's been roughly 2 months since your last tribute payment (the artifacts   
+from Dragons of Despair/Firestorm Peak).  
+You have approximately 10 months until the next payment is due.  
+The demon is quiet-you feel the pact's presence, but no immediate pressure.   
+The Ring of Mind Shielding keeps your thoughts private.  
+Do you want to research breaking the pact during winter?  
+   
+WINTER PLAN \- YOUR CHOICE  
+What do you want to focus on this winter?  
+Pick 2-3 main activities and I'll narrate the winter progression, or tell me   
+specifically what you want to do and we'll play it out in detail.  
+What's your priority?  
+Pax Tharkas, combat skills, resistance organization  
+Dec 7  
+WINTER FOCUS \- PREPARATION   
+FOR SPRING  
+THE THREE PILLARS  
+You establish a disciplined winter routine focused on three areas:  
+   
+1\. PAX THARKAS RESEARCH  
+GATHERING INTELLIGENCE  
+The Inn of the Last Home is a crossroads for travelers, merchants, and   
+refugees. Perfect for information gathering.  
+Over winter, you collect intelligence on Pax Tharkas through:  
+Refugees who escaped:  
+\*	Survivors with firsthand knowledge  
+\*	Former prisoners with layout information  
+\*	Guards who defected or were dismissed  
+Merchants who've dealt with Dragon Army:  
+\*	Supply contractors  
+\*	Traders who've seen the fortress  
+\*	Black market contacts  
+Military deserters:  
+\*	Former Dragon Army soldiers drinking away guilt  
+\*	Officers who couldn't stomach the cruelty  
+\*	Scouts who've observed from distance  
+   
+WHAT YOU LEARN \- PAX THARKAS  
+Investigation Check (gathering information over 3 months):  
+\*	Johannes: 16 \+ 1 \= 17  
+\*	Kessa: 21 \+ 5 \= 26 (she's better at social intelligence gathering)  
+Kessa compiles a comprehensive brief:  
+   
+FORTRESS BASICS  
+Location: Mountain pass between Qualinesti and Abanasinia, controlling   
+critical trade route  
+Purpose:  
+\*	Military fortress (garrison of 800+ soldiers)  
+\*	Slave labor camp (600-800 prisoners)  
+\*	Mining operation (iron ore, strategic materials)  
+\*	Supply depot for Dragon Army operations  
+Commander:  
+\*	Dragon Highlord Verminaard himself uses it as regional   
+headquarters  
+\*	Backed by a red dragon named Ember (ancient, terrifying)  
+\*	Multiple sub-commanders managing day-to-day operations  
+   
+DEFENSES  
+Physical:  
+\*	Massive stone fortress built into mountain  
+\*	60-foot walls, fortified gates  
+\*	Guard towers every 100 feet  
+\*	Chokepoint geography (mountain pass)  
+\*	Single main entrance (heavily defended)  
+\*	Secondary mining tunnels (collapsed or guarded)  
+Personnel:  
+\*	800+ Dragon Army soldiers (mix of quality)  
+\*	Elite units guard critical areas  
+\*	Slave drivers and overseers (brutal)  
+\*	Clerics of Takhisis (dark magic support)  
+\*	The red dragon Ember (patrols periodically)  
+Magical:  
+\*	Wards on main gates (alarm spells)  
+\*	Scrying capabilities (limited but present)  
+\*	Dragon fear aura (Ember's presence)  
+\*	Dark clerical magic  
+   
+THE PRISONERS  
+Demographics:  
+\*	600-800 total (fluctuates as some die, new ones arrive)  
+\*	Men, women, elderly, some children  
+\*	Mix of races (humans, elves, dwarves, kender)  
+\*	From conquered territories across the region  
+Conditions:  
+\*	Forced labor in mines (12-14 hour days)  
+\*	Minimal food, poor shelter  
+\*	High mortality rate (disease, accidents, exhaustion)  
+\*	Brutal punishments for resistance  
+Organization:  
+\*	Divided into work gangs (50-100 each)  
+\*	Housed in barracks (overcrowded)  
+\*	Some leadership among prisoners (informal)  
+\*	Resistance potential exists but suppressed by fear  
+   
+VULNERABILITIES IDENTIFIED  
+Kessa's analysis points out potential weaknesses:  
+1\. Supply Lines:  
+\*	Fortress depends on external supply caravans  
+\*	Food for 1,400+ people (soldiers \+ prisoners)  
+\*	Mining equipment and materials  
+\*	Disrupting supplies could create chaos  
+2\. Internal Tensions:  
+\*	Guards are cruel but not universally loyal  
+\*	Some are conscripts who hate the work  
+\*	Potential for defection or corruption  
+\*	Class divisions (elite vs. regular troops)  
+3\. Prisoner Expertise:  
+\*	Among 800 prisoners, there are fighters, craftspeople, mages  
+\*	If armed and organized, significant combat potential  
+\*	Current disorganization is main weakness  
+\*	Liberation requires coordination, not just opening doors  
+4\. Geographic Limitations:  
+\*	Mountain pass means limited escape routes  
+\*	Dragon Army can't easily pursue in all directions  
+\*	Refugees need guidance to survive mountain terrain  
+\*	Weather affects operations (winter is harsh)  
+5\. Verminaard's Absence:  
+\*	He's not always at Pax Tharkas (travels for campaigns)  
+\*	When he's gone, command structure is weaker  
+\*	Ember (the dragon) also leaves periodically  
+\*	Timing a strike during their absence is critical  
+   
+THE CHALLENGE  
+One evening, Kessa spreads maps across your table:  
+"Here's the reality: Pax Tharkas isn't Saltmere. It's not even close."  
+She taps the fortress drawing. "Saltmere was a corrupt port with lazy guards   
+and one paranoid commander. We killed six people and freed fifty prisoners."  
+"Pax Tharkas has 800 soldiers, a Dragon Highlord, and a red dragon.   
+We'd need to free 600+ prisoners and get them through mountain   
+passes while being pursued by dragons and armies."  
+She looks at you seriously. "This isn't an assassination. This is a military   
+operation. It requires an army, coordination, planning, logistics, and a lot of   
+luck."  
+She pauses. "Which means we can't do it alone. We need Haven's full   
+support, probably allies from other resistance cells, and a plan that accounts   
+for everything going wrong at least twice."  
+   
+YOUR ASSESSMENT  
+After months of research, you understand:  
+Pax Tharkas is possible-but not yet.  
+What's needed:  
+\*	Larger force (100+ fighters minimum)  
+\*	Inside intelligence (someone in the fortress)  
+\*	Coordination with prisoner leadership  
+\*	Supply disruption to weaken defenders  
+\*	Timing (when Verminaard and Ember are absent)  
+\*	Escape routes prepared and secured  
+\*	Haven's full logistical support  
+This is a spring/summer operation at earliest-possibly beyond   
+that.  
+   
+2\. COMBAT SKILLS TRAINING  
+HONING YOUR CAPABILITIES  
+Winter provides time to train systematically.  
+   
+JOHANNES \- WARLOCK REFINEMENT  
+You focus on:  
+Tactical Spellcasting:  
+\*	Practicing Shadow of Moil in various scenarios  
+\*	Refining Hex curse transfer timing  
+\*	Maximizing Eldritch Blast accuracy  
+\*	Combining One with Shadows invisibility with positioning  
+Physical Conditioning:  
+\*	Strength training (you're not a frontline fighter, but core strength helps)  
+\*	Endurance (running, swimming, sustained activity)  
+\*	Flexibility (escape and evasion techniques)  
+Devil's Sight Mastery:  
+\*	Operating in complete darkness  
+\*	Fighting blind opponents who can't see you  
+\*	Using darkness as tactical advantage  
+New Focus: Group Combat  
+\*	You've been in small team fights (you \+ Kessa)  
+\*	Need to learn large-scale battlefield awareness  
+\*	Coordinating with 10+ allies  
+\*	Managing chaos without friendly fire  
+   
+KESSA \- ROGUE/BARD EXCELLENCE  
+She trains in:  
+Marksmanship:  
+\*	Hand crossbow accuracy at extreme range  
+\*	Moving target practice  
+\*	Shooting from unstable positions (swaying bridges, moving vehicles)  
+Stealth Mastery:  
+\*	With Cloak of Elvenkind, she's practicing near-invisibility  
+\*	Silent movement in various terrains  
+\*	Urban infiltration techniques  
+Social Skills:  
+\*	Gathering intelligence through conversation  
+\*	Reading people (Insight checks)  
+\*	Deception and disguise mastery  
+Combat Coordination:  
+\*	She's been your partner-now learning to lead teams  
+\*	Directing multiple rogues/scouts  
+\*	Ambush coordination for larger groups  
+   
+COMBINED TRAINING  
+You and Kessa practice together:  
+Two-Person Tactics:  
+\*	Ambush positioning (perfecting what worked vs. Gharash)  
+\*	Emergency extraction protocols  
+\*	Non-verbal communication signals  
+\*	Covering each other's weaknesses  
+Performance Check (training effectiveness over 3 months):  
+\*	Johannes: 15 \+ 2 \= 17 (solid improvement)  
+\*	Kessa: 18 \+ 5 \= 23 (exceptional growth)  
+   
+TRAINING RESULTS  
+Mechanical benefits (if you want them):  
+Johannes:  
+\*	\+1 to hit with Eldritch Blast in darkness (Devil's Sight mastery)  
+\*	Advantage on Stealth checks when using One with Shadows (refined   
+technique)  
+\*	Can coordinate with up to 5 allies without penalty (group tactics)  
+Kessa:  
+\*	\+1 to ranged attacks with hand crossbow (marksmanship training)  
+\*	Can hide as bonus action even without cover in dim light (Cloak \+   
+training synergy)  
+\*	\+2 to Insight checks (social skills improvement)  
+(These are narrative bonuses, not permanent mechanical changes,   
+but reflect winter improvement)  
+   
+3\. RESISTANCE ORGANIZATION  
+COORDINATING WITH HAVEN  
+Throughout winter, you use the sending stones to coordinate with Laurana.  
+   
+STRATEGIC PLANNING SESSIONS  
+Regular communication (once per week via Sending):  
+You and Laurana develop a strategic framework for spring operations:  
+   
+ORGANIZATIONAL STRUCTURE  
+Laurana proposes (and you refine):  
+Haven Resistance splits into three operational branches:  
+1\. Defense Force (Captain Morna leads):  
+\*	Protect Haven itself  
+\*	Train refugees in basic combat  
+\*	Fortify positions  
+\*	React to Dragon Army threats  
+\*	Size: 200 fighters (defensive posture)  
+2\. Strike Teams (You \+ Kessa coordinate):  
+\*	Small unit operations (4-8 people)  
+\*	Assassinations, sabotage, intelligence  
+\*	High-value targets  
+\*	Quick in-and-out missions  
+\*	Size: 3-5 teams of 6-8 each (30-40 total elite operatives)  
+3\. Support Network (Thoric Ironforge manages):  
+\*	Supply lines and logistics  
+\*	Intelligence gathering  
+\*	Refugee evacuation  
+\*	Safe houses and resources  
+\*	Communication coordination  
+\*	Size: 100+ non-combatants in various roles  
+   
+SPRING TARGET IDENTIFICATION  
+Through winter, you and Laurana identify potential operations:  
+Tier 1 \- High Value, High Difficulty:  
+\*	Pax Tharkas liberation (requires massive preparation)  
+\*	Assassinate Dragon Highlord (suicidal without perfect conditions)  
+\*	Destroy major supply depot (heavily guarded)  
+Tier 2 \- Medium Value, Medium Difficulty:  
+\*	Free smaller prison camps (50-100 prisoners)  
+\*	Disrupt supply convoys (hit-and-run)  
+\*	Eliminate regional commanders (like Gharash)  
+\*	Sabotage Dragon Army infrastructure  
+Tier 3 \- Lower Value, Lower Risk:  
+\*	Intelligence gathering operations  
+\*	Recruitment drives in occupied territories  
+\*	Establish new safe houses  
+\*	Smuggling operations (weapons, supplies, people)  
+Laurana's recommendation: "Build from Tier 3 to Tier 1\. Establish   
+success patterns, train teams, build confidence and capability. Pax Tharkas   
+is the endgame-we work toward it, not jump into it."  
+   
+RESOURCE ALLOCATION  
+Your gold from Saltmere/Gharash operations (plus earlier wealth):  
+You've contributed approximately 1,900 gold total to Haven over time.  
+Laurana's report on how it's been used:  
+\*	500 gold: Weapons and armor (equipping fighters)  
+\*	300 gold: Fortifications (walls, gates, defenses)  
+\*	400 gold: Food and medical supplies (winter provisions)  
+\*	200 gold: Intelligence network (bribes, informants, communication)  
+\*	300 gold: Training and equipment for strike teams  
+\*	200 gold: Reserve fund (emergencies, opportunities)  
+Haven is now:  
+\*	Well-defended (can resist small-to-medium Dragon Army assaults)  
+\*	Well-fed (winter survival secured)  
+\*	Well-equipped (fighters have real weapons, not improvised)  
+\*	Well-informed (intelligence network functioning)  
+\*	Well-organized (command structure, training programs)  
+Your contribution has transformed Haven from desperate refugee   
+camp to functional resistance base.  
+   
+MAGICAL ITEM DISTRIBUTION  
+You discuss Gharash's gear with Laurana via Sending:  
+Over multiple conversations, you coordinate:  
+\+1 Plate Armor:  
+\*	Offer to Haven's best frontline fighter  
+\*	Laurana assigns it to a human paladin named Sturm (no relation to her   
+late husband, but reminds her of him)  
+\+1 Greatsword:  
+\*	Paired with the armor for Sturm  
+\*	Makes him significantly more effective  
+Ring of Protection:  
+\*	Offered to Captain Morna (she leads defense, needs survivability)  
+\*	She accepts gratefully  
+Amulet of Health (CON 19):  
+\*	You keep this one (massive survivability boost for you)  
+\*	Kessa agrees: "You're our primary damage dealer and most exposed in   
+combat. You need it."  
+Johannes now attuned to:  
+1\.	Ring of Mind Shielding (mental protection)  
+2\.	Rope of Entanglement (utility/control)  
+3\.	Amulet of Health (NEW \- CON becomes 19\)  
+New HP Total: Recalculate with CON 19 (+4 modifier):  
+\*	Level 7 Warlock: 7d8 \+ (7 × 4\) \= Average 31.5 \+ 28 \= \~60 HP (if rolling   
+average)  
+\*	Or if you prefer: Roll 7d8 \+ 28  
+You're significantly more durable now.  
+   
+RECRUITMENT AND EXPANSION  
+Laurana reports:  
+"Word is spreading. The story of Saltmere-fifty prisoners freed, operation   
+destroyed. The assassination of Commander Gharash-killed in his own   
+secured zone with zero survivors to report what happened."  
+"People are hearing that resistance is possible. That Dragon Army   
+commanders can die. That there's a place-Haven-where people fight back."  
+Refugee influx:  
+\*	Haven's population: 800 ? 1,100 over winter  
+\*	New fighters volunteering: \+150 capable recruits  
+\*	Craftspeople, healers, mages arriving: \+50 specialists  
+The resistance is growing.  

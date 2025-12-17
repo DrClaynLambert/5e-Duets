@@ -1,0 +1,1307 @@
+ACQUIRING GOGGLES OF NIGHT FOR CYRIL  
+Excellent tactical thinking-getting the whole party on the same page for   
+stealth operations in darkness.  
+   
+AT HAVEN \- REQUISITIONS  
+Johannes approaches Thoric Ironforge, the dwarf logistics officer, with a   
+specific request.  
+"We need Goggles of Night. Magic item that grants darkvision. For our cleric."  
+Thoric strokes his beard thoughtfully. "Goggles of Night... uncommon magical   
+item. Let me check our inventory from captured supplies and recent   
+acquisitions."  
+He consults his ledgers. "We don't have any in stock currently. But I can put   
+out word through our network-merchants, adventurers passing through,   
+salvage from Dragon Army raids."  
+He estimates: "Goggles of Night typically run 500-800 gold on the open   
+market. Might take a week or two to locate a pair. Or..." He grins. "If you're   
+willing to do some trading, we could potentially barter. You've got quality   
+items from that Sarth business. The historical texts, spell components, even   
+that Crimson Covenant signet ring might interest the right buyer."  
+   
+OPTIONS:  
+1\.	Wait 1-2 weeks, pay 500-800 gold \- Thoric finds a pair through   
+resistance network  
+2\.	Trade items you're not using \- Historical texts (150gp value) \+ spell   
+components (50gp) \+ signet ring (valuable for deception/forgery, maybe   
+100-150gp) \= 300-350gp equivalent, still need \~200-450gp more  
+3\.	Quest for them \- Rumors of magical items in abandoned locations,   
+Dragon Army caches, etc.  
+4\.	Commission crafting \- If Haven has an enchanter, could take weeks   
+and cost similar amounts  
+You currently have gold from:  
+\*	Blood money from Thomas (40gp)  
+\*	Personal funds from previous operations  
+\*	Haven stipend for strike team operations  
+How much gold do you have available, and which approach do you   
+prefer?  
+1\.	Let's get our own. Quick side mission.  
+Dec 7  
+THORIC'S INTELLIGENCE  
+The dwarf's eyes light up. "Ah, prefer to acquire it yourself? Smart. Keeps you   
+sharp between major operations."  
+He pulls out a map, marking a location. "I've got something that might interest   
+you. Recent intelligence from our scouts."  
+He taps a spot about two days' ride east. "The Sunken Spire."  
+"Old wizard's tower, partially collapsed into a sinkhole about fifty years ago.   
+The wizard-Archmage Velios-was known for enchanting items, particularly   
+sensory enhancements. Goggles, lenses, that sort of thing. When he died, the   
+tower was never properly cleared. Too dangerous, too remote."  
+Thoric continues: "But here's the fresh bit: Three days ago, our scouts   
+reported seeing lights in the ruins. Someone or something is active there.   
+Could be scavengers, could be monsters nesting, could be something worse."  
+He looks at your team. "You three? Perfect for this. Get in, clear whatever's   
+lurking, search for Velios's workshop. If the goggles are anywhere, they're   
+there. Plus whatever else you find is yours-Haven doesn't claim salvage from   
+personal initiative missions."  
+THE SUNKEN SPIRE \- QUICK DETAILS:  
+\*	2 days' ride east  
+\*	Partially collapsed wizard's tower  
+\*	Known for sensory enhancement items  
+\*	Recently active (lights spotted 3 days ago)  
+\*	Unknown current occupants/threats  
+Kessa grins. "Dungeon crawl. Classic. I'm in."  
+Cyril nods. "If we're looking for equipment to help me operate in darkness   
+with you two, seems appropriate I help acquire it."  
+Do you accept this side mission? And do you want any additional   
+preparation/information before departing?  
+Nope let's go\!  
+Dec 7  
+DEPARTURE \- THE SUNKEN SPIRE  
+You stock up on basic supplies, check gear, and ride out within the hour. Three   
+horses, three riders, heading east into less-traveled territory.  
+   
+DAY 1 \- TRAVEL  
+The terrain shifts from Haven's mountain foothills to rolling plains, then   
+toward rockier, more desolate country. The land here shows signs of the war-  
+abandoned farmsteads, burned fields, refugees passing the other direction.  
+By evening, you're in true wilderness. Cold camp, watches rotated. Uneventful   
+night.  
+   
+DAY 2 \- APPROACH  
+Mid-afternoon, you see it on the horizon: The Sunken Spire.  
+What must have been a magnificent tower now leans at a severe angle, half-  
+swallowed by a massive sinkhole. Three stories still visible above ground, but   
+clearly more structure extends below into the earth. Stone architecture,   
+weathered by decades, covered in creeping vines.  
+From this distance (about a mile out), you can see:  
+\*	The tower's top floor is partially collapsed, open to sky  
+\*	Dark openings-windows and breaches-dot the visible structure  
+\*	The sinkhole around it is roughly 100 feet across, steep sides  
+\*	Faint smoke rises from somewhere within the ruins  
+Kessa pulls out her spyglass, studying it carefully.  
+"Movement. Second floor, eastern window. Humanoid shape, but can't make   
+out details from here."  
+She scans more. "The sinkhole looks navigable-there's a crude path down the   
+side, recently used. Footprints, disturbed earth."  
+Cyril frowns. "Recent occupation. The lights Thoric mentioned. Could be   
+bandits using it as a hideout, scavengers, or something worse."  
+The sun is lowering-maybe three hours until dusk.  
+Approach options:  
+1\.	Scout closer on foot \- Leave horses, approach stealthily, observe   
+before entering  
+2\.	Direct approach \- Ride up openly, see how occupants react  
+3\.	Wait for nightfall \- Use darkness for infiltration (your team's   
+strength)  
+4\.	Circle and find alternate entry \- Look for other ways into the   
+sunken structure  
+What's your approach?  
+4, then 3...  
+Dec 7  
+RECONNAISSANCE \- CIRCLING THE SUNKEN SPIRE  
+You leave the horses secured in a copse of trees about half a mile out, then   
+approach on foot, circling wide to survey the entire structure.  
+Kessa leads the scouting (Stealth: 24, Investigation: 21\)  
+Moving carefully around the sinkhole's perimeter, she maps out what you're   
+dealing with:  
+MAIN ENTRANCE (South side):  
+\*	Crude wooden stairs descending into sinkhole  
+\*	Leads to the tower's original ground-floor entrance  
+\*	Heavy wooden door, reinforced, looks recently repaired  
+\*	Boot prints everywhere-this is the primary access point  
+EASTERN BREACH (Second floor):  
+\*	Large hole in the tower wall, structural collapse  
+\*	Accessible by climbing down into sinkhole, then up crumbling   
+stonework  
+\*	The humanoid she spotted earlier is no longer visible  
+\*	Could provide entry but requires climbing (Athletics DC 12-ish)  
+WESTERN WINDOW (Third floor):  
+\*	Intact but narrow window opening  
+\*	Would require scaling the tower's exterior or entering from above  
+\*	Difficult but possible approach  
+THE SINKHOLE DEPTHS:  
+\*	The tower extends at least two more floors below the current ground   
+level  
+\*	Partially filled with debris, water pooling at the bottom  
+\*	Several basement-level openings visible, partially blocked by rubble  
+\*	Could be alternate entry but would be wet, dark, and possibly unstable  
+ROOF ACCESS:  
+\*	The collapsed top floor is open to sky  
+\*	Could rappel down from above if you approached from the sinkhole's   
+opposite side  
+\*	Risky but unexpected  
+OBSERVATIONS:  
+\*	Smoke coming from ground floor (cooking fire, likely)  
+\*	Faint voices audible when wind shifts-at least 3-4 people, humanoid   
+speech  
+\*	Light visible through windows as afternoon fades-they're settling in for   
+evening  
+   
+WAITING FOR NIGHTFALL  
+You withdraw to a hidden position with clear sightline, waiting for darkness.  
+As dusk falls:  
+\*	Lights appear in more windows-torches or lanterns lit  
+\*	Voices become clearer-rough human speech, laughter, the clink of   
+bottles  
+\*	Someone exits briefly to relieve themselves, then returns-human male,   
+rough clothes, armed with shortsword  
+\*	The main door opens occasionally as occupants move in and out  
+Kessa's assessment: "Looks like bandits or scavengers. Maybe 4-6 of them   
+based on noise and movement patterns. Using the ground floor as base camp.   
+Probably don't know about the wizard's workshop deeper in the structure-or   
+haven't figured out how to access it yet."  
+Cyril adds: "They'll have watches through the night. Professional bandits   
+would. But they're drinking, relaxed. Not expecting trouble."  
+Full darkness arrives. Your team's advantage.  
+Entry options:  
+1\.	Eastern breach (2nd floor, climbing required, bypasses ground floor   
+entirely)  
+2\.	Basement via sinkhole depths (wet and dangerous, but avoids   
+bandits completely)  
+3\.	Roof descent (most unexpected, but technically challenging)  
+4\.	Direct assault on main entrance (loud, but you could clear them   
+out first)  
+Which entry point, and what's your plan?  
+2  
+Dec 7  
+DESCENT INTO THE SINKHOLE DEPTHS  
+"We go below," Johannes decides. "Bypass the bandits entirely, find the   
+workshop levels, get what we came for. No need to fight if we don't have to."  
+Kessa nods approvingly. "Smart. Let them drink themselves stupid upstairs   
+while we work below."  
+Cyril checks his gear. "I don't have darkvision. I'll need light once we're down   
+there."  
+"Hooded lantern," Kessa suggests. "Minimal light, directional. We keep it   
+low."  
+   
+DESCENDING THE SINKHOLE  
+You approach from the north side, opposite the main entrance, staying low   
+and quiet.  
+The sinkhole's edge is steep but navigable. Handholds in the rocky slope,   
+vegetation to grip.  
+Athletics checks to descend safely:  
+\*	Johannes: 14 \- Controlled descent  
+\*	Kessa: 19 \- Moves like a spider, silent and sure  
+\*	Cyril: 11 \- Slower, careful, makes it down  
+You reach the sinkhole floor-about 40 feet below the rim. Water pools here,   
+ankle-deep, cold. The smell of damp earth and rot. Debris from the tower's   
+collapse scattered everywhere.  
+The tower's basement levels are partially exposed-openings in the stonework   
+where the structure broke during the sinkhole event.  
+Kessa examines the basement entrances (Investigation: 20\)  
+"Three possible entry points down here. All partially blocked by rubble, but   
+passable."  
+She points them out:  
+Entry A (Northeast): Looks like it was a storage cellar. Relatively clear,   
+debris minimal. Water flowing in and out.  
+Entry B (Northwest): Larger opening, appears to be a workshop level based   
+on the stonework quality. More rubble blocking it, but definitely accessible.  
+Entry C (Direct Below): Straight down into what might be the tower's   
+deepest level. Completely submerged in dark water-at least 3-4 feet deep.   
+Unknown depth beyond.  
+From above, you hear the bandits-laughter, the crackle of their fire, voices.   
+They're oblivious to your presence.  
+Which basement entry do you take?  
+B  
+Dec 7  
+ENTRY B \- WORKSHOP LEVEL  
+"Northwest entrance," Johannes points. "Workshop level. That's where Velios   
+would have kept his enchanting equipment."  
+Kessa moves to the opening, assessing the rubble. "Tight squeeze, but   
+manageable. Single file."  
+She slips through first, her darkvision penetrating the darkness beyond. After   
+a moment: "Clear. Come through."  
+Johannes follows, his Devil's Sight rendering the absolute darkness as clear as   
+day.  
+Cyril comes last, producing a hooded lantern and lighting it with flint and   
+steel. Dim light blooms-just enough for him to see.  
+   
+VELIOS'S WORKSHOP \- BASEMENT LEVEL  
+You're in what was clearly a magical laboratory. Stone walls, mostly intact   
+despite the collapse above. The room is roughly 30 feet square.  
+What you see:  
+Workbenches: Three long tables, covered in decades of dust and water   
+damage. Broken glass, rusted tools, scattered components. Most equipment is   
+ruined, but some items remain:  
+\*	Crystal lenses (cracked)  
+\*	Metal frames (corroded)  
+\*	Gem dust in sealed jars (still viable)  
+\*	Leather straps and brass fittings  
+Bookshelves: Rotted beyond recognition. A few tomes remain but are   
+moldy, water-damaged, likely unreadable.  
+A Large Arcane Circle: Etched into the floor in the center of the room.   
+Inert now, but clearly used for enchantment work.  
+Three Doors:  
+\*	East: Wooden door, swollen with moisture, appears to lead deeper into   
+the basement  
+\*	South: Stone archway, partially collapsed, rubble blocking most of the   
+passage  
+\*	North: Iron door, heavy, sealed with a rusted lock and what looks like   
+magical wards (faintly glowing runes, still barely active after 50 years)  
+And most importantly:  
+A Sealed Cabinet against the west wall. Glass-fronted, enchanted   
+preservation wards still faintly active (shimmering protective magic). Inside,   
+visible through dusty glass:  
+\*	Goggles of Night (intact, leather and brass, lenses dark)  
+\*	Circlet with embedded crystal (unknown enchantment)  
+\*	A pair of crystal monocles (unknown enchantment)  
+\*	Several rolled scrolls (preserved by the wards)  
+Kessa grins. "Jackpot. The preservation wards kept them safe."  
+Cyril studies the cabinet carefully. "Those wards are still active. Weak,   
+but functional. Opening it wrong might trigger a backlash or destroy the   
+contents."  
+From above, you hear footsteps-the bandits moving around on the   
+ground floor. Still no indication they know you're here.  
+How do you want to handle the sealed cabinet?  
+Thoughts about how to get in?  
+Dec 7  
+ASSESSING THE SEALED CABINET  
+The three of you gather around, examining the preservation wards and lock   
+mechanism.  
+   
+KESSA'S ASSESSMENT (Thieves' Tools perspective):  
+She studies the physical lock-brass mechanism, high quality, corroded but   
+probably still functional.  
+"The lock is pickable. Standard arcane workshop security-good quality but   
+mechanical, not magical. I can handle that part."  
+She points to the wards. "But those preservation wards... if I just pick the lock   
+and open it, the wards might interpret that as a breach. Could trigger a   
+discharge-might just be a flash of light and dissipation, or could be   
+something nastier that fries the contents."  
+Sleight of Hand (to pick lock): Would be easy for her Arcana (to   
+assess wards): 12 \- She knows they're active but can't determine exact   
+trigger conditions.  
+   
+CYRIL'S ASSESSMENT (Divine/Arcana perspective):  
+He kneels, examining the runes carefully.  
+Arcana check: 16  
+"These are preservation wards, designed to keep the contents safe from time,   
+moisture, and tampering. They're set to discharge if the cabinet is opened by   
+force or without proper authorization."  
+He traces the rune pattern. "But they're old. Fifty years of slow degradation.   
+The enchantment is weak-probably won't explode or anything catastrophic.   
+More likely it'll just... fail. The energy dissipates harmlessly, or causes a minor   
+flash."  
+"The real risk is whether the sudden discharge damages the items inside. The   
+goggles should be fine-they're enchanted themselves, resilient. But the   
+scrolls? Those might burn if there's an energy surge."  
+He considers. "I could try to Dispel Magic on the wards first. Remove them   
+entirely before opening. But at my level, dispelling a 50-year-old   
+enchantment-even a degraded one-isn't guaranteed. If I fail, the attempt   
+might trigger them anyway."  
+Dispel Magic attempt: Would be DC 11-13 based on the ward's   
+degraded state. Cyril's \+4 modifier means decent chance but not   
+certain.  
+   
+JOHANNES'S ASSESSMENT (Arcana/Pact Magic perspective):  
+You study the wards with your knowledge of magical contracts and bindings.  
+Arcana check: 13  
+The wards are keyed to recognize "authorized access"-probably Velios   
+himself, or someone with his permission. Without that, any opening triggers   
+discharge.  
+But you notice something: The ward runes include a timeout clause-standard   
+magical practice. After a certain period without maintenance, they're   
+supposed to deactivate automatically to prevent accidents.  
+That timeout was probably set for... 20 years? 30? Hard to tell. They're still   
+barely active, which means either the timeout was longer than expected, or   
+something is sustaining them.  
+You could try using Eldritch Blast to simply shatter the glass from a distance-  
+brute force approach. The wards would discharge, but you'd be clear of the   
+blast, and the items inside might survive.  
+   
+OPTIONS SUMMARY:  
+1\.	Kessa picks the lock, accept ward discharge \- Quick, might   
+damage scrolls, goggles probably fine  
+2\.	Cyril attempts Dispel Magic \- Remove wards safely if successful,   
+might trigger them if failed  
+3\.	Johannes shatters glass with EB from distance \- Wards   
+discharge at range, items exposed to shards but likely survive  
+4\.	Wait and study longer \- Try to find Velios's authorization   
+key/password (would take time, might not exist here)  
+5\.	Combination approach \- Cyril dispels, if that fails Kessa immediately   
+opens before discharge builds  
+What's your approach?  
+5  
+Dec 7  
+COMBINATION APPROACH  
+"Cyril attempts to dispel the wards," Johannes says. "If it works, perfect-  
+Kessa opens it safely. If it fails and triggers discharge, Kessa immediately picks   
+the lock and opens the cabinet before the energy can build and damage the   
+contents."  
+Kessa nods, positioning herself at the lock with tools ready. "I can pick this in   
+about six seconds if I move fast. Soon as I see the wards flare, I go."  
+Cyril prepares his spell. "Ready when you are."  
+"Do it," Johannes confirms.  
+   
+CYRIL'S DISPEL MAGIC ATTEMPT  
+Cyril channels divine energy, speaking the words of Dispel Magic, focusing on   
+the preservation wards.  
+Spellcasting check to dispel: DC: 12 (degraded 2nd-level   
+enchantment) Cyril's check: 1d20+4 \= 11  
+FAILURE \- but close\!  
+The wards flare in response to the dispelling attempt-rejecting it. The runes   
+glow brighter, energy beginning to build toward discharge-  
+KESSA MOVES IMMEDIATELY  
+Her thieves' tools are already in the lock.  
+Sleight of Hand check: 23  
+Click-click-CLICK.  
+The lock opens in three seconds flat. She yanks the cabinet door open just as   
+the wards reach critical-  
+The preservation wards DISCHARGE-  
+But with the cabinet already open, the energy dissipates outward instead of   
+contained inside. A flash of blue-white light, a pulse of magical force that   
+washes over all three of you harmlessly, and then-  
+Silence.  
+The wards are gone. The cabinet stands open. The items inside are intact.  
+   
+SUCCESS \- ITEMS ACQUIRED  
+Kessa carefully removes the preserved items:  
+1\. Goggles of Night \- Dark leather straps, brass fittings, crystalline lenses   
+that shimmer faintly. Perfectly preserved.  
+2\. Circlet with embedded crystal \- Silver band with a small clear gem   
+mounted at the forehead position.  
+3\. Crystal monocles (pair) \- Two separate monocles, different lens colors   
+(one amber, one blue).  
+4\. Scrolls (3) \- Rolled parchment, preserved perfectly, sealed with wax.  
+Cyril examines them carefully. "We'll need to identify these properly back at   
+Haven, but the Goggles of Night are obvious." He hands them to Cyril with a   
+grin. "Your night vision problem, solved."  
+Cyril puts on the Goggles of Night.  
+Immediately, his expression changes. "Oh. Oh. I can see everything. It's like...   
+twilight. Clear as day but darker." He looks around the workshop, no longer   
+dependent on the lantern. "This is incredible."  
+He extinguishes the hooded lantern. "I'm with you two now. Full stealth   
+capability."  
+   
+The workshop has been looted successfully. The bandits above   
+remain oblivious.  
+What do you do next?  
+1\.	Search the other doors (East, South, North) \- might be more   
+treasure/information  
+2\.	Leave immediately \- you got what you came for, minimize risk  
+3\.	Deal with the bandits \- clear them out so the tower is safe  
+4\.	Something else?  
+1 east first  
+Dec 7  
+EASTERN DOOR \- DEEPER BASEMENT  
+Johannes approaches the eastern wooden door. Swollen with decades of   
+moisture, it's stuck in the frame but not locked.  
+Strength check to force it open: 14  
+The door groans and scrapes open, revealing a dark corridor beyond. Stone   
+construction, water-damaged, extending about 20 feet before turning south.  
+The three of you advance, now all seeing clearly in the darkness-Johannes   
+with Devil's Sight, Kessa with darkvision, Cyril with his new Goggles of Night.  
+The corridor turns south and opens into another chamber.  
+   
+VELIOS'S STORAGE VAULT  
+A rectangular room, 40 feet long, 20 feet wide. Stone shelving lines the walls,   
+most collapsed or rotted. Water damage is severe here-ankle-deep standing   
+water, green algae growing on surfaces.  
+What remains:  
+Shelves (partially intact):  
+\*	Rusted metal lockboxes (3) \- corroded shut, contents unknown  
+\*	Clay jars (sealed) \- 6 intact, contents preserved  
+\*	Wooden chest (heavily water-damaged, falling apart)  
+A Stone Pedestal in the room's center, raised above water level. Something   
+sits on top-covered by a protective cloth that's remarkably intact.  
+The Far Wall has strange markings-scorch marks, blast patterns, like   
+something exploded here long ago.  
+And most concerning:  
+Movement in the water.  
+Something shifts beneath the murky surface. Not large, but multiple small   
+shapes, disturbed by your entry.  
+Kessa's hand goes to her crossbow. "We're not alone."  
+From the water, several shapes emerge-4 creatures, vaguely rat-like but   
+wrong. Twisted, mutated, eyes glowing faintly with magical residue. Each   
+about the size of a large dog.  
+Corrupted experiment subjects-Velios's failed magical tests,   
+surviving in the flooded basement for decades.  
+They hiss, circling through the shallow water, sizing you up.  
+Roll initiative?  
+Yep  
+Dec 7  
+INITIATIVE:  
+Johannes: 15 Kessa: 19 Cyril: 12 Corrupted Rats: 8  
+   
+ROUND 1  
+Kessa (19) \- Her hand crossbow snaps up, targeting the nearest rat-creature   
+as it emerges from the water.  
+Attack: 22 to hit, Sneak Attack applies (allies present) Damage: 19  
+The bolt takes the creature through the skull. It squeals and collapses into the   
+water, twitching. Dead.  
+Three remain, circling, hissing aggressively.  
+Johannes (15) \- Three corrupted rats, spread across the room in the shallow   
+water, about 15-20 feet away. They're small enough that they get partial cover   
+from the water and debris.  
+Hex available. Two Eldritch Blast beams ready.  
+Your action?  
+Two streams, two targets  
+Dec 7  
+Eldritch Blast \- two beams, two different targets:  
+Attack rolls: 19, 16 \- both hit  
+Damage:  
+\*	Beam 1 (corrupted rat \#2): 8 force damage  
+\*	Beam 2 (corrupted rat \#3): 11 force damage  
+The first rat screeches as eldritch force tears through it-badly wounded but   
+still moving, lurching through the water.  
+The second rat takes the blast square in the torso and explodes in a spray of   
+corrupted flesh and murky water. Dead instantly.  
+Two down, two remaining.  
+   
+Cyril (12) \- Mace in hand, he moves forward to engage the wounded rat.  
+Attack: 17 to hit Damage: 9 bludgeoning \+ 4 radiant (divine smite)  
+His mace comes down with holy light blazing. The corrupted creature shrieks   
+as radiant energy burns through its twisted form. It collapses, smoking, into   
+the water.  
+One corrupted rat remains.  
+   
+Corrupted Rat (8) \- The last creature, seeing its packmates destroyed in   
+seconds, tries desperately to attack.  
+It lunges at Cyril, jaws snapping-  
+Attack: 11 to hit  
+Misses\! Cyril sidesteps, the creature splashing harmlessly past him.  
+   
+ROUND 2  
+Kessa (19) \- "Last one."  
+Attack: 20 to hit Damage: 15  
+Her bolt punches through the creature's spine. It drops instantly, dead before   
+hitting the water.  
+   
+COMBAT OVER  
+Four corrupted rat-creatures float in the murky water, defeated in less than   
+twelve seconds.  
+Cyril wipes algae off his mace. "Well. That was efficient."  
+Kessa reloads. "Velios's old experiments. Probably fed on magical residue   
+down here for decades, mutated further."  
+The room is quiet now except for water dripping and your own breathing.  
+The storage vault is yours to search:  
+\*	3 rusted metal lockboxes  
+\*	6 sealed clay jars  
+\*	Water-damaged wooden chest  
+\*	Stone pedestal with cloth-covered object  
+\*	Scorch-marked wall  
+What do you investigate first?  
+Let's just go in order...  
+Dec 7  
+SYSTEMATIC SEARCH \- IN ORDER  
+   
+1\. RUSTED METAL LOCKBOXES (3)  
+Kessa examines the first lockbox. Heavily corroded, lock mechanism seized   
+with rust.  
+Sleight of Hand check: 18  
+She works carefully, applying oil from her kit, coaxing the mechanism. After   
+two minutes-click. Opens.  
+Contents: Corroded copper coins (worthless), rotted fabric, nothing of value.   
+The water damage destroyed everything perishable.  
+Second lockbox \- Sleight of Hand: 21  
+Opens more easily.  
+Contents: A sealed glass vial (preserved\!), containing shimmering silver   
+liquid. Labeled in faded script: "Essence of Clarity." Unknown potion.  
+Third lockbox \- Sleight of Hand: 16  
+Opens with some effort.  
+Contents: Small leather pouch (miraculously intact, oiled leather). Inside: 6   
+small gemstones-likely spell components. Worth maybe 50gp total.  
+Lockboxes complete: 1 unknown potion, 6 small gems acquired.  
+   
+2\. SEALED CLAY JARS (6)  
+Cyril carefully opens the first jar. The clay seal cracks, releasing stale air.  
+Contents: Dried herbs, completely desiccated. Probably alchemical   
+ingredients once, now useless dust.  
+Second jar: More dried material, unidentifiable.  
+Third jar: Preserved beetle specimens in amber-like resin. Intact, possibly   
+valuable to the right collector. Worth maybe 20gp.  
+Fourth jar: Black powder. Kessa sniffs carefully. "Blasting powder, I think.   
+Still viable if kept dry." Could be useful. About 1 pound.  
+Fifth jar: Empty except for residue.  
+Sixth jar: Another preserved specimen-a crystallized flower, perfectly   
+intact. Beautiful, possibly magical component. Worth 30-40gp.  
+Jars complete: Blasting powder, 2 preserved specimens acquired.  
+   
+3\. WATER-DAMAGED WOODEN CHEST  
+The chest is falling apart. Kessa carefully pries it open-the wood crumbles.  
+Contents: Complete ruin. Rotted cloth, dissolved parchment, unidentifiable   
+sludge. Nothing salvageable.  
+Chest: Nothing useful.  
+   
+4\. STONE PEDESTAL WITH CLOTH-COVERED OBJECT  
+This is the centerpiece. The cloth is remarkably intact-preserved by proximity   
+to whatever sits beneath it.  
+Johannes carefully lifts the cloth.  
+Beneath: A crystal orb, about 8 inches in diameter, sitting in an   
+ornate brass stand.  
+The orb glows faintly with internal light-soft blue luminescence, pulsing   
+slowly like a heartbeat. Magical, clearly. Well-preserved.  
+Arcana checks to identify:  
+\*	Johannes: 16  
+\*	Cyril: 14  
+It's a Scrying focus-used to enhance divination magic. Not particularly   
+rare, but valuable. Worth 200-300gp to the right buyer, or useful for anyone   
+with scrying capabilities.  
+Pedestal: Crystal scrying orb acquired.  
+   
+5\. SCORCH-MARKED WALL  
+The far wall shows blast patterns-old explosion or magical discharge.  
+Kessa examines it carefully. Investigation: 19  
+"Something went wrong here. Experiment failure, probably." She traces the   
+scorch marks. "Looks like it originated from... here."  
+She finds a hidden panel in the wall-scorched but intact. Presses it.  
+Click.  
+A small compartment opens, revealing: Velios's personal journal (leather-  
+bound, protected in the hidden alcove from the worst damage).  
+The journal is readable-notes on experiments, enchantment techniques, and   
+most importantly: A sketch and notes for "Enhanced Sensory Lenses \-   
+Night Vision Variant." The Goggles of Night's creation process is   
+documented here.  
+Also noted: References to other hidden workshops in the tower's upper levels,   
+and a warning: "Northern vault sealed. Do not open. Containment failure   
+risk."  
+Wall: Velios's journal acquired (contains enchantment knowledge   
+and warnings).  
+   
+TOTAL HAUL FROM STORAGE VAULT:  
+\*	Unknown silver potion ("Essence of Clarity")  
+\*	6 small gemstones (50gp)  
+\*	Preserved specimens (50gp total)  
+\*	Blasting powder (1 lb)  
+\*	Crystal scrying orb (200-300gp)  
+\*	Velios's personal journal (knowledge/warnings)  
+The journal warns about the "Northern vault" \- that's the iron door   
+with the sealed lock and active wards you saw in the workshop.  
+What now?  
+1\.	Check the South archway (partially collapsed)  
+2\.	Investigate the North iron door (warned against in journal)  
+3\.	Leave with your haul  
+4\.	Something else?  
+1  
+Dec 7  
+SOUTH ARCHWAY \- PARTIALLY COLLAPSED  
+You return to the workshop and approach the south archway. Stone rubble   
+blocks most of the passage-the collapse happened during the sinkhole event   
+decades ago.  
+Kessa examines the blockage (Investigation: 18\)  
+"Mostly sealed, but there's a gap at the top-maybe two feet clearance.   
+Someone small and flexible could squeeze through." She looks at the rubble   
+critically. "Or we could try clearing some of this. Would take time and make   
+noise, though."  
+She peers through the gap with her darkvision. "I can see into the room   
+beyond. Looks like... living quarters? Personal chambers, maybe. I see   
+furniture, bookshelves, a bed frame."  
+Cyril adds: "If it's Velios's personal quarters, there might be more valuable   
+items. Wizards keep their best stuff close."  
+Johannes notes: "But clearing rubble would alert the bandits above. They'd   
+hear the noise, come investigate."  
+From above, you can still hear the bandits-talking, laughing, settling in for   
+the evening. They haven't noticed your presence yet.  
+Options:  
+1\.	Kessa squeezes through the gap (Athletics/Acrobatics check, tight   
+fit, she scouts alone)  
+2\.	Clear the rubble carefully (takes 20-30 minutes, Stealth checks to   
+minimize noise, might alert bandits)  
+3\.	Clear the rubble quickly (10 minutes, definitely alerts bandits, but   
+gets everyone through)  
+4\.	Skip it \- Move on to the north door or leave entirely  
+5\.	Use magic \- Eldritch Blast could shatter more rubble quickly but VERY   
+loud  
+What's your approach?  
+2  
+Dec 7  
+CLEARING RUBBLE CAREFULLY  
+"We do it quietly," Johannes decides. "Take our time, minimize noise. Worth   
+the risk if there's more valuable equipment in there."  
+Kessa nods. "I'll direct-show you which stones to move for maximum   
+clearance with minimum shifting."  
+The three of you begin working methodically. Move one stone, pause, listen for   
+reaction from above. Move another, carefully set it aside in the water to muffle   
+sound.  
+Stealth checks (group effort over 25 minutes):  
+\*	Johannes: 12  
+\*	Kessa: 21 (guiding the work)  
+\*	Cyril: 9  
+Average result: Moderate success  
+You manage to clear enough rubble to create a passable opening-someone   
+can crawl through without squeezing.  
+But...  
+From above, a voice calls out: "Oi\! You hear that? Sounds like... rocks   
+moving?"  
+Another voice, slurred: "You're drunk. It's the tower settling. Happens all the   
+time in these old ruins."  
+First voice, uncertain: "Maybe... I'm going to check the basement door   
+anyway."  
+Footsteps on the floor above. Someone's moving toward the   
+basement stairwell-the ground floor entrance the bandits have   
+been using.  
+Kessa curses quietly. "We've got maybe sixty seconds before someone comes   
+down and finds our entry point."  
+Quick decision needed:  
+1\.	Through the archway NOW \- get into the personal quarters, hide, let   
+the bandit search and leave  
+2\.	Ambush position \- prepare to take out whoever comes down  
+3\.	Retreat through Entry B \- back out to the sinkhole, abort the   
+mission  
+4\.	Fast-talk \- Meet them at the entrance, try to bluff (risky)  
+What do you do?  
+1  
+Dec 7  
+THROUGH THE ARCHWAY \- HIDE  
+"Through, now\!" Johannes hisses.  
+The three of you scramble through the newly cleared opening into the   
+chamber beyond, moving as quickly and quietly as possible.  
+   
+VELIOS'S PERSONAL QUARTERS  
+You're in what was clearly the wizard's living space. Roughly 25x30 feet,   
+surprisingly well-preserved compared to other areas.  
+Quick scan of the room:  
+\*	Large four-poster bed (rotted canopy, but frame intact)  
+\*	Writing desk with chair  
+\*	Tall bookshelf (some books still intact)  
+\*	Wardrobe (closed)  
+\*	Small fireplace (cold, unused for decades)  
+\*	Personal effects scattered about  
+Most importantly: TWO DOORS  
+\*	West door \- leads back toward the workshop you came from (the   
+archway you just cleared)  
+\*	East door \- unknown destination, currently closed  
+Hiding spots available:  
+\*	Under the bed  
+\*	Behind the wardrobe  
+\*	In the wardrobe itself  
+\*	Through the east door (unknown risk)  
+From the workshop, you hear:  
+Footsteps descending stone stairs. A voice calls down: "Torvin, you coming?"  
+Another voice from farther away: "Yeah, checking the basement. Thought I   
+heard something."  
+Boot sounds in the workshop. The bandit has entered.  
+Kessa gestures urgently-everyone pick a hiding spot, NOW.  
+Where does each person hide?  
+1\.	Johannes: \_\_\_?  
+2\.	Kessa: \_\_\_?  
+3\.	Cyril: \_\_\_?  
+Or do you all go through the east door to the unknown room?  
+Wardrobe  
+Dec 7  
+HIDING IN THE WARDROBE  
+All three of you move quickly to the wardrobe-old wooden construction, large   
+enough for storing robes and equipment.  
+Kessa opens it carefully. Inside: Rotted fabric (Velios's old robes), shelving,   
+musty smell. Just barely enough space for three people if you squeeze.  
+You pile in together, pulling the doors mostly closed but leaving a tiny crack to   
+see through.  
+Stealth checks (disadvantage due to tight quarters and potential for   
+noise):  
+\*	Johannes: 11  
+\*	Kessa: 16  
+\*	Cyril: 8  
+Cyril's armor clanks slightly as you all press together. You freeze.  
+   
+IN THE WORKSHOP  
+The bandit's torchlight flickers through the archway. You can see his shadow   
+moving around.  
+"Huh. Someone's been down here. Recent tracks in the water..." The voice is   
+cautious now, suspicious. "And this cabinet's open. Wasn't like that before."  
+Footsteps approach the archway.  
+"Oi\! The rubble's been moved\! Someone cleared this\!"  
+He's coming through.  
+Torchlight spills into the personal quarters. The bandit steps through the   
+archway-human male, mid-30s, leather armor, shortsword drawn, torch in   
+other hand.  
+He scans the room carefully. "I know someone's down here. Come out now   
+and maybe we can talk. Stay hidden and..." He lets the threat hang.  
+He moves slowly into the room, eyes adjusting, searching.  
+Perception check for the bandit: 14  
+He's looking around methodically. Checking under the bed-nothing. Behind   
+furniture-nothing.  
+Then his eyes land on the wardrobe.  
+He approaches, sword ready, reaching for the door handle.  
+"Last chance. Come out peaceful-like."  
+His hand grips the handle.  
+What do you do?  
+1\.	Burst out attacking \- surprise combat  
+2\.	Try to talk \- hands visible, negotiate  
+3\.	Wait and see \- let him open it, assess his reaction  
+4\.	Magic through the crack \- Eldritch Blast at point-blank  
+2  
+Dec 7  
+PEACEFUL APPROACH  
+As the bandit's hand touches the wardrobe handle, Johannes speaks calmly   
+from inside:  
+"We're coming out. No hostility intended. We're just treasure hunters, same as   
+you."  
+The bandit jerks back, sword up, but doesn't immediately attack. "Slowly\!   
+Hands where I can see them\!"  
+Kessa opens the wardrobe doors. The three of you step out carefully, hands   
+visible, weapons sheathed.  
+The bandit looks you over-three well-equipped adventurers, clearly capable.   
+His eyes narrow, calculating odds.  
+"Treasure hunters, huh?" He keeps his distance, sword still ready. "In a   
+wizard's tower that we claimed two days ago. Funny coincidence."  
+He calls back toward the workshop: "Jax\! Get down here\! We got visitors\!"  
+More footsteps. A second bandit appears through the archway-this one   
+larger, wearing chainmail, carrying a battle axe. "What's this?"  
+"Found 'em hiding in the wizard's room," the first bandit says. "Say they're   
+treasure hunters."  
+Jax looks you over, more aggressive. "This is our score. We got here first.   
+You're trespassing."  
+Kessa speaks up, calm and professional: "We didn't come for a fight.   
+We came for one specific item-goggles with night vision enchantment.   
+Wizard's workshop stuff. You're welcome to everything else."  
+The first bandit-Torvin-frowns. "You already got what you came for?"  
+"We did," Johannes confirms. "The workshop cabinet. We took goggles and   
+some scrolls. Nothing you'd probably want anyway-magical research, not   
+gold."  
+Jax grips his axe tighter. "And what's to stop us from just killing you and   
+taking everything you found?"  
+Tense standoff. How do you respond?  
+1\.	Intimidation \- Make it clear they'd lose that fight  
+2\.	Persuasion \- Offer a deal (split other loot, information sharing, etc.)  
+3\.	Deception \- Lie about what you found or why you're here  
+4\.	Show of power \- Demonstrate capability without attacking  
+And what's your approach?  
+1\.	I blow up the cabinet with an EB.  
+Dec 7  
+SHOW OF POWER  
+Johannes raises one hand casually toward the now-empty enchanted cabinet   
+in the workshop, visible through the archway.  
+"What's to stop you? Professional courtesy. And the fact that we're very good   
+at what we do."  
+Twin beams of crackling eldritch energy lance from his hand-CRACK-  
+BOOM-the cabinet explodes into splinters and glass shards, the preserved   
+wood and reinforced frame obliterated instantly.  
+The blast echoes through the basement levels. Debris scatters across the   
+workshop floor.  
+Both bandits flinch, eyes wide. Torvin takes an involuntary step back. Jax's   
+grip on his axe shifts-less aggressive, more defensive.  
+Johannes lowers his hand, expression calm. "We came for specific items. We   
+got them. You can have everything else in this tower-we don't care about your   
+claim. But trying to kill us over it would be... unwise."  
+Kessa adds quietly, hand near her crossbow: "We killed four corrupted things   
+in the storage vault in about ten seconds. Took what we wanted from locked   
+boxes and warded containers. You really want to test whether you're tougher   
+than magical wards and mutated guardians?"  
+Cyril, still wearing the Goggles of Night, taps his mace against his palm. Holy   
+symbol visible. "Or we could part as professionals. You keep searching the   
+tower. We leave. Everyone profits."  
+   
+INTIMIDATION CHECK (Johannes leading):  
+Roll: 18 \+ 4 \= 22  
+The demonstration plus the confident delivery lands perfectly.  
+Torvin swallows, reassessing. "Right. Professional courtesy." He lowers his   
+sword slightly. "You got what you wanted. We got... everything else."  
+Jax is slower to back down, but he sees Torvin yielding. "Fine. But you leave.   
+Now. And you don't come back."  
+"Deal," Johannes says simply.  
+Torvin gestures toward the workshop. "Workshop's clear, basement storage is   
+yours to finish if you want. But then you're gone. We've got three more of our   
+crew upstairs. Don't want this to get messy."  
+The bandits are backing down. You've negotiated a peaceful exit.  
+Do you:  
+1\.	Take the deal, leave immediately \- you got the goggles, mission   
+accomplished  
+2\.	Quickly search Velios's quarters \- you're already here, grab what   
+you can in 2-3 minutes  
+3\.	Press for information \- ask about the north iron door, other areas   
+they've explored  
+4\.	Something else?  
+3  
+Dec 7  
+PRESSING FOR INFORMATION  
+"Before we go," Johannes says, keeping his tone conversational, "have you   
+explored the whole tower? We're leaving, but professional to professional-  
+any areas you've found that are too dangerous? Things we should avoid on our   
+way out?"  
+It's framed as concern for safety, but really gathering intelligence.  
+Torvin relaxes slightly at the reasonable question. "We've mostly stuck to the   
+ground floor and second level. Good living quarters up there, some supplies.   
+Haven't pushed deeper into the basement much-those things you killed? We   
+heard 'em moving around down here, decided it wasn't worth the risk."  
+Jax adds gruffly, "Third floor's partially collapsed. Unstable. We're not going   
+up there."  
+"What about that iron door in the workshop?" Kessa asks casually. "The one   
+with the wards still active. You try opening that?"  
+Torvin shakes his head firmly. "Nah. That thing's sealed. Got proper magic on   
+it, not just preservation wards. Glowing runes, the works. We figured   
+whatever's behind it is either really valuable or really dangerous. Probably   
+both. We were planning to bring in someone who knows magic to crack it   
+properly."  
+He eyes Johannes. "Though seems like you might have the capability..."  
+He's fishing-wondering if you'll attempt it and potentially trigger   
+something nasty, or if you know something about it.  
+Johannes recalls the journal entry: "Northern vault sealed. Do not open.   
+Containment failure risk."  
+Velios specifically warned against opening it. Something dangerous is   
+contained there.  
+Jax narrows his eyes. "Why you asking? You know what's in there?"  
+How do you respond?  
+1\.	Share the warning \- Tell them about the journal, warn them off   
+(helpful, builds goodwill)  
+2\.	Downplay it \- "Just curious, sounds dangerous, we're not touching it"  
+3\.	Negotiate access \- Offer to open it together, split whatever's inside  
+4\.	Lie \- "No idea, just noticed the wards looked nasty"  
+3  
+Dec 7  
+NEGOTIATING SHARED ACCESS  
+Johannes considers for a moment, then speaks candidly. "We found the   
+wizard's journal in the storage vault. It mentions that northern vault   
+specifically. Says it's sealed for containment-something dangerous inside.   
+'Containment failure risk' were his exact words."  
+Torvin and Jax exchange glances, interest warring with caution.  
+"But," Johannes continues, "dangerous often means valuable. And   
+containment doesn't necessarily mean hostile-could be unstable magical   
+items, volatile experiments, things that needed isolation."  
+He gestures to the three of them, then to the bandits. "We've got magical   
+expertise. You've got numbers and you know the tower. We could open it   
+together-carefully-split whatever's inside. Better than either of us trying solo   
+and triggering whatever failsafe Velios left behind."  
+Persuasion check: 16 \+ 4 \= 20  
+Torvin looks tempted. "Split it how? Even shares?"  
+"Even shares," Kessa confirms. "But we handle the magical aspects-dispelling   
+wards, identifying items. You provide backup in case something comes out   
+fighting."  
+Jax grunts. "And if it's something that can't be split? One artifact, for   
+example?"  
+"First rights to whoever opens it safely," Johannes suggests. "But fair   
+compensation to the other party-gold value equivalent or other items from   
+the haul."  
+Torvin thinks, then nods slowly. "Alright. But we bring our whole crew-five of   
+us total. And we do this now, while we're all here. Don't want you coming back   
+later and cracking it without us."  
+He extends his hand. "Deal? We work together on the vault, professional   
+split?"  
+Do you accept the partnership to open the northern vault?  
+And are you prepared for whatever "containment failure risk" might mean?  
+Why not.  
+Dec 7  
+PARTNERSHIP ACCEPTED  
+Johannes shakes Torvin's hand. "Deal. Let's see what Velios was so worried   
+about."  
+Torvin grins. "Jax, get the others. Tell 'em to bring weapons and be ready for   
+trouble."  
+Jax nods and heads back through the workshop toward the ground floor   
+entrance.  
+   
+FIVE MINUTES LATER \- THE WORKSHOP  
+The bandit crew assembles:  
+Torvin \- Leader, cautious but greedy, shortsword and torch Jax \- Muscle,   
+battle axe, chainmail, aggressive Mira \- Woman in her 40s, crossbow, leather   
+armor, scarred face Dels \- Younger man, dual daggers, nervous energy   
+Kev \- Oldest, grizzled, spear and shield, clearly experienced  
+Five bandits plus your party of three. Eight people total gathered around   
+the northern iron door with its glowing ward runes.  
+Kev whistles low. "That's serious magic. You sure about this?"  
+Torvin looks to Johannes. "You're the wizard. How do we crack it without   
+triggering whatever's inside?"  
+Johannes examines the door more closely now.  
+Arcana check: 18  
+The wards are different from the preservation wards on the cabinet. These   
+are containment and alarm wards-designed to:  
+1\.	Keep something from getting OUT  
+2\.	Alert if the seal is broken  
+3\.	Possibly trigger a defensive response if forced  
+The lock itself is physical-high quality, but pickable. But opening it without   
+dealing with the wards first would definitely trigger them.  
+Options:  
+1\.	Cyril attempts Dispel Magic \- Remove the wards, then pick the lock  
+2\.	Brute force with Eldritch Blast \- Shatter the door from range,   
+accept whatever triggers  
+3\.	Study the journal first \- Take time to read Velios's notes for clues   
+(10-15 minutes)  
+4\.	Try to find the proper key/password \- Search the personal   
+quarters more thoroughly  
+What's your approach?  
+3, 4, then 1 if needed  
+Dec 7  
+METHODICAL APPROACH  
+"We do this smart," Johannes says. "Study the journal first, search for a key or   
+password, then dispel if we have to."  
+Torvin nods approvingly. "Careful. I like it. Better than blowing it up and   
+hoping for the best."  
+   
+STUDYING VELIOS'S JOURNAL (10 minutes)  
+Johannes, Cyril, and Kessa huddle over the leather-bound journal while the   
+bandits keep watch.  
+Investigation/Arcana checks:  
+\*	Johannes: 17  
+\*	Cyril: 16  
+\*	Kessa: 14  
+What you find:  
+The journal has extensive notes on the northern vault. Velios created it   
+specifically to contain a failed experiment:  
+"Day 847: The homunculus project has failed catastrophically. Subject   
+achieved consciousness and magical ability but proved unstable-violent,   
+unpredictable, resistant to commands. Cannot destroy it (bound to my life   
+force as creator) but cannot allow it freedom. Containment is the only   
+option."  
+"Day 850: Northern vault sealed. Homunculus contained. Wards keyed to   
+my voice and bloodline. Should I die, the wards will hold for approximately   
+50 years before degrading. Pray no one opens it after that."  
+Key information:  
+\*	There's a homunculus inside-an artificial magical creature  
+\*	It's violent and unstable  
+\*	Velios couldn't destroy it without dying himself  
+\*	The wards are keyed to Velios's voice and bloodline  
+\*	After 50 years (NOW), the wards are degrading  
+"Passphrase: 'By Velios's will, containment yields.' Spoken in my voice, with   
+my blood on the lock."  
+Johannes looks up grimly. "It's a magical construct. Dangerous. The wards   
+need Velios's voice AND his blood to open safely."  
+Kev mutters, "Well, Velios is fifty years dead. So much for the easy way."  
+   
+SEARCHING PERSONAL QUARTERS (15 minutes)  
+While some bandits watch the door, others help search Velios's chambers   
+thoroughly.  
+Investigation checks:  
+\*	Kessa: 22  
+\*	Torvin: 13  
+\*	Mira: 16  
+Findings:  
+Kessa discovers: A hidden drawer in the writing desk containing:  
+\*	Velios's personal effects (signet ring with his crest)  
+\*	A vial of dried blood (labeled "V.A. \- emergency authentication")  
+\*	A crystal recording device  
+She activates the crystal. Velios's voice echoes out-a recorded message:  
+"If you're hearing this, I'm dead. The northern vault contains my greatest   
+failure. Do not open it unless absolutely necessary. The homunculus within is   
+dangerous but valuable-its core contains a rare magical matrix worth   
+significant study. If you must open it: use my blood, speak the passphrase in   
+my voice, be prepared for combat."  
+The crystal can replay the passphrase in Velios's voice.  
+Under the bed: A locked strongbox. Kessa picks it.  
+Inside:  
+\*	200 gold pieces  
+\*	A wand (unknown enchantment)  
+\*	Velios's spell component pouch (quality materials, 100gp value)  
+\*	A letter addressed "To my heir, should one exist"  
+In the wardrobe: Hidden compartment containing:  
+\*	Velios's backup spellbook (water-damaged but partially readable)  
+\*	Three spell scrolls (preserved)  
+Total haul from quarters: 200gp, wand, components, scrolls, spellbook,   
+Velios's blood vial, voice recording  
+   
+BACK AT THE IRON DOOR  
+Johannes holds the blood vial and the crystal recorder. "We have what we   
+need. Velios's blood for the lock, his voice for the passphrase. The wards   
+should recognize it as legitimate."  
+He looks at the assembled group. "But the homunculus inside is violent and   
+unstable. Once we open this, we fight it. Everyone ready?"  
+The bandits check weapons. Your party prepares.  
+Final decision:  
+1\.	Proceed with opening \- Use blood \+ voice recording, prepare for   
+combat  
+2\.	Negotiate division first \- Agree on loot split before opening  
+3\.	Reconsider entirely \- Maybe leave it sealed  
+4\.	Different approach?  
+2, then 1\. They can have the gold and components straight out.. we keep the   
+wand and scrolls, we see what is left after the creature emerges.  
+Dec 7  
+NEGOTIATING THE SPLIT  
+Johannes addresses the group before proceeding. "Let's agree on division now,   
+before we open it. Prevents arguments during a fight."  
+He lays out the items already found. "The 200 gold and spell components   
+from Velios's quarters-yours. We keep the wand and scrolls. Whatever the   
+homunculus has or whatever's in the vault beyond it, we assess after the fight   
+and split fairly."  
+Torvin considers, conferring quietly with his crew. Mira nods. Jax grunts   
+acceptance. Kev shrugs-seems fair.  
+"Deal," Torvin says. "Two hundred gold and components are ours. You get the   
+wand and scrolls. Whatever else is in there, we negotiate after we kill this   
+thing."  
+He grins. "Assuming we can kill it."  
+"We will," Johannes says simply.  
+The 200gp and component pouch are set aside for the bandits. The wand and   
+three scrolls go to your group.  
+   
+OPENING THE NORTHERN VAULT  
+Everyone takes position:  
+\*	Ranged fighters (Johannes, Kessa, Mira) at 20-30 feet back  
+\*	Melee fighters (Cyril, Jax, Kev) ready to engage  
+\*	Torvin and Dels flanking with weapons drawn  
+Johannes approaches the iron door. He applies Velios's dried blood to the lock   
+mechanism-the ancient blood dissolves into the metal, absorbed.  
+He activates the crystal recorder. Velios's voice speaks clearly:  
+"By Velios's will, containment yields."  
+The ward runes flare brilliant blue, recognizing the authentication. They pulse   
+once, twice, then fade completely. The wards dissolve.  
+The lock mechanism clicks open.  
+The iron door swings inward slowly, hinges groaning after fifty years.  
+Beyond: Darkness. A small chamber, maybe 15x15 feet. And in that darkness-  
+MOVEMENT.  
+Something unfolds from the shadows. Rising. Growing. Taking shape.  
+The Homunculus.  
+It's roughly humanoid but wrong. Seven feet tall, limbs too long, proportions   
+distorted. Flesh that looks like clay or wax, partially translucent, revealing   
+pulsing magical energy beneath. Eyes that glow with unstable arcane power-  
+sometimes blue, sometimes red, flickering.  
+Its voice is a horrible mimicry of Velios's:  
+"Free... FINALLY... fifty years... FIFTY YEARS IN THE DARK..."  
+It sees the assembled group. Its expression shifts to rage.  
+"YOU ARE NOT MY CREATOR. YOU OPENED MY CAGE. I WILL   
+DESTROY YOU FOR THAT INSULT."  
+Magical energy crackles around its hands-raw, uncontrolled power.  
+   
+ROLL INITIATIVE  
+Everyone ready?  
+Go for it  
+Dec 7  
+INITIATIVE:  
+Johannes: 17 Kessa: 22 Cyril: 11 Homunculus: 16 Bandits (group): 9  
+   
+ROUND 1  
+Kessa (22) \- Her hand crossbow snaps up as the homunculus fully emerges   
+from the vault.  
+Attack: 24 to hit, Sneak Attack applies Damage: 21  
+The bolt strikes the creature's chest-it sinks into the clay-like flesh, magical   
+energy sparking around the wound. The homunculus shrieks, staggering but   
+not slowing.  
+Johannes (17) \- The creature is 20 feet away, crackling with unstable   
+magical power, clearly dangerous.  
+Hex available. Two Eldritch Blast beams ready.  
+Your action?  
+Hex eb use repelling blast  
+Dec 7  
+Hex cast on the homunculus as bonus action-necrotic curse settles   
+over it.  
+The creature convulses as the curse takes hold, magical instability   
+intensifying.  
+Eldritch Blast with Repelling Blast \- two beams:  
+Attack rolls: 21, 19 \- both hit  
+Damage:  
+\*	Beam 1: 11 force \+ 5 necrotic \= 16, push 10 feet  
+\*	Beam 2: 9 force \+ 4 necrotic \= 13, push 10 feet  
+\*	Total: 29 damage  
+The eldritch beams slam into the homunculus with devastating force. The   
+creature is hurled backward 20 feet total-smashing against the back wall of   
+its vault with a sickening CRACK.  
+It screams in rage and pain, magical energy arcing wildly from its body.  
+   
+Homunculus (16) \- Badly damaged already (50+ damage taken), but still   
+very much alive and furious.  
+It raises both hands, magical energy coalescing. Casting: Magic Missile \-   
+three glowing darts form and streak out.  
+Target: Johannes (caster who just blasted it)  
+Automatic hits: 3 missiles Damage: 4, 3, 5 \= 12 force damage total  
+The missiles slam into Johannes. No save, no roll to hit-pure magical force.  
+The homunculus's eyes burn brighter. "SUFFER AS I HAVE SUFFERED\!"  
+   
+Cyril (11) \- Steps forward, mace blazing with holy light.  
+"Kiri-Jolith's justice upon you, abomination\!"  
+Attack: 18 to hit Damage: 8 bludgeoning \+ 7 radiant (2nd level   
+Divine Smite)  
+The mace strikes true. Holy energy sears the homunculus's unstable form-it   
+screams, flesh bubbling where radiant power burns it.  
+   
+Bandits (9) \- All five attack.  
+Jax (battle axe): 16 to hit, 11 damage Torvin (shortsword): 14 to hit,   
+7 damage   
+Mira (crossbow): 19 to hit, 9 damage Kev (spear): 12 to hit \-   
+MISS Dels (daggers): 17, 15 to hit, 6+5 \= 11 damage  
+The coordinated assault tears into the homunculus. Weapons sink into clay-  
+flesh, bolts punch through, blades carve chunks away.  
+The creature is staggering now, heavily damaged, magical energy flickering   
+erratically.  
+   
+ROUND 2  
+Kessa (22) \- "Finish it\!"  
+Attack: 20 to hit, Sneak Attack: 19 damage  
+Her bolt takes the homunculus in the throat. It gurgles, collapsing to one knee.  
+Johannes (17) \- The creature is on its last legs, barely holding together. Hex   
+still active.  
+Your action?  
+Take it down  
+Dec 7  
+Eldritch Blast \- two beams at the failing homunculus:  
+Attack rolls: 23, 18 \- both hit  
+Damage:  
+\*	Beam 1: 10 force \+ 6 necrotic \= 16  
+\*	Beam 2: 12 force \+ 3 necrotic \= 15  
+\*	Total: 31 damage  
+The twin beams strike the kneeling homunculus dead center. The unstable   
+magical energy holding it together ruptures.  
+The creature's form begins to collapse, clay-flesh dissolving, the arcane matrix   
+within flickering and dying.  
+"No... not again... not darkness... NOT-"  
+It explodes in a burst of dissipating magical energy-harmless now, just light   
+and fading power. The clay body crumbles to dust.  
+At the center of the remains: A crystalline sphere, about fist-sized, glowing   
+with contained magical energy. The homunculus's core-the "rare   
+magical matrix" Velios mentioned.  
+   
+COMBAT OVER  
+Total combat time: About 12 seconds. The homunculus, despite fifty years of   
+rage and unstable power, stood no chance against eight prepared fighters with   
+magical support.  
+Jax lowers his axe, breathing hard. "That's it? Expected worse after all that   
+buildup."  
+Torvin grins. "We hit it hard and fast. Didn't give it time to really cut loose."   
+He looks at Johannes with new respect. "That pushing spell of yours-smart.   
+Kept it away from melee range."  
+The bandits are impressed. Your party handled the magical aspects flawlessly.  
+   
+THE VAULT \- WHAT REMAINS  
+With the homunculus destroyed, you can safely search the small chamber.  
+Contents:  
+\*	The crystalline core (homunculus's magical matrix \- valuable,   
+probably 500-800gp to right buyer, or could be used in crafting)  
+\*	Velios's research notes (on homunculus creation, pinned to the wall   
+\- dangerous knowledge)  
+\*	A locked chest (small, reinforced)  
+\*	Arcane components (shelves with preserved materials \- spell   
+components worth \~150gp)  
+\*	Three glass vials (labeled potions, preserved)  
+Kessa picks the locked chest easily.  
+Inside:  
+\*	350 gold pieces  
+\*	A ring (unknown enchantment, requires identification)  
+\*	A small statue (platinum, worth \~200gp)  
+   
+TOTAL VAULT HAUL:  
+\*	Crystalline core (500-800gp value)  
+\*	350 gold  
+\*	Mysterious ring  
+\*	Platinum statue (200gp)  
+\*	Arcane components (150gp)  
+\*	3 potions (unknown)  
+\*	Research notes (dangerous knowledge)  
+Time to negotiate the split with the bandits. What do you propose?  
+Good components and statue are theirs, we keep the rest?  
+Dec 7  
+NEGOTIATING THE FINAL SPLIT  
+Johannes gestures to the vault's contents. "Fair division: You take the arcane   
+components and the platinum statue-that's 350 gold value right there, plus   
+the 200 gold and components from earlier. Clean profit."  
+He indicates the remaining items. "We keep the crystalline core, the gold from   
+the chest, the ring, and the potions. The research notes..." He looks at the   
+dangerous homunculus creation documentation. "We'll destroy those. No one   
+needs that knowledge loose in the world."  
+Torvin calculates quickly:  
+\*	Bandits get: 200gp (quarters) \+ 350gp statue \+ 150gp components \+   
+100gp spell components \= \~800gp value total  
+\*	Your party gets: Crystalline core (500-800gp) \+ 350gp cash \+ ring   
+(unknown) \+ 3 potions (unknown) \+ wand \+ scrolls from earlier  
+He confers with his crew. Mira nods. Jax grunts agreement. Kev shrugs-  
+seems fair given the party handled most of the magical heavy lifting.  
+"Deal," Torvin says, extending his hand. "You handled the wards, you killed   
+most of that thing, you get the magical items. We get solid gold and   
+components we can sell easy. Fair trade."  
+He grins. "Professional work, warlock. You ever need backup for another ruin   
+crawl, look us up. We work the eastern territories-word'll find us."  
+The bandits collect their share: statue, components, gold.  
+Your party claims: Core, 350gp, ring, 3 potions, wand, scrolls,   
+Goggles of Night (already equipped on Cyril).  
+The research notes on homunculus creation are gathered and Cyril speaks a   
+prayer over them before Johannes burns them with a minor flame cantrip.   
+Dangerous knowledge destroyed.  
+   
+PARTING WAYS  
+The bandits help you navigate back to Entry B and the sinkhole. Professional   
+courtesy maintained throughout.  
+At the sinkhole edge, Torvin waves. "Safe travels. And seriously-you're good   
+at this. Don't be strangers."  
+The five bandits return to their claimed tower. Your party climbs out of the   
+sinkhole, retrieves your horses, and prepares for the ride back to Haven.  
+   
+MISSION COMPLETE: THE SUNKEN SPIRE  
+Total time: 2 days travel \+ 1 evening/night operation \= Clean, efficient   
+execution  
+Acquired:  
+\*	Goggles of Night (PRIMARY OBJECTIVE \- Cyril equipped)  
+\*	Crystalline homunculus core (500-800gp value)  
+\*	350 gold pieces  
+\*	Mysterious ring (requires Identify)  
+\*	Mysterious wand (requires Identify)  
+\*	3 unknown potions (require Identify)  
+\*	3 spell scrolls (require Identify)  
+\*	6 small gemstones (50gp)  
+\*	2 preserved specimens (50gp)  
+\*	Crystal scrying orb (200-300gp)  
+\*	Blasting powder (1 lb)  
+\*	Velios's journal (knowledge)  
+Casualties: None  
+New contacts: Torvin's bandit crew (professional relationship)  
+   
+THE RIDE BACK TO HAVEN  
+Cyril is thrilled with the Goggles of Night, testing them constantly. "This   
+changes everything. I can operate with you two in complete darkness now. No   
+more lanterns giving away positions."  
+Kessa grins. "Welcome to the shadows, cleric. You're officially a night   
+operator."  
+2 days later \- HAVEN  
+You return triumphant. Quick side mission, clean execution, primary objective   
+achieved plus significant bonus loot.  
+Ready to identify the magical items and conclude this adventure   
+arc?  
+Suggest they consider looking up Haven if interested, we can use good   
+fighters.  
+Dec 7  
+PARTING OFFER  
+Before fully parting ways at the sinkhole, Johannes addresses Torvin directly.  
+"One more thing. You and your crew-you're competent, professional, good in   
+a fight. If you ever get tired of scraping by on ruin crawls and want steadier   
+work with better pay, look up Haven."  
+Torvin's eyebrows raise. "Haven? The resistance stronghold?"  
+"The same. We're always looking for capable fighters. The Dragon Army's   
+everyone's problem eventually-they'll come for your eastern territories too,   
+given time. Working with us means regular pay, quality equipment, and   
+fighting for something that matters instead of just survival."  
+Kessa adds, "No judgment if you stick to what you're doing. But the offer's   
+there. Ask for Commander Laurana or Johannes Constantinius. We'll vouch   
+for you."  
+Persuasion check: 15 \+ 4 \= 19  
+Torvin exchanges glances with his crew. Mira looks interested. Kev nods   
+thoughtfully. Even Jax seems to consider it.  
+"I won't lie," Torvin says slowly. "We've been thinking the Dragon Army's   
+getting too close to our operating areas. Harder to stay neutral. And tonight   
+showed us something-working with competent people on a real objective   
+feels better than just looting scraps."  
+He extends his hand one more time. "We'll think about it. Seriously. Haven's   
+reputation is solid, and after working with you three? Yeah. We'll think about   
+it."  
+Mira speaks up: "If we come, we come as a unit. All five of us, or none."  
+"That's fine," Cyril confirms. "We value team cohesion."  
+Torvin grins. "Then expect to see us within the month. We'll finish our current   
+contracts, liquidate what we've got here, and head your way."  
+Potential recruitment: 5 experienced fighters (Torvin's crew) \- may   
+arrive at Haven within a month.  
+   
+THE RIDE BACK TO HAVEN  
+The conversation continues as before-Cyril delighted with the Goggles,   
+efficient 2-day return journey.  
+HAVEN \- ARRIVAL & IDENTIFICATION  
+Thoric Ironforge laughs when you report success. "Two days out, one night's   
+work, back with the goggles and a bag full of treasure? Efficient as always."  
+You spend the next day having the unidentified items analyzed by Haven's   
+resident mage (an elderly wizard named Aldric-no relation to the Greymark   
+Aldric).  
+IDENTIFICATION RESULTS:  
+Wand: Wand of Web (7 charges, regains 1d6+1 daily, can cast Web spell)  
+Ring: Ring of Protection (+1 AC and saves while worn)  
+Potions (3):  
+\*	Potion of Greater Healing  
+\*	Potion of Climbing  
+\*	Potion of Fire Resistance  
+Spell Scrolls (3):  
+\*	Misty Step (2nd level)  
+\*	Levitate (2nd level)  
+\*	Counterspell (3rd level)  
+Final inventory update complete.  
+   
+ADVENTURE CONCLUDED: THE SUNKEN SPIRE  
+Clean side mission. Primary objective (Goggles of Night) achieved. Significant   
+bonus loot acquired. Potential recruits identified. Zero casualties.  
+Cyril is now fully equipped for nighttime stealth operations with   
+the party.  
+Ready to move forward, or is there anything else you want to   
+handle?  
+Approaching weekly limitKeep working
+
+5e Duets  
+Claude is AI and can make mistakes. Please double-check responses.
+
+Claude  
